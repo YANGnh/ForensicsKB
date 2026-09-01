@@ -1,0 +1,21 @@
+# OCR: 668be1cbf3c08a8216aafaf0b3b8c681.jpg
+# 来源: .\02-WriteUp\2024\668be1cbf3c08a8216aafaf0b3b8c681.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+server
+listen 888;
+server_ nane phpmyadmin;
+index Indexc_htnt index htm index_php:
+root /www/server/phpmyadnin:
+location ~ /tmp/ {
+return 403;
+Herror_page 404 /404_html;
+include enable-php_conf;
+—s ~ -*\.(gtfl jpal jpea|png| bmp| swF)$
+expires 30d:
+location - _*\_(js|css)?$
+expires 12h;
+location - 八
+deny all:
+access_log /waw/wwilogs/access-log:

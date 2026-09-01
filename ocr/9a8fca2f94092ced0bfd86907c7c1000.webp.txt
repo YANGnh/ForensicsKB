@@ -1,0 +1,21 @@
+# OCR: 9a8fca2f94092ced0bfd86907c7c1000.webp
+# 来源: .\02-WriteUp\2025\9a8fca2f94092ced0bfd86907c7c1000.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+In [10]: import hashtib
+import base64
+def verify_django_pbkdf2_sha256(password, hashed):
+algorithm, iterations, salt, hash_bé4 = hashed.split('$')
+iterations = int(iterations)
+hash_bytes = base64.bé4decode(hash_b64)
+new_hash = hashlib.pbkdf2_hmac('sha256', password.encode(), salt.encode(), iterations)
+peturn new_hash = hash_bytes
+: target_hash = "pbkdf2_sha256$1000000$0iyKwstlWoZtécvGmjhSFP$gVg7Ds9/KtaSqJSMAHx8eoY 1O1DffpTLCHSLDKSiXgY="
+: with open("d:/Forensics/Crack/dict/password-attacks/top19576.txt", encoding="utf-8", errors="ignore") as f:
+for line in
+candidate = line.strip()
+if verify_django_pbkdf2_sha256(candidate, target_hash):
+print(f“[+] 拖 到 宪 码 {candidate}")
+break
+[+] 拖 到 蛰 码 : 123456

@@ -1,0 +1,7 @@
+# OCR: e39d17f828b99ec5b5df8c9ecb5c079f.jpg
+# 来源: .\02-WriteUp\2024\e39d17f828b99ec5b5df8c9ecb5c079f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+Language @
+Language: [3 偷 阳 -Chinese 一

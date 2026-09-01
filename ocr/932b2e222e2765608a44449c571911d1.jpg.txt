@@ -1,0 +1,8 @@
+# OCR: 932b2e222e2765608a44449c571911d1.jpg
+# 来源: .\02-WriteUp\2024\932b2e222e2765608a44449c571911d1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+<F2> Customize
+/ (STATIC)
+<F12> Shut |

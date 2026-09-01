@@ -1,0 +1,21 @@
+# OCR: cef4ebdb36c3d5116b3f7941ee6fdc3e.jpg
+# 来源: .\02-WriteUp\2024\cef4ebdb36c3d5116b3f7941ee6fdc3e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+[root@wns glee 2
+正霾E 1`f(5
+l'言誉亭簧了》`慧萝『龌!〈]面着反密码 123456
+FAP %: s6wh8tig
+| - 新 宿 周 123456
+[root@wns ~]# bt 14
+BT-Panel default info!
+外 国 面 桥 地 抄 : http://183 214 173.226 -39802/39c115ad
+内 网 靥 板 地 址 : http://192 168 .137.5:39862139c115ad
+username: s6wh8tig
+password: Henke
+If you cannot access the panel,
+release the following panel port [39802] in the security aD
+芳 无 法 访 闭 面 极 , 请 棉 柳 防 火 境 / 安 全 电 是 吾 有 放 行 面 板 [39ge2]
+注 意 眷〕〕茎薹台富丨屠藿'互最仅…生首2欠登〕)琵I亩翼瘀乏庐!‖言'旨正布畜角著要更耳)之 een 闭 请 通 过 M 5 佐 令 修 改 密 码
+[root@wns ~J# []

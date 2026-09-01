@@ -1,0 +1,13 @@
+# OCR: 6bb8c639747de866371b34a7a7b8d5ae.webp
+# 来源: .\02-WriteUp\2025\6bb8c639747de866371b34a7a7b8d5ae.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+C:\Users\Administrator> nslookup -type=mx -query=txt hl.chen.forené 45.79.133.98
+Unknown
+45.79. 133.98
+PS
+ARES BE
+Address?
+ere Unknown 42753) hl.chen.forené: Non-existent domain
+tie 5h Tiler’ Aviad a edereakeuy

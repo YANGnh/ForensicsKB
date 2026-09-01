@@ -1,0 +1,11 @@
+# OCR: a4fd816cbe52fa40d80a25319c615644.jpg
+# 来源: .\02-WriteUp\2024\a4fd816cbe52fa40d80a25319c615644.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+造 件 选 役 Tr = O05 口 sHA- 国 sHA256 Oss 口 CRcsz
+序 吊 文 似 大 4 伯 8 间 E
+〈 2023-09-07 SHA-256:acde19b7b5bb3a65c3606430b092d2159e6ca920fbca060ch648133
+1 A 日 一 鹏 1E01 187G6 E E
+项 B 政 : 1 浩 ReeESH RFF
+余 D RRBZISIEHHS04R eRSRAR

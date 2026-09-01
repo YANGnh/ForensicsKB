@@ -1,0 +1,10 @@
+# OCR: 8c22df90fc18687398e0cbc49f261bbc.jpg
+# 来源: .\02-WriteUp\2024\8c22df90fc18687398e0cbc49f261bbc.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+Base64 国 URL 绥 吊 Unicode JWTARIS 。Hedstmg “HingB “GzIP
+eS E
+SETvGLO8ALgenealog_Ne%3DCWXSAWK5CWMSCphpStudys5CSXSCPHPTulonalk5CXSCwXx5c%5c0Sbsdcfile2f
+Tadt7ea29990235b8d84.php|
+SET GLOBAL general_log_file='C:\iphpStudy\\PHPTutoriaN\www\\06b8dcf11e2f7adt7ea2999d235b8d84.php

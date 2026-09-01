@@ -1,0 +1,35 @@
+# OCR: 30376c3ca98dc672c51240318016122c.webp
+# 来源: .\02-WriteUp\2025\30376c3ca98dc672c51240318016122c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+String b7 = el.c.b(str)5
+Log.d("LoginService", "Username MDS first 6 chars: " + b7);
+String a6 = el.c.a(String.valueOf(9981));
+try {
+if (a6 == null) {
+‘throw new NullPointeréxception("null cannot be cast to non-null type java.lang.String");
+]
+String substring - a6.substring(0, 20)3
+c2ee.d(substring, "(shis as jave-iang. Stein. ing(startindex, endlndex)")s
+Seeing sted = “hetps//137,0.0.:6080/login/™ + B75
+Log.d("Loginservice', "Login URL: * + str):
+玲 e JSOWODject ~ new ISONOEJect()5
+Jsoldbject.put(“use=nane”, str);
+soldbject.put( “passione”, 38r2)s
+5sotdbject.pur( "sa", 67)3
+5oWdbject.pur( "Flag", substeing)s
+Serine 9DlObjeck2 = jsOldbject: tostring()s
+cre. a(gsDdoject2, “Seondbject toSt-3ngt)")5
+y yard = y.f3379e3
+b8 = y.b(“application/jon; charset-utf-8")s
+Cave-e(Jo0I0bject2, n
+Charset charset = g5.8.7816285
+Pattern pattern = 9. #557603
+Charset 97 ~ b8.a(ll);
+if (a7 = mull) {
+String t = be + "5 charsetutf-8"s
+caieve(strd, “Sehisstovediatypeorill”)s
+try {
+yar |
+.b(stra) 5

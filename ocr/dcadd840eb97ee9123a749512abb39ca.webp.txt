@@ -1,0 +1,21 @@
+# OCR: dcadd840eb97ee9123a749512abb39ca.webp
+# 来源: .\02-WriteUp\2025\dcadd840eb97ee9123a749512abb39ca.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+F encrypt_file(self, input_file, output_file=tione):
+if not output_fil
+output_file = input_file + ‘enc’
+try:
+cipher = AES.new(self.enhanced_key, AES.MODE_CB
+iv = cipher.iv
+with open(file=input_file, mod
+file_data = f.read()
+padded_data = self.pad_data(data-File_data)
+encrypted_data - cipher.encrypt (padded_data)
+with open(File=output_file, mode='wb') as #2
+| Faviteliv + energpted data)]
+return (True, output_file)
+except Exception as e!
+return (False, str(object=e))
+rb’) as #2

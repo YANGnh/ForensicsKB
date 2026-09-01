@@ -1,0 +1,47 @@
+# OCR: bf08290ed5acb3efe56026e03c09d75f.webp
+# 来源: .\02-WriteUp\2025\bf08290ed5acb3efe56026e03c09d75f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+用 dns && ip.dst == 192.168.7.4
+No.
++
+(vive
+Time Source Destination
+9396 2025-02-04 61:32:47.766873Z Android.local 192.168.7.4
+Frame 9396: Packet, 526 bytes on wire (4288 bits), 526 bytes captured (4208 bits)
+Ethernet II, Src: Android.local (@8:00:27:d3:c1:5c), Dst: Android.local (1c:bf:ce:ac:47:08)
+Internet Protocol Version 4, Src: Android.local (192.168.1.3), Dst: 192.168.7.4 (192.168.7.4)
+Transmission Control Protocol, Src Port: 53, Dst Port: 38971, Seq: 1, Ack: 54, Len: 460
+Domain Name System (response)
+Length: 458
+Transaction ID: @x8455
+> Flags: @x848@ Standard query response, No error
+Questions: 1
+Answer RRs: 14
+Authority RRs: 6
+Additional RRs: 1
+Queries
+> cs-corp.cd: type AXFR, class IN
+Answers
+cs-corp.cd: type SOA, class IN, mname nsi.cs-corp.cd
+cs-corp.cd: type NS, class IN, ns 192.168.1.3
+cs-corp.cd: type MX, class IN, preference 10, mx cs-corp.cd
+cs-corp.cd: type A, class IN, addr 192.168.1.3
+admin.cs-corp.cd: type A, class IN, addr 192.168.1.3
+auth.cs-corp.cd: type A, class IN, addr 192.168.1.3
+www.al.dev.cs-corp.cd: type A, class IN, addr 192.168.1.3
+download.cs-corp.cd: type A, class IN, addr 192.168.1.3
+ftp.cs-corp.cd: type A, class IN, addr 192.168.1.3
+internal.cs-corp.cd: type A, class IN, addr 192.168.1.3
+mail.cs-corp.cd: type A, class IN, addr 192.168.1.3
+office.cs-corp.cd: type TXT, class IN
+sysmon.cs-corp.cd: type A, class IN, addr 192.168.1.3
+cs-corp.cd: type SOA, class IN, mname nsi.cs-corp.cd
+~ Additional records
+> <Root>: type OPT
+Request In: 9394
+[Time: 1.010000 milliseconds]
+Protocol
+DNS
+L

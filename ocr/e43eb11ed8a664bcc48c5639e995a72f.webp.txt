@@ -1,0 +1,59 @@
+# OCR: e43eb11ed8a664bcc48c5639e995a72f.webp
+# 来源: .\02-WriteUp\2025\e43eb11ed8a664bcc48c5639e995a72f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+[G@\v Ba| PVA
+[a ROOT
+GB ActivationBroker
+BD ControtSet001
+GB DiiverDatabase
+团 HardwareConfig
+团 ma
+G Keyboard Layout
+团 Maps
+(@ MountedDevier=
+(Gi ResouceMan, § Data View
+@ PesourcePalic
+团 PNG
+G Select
+@ Setup
+GB Software
+团 See
+团 Ws
+@ wr
+REG_BINARY Summary
+Value name
+\DosDevices\F:
+Value
+\DosDevies\C:
+\7\Volume45871589-1306-110
+8 \DosDevioes\D:
+\DosDevices\E:
+8 oroometersuratstno
+\DosDevices\F:
+Type
+REG_BINARY
+REG_BINARY
+REG_BINARY
+REG_BINARY
+REG_BINARY
+REG_BINARY
+Data
+44 4D 49 4F 34,49 44 94 D5 D7 B2DD CC 68.94 44.93 24 99 92 71 38 29 0
+5C 00 3F 00 3F 00 SC 00 §3 00 43.0053 00 49.00 23:00 43:00 64 00 62 006
+5C 00 3F 00 3F 00 SC 00 63 00 43.0053 00 49.00 23:00 43:00 64 00 62 006
+44 4D 49 4F 34,49 44 94 23 95 0D 84 A1 AA 64 46 9A 8002.97 CB 1A.A4 D
+156 65 72.81 43 727970 74 56 GF BC 756D 85 48
+156 85 72.61 43727970 74 56 GF BC 786D 85 45
+=
+Start Offset
+Position
+Selection
+‘Numbers
+6
+6
+6
+5 0405 0607 0805 OAOB OCOD OEOF 0
+/456795ABCDEF
+7970 T EE T E WeraCrypeVolumeF

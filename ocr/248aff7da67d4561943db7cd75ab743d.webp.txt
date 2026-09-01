@@ -1,0 +1,28 @@
+# OCR: 248aff7da67d4561943db7cd75ab743d.webp
+# 来源: .\02-WriteUp\2025\248aff7da67d4561943db7cd75ab743d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+cit 2 etras c
+国 reared - 记 标 本
+文 作 ( “ 编 缓 ( 桃 弋 [0) 查 看 (0 席 助 (H)
+- Display the scripts which are run at entry (Thanks to Michael Gillespie @ malwarehunterteam for the feature request)
+Version 2.0 (March 26, 2020)
+- Project migrated to github
+- Supports pyinstaller 3.6
+- Added support for Python 3.7, 3.8
+- The header of all extracted pyc’s are now automatically fixed
+from _ future_ import print_function
+import os
+import struct
+import marshal
+import zlib
+import sys
+from uuid import uuid4 as uniquename
+class CTOCEntry:
+def _ init_(self, position, cmprsdDataSize, uncmprsdDataSize, cmprsFlag, typeCmprsData, name):
+self.position = position
+self.cmprsdDataSize = cmprsdDataSize
+self.uncmprsdDataSize = uncmprsdDataSize
+calf rmnrcFlan — emnrcFlan
+筱 89 行 , 筹 1 列 100%

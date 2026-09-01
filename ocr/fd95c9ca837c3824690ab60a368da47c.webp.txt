@@ -1,0 +1,14 @@
+# OCR: fd95c9ca837c3824690ab60a368da47c.webp
+# 来源: .\02-WriteUp\2025\fd95c9ca837c3824690ab60a368da47c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+elect upline_id, count(member_id) nums
+from hierarchy
+roup by upline_id
+der by nums desc
+init 1;
+团 梁 GB Result 38 *
+He GOB # QAR
+(upline_id ¥ : (nuns 了 5
+909748 18

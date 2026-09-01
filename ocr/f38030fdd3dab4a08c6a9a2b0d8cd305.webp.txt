@@ -1,0 +1,24 @@
+# OCR: f38030fdd3dab4a08c6a9a2b0d8cd305.webp
+# 来源: .\02-WriteUp\2025\f38030fdd3dab4a08c6a9a2b0d8cd305.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+© 59/72 security vendors flagged this file as malicious, C Reanalyze = Similarv More v
+2 fBe1dfe8cdf8321780FF085S8cdaf834d6981354054646347¢4e783121a31e97 size LnstnaWssDate
+2fb6cd83-7fdc-4cc0-9975-fddb588b691a.tmp 172.59 KB 29 minutes ago DLL
+Community
+P peal overlay detect debug-environment
+DETECTION DETAILS RELATIONS. BEHAVIOR COMMUNITY
+checks.
+our Community and enjoy additional cormmunity insights and crowdsourced detections, plus an API key to autor
+Popular threat label © trojen.mmeterpreter/marte Threat categories trojan pus __hacktool Familylabels neepeer marte __shelleode
+Security vendors' analysis @ Do you want to automate checks?
+Acronis (Static ML) © suspicious AhnLab-V3 © Backdoor/Win.Meterpreter.R578801
+AliCloud © Exp:win/Meterpreter.51b00d96 AlYac © Generic. ShellCode.Marte.2.97F14F98
+Antiy-AVL, © Trojanwin32.zenpak.ger| Arcabit © Generic.shelicode.Marte.2.97F14F98
+Arctic Wolf © Unsafe Avast © Wins2mstshel-J [11]
+AVG © wins2imsfshettJ [T] (no cloud) © tRyDropper.Gen2
+BitDefender © Generic.shellCode.Marte.2.97F14F98 Bkav Pro © wa2.AldetectMalware
+Clamav © Win.exploit. Meterpreter-9777172-0 CrowdStrike Falcon © Win/maticious_confidence_100% (W)
+cx © Diltunknown.marte Cynet © Malicious (score: 100)
+Deepinstinct © wWucous Drweb © BackDoor-Meterpreten274

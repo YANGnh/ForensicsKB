@@ -1,0 +1,31 @@
+# OCR: 1306a18f1acc723970360dec2f7d5090.webp
+# 来源: .\02-WriteUp\2025\1306a18f1acc723970360dec2f7d5090.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+Pp 暗 1. 计 算 机 检 材 .EO1 > 章Wi|′11〔〕董重矢口 固 Windows.Defender:SecurityCenter
+门 丢 序 号
+1X
+2x
+3 主
+= 发 送 时 间
+起 始 结 束
+2025-10-09 19:45:41
+2025-10-09 19:41:53
+2025-10-09 19:45:26
+Vv
+裂 息 内 容
+过 滑
+威 股 扫 描 信 息 Windows Defender 防 病 毒 无 法 完 全 消 除 潜 在 威 股 。
+发 现 威 胁 Windows Defender 防 病 毒 发 现 威 股 。 获 取 详 细 信 息 。
+发 现 威 胁 Windows Defender 防 病 毒 发 现 威 胁 。 获 取 详 细 信 息 。
+在 Windows.Defenders Q | BBR
+= 源 应 用 程 序
+VY 过 滤 T
+Windows.Defender....
+Windows.Defender....
+Windows.Defender....
+山
+设
+置
+列

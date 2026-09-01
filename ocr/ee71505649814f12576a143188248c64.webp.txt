@@ -1,0 +1,57 @@
+# OCR: ee71505649814f12576a143188248c64.webp
+# 来源: .\02-WriteUp\2025\ee71505649814f12576a143188248c64.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+4
+password’, { fo
+Password’, { forma
+var plaintext
+var plaintext
+CryptoJS. 1b. PasswordBasedCipher .decrypt (CryptoJS.algo.AeS, formattedCiphertext
+CryptoJS. 1ib.PasswordBasedCipher .decrypt (CryptoJS.algo.AeS, ciphertextParans,
+1
+decrypt: function (cipher, ciphertext, password, cfg) (
+11 apply contig defaults
+cfg = this.ctg.extend(cfg);
+cipher = {keySize: 8, doReset: f, encryptBlock: f, decryptBloc
+cfg = (Ssuper: {.}, iv: {.}, init: J)
+11 Convert string to CipherParans
+ciphertext = this._parse(ciphertext, cfg.format); ciphertext = {Ssuperi {.}, ciphertext: (.), salt: (.}, init: f},
+11 Derive key and other params
+var derivedParams = cfg-kdf.execute(password, cipher-keySize, cipher.ivSize, ciphertext.salt); derivedParams = {$st
+川 Add iy to contig
+cfg.iv = derivedParams.i\ E
+1 c = {Ssuper: (.}, av: {.}, init: J), derivedParams = (Ssuper: {.), key: (2
+/ Decrypt
+北 eeeememmeeremmemmmemeeeemeeemcgs
+return plaintext;
+| 03 Unsse Column 57
+(From popups) Coverage: n/a
+F cipher-corejs x enc-base64js __encryptionts cores __evpkdfjs__‘lib-typedarraysjs__md5js__globals_-—-modulejs 义 团 生 ter
+。 世 aper C
+一 y Ssuper: {cfg: (.}, blockSize: 4, reset: f, doProcessBlock: f, _doFinalize: f,
+» decryptBlock: f (t,e)
+> encryptBlock: f (t,e)
+yn 了 0
+keySize: 8
+> doCryptBlock: f (t,e,r,n,i,0,5,a)
+> _doReset: f ()
++ [[Prototype]]: Object
+{Ssuper:
+(, init: fi
+}, ciphertext: ( salt
+1snper (init: f, toString: f, concat: f, clamp: f, clone: f,
+panit: f 0)
+sigbytes: 15
+words: (4) [355300631, 1773422441, 1070554565, -909582375]
+»Ssuper: (init: f, toString: f, concat: f, clamp: f, clone: f,
+panit: f 0)
+32
+(12) [-276853052, -1081406501, -1850561799, 1402755813, -1734454154,
+p Ssuper: (init: f, toString: f, concat: Jf, clamp: f, clone: f,
+pante: £0)
+sigbyte
+) [[Prototype]
+) [[Prototype]
+password: "123456' +

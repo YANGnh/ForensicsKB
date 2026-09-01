@@ -1,0 +1,33 @@
+# OCR: 59e37ca92545f671d9f408c181e984d6.webp
+# 来源: .\02-WriteUp\2026\59e37ca92545f671d9f408c181e984d6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+[root@master@1 network-scr ipts ]# ls
+tfcfg-ens33 “ifdown-ippp ifdown-routes
+ifcfg-lo ifdown-ipv6 ifdown-sit
+ifdown ifdown-isdn ifdown-Team
+tfdown-bnep ifdown-post ifdown-TeamPort
+ifdown-eth ifdown-ppp ifdown-tunnel
+[root@master@1 network-scripts]# pwd
+/etc/sysconfig/network-scripts
+ifup
+ifup-aliases
+ifup-bnep
+ifup-eth
+ifup- ippp
+ifup-ipv6
+ifup-isdn
+ifup-plip
+ifup-plusb
+ifup-post
+ifup-ppp
+ifup-routes
+ifup-sit
+ifup-Team
+ifup-TeamPort
+ifup-tunnel
+ifup-wireless
+init. ipv6-global
+network-functions
+network- functions - ipv6

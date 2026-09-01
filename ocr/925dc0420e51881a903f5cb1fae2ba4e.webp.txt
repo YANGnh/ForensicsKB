@@ -1,0 +1,43 @@
+# OCR: 925dc0420e51881a903f5cb1fae2ba4e.webp
+# 来源: .\02-WriteUp\2025\925dc0420e51881a903f5cb1fae2ba4e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+Aocpm
+Jy 22 E 3 ye
+OG. = ete FEA \
+35. = pamd 55 e
+目 d H ascii_unix \etc\pamd
+1 E | chpasswd Fan, BES ascii_unix \etc\pamd
+1 chsh H ascii_unix \etc\pamd
+1 5] common-account aM, BES ascii_unix \etc\pamd
+1) common-auth H ESS e \etc\pamd
+41 common-password H \etc\pamd
+i _Jcommon-session FEN \etc\pamd
+i Jcommon-session-noninteractive FE \etc\pamd
+i ern FEN \etc\pamd
+41 login H \etc\pamd
+i Jnewusers FEN \etc\pamd
+i other FEN \etc\pamd
+Si passwd FEN \etc\pamd
+Sj Jrunuser FEN \etc\pamd
+一 3 [Dxe Ome | Swe | 日 eee | Slate |= sons E
+Offset o 12 3 4 5 6 7 8 9 A BC DE F
+000002A0 61 75 74 68 2D 75 70 64 61 74 65 28 38 29 20 66 Buth-update (8) E
+00000280 6F 72 20 64 65 74 61 69 6C 73 28 0 0 0 23 20 or details. #
+000002c0 F8 87 AA ES AE 9A F4 89 89 27 99 8B 25 8D 95 25 自 定 义 发 录 宿
+00000200 AF 86 E7 AO 81 EF BC 88 62 63 72 79 70 74 EF c 码 〔 berypt) F
+000002E0 89 0A 61 75 74 68 20 20 20 20 72 65 71 75 69 72 | auth requir
+000002F0 65 64 20 20 20 20 70 61 6D SF 70 77 64 66 69 6c ed pam_pwdfil
+00000300 65 2F 73 6F 20 20 20 20 SC 0 20 20 20 20 20 20 e.s0 \
+00000310 20 20 20 20 20 70 77 64 66 69 6c 65 3D 2F 65 74 pwdfile=/et
+00000320 63 2F 6D 79 5F 74 77 GF SF 66 61 63 74 6F 72 SF c/my_two_factor_
+00000330 70 77 64 66 69 6C 65 20 SC 0 20 20 20 20 20 20 pwdfile \
+00000340 20 20 20 20 20 63 72 79 70 74 3D 62 63 72 79 70 crypt=beryp
+00000350 74 20 20 20 20 20 20 20 5c 0 20 20 20 20 20 20 t \
+00000360 20 20 20 20 20 70 72 6F 6D 70 74 3D 22 6c 6F 67 pzcmp
+00000370 69 6g 20 70 61 73 73 77 GF 72 64 3A 20 22 0A OA in password
+00000380 23 20 F4 BF 9D E7 95 99 E8 83 BD ES 8A 9B 26 8F # 保 国 能 力 提
+00000390 90 ES 8p 87 R6 A8 Al ES 9D 97 0A 6175 74 68 20 , 升 *# HR auth
+000003A0 20 20 20 6F 70 74 69 GF GE 61 6c 20 20 20 20 70 optional B
+00000380 61 6D SF 63 61 70 28 73 GF 0 OA 00 00 00 00 00 am_cap.so

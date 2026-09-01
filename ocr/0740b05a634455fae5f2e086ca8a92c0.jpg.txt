@@ -1,0 +1,20 @@
+# OCR: 0740b05a634455fae5f2e086ca8a92c0.jpg
+# 来源: .\02-WriteUp\2024\0740b05a634455fae5f2e086ca8a92c0.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+vm-101-disk-0.qcow2
+口 全 河
+口
+许 # EE 史 U
+E
+口 3
+口
+口
+口
+口
+口
+口
+口
+口
+口

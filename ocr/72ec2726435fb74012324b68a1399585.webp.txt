@@ -1,0 +1,16 @@
+# OCR: 72ec2726435fb74012324b68a1399585.webp
+# 来源: .\02-WriteUp\2024\72ec2726435fb74012324b68a1399585.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+| © ‘Storage properties x
+Storage type Virtual RAID
+| Name
+‘Capacity
+Sectors (894 826 752
+| Device serial number F 268070 1684F 19624EDF44FD00A66358
+| Path | Basic RAID
+| Sector size bytes) |512
+Heads |255
+Sectors 63
+Cylinders | 55701

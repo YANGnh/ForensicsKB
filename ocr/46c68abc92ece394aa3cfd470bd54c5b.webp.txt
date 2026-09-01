@@ -1,0 +1,79 @@
+# OCR: 46c68abc92ece394aa3cfd470bd54c5b.webp
+# 来源: .\02-WriteUp\2025\46c68abc92ece394aa3cfd470bd54c5b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+伟 lognphp x
+E
+20
+26
+27
+28
+29
+s6
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+亿
+42
+43
+44
+45
+46
+47
+48
+49
+se
+sa
+52
+53
+E
+55
+56
+多
+58
+5
+s6
+61
+62
+63
+《
+《
+}
+/
+return $this->fetch();
++ ERE
+* @return string
+0
+public function login()
+《
+if ($this->request->isPost()) 〈
+$data = $this->request-ronly([‘username'’, ‘password’, ‘verify']);
+$validate_result = $this->validate($data, ‘Login');
+if ($validate_result I= true) {
+$this-rerror($validate_result);
+} else {
+$uhere[ ‘ password" ] password'] . Config: :geti
+$admin_user = Db: :name(’admin_user' )->Field('id,username, status’ )->where($where)->Find();
+if (lempty($admin_user)) {
+if ($admin_user["status'] != 1) {
+$this->rerron(* “iil EAR");
+} else {
+Session: :set(‘admin_id', $admin_user['id’]);
+Session: :set(‘admin_name’, $admin_user[ ‘username']);
+n_user')->update(
+“last_login_time’ => date(‘Y-m-d H:i:s', time()),
+*last_login_ip' => $this->request->ip(),
+tid’ => $admin_user['id"]
+1
+)
+$this->success(* ERI)", *admin/index/inde
+} F
+} else ff

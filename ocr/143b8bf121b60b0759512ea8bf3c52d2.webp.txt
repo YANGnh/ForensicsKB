@@ -1,0 +1,35 @@
+# OCR: 143b8bf121b60b0759512ea8bf3c52d2.webp
+# 来源: .\02-WriteUp\2024\143b8bf121b60b0759512ea8bf3c52d2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+REN) BAH)
+4h s
+“auto”;
+console.show();
+console. log("BEA/N...")5
+console.setSize(100, 100);
+sleep(1000) ;
+console. log( "HEH. ..");
+console.setPosition(@, 200);
+8  sleep(1000);
+for(var i = 1; i < 10000 ;i++)
+log("www. laixi.app”);
+)
+log(" Views: "+ 4 )
+1 sleepTime = randomRangeTime(7, 20);
+5 log(" @Time:” + sleepTime/1000 +
+1 sleep(sleepTime) ;
+` // slidingByLine();
+slidingByCurve();
+)
+3 leg(redt
+sleep(2000) ;
+console.hide();
+// 每 个 视 领 随 机 时 吾 7-26s random time 7-20s
+ds
+pe
+s * MPE
+丫
+珂 图 function slidingByLine(){|
+滴 动 , 限 机 坂 标

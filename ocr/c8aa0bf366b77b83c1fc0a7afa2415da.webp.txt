@@ -1,0 +1,68 @@
+# OCR: c8aa0bf366b77b83c1fc0a7afa2415da.webp
+# 来源: .\02-WriteUp\2025\c8aa0bf366b77b83c1fc0a7afa2415da.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+/nhome/king/nginx-proxy/nginx/conf.d
+] 园 口 [ [gl[e[J
+binusris-merged
+boot
+cdrom
+dev
+etc
+home
+i king
+, 国 cache
+E
+mysql
+nginx-proxy
+> Il logs
+国 nginx
+国 confd
+© docker-composeym!
+> i test
+一 web-api
+口 bash history
+白 bash logout
+[1 cbashre
+口 profile
+Ly -sudo_as_admin_successful
+=
+gllal J (e)-J)[8) | 巳 H 国 aar
+1 Server f _
+2 listen 805
+5 server_name api-server.com;
+4
+5 access_log /var/log/nginx/api-server-access-log main;
+5 error_log /var/log/nginx/api-server-error.log warn;
+7
+s location / 〈
+9 proxy_pass http: //172.16.10.254:3000;
+u proxy_http_version 1.15
+a proxy_set_header Upgrade $http_upgrades
+2 proxy_set_header Connection “upgrade”;
+园 proxy_set_header Host Shost;
+14 proxy_set_header X-Real-IP $remote_addrs
+45 Proxy_set_header X-Forwarded-For $proxy_add_x forwarded for
+16 proxy_set_header X-Forwarded-Proto $schemes
+D Proxy_connect_timeout 605;
+18 Proxy_sendtimeout 605;
+19 Proxy_read_timeout 605;
+20 ‘send_timeout 60s;
+a )
+2 +
+23
+24
+“Entrypoint": [
+"/docker-entrypoint.sh”
+-conftg-hash“: “"b4e1525a4f828dcee04e52e7edf23F9CF74C
+-contatner-nurber「
+"com.docker compose.
+£657ee9d723d7bef61179e1e1e485" ,
+"com. docker .compose.
+"com.docker -compose.
+"com. docker .compose. project .config 1 * [home /king/nginx-proxy /dock
+er-conpose yn’
+.compose project.working_dir": "/home/king/nginx-proxy"
+.compose servt 1
+“compose _

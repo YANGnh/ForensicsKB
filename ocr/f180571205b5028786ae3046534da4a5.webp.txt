@@ -1,0 +1,22 @@
+# OCR: f180571205b5028786ae3046534da4a5.webp
+# 来源: .\02-WriteUp\2025\f180571205b5028786ae3046534da4a5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+Command> shell
+! WARNING WARNING WARNING !!!! ----------
+Your use of "pi shell" has been logged!
+The "pi shell" is intended for advanced troubleshooting operations and while
+supported in this release, is a deprecated interface, and may be removed in a
+future version of the product. For alternative commands, exit the "pi shell"
+and run the "help" command.
+The "pi shell" command launches a root bash shell. Commands within the shell
+are not audited, and improper use of this command can severely harm the
+system.
+Help us improve the product! If your scenario requires "pi shell," please
+submit a Service Request, or post your scenario to the
+https: //communities.vmware.com/community/vmtn/vcenter/vc forum and add
+"appliance" tag.
+sso-user@vcsa [ ~ ]$ uname -a
+Linux vesa.pgs.cup 5.10.233-2.ph4 #1-photon SMP Fri Jan 24 09:5
+3 UTC 2025 x86_64 GNU/Linux

@@ -1,0 +1,8 @@
+# OCR: f43e24f1cc6021afd0a99aa025a7191f.webp
+# 来源: .\02-WriteUp\2024\f43e24f1cc6021afd0a99aa025a7191f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+[root@iZbpigma2uf9hvsnbugmdkZ admin}# find ./ -type f -exec sed -i 's/47.96.140_186/192.168.71.146/4
+0
+[root@iZbpigma2uf9hvsnbu9mdkZ admin]it

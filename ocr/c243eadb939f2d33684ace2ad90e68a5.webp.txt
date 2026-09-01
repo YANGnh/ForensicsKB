@@ -1,0 +1,15 @@
+# OCR: c243eadb939f2d33684ace2ad90e68a5.webp
+# 来源: .\02-WriteUp\2025\c243eadb939f2d33684ace2ad90e68a5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+c:\ m™m™s>nslookup -type=A blog.chen.foren6
+服 务 器 : dns1.hnsdns.com
+Address: “139.144.68.241
+非 权 威 应 答 :
+名 称 : chewhaoN .github .io
+Addresses: 185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+Aliases: blog.chen.foren6

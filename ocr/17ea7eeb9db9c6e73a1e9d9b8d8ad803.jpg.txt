@@ -1,0 +1,11 @@
+# OCR: 17ea7eeb9db9c6e73a1e9d9b8d8ad803.jpg
+# 来源: .\02-WriteUp\2024\17ea7eeb9db9c6e73a1e9d9b8d8ad803.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+“ 门 FNES
+information schema
+GB mysql
+@ performance schema
+园 s
+B test

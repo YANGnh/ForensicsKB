@@ -1,0 +1,8 @@
+# OCR: d7909b70ebe7b1102af0b9bfa0fec387.jpg
+# 来源: .\02-WriteUp\2024\d7909b70ebe7b1102af0b9bfa0fec387.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+a 202328
+n E
+ie d'une chute (2023)

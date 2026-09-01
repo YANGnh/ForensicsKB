@@ -1,0 +1,30 @@
+# OCR: 10ecfe56739296e6cab6b4c0f2cf6b87.jpg
+# 来源: .\02-WriteUp\2024\10ecfe56739296e6cab6b4c0f2cf6b87.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+[rooteserver ~]# bt
+See eee
+( 重 看 面 桥 服 务 (8) 改 页 板 端 口
+(2) 倬 止 顶 枭 服 务 (9) 清 除 面 极 绥 孙
+(3) 局 劣 顶 枭 服 务 (16) 渊 除 登 录 限 刻
+(4) 章 教 坤 枢 服 务 G1) 叟 消 入 口 降 制
+(5) 惟 改 颜 枢 宿 码 (12 取 浚 统 名 绕 定 限 制
+(6) 修 改 面 梅 用 户 名 G3) HRP yi el
+C7) 强 浑 修 改 Mysq 界 码 (14〉 查 看 面 枝 默 认 信 息
+(22 EMEA Cs) RRA
+(23) 关 闯 Basichuth 认 证 C16) 惟 复 留 板 ( 检 林错 误 并 更 新 面 板 文 件 刹 最 新 版
+(24) 关 闭 谷 歇 介 证 _ G7) 设 罪 日 虹 切 剩 春 吾 传 缉
+(25) 铁 置 是 吾 保 伯 文 件 历 史 制 札 (18) 设 箍 是 吾 自 动 备 份 面 桥
+(0) 取 消
+请 输 入 和 令 编 号 : 14
+正 在 执 行 (14)-..
+curl: (28) Resolving timed out after 10523 milliseconds
+BT-Panel default info
+外 团 面 桥 地 抄 http://:8888/12345678
+内 网 靥 板 地 址 http-//192 168 47.133-8888112345678
+username: hl123
+password: 736aac7d
+If you cannot access the panel,
+release the following panel port eal in the security group
+若 无 法 访 问 面 极 , 请 检 查 防 火 墙 / 安 全 是否有】董i忆肴T面槽反[餐县餐甚【薹【薹]蘑曹菩口

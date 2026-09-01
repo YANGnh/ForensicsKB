@@ -1,0 +1,8 @@
+# OCR: 072efdd89010266c84dc7aea332b36b1.jpg
+# 来源: .\02-WriteUp\2024\072efdd89010266c84dc7aea332b36b1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+Microsoft Windows [ 朋 本 10.0. 19045. 4291]
+(c) Microsoft Corporation, 俐 留 所 帚 权 利
+: Windows \system32>.

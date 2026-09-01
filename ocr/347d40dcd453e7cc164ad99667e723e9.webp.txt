@@ -1,0 +1,42 @@
+# OCR: 347d40dcd453e7cc164ad99667e723e9.webp
+# 来源: .\02-WriteUp\2024\347d40dcd453e7cc164ad99667e723e9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+Time Source Destination Protocol Length Info
+16 7.134143 192.168.22.1 192.168.22.139 HTTP. 354 GET /login.php/ HTTP/1.1
+53 7.146532 (192. 168.22.139 192, 168.22.1 HTTP, 1157 HTTP/1.1 200 OK (text/html)
+547.157417  192.168.22.1 192. 168.22.139 HTTP. 4Q6 GET /login.php/mCOKeG HTTP/1.1
+91 7.178217 192. 168.22.139 192.168.22.1 HTTP. 1093 HTTP/1.1 20@ OK (text/html)
+927.179671 192. 168.22.1 192.168.22.139 HTTP. 406 GET /login.php/pB2pht HTTP/1.1
+129 7.192960 192. 168.22.139 192.168.22.1 HTTP. 1093 HTTP/1.1 208 OK (text/html)
+130 7.494394 192.168.22.1 192.168.22.139 HTTP. 4@6 GET /login.php/773FMW HTTP/1.1
+167 7.208782 192.168.22.139 192.168.22.1 HTTP. 1093 HTTP/1.1 20@ OK (text/html)
+168 7.210239 192. 168.22.1 192.168.22.139 HTTP. 406 GET /login.php/Nvo@mL HTTP/1.1
+205 7.239943 192.168.22.139 192.168.22.1 HTTP. 1093 HTTP/1.1 208 OK (text/html)
+206 7.241351 192. 168.22.1 192.168.22.139 HTTP. 407 GET /login.php/.onlfrS HTTP/1.1
+243 7.270872 192.168.22.139 192.168.22.1 HTTP. 1093 HTTP/1.1 20@ OK (text/html)
+244 7.272286 192.168.22.4 192.168.22.139 HTTP. 4Q6 GET /login.php/qT8pPt HTTP/1.1
+281 7.287000 192.168.22.139 192.168.22.1 HTTP. 1093 HTTP/1.1 20@ OK (text/html)
+282 7.288600 192. 168.22.1 192.168.22.139 HTTP. 407 GET /login.php/wSAt2E/ HTTP/1.1
+319 7.318178 192. 168.22. 139 192.168.22.1 HTTP. 1093 HTTP/1.1 20@ OK (text/html)
+320 7.319664 192. 168.22.1 192.168.22.139 HTTP. 41@ GET /login.php/WNkQar.php HTTP/1.1
+321 7.319837 192. 168.22.139 192.168.22.1 HTTP. 766 HTTP/1.1 404 Not Found (text/html)
+322 7.321322 192.168.22.1 192.168.22.139 HTTP. 41@ GET /login.php/MFo9P7.php HTTP/1.1
+323 7.321442 192. 168.22.139 192.168.22.1 HTTP. 766 HTTP/1.1 404 Not Found (text/html)
+324.7.322854 192. 168.22.1 192.168.22.139 HTTP. 411 GET /login.php/J1QU3u.aspx HTTP/1.1
+361 7.326459 192.168.22.139 192.168.22.1 HTTP. 1093 HTTP/1.1 288 OK (text/html)
+Frame 53: 1157 bytes on wire (9256 bits), 1157 bytes captured (9256 bits) on interface \Device\NPF_{A651i || 0000 58 88 晓 8 8c 29 62 a9 ad 8
+Section number: 1 2012 84 77 26 6a 40 09 80 66 22 3a c8 8 1
+> Interface id: @ (\Device\NPF_{A651886B-6B4F -4633-A166-F3D18FEE9FF3}) BO On Eh Piso iets on be eeu
+Encapsulation type: Ethernet (1) 01 00 68 44 00 98 34 34 33 gd Ga 6a 7:
+Aviva Tine: Oct 24, 2024 17:26:12.077406000 中 国 余 深 间 eee
+UTC Arrival Time: Oct 24, 2024 @9:26:12.07740600@ UTC 描
+Epoch Arrival Time: 1729761972.077406000 69 70 74 22 3e 6a 20 20 20 20 69 66 2
+[Time shift for this packet: @.000000000 seconds] 74 6F 75 63 68 73 74 61 72 74 27 20 8
+[Time delta from previous captured frame: @.00016400@ seconds] 6F 63 75 6d 65 Ge 74 2e 64 GF 63 75 6
+[Time delta from previous displayed frame: @.0153890@0 seconds] 45 6c 65 6d 65 Ge 74 29 20 64 6F 63 7
+[Time since reference or first frame: 7.146532000 seconds] 74 2e 77 72 69 74 65 28 22 3c 73 63 72
+Frame Number: 53 20 73 72 63 3d 27 2e 2e 2f 2e 2e 2f 6
+Frame Length: 1157 bytes (9256 bits) 74 73 2F 6a 73 2f 6a 71 75 65 72 79 2
+eee Mie WOE Bee pa eile aT 69 6c 65 2e 63 75 73 74 GF 6d 2e 6d 8

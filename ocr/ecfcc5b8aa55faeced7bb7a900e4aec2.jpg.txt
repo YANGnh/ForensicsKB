@@ -1,0 +1,11 @@
+# OCR: ecfcc5b8aa55faeced7bb7a900e4aec2.jpg
+# 来源: .\02-WriteUp\2024\ecfcc5b8aa55faeced7bb7a900e4aec2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+8 Authentication:
+#LoginGraceTime 2m
+PermitRootLogin yes
+MStricthodes yes
+Mheshuthiries 5
+WMaxSessions 10

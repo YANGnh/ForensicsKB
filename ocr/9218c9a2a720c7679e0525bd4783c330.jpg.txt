@@ -1,0 +1,43 @@
+# OCR: 9218c9a2a720c7679e0525bd4783c330.jpg
+# 来源: .\02-WriteUp\2024\9218c9a2a720c7679e0525bd4783c330.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+x) PROX MO % virtual Environment 8.1.4 92%
+a} 100 (Route)
+G2 101 (nodet)
+Gi 102 (node2)
+103 (node3)
+111 (avaserver)
+112 (sqlserver)
+120 (luck)
+SDN
+he
+Sl local (pve)
+S[local-vm (pve)
+locaz (pve)
+立 | Lit2 eqkenentEtspueL
+月 芸 E
+2 的 口
+口 砺 # @ use
+心 Coudinit 重 Bios
+oa = =
+马 F& 。 白
+ine © cDIDVDsEZEE (ide2)
+马 86 日 R (ccsid)
+口 Stl 巳 LEE 0noo)
+2 he 西 D (ceriald)
+O Ib 一 #45980 eoran
+2 F
+4.00 GiB
+4((1 sockets, 4 cores) [host]
+OVMF (UEFI)
+§REVGA (std)
+35
+VirtlO SCSI single
+none,media=cdrom
+local2-112ivm-112-disk-0.qcow2,iothread=1 size=80G
+fio=BC:24:11:C2:FF:D3,bridge=vmbr1 firewall=1
+socket
+P
+socket

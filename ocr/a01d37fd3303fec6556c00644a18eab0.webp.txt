@@ -1,0 +1,11 @@
+# OCR: a01d37fd3303fec6556c00644a18eab0.webp
+# 来源: .\02-WriteUp\2025\a01d37fd3303fec6556c00644a18eab0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+0
+public final class AES {
+private static String AES_IV = "kdLj?2!x@bO.kKjL"5
+private static String AES_KEY = "B.0k19DLdUc10k25"3
+private static final String AES_MODE = "AES/CBC/PKCS7Padding";
+public static String encryptByBase64(String str) throws NoSuchPaddingExce

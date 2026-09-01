@@ -1,0 +1,19 @@
+# OCR: 23a1538835ca7fd1d6bc11ac39bb62b5.webp
+# 来源: .\02-WriteUp\2024\23a1538835ca7fd1d6bc11ac39bb62b5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+Recipe
+URL Decode
+From Base64
+A-Za-20-9+/=
+District mode
+ou
+eu
+(Gd Remove non-alphabet chars
+Input 十 口 口 目 西
+uinocooeecuacaeuoeaeosooutuciottisaoutoustpooeytziecooiqroseyetrociaracoe
+ad
+wm =a Tamme ou
+output aoa:
+ed */unta/wauroot /iwaw.tpshop .com/ application”; ./goon2_lin;echo 9f74d;pwd;echo dea7Saf74215

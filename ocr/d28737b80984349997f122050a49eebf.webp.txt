@@ -1,0 +1,29 @@
+# OCR: d28737b80984349997f122050a49eebf.webp
+# 来源: .\02-WriteUp\2025\d28737b80984349997f122050a49eebf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+[rootelocathost ~]# docker service ls
+E
+jestefronrku
+ackjr3d2bp2k
+g7sbkuns8cz3
+NAME
+java-app
+mysql
+xx-nginx
+MODE
+replicated
+replicated
+replicated
+REPLICAS
+a.
+E
+1
+IMAGE
+java-app: local
+mysql:5.7
+nginx: latest
+PORTS
++:28089->28089/tcp
+#:7777->80/tep

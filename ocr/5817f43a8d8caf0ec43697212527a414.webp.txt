@@ -1,0 +1,11 @@
+# OCR: 5817f43a8d8caf0ec43697212527a414.webp
+# 来源: .\02-WriteUp\2024\5817f43a8d8caf0ec43697212527a414.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+media\0\Android\data\com.autonavi.minimap\files\autonavi\avatar_
+1) SRA zs ec
+4. = autonavi Fen
+自 ,= avatar E
+(5) 340474bb2d50baea3#32892db55¢1481 2 png
+al

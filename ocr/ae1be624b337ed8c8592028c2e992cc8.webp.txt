@@ -1,0 +1,23 @@
+# OCR: ae1be624b337ed8c8592028c2e992cc8.webp
+# 来源: .\02-WriteUp\2025\ae1be624b337ed8c8592028c2e992cc8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+Last build: 2 months ago - Version 10 is here! Read about the new features here
+A 回 国 白 input
+Recipe
+Ifbbb46f2e9dc
+AES ae 义 皎 1
+dp臂莒呓keyxml 前 面 12 子 节 Hawk2.xml
+Key Vv
+VFgb2FX+x.,  BASE64~ e4d871365589.。 HEXT Lock 字 段 中 间 部 分
+Mode Input output [14:-16]
+GCM Hex Raw
+GCM Taq Additional Authenticated Data
+HEX
+7el5ec89afcf。 MEX 61624c4f434b
+未 尾 16 字 节 2 字 节 版 本 号 + 字 段 名 (LOCK)
+me 12 东
+Output
+Ce 公 众 号 - 水 谢 取 证
+"1596"

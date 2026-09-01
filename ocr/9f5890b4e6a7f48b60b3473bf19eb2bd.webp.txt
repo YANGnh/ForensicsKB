@@ -1,0 +1,26 @@
+# OCR: 9f5890b4e6a7f48b60b3473bf19eb2bd.webp
+# 来源: .\02-WriteUp\2024\9f5890b4e6a7f48b60b3473bf19eb2bd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+P | xs Johngy 笔 i 本 , 团 参 李 信 息 @ US8 设 备 信 息
+USS , 三 名 称 = 设 备 揣 述
+过 滤 了 | 过 滑
+1 ADB Interface 其 他 名 称 : ADB Interface
+2 HP USB Optical Mouse 其 他 名 称 : USB Input Device
+亘画 其 他 名 称 : XRSP Interface, ADB Interf
+详 细 信 息
+名 称 : Quest 3
+厂 商 产 品 版 本 : Oculus MTP_
+RSL Btheme: XRSP Interface, ADB Interface
+设 备 序 列 号 ; 2GOYC5ZFB307D7
+i雯备妻邑型: Communication.Phone.Cell
+设 备 实 例 路 径 : USB\VID_2833&PID_0183&MI_00\6&1621d65b&080000
+首 次 接 入 时 间 : 2024-08-28 13:57:07
+最 后 接 入 时 间 : 2024-08-28 1 6
+服 务 : WUDFWpdMtp
+硬 件 ID: USB\VID_2833&PID_0183&REV_0510&MI_00 USB\VID_2833&PID_0183&MI_00
+设 备 Guid: {eechad98-8080-425f-922a-dabf3de3f69a}
+驱 动 : {eecdad98-8080-425f-922a-dabf3de3f69a}\0002
+全 路 径 : John_desktop.e01/ 分 区 3/Windows/System32/config/SYSTEM
+已 初 除 ; 否

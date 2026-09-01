@@ -1,0 +1,12 @@
+# OCR: ad91d3a929ebea65570cf3df88663e67.webp
+# 来源: .\02-WriteUp\2024\ad91d3a929ebea65570cf3df88663e67.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+42000
+1064
+You have an error in your SQL syntax; check the manual that corres
+10501
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have a
+tax to use near ‘= 5@ LIMIT 1 at line 1
+SELECT * FROM ~app_admin_menu” WHERE = 5@ LIMIT 1

@@ -1,0 +1,13 @@
+# OCR: e592cf731917c346dec4b561537ca918.webp
+# 来源: .\02-WriteUp\2025\e592cf731917c346dec4b561537ca918.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+C: 商 五 >nsLookup -type=TXT chen.foren6
+服务器: dns1.hnsdns .com
+Address: “139.144.68.241
+非 权 威 应 答 :
+chen .foren6 text =
+"chen=fengbaoliejiu"
+chen. foren6 text =
+"FIC=forensicsincyberspace"

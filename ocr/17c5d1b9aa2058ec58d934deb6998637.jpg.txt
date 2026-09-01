@@ -1,0 +1,31 @@
+# OCR: 17c5d1b9aa2058ec58d934deb6998637.jpg
+# 来源: .\02-WriteUp\2024\17c5d1b9aa2058ec58d934deb6998637.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+Docs / VMware vSphere / vSpnere s
+ESXi 日 志 文 件 地 址
+口 源 l 希 园 下 较 PDF @RiR
+剑 a 间 2022048208
+BEAT aR: ‘VMware vSphere 7.
+ESXiMEAR syslog hE, HASH HAREM.
+Esxi Baocetithit
+E 仁 医
+Seer fvax/log/auth. log
+ESXi SBS
+Shell Be fvax/log/shell. log
+RRA {vax /log/syslog. log
+vCenter Server tA /vax/log/vpxa. log
+E
+七 E 命 吴 5 国 文 似 于 门 一 目 标 BA
+FE
+SASPIARS HRPM SE.
+a
+俊
+ALS ESKiSNRASWM ENA
+SBA EsxiShell BATA SAR Shell S44 ( 罚
+SDF Shell) DR.
+包 吊 市 庞 斧 页 声 洁 , 开 史 用 李 河
+论 余 以 浩二 洁 日 心 中 .
+225 vCenter Serve MBA HARES (
+SAUL vCenter Server SH) -

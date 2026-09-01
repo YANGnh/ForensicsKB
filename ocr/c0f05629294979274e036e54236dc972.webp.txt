@@ -1,0 +1,13 @@
+# OCR: c0f05629294979274e036e54236dc972.webp
+# 来源: .\02-WriteUp\2024\c0f05629294979274e036e54236dc972.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+4 This is the network config written by 'subiquity'
+network:
+ethernets:
+etho:
+dhep4: true
+ens33:
+dhep4: true
+version: 2

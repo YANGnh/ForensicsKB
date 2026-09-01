@@ -1,0 +1,21 @@
+# OCR: 5ec087af2dcf4bca98d4fe9d5557df0c.webp
+# 来源: .\02-WriteUp\2025\5ec087af2dcf4bca98d4fe9d5557df0c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+详 细 信 息
+文 件 名 : resulttxt
+偏 移 : Oh
+内 容 : 192.168.0.110 root qwe123
+命 中 编 码 : utf8
+命 中 关 键 间 : 192.168.0.110
+创 建 时 间 : 2025-05-22 14:37:53
+修 改 时 间 : 2025-05-22 14:37:53
+访 问 时 间 : 2025-05-22 14:37:53
+MD5: 们 7b6a271252ea8ccd99208823d9e25a
+SHA1: db740488e3cc4cfddafcdc7057997ed932ade
+b0a
+SHA256: 3c9a522883 仪 136436528f7996127496ca6dfca67238a3ce10aed85e67b22de6
+源 文 件 : kali-linux-2025.1c-vmware-amd64.vmdky/ 分
+已 脑 除 : 否
+区 2/home/kali/Desktop/openipchack/resulttxt

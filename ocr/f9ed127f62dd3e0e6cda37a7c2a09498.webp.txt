@@ -1,0 +1,44 @@
+# OCR: f9ed127f62dd3e0e6cda37a7c2a09498.webp
+# 来源: .\02-WriteUp\2024\f9ed127f62dd3e0e6cda37a7c2a09498.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+E 河 XEXEXXE3
+Qrese Exel Pae ee Cs, [ a Ramen oh) mee
+id
+vmid wid rom info env info default env info. property info create_at
+5 1 d38fe59a3cdeeB83 —_("guestSystemVersi (‘android id':"52ae067768e0 £2:7¢°“wifl ssids"vmuif") (oustomBatteryLe 2024-05-17 03:35:46
+6 2 a824fed37b89b122 _("guestSystemVersi (‘android id’!"9358287fcd7H (‘android id'"d6fafe0ab841fa3","bc ("customBatteryLe 2024-05-20 08:44:29
+{"android_id”:"5a16359eb9#fb635" , "board_platform”:"universal2100_r", "brand": "samsung" ,"bt_address'
+“build _bootimage_fingerprint”:"samsung/t2sksx/t2s:9/PQ3A. 190801 .002/eng.dpi.20191015.144423:user/release-keys” ,"build date’ 23 CST
+2019", "build _date_utc”:"1571121863", "build description”: "t2sksx-user 9 PQ3A.19@801.002 eng.dpi.20191015.144423 release-keys”,"build display id”:
+“t2sksx-user 9 PQ3A.190801.002 eng.dpi.20191015.144423 release-keys”,"build_ fingerprint’
+~samsung/t2sksx/t2s:9/PQ3A. 190801 .002/eng.dpi .20191015.144823:user/release-keys","build_flavor”:"t2sksx-user”, "build posts “21HHIFOS" ,"build_id’
+"PQ3A.190801.002","build_security_patch":"2019-10-01","build_tags”:"release-keys” ,"build_type”: :"dpi" ,"build_vendor_fingerprint™
+“samsung/t2sksx/t2s:9/PQ3A. 190801.002/eng.dpi.20191015. 14442: wrerirelesse-keye",“bulld version ail, codenoaes REL", build. version codenane™ "REL",
+“cellcid":-1,"cellLac":-1,"characteristics*:"”,"country*:"CN", "cpuCoreNumber”:8, "cpullaxFreq” :2016000, "cpullinfreq” 652800, "cpuinfo”
+“cH3vY2Vz¢29yCToghApCb2dvTULQUwk6IDUyL jAnCkZ1YXR4.calv2CTogZnAgYXNpbiQg7XZ0c3RybSBhZXMgcG1 1bGwgc2hhMSBzaGEy IGNyYzHy 1GFOb21pY3NgZnBocCBhe21tZGhwIGlwdW1kIGF2a
+ikem 16xy¥38;j TGR jcG9w1 GF zal/1 kZHAKQ1BVIGItcGx buVudGvyCTogMHgoMQpDUF UgYX3j aG1@ZHNOdX310iA4CkNQVSB2VX3PYWSOC ToghHgyCkNQVSBWVXI8C ToghHhkMOUKQLSVIH Lda zaW9
+LUCToghAoKcHJvY2V2¢29yCToghQpCb2dvTU1QUwk6IDUy Lj AuCkZ1YXR1 caVzC TogZnAgYXNpbivQg7XZ@c 3RybSBhZXNgcG11bGwge 2hhMSBzaGEy IGNyY hy TGFOb21pYgZnBocCBhc21tZGhwIGNad
+WIKIGF zai kemRtGxy¥384j1GRj cG9wIGF Zab kZHAKQLBVIG] tcGx1bwVudGvyCToghFig@"QpDUFUgYX9 jaG1@ZhN@dX310i A4CKNQVSB2YX7pYWwS@CTog"HgyCkNQVSBWYX30CTogHAkMOUKQIBVIHI
+dm: zaW9uCTog?AokcH3v¥2Vz¢29yCTogMgpCb2dvTU1QUwk6IDUyL jAnCkZ1YXRI.caV/2C TogZnAgYxNpbiiQgZXZ@c 3RybSBHZXgCG11bGwgc 2hhMSBzaGEyIGNyVZMyIGFOb21pYS"gZnBocCBhc21tZ
+(GhwIGtiwdii IGF zaWl1kcmRtIGxy 38 j1GRjcGOwIGF zai! kZHAKQIBVIGI tcGx_ baVudGVyC Toghtig@MQpDUFUgYX) jaG10ZHN@dX?10iA4C kNQVSB2YXI pYH50CToghtigyCkNQVSBWYXI@CTogMHhkMOU
+KQLBVIHD1dml zal9uCTogiAokcH3vY2Vz¢29yCTogtupCh2dvTU1QUwk61DUy1 jAwCkZ1YXR1.cmVzCTogZnAgYxNpbhiQg7X70c 3RybSBh7XMgcG1 1 bGwgc2hhi'SBzaGEyIGNyY2MyIGFOb21pY3Mgz2nBoc
+(CBhc21t2Ghw1Gtudill kIGF zal kcaRtIGxyV3B TGR jcG9wIGF zali1k7HAKQ1BVIG1t cGxbhVudGVyCTogMHig@MQpDUF UgYX3 jaG1@7HNedX3 101A4CKNQVSB2VX3pYWSOCTogMigyCkNQVSBWYXI@CTO
+IMhKMDUKQ1BVIH3 Ide zalv9uCTogMAoKcH3vY2V2c29yCTogNApCb2dvTU1QUwk6 IDUyL jAnCkZ1YXR1.caiVzC TogZnAgYXNpbivQg7XZ0c 3RybSBHZXNgcG1 1 bGwgcZhhMSBzaGEyIGNyY My 1GFOb21pY
+3YgznBocCBhc21tZGhnGiwdhl1kIGF zaliAkcmRtIGxy¥38 jTGR jcG9wGF zall1 kZHAKQIBVIG]t cGx1 bhiVudGVyCTogHgOMQpDUFUgYX3 jaGL@ZWNOdX3 10iA4CkNQVSB2YXIpYWSOCToghHgxCkNQVSB
+WwYXQOCToghtthkNDEKQUBVIHI 1m zali9uC ToghAokcHIVY2Vzc29yCTognQpCb2dvTU1QUwk6IDUy  jawCkZ1YXR.cmVzCTogZnAgYXNpbiiQgZXZOc3RybSBhZXMgcG11bGugc2hhMSBzaGey TGNyYzhyT
+(G02 pY3NgZnBocCBhc21tZGhnTGNwdWi1kIGF zalllkcmRt IGxy 38 JGR cG9wIGF zal] kZHAKQBVIGItcGx_ baVudGVyCTog*Hg@"QpDUFUgYX3 jaG1@ZHNOdX710iA4CkNQVSB2¥XIpYHS@CToghHE,
+xCKNQVSBWYXI@CTogHHhkNDEKQLBVIHD 1dwl.zab9uCToghAokcHJv¥2Vz¢23yC TogNgpCb2dvTU1QUwk6IDUyjAwCkZ1YXR1caV2CTogZnAgYXNipbiiQgZXZ@c3RybSBhZXMgcG11bGugc2hhi'SBzaGEyI
+(GhyzMy1GF0b21pV3Mg2nBocCBhc21+7Ghw1GNudill kIGF abil kemRt IGxy3Bj LGR} cG9w1 GF zal k7HAKQLBVIG]t cGx_ blVudGvyCTogMig@MQpDUFUgYX3 jaG]@7MuOdX3 10iA4CKNQVSB2YXIPYWS,
+(C ToghHgxCkNQVSBW7XI@C ToghHhKNDEKQ1BVIH) 1d zaW9UuCTogHAok cHJVY2V2c29yC ToghtwpCb2dvTU1QUwk6IDUyL jAwCkZ1YXR4.caV2C TogZngYXNpbivQg7XZ0c3RybSBhZ\igcG11bGwgc2hhM
+‘SBzaGEyIGNyY 2Hy 1GFOb21pY3NgZnBocCBhc21tZGhuIGNdkil kIGF alll kcmRtGxyV38 jTGR; cG9wIGF zal’ kZHAKQLBVIGI tcGx1 bi udGVyCToghbig@MQpDUFUgYX3 jaG1OZhN@dx310iA4CKNQVSB
+2YXSpYWSECToghHgxCkNQVSBuYXI0CTog"HhkNOQKQIBVIH1dm za9uCTogiAok" , "dataconnectionstate”:"@", "datanetworktype”:"13","device”:"t2s" ,"displayOpi" :450,
+“displayHeight” :2400, "displaywidth” :1080, "fps”:60, g "gpu_vendor":"","groupidlevel1 iccid” :"86299791245394556865" ,"ine:
+p imsi* :"460012906773814" , “incremental” :"eng.dpi .20191015.144423","ip_addr":"10.92.54.150" , "kernelBootid”:
+Lialuetgeieyaheitutteuelonetveepeagqevbezteentziezognienipeatgictypnererznmeagmulyontepsersipzoviritucsierneuzraz
+‘SBPY3Qg/ITUgHTQSHTKE}gQANUIDINITKK” , “Language”:"2h" ,"mac’ #2:74" ,"macpf":"","manufacturer":" samsung" ,"mcc":"460","anc":"01" ,"model":
+"SHt-G996N" ,"networkoperator”:"46001", “networkoperatornane”: "CHINA UNICOH” ,"networktype" :"13",“operator":"46001","operatorname”:"China Unicom GSH”,
+“phone_nunber":"17737658032", "product :"t2sksx" ,"product_board":"exynos2100", "product_platform":"*,"radioVersion":"953_GEN_PACK-1,179545.1.181534.1",
+“ro_bootloader" unknown” ,"romexPkglane”:"com.andry 10000000" ,"serialno”:"15d584c5c3", "setupwizardlode” : “DISABLED”
+“simcountryiso” : 4fiasigrevma

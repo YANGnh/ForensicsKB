@@ -1,0 +1,19 @@
+# OCR: 3ceec1c5ea4e152b3e354f3a1f07540c.webp
+# 来源: .\02-WriteUp\2025\3ceec1c5ea4e152b3e354f3a1f07540c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+4 E r bdo | sommes ft emma) moteur a
+| RustDesk2,toml EH toml \Image.zip\data\user\0\
+Rust 2 E
+-# [Dx fms | Dea | 日 g | memes): 门 】 8 “ | 鹄 艺 团 世 | G
+Offset 0 12 3 4 5 6 7 8 9 A BC DEF UTF-8
+00000000 72 65 6D 6F 74 65 SF 69 64 20 3D 20 27 31 38 30 remote_id = '180
+00000010 37 38 39 32 34 32 32 27 OA 6B 62 SF 6c 61 79 6F 7eff2422" kb_layo
+00000020 75 74 SF 74 79 70 65 20 3D 20 27 27 0 73 69 7A ut_type = '' siz
+00000030 65 20 3D 20 5B 0A 20 20 20 20 30 2c OA 20 20 20 e = 【 0,
+00000040 20 30 2c OA 20 20 20 20 30 2c OA 20 20 20 20 30 0, 0, 0
+00000050 2c OA SD OA 66 61 76 20 3D 20 5B 27 31 38 30 37 , ] fav ['1807
+00000060 38 39 32 34 32 32 27 5D OA OA 58 6F 70 74 69 6F 892422") [optio
+00000070 6E 73 SD OA 73 68 6F 77 2D 73 63 61 6D 2D 77 61 ns] show-scam-wa
+00000080 72 6E 69 GE 67 20 3D 20 27 4E 27 OA OA 5B 75 69 rning = 'N' (ui

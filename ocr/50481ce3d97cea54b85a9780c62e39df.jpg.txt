@@ -1,0 +1,16 @@
+# OCR: 50481ce3d97cea54b85a9780c62e39df.jpg
+# 来源: .\02-WriteUp\2024\50481ce3d97cea54b85a9780c62e39df.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+P spite > 晚 atxeestetco notes
+| Gess| =a =e
+Sat
+V | (he
+口 1
+VGpwd SthGoldenEyesCup 123456
+评 恩
+B: VCpwd: SthGoldenEyesCup 123456
+eRe: 2023-02-17 16:18:42
+SUH: HSEHL.L01/9K2/Users/admin/AppData/Local/Packages/Microsoft MicrosoftStickyNotes_8wekyb3d8bbwe/LocalState/plum.sqlite
+Bae: 3

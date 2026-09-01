@@ -1,0 +1,11 @@
+# OCR: 84461aaf4c3aac52790c7da69101b8e4.webp
+# 来源: .\02-WriteUp\2024\84461aaf4c3aac52790c7da69101b8e4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+Manifest.plist
+SU 20243 KEUAEE
+SUZ iTunes Backup 17.3.1 — Open Password, Hardware acceleration possible
+复 朱 度 eeee. Brute-force - Slow
+MDS: D007882EA50DE09D284F714DF4100139
+HS: file-Open 0000

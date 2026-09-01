@@ -1,0 +1,48 @@
+# OCR: 28e0800157352f43c19b3bdd183aabb7.jpg
+# 来源: .\02-WriteUp\2024\28e0800157352f43c19b3bdd183aabb7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+drotd@nodei:~$ sudo docker ps -a
+CONTAINER ID IMAGE
+NAMES:
+451a0978d664 —_redrotd/redrotd:12.0.0-latest
+5555/tep, :::5555->5555/tcp 。lovtng_shtern
+@54c638ab04F —redroid/redroid-12.0.0-latest
+5555/tcp, :::4444->5555/tcp 。agttated gauss
+©00c2808FC54 redrotd/redrotd:12.0.8-latest
+5555/tcp, =::3333->5555/tcp goofy _euclid
+bd3fe2e57421 redrotd/redrotd:12.8-8-latest
+5955/tcp, :::2222->5555/tcp 。Sueet pare
+388esbzc8b98 redrotd/redrotd:12.0.8-latest
+5555/tep, =::1111->5555/tcp _priceless_knuth
+droid@nodet:~$
+COMMAND
+/intt androtdboot -h_”
+“/intt androidboot hb."
+"/init androidboot -h_"
+“/intt androtdboot-h.“
+“/intt androtdboot-h.“
+CREATED
+2 months
+2 months:
+2 months
+2 months
+2 months
+ago
+ago
+ago
+ago
+ago
+STATUS
+Extted (255) 8 weeks ago
+Exited (255) 8 weeks ago
+Extted (255) 8 weeks ago
+Extted (255) 30 minutes ago
+Up 7 minutes
+PORTS
+0.0.0.0:5555->
+0.0.0.0:4444->
+0.0.0.0:3333->
+0.0.0.0:2222->
+0.0.0.0:1111->

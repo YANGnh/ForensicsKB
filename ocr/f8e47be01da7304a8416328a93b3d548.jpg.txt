@@ -1,0 +1,64 @@
+# OCR: f8e47be01da7304a8416328a93b3d548.jpg
+# 来源: .\02-WriteUp\2024\f8e47be01da7304a8416328a93b3d548.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+droid@node2:~$ sudo docker ps -a
+CONTAINER 10 IMAGE
+NAMES
+45109784664 _redroid/redrotd:12.6.8-Latest
+5555/tcp, :::5555->5555/tcp 。lovtng_shtern
+@54c638ab04F ~—_redroid/redroid:12.0.6-latest
+5555/tcp, =::4444->5555/tcp _agitated_gauss
+00c2808fc54 __redrotd/redrotd:12.0.6-Latest
+5555/tcp, :::3333->5555/tcp goofy _euclid
+bd3fe2e57! redroid/redroid-12.0.0-latest
+5555/tcp, :::2222->5555/tcp sweet_pare
+380eSb2c8b98_—redroid/redrotd:12.0_0-latest
+1111->5555/tcp _priceless_knuth
+$ sudo docker start 45
+droid@node2:~§ sudo docker ps
+CONTAINER ID IMAGE
+NAMES
+451a689784664 redrotd/redrotd:12.0.6-Latest
+55-25555/tcp _ loving_shtern
+droid@node2:~$ []
+‘COMMAND,
+"/intt androtdboot -h_”
+“/init androidboot -h_”
+"/intt androtdboot -h_”
+"/intt androtdboot -h_”
+"/init androtdboot -h.”
+‘COMMAND
+"/init androtdboot -h_”
+CREATED
+2 months
+2 months
+2 months
+2 months
+2 months
+CREATED
+2 months
+ago
+ago
+ago
+ago
+ago
+ago
+STATUS
+Extted (255) 11 minutes
+Exited (255) 11 minutes
+Extted (255) 11 minutes
+Extted (255) 11 minutes
+Exited (255) 11 minutes
+STATUS PORTS
+ago
+ago
+ago
+PoRTS
+6.6.8.8:5555->
+6.6.8.8:4444->
+6.8.8.8:3333->
+@.0.0.0:2222->
+@.0.0.0:1111->
+Up 2 seconds @.0.0.0:5555->5555/tcp, =::55

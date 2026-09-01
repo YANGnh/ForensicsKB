@@ -1,0 +1,25 @@
+# OCR: 243b89e438b6da29ab20e6edc3d0a50a.jpg
+# 来源: .\02-WriteUp\2024\243b89e438b6da29ab20e6edc3d0a50a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+Erootelecalhest J8 ifconfig
+T, RUNNING MULTICAST> mtu 1508
+(28.108 | netmask 255.255.255.8 broadcast 192.168.108.255
+de23:af71 prefixlen 64 scopeid @x20<1ink>
+91 txqueuelen 1888 (Ethernet)
+RX packets 8 bytes 8 (8.0 B)
+RX errors 8 dropped @ overruns 8 frame 6
+TX packets 44 bytes 2784 (2.7 KiB)
+TX errors 8 dropped 8 overruns @ carrier @ collisions 6
+lo: flags=?3<UP,LOOPBACK ,RUNNING> mtu 65536
+inet 12?7.8.0.1 netmask 255.0.0.8
+inet6 ::1 prefixlen 128 scopeid @x1@<host>
+loop txqueuelen 1 (Local Loopback)
+RX packets 184 bytes 9386 (9.1 KiB)
+RX errors 8 dropped @ overruns 8 frame 6
+TX packets 184 bytes 9386 (9.1 KiB)
+TX errors 8 dropped 8 overruns @ carrier @ collisions 6
+[root@localhost ~1# cat /etc/sysconf ig/network-scr ipts/ifefg-ens33
+IPU4_FAILURE_FATAL="no"
+IPUGINIT="

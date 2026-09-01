@@ -1,0 +1,16 @@
+# OCR: 9f71f3cc3154beb93081a3c92176398b.webp
+# 来源: .\02-WriteUp\2025\9f71f3cc3154beb93081a3c92176398b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+Enter password to decrypt account
+data.
+Q Search extensions
+《 Authenticator G
+on D
+Description
+Authenticator generates two-factor authentication codes in your browser.
+Version
+6.3.6
+Size
+18.6 MB

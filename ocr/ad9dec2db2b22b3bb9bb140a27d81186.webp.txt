@@ -1,0 +1,7 @@
+# OCR: ad9dec2db2b22b3bb9bb140a27d81186.webp
+# 来源: .\02-WriteUp\2026\ad9dec2db2b22b3bb9bb140a27d81186.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+protected function getpass($pass) Fi
+; return md5(C('cfg_adminkey') . md5($pass));

@@ -1,0 +1,8 @@
+# OCR: 54b03795658c2417e28825173a4df509.jpg
+# 来源: .\02-WriteUp\2024\54b03795658c2417e28825173a4df509.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+a ee eee
+png 026.png zrpng 028,png
+jpg Sixx WSR ot

@@ -1,0 +1,42 @@
+# OCR: 173ede825545e70799ac9858c069339d.jpg
+# 来源: .\02-WriteUp\2024\173ede825545e70799ac9858c069339d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+Sm x +
+[root@localhost website.com]# cat config. php
+<2php
+Sconfig = array (
+‘dbHost' => '127.0.0.1",
+‘dbUser' => ‘website’,
+“dbpwd「 ‘immNjhCjePCrPpjd',
+‘database ‘website’,
+‘charset’ => ‘utf8",
+‘tbPrefix' 口 “oc
+“dbType“ => 'mysql',
+"register! "normal",
+‘mailauth' => false,
+‘urlroot' => 'http://192.168.11.188:7788",
+‘urlrewrite' => false,
+'filepath' => '/www/wwwroot/website.com/upload' ,
+‘fileprefix' => 'http://192.168.11.188:7788/upload",
+‘theme’ => 'default',
+‘template’ => ‘default,
+‘show’ =>
+array (
+'sitename' => 'xSS¥f',
+'sitedesc' => '',
+技 术 交 流 . 程 序 员 . 设 计 . 项 目 . 创 业 . 技 术 . 网 络 安 全 . 技 术 文 章 .1.2「
+‘keywords’ => '
+“descrtptton = 。
+‘adminmail' =>
+array (
+‘publish’ => 2,
+‘comment’ => 2,
+“tnvttereg「 => 10,
+05
+加
+"timezone! “hsta/Shanghat .
+“exptres「 => 3600,
+‘debug’ => true,
+):[root@locathost website.com]# []

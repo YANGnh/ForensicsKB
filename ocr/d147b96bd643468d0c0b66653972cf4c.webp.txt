@@ -1,0 +1,9 @@
+# OCR: d147b96bd643468d0c0b66653972cf4c.webp
+# 来源: .\02-WriteUp\2025\d147b96bd643468d0c0b66653972cf4c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+Kinoapi-server-2:~/web-apt/app$ sudo docker inspect d4 |grep image
+‘com.docker .compose - “sha256-996a32e7200d224c4eada5f87360b835572
+8530ba10e2c994bb171428589bF 3b" ,
+at ee as |

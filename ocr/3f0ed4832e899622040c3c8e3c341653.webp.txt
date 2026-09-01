@@ -1,0 +1,25 @@
+# OCR: 3f0ed4832e899622040c3c8e3c341653.webp
+# 来源: .\02-WriteUp\2026\3f0ed4832e899622040c3c8e3c341653.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+圆 j8amt
+fr Q
+A SRS
+阚 Heck
+B sets
+户 与 群 组
+回 域 /LDAP
+A 途
+掉 性
+白 deni
+SMB AFP NFS FTP | rsync 。 高 级 诀 置
+A SMB 设 置
+JAA SMB 服 务
+工 作 脱 组 : WORKGROUP
+不 可 访 问 以 前 版 本
+切 没 有 权 限 的 用 户 隐 藏 共 享 文 件 夹
+Y 启 8 传 输 日 志
+日 志 设 置 查 看 日 志
+高 级 设 置
+加

@@ -1,0 +1,9 @@
+# OCR: 0d02be310729c2685acf12a42dc5f7ec.jpg
+# 来源: .\02-WriteUp\2024\0d02be310729c2685acf12a42dc5f7ec.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+[root@localhost /1# find / -name *.cap
+/voot/tepdump_tj.cap
+/voot/tepdump2_tj.cap
+[root@localhost 8 _

@@ -1,0 +1,81 @@
+# OCR: f4d0f67868553d895b08a4a5f42562a8.webp
+# 来源: .\02-WriteUp\2025\f4d0f67868553d895b08a4a5f42562a8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+AppActivity
+ee >
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+| 137
+138
+139
+140
+141
+142
+143
+145
+146
+147
+148
+149
+import org.cocos2dx.1ib.Cocos2dxActivity;
+import org.cocos2dx.1ib.Cocos2dx6LSurfaceview:
+import org.cocos2dx.1ib.Cocos2dxHelper;
+import org.cocos2dx.1ib.Cocos2dxJavascriptJavaBridge;
+import org.cocos2dx.1ib.Softkey8oardListener;
+import org.eclipse.paho.client .mgttv3.MqttTopic;
+import org.json.JSONException;
+import org.json.JSONObject;
+八 Loaded from: classes2.dex */
+public class AppActivity extends Cocos2dxActivity implements IUiListener {
+private static final int BLACK = -16777216;
+public static final String PACKAGE_QQ = "com.tencent.mobileqq”;
+public static final String PACKAGE_WX = "com.tencent.mm";
+private static final int SDK_AUTH_FLAG = 2;
+private static final int SDK_PAY_FLAG = 1;
+private static final String TAG = “AppActivity”;
+private static final int WHITE = -1;
+public static String WxShareType = "";
+public static IWXAPI api = null;
+private static AppActivity app = null;
+static JSONObject bindDataJo = null;
+private static String callbackLuaFunction = "";
+public static String code = null;
+private static AlertDialog mExitAppDialog = null;
+private static final Stri
+Trr
+private static String shareQQLocalpath = nul
+private static String urlofQr = null;
+public static String wxAppId = "";
+private Activity appActivity;
+private AlertDialog mPermissionDialog;
+private byte[] screenshotData;
+private static Map<String, XSWebView> webMap = new HashMap();
+private static boolean isRegister = false;
+private static String wakeupDataHolder = null;
+static ArrayList<String> pictureArrayList = new ArrayList<>():
+T

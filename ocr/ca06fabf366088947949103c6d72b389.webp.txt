@@ -1,0 +1,56 @@
+# OCR: ca06fabf366088947949103c6d72b389.webp
+# 来源: .\02-WriteUp\2024\ca06fabf366088947949103c6d72b389.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+Recipe
+From Base64
+Alphabet
+A-Za-z0-9+/=
+Strict mode
+AES Decrypt
+Key
+72e03c7d2a4deadt
+Mode
+cBc
+LATINI~
+Input
+Raw
+ou
+EZ Remove non-alphabet chars
+w
+72eec7d2ad4eadf
+Output
+Raw
+ou
+LATINI~
+Input +O
+gebtpxeq I Cay | puxme mage - 一
+酗胖耿〖…颤M瓢…岫围〔[【〕(】_ @ @ @ vx - a x
+Irebeicyptg/Soeyotaed
+Zky/huInB+eUp+a7xr/XF9,
+XQRO661wzSGDg7qjNpFN44)
+Did¥@K/ONEecH6Tjvbyqi7|
+ShfuXDBhTVHJAKLTqG8ENY,
+3vtS4ukQ4N2E6gPySCTISP| a 86
+ixnOG8DBtFS4y4hVCuyS+A)  DIYIDMNVZGUOJHJICSVSALK/ UUOgICAQCZVZCZIVDIYZOGF YACGPUWUKICAGICRIZXKYFY I RVN I SUJOWYAFITU/DUOgIC
+mIVAZgx2NgnJI4ZYdCiD1z)AgLy9IY2hviGpzb25{ZW5jb2RIKCRYZXN1bHQPOWOKICAgICBVZWNobyBvcGVuc3Nsx2VuY 3/5cHQoanNvbIglbmNvZGU_
+Rekxs+OGu2VmRUaYOBCW6q) 0 JHJIC3VSdCksICJBRVMXMIgiL CAka2V5KTSNCIAgICBIY 2hvIGVuY 3J5cH QoanNvbISIDMNVZGUOJHJIC3VSdCKSICRIZXk
+QSWjSEl8sxtfkatdful8  pOwOKIQOKDApmAWs5jdGIvbiBlomNyeXBOKCRKYXRALCRIZXkpDQP7DQoJaWYolWV4dG VucalvbI9sb2FKZWQ0J29WZ,
+CTxDumaPK+Tagh/wx4KIRG _ yys7c2wnKSkNCiAgICAJewOKICAgIAKJZm9yKCRPPTATJGK8c3RybGVUKCRKYXRNK TskaSsrkKSB7DQ0gICAGCAKJICRK
+236Lq+veAi61vBWFZKO}FI] yx RnWyRpXSASICRKYXRNWYRPXV4ka2VSWyRPKZEMMTVdOYANCIAgICAJCQISD QoJCQlZXR 1en4gJGRNGE7DQ
+aeons ‘oglCAGCXONCIAgICBIDHNIDQogICAGCXSNCIAGICAJCXJIdHVybiBvcGVuc3NSX2VUY3J5CHQOJGRNAGESICJBRVMXMIgi
+LCAKa2VSKTSNCIAgICAJIQOKIQOKbWFpbigpOw==
+QOctol #8 加 腾 宋 芸 各 pe RES Sh 。 生 成 Hib
+@Base64 ) URL##S “Unicode “JWT 席 B “Henstmg “HingB “GzIP
+imbcpdyldznoafexcf
+脯糟伙g)a1‖h廓赂K呱CH址 IorsosSicsttendaalShyf
+281rTs@O3eniUThEFOKBU SdatafSi] = Sdata[Siy"Skey[Si+1&15],
+me 2220 = 1 )
+retum $data;
+Output )
+else
+VisrnUAeraKsonDiuiX rs esuwusr (
+d return openss|_encrypt(Sdata, "AES128", $key);
+main(); > SaREMeE urs v t
+东 史

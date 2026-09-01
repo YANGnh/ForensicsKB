@@ -1,0 +1,18 @@
+# OCR: e19f22903288f92cdc6b5a46cac4123b.webp
+# 来源: .\02-WriteUp\2024\e19f22903288f92cdc6b5a46cac4123b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+卫 :sJoobsic+ 「 圈 H>Rit : 口 XHXiEIEJP > 巳 城 FJ
+国 二 序 号 世 名 称 = Be
+ta 1 | Joshe investmentJPG C:/Users/John.Killer/Joshe investmentJPG
+详 细 信 息
+名 称 : Joshe investmentJPG
+路 径 : C:/Users/John.Killer/Joshe investmentJPG
+文 件 类 型 : 文 件
+文 件 大 小 : 36.66 KB
+创 建 时 间 : 2024-08-01 16:14:06
+系 统 : 分 区 3/Windows
+用 户 : John.Killer
+源 文 件 : John_desktop.e01/ 分 区 3/Usersyyohn.Killer/NTUSER.DAT
+已 删 除 ; 否

@@ -1,0 +1,52 @@
+# OCR: 16fe99923cd45499bce2a6c394df3cc6.webp
+# 来源: .\02-WriteUp\2025\16fe99923cd45499bce2a6c394df3cc6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+Cc 8
+ish 评 便 /
+\ HH Duncan Japt... 11/9372
+\ HE LAMKH lapt.. 24376
+》 葛 Hn 蒙 4
+> 3 ISKES 1
+> Brew 327
+E E
+>= E
+> © B 4405
+、 % BAB 20169
+v 菲 WndoweB 9934
+10
+3629
+3022
+》 茹 88BSin、102s5
+> SQ BABS 1398
+四 卯 蚊 8
+> aire 日
+iG Restor 153
+Xp ShimCache l
+56
+日 国 胎露 2524" © PY Data inc"s-1-5-21-2447.. @ 里 7 CreateTime >= 202504- @ 【
+= aD = Am = ez = HEE = ZBaig
+in
+Y(t 口 (tit Vv | (ti visit 卫 , 颊 8 | 颖 8 VY
+“ =z
+Dat.. 8B Security CEO-PC Microsoft-Windows-Securi... 2025-04-29 15:50:42 A
+Dat. a Security CEO-PC Microsoft-Windows-Securi... 2025-04-29 18:03:15.
+Dat. 8B Security CEO-PC Microsoft-Windows-Securi... 2025-04-29 18:03:16
+Dat. 8B Security CEO-PC Microsoft-Windows-Securi... 2025-04-29 18:03:16
+ipsa x
+intermediate services have participated in this logon request.Yen¥et- Package name indicates which sub-protocol was used among the NILM
+protocols.%n%t- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+208: <EventData> <Data Name="SubjectUserSid">S-1-0-0</Data> <Data Name="SubjectUserName">-</Data> <Data
+Name="SubjectDomainName">-</Data> <Data Name="SubjectLogon|d”>0x00000000</Data> <Data Name="TargetUserSid” >S-1-5-21-244795756-
+2605320691-3516395164-1004</Data> <Data Name="TargetUserName" >@a@p</Data> <Data Name="TargetDomainName">CEO-PC</Data> <Data
+Name="TargetLogonld” >0x00c881dd</Data> <Data Name="LogonType">3</Data> <Data Name="LogonProcessName">NtLmSsp </Data> <Data
+Name="AuthenticationPackageName”>NTLM</Data> <Data Name="WorkstationName”>KALI</Data> <Data Name="LogonGuid" >00000000-0000-
+0000-0000-000000000000</Data> <Data Name="TransmittedServices">-</Data> <Data Name="LmPackageName">NTLM V2</Data> <Data
+Name="KeyLength"> 128</Data> <Data Name="Processid">0x00000000</Data> <Data Name="ProcessName">-</Data> <Data
+Name="IpAddress"> 182.239.117.11</Data> <Data Name="IpPort">48350</Data> </EventData>
+Bae: BB
+3 Security
+mez: CEO-PC
+BEE: Microsoft-Windows-Security-Auditing
+GUID: 54849625-5478-4994-A5BA-3E3B0328C30D

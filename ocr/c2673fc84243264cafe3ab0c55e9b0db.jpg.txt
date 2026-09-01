@@ -1,0 +1,20 @@
+# OCR: c2673fc84243264cafe3ab0c55e9b0db.jpg
+# 来源: .\02-WriteUp\2024\c2673fc84243264cafe3ab0c55e9b0db.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+XC PROXMO x virwal environment 8.4.4
+SCALE] 白 | GRMgits (nodes pet SAIN
+Bebo ase E
+> Bae 5
+O Bt
+100 (Router) P “Xone
+101 (nodet) 一
+102 (node2) on
+103 (node3) 固 sme
+111 (javaserver) © “iE
+112 (sqlserver) P
+120 (luck) Bee
+SDN a St
+He
+3 Re

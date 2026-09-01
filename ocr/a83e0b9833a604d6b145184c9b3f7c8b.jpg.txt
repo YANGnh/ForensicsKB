@@ -1,0 +1,42 @@
+# OCR: a83e0b9833a604d6b145184c9b3f7c8b.jpg
+# 来源: .\02-WriteUp\2024\a83e0b9833a604d6b145184c9b3f7c8b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+Lroot@localhost
+CONTAINER ID
+[root@Locathost
+CONTAINER ID
+AMES
+9bflcecec95
+ysql
+[rootetocathost
+9b
+[root@Locathost
+CONTAINER ID
+AMES
+9bflcecec395
+ysql
+[root@localhost
+0
+] docker ps
+IMAGE
+J# docker ps -a
+IMAGE
+eclipse/mysql
+0
+J# docker start 9b
+J# docker ps
+IMAGE
+eclipse/mysql
+团 D
+COMMAND CREATED
+COMMAND CREATED
+“docker-entrypoint..." 6 weeks ago
+COMMAND CREATED
+“docker-entrypoint..." 6 weeks ago
+STATUS PORTS NAMES
+status PORTS
+Exited (@) 5 weeks ago
+status PORTS
+Up 4 seconds 6.8.8.8-3386->3386/tcp

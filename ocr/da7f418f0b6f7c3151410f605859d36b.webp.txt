@@ -1,0 +1,24 @@
+# OCR: da7f418f0b6f7c3151410f605859d36b.webp
+# 来源: .\02-WriteUp\2025\da7f418f0b6f7c3151410f605859d36b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+0040 EXPORT aes_key
+0040 aes_key | DCB 0
+e040
+0041 DCB 1
+6642 DCB 2
+0043 DCB 3
+e044 DCB 4
+0645 DCB 5
+0046 DCB 6
+6647 DCB 7
+9048 DCB 8
+6649 DCB 3
+o64A DCB OxA
+0048 DCB 0x8
+oe4C DCB 0xC
+6640 DCB 6x0
+o64E DCB 0xE
+oe4F DCB 0xF
+ppsp bio count.1 DCB pvan

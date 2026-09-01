@@ -1,0 +1,18 @@
+# OCR: 4199bf0ec8183d69910e3686735df782.jpg
+# 来源: .\02-WriteUp\2024\4199bf0ec8183d69910e3686735df782.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+#801» wco
+Ske BRS seks DHCP 居 多 渡 E
+访
+E
+租 国
+生 B 砂
+E
+E
+FMS
+Rg:onzmacs
+技 林080 政 )
+Baik: 0 B (0 SURED)
+IPv4: 192.168.8.1/32

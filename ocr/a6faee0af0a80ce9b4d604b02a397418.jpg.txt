@@ -1,0 +1,8 @@
+# OCR: a6faee0af0a80ce9b4d604b02a397418.jpg
+# 来源: .\02-WriteUp\2024\a6faee0af0a80ce9b4d604b02a397418.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+E
+E
+E

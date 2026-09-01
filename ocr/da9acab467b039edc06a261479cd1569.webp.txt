@@ -1,0 +1,55 @@
+# OCR: da9acab467b039edc06a261479cd1569.webp
+# 来源: .\02-WriteUp\2026\da9acab467b039edc06a261479cd1569.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+e Config View Tools Help
+0 目 « | a S MC FB | 盯 七 岑 医 民 一 | df
+日 @ BasicAnalyzer index package
+日 BaseInfo a
+a Certificate [File Base Info]
+日 llAPIs File Name: “CVUsersVNEKONADesktop\ 山 东 \ 出 题 \ 检 材 \ 周 字 APK 文 件 \uni.owry.apk
+目 AllStrings E i
+Main Activity: io.dcloud.Pandoragntry
+日 AppStrings File Size: 21184244 bytes
+目 AllUris MD5: <Sea689ea886ed2318bccbbc2cba5198
+口 AndroidManifest Packed: Not Packed
+Min SDK: 19
+目 MalScan
+Target SDK: 28
+田 目 Resources
+5 th ar
+田 跤 MTT
+CED Es ir
+a
+# android. suppo| oO activity Oo permission fe) servicks fe) receiver (0) all
+巳 言 莒'【，I′_(，ti{=i_':_萝l")i(二】_ android: versionCode="829" android: ersionName="8.2.9" android: compileSdkveysion="23" android: compilesdkversionCoder
+ion="28" >
+@ cance
+@ cance
+@ notifl 5
+田 @ INotifid
+田 @ INotifid
+团 © RemoteAd eTwoRK_STATE" >
+田 跤 graphics.d
+Creens=“true“android:normalScreens=“true| android:largescreens=“true“android:re 扣 zeablez“true“ >
+TERNAL_STORAGE” >
+IFI_STATE” >
+田 跤 os
+田 跋 androidtransc|PACKAGES“>
+田 路 androidx INSTALL_PACKAGES" >
+田 跤 bolts
+田 跟 com ETWORK_STATE™ >
+田 跌 dc.squareup MOUNT_FILESYSTEMS” >
+田 路 fun.learnlife
+田 跤 io 2 '
+田 砻 j疆v疆)(′a′1'l'_)t疆t】….. Pe ST Ea a
+田 跖 kotlin. annotations. jvm android.permission.WRITE_EXTERNAL_STORAGE
+# net .Lingala.zipaj android. permission.ACCESS_NETWORK_STATE
+a W2 android.permission.ACCESS_WIFI_STATE
+田 @ org android.permission.INSTALL_PACKAGES
+田  pl.droidsonroids.gif android.permission.REQUEST_INSTALL_PACKAGES
+e @ uni.owry android. permission.CHANGE_NETWORK_STATE
+android. permission .MOUNT_UNMOUNT_FILESYSTEMS
+le A android. permission. VIBRATE
+android.nermission.RFAN 106S v

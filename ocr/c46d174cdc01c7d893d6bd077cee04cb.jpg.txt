@@ -1,0 +1,21 @@
+# OCR: c46d174cdc01c7d893d6bd077cee04cb.jpg
+# 来源: .\02-WriteUp\2024\c46d174cdc01c7d893d6bd077cee04cb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+Site modification [platform.com] -- Time added [2024-05-20 06:
+8
+Domain Manager
+A domain per line, the default port is 80
+Subdirectory binding Wildcard domain format: *.domain.com aca |
+To add another port, the format is www.domain.com:88
+Site directory
+4
+Limit access
+Domain name Port OPT
+Traffic control
+192.168.217.188 59204 Del
+URL rewrite
+Platform.com 80 Det
+Default indexes
+Confiq

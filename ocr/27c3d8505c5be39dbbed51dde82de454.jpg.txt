@@ -1,0 +1,9 @@
+# OCR: 27c3d8505c5be39dbbed51dde82de454.jpg
+# 来源: .\02-WriteUp\2024\27c3d8505c5be39dbbed51dde82de454.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+Login
+Usemame
+Password
+English ~ &

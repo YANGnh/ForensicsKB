@@ -1,0 +1,21 @@
+# OCR: 88d3d582f7dfc688210a2a69b93f4a54.webp
+# 来源: .\02-WriteUp\2024\88d3d582f7dfc688210a2a69b93f4a54.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+ody =
+\ccount Sid-Sde1b314Fdca1969ef26ac8d822F4d45&to-195215108634par an-&snsContent-XE3%80X90XESKBDXB3KEGXO
+MABKE7XA7X91%E6%SA%80XE3%80%01%ESXBOXBAXEGXOSKACKE7X9AXB4XE7X94%ASXEGXSSXB 7XEFXBCKSCKEGXS2RASKETXOA
+E
+MEFXBC%SCXES%88%87%E5%9B%B FXEGXB3%84%E9%9CXB2XEFXBC%8CXEOXODXOEXEGXOCKACKEAXBAXBAXEGXO3%SD%E4XBDXOC
+|ES%AFEB7XESXBFBDXE7XOS%ASK tines tanp=17320866195948st¢
+=ISON
+eating a new SqlSession
+qlSession [org.apache.ibatis session defaults DefaultSqLSession@4f6147F2] was not registered for sy
+chronization because synchronization is not active
+DBC Connection [con.nysqL.cj_ jdbc ConnectionInpl@34493522] will not be managed by Spring
+=> Preparing: INSERT INTO send_sms ( mobile, status, content ) VALUES ( 2, 2, 2 )
+=> Parameters: 19521510863(String), false(Boolean), 6918(String)
+Updates: 1
+josing non transactional SqlSession [org.apache. ibatis. session. defaults DefaultSqlSession@4f6147F2]
+2294b008F36F3c39a4d48d68a56a5cB&respDatalyp

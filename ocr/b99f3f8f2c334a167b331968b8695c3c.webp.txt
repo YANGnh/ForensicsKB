@@ -1,0 +1,66 @@
+# OCR: b99f3f8f2c334a167b331968b8695c3c.webp
+# 来源: .\02-WriteUp\2025\b99f3f8f2c334a167b331968b8695c3c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+东 docker-composeym!
+Bi test
+西 web-api
+“ 西 app
+, 庭
+“ 邑
+Js
+10
+u
+2
+B
+4
+5
+16
+D
+a8
+19
+20
+2
+node_modules 圆
+7 23
+E 24
+25
+controllers 26
+: 27
+i middleware es
+BR models 园
+30
+Gi routes 31
+32
+JS authroutesjs 33
+34
+J productroutesjs eI
+莲 utils ES
+appis (=
+UBS A
+const require("./src/routes/auth.routes');
+const productRoutes = require(’./src/routes/product routes");
+/ PIES A,
+const { errortiandler } = require(" ./src/middleware/error.middleware");
+const { authMiddleware } = require("./src/middleware/auth middleware’ );
+const app = express();
+const port = process.env.PORT || 3000;
+/ Bahia
+app.use (helmet ());
+app.use(cors())3
+‘app.use(morgan( dev")
+‘app.use(express.json())5
+‘app.use(express.urlencoded({ extended: true }));
+1:2)
+fapp-use(‘/api/autn', EERIE;
+app.use('/api/products", authMiddleware, productRoutes);
+/ BERS
+app.get(‘/api/health’, (req, res) => {
+res. json({
+ok’,
+"service is running",
+I <0 its/enccyption js: console error( ‘HEF Lac2NL:", error):
+认
+src/utils/encryption
+s:  ‘get_flag2': ['string', []]

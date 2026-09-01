@@ -1,0 +1,9 @@
+# OCR: a40772156666cf1bd1d57cc53d307d26.webp
+# 来源: .\02-WriteUp\2025\a40772156666cf1bd1d57cc53d307d26.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+# network interfaces
+net:
+port: 27017
+bindlp: 127.0.0.1

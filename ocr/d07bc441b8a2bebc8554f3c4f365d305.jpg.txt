@@ -1,0 +1,17 @@
+# OCR: d07bc441b8a2bebc8554f3c4f365d305.jpg
+# 来源: .\02-WriteUp\2024\d07bc441b8a2bebc8554f3c4f365d305.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+Is
+chmod -R 777 web/
+Is
+java -jar /home/service/jinyi/web/jinyi.web.web jar --spring.profiles.active=prod
+java -jar /home/server/jinyi/api/jinyi.api.api-1.0.0,jar ~-spring.profiles.active=prod
+chmod 777 jinyiapiapi-1.0.0,jar
+chmod 777 jinyiweb.webjar
+java -jar /home/server/jinyi/api/jinyi.api.api-1.0.0,jar --spring.profiles.active=prod
+java -jar /home/server/jinyi.api.api-1.0.0,jar --spring.profiles.active=prod
+mkdir /home/service/jinyi/
+mkdir -r nome/service/jinyi/
+mkdir -R /home/service/jinyi/

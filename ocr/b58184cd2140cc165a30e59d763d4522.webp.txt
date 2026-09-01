@@ -1,0 +1,13 @@
+# OCR: b58184cd2140cc165a30e59d763d4522.webp
+# 来源: .\02-WriteUp\2025\b58184cd2140cc165a30e59d763d4522.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+个  > 摄 像 头 砬 解 程 序
+A 。 名 称
+快 速 沃 问
+P 1 register.txt
++R success.txt
+小 草 秒 朱 exe
+炬
+E 命 仙 提 示 征

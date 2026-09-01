@@ -1,0 +1,29 @@
+# OCR: 4f3cea1de585340807839350e9bb275d.jpg
+# 来源: .\02-WriteUp\2024\4f3cea1de585340807839350e9bb275d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+OPKG 配 置
+if AF2ERB, customfeeds.cont Fi
+许
+CARAT opkg G 用 5 个
+定 XB 应 H 命 圭
+Ietclopkg.conf
+dest root /
+dest ram /tmp
+lists_dir ext /varfopkg-lists
+option overlay_root /overlay
+option check_signature
+Ietclopkg/compatfeeds.conf
+srcigz istore_compat https://istore.linkease.com/repofallicompat
+jetcopkglcustomfeedsconf
+# add your custom package feeds here
+#
+# srcigz example_feed_name http/www.example.com/path/to/files
+Jetoopkgldisteedsconf
+srolgzopenwrt core
+https:/downloads.openwrt.org/releases/23.05.2/targets/x86/64/packages
+srcigz openwrt_base
+https:/downloads.openwrt.org/releases/23.05.2/packages/x86_64/base
+srcigz openwrt_luci
+https://downloads.openwrt.org/releases/23.05.2/packages/x86_64/luci

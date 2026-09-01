@@ -1,0 +1,38 @@
+# OCR: 83f5eee81a05d144308ab6b5b966b91d.webp
+# 来源: .\02-WriteUp\2024\83f5eee81a05d144308ab6b5b966b91d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+Package (com. E (da+e3¢):
+e
+pkg=Package{7Sefsce con.gunraiders}
+‘odePath=/data/app/~-Q21tEV4Pp_}-vgESEQHeHge= /con. qunraiders-0yYqve 1QGBDMUADDGFStog==
+FesourcePath=/data/app/~-Q21teVaPp_j-vgeS6QHehg==/con. gunraiders-y ave lAcSDmuASbGFatog==
+‘egacynativer ibraryDir=/data/app/~-Q21tEVSPp_j-vgESEQHeNge=/con. gunraider s-0yvqve1QGSOMUAGBGFStoge=/11b
+extractnativeLibs=true
+prinarycpuabisarme4-v8a
+nn P
+evrriecnil
+Verstoncode=s76 minsdke29 targetsdk=32 Seereh Stns
+E
+splitse[base] E
+apksigningverston=2 (Mate whole word only
+河 Ma con. guna}
+Flagset HAS CODE ALLOW CLEARLUSER-DATA ]
+br vaterlagse PRIVATE: PLAG ACTIVGTIESfeST2E) Rep exprsin seach
+privateFlagsextetPROFILEABLE i
+Forcequeryablesfatse ees
+queriespackages=(]
+Quertesintentse(intent { actecon.androié. vending. DTTINg.
+datavir=/data/user/0/con.gunraiers
+Supportsscreense(snall, medium, large, xlarge, restzeable, anyoensity]
+Tinestamp=2024-09-06 06:40:27
+Hestinseal inex2024-09-08 06:40:29
+Jastupdaterine=2024-09-04 08:40:29
+instal lerPackageNanescon.ocuTus.ocns
+a
+Match beginning of word only
+find Next
+Find Previous
+lose
+| ae )

@@ -1,0 +1,103 @@
+# OCR: ab08ee5d086439d67f5c1e894df0e227.webp
+# 来源: .\02-WriteUp\2025\ab08ee5d086439d67f5c1e894df0e227.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+5
+51
+52
+53
+54.
+55
+56
+57
+58
+59
+s
+气
+62
+63
+白
+65
+66
+67
+68
+69
+78
+7
+2
+73
+力
+75
+76
+7
+78
+73
+30
+aL
+82
+33
+a4
+35
+86
+87
+38
+39
+s
+91
+92
++
+v13 = n8 + 45
+vid = (_mi28i)_mm_and_ps((_#
+vis
+mmm_packus_epil6(vi4, v14)3
+‘mm_packus_epil6(vi5, v15)}
+*((DWORD e = 5)
+“(Coomo *)vie - 4)
+vis = _mm_cvtsi32_si128(n3)5
+na += 16;
+vid = (_mi28i)_mm_s
+v20
+l
+*((DWORD e - 习 。
+v22 = _mm_packus_epil6(V21, v21);
+*((DWORD e = 2)
+‘mm_packus_epil6(v19, v19)5
+)
+while ( (int)(n3 - 8) < 256 )5
+1256 = @3
+a a
+do
+4
+a
+v33[v8]3
+E 1
+ss
+3
+while ( 1256 < 256 )3
+27 = 85
+v36 = 3
+if ( )
+if (a4)
+《
+Size = Sizes
+if ( Size >= 1LL )
+《
+v29 = a3 - (_QWORD)ads
+do
+《
+v30 = (v4 +1) & 256;
+(92283 )_mm_and_ps((_128)_mm_add_epi32(_mm_shuffle_epi32(_mm_cvtsi32_sil2a(ns - 4), @),
+:128)_mm_add_epi32(_mm_shuffle_epi32(_mm_cvtsi32_si128(n3 - 8), @), i128)
+128)
+mm_cvtsil28_si32(_mm_packus_epil6(vi6, v16))5
+mm_cvtsi128_si32(_mm_packus_epil6(v17, v17))3
+nd_ps((__28)_mm_add_epi32(_mm_shuffle_epi32(vi8, @), 54128), vil)3
+(_9128i)_mm_and_ps((_128)_mm_add_epi32(_mm_shuffle_epi32(_mm_cvtsi32_si128(v13), @), 51128), v
+mm_cvtsi128_si32(_mm_packus_epil6(v29, v20))5
+mm_cvtsil28_si32(_mm_packus_epil6(v22, v22))5
+(025 + (unsigned _ ints)alinjedntqamzeOn[n25© % (unsigned int)s2] + ve) % 256;
+>
+池
+魏 公 众 号 - 小 谢 取 证
+D>

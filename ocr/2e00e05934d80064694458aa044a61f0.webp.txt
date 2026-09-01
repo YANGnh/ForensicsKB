@@ -1,0 +1,16 @@
+# OCR: 2e00e05934d80064694458aa044a61f0.webp
+# 来源: .\02-WriteUp\2025\2e00e05934d80064694458aa044a61f0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+config interface ‘lan’
+option
+option
+option
+option
+option
+device ‘br-lan’
+Proto ‘static’
+ipaddr '192.168.3.1°
+netmask '255.255.255.0°
+ipéassign ‘60°

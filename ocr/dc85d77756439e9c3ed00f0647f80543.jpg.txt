@@ -1,0 +1,18 @@
+# OCR: dc85d77756439e9c3ed00f0647f80543.jpg
+# 来源: .\02-WriteUp\2024\dc85d77756439e9c3ed00f0647f80543.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+Derivation Path
+spaz 8P4 。8Pt5 。8P8d 。8Pid1
+Purpose
+Coin
+Account
+External / Internal
+Account Extended
+Private Key
+For more info see the BIP44 spec.
+44
+60
+‘The account extended keys can be used for importing to most BIP-44 compatible wallets, such as mycelium or electrum.
+xprvazSSPnqWAfF3c6KUIrSr3cXheJnbZHBpkSdMSoDGHVULjsS7yNaY JRMEHOGn6iTyFdUuM2Y TWcV 15953mRA|GQwx7 wHtmims13ajCwLScY

@@ -1,0 +1,9 @@
+# OCR: 4c5b5ee4874010526e5d7cbbbbfca3ad.jpg
+# 来源: .\02-WriteUp\2024\4c5b5ee4874010526e5d7cbbbbfca3ad.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+CG 2RGIORE 43.820
+虚 拟 机 (javaserver) 创 建 成 功
+用 户 密 码 巳 重 置 为 :123456
+© 抛 玲录 人 BAS + meee 一

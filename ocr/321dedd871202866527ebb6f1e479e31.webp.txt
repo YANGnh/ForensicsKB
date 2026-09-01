@@ -1,0 +1,12 @@
+# OCR: 321dedd871202866527ebb6f1e479e31.webp
+# 来源: .\02-WriteUp\2025\321dedd871202866527ebb6f1e479e31.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+cuer @mysql (202578) - 2
+团 # - Yau Eee Re, Rou
+¥ User Password
+root *9660F81C4F1CDSF9E
+root *9660F81C4F1CDSF9E
+127.001 root *9660F81C4F1CDSF9E
+1 root *9660F81C4F1CDSF9E

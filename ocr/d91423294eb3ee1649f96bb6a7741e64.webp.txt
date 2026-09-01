@@ -1,0 +1,6 @@
+# OCR: d91423294eb3ee1649f96bb6a7741e64.webp
+# 来源: .\02-WriteUp\2026\d91423294eb3ee1649f96bb6a7741e64.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+192.168,77.100:500

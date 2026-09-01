@@ -1,0 +1,19 @@
+# OCR: 95e47acb3b29bdc08a9596072de862be.jpg
+# 来源: .\02-WriteUp\2024\95e47acb3b29bdc08a9596072de862be.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+‘T search_word @main (news article) -
+te (5) © Sat 国 Rtt hi ones
+timestamp >
+0 assests
+0 http://192.168.137.125/Home/Run/index
+0 192.168.137.125
+1714035741321
+1714035721518
+1714013293214
+1714013231461
+1714013212343
+1713956127773
+1713943605663
+search_ad_extra

@@ -1,0 +1,18 @@
+# OCR: aa24dc381910ba4fdafb7d61cab46423.webp
+# 来源: .\02-WriteUp\2024\aa24dc381910ba4fdafb7d61cab46423.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+Pw AlicesyMacbook , [E]aetise (ARS) > BARES
+Gere =am 怀 英 文 际 世 值
+过 逸 了 Wwe 了 we v
+口 1 接 作 系 统 类 型 macOS
+口 2 探 f 系 经 本 髓
+口 3 版 本 序 刑 号
+口 4 。 产 BNRR 1983-2024 Apple Inc.
+Os TRNAS Alice's MacBook Pro
+Os se Alices-MacBook-Pro
+口 7 平 台 MacBookProl21
+口 8 最 后 登 录 用 户 alice_c
+口 9 语 言 en-HK
+O10 硬 似 UUID 84899592-7A67-5A64-8288-582503075AEE

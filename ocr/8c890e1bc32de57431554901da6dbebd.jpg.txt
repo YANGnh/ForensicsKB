@@ -1,0 +1,9 @@
+# OCR: 8c890e1bc32de57431554901da6dbebd.jpg
+# 来源: .\02-WriteUp\2024\8c890e1bc32de57431554901da6dbebd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+口 凸 vm-ttt-disk-o.vmak / 238 / ubuntu-vg(phrkim-7EL6-Q8kE-BR4T-3yvG-CNey-rGlIGq) / 分 0 home / service /jinyi / web
+Gess| san BAN ‘SEA E Sone
+we VY SF + (tee woe | 日 8 结 林 1 日 , 国 浩
+口 1 Bi jinyiweb.web jar 91.10... 2024-03-14 21:37:08 2024-03-25 10:31:20 _ubuntu-vg(phrkJm-7EL6-QBkE-BR4T-3yn

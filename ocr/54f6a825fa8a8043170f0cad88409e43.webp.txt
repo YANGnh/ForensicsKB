@@ -1,0 +1,16 @@
+# OCR: 54f6a825fa8a8043170f0cad88409e43.webp
+# 来源: .\02-WriteUp\2025\54f6a825fa8a8043170f0cad88409e43.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+passuord_file = args.password
+thread_count = args.thread
+if args.proxy == True:
+set_proxy('e973.kdltps.com:15818', 't14722735145128', 'xvinua5t')
+if mode == ‘cracker’:
+brute_force(mobile_file=mobile_file, password_file=password_file, thread_count=thread_count)
+elif mode == ‘detector’:
+detect_register(mobile_file=mobile_file, thread_count=thread_count)
+else:
+print ( “ 模 式 不 存 在 ! “)
+sys.exit(1)

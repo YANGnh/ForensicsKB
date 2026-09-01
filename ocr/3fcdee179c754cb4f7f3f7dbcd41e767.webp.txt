@@ -1,0 +1,20 @@
+# OCR: 3fcdee179c754cb4f7f3f7dbcd41e767.webp
+# 来源: .\02-WriteUp\2025\3fcdee179c754cb4f7f3f7dbcd41e767.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+义 遂 蕊
+义 道 蕊
+义 道 禧
+BIR
+义 途 蕊
+义 道 禧
+% 遂 簪
+仁 义 道 德 仁 义 道 德 仁 义 道 蕊
+仁 义 道 簪 仁 义 道 德 仁 义 道 蕊
+仁 义 道 德 仁 义 道 禧 仁 义 道 簪
+仁 义 道 禧 IA Kiki 仁 义 道 簪
+仁 义 道 德 XBR 仁 义 道 蕊
+仁 义 道 德 仁 义 道 德 仁 义 道 禧
+仁 义 道 德 仁 义 道 德 IRM BIE
+cnua als

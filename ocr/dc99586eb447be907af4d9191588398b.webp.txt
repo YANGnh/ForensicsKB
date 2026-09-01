@@ -1,0 +1,16 @@
+# OCR: dc99586eb447be907af4d9191588398b.webp
+# 来源: .\02-WriteUp\2024\dc99586eb447be907af4d9191588398b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+检 材 : 检 材 2
+基 本 信 息
+棍 8: 20240704093801Z3DRGB
+(UTC+08.00) 208, BX, SSSWTRE, 行
+2024-07-04 09:38:06
+9.46 GB
+Windows
+WEAN: 608
+SHAT: 22DADEBF136E8CB828D SSE4BAE7BE1F5B3D20927
+WEB:
+史 Administrator | Aa12345

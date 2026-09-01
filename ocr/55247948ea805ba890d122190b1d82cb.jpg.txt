@@ -1,0 +1,10 @@
+# OCR: 55247948ea805ba890d122190b1d82cb.jpg
+# 来源: .\02-WriteUp\2024\55247948ea805ba890d122190b1d82cb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+[root@wns backup]# openssl des3 -d -satt -k IvPGP/8vfTLtzQfJTmQhYg== -tn 2828-sql.gz | tar -xzvf -
+2828_20240427154000.sql
+[root@wns backup]# |s
+2828_20240427154000.sql 2828 sql gz
+[root@wns backup]# []

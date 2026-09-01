@@ -1,0 +1,11 @@
+# OCR: a14660792f79213e4a8bd0f9b8a12ac4.jpg
+# 来源: .\02-WriteUp\2024\a14660792f79213e4a8bd0f9b8a12ac4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+8 2 , Bie E
+Q ae =
+门 | eat E 诊 # | eae) | VAN. | BOM | Bondg | CIDR Be | aie
+口 8 aonse0 E 2 a a
+n meas a a a
+ae w Linux Bridge a 昼 a ens160 192.168.71.133/24 192.168.71.2

@@ -1,0 +1,60 @@
+# OCR: 3a5ec26e7028aa33769a6f70c146b03a.webp
+# 来源: .\02-WriteUp\2026\3a5ec26e7028aa33769a6f70c146b03a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+XML View List View
+8236 </dict>
+6237 <key>com. apple. MLKit .MLPackagePreview</key>
+8238 <dict>
+8239 | <keyoCrBundleIdentifier</key>
+8240 | <string>com. apple. MLKit .MLPackagePreview</si
+e241 | <key>Path</key>
+2242 | <string>/System/Library/PrivateFrameworks/ jstring>
+6243 | <key>ContainerContentClass</key>
+| <string>Data/PluginKitPlugin</string>
+</dict>
+<string>s.0.56</string>
+<string>Data/Application</string>
+<key>CFBundleIdentifier</key>
+<string>com. tencent.xin</string>
+<key>Path</key>
+<string>/var/containers/Bundle/Application/C4F639FD-C408-4784-88C3-1E34FE337C17/WeChat. app</string>
+</dict>
+<key>com. apple. FinanceUIService</key>
+<dict>
+<key>CFBundleVersion</key>
+<string>1.0</string>
+<key>ContainerContentClass</key>
+<string>Data/Application</string>
+<kev>CFBundleIdentifier</kev>
+|
+1
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+| <key>CFBundleVersion</key>
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+1
+|
+|
+|

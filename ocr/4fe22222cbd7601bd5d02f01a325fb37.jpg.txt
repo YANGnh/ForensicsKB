@@ -1,0 +1,43 @@
+# OCR: 4fe22222cbd7601bd5d02f01a325fb37.jpg
+# 来源: .\02-WriteUp\2024\4fe22222cbd7601bd5d02f01a325fb37.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+Pw David Laptop >
+口 1
+口 2
+口 3
+口 4
+口 5
+口 5
+口 7
+口 8
+口
+O10
+on
+EtSe> BARES
+Sam E
+E 史 we
+E MATERIALS_NAME
+E OS_TYPE
+E OS_NAME
+ERS 05 NESS
+Eek OS_TIME_ZONE
+ante) INSTALL_TIME
+FRE PRODUCT_KEY
+REID RELEASE_ID
+RID OS_PRODUCT_ID
+SaRSS C_VERSION
+当 jBuid 胡 李 号 VERSION
+bor Vv
+Windows 10 Pro
+Windows
+Professional
+6a
+(UTC+08:00) 21
+BE, SSAiNBB..
+\V64MIN-86F8K-FDH7F-QHY9V-WK86C
+2009
+00342-50409-84439-AAOEM
+10
+19043.928

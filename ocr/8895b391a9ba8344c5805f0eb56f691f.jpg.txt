@@ -1,0 +1,11 @@
+# OCR: 8895b391a9ba8344c5805f0eb56f691f.jpg
+# 来源: .\02-WriteUp\2024\8895b391a9ba8344c5805f0eb56f691f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+着 need_gve_money
+E
+int(11)
+7 null
+SME
+sae

@@ -1,0 +1,70 @@
+# OCR: 0698f9fe7d954019c873b92e43e08974.webp
+# 来源: .\02-WriteUp\2024\0698f9fe7d954019c873b92e43e08974.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+庞 Di-ESEoccyniriinepotrieWoe
+Fle Edit Jump Search View Debugger Lamina Options Windows Help
+BA 吊 - 口 雌 雌 火 雄 土 口 DO 逯 逊 政 许 - 东 睡 X > OO we dese
+0
+Cureucuumomrmneepopmoreioel
+[7] Punctions window oe x|@ TDA Views oo
+E oo E 日 面 Inports
+Function name
+1
+四 e
+[A sub_140001010
+[2] sub_140001020
+四 _
+因 e
+TF _repon rangechecil
+[7 sub s4oootaec
+CZ capture curent contest
+[7] capture previous context
+F. pre_< intiaization(void)
+[post pge initialization(void)
+TF peep iniazationvoid)
+(7) sce common rin seh(vid)
+[ZI stare
+ne 5 of 6
+5 o 8
+Fn
+i
+c
+I
+1 quord ptr -10h
+Nar-s» qrord per 8
+ree qword ptr ich
+庞 18h
+E qword ptr 20h
+1 quod ptr 25h
+unwind { // _Gstandlercheck
+bp
+Nee bp, [rsp-0re0h)
+Jeov eax, 080%
+e
+sub Sp, rae
+lrov vax, 5:_security_cookie
+Iker ax rap)
+区
+Hee rex, [rbptoFe@htvar_FEE]
+区 沥 达
+区 洁 河
+医 c rae
+E 1
+E [roproreonsve
+e
+lor sass eax
+fico Fexy [reptortontver_c20]
+lev Faas doo
+nn
+cree smd, somo
+fee” en
+100.008 (-18,364) (197,540) cooc0arofocoooc0ic000z0E0) main (synchronized with Hex View-1)
+El owtpue vinden
+140008F94: using guessed type —int6s —fastcall sub_140008F98( (WORD, _QWOAD, CHORD);
+4000530C: using guessed type _intes 工
+140005860: using guessed type —intes Zul
+14000658: using
+149020770: using guessed type —intes
+140028250: using guessed type —inti26-omwor

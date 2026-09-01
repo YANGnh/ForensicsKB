@@ -1,0 +1,9 @@
+# OCR: 5a23967b7e77c121f23128e7722bbea6.jpg
+# 来源: .\02-WriteUp\2024\5a23967b7e77c121f23128e7722bbea6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+droid@node1:~$ sudo docker images
+REPOSITORY TAG IMAGE ID CREATED SIZE
+redraid/redroid 12.0.0-latest did4bfZeS9hb 7 months aga 2. 03GB
+draid@node1:~s

@@ -1,0 +1,18 @@
+# OCR: 25ea55eba0386ceaa092299c55c2521d.jpg
+# 来源: .\02-WriteUp\2024\25ea55eba0386ceaa092299c55c2521d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+1, ruo-yi 卸 置
+数 据 库 IP
+检 查 nysql 连 接 语 叶
+55L 报 锦
+yeq 连 接 语 句 修 改 成
+useSSL=false
+ed5 报 锦
+Localhost 修 改 为 127.0.01
+Based on configured schedule, the given trigger 'DEFAULT.TASK_CLASS_NAME105' will never fire.
+Never fire 定 时 任 务 插 件 执 行 时 间 问 题
+Sys_job 表 修 改 gron_ expression 的 执 行 时 间 对 上 年 份 就 行
+登 录 受 限 > 检 查 p 黑 名 单
+sys_config 表 检 查 login_ ip limit 值 。

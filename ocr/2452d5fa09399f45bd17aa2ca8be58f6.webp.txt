@@ -1,0 +1,7 @@
+# OCR: 2452d5fa09399f45bd17aa2ca8be58f6.webp
+# 来源: .\02-WriteUp\2025\2452d5fa09399f45bd17aa2ca8be58f6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+® signed xzexe
+indows\System’2\emd.exe

@@ -1,0 +1,6 @@
+# OCR: 704a22dbf8d483b8a8ab2df88946817a.jpg
+# 来源: .\02-WriteUp\2024\704a22dbf8d483b8a8ab2df88946817a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 16:10
+
+# 结果: 无可用文本（tesseract 未识别到文字）

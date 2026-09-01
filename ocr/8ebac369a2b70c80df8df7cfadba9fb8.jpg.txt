@@ -1,0 +1,74 @@
+# OCR: 8ebac369a2b70c80df8df7cfadba9fb8.jpg
+# 来源: .\02-WriteUp\2024\8ebac369a2b70c80df8df7cfadba9fb8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+=| userdata.ini |
+13
+14
+15
+16
+17
+18
+19
+20
+22
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+日 [192.168.71.1008315555]
+WindowRectX=2145
+WindowRectY=135
+WindowRecti#561
+WindowRectH=998
+日 [192.168.71.10083825555]
+WindowRect
+WindowRecti#561
+WindowRectH=998
+日 [192.168.71.10083835555]
+WindowRect:
+WindowRecti-561
+WindowRectH#-998
+日 [oomoni
+TrayMessageShown=true
+RecordPath=
+BitRate=2000000
+Maxsizerndex-2
+RecoraFormatIndex-0
+FramelessWindowfalse
+LockDirectionIndex-0
+RecordScreenmfalse
+RecordBackGround-false
+ReverseConnect=true
+ShowFPS=false
+WindowonTop=false
+AutooffScreen-false
+KeepAlive-false
+SimpleMode=false
+AutoUpdateDevice=true
+口 Ctool un x |
+© Ctool 1,365 SFB
+Base64 ® URL##IS Unicode
+192.168.71.100%3A15555
+192.168.71.100:15555
+DBs Ra ee]
+JWT SEES
+HexiString
+A
+加 脚 鸿 经 各 pe SES 。 转 振 tH
+Him si
+a,
+E
+Gzip

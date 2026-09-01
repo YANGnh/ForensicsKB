@@ -1,0 +1,49 @@
+# OCR: f2f27729df88bad96dadb26c31c168f7.webp
+# 来源: .\02-WriteUp\2024\f2f27729df88bad96dadb26c31c168f7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+@override // org. springframework. security.config. annotation. web. configuration. WebSecurityConfigurerAdapter, org.cprirgf
+public void configure(WebSecurity web) throws Exception t
+web. ignoring() -antMatchers("/verifyCode") 5
+web. ignoring() -antMatchers("/Code") 5
+]
+@override // org. springframework. security.config. annotation. web. configuration. NebSecurityConfigurerAdapter
+protected void configure(authenticationManagerBuilder auth) throws Exception {
+auth.userDetailsService(this.userService) .passwordEncoder(new NessageDigestPasswordEncoder("NDS"))3
+]
+LoginFilter loginrilter() throws Exception {
+LoginFilter loginrilter - new LoginFilter();
+loginFilter. setauthenticationSuccesstiandler(request, response, authentication -> {
+response. setContentType(""application/jsonscharset=ut*-3");
+Printiiriter out - response.gethriter();
+User user = (User) authentication. getPrincipal();
+String token = this. jutTokenUtil. generateToken(user)
+UserParam userParam = new UserParam(user, token);
+Result result - Result.ok("SRA01", userParam);
+out write (JSONUti1.toIsonStr(result))
+out. flush();
+out.close();
+Ds
+loginrilter. setauthenticationFailuretiandler(request2, response2, exception -> {
+response2. setContentType( "application/json;charset-ut?-2") 3
+Printiiriter out - response2.getiiriter();
+Result result - Result.error (exception gettlessage())s
+if (exception instanceof Lockedexception) 〈
+result.sethsg(“MPUME 语 联 玟 ;
+} else if (exception instanceof Credentialstxpiredexception) {
+result.setsg( "EAU, 诚 筠 氏 )
+} else if (exception instanceof Accountexpiredexception) {
+result.sethsg(“MPMR, RR EIER!") 5
+} else if (exception instanceof Disabledexception) {
+result.sethsg “PUMA WRREIER!");
+1 else if (exception instanceof BadCredentialsexception) {
+result. setMsg!
+]
+out.write(ISONUtil.toJsonstr(result)) 5
+out. flush()5
+out.close();
+vs
+LoginFilter. setauthenticationtanager (authenticationtianagerBean());
+LoginFilter. setFilterProcessesUrl (DefaultLoginPageGeneratingFilter.DEFAULT_LOGIN_PAGE_URL);
+return loginFilter;

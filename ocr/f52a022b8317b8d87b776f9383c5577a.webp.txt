@@ -1,0 +1,12 @@
+# OCR: f52a022b8317b8d87b776f9383c5577a.webp
+# 来源: .\02-WriteUp\2024\f52a022b8317b8d87b776f9383c5577a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+2 select 餮yp崔′【0L」′`(】》 "FAK
+order by FRR
+BR al Re
+type | ERA
+wt BBs
+晓 春 口 的 春
+$I" from 25c2022_data where type in (1,80,20,61,5) group by type

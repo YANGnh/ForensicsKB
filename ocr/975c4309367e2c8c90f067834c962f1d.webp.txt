@@ -1,0 +1,33 @@
+# OCR: 975c4309367e2c8c90f067834c962f1d.webp
+# 来源: .\02-WriteUp\2025\975c4309367e2c8c90f067834c962f1d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+\root\phishing\.git
+5R EE Tue 。 78E
+2 = phishing H \root
+OG. = git 32 E \root\phishing
+[branches (0 Fe, - \root\phishing\.g
+hooks EH \root\phishing\.g
+E H \root\phishing\.g
+2allogr 。 H \root\phishing\.g
+i Dobjects as \root\phishing\.g
+refs \yoot\phishing\
+ee
+1 description \root\phishing\.g
+3 Heap: ae \root\phishing\.g
+J Djindex eH \root\phishing\.g
+1 Xindexlock 8S. lock \root\phishing\.g
+1 UJpacked-refs eH \root\phishing\.g
+门 一 妮 目 X , 因 R | Dee | oO eee | e 月 | pad | 的 丁 吴 =|
+Offset 0 12 3 4 5 6 7 8 910 11 12 13 14 15 vj UTF-
+04299403312 74 72 75 65 0A 09 62 61 72 65 20 3D 20 66 61 6 true bare = fal
+04299403328 73 65 0A 09 6C 6F 67 61 6C 6c 72 65 66 75 70 64 se logallrefupd
+04299403344 61 74 65 73 20 3D 20 74 72 75 65 0A 5B 72 65 6D ates = true [rem
+04299403360 6F 74 65 20 22 6F 72 69 67 69 GE 22 5D 0A 09 75 ote “origino] wu
+04299403376 72 6c 20 3D 20 68 74 74 70 73 3A 2F 2F 67 68 2E rl = https://gh.
+04299403392 76 69 72 75 2E 73 68 2F 67 69 74 68 75 62 2E 63 viru.sh/github.c
+04299403408 6F 6D 2F 53 74 61 72 66 69 72 65 4C 61 62 2F 70 cm/StarfireLab/p
+04299403424 68 69 73 68 69 GE 67 DR 09 66 65 74 63 68 20 3D hishingff fetch =
+04299403440 20 2B 72 65 66 73 2F 68 65 61 64 73 2F 2A 3A 72 +refs/heads/*:r
+04299403456 65 66 73 2F 72 65 6D GF 74 65 73 2F 6F 72 69 67 efs/remotes/orig

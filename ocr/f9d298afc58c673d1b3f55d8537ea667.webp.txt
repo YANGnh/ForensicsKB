@@ -1,0 +1,15 @@
+# OCR: f9d298afc58c673d1b3f55d8537ea667.webp
+# 来源: .\02-WriteUp\2024\f9d298afc58c673d1b3f55d8537ea667.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+名 称 personal dataxisx
+PRS: xlsx
+类 盔 : 文 件
+大 h: 10.67 KB
+创 建 间 : 2024-08-19 16:23:56
+访 闯 间 : 2024-08-19 16:23:56
+惟 改 时 间 : 2024-08-19 16:23:56
+MetaAddr: 131695
+Bam: 否
+jedia/WhatsApp Documents/personal_data.xlsx

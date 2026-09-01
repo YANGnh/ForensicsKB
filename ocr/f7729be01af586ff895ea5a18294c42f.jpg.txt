@@ -1,0 +1,26 @@
+# OCR: f7729be01af586ff895ea5a18294c42f.jpg
+# 来源: .\02-WriteUp\2024\f7729be01af586ff895ea5a18294c42f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+P gesenen> 国 x+me , poe
+we
+口 98
+口 驭
+口 000
+O10
+口 12
+E
+me
+Souisulig LAPENEHCE mie
+aq
+Samsung Core Services
+T
+8
+ae
+CON 291 BUNTY SHUR UIUATTOUNEOEI VILE
+com.tencent.mobileqq
+w2a.W2AhS,jsgjzfxorg.cn
+com.samsung.android.app.soundpicker
+com.secandroid.app.billing
+com.samsung.android.scs

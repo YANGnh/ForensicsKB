@@ -1,0 +1,28 @@
+# OCR: b2e7cba262919ffa819afd1abf60c3aa.webp
+# 来源: .\02-WriteUp\2025\b2e7cba262919ffa819afd1abf60c3aa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+E 口 = 卯 “ 常 CommonActiondassphp 余 confgdbphp X
+: 葛 。App > Conf > 町 confodbphp
+, c adminkey Aa ab,» Been
+Bia AB fe] 2
+as 3 return array(
+2 文 伟 丰 有 2 个 结 果 - 在 编 棣 咤 中 打 开 4
+Ponta db pip nnr 5 "DB_TYPE* => 'mysql', // 数 据 库 类 型
+6
+‘etgladminksy’ => 26xBAmV.. x 7 "DB_HOST* => 'kBs-node1", // JI Bil
+、 符 CommonActiondassphp App\Lib\... (i) 5
+return shat (md5(md5(C(‘efg_adminkey’).... 9 *DB_NAME* => 'motxSdw', // 数 据 库 名
+16
+1 *DB_USER* => 'MotxSDW', // 用 户 名
+12
+E “D8_PMD「 => 'TKFTciiHS8nLjDix', // ©
+14
+15 *DB_PORT* => 3306, // 端 日
+16
+17 *DB_PREFIX’ =>, // BORER AR
+18
+19
+26
+21 )

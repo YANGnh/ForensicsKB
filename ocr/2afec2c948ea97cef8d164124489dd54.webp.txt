@@ -1,0 +1,14 @@
+# OCR: 2afec2c948ea97cef8d164124489dd54.webp
+# 来源: .\02-WriteUp\2024\2afec2c948ea97cef8d164124489dd54.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+GET /rev.txt HTTP/1.1
+User-Agent: Wget/1.13.4 (linux-gnu)
+Accept: */*
+Host: 192.168. 75.132:2000
+Connection: Keep-Alive
+HTTP/1.0 200 OK
+Server: SinpleHTTP/6.6 Python/3.11.8
+Date: Wed, 31 Jul 2024 06:44:32 GMT
+Content-type: text/plain

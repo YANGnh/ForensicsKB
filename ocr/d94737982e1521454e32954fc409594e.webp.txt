@@ -1,0 +1,14 @@
+# OCR: d94737982e1521454e32954fc409594e.webp
+# 来源: .\02-WriteUp\2024\d94737982e1521454e32954fc409594e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+1 TP sTask @main (laixi) -
+Gi aes 2 平 8 |= ae
+id createTime name
+pM] 0000254090295 een time:
+2:0091144990603 英 b
+Gs 广 B 图 RRtt 吴 om
+fileName
+CAProgram Files\Laix\Scripts\ a1 LBs
+CAProgram Files\Laix\Scripts\ ERFIBEE bat

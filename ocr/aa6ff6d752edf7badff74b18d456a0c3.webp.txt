@@ -1,0 +1,55 @@
+# OCR: aa6ff6d752edf7badff74b18d456a0c3.webp
+# 来源: .\02-WriteUp\2025\aa6ff6d752edf7badff74b18d456a0c3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+s
+SRE
+Imagezip (25
+Imagezip (211,072
+pe-disk
+品 E1
+3, 9B 2 (14
+吕 E 3
+32, 9 4 711,38
+咤 3E1
+video (42:
+SmartFridge.bin
+server? (2
+咤 E1
+servert (15
+光 E1
+吕 E
+By BB 3 (122
+23 |
+ee EF
+Vlogs
+2) syslinux (15
+团 System Volume Inf}
+\config
+JY Ree x3 RE
+OM. = (RBS)
+Oa. = config \
+J U)domain.cfg 面 \config
+二 口 d \config
+J Jeditoncfg 面 \config
+1 Aforcesyne \config
+g config
+i Gident.cég cfg \config
+i Gnetwork.cFg fg \config
+i Jpasswd \config
+JE) Prokey key \config
+| Jrandom-seed \config
+i Jsecrets.tdb b \config
+i Jshadow \config
+1 smbpasswd EH \config
+i Jsuper.dat EN dat \config
+门 一 3 “ 口 X |) ms | Ava oO eee Boas): [a | ~ | =| BE)O=)
+Offset o 12 3 《 5 6 7 8 910 11 12 131415 UTE-'
+0016973824 23 21 2F 62 69 6E 2F 62 61 73 68 OD 0A 65 78 70 #1/bin/bash exp
+0016973840 6F 72 74 20 55 4E 52 41 49 44 5F 47 55 49 44 3D ort UNRAID_GUID=
+0016973856 32 32 33 44 43 42 38 33 2D 38 32 42 30 2D 34 43 223Dc883-8280-4C
+0016973872 36 32 2D 38 36 34 41 2D 44 42 32 38 44 38 34 37 62-864A-DB28D847
+0016973888 33 35 42 38 OD 0A 65 78 70 6F 72 74 20 55 4E 52 35 督 export UNR
+0016973904 41 49 44 5F 4E 41 4D 45 3D 54 6F 77 65 72 OD OA AID_NAME=Tower
+0016973920 65 78 70 6F 72 74 20 55 4E 52 41 49 44 SF 44 41 export UNRAID DA

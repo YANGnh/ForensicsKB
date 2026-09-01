@@ -1,0 +1,70 @@
+# OCR: 371400d2c8aab5338ac89e0bc0b34fe1.webp
+# 来源: .\02-WriteUp\2026\371400d2c8aab5338ac89e0bc0b34fe1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+nn - of x
+SAP) HE) RG) REN RAN) EW) ea0 TRO) AON aR wR) BW) ) oy
+GSES s58) 4d0/3¢)a% *s/ Gale ETBOAGS SCOR T5T* ~~ sane
+CIHE of
+systemiogjson
+TAaTIOSETSTG, *packagetans”? "con, coloros.Gallerysd™, "usedTine™ 11215), ("appNane":" KEORE™,
+744118966182, "packageName" : "com.oppo. launcher", "usedTime": 1391}, {"appName" : "4489",
+com. coloros.gallery3d", "usedTime":52162), ("appNane": "RARE",
+"backgroundTimestanp*:1744118968794, *foregroundTimestanp™
+"background7imestamp":1744118967573, *foregroundrimestamp"
+"backgroundTimestamp": 1744118966179, "£oregroundTimestamp": 1744119914017, "packageNama'
+"packgroundTimestamp":1744118913092, *foregroundTimestamp" 1744118910232, "packageName" "com. oppo. launcher", "usedTine": 3660), ("appName": "BiB",
+"packgroundTimestamp":1744110910231, *foreqroundTimestanp" 1744119099501, *packageNane" :"com. android.contact s", "usedTime":11730), ("appNane'
+"packgroundTimestamp" 1744116698349, "oregroundTimestanp" :1744119597941, *packageNane" :"com. oppo. launcher", "usedTime* 300409), ("appName"
+"backgroundTimestamp" : 1744118406721, "foregroundTimestamp” : 1744118403782, "packageName" : "com. oppo. launcher", "usedTime": 2939}, {"appName"
+744118385952, "packageName": "com. tencent .map", "usedTime":17821), ("appName" t
+"backgroundTimestamp" 1744118403773, "foregroundTimestamp"
+744116305199, *packageName": "com. tencent .map", "usedTime": 725}, rn
+"backgroundTimestamp": 1744118385927, "foregroundTimestamp"
+"backgroundTimestanp" : 1744118385153, "foreqroundTimestamp" 1744119385078, ™packageNane" : "com. tencent map", "usedTime":75}, ("appName": "UE",
+"backgroundrimestamp" : 1744118385059, "foreqroundTimestamp" 1744119382488, ™packageName" : "com. tencent .
+"backgroundTimestanp" : 1744116352472, "foregroundTimestamp":1744119332369, ™packageNane" : "com. tencent .
+"backgroundTimestamp" : 1744116382363, "foregroundTimestamp" 1744119382195, ™packageNane" : "com. tencent..
+"backgroundTimestamp" : 1744116362175, "foregroundTimestamp":1744118376888, "packageName" : "com. tencent map", "usedTime":5287}, ("appName"
+744118322296, "packageName” : "com. tencent .map", "usedTime” 54582}, ("appNane’
+744118320562, "packageNae" : "com.android.permissioncontroller", "usedTime": 1697), {"appName":
+“backgroundTimestamp" :1744118376878, "foregroundTimestamp"
+"backgroundTimestamp": 1744118322259, "foregroundTimestamp"
+*BHUBEW, “backgroundTimestanp" : 1744118520554, "foreqroundTimestamp":1744119316664, *packageName" : "com. tencent map", "usedTime": 3890}, {"appName" : "AR
+"backgroundTimestamp": 1744116316508, "foregroundTimestamp" 1744118313611, "packageNane": "com. oppo. launcher", "usedTime":2697}, {"appNamo": "2378",
+"backgroundrimestanp" : 1744116313810, "foregroundTimestamp":1744118311313, "packageNane" : "com. heytap.quicksearchbox", "usedTime":2497), ("appName'
+"packgroundTimestamp":1744110311294, *foregroundTimestamp" 1744110310049, "packageName" : "com. oppo. launcher", "usedTime":1245), (appName": "4/8",
+"backgroundTimestamp":1744119310032, "foregroundTimestamp" :1744118306326, "packageNane” :"com.bqg.ddnover1", "usedTime":3706), ("appName” : "AHI",
+"backgroundTimestamp" :1744118305050, "foregroundTimestamp" :1744118304723, "packageNane":"com.bqg.ddnoverl", "usedTime":327}, ("appNane": "5A",
+‘psckgroundimos amp1:1744118900006,"foregrounaTinestaqp':1744116294703,rpackagelane”: "com.ag. Gipoverl", usedTine 5303}. (Tappan
+FSA,
+oppo. Launcher", "usedTime: 26581}, {"appName™
+‘com.heytap.quicksearchbox", "usedTime": 10925), ("appliame":
+‘com. oppo. launcher", "usedTime":4310), (appName" : "2/1270",
+heytap. quicksearchbox", "usedTime": 9152), ("appNane’
+"backgroundTimestanp":1744116286202, "foregroundTimestanp": 1744118261621, "packageNane
+"backgroundTimestamp": 1744110261620, "foregroundTimestamp":1744119250695, "packageNana'
+"background? imestamp": 1744110250695, "foregroundTimestamp":1744119246385, "packageName"
+"backgroundTimestamp": 1744115246376, "foregroundTimestamp" 1744118237224, "packageName"
+118237222, "foregroundTimestamp":1744118222411,
+ackgroundTimestanp":1744116219188, *foregroundTinestanp": 174116219119, "packageName" 69), ("appNane”:
+[a4 19219098, oregroundTinestanp"1/141:15980, tpackagelfame":"com-nearme.ganecenter dz nearne gamecentex", "used
+rapphane": MME", spackgronndivimestamp':1 744110199600, "foregrounstinestampr 1144110199936, *packagenane’ "Gon noarme-gemeconter-adz_neavme-gamecont@r",
+wusedTime": 72}, ("appName" : "RHSHEE", "backgroundTimestamp": 1744119199528, "foregroundTimestamp": 1744119190891, "packageName"
+‘"com.nearne.ganecenter. ddz nearme.ganecenter", "usedTine":637) , ("appNane": "SiilH3" ,backgroundTimest amp" :1744119195067, "foregroundTinestamp":1744116195923,
+"packageName":"com.heytap-htms”, "usedTime":3044), ("appNane" : "HSM", "backgroundTimestamp": 1744119195904, "foregroundTimestamp": 1744116195734, "packageName”
+:M"com.nearme.gamecenter .ddz.nearme.gamecenter”, "isedTime": 70}, {"appliane": "RBSHBE", "ackgroundTimestanp":1 744119195733, "foregroundTimestamp": 1744119192849,
+“packageliame":com.nearme. ganecenter.ddz.nearme.ganecenter", "isedTime":2064), ("appllane":"RUUH", "backqroundTimestamp":1744118192041, "foregroundTimestamp":
+1744118192586, *packageName":""com.heytap.mcs™, "usedTime":255), {"appName" :“Sahii'5*, "backgroundTimestamp":1744118192561, "foregroundTimestamp" 1744118192469,
+"packageName":"com.heytap.htms", p "REAR", "backgroundTimestamp":1744116192468, "foregroundTimestamp": 1744110100451, "packagoNamo":
+"com.heytap.mes", "usedTime":017}, (appName" : "0H SAB"
+"backgroundtimestamp": 1744118195267, "foregroundTimestamp": 1744118149615, "packageNane'
+"com.nearme. gamecenter.ddz.nearme -ganecenter", "usedTime" : 30672}, ("appNane" : "HSE", "ackgroundTimestamp": 1744119149605, "foregroundTimestamp":
+1744118147535, "packageNane" : "com.nearme..ganecenter .ddz-nearme.ganecenter™, "usedTime":2073), {"appName" :" RAMI", "backgroundTimestamp": 1744116147479,
+“foregroundTimestamp":1744116137177, "packageName": "com. oppo. launcher", "usedTime": 10302}, (appName": "@UE", "backgroundTimestamp":1744118137174,
+"foregroundTimestanp" : 1744118084143, *packageName" 253031}, ("appName" : "RHE", "background?imestamp": 1744118084143,
+"foregroundrimestanp" :1744118074455, "packageName" 1688), {"appName" : “#UE", "backgroundTimestamp":1744117015864,
+“foregroundTinestanp":1744116619672, *packageNane” 97186), (NappNane": "SHE", "backgroundTinestamp":17441 16618658,
+ISON fle
+length: 68,618 lines: 1 l c a Windows (CRLF) UTES 区

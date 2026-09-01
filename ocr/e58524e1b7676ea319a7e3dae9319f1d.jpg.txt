@@ -1,0 +1,16 @@
+# OCR: e58524e1b7676ea319a7e3dae9319f1d.jpg
+# 来源: .\02-WriteUp\2024\e58524e1b7676ea319a7e3dae9319f1d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+恶 意
+flashcenter_pp_ax _install_cn.exe
+莲 Ndgs 2024/05/11 FORIBSE 2024/05/11 FRA MT: 2024/05/11 20:09:08
+xv: 2.6 MB E PE32+ executable (GUI) x86-64, for MS Windows
+Bigg: 9/27 NFER: Win10(1903 64bit OFfice2016)
+anos: EER 0 wea: El cobeltstrike
+CobaltStriket2il
+RBRZIHNISSKEIERNE REA ECobaltstrie SRR,
+SHA256: _caSb8de264cde2a3efecSfd3ccSbf934751d72db59159422482067decO5e590d
+SHAT: 69de0e2b60e67a249f#e58592374255(2c20483
+E Ezg SE c=

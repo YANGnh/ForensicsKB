@@ -1,0 +1,22 @@
+# OCR: c367c86fe91147c6f84a9bd7faf5526d.webp
+# 来源: .\02-WriteUp\2025\c367c86fe91147c6f84a9bd7faf5526d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+详 细 信 息
+名 称 ; deltazero.amarok.prefs.xml
+扩 展 名 : xml
+类 型 : 文 件
+大 小 : 438 B
+修 改 时 间 : 2025-09-25 23:23:38
+元 数 据 地 址 : 18909165056
+全 路 径 :
+2.Image.tar/Image/data/data/deltazero.amarok/shared_prefs/deltazero.amarok.prefs.xml
+meee: 未 加 密
+已 券 除 : 否
+原 类 型 视 图 文 本 视 图 十 六 进 制 视 图
+andalone-
+01511b4f6020ec61ded
+storage/emulated/0/Private
+炫 图
+贴 图 : 0 [Default]

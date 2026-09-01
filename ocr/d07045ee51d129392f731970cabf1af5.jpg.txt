@@ -1,0 +1,9 @@
+# OCR: d07045ee51d129392f731970cabf1af5.jpg
+# 来源: .\02-WriteUp\2024\d07045ee51d129392f731970cabf1af5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+== 诊 8
+> LEBER > SINE (D) > Rope-Opal-03a > videos
+Por ae aS
+load

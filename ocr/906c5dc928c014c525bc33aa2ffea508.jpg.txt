@@ -1,0 +1,13 @@
+# OCR: 906c5dc928c014c525bc33aa2ffea508.jpg
+# 来源: .\02-WriteUp\2024\906c5dc928c014c525bc33aa2ffea508.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+Recipe 日 园 input
+L3d3dy93d3dyb290L2R1ZmF1bHQvZmxhZ3My,
+From Base64 @ n
+一 芸 2
+Alphabet
+R720 89) + Remove non-alphabet chars ourput
+Unawnmrootefault/flags/
+Strict mode

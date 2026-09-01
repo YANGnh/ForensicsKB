@@ -1,0 +1,16 @@
+# OCR: a51f29afa2e2773c8d304c35cee5c293.webp
+# 来源: .\02-WriteUp\2024\a51f29afa2e2773c8d304c35cee5c293.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+Rex +
+[root@localhost reports]# cd http_192.168. 11.89
+[root@locathost http_192.168.11.89]# Is
+_24-05-21 06-59-55.txt _manage_24-05-21 07-05-15. txt
+[root@localhost http_192_168.11_89}# cat *.txt | grep 200
+288 1B http: //192.168.11.89/1.txt
+208 4KB http: //192. 168. 11.89/favicon.ico
+208 248 http://192.168-11.89/robots-txt
+208 121KB http: //192.168.11.89/web/
+208 168KB http: //192.168.11.89/manage/www.zip
+[root@localhost http_192.168.11.89]# []

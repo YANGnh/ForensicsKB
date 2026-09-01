@@ -1,0 +1,26 @@
+# OCR: ce51bee058d3a15589a2d93f8ca473ac.webp
+# 来源: .\02-WriteUp\2024\ce51bee058d3a15589a2d93f8ca473ac.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+ERNEIISIarmictbuedrai
+I RASA
+i. misc
+J. = bluedroid
+“| bt config.bak
+| bt config.conf
+-# , 口 2 | me 吊 M | ooze
+[Info]
+FileSource = Empty
+TimeCreated = 2023-12-29 15:59:28
+[Metrics]
+Salt256Bit = 557b0688c08cc097f7d72ddba4a420a2797d796106b2f5c5°
+[Adapter]
+Address = 48:87-59:76:21-0f
+LE_LOCAL_KEY_IRK = 4d6427188074d931767634e0290b5347
+LE_LOCAL_KEY_IR = bbf33f069912b10f6c89b9be08a5b1da
+LE_LOCAL_KEY_DHK = da227605afod8ed6378b9645a38bb9a6
+LE_LOCAL_KEY_ER = 2176b214d4090400094112fc00ea87d8
+ScanMode = 0
+DiscoveryTimeout = 120
+Name = 2954949413Redmi 10

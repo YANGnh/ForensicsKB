@@ -1,0 +1,60 @@
+# OCR: 4ef17deb1912c4e3369a639fc97f1381.webp
+# 来源: .\02-WriteUp\2025\4ef17deb1912c4e3369a639fc97f1381.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+E
+controllers
+i middleware
+BB models
+JS. auth,routesjs
+J productroutesjs
+utils
+JS dbjs
+apps
+团 Ibianise
+10
+Fry
+2
+口
+14
+5
+16
+D
+18
+19
+20
+a
+2
+23
+24
+25
+26
+27
+28
+29
+30
+31
+广
+- Hn
+* ereturns {sti
+v
+const getflag2 = 0 => {
+try t
+// (PFASOR ect _flagiheh. OSRitASREA SC:
+A) 述 仁 园 H 万 A
+return Maecniaeo
+} catch (error) {
+console. error (' ag
+return “ASSARLflog> 诽 Ba 兵 行 H 园
+2
+h
+// E
+E 。
+try t
+conoleioe( 0n
+console. log( "HZ3FR12:",
+error);
+ath = path. join(_dirname, *...
+‘LibJiamiPath) ;
+ag,

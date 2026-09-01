@@ -1,0 +1,10 @@
+# OCR: 0b7f5c78cc36f2b636c3bf7183037a83.jpg
+# 来源: .\02-WriteUp\2024\0b7f5c78cc36f2b636c3bf7183037a83.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+tea/nig216888914H31 A
+B 186 Sakae xe: R
+RE
+0% 0% 0%
+aE e ae

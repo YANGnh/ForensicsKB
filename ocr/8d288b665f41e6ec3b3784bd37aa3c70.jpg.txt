@@ -1,0 +1,8 @@
+# OCR: 8d288b665f41e6ec3b3784bd37aa3c70.jpg
+# 来源: .\02-WriteUp\2024\8d288b665f41e6ec3b3784bd37aa3c70.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+吊 anz , 嚎 fabhal > Sinalshellais
+回 三 8S , 三 泊 8 Senne
+root Cse19981228 192.168.100.100 22

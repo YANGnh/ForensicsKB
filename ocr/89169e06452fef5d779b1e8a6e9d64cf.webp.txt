@@ -1,0 +1,44 @@
+# OCR: 89169e06452fef5d779b1e8a6e9d64cf.webp
+# 来源: .\01-取证技巧\07-服务器云\89169e06452fef5d779b1e8a6e9d64cf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+s , R > card >
+Bh oO)
+——— Sw) aR) tO) Seo) Aah on
+xml version="1.072>
+aa
+K
+BT Ea posted 1 SEPA LAER
+管 理 工 自 标 酸 罪 闾 税 序 的 论 罪 。 ALLER Visual Studio 中 的
+BIA = hop. Net BLE” ORI.
+设 罪 和 注 释 的 免 随 初 表 圭 E
+machine. config. comments 中 , 该 次 件 酶 带 位 于
+\Windows\Ili crosoft. Net\Framework\v2. x\Config 中
+-->
+configuration»
+<canfigSections>
+<section nane="RewriterConfig” type="URLRewri ter. Config. Rewri terConfigSerializerSectionHa
+</configSections>
+<Rewri terConfig>
+<Rules>
+<RewriterRule>
+<LookFor2”/ (ty |Ly Lym|hj lore lw [xx |x] 2x [22 | qq) (1-912) /2</LookFor>
+<SendTo>"/by/$1/$1§2. aspx</SendTo>
+</RewriterRule>
+<RewriterRule> 、
+<LookFor2”/ (hdj|gal [12x |1xx|htjhds|14£) ([1-9]2) (1) 2/2</LookFor>
+<SendTo>"/z£/$1/$1$2. aspx</SendTo>
+</RewriterRule>
+<RewriterRule> 、
+<LookFor2”/iptj (1-61) </LookFor>
+<SendTo>"/res/ip/t $1. aspx</SendTo>
+</RewriterRule>
+<RewriterRule> 、
+<LookFor>”/u/?</Lookf or>
+<SendTo>”/ur/sl/slmain. aspx</SendTo>
+</RewriterRule>
+<Rewri terRule>
+<LookFor2”/g/?</LookF or>
+<SendTo>”/gr/gmain. aspx</SendTo>
+</RewriterRule>

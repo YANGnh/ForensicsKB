@@ -1,0 +1,10 @@
+# OCR: cea5428e1810b75689581e58149de572.webp
+# 来源: .\02-WriteUp\2024\cea5428e1810b75689581e58149de572.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+# root @ ql-ni17-45.117.19.203 in I/data/mysql/data [21:16:22]
+$ cd lokd
+# root @ ql-n117-45.117.19.203 in /data/mysql/data/lok1 [21:16:26]
+$ Ls
+H

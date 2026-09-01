@@ -1,0 +1,54 @@
+# OCR: 2d88d4863dfaf68cdc5ad3870fe10ca6.webp
+# 来源: .\02-WriteUp\2024\2d88d4863dfaf68cdc5ad3870fe10ca6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+Wireshark - 382% TCP % (tep.stream eq 184) -tepdump S.cap
+rr
+目 e
+[
+P
+Creense
+] |
+punkitesdecoded.c
+REAOVE ed
+] | renocethost puncit-Exploit-nain)s ./exploit
+E
+[
+hackergvictinfuhoamt: ser
+Exploit written by @luijait (@x6c75696a616974)
+{el Enjoy your rove if exploit wes completed succesfully
+bash: no job control in this shell
+[roctGlocelhost Ponkit-Exploitensin]® whom
+[
+foot
+[rootGlocethost Ponkit-explott-nain]®
+[rootélocalhost Punkit-Exploit-nain]#
+] | rostetocathort rwnkit-txplost-main}e
+[rootélocalhost Punkit-Exploit-main]#
+[rootélocathost Punkit-Exploit-main]
+[rootélocalhost Punkit-Explott-main]
+[root@locathost Punkit-Exploit-ain}# 1s
+E
+exploit
+exploit.c
+Jocouv_ patie.
+/ License
+Makefile
+punkitesdecoded.c
+README nd
+E
+[root@localhost Pwnkit-Exploit-main]# cd -
+cde
+[root@localhost application]# 1s
+Le
+dein
+command. php
+e 159 EAB, WB LE, aracdat
+P (6428 bytes) I
+Show data as | ASCII
+ae
+Ea
+| | Ba. | |
+E
+al

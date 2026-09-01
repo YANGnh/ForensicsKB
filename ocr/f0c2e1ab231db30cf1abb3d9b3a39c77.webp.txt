@@ -1,0 +1,7 @@
+# OCR: f0c2e1ab231db30cf1abb3d9b3a39c77.webp
+# 来源: .\02-WriteUp\2026\f0c2e1ab231db30cf1abb3d9b3a39c77.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+[rootGmaster81 yum. repos.d]# kubectl get pods --all-namespaces | grep -v "NAMESPACE" | we -
+13

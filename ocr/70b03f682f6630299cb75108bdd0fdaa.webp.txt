@@ -1,0 +1,25 @@
+# OCR: 70b03f682f6630299cb75108bdd0fdaa.webp
+# 来源: .\02-WriteUp\2025\70b03f682f6630299cb75108bdd0fdaa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+真 Wieshok - 388% HTTP 3% (tep.stream eq 7) - test.pcap - ag x
+POST /api/auth/login HTTP/1.4|
+‘ion: keep-al:
+Content-Length: 65}
+nginx/1.27..
+: Tue, @8 Apr 2025 @5:16:14 GM
+ontent-Type: applic
+Content-Length:
+‘ion: keep-al
+Content-Security-Policy: default-src ‘self’ ;base-uri ‘self’;font-src ‘self’ https: data:;form-action ‘self’ ;frame-ancesto}
+Ps ‘self’ ;img-src ‘self’ data: ;ob: 2 A t-src_‘self'; t-src-attr ‘none’ ;style-src ‘self’ https: ‘unsafe
+Linline ; upgrade-insecure-requests|
+ross-Origin-Embedder-Pol
+cross-Origin-Opener-Policy:
+ross-Origin-Resourc
+ntent-Type-0ptions
+-DNS-Prefetch-Control:
+-Download-Options
+-Frame-Options: 5
+-Permitted-Cross-Domain-

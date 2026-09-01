@@ -1,0 +1,17 @@
+# OCR: 7469e43e58671a4b1fc6e73fc36bc1ff.jpg
+# 来源: .\02-WriteUp\2024\7469e43e58671a4b1fc6e73fc36bc1ff.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+Sl R 。 Rs SSL 。SSH 。HnP
+63 e 一 目
+Navicat cad
+| VPNERSSSE
+E 192.168.217.188
+E 3306
+ARE: root
+=e:
+Bares
+[az]
+(x) 1130 - Host '192,168.217.1 is not allowed to connect to this MySQL server
+x

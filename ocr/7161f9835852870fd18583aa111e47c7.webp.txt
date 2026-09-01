@@ -1,0 +1,20 @@
+# OCR: 7161f9835852870fd18583aa111e47c7.webp
+# 来源: .\02-WriteUp\2025\7161f9835852870fd18583aa111e47c7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+@ Inwccorfe Ci/hinet/1-1748241630/881 #ar/data/user/0/ru.meefiklinuxdeploy/files/config - Kate
+ZA RSE) BQ MEM GJ Tee ieee 280 IBM Bes HAH)
+Dat Lan.» Bae © see.
+Tia} < > = linuxconf x
+1__ARCH="armhf"
+回 (Q__DESKTOP="xfce"
+> DISK_SIZE="25000"
+位 DISTRIB="debian"
+DNS=""
+6 FB _ARGS="-dpi 100 -sharevts vto"
+7 FB DEV="/dev/graphics/fb0"
+8 FB DISPLAY="0"
+9 FB _FREEZE="none"
+10 FB_INPUT="/dev/input/event0"
+11 FB _REFRESH="true"|

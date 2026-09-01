@@ -1,0 +1,9 @@
+# OCR: 614566bd96365c33e2e020c0ac4bd0c8.jpg
+# 来源: .\02-WriteUp\2024\614566bd96365c33e2e020c0ac4bd0c8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+Rex +
+droid@node2:/$ sudo find / -name base.apk
+/root/data/app/~~W_BhWcXqxof FnwnF rhZvg==/com_.ss android .ugc .aweme-V_GSezKj2egAP310X71azw==/base.apk
+droid@node2: /$

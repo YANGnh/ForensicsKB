@@ -1,0 +1,13 @@
+# OCR: a63b8096f71aa02b4ecb00bf6670d180.jpg
+# 来源: .\02-WriteUp\2024\a63b8096f71aa02b4ecb00bf6670d180.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+口 38
+请 选 择 一 个 所 需 的 导 人 模 式
+Set
+OS: AMAR
+Se: BtIPRREHE
+SEH: 1R 心 R 吴 Bee. SU, ee
+He: EBEHIOHPREEEPS
+OSS: BRERABER. HERS

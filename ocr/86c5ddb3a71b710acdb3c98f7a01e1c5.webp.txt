@@ -1,0 +1,38 @@
+# OCR: 86c5ddb3a71b710acdb3c98f7a01e1c5.webp
+# 来源: .\02-WriteUp\2025\86c5ddb3a71b710acdb3c98f7a01e1c5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+Cc 8
+ish 评 便 /
+| | @ “ |-4624" @ | Y Data inc S-1-5-21-2447.. @ IV CreateTime >= "2025-04. @ 【
+= 8S = S440 = f = Bus = SAK
+v 国 Duncan tapt... rysarr2 国 园 吊
+st v 述 逊 口 (ne 口 [S1S2| | [ite 口 , 卫 返
+\ HH LAMKH Japt.. 24376 一 一 一 - 2
+> 蒙 Mn 4 口 7 4624 An account was successfully logge... <EventDat。 信 意 Security 园
+B NSH 1 口 8 4624 ‘An account was successfully logge. <EventDat.. 信 Security
+> Bree 327
+wen 陆 口 4624 ‘An account was successfully logge... <EventDat.. | Security
+) 回 H W118 O10 4624 ‘An account was successfully logge... <EventDat.. 信 眼 Security
+> © B 4405
+v BABS 20169
+$ Bee x
+v 菲 VndoweB 9934
+10 request.%n%t- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.%n%t- Transited services indicate which
+s intermediate services have participated in this logon request&njtt Package name indicates which sub-protocol was used among the NTLM
+protocols.%n%t- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+208: <EventData> <Data Name="SubjectUserSid">S-1-0-0</Data> <Data Name="SubjectUserName">-</Data> <Data
+J Bee zs | Name="SubjectDomainName">-</Data> <Data Name="SubjectLogonld”>0x00000000</Data> <Data Name="TargetUserSid” >S-1-5-21-244795756-
+s 10235 2605320691-3516395164-1004</Data> <Data Name="TargetUserName" >CEO2</Data> <Data Name="TargetDomainName">CEO-PC</Data> <Data
+Name="TargetLogonld” >0x00c881dd</Data> <Data Name="LogonType">3</Data> <Data Name="LogonProcessName">NtLmSsp </Data> <Data
+Name="AuthenticationPackageName”>NTLM</Data> <Data Name="WorkstationName”>KALI</Data> <Data Name="LogonGuid’ >00000000-0000-
+3022
+> SQ BABS 1398
+四 RPA 8 0000.0000.000000000000</Data> <Data Name="TransmittedServices">-</Data> <Data Nam mPackageName">NTLM V2</Data> <Data
+Dee 83 Name="KeyLength">128</Data> <Data Name="Processld” >0x00000000</Data> <Data Name= iocessName >-</Data> <Data
+[ 。 Namez“IpAddrese > 182.239.117.11</Data> <pata Namez“pport >48350</Data> </EventData>
+ere 。 1s geen: am
+绘 himcache 1319 #8: Security
+。 56 tase: CEO-PC
+BEE: Microsoft-Windows-Security-Auditing

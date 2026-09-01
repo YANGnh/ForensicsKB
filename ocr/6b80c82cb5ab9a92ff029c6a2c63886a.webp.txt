@@ -1,0 +1,44 @@
+# OCR: 6b80c82cb5ab9a92ff029c6a2c63886a.webp
+# 来源: .\02-WriteUp\2025\6b80c82cb5ab9a92ff029c6a2c63886a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+0 infojon X
+之 》 技 术 人 员 手 机 》{1 infojson > [ ] BackupFileModuleinfo
+a4
+2 “BackupFileHeaderInfo": {
+3 “backupversion": 1,
+4 “deviceModel": “Mate 60 Pro”,
+5 “deviceld": "default",
+6 “selectpataSize“: 4479242499,
+7 “autoBackup”: false,
+8 “backupTine 1747661677552,
+9 “specialpundles”: [
+20 |},
+ut “packupFileversioninfo": {
+12 “versionCode": "51000125",
+13 “versionName": “5.1.0.125"
+a |},
+15 “BackupFileTypeinfo": {
+16 “encryptionTyp 2
+“backupKey“: "AAAADAAAABAAAAAAXm+0GWNV /ayvalJF3y/FUryBVHF FeQrtgNfdzEegjJCLzS+g7Sg
++bI1s24Mb8ekRMAX2QCIoPJs=",
+“backupsalt”: “oIcbYkjvqsbgjkhhszauttJesxuePk49gF2bD57tGtU="
+“backupIv": "Xm+OGWNV/ayvalJF3y/FUg=="
+21 “BackupFileModuleInfo” : I
+22 {
+23 "moduleName”: “com.huawei.hmos.callrecorder”,
+24 “recordTotal": @,
+25 “encryptionSalt™: "T0zo/WYhx1UL6VT994RA81OISR6YRt1DVnmb1+HUTLM=",
+26 “encryptionIv“: "hDiMe@RMckghE+yzy/Id8Q=="
+27 “bundleDataSize": 1249280,
+28 “bundleversionCode“: 50001333,
+29 “bundleversionName“: "5.0.1.333",
+30 “isApponly": false,
+31 eae,
+32 "soundrecorder™,
+33
+34 8 alr,
+35 “isCompatibilitysuccess”: true,
+36 “appIndex“: 0
+37 了

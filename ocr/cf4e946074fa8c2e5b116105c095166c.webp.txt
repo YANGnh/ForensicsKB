@@ -1,0 +1,40 @@
+# OCR: cf4e946074fa8c2e5b116105c095166c.webp
+# 来源: .\02-WriteUp\2025\cf4e946074fa8c2e5b116105c095166c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+回 WRiF-2025 数 泰 杯 初 赘 | lott v| 巴 运 行 - 停 i Sone
+SELECT
+SUBSTRING_INDEX(Content, ‘=", 1) AS play_type, -- 假 设 Content 格 式 , 玩 法 = 投 注 内 容
+COUNT(*) AS play_count
+FROM t_trade_betrecord
+WHERE Keeper = ‘188°
+AND CreateTime BETWEEN '221-@5-10 @0:00:00' AND ‘2021-05-11 00:00:00°
+GROUP BY play_type
+ORDER BY play_count DESC
+1
+2
+3
+4
+国
+6
+7
+8
+信 息 2 “ 结 果 1 剖 枪 Ke
+1000 大 37
+1000 双 35
+3000 大 30
+1000 单 29
+1000 小 29
+300 大 27
+2000 大 26
+500 大 21
+5000 大 20
+3000 小 18
+500 双 17
+300 小 17
+5000 小 16
+100 双 16
+600 小 16
+300 单 16
+2000 小 15

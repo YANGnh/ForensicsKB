@@ -1,0 +1,21 @@
+# OCR: c50aba1df03816ed8e377fcea3772b99.webp
+# 来源: .\02-WriteUp\2025\c50aba1df03816ed8e377fcea3772b99.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+《
+int64 _ fastcall aes_decrypt(__int64 input_buffer, unsigned int input_length, _ int64 output_buffer)
+t64 cipher; // x6
+int 招 // [xsp+2sh] [xbp-18h] eyer
+int final_bytes decrypted; // [xsp+2Ch] [xbp-14h] BYREF
+_inté4 ctx; //[xsp+3¢h] [xbp-16h]
+ctx = EVP_CIPHER_CTX_new(&_stack_chk_guard, @);
+cipher = EVP_aes_128_ecb();
+EVP_DecryptInit_ex(ctx, cipher, 智 &aes_key] 0);
+EVP_CIPHER_CTX_set_padding(ctx, 1}F
+= 6;
+nal_bytes decrypted = 8;
+EVP_DecryptUpdate(ctx, output _buffer, input_buffer, input_length);
+EVP_DecryptFinal_ex(ctx, output_buffer + |, &Final_bytes_decrypted)s
+EVP_CIPHER_CTX_free(ctx:
+return (unsigned int) ESE + final_bytes_decrypted)

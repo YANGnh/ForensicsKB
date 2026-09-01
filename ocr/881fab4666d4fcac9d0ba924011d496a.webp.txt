@@ -1,0 +1,24 @@
+# OCR: 881fab4666d4fcac9d0ba924011d496a.webp
+# 来源: .\02-WriteUp\2026\881fab4666d4fcac9d0ba924011d496a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+一 0 aalo
+组 织 新 建 打 开 选 择
+〕gn(〕s鲁…一2〔〕2[….〔〕4.〔〕薯叠一22一15一35」「〔〕芝叠〔〕〔〕一了[】h0n痿…一OS一了[】弋〉(〕n鲁…一21F9〔〕 > logs > Bluetooth ,CoreCapture
+Vv G 石 在 CoreCapture 中 揉 索
+名 称 修 改 巳 a 26H seul
+国 bluetooth status +
+目 debug-logtbt 20, 文 件 “ 编 辑 查 看
+# --- Bluetooth Status
+Power :On
+MAC Address : F0:A3:5A:4E:5D:14
+Discoverable : No
+Connectable : Yes
+Scanning : No
+Devices : 1 (paired=1 cloud=0 connected=0)
+AirPods Pro
+Address : 14:C8:8B:A5:80:10
+Paired : Yes
+CloudPaired : No
+Connected : No

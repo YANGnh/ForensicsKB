@@ -1,0 +1,109 @@
+# OCR: c4500649ed5139fd22aff59f19b555d5.webp
+# 来源: .\02-WriteUp\2024\c4500649ed5139fd22aff59f19b555d5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+XML View List View
+Key
+Root
+6
+ettowctondensfer
+--WFWorkflowActionParameters
+e
+Wwodowetonldenefer
+- 日 WFiottowctonpoamete
+6
+iottowcondensfer
+8-WFWorkflowActionParameters
+e
+Wwodowetonldenefer
+“WF WorkflowActionParameters
+6
+riottowconldensfer
+--WFWorkflowActionParameters
+e
+Wwodowetonldenifer
+“WF WorkflowActionParameters
+6
+ettowconldensfer
+(-WFWorkflowActionParameters
+e
+Wwodowetonldenefer
+“WF WorkflowActionParameters
+6
+oo WWorkflowActionidentifier
+-WFWorkflowActionParameters
+e
+Wwodowetonldenifer
+“WF WorkflowActionParameters
+6
+oo WF WorkflowActionidentifier
+(-WFWorkflowActionParameters
+e
+Wwodowetonldenifer
+“WF WorkflowActionParameters
+6
+iottfowconldensfer
+8--WFWorkflowActionParameters
+at
+'WFWorkflowActionidentifier
+“WF WorkflowActionParameters
+Type
+array
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+Value
+isworkflowactions.gettext
+is.workflow.actions base64encode
+is.workflowactions.setvariable
+isworklowactions.gettext
+isworkflow.actions.base64encode
+is.workflow.actions.setvariable
+isworkflow.actions.selectphoto
+is.workflow.actions.hash
+is.workflow.actions.setvariable
+isworklowactions.gettext
+is.workflow.actions base64encode
+isworkflow.actions.setvariable
+isworklowactions.gettext
+isworkflowactions.runsshscript

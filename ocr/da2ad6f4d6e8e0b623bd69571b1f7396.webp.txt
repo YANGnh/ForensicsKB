@@ -1,0 +1,11 @@
+# OCR: da2ad6f4d6e8e0b623bd69571b1f7396.webp
+# 来源: .\02-WriteUp\2024\da2ad6f4d6e8e0b623bd69571b1f7396.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+[rootetocalhost:-] esxcfg-volume 1
+Scanning for VMFS-6 host activity (4096 bytes/HB, 1024 HBs) -
+VMFS UUID/label: 65efb8a8 -ddd817f5-64ff-666c297bd6e6/datastore1
+Can mount: Yes
+Can resignature: Yes
+Extent name: t10.ATA___VMware_Virtual_IDE_Hard_Drive. 99900000000000000001-3 range: 6 - 197119 (MB)

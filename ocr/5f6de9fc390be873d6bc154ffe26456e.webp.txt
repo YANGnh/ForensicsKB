@@ -1,0 +1,40 @@
+# OCR: 5f6de9fc390be873d6bc154ffe26456e.webp
+# 来源: .\02-WriteUp\2025\5f6de9fc390be873d6bc154ffe26456e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+IP Configuration
+Host Name
+Node Type. ....
+IP Routing Enabled.
+WINS Proxy Enabled.
+DNS Suffix Search List.
+Connection-specific
+Description 。
+Physical Addre
+DHCP Enabled.
+autocomfiguration-erabtect
+Thursday,
+Friday, June @5,
+Yow eee ee ee  10.5.28.1
+DHCP Sarver s 2 9 3 oo 2 2 8 10.5.
+DNS Servers .
+NetBIOS over Tcpip.
+Tunnel adapter isatap.localdomain:
+Media State . seo 2999
+Connection-specific DNS Suffix
+Description .
+Physical Addre:
+DHCP Enabled. on 3
+Autoconfiguration Enabled
+net config workstation
+Computer name
+Full Computer name
+User name
+\\CAT-BOMB-W7-PC
+Workstation active on
+Workstation domain
+Workstation Domain DNS Name
+Logon domain
+Cat-Bomb-W7-PC.catbomber.net
+(@008021C47AE )

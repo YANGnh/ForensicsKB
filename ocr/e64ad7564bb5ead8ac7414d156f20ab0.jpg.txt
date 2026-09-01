@@ -1,0 +1,11 @@
+# OCR: e64ad7564bb5ead8ac7414d156f20ab0.jpg
+# 来源: .\02-WriteUp\2024\e64ad7564bb5ead8ac7414d156f20ab0.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+P David Laptop > Elaeee> 日 USBRaa
+BS) =a
+T v
+口 1 SanDisk Extreme SSD SCSI Disk Device EE{BEPR: SanDisk Extreme SSD SCSI Disk Device, E:\; HIRSH: 18636
+口 2 SanDisk Extreme Pro SSAF SCSI Disk Device EE{BEPR: SanDisk Extreme Pro SSAF SCSI Disk Device, Extreme Pro; SInSH: 37256
+(3 _ KDI-MSFT Windows 10 USB Device ‘EE{BS#R: KDI-MSFT Windows 10 USB Device, WINDOWS10; Sin@H: 28

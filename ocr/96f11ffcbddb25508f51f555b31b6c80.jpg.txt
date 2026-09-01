@@ -1,0 +1,9 @@
+# OCR: 96f11ffcbddb25508f51f555b31b6c80.jpg
+# 来源: .\02-WriteUp\2024\96f11ffcbddb25508f51f555b31b6c80.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+卷 吴 Dond Laptop > 国 e ae
+Gess| sen =e
+Vv |e
+口 1 ErrorérrorsG 12345412345

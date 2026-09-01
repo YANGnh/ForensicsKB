@@ -1,0 +1,17 @@
+# OCR: bc16c85173b4b7a0b3cc1c7cb82af241.webp
+# 来源: .\02-WriteUp\2025\bc16c85173b4b7a0b3cc1c7cb82af241.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+[root@k8s-node1 ~]# Systencte status kubelet
+© kubelet.service - kubelet: The Kubernetes Node Agent
+Loaded: loaded (/usr/lib/systend/systen/kubelet.service; enabled; vendor preset: disabled)
+Drop-In: /usr/lib/systend/systen/kubelet.service.d
+16-kubeadn.conf
+Active: activating (auto-restart) (Result: extt-code) since Mon 2025-02-24 11:56:30 CST; 2s ago
+Docs: https: //kubernetes.io/docs/
+Process: 7664 ExecStart=/usr/bin/kubelet SKUBELET_KUBECONFIG_ARGS $KUBELET_CONFIG_ARGS $KUBELET_KUBE
+ADM_ARGS SKUBELET_EXTRA_ARGS (code=exited, status=255)
+Main PID: 7664 (code=exited, status=255)
+Feb 24 11:56:30 k8s-nodel systend[1]: Unit kubelet.service entered failed state.
+Feb 24 11:56:30 k8s-node1 systemd[1]: kubelet.service failed.

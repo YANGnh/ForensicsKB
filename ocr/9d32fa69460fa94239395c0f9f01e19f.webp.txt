@@ -1,0 +1,122 @@
+# OCR: 9d32fa69460fa94239395c0f9f01e19f.webp
+# 来源: .\02-WriteUp\2025\9d32fa69460fa94239395c0f9f01e19f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+27:
+fe:
+52:
+92:
+10:
+34:
+34:
+55:
+55:
+55:
+17:
+27:
+230:
+:d3:
+ese
+:52:
+:7c:
+:9f:
+-
+:c6:
+:c6:
+:c6:
+idl:
+130:
+78:
+ba:
+10:
+10:
+56:
+63:
+63:
+86:
+86:
+86:
+b3:
+78:
+3
+ab:
+13:
+13:
+ev:
+fa:
+fa:
+8d:
+8d:
+8d:
+80:
+c7:
+Ac
+do
+14
+14
+86
+Ad
+Ad
+13
+13
+13
+42
+4c
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+Broadcast
+LE
+LE
+LE
+LE
+Le
+Le
+Le
+Le
+LE
+Le
+Le
+Le
+LL
+LL
+EL
+LL
+LL
+LL
+LL
+LL
+LL
+LL
+LL
+LL
+63 ADV_NONCONN_IND
+61 ADV_IND[Malformed Packet
+56 ADV_IND
+56 ADV_IND[Malformed Packet
+63 ADV_NONCONN_IND
+63 ADV_NONCONN_IND
+63 ADV_NONCONN_IND
+50 ADV_IND
+50 ADV_IND
+50 ADV_IND[Malformed Packet
+63 ADV_NONCONN_IND
+63 ADV_NONCONN_IND
+ts), 56 bytes captured (448 bits) on inter
+5 ay P
+F9 TyAdd-: Puhlac)
+0020
+@3 31 00 83 bf e9 Q2 a
+af d6 be 89 8e 20 le 14
+12 18 02 @a 00 fd 20 do
+81 26 2c 88 88 14 6d 5d 1 &,---m]
+13 10 52 66 52 @2 61 06

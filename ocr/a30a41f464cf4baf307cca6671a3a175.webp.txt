@@ -1,0 +1,79 @@
+# OCR: a30a41f464cf4baf307cca6671a3a175.webp
+# 来源: .\02-WriteUp\2025\a30a41f464cf4baf307cca6671a3a175.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+几
+必
+吴 必
+2
+“D
+@ 日
+E
+>
+ets
+resources\ base
+v media
+background.png
+[ foreground.png
+1 layered _imagejson
+& starticon.png
+© profile
+i
+( backup_config,json
+{0 main_pagesson
+pagesinfo
+packinfo
+pkgContextinfo,son
+resourcesindex
+0 modulejson x
+0 modulejson > (0modde> 回 manglenent
+2
+工
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+E
+33
+34
+35
+36
+37
+38
+39
+40
+"app": {
+Compr lesakversion":"5.0-5-160",
+targetAPIVersion": 50005017,
+vendor": "example",
+"bundleName": "com.example.pgsdsj",
+"apiReleaseType": "Betai"
+module": 《
+deliveryWithInstall": true,
+description": "Sstring:module_desc",
+extensionAbilities": 【
+《
+"exported": false,
+“metadata' 【
+《
+vresourceld「: 16777226,
+: "$profile:backup_config",
+hos .extension. backup"
+]
+1,
+"srcentry": "./ets/entrybackupability/EntryBackupAbility.ets"
+"name": "EntryBackupAbility",
+"type": "backup"

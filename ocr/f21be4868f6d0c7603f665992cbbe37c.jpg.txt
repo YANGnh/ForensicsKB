@@ -1,0 +1,11 @@
+# OCR: f21be4868f6d0c7603f665992cbbe37c.jpg
+# 来源: .\02-WriteUp\2024\f21be4868f6d0c7603f665992cbbe37c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+asa Q X
+2B: .\python -\runpy ~source "E/dst01 Jpeg” aoe tniipg output “E/abJpg”~frame-processor face_swapper face enhancer ~-similar-face-distance 0.85 ~-temp-frame-foimat png ~temp-trame-quality 18 ~output-video-
+quality 18 -max-memory 4 ~execution- provider cpu --execution-theeads 4
+aL
+wile: eta} 1H EVLEDI /S9BR6/Users/l/AppData/Roaming/Microsot/ Windows/PowerShell/PSReadLine/ConsoleHosthistorytxt
+c

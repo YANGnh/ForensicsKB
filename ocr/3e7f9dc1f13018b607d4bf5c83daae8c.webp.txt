@@ -1,0 +1,10 @@
+# OCR: 3e7f9dc1f13018b607d4bf5c83daae8c.webp
+# 来源: .\02-WriteUp\2025\3e7f9dc1f13018b607d4bf5c83daae8c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+[rootelocathost ~]# docker swarm join-token worker
+To add a worker to this swarm, run the following command:
+docker swarm join --token SWMTKN-1-@ncv2cki4lydumx jb4ewj64568qz3mggehxxonvqyqq7ntcopr-bd29kG0a3t7ydbaakgnr2hqic 172.16.80.104:2377
+[root@locathost ~]# docker network 1s
+pen 5 H 国 河

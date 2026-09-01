@@ -1,0 +1,25 @@
+# OCR: 9780a7d2bfb4adbbd716e440a24caee3.jpg
+# 来源: .\02-WriteUp\2024\9780a7d2bfb4adbbd716e440a24caee3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+查 技 列 下 借 息
+驱 动 器 :A:\ 精 武 杯 检 材 \ 压 务 器 部 分 \aerverl.00-4
+碌 阵 所 属 平 史 类 型 : Linux ndadn RPE
+版 本 : 1.2.0
+碌 阵 DUIp: bdof20a36b989b54631 9c3b30a06b965
+创 建 时 间 。 2023-02-17 15:05:04
+HREM: zaid-5
+琪 防 亚 动 咤 数 量 。 3
+司 用 宇 间 大 小 : 1022.0 MB (1071644672 守 钦
+总 空 间 大 小 : 2.0 68 (2148289344 字 设
+ARMS Mat: 0 ( AD
+起 姑 扇 区 : 4096 (ox1000 AR)
+超 级 埃 信 移 地 址 : 8 (oxs 户 E
+本 驱 动 霸 IITD: fsb64a4paa5fa71S9oansbdtbaed5
+更 新 时 间 : 2023-02-17 15:18:58
+枭 验 和 : baerdoe
+循 环 类 型 : BLES
+条 带 大 小 : 1024 ( 康 E
+本 驳 动 霸 编 号 : 0
+E

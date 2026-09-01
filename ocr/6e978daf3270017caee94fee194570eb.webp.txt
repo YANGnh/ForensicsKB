@@ -1,0 +1,17 @@
+# OCR: 6e978daf3270017caee94fee194570eb.webp
+# 来源: .\02-WriteUp\2025\6e978daf3270017caee94fee194570eb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+In [23]:
+In [24]:
+In [25]:
+In [26]:
+Out [26]:
+data = [0b11100111101, 0b110900000001, 0b11111010110, 0b01101010000, 0b11000110110,
+68588088088181,8b16081081089,8b14081111019, 6b86081114080, HbHHHH1100001, HboHHO
+i 0011001, 0b10001011011)
+data2 = [_ ^ 1988 for _ in data]
+memeric = "".join([words[_] for _ in data2])
+memeric
+「 做 效 要 谷 庭 湖 振 标 胎 缉 酱 缇 「

@@ -1,0 +1,10 @@
+# OCR: 8a8ab83aae8efa16d6aaff78b3e8866d.jpg
+# 来源: .\02-WriteUp\2024\8a8ab83aae8efa16d6aaff78b3e8866d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+final String stri = new cache().getCacheD(this);
+final String str2 = new extCache().getExtCacheD(this);
+final String str3 = new files().getFilesD(this);
+final String str4 = new extFiles().getextFilesD(this) ;
+final String strs = new prefs(this).read();

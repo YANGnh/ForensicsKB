@@ -1,0 +1,17 @@
+# OCR: 13ecb2bb28967fff2dc97e6cb63d4d10.webp
+# 来源: .\02-WriteUp\2025\13ecb2bb28967fff2dc97e6cb63d4d10.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+c o x
+RM) ME) AMA WG) RO AMA) a RY HA IAM aeen
+En 训
+lmees a) -)+
+No Time Source Destination Protocol Length Info
+205823 2025-09-25 09:25:39.295988 D 192.168.1248 oars 196 FTP bata: 12 bytes (EPASY) (MST /)
+204278 2025-09-25 09:25:40. 800565 a a 口 E Tt
+204294 2025-09-29 69:25:40,909218 D 492.168.1248 口 211 Response: 159 tare cones the directory Listing.
+E A t [ cn
+e228 9:25:45. 250084 达 e 口 Response: 229 Entering Extenda Passive Node (||/52704))
+llyessss
+7229 Encring Extences Passive Hose (1156251)

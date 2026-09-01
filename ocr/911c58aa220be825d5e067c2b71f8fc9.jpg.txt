@@ -1,0 +1,10 @@
+# OCR: 911c58aa220be825d5e067c2b71f8fc9.jpg
+# 来源: .\02-WriteUp\2024\911c58aa220be825d5e067c2b71f8fc9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+[root@wns ~]# crontab -L
+4/5 * * * * flock -xn_/www/server /cron/eSb996fee678856191a1F336d0996b33. lock -c /www/server /cron/e5b996fee678856191a1F336d8996b33 >> /wm/serve
+r/cron/eSb996fee678856191a1F336d0996b33. log 2>81
+9 6 * * 6 /root/backup-sh
+[root@wns -

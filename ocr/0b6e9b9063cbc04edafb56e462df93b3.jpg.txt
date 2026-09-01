@@ -1,0 +1,15 @@
+# OCR: 0b6e9b9063cbc04edafb56e462df93b3.jpg
+# 来源: .\02-WriteUp\2024\0b6e9b9063cbc04edafb56e462df93b3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+ax +
+droid@node2:~§ sudo docker ps
+CONTAINER ID IMAGE COMMAND CREATED STATUS PORTS
+NAMES
+45120978d664 redrotd/redrotd:42.8.8-Latest "/init androidboot-h_" 2 months ago Up 2 minutes @.0.0.0:5555->5555/tcp,
+55->5555/tcp 。lovung_shtern
+droid@node2:~$ sudo docker exec -tt 45 /bin/sh
+45120978664: / # find / -name base.apk
+[data/app/~~W_BhlcXqxofFWnwmFrhZvg==/com.ss_android.ugc.aweme-V_GSezK}2egAP310X71azw==/base apk
+451a0978d664:/ #

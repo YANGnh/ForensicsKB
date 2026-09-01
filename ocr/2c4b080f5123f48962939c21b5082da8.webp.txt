@@ -1,0 +1,60 @@
+# OCR: 2c4b080f5123f48962939c21b5082da8.webp
+# 来源: .\02-WriteUp\2024\2c4b080f5123f48962939c21b5082da8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+s neowariot
+= Name ‘SID
+ssktop-hdkjijj\john.kille} S-1-5-21-938709476-2694722248-4044499883-1001
+GROUP INFORMATION
+jroup Name Type
+veryone
+0 AUTHORITY\Local account and menber of Administrators group
+IILTIN\Administrators.
+IELTIN\Users
+‘AUTHORITY INTERACTIVE
+LE LOGON
+r AUTHORITY Authenticated Users
+0 AUTHORITY\This Organization
+0 AUTHORITY\Local account
+PRIVILEGES INFORMATION
+Description state
+sShutdownPrivilege Shut down the system Disabled
+vangelot ifyPrivilege Bypass traverse checking Enabled
+idockPrivilege Remove computer from docking station Disabled
+sIncreaseWiorkingSetPrivilege Increase a process working set Disabled
+JTimeZonePrivilege Change the time zone Disabled
+LOCAL
+T AUTHORTTY\NTLN Authentication Well-known group
+ndatory Label\Nedium Mandatory Level Label
+Attributes
+Mandatory group,
+Mandatory group,
+Mandatory group,
+Mandatory group,
+Mandatory group,
+Mandatory group,
+Mandatory group,
+Mandatory group,
+5-64-18 Mandatory group,
+-16-8192
+Enabled by default,
+Group used for deny only
+Group used for deny only
+Enabled by default,
+Enabled by default,
+Enabled by default,
+Enabled by default,
+Enabled by default,
+Enabled by default,
+Enabled by default,
+Enabled by default,
+Enabled group
+Enabled group
+Enabled group
+Enabled group
+Enabled group
+Enabled group
+Enabled group
+Enabled group
+Enabled group

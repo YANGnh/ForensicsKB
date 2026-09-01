@@ -1,0 +1,152 @@
+# OCR: ab4b7ec0d0023c1ba152ba8d9baa2923.webp
+# 来源: .\02-WriteUp\2025\ab4b7ec0d0023c1ba152ba8d9baa2923.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+C @
+刹 新 “ 详 情 / 预 览
+M } 服 务 器 检 材 二 .E01 36/6866
+> S&S mysql 19 /126
+> © performance schema 87
+> BS sys 1
+“ 目 8 /22
+EE gen table ( 代 码 生 成 业 务 表 )
+SE gen table column ( 代 码 生 成 ..
+配 置 表 ) 2
+EE sys dept ( 邰 门 吊 2
+EE sys dict data ( 字 典 数 据 表
+EE sys dict type ( 字 典 类 城 表
+ER sys job ( 定 时 代 务 调 度 表
+ER sys job log ( 定 时 企 务 调 度 日 志 表
+EE sys logininfor ( 系 统 沃 .、 82
+EE sys menu ( 荣 单 权 限 吴
+EE sys notice ( 通 知 公 告 表
+EE sys oper log ( 捷 作 日 . 21
+ER sys post ( 岗 位 信 息 表
+EH sys role ( 角 色 信 息 表 1
+ER sys role dept ( 角 色 和 部 门 关 联 表
+EE sys role menu ( 角 色 和 .. 89
+sys user ( 门 户 信 息 表
+SE sys user online ( 在 线 用 户 记 录 )
+EE sys user post ( 用 户 与 岗 位 .、 1
+EH sys user role ( 用 户 和 角 色 关 联 .
+EE user used log ( 用 户 调 用 Z 录 吴
+露 user cmd ( 用 户 指 令 表
+> 国 ./rootymysql-slave/data 9 /114
+_董] Office 文 件 元
+EE sys config
+@ @ @ 志 =
+P QD ARS 381847 —.£01 > mt MySQLAFHT > 唯 ../root/mysql-master/data > Sry > HE sys_user ( 用 户 信 息 表 )
+表 名 : sys_user ( 用 户 信 息 表 )
+21
+序 号 ORS user_id dept id
+1 @ 1 103
+2 @ 2 105
+3 @ 100 107
+4 @ 101 107
+5 @ 102 107
+6 @ 103 107
+7 @ 104
+8 @ 105
+9 @ 106
+10 @ 107
+1 @ 108
+12 @ 109
+3 @ 110
+4 @ im
+15 @ 112
+16 @ 113
+7 @ 114
+18 @ 115
+19 @ 16
+前 2000 条 预 览 数 据 , 使 用 数 据 库 取 证
+数 据 量
+login_na...
+admin
+ty
+maomao
+maomao1
+maomao2
+AAO1
+AA02
+AA07
+AA08
+AA09
+user name
+风
+Bik
+maomao
+maomao1
+maomao2
+AAO1
+AA02
+AA07
+AA08
+AA09
+user_type
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+00
+email
+y@163.com
+@qqcom
+15888888888
+15666666666
+avatar
+注 释
+户 信 息 表
+password
+1e66fc78cba、
+8e6d98b904..
+271fa46f679..
+dbe767780d...
+bObf528d35...
+37£782213a...
+483631 fdc...
+b983787421..
+774baf726a...
+b7551dfte5...
+6f96c9107d...
+Af69caed2ce...
+2a41df5534...
+2eaf96b762..
+bcdcef621fa.、
+8aa0e1d619..
+春 7dbe39e8f、
+4ebe0d1599.、
+2felaef27a0.
+salt
+a9c30d
+222222
+a3eaad
+8fbaaf
+8f6c66
+69fb7b
+7c4051
+890eb3
+98fc67
+037a5a
+316e2c
+£48547
+4e8025
+19a943
+317fde
+7a6a9b
+cCa8766
+2c3435
+2597bc
+il 35 =

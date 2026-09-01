@@ -1,0 +1,24 @@
+# OCR: de18a3bed1809c510a2d1591ecbec670.jpg
+# 来源: .\02-WriteUp\2024\de18a3bed1809c510a2d1591ecbec670.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+Virtual Environment 8.1.4
+E
+#1100 (Router\iz75 pve 7
+3K pve - Proxmox Console - FAARREE 1 - Microsoft Edge
+110 (nginx)
+G) 100 (Router)
+G) 101 (nodet)
+102 (node2)
+103 (node3)
+Gi 111 Gavaserver)
+Gh 112 (salserver)
+S| bétps,//192.168.71.133:8006/?console=k
+Cloud-Init
+120 (luck)
+i localnetwork (pve)
+Sl local (pve)
+S[local-vm (pve)
+Sl ocal2 (pve)
+root@openwzt:/# fj

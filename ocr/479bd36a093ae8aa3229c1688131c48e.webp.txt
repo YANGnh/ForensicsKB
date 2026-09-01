@@ -1,0 +1,40 @@
+# OCR: 479bd36a093ae8aa3229c1688131c48e.webp
+# 来源: .\02-WriteUp\2025\479bd36a093ae8aa3229c1688131c48e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+var\log\sunlogin
+J 728Sf+
+I. = log
+T8& 7 AR 了 6 Rao
+14/08 2025/04)
+2 = sunlogin warlog 133 KB 2025/04/09 10:59:29 2025/04/15. 14:09:
+4 F) desktop.agentlog \war\log\sunlogin 3.1 KB 2025/04/10 11:04:30 2025/04/10 11:05:
+| Jdesktop.agentilog-1 \war\log\sunlogin 3.3 KB 2025/04/09 11:19:22 2025/04/09 12:09:
+1D) shelllog \war\log\sunlogin 2.9 KB 2025/04/10 11:03:13 2025/04/10 13:04:
+4 J shelilog.t \war\log\sunlogin 1.8 KB 2025/04/09 11:02:01 2025/04/09 12:37:
+“| [| sunlogin_service.log \war\log\sunlogin 7.4 KB 2025/04/15 14:09:31 2025/04/15. 14:12:
+4] Jsunlogin service.log.1 \war\log\sunlogin 17.7 KB 2025/04/09 10:59:31 2025/04/09 12:37:
+“| JJsunlogin servicelog.2 \war\log\sunlogin 44.3 KB 2025/04/09 12:40:06 © 2025/04/10 13:04:
+] 吕SL′【\Dg`′`一…Fgr、′`cFg\og 3 \war\log\sunlogin 18.6 KB 2025/04/10 13:20:18 2025/04/11. 07:21
+“| J sunlogin service lnm ae 7S WR 9NORINAAA 4.07.99 p
+4] Jsunlogin service 国 CAUsers\ADMINI~ 1\AppData\Local\Temp\sunlogin_servicelog 197067.2 [&aS#85%] - Ndd - o Xx &
+3 carat conde ZO #80 SRO WEY SBN BA 2B Fisz IRQ A SHO mE E
+3 Daunlogin | 3 国 目 昌 国 | 庞 | 口 ec me 目 | 乡 乡 | 心 白 5 1 © oor 国 回 国 , 国 国 因 国 3 a X
+口 @ core.py.ishot.das 口 目 2.py 日 目 蝶鸿 .txt oS ABS py 日 目 __init
+:04:29.603>--Info- --—> [online] -received-express-login
+:04:29.603>--Info- , 一 [LoginUtils] -receive express -login- request - from-online
+:04:29.603>--Info- --—> [service] -Check-password: -type (1), -account (), -password-is-empty (no)
+:04:29.604>--Info- -- > [service] -connect -p2p-server -@-182.100.46.36:4118
+:04:29.650>--Info- , 一 [udp] - support - straight -send-in-peer-:-no-182.100.46.36:4118 -OnConnectRes
+:04:29.650>--Info- --—> [P2PAccepter] «connect -p2p-server -182.100.46.36:4118-OK
+:04:29.650>--Info- -- > [P2PAccepter] «detect -local ip.192.168.3.192
+:04:29.695>--Info. -- > [P2PAccepter] -login-p2p-server .[182.100.46.36:4118] -OK, received -pablic.ip . 颊 圆 .192.161.222:2577
+:04:29.695>--Info- 心 一 [LoginUtils] -P2P_INDEX-=-1789689751
+:04:29.695 一 [LoginUtils] -access -address - PHSRC: //1789689751.s1p2p-336125-std.oray.net:4118/, -PHSRC_HTTPS://17€
+:04:29.855 一 [P2PAccepter] .attempted-to.create .forvard-tunnel -slp2p-336125-std.oray.net:443-with-ssl
+Jo acc ymoermriymrpepnwrerpennmmomeuwomoypyeanoapmgm g
+Info-
+Info-
+Info.
+-py 口 @ Nev 0 & @ encrypted. bin 日 目 sunlogin.service., H 4> yv

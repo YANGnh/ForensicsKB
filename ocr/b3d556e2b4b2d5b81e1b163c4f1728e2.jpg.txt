@@ -1,0 +1,11 @@
+# OCR: b3d556e2b4b2d5b81e1b163c4f1728e2.jpg
+# 来源: .\02-WriteUp\2024\b3d556e2b4b2d5b81e1b163c4f1728e2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+Local ident: ‘SSH-2.0-ssh2js1.15.0"
+Client: Trying 192.168.47.133 on port 22 -
+Socket connected
+‘Socket error: read ECONNRESET
+read ECONNRESET
+Connection lost before handshake

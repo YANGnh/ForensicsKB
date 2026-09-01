@@ -1,0 +1,47 @@
+# OCR: db4ecb2b6d8a8ce022b7dd17f86bf5af.webp
+# 来源: .\02-WriteUp\2024\db4ecb2b6d8a8ce022b7dd17f86bf5af.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+3 =
+Root array
+6 dict
+boo WFWorkflowActionidentifier string
+-WFWorkflowActionParameters dict
+一 uu string
+WFTextActionText string
+dict
+WFWorkflowActionldentifier string
+“@-WFWorkflowActionParameters dict
+6 dict
+joo WFWorkflowActionidentifier string
+E-WFWorkflowActionParameters dict
+/-@-WFinput dict
+‘WFVariableName string
+e dict
+'WFWorkflowActionldentifier string
+“@-WFWorkflowActionParameters dict
+6 dict
+joo WFWorkflowActionidentifier string
+@-WFWorkflowActionParameters dict
+3 dict
+'WFWorkflowActionldentifier string
+“G-WFWorkflowActionParameters dict
+©: WFinput dict
+WFVariableName string
+6 dict
+boo WFWorkflowActionidentifier string
+£8-WFWorkflowActionParameters: ae
+isworkflowactions.gettext
+1AS6D08B-0689-4179-82FA-077BEE728704
+口 Ctool bases4 x
+isworkflow.actions.setvariable
+© Ctool 1,397 。 邹 用 HOARE
+host @Bases4 ) URL##3 — Unicode
+isworkflow.actions.gettext
+MTkyLjE20CaxMzcumjl4
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable
+pwd
+192.168.137.22
+isworkflow.actions.selectphoto

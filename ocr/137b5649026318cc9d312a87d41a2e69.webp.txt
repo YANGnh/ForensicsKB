@@ -1,0 +1,47 @@
+# OCR: 137b5649026318cc9d312a87d41a2e69.webp
+# 来源: .\02-WriteUp\2025\137b5649026318cc9d312a87d41a2e69.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+E
+54
+55
+56
+57
+58
+E
+60
+61
+62
+63
+64
+65
+66
+:“user/ftconn .go:356
+ppudp/server.go: 202
+pprpc/rpc_srv_udp.go:
+user/ftconn_nat.go:94",
+user/ftconn.go:124
+user/ftconn.go:227
+user/ftconn.go:286
+user/ftconn.go:352
+a Coe 3
+user/func.go:186“
+msg“:“Nrite LanAuth.Req, sessionkey: 528d48f2c5495ca2da95bd7f494d5c8c.
+:“user/func.go:137“,“msg“:“Nrite SyncConn.SyncFlag = 1, starting..."}
+msg : ts.ctx.Done(), exit writeLoop. f
+i170", “msg":"srv.Accept(), error: ctx.Done(), exit Accept: 172.19.@.1:55791(55791)."}
+","msg":"natDetect, devs.Len: 1, use ms: 1302."}
+msg": "conf. getConn(PPH@A9@8A736CC818A), not find, continue..."}
+msg": "Dail, call starting..."}
+msg” ail, uid: 86-ebble39d9aea662ebcafe658854eb82b, did: PPH@A9@8A736CC818A, runing..."}
+msg":"islocal: true, upnpSdk: true, dlanip: 192.168.8.258,didLslat: 12."}
+Snes Dail, upnp, did: PPH@A9@8A736CC818A, slat: TxDV, #&{T fc.upnp..."}
+166","msg":"cli.Connect(), ,192.168.8.5:38272-192.168.8.258:28198 OK.
+user/func.go:156", "msg": "Write SyncConn.SyncFlag = 1, flag: 1."}
+user/ftconn_upnp. go:1
+ser/ftconn_upnp.go:77
+user/ftconn.go:558", "msg"
+13","msg":"upnp, did: PPH@A9@8A736CC818A, conn: T-38272-192.168.8.258:28199, 连 接 成 功 .“7
+“,“msg“:“ftconnUpnpConnDevice,did: PPH8A988A736CC818A,usems: 371, sk: 528d48f2c5495ca2da95bd7f494d5c8c,
+jail, did: PPH8BA988A736CC818A ok, ctype: local, waiting...(10@ms)."}

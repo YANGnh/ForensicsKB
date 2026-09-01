@@ -1,0 +1,14 @@
+# OCR: 741e13d48257c5cefae158f81f02a02a.jpg
+# 来源: .\02-WriteUp\2024\741e13d48257c5cefae158f81f02a02a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+msg
+15758 Zhao
+108.045 Laoli
+:47.609 laosu
+22.755 IEIRJAIDNESESRiS
+34.075 RRTAEERMN, SOUS OMRERMSSI5%, 2080%, ENE
+57.969 iA
+36.954 BD
+42.415 [SRR SSRIESRE HA, SURE UE

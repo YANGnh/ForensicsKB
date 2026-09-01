@@ -1,0 +1,37 @@
+# OCR: c11c7ddd3623e1790819f6a3be558dc5.webp
+# 来源: .\02-WriteUp\2025\c11c7ddd3623e1790819f6a3be558dc5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+CHAR FileName[272]; // [
+p+360h] [rbp-128h] BYR:
+ppszPath = Olt;
+if ( SHGetKnownFolderPath(&rfid, @, @LL, &ppszPath) )
+《
+200iai- voy, | 获 取 Downloads 目 录 下 文 件
+H
+《
+dedarmetoltiaytete 8 ppszPath, - Multisytestr, 260, PLL, OLL);
+CoTaskMenFree(ppszPath)s
+1
+Af ( GetFileattributesa(tultisytestr)
+《
+‘sub_180001080( (int )8unk_180022630, Multisytestr);
+return ALL;
+]
+else
+《
+Sub_180001DEO(FileName, 260LL, r MultiByteStr);
+* indFirstFilea(Fileame, &FindFileData);
+lea i (HANOLE)-2LL )
+)
+leData.cFileName[@] != 46
+‘SleData.cFileName[1] 8& (FindFileData.cFileName[1] != 46 || Find?ileData.cPileName[2]) )
+sub_180001DEO(NultiByteStr_1, 260LL, en MultiByteStr, FindFileData.cFileName);
+if ( (FindFileData.dwFileattributes 8 FILE NRITE_EA) != @ )
+5 ′ MultiBytestr_1)5
+E 对 这 些 文 件 进 行 aes 加 密
+)
+while ( FindNextFilea(Firstriles, &FindFileData) )3 公 众 号 . 小 谢 取 i
+FindClose(FirstFiles)s 砺 公 众 号 . 小 谢 取 证
+量

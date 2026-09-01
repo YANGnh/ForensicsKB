@@ -1,0 +1,36 @@
+# OCR: e73445c5d43d0a00515d2ab704b7f091.webp
+# 来源: .\02-WriteUp\2024\e73445c5d43d0a00515d2ab704b7f091.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+pn 2rir 5 1
+\data\uni.UNI2DBD214 i\files\apps\_UNI_2D8D214\mwww
+Ty ASR
+Om. = u
+“| Jassets
+static
+| JandroidPrivacyjson
+[2 Japp-config-servicejs
+| Japp-configjs
+1 Japp-senvicejs
+司 医 吊
+1
+5 Dviewess FEN
+5 viewaumd.minjs EN
+| J)_uniappchooselocations eM
+5B) _Luniapperror.png ee
+5} uniappes6 js [
+工 Lomappepenecstonjs [
+51 uniapppicker js EN
+1 | Jruniappauilljs H
+Lnappaiimgereszejs E
+一 3E , 自 2 | me - Ave | Ogee | Elsie 世 E 行 | 2
+{°Gplatforns”: ["android”, ’iPhone”, ’iPad”],”id”:”__UNT__2DBD214”, “nane”: 余
+莲 versieg {"nane”:"1.0.2", “code”: 102}, “description: “*, “launch_path”: "__uniappview. html’
+#}}, “plus”: ('useragent”: {"value”: “uni-
+app”, “concatenate”: true}, “splashscreen”: {"autoclose”: true, “delay” :0, “target”: “id: 1”, “waiting
+, style”: “Light”, “background”: “#ffffff"}, “usingComponents” : true, “webview”: {"popGesture”: “cle
+oid”: d “splash-android-xhdpi. png"}}, “icons”: {"android”: {"xhdpi”: “icon~android-xhdpi.j
+android: nane=\” android. hardware. canera\”/>”, “<uses-feature android: nane=\” android. hardware. ¢
+android: nane=\” android. permission. ACCESS_FINE_LOCATION\”/>”, “<uses-permission android: nane=\
+J c u T H eatinn amicel armas

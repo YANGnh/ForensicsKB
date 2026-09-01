@@ -1,0 +1,45 @@
+# OCR: 58d0bcc3fb2da782d12c8023859933bd.jpg
+# 来源: .\02-WriteUp\2024\58d0bcc3fb2da782d12c8023859933bd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+Ree mM SaRe
+c
+H
+EIR: /ooegoonenponaAhosyngix
+aes
+>i
+G
+E
+Ge
+5
+申
+R Cm 十 Q 技
+tep
+O.default.conf
+192.168.100.100.conf
+demo.tjshop.com.conf
+phpfpm_status.conf
+test! tjshop.com.conf
+© wwmutishop.com.conf
+Cm wR
+a
+Ames Tsk UH RE OEE
+© wwwtjshop.com.conf %
+Berver
+E
+listen 89;
+server_name waw.tjshop.com 192.168.100.160 222.2.2.180;
+index index.php index.html index.htm default.php default.htm default.html;
+root /www/wauroot /maw.tpshop..com;
+include enable-php-56.conf;
+include /wwi/server/panel/vhost/rewrite/wu.tjshop.com.conf;
+location ~ */(\.user.ini|\.htaccess|\.git|\.svn]\.project|LICENSE | README.md)
+{
+5
+return 4043
+Location ~ \.well-knoun{
+allow all;
+]
+location ~ .*\. (gif| pel jpeg|png| bmp| swF)$
+SLM: /www/server/panel/vhost/nginx/www:tjshop.com.conf 行

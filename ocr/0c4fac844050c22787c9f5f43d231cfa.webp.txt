@@ -1,0 +1,12 @@
+# OCR: 0c4fac844050c22787c9f5f43d231cfa.webp
+# 来源: .\02-WriteUp\2025\0c4fac844050c22787c9f5f43d231cfa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+t
+public override string
+1
+get
+0
+retum “Brave”
+i

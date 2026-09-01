@@ -1,0 +1,14 @@
+# OCR: 2ab2fca7e3751e1fa8c1ebc26621205a.webp
+# 来源: .\02-WriteUp\2024\2ab2fca7e3751e1fa8c1ebc26621205a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+find / -perm -4000 2>/dev/null
+/bin/mount
+/bin/umount
+/bin/su
+/usr/bin/chsh
+/usr/bin/passwd
+/usr/bin/newgrp
+/usr/bin/chfn
+/usr/bin/gpasswd

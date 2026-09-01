@@ -1,0 +1,57 @@
+# OCR: 9f86149d2edf97b838d1060ce65563f9.jpg
+# 来源: .\02-WriteUp\2024\9f86149d2edf97b838d1060ce65563f9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+registerphp 4X
+website.com > source > @ registerphp > ..
+马
+52
+53
+54
+55
+55
+57
+58
+旦
+e
+61
+62
+日
+64
+65
+0
+0
+68
+69
+$phone=val("phone", "POST*)5//ARWENMS
+LPS
+if (empty($username) || Ipreg match(*/[\w\x{4200)-\x{9Fa5)]{2,20)$/u", $username)) [ ShowEreor(“FBPHZUHIEM', Surl[*register’], 健
+1
+if(empty($email) || !preg_match(*/*(\w+\.)*?\w+@(\w+\.)+\w+$/", $email)) { Shonerror( 洁 顺 唐 $url['register'], ‘HRHS");
+}
+Hf(lempty(iphonel && lpreg match('/*(\d{11})$/", $phone)) { Showerron( FHT, Surl[*register'], “BSiBS")3// Fr
++
+if(empty(Suserpwd) || !preg_match("/*.{6,26}$/", $usenpwd)) { ShowError( “BiSiIH}6-201F7F', $url["register’], 命 ;
+}
+$tbUser=$db->tbPrefix. ‘user*;
+/ 用
+SuserExisted=$db->FirstValue("SELECT COUNT(*) FROM {$tbUser} WHERE userNane="{Susername}’");
+if ($userExisted>®) { ShowError("Fi={(Susername} 27H, Surl["register*], "HSRS");
+}
+GEE HE
+$emailExisted-$db->FirstVvalue("SELECT COUNT(*) FROM {$tbUser} WHERE email='{Semail}
+if (Semailexisted>a) {fj Showerror ("Hifi (Semail) E71", $url[‘register"], “H#HGS");
+UE
+$executeArr-array(‘userName*=>$username | "userPud’ =>OCEncrypt ($userpwd) ,email*=>$email, ‘phone‘=>$phone, ‘addTime*=>time());
+if($db->autoExecute(stbUser, $execi
+if (lempty(SinviteRow)) 〈
+$reguserId-Sdb->LastId();
+$db->Execute(“UPDATE {$tbInviteReg} SET isUsed=1,regUserid=' {$regUserTd}',regTime:
+‘time()."* WHERE id=" {$inviteRow[ "id" ]
+2
+METER
+Suser->Login($username, $userpwd, 1);
+ShowSuccess(“EAfni)*, $url[*root’]);
+jelsef
+ShowError( ‘ite 7 ia SEAR");

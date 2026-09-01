@@ -1,0 +1,61 @@
+# OCR: b41a715020c6f87f2e87a34bae368cde.jpg
+# 来源: .\02-WriteUp\2024\b41a715020c6f87f2e87a34bae368cde.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+符 egiterphp4 functionphp 1 X
+websitecom > source > # functionphp > @ OCEnarypt
+function Initsmarty($isAdmin - )
+E
+39
+40
+a
+42
+43
+44
+45
+46
+a7
+48
+49
+E
+54
+E
+53
+E
+55
+56
+5
+58
+59
+60
+61
+62
+63
+64
+65
+]
+/
+return $smarty;
+“ ocEncrypt oldems/ng
+* @param $str string
+佩 0 的 衔
+*@return $str string = BIBER
+0
+function GEnerypt(istr)
+《
+]
+return md5(“Oldcms|* . $str);
+广 ocsetcookie setcookiesf¥é */
+function O¢SetCookie($name =
+《
+» $value - $expires - @, $path =
+$path = $httponly && PHP_VERSION < 5.2." 3 “$path; HttpOnly” ; $path;
+$secure = $ SERVER[“SERVER_PORT"] == 443 3 4 : @;
+if (PHP_VERSION c °5.2.0°) {
+setcookie($name, $value, $expires, $path, $domain, $secure);
+} else {
+setcookie($name, $value, $expires, $path, $domain, $secure, $httponly);
+]
+*, $domain =
+, $httponly = true)

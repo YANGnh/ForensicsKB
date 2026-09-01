@@ -1,0 +1,13 @@
+# OCR: b79d7b9d2224b4c5320e9800ae34e3a6.jpg
+# 来源: .\02-WriteUp\2024\b79d7b9d2224b4c5320e9800ae34e3a6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+莲 is_pay
+E
+tinyint(1)
+不 春nul
+E
+6
+E
+SBR ORR ERM

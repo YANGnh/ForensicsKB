@@ -1,0 +1,14 @@
+# OCR: 97dde90e9394c59cfd75ecfb23e70932.jpg
+# 来源: .\02-WriteUp\2024\97dde90e9394c59cfd75ecfb23e70932.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+@ 目 出 风 出 《 血 申 玟 百 鱼 国 医 & & 8 竖
+<Cot/。
+(Ml Wireshark - Conversations « tcpdump? ti.cap
+Conmerenton Seton Ethernet 13 。 友 “Ih6.4 TCP 157__ UDP 67
+wee Address A Address B BH Bytes PacketsA—B By
+222.2.2.2 192.168.100.100 14,420 37 MB 7,820
+口 Ba 192.168.100.100 192.168.100.254 8,484 27 MB 4576
+Osmo 192.168.100.100 192.168.100.1 1,762 173 kB 881
+192.168.100.254 20.205.248.27 181 133 kB 119

@@ -1,0 +1,25 @@
+# OCR: 9d8f0e2ec256e288ae67148132bdb9e7.jpg
+# 来源: .\02-WriteUp\2024\9d8f0e2ec256e288ae67148132bdb9e7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+22:42:59 .775 [http-nio-9032-exec-97] DEBUG o.m_s_SqlSessionUtils - [debug.49] - Creating a new SqlSesston
+12:42-50.776 [http-nio-9832-exec-97] DEBUG o.m.s.SqlSessionUtils - [debug.49] - SqlSession [org_apache. ibatis.session.defaults.Defa
+uLtSqlSesston@5d97d25c] was not registered for synchrontzatton because synchronization 1s not active
+22:42:58.788 [http-nto-9632-exec-97] DEBUG o-m.s_tSpringManagedTransaction - [debug,49] - JDBC Connection [com.altbaba.drutd_proxy
+- jdbc. ConnectionProxyImpl@58c19c57] will not be managed by Spring
+12-42-50.781 [http-nto-9632-exec-97] DEBUG c_}.wW.m.m_M.selectMenberDealList_COUNT - [debug,137] - ==> prepartng: SELECT count(@) 『
+ROM menber_deal d LEFT JOIN member n ON mmenber_id = d.menber_id WHERE d.deal_status = 3 AND (d.check date >= ? AND d.check date <
+12:42-50_782 [http-nto-9832-exec-97] DEBUG C_j.w.m.m_M.selectMemberDealList_COUNT - [debug.137] - => Parameters: 4(Integer). 2620-
+92-01 68:00:00(String), 2024-06-01 23:59:59(String)
+12-42-5084 [http-nto-9032-exec-97] DEBUG C_j-w.m.m.M_selectMenberDealList_COUNT - [debug,137] - <= Total: 1
+w_mm.M_selectMenberDeallist - [debug.137] - Preparing: select d_*.m_user_nane.
+left join member n on m_member_td=d_menber_id WHERE d.deal_status = ? and ( d.check date >
+leal_status asc.d_create_date desc LIMIT 3
+58.806 [http-nio-9632-exec-97] DEBUG C_j.w.m_n_M_selectMenberDeallist - [debug,137] -
+(String), 2624-86-01 23-59-59(String), 19(Integer)
+12:42:58 814 [http-nto-9032-exec-97] DEBUG C_}.W.n.m.M_selectMemberDealList - [debug,137] - <= Total: 10
+12:42:50_815 [http-nio-9032-exec-97] DEBUG o-m_s_SqlSessionUtils - [debug.49] - Closing non transactional SqlSession [org-apache-ib
+fo ESE Default SqlSesston@5d97d25c]
+Paraneters: 4(Integer), 2020-62-61
+2

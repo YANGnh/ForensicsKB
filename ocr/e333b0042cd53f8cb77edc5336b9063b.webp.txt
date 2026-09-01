@@ -1,0 +1,83 @@
+# OCR: e333b0042cd53f8cb77edc5336b9063b.webp
+# 来源: .\02-WriteUp\2026\e333b0042cd53f8cb77edc5336b9063b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+0 目 €|/ 5S_M _C_F B 1 心 十 山 靥 四 口 | A
+日 @
+图
+日 吴
+图
+日
+固 图 回 因 因 因 因 因 因 因 因 因 田
+e Config View
+BasicAnalyzer
+目 BaseInfo
+日 Certificate
+日 AllAPTs
+日 AllStrings
+日 Alluris
+日 AndroidWanifest
+目 MalScan
+Tools Help
+index package
+[File Base Info]
+File Name: “CAUsersVNEKONADesktop\ 山 东 \ 出 题 \ 检 材 \ 周 字 APK 文 件 \uni.owry.apk
+Package Name: uni.owry
+Main Activity:
+Target SDK: 28
+io.dcloud.PandoraEntry
+File Size: 21184244 bytes
+MDS: <Sea689ea886ed2318bccbbc2cba5198
+Packed Not Packed
+Min SDK: 19
+@ Resources
+DexClass GDA xml 园 园 国
+MTT
+略 android. suppo| C) activity ©) permission C) services QO) receiver @ au
+日 跖 app
+日 © INotifid
+@ cance:
+@ cance:
+@ notif
+田 回 INotifid
+田 © INotifid
+田 © RemoteAd
+田 8 graphics.d
+田 跤 os
+{8 androidtransc
+畦 androidx
+砥 bolts
+£8 com
+硅 dc.squareup
+砥 fun.learnlife
+Bio
+留 javax.annotati®..
+砥 kotlin.annotations.jvm
+砥 net.lingala.zip4j
+B org
+砥 pl.droidsonroids.gif
+砥 uni.owry
+.MRITE_EXTERNAL_STORAGE
+ACCESS_NETMORK_STATE
+.ACCESS_NIFI_STATE
+android.permission
+android.permission
+android.permission
+android.permission。
+android.permission。
+android.permission。
+MOUNT_UNMOUNT_FILESYSTEKS
+.VIBRATE
+android.permission
+android.permission
+andrnid.nermissinn-
+2.9" android: compilesdkversion="23" android: compilesdkversionCodename="6.0-2438
+Screens="true" android:resizeable="true" >
+INSTALL_PACKAGES
+REQUEST_INSTALL_PACKAGES
+CHANGE_NETWORK_STATE
+RFAp 1065
+lOpen XM save JM Cancel |
+a
+hs" package="uni.owry" platforpieuildversic

@@ -1,0 +1,42 @@
+# OCR: 00b386b3338a0db5461d04a9d9556324.webp
+# 来源: .\02-WriteUp\2025\00b386b3338a0db5461d04a9d9556324.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+9 ForensicsTool
+Bate
+E
+E
+E
+RF
+file  GA2025F.HAP\ HE AS
+Hgts
+APES
+团
+u 恩
+E
+HES
+E
+E
+E
+妮 f
+RID
+PRBS CE.
+PRUE
+RES RA.
+ERBRAR
+BUSS
+E [G:\2025F Sit #F\ 252 X PEK /NTUSER. DAT] AR
+fa
+190411 amd64fre.vb_release.191206-1406
+19045
+DESKTOP-Q87BVAS
+Professional
+2025-03-10 15:33:55
+Windows 10 Pro
+/
+/
+YC7N8-G7WR6-9WR4H-6Y2W4-KBTOX
+(UTC+08:00) tm BR SAERTHE. SER
+MERE
+MsedgeHTM

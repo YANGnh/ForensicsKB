@@ -1,0 +1,16 @@
+# OCR: cde74cb82a463d2bb5975ef46dc022fd.webp
+# 来源: .\02-WriteUp\2025\cde74cb82a463d2bb5975ef46dc022fd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+(© pital - VMware #8
+© FRE) btps//vesa.pgs.cup:5480/#/ui/time
+区
+明 区
+Asia/Chongqing
+间 同 步
+模 式
+NTP
+时 间 服 务 躁 ntp.aliyun.com |)
+“aime
+Mon 06-09-2025 04:59 PM CST

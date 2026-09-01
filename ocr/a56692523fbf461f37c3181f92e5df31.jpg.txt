@@ -1,0 +1,7 @@
+# OCR: a56692523fbf461f37c3181f92e5df31.jpg
+# 来源: .\02-WriteUp\2024\a56692523fbf461f37c3181f92e5df31.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+Change database password
+Root password 1790e54236111213,

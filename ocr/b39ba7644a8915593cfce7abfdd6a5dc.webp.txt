@@ -1,0 +1,22 @@
+# OCR: b39ba7644a8915593cfce7abfdd6a5dc.webp
+# 来源: .\02-WriteUp\2025\b39ba7644a8915593cfce7abfdd6a5dc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+var plaintext
+var plaintext
+CryptoJS.1ib.PasswordBasedCipher decrypt (CryptoJS.algo.AES, formattedCipher
+, Cnptol5 1ib.PasswordBasedCipher .decrypt (CryptoJS.algo.AES, ciphertextParam
+v
+snpt function (cipher, ciphertext, password, cfg) ( cipher = {keySizei 8, doReseti f, encryp
+11 apply config defaults
+cfg =
+cfg = (Ssuper: {-}, init: J}
+11 Convert string to CipherParans
+ciphertext = this._parse(ciphertext, cfg.format); Ciphertext = (Ssuper! {}, ciphertext: (.},
+var derivedParams
+11 dd IV to contig
+cfg.iv = derivedParams.iv;
+11 Deczypt
+var plaintext = SerializableCipher.decrypt.call(this, cipher, ciphertext, derivedParams.key, e
+return plaintext;

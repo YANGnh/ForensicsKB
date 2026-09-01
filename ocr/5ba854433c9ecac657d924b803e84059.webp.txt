@@ -1,0 +1,18 @@
+# OCR: 5ba854433c9ecac657d924b803e84059.webp
+# 来源: .\02-WriteUp\2025\5ba854433c9ecac657d924b803e84059.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+〕 P 睿 1: 计 算 i 思 材 E01 , [ 四 基 本 信 息 伟 网 络 配 置 p 网 络 违 接 [ 在 网 络 连 接 中 搜 索 Q) BBR
+〖 口 一 序 号 , 万 名 称 = fit = IP 地 址 = Mac 扦 址 世 DHCP 地 址 世 DHCP 网 关 M = 租 期 获 得 财 间 = 重 新 绑 定 时 间 = 过 期 时 间 ‖‖
+过 滤 Y , 过 滢 Y , 过 滢 Y , 过 液 Y , 过 液 Y , 过 滤 VY , 起 始 结 束 , W 起 始 结 束 起 始 结 设
+1 6to4 Adapter Microsoft 6to4 Ada... 5
+2 本 地 连 接 * 1 WAN Miniport (SSTP)
+3 本 地 连 接 * 3 WAN Miniport (L2TP)
+4 DAMA) Microsoft Kernel De...
+5 Ethernet0 2 Intel(R) PRO/1000 .. 00-0C-29-AC-5C-F8 192.168.237.128 2025-11-10 17:02:49 2025-11-10
+6 Microsoft IP-HTTPS ... Microsoft IP-HTTPS ...
+7 Ethernet Intel(R) 82574L Giga... 00-0C-29-30-DE-E2 192.168.22.128 00-50-56-... 1970-01-01 08:00:59 1970-01-01
+8 本 地 连 接 * 4 WAN Miniport (PPTP)
+9 本 地 连 接 * 2 WAN Miniport (IKEv2)
+F Rs

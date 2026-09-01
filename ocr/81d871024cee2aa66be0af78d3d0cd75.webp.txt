@@ -1,0 +1,24 @@
+# OCR: 81d871024cee2aa66be0af78d3d0cd75.webp
+# 来源: .\02-WriteUp\2026\81d871024cee2aa66be0af78d3d0cd75.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+containers:
+- name: kube-flannel
+image: quay. io/coreos/flannel:v0.14.0
+command:
+- /opt/bin/flanneld
+args:
+- --ip-masq
+- --kube-subnet-mgr
+resources:
+requests:
+cpu: "100m"
+memory: "50Mi"
+Limits:
+cpu: "100m"
+memory: "50Mi"
+securityContext:
+privileged: false
+capabilities:
+add: ["NET_ADMIN", “NET_RAW"]

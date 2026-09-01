@@ -1,0 +1,42 @@
+# OCR: 784183b9f9affce5e5f344f82c6697c8.jpg
+# 来源: .\02-WriteUp\2024\784183b9f9affce5e5f344f82c6697c8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+ZSLUSHWARMThet ZCAMERAMAKE
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+Apple
+ZCAMERAMODEL — ZCODEC
+iPhone XR
+iPhone XR
+iPhone XR
+iPhone XR
+iPhone XR
+iPhone XR
+iPhone XR
+iPhone XR
+‘ZLENSMODEL
+iPhone XR back camera
+iPhone XR back camera
+iPhone XR back camera
+iPhone XR back camera
+iPhone XR back camera
+iPhone XR back camera
+iPhone XR back camera
+iPhone XR back camera
+击 师 R , 晓2
+‘ZTIMEZONENAME
+GMT+0800
+GMT +0800
+GMT +0800
+GMT +0800
+GMT +0800
+GMT +0800
+GMT +0800
+GMT +0800

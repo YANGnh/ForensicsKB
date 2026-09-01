@@ -1,0 +1,11 @@
+# OCR: b5a09a3d76d4e0ea15e6d1e3688841b5.jpg
+# 来源: .\02-WriteUp\2024\b5a09a3d76d4e0ea15e6d1e3688841b5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+怀 TABPersonFullTextSearch content @m.
+国 R - Eres ZSnenes mass Ha is
+c13Prefix “cdSoff c15DisplayName _c16Phone a
+E E E E fc
+6379 1704 +852637917C
+1886 1886

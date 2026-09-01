@@ -1,0 +1,8 @@
+# OCR: 1bfbaa75131e72df02a5ee1df1f3684c.webp
+# 来源: .\02-WriteUp\2025\1bfbaa75131e72df02a5ee1df1f3684c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+E E E E
+FE 00000000,jpg 2025/5/15 18:20 JPG 38 3,541 KB
+3 00007081 jpg 2025/5/15 18:21 JPG SHE 3,555 KB

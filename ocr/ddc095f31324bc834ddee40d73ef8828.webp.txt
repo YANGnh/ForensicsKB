@@ -1,0 +1,6 @@
+# OCR: ddc095f31324bc834ddee40d73ef8828.webp
+# 来源: .\02-WriteUp\2025\ddc095f31324bc834ddee40d73ef8828.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+O mosses

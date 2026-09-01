@@ -1,0 +1,7 @@
+# OCR: edb37f5aa4e76a3d974fdd7bd4efca33.jpg
+# 来源: .\02-WriteUp\2024\edb37f5aa4e76a3d974fdd7bd4efca33.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+rootedebtan=- netstat -anpt | grep 27017
+root@debian-~# |

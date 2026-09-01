@@ -1,0 +1,24 @@
+# OCR: 060a931596d381985760d6aebda383b8.webp
+# 来源: .\02-WriteUp\2025\060a931596d381985760d6aebda383b8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+#
+4
+4
+4
+4
+5
+This file is generated from information provided
+to it will not persist across an instance reboot.
+netuork configuration capabilities, write a file
+/etc/cloud/cloud.ctg.d/93-disable-network-conf ig,
+network: {config: disabled}
+etwork:
+ethernets:
+enssa:
+dhep4: true
+version: 2
+by the datasource. Changes
+To disable cloud-init's
+.cfg with the following:

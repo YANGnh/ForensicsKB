@@ -1,0 +1,10 @@
+# OCR: 1214f4ce7de68a4048baca12dc2fdbd9.webp
+# 来源: .\02-WriteUp\2025\1214f4ce7de68a4048baca12dc2fdbd9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+色 eeox
+8
+儿 儿 人 儿 儿 小 儿 人
+sry lt, Crome
+sh BK doe

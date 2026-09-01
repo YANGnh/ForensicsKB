@@ -1,0 +1,7 @@
+# OCR: 50bd6ddd30d0d83323b975fc958ff090.jpg
+# 来源: .\02-WriteUp\2024\50bd6ddd30d0d83323b975fc958ff090.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+[root@server -]# ls /data
+[root@server ~]#

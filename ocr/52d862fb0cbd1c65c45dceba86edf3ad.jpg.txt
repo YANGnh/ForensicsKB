@@ -1,0 +1,11 @@
+# OCR: 52d862fb0cbd1c65c45dceba86edf3ad.jpg
+# 来源: .\02-WriteUp\2024\52d862fb0cbd1c65c45dceba86edf3ad.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+E
+心
+c
+E
+a
+E

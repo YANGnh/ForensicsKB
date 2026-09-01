@@ -1,0 +1,14 @@
+# OCR: e8046f81294e413122c0cbfafba7d068.webp
+# 来源: .\02-WriteUp\2025\e8046f81294e413122c0cbfafba7d068.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+sso-user@vesa [ /etc ]$ cat 0s-reLease
+NAME="VMware Photon 0S"
+VERSIO i
+ID=photon
+VERSION_ID=4.0
+PRETTY_NAME="VMware Photon 0S/Linux"
+ANSI_COLOR="1;34"
+HOME_URL="https: //vmware.github.io/photon/"
+BUG_REPORT_URL="https: //github.com/vmware/photon/issues"

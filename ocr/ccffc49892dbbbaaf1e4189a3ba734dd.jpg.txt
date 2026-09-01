@@ -1,0 +1,8 @@
+# OCR: ccffc49892dbbbaaf1e4189a3ba734dd.jpg
+# 来源: .\02-WriteUp\2024\ccffc49892dbbbaaf1e4189a3ba734dd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+。 = avis 2014-2024
+a 余 ueccueoe 刑 nn 1 50000 0.00 0.00 500000 MEE 192168501 + 05-21 05-21
+Go 5 164609 164639

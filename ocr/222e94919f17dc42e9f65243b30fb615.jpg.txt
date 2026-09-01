@@ -1,0 +1,15 @@
+# OCR: 222e94919f17dc42e9f65243b30fb615.jpg
+# 来源: .\02-WriteUp\2024\222e94919f17dc42e9f65243b30fb615.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+Os 373.33 KB 2024-11-09 22:23:21 2024-08-28 15:38:36
+2S
+Si: Screenshot 20240828-153836_Gmailjog et mbes
+ch 373.33 KB
+a 2024-11-09 22:23:21
+5zma 2024-08-28 15:38:36
+cesa David Smartphone_1/Active/media/0/DCIM/Screenshots/Screenshot_20240828-153836.Gmailjpg
+azan: a
+Exit: David_Smartphone_1/Active/media/0/DCIM/Screenshots/Screenshot_20240828-153836_Gmailpg
+sae:

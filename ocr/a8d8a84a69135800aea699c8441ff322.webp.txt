@@ -1,0 +1,10 @@
+# OCR: a8d8a84a69135800aea699c8441ff322.webp
+# 来源: .\02-WriteUp\2024\a8d8a84a69135800aea699c8441ff322.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+private String digest(String salt, CharSequence rawPassword) {
+String saltedPassword = ((bject) rawPassword) + salt;
+byte[] digest = this.digester.digest(Utf3.encode(saltedPassword));
+String encoded = encode(digest);
+return salt + encoded;

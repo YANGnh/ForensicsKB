@@ -1,0 +1,52 @@
+# OCR: becaee49614349b2ee69201c52b1e0db.jpg
+# 来源: .\02-WriteUp\2024\becaee49614349b2ee69201c52b1e0db.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+Derived Addresses
+"Note ese adaresses are dered trom the BIP32 Extendea Key
+Encrypt private keys using BIP38 and this password Enabling BIP38 means each key wil take Several minutes to generate
+@ compressed
+vale csv
+e [Toggle] aceress [Toggle]
+va re oo |nmmraramamennrr
+sue! | oumeezmeieenseomeoeeeanen
+wet otf oa | [
+WA fo! A A 0nsieemsencesercesuceess
+Pe
+s/t fo! 1S oentanaeueeecereeren
+nn onenvenzuniznetaaeeeeen
+WA eo! OF nncsesesenutneunceeosecel
+w/t ff ansiesennonemsenseen
+At fo! A OR osocwenunerzeeseeeeseveet
+WAC a! A 0 snoneusucsooren
+wn onacowenesevatnnenaoez
+J buecenotursenoteuttae
+Public Key | Toggle
+ooriuteseiooeeseusesetiiomoroeneer
+ooennspuoaennoeatooxpsescenteoa
+oopeeoscuorcntttaiteteioseiecezmena
+ooicecoeocetcttunetsupeeeottosettats
+sstevtccocteeeceareunasteetaoe
+ootooceroosununsotserocattescecoen
+suonooesemeeenannoearitervazeat
+ooaestnetansetetttostttectematx
+ooweotouuciacuecisooeettouzoenetseta
+ooeusoomcozueueenutinentuueesee
+oocttqoetectontoetetnetsrutoasuen
+oowposoovecatnomareennvesetie
+ouminuaobecenescetecechtntseetmuuntt
+wwen [
+r
+ssnpneeienesurotiiutiitconsie
+Coa aie a cama Td cts
+onions PTAs Ie ioe
+E
+[ 吴
+r
+elite oases rn
+ha aT Teo
+delat atthe Sho
+os SS AD MATHNCOT ON To EULA
+ereewoneesexeereenocnueraeat
+Ox24cf fb3dbTh4e040e21 3495b8cf cB709uE23694353626200bdaf954561 572673

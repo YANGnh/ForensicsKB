@@ -1,0 +1,70 @@
+# OCR: fd882610d1ca7ca2efe0a6c64e709e8b.webp
+# 来源: .\02-WriteUp\2024\fd882610d1ca7ca2efe0a6c64e709e8b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+SY BREE: File: //G: \tmp\2024BHEHD A Security. evtx: SSR: : SSPE ID: 46340 Spey: 27
+E
+2024/10/25/REEE 22:57:32
+2024/10/25/REB 21:55:55
+2024/10/24/f8)09 15:33:09
+2024/10/24/8308 15:32:50
+2024/10/24/78)09 11:53:59
+2024/10/24/f8308 11:00:38
+2024/10/24/1E303 9:08:08
+2024/9/20/REE 23:33:10
+E
+Microsoft Windows security auditing,
+Microsoft Windows security auditing,
+Microsoft Windows security auditing,
+Microsoft Windows security auditing,
+Microsoft Windows security auditing,
+Microsoft Windows security auditing,
+Microsoft Windows security auditing,
+Microsoft Windows security auditing,
+BID
+4634
+4634
+4634
+4634
+4634
+4634
+4634
+4634
+(SB
+Logoff
+logoff
+logoff
+logoff
+Logoff
+Logoff
+logoff
+Logoff
+SB 4634. Microsoft Windows security auditing
+=a SHES
+O RIN) © XML 00
+- <Event xmin:
+- <System>
+<Provider Name="Microsoft-Windows-Security-Audi
+<EventID>4634</EventID>
+<Version>0</Version>
+<Level>0</Level>
+<Task>12545</Task>
+<Opcode>0</Opcode>
+<keywords>0x8020000000000000</Keywords>
+<TimeCreated SystemTime="2024-10-25T14:57:32.91240062Z" />
+<EventRecordID >4595 </EventRecordID >
+<Correlation />
+<Execution ProcessID="684" ThreadID="4088" />
+<Channel>Security </Channel>
+<Computer>DESKTOP-SPOVDST</Computer>
+<Security />
+</System>
+- <EventData>
+ittp:/ /schemas.microsoft.com/win/2004/08/events/event">
+g Guid="{54849625-5478-4994-aSba-3e3b0328c30d}" />
+<Data Name="TargetUserSid’ >S-1-5-83-1-80731952-1085508924-2743030975-2462606190</Data>
+<Data Name="TargetUserName" >04CFDF30-8D3C-40B3-BF54-7FA36E63C892</Data>
+<Data Name="TargetDomainName">NT VIRTUAL MACHINE</Data>
+<Data Name="TargetLogonid">0x293b3</Data>
+<Data Name="LogonType">5</Data>

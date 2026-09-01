@@ -1,0 +1,25 @@
+# OCR: 02714fcd1b146f8c79479fa8d0384b92.webp
+# 来源: .\02-WriteUp\2025\02714fcd1b146f8c79479fa8d0384b92.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+32)
+33
+34
+35
+36
+E
+38
+39
+发 坤 尸
+# at 318
+柳 258527..8:53:31 .server.id .1 -end_log_pos 485.CRC32. 6x857efe96
+use “newbee_mall_db /*!*/;
+SET TIMESTAMP=1748321611/*!*/;
+DELETE FROM ~newbee_mall_db~ .” tb_newbee_mall_order™ WHERE “order_id™
+VP /B
+# at 485
+Query
+E
+thread_id=2 exec_time=0 error_code=0
+Xid=6

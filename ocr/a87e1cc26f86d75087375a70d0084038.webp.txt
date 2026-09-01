@@ -1,0 +1,12 @@
+# OCR: a87e1cc26f86d75087375a70d0084038.webp
+# 来源: .\02-WriteUp\2024\a87e1cc26f86d75087375a70d0084038.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+private String extractSalt(String prefixtncodedPassword) {
+int ends
+int start = prefixtncodedPassword. indexOF("{");
+if (start != 0 || (end = prefixtncodedPassword.indexOf("}", start)) < 0) {
+return "5
+)
+pe ee ee gee eae g

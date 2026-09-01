@@ -1,0 +1,8 @@
+# OCR: c2ff2c571fbcbeb45a6f5b59d7798fdd.webp
+# 来源: .\02-WriteUp\2024\c2ff2c571fbcbeb45a6f5b59d7798fdd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+aae
+Ce +uiaa
+Media Log/IMG.0011.NG

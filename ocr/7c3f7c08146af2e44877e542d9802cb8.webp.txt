@@ -1,0 +1,21 @@
+# OCR: 7c3f7c08146af2e44877e542d9802cb8.webp
+# 来源: .\02-WriteUp\2026\7c3f7c08146af2e44877e542d9802cb8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+M 人 Gtobcpeqq QQMER X 十 =
+o 囡 。 出 W , 仪 查 洛 绘 林
+x Pimage text
+E
+Git - qaae aq. ezocuresime., PARADE
+, GitHub -aqqeq_ 9CaaipEReRt
+报 别 除 , 数 据 共 享 人 人 有 贝
+#F https://mega.nz/file/ct9iVLia#Zd48MrmZehsNyPdOFWX9FZ1TTc7Q9Ket-zJvboABWPW
+」 ‘WAAR magnet:?xt=urn-btih:963fd90eee4db809ed4224d1ca7a0639c443cf4b
+magnet:?xt=urn:btih:c81¢0644fd67f73d81b94a31e3fc726679638a98&dn=pcht-v1
+举 报 一 次 腾 讯 安 全 的 全 体 员 工 死 个 爹 妈
+侍 用 方 式 :
+建 立 数 据 库 , 建 立 表 user,
+qq 的 两 字 段 qq 和 phone,
+WB 的 两 孙 段 phone 和 uid ,
+字 段 类 型 想 节 省 空 间 用 bigint 就 够 , 不 然 用 char 或 其 他 。

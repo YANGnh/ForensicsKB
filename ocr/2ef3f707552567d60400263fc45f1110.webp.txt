@@ -1,0 +1,6 @@
+# OCR: 2ef3f707552567d60400263fc45f1110.webp
+# 来源: .\02-WriteUp\2024\2ef3f707552567d60400263fc45f1110.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+# 结果: 无可用文本（tesseract 未识别到文字）

@@ -1,0 +1,46 @@
+# OCR: 58b10dd415cee68b155a73ea45349eda.webp
+# 来源: .\02-WriteUp\2024\58b10dd415cee68b155a73ea45349eda.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+8 。 四 m @main (vmos) -
+Giese (Exel Pee 历 8 Cea 0 se 图 Bats hi mm
+id mid a rom info cenvinfo “default env info property info create at update at 2
+> 5 1 d38fe59a3c4ee883 ——_{"questSystemVersi *‘wif_ssid's"vmwif") (‘android id':"5a16359069H635","b ("customBatteryle 2024-05-17 03:35:46 2024-05-17)
+6 2 a824fed37b89b122 —_{"guestSystemVersi {"android id':"a358287fcd7f1 {‘android id":"d6f4fe03b841ffa3","bc ("customBatteryle 2024-05-20 08:44:29 2024-05-20
+Oe >
+1 {Tandroid_id":"52ae067768e03e98", “board. plat fora” :"universal2100_r*,"brand”:"sansung” ,"bt_address”:"c#:70:
+Syutld_ bootimoge- Fingerprint= somsung/t2sksx/t2s:9/PQ3A, 198601 .602/eng. dpi. 26191015. 144423:user/release-keys", “build date"?
+2019", "build date _ute":"1571121863","build description": "t2sksx-user 9 PQ3A.190801.002 eng.dpi.20191015.144423 release-keys","build display id":
+“t2sksx-user 9 PQ3A.19@801.002 eng.dpi.20191015.144423 release-keys”, "build fingerprint’
+ansung/t2sksx/t25:9/PQ3A, 190801 ,002/eng. dpi. 20191015.144423:user/release Keys, "build_flavor”:"t2sksx-user",
+~pQsA.190801.002", "build. security. patch':"2019-10-01", build, tagss"release-keys*, "build type™:"user", “build pi=, "build vendor Fingerprint”
+~Sansung/t2sksx/t25:9/PQ3A,190601002/eng.dpi..20191015.144425:user/release-keys","build version all codenameS* build. version codenawe™:"REL";
+“cellcid":-1,"cellLac":-1,"characteristics":"", "country": "CN" ,"cpuCoreNumber" :8, "cpuaxFreq” : 2016000, "cpuMinFreq” :652800, "cpuinfo”:
+chowyavzc29yCTogiapeb2avTUIQukSTDUyjawckz1VARIemV=cTogZnAgyxpbiQgzXZ0e3Ry/bSBHzI ge! 1beuge2hitsB saGey TNs) 16F0b2pYstigznBeccBhe21t 2GheT dl KIC
+WwakemRtIGxyY3831GR}cGwIGF zah!1kZHAKQLBVIG] tcGx LbhiVudGVyC ToghHgoMQpDUFUgYX3 jaG1@ZnNedX710iA4CkNQVSB2YXIpYWS@CToghFigyCkNQVSBwYXJ0CTogsHhkMOUKQIBVIHJ1dml za
+UCTogHoKettJv¥2Vz2¢29yC ToghQpCb2dvTUQUnKEIDUYL jAnCKZ1VARcHVZCTogrnag AipbitgZXZoc Ry bSEhZWDgcG1bGnge ZH zaGEy Loy ty TeFb23pYaMgznBocCBHc21ZchmT tid
+Vkrer cate kenit ouy30j16R} oon TGF Zab KZHAKQLBVIGL tcGrlbidvudGVycTog?¥lgeNpDUFURYXD jaG1OZiNOdKD 103AEClINQVSB2"XOp SOC TogtigyCKNQVSBuTXI0C Topi ¥hKONDUKQIBVIH)
+In zaieucToghiokctv¥2V2e25yC Tophigpcb2dvTUIQUnKETDUyt janck21VXRLcniV=C TogznagYMpbQg2XZOCRYESBRZO\gcG1 bong 2nhS® Za 育 英 n 诊 nn
+Ginter KIGP atkemRt TGxy¥98 TER jen zai KZHAKQLBV61¢cGxbvudGVyC Top" gOMGpOUFUBYO jaGlozHNOdX> 1OLAacIQVSE2VAOpWISOCTogetigyCKiIQVSBHYAIOCToghhK'DU
+KQUBVINT Ldn zahOuC Tog? ok H3V2Vc29yCToghpCb2dvTU1QUnkSTDUy jan KZ1YARLcHV z= TORZnAgYXIpbIRgZXZOCSRy/bSBNZIIgcGIbGngc2HH"SE zaGEy TNs T6Feb2pYSNgznBoC
+ahc21ZGinT td KTGFrahitkcuRtTGxy¥38 JOR} Gy TGr ah KZHAKQLBVTO1cGxbwVudGVy/CTOp?¥lgOMGPOUFUg YX jaGlOZMedXS 1O{A4CKNQVSBZYEIpYWSOCToRMgyCKNQVSEHYIIOCTO
+fr PnkeDUCQIBVEND Ldn seiBuCTog? Ao cHOW2Vc29yCToglapcb2dvTUIQUnkSTOUyjanckz1YARLenV Ze TogznAgyXpbiQgZXZOCSRYoSBNZXIgcG11 bong RAHNSBaGzy TONY ay Toreb2ipY
+Sigansoccshe21t2chz toil 1G? aikemRt 6x98) TER jc Our zai kZHAKQUBV IG] tcGxbivudGVyCTog"goMGpOUFUGYO jaG1OZiNOd>LOLAAclQVSE2VKPMISOC Tope TigxCKNQVSE
+‘7 0C ToghHhkNOEKQLBVIHD dnl zahduCTogaokeIv¥2Vze29yC ToghOpCb2dvTULQUuk= DUyt janckz1VARiceVZC TogZnAg XlibiQgZKZOcSRyOSEhZOigcGt bong ShMSBraGey FGI)
+Grobe psigznBoccBhe2]tZGhmL ld] KIGF aidkcaRt xyV38 5 TOR cw ab KZNAKQUBVIGItcGx ba udGVyCTogigOMOPOUFUBYX jaGLOZHNOdY? LOLAACKQVSE2YAIPTUSOCTORNg
+CKNQVSBWIADOCTop/HhKNDEKQLOVIND Ide zaleauCToghAokchv¥2Vzc28yCTogNgpcb2dvTU1QUwk€T0Uy1jAnCkZ1YARicHVZCTognAgYMipbwOEZXZOCSRYOSBh2WgcG1IbGngcenH"SB rae)
+Gyratiy T6r0b2ipYStigznBocConc21tZGhw I Gtiwdh]KTGFcaHIKcuRtTGxy38}TER)c wIGF ail ZHAKQLBV ol tcGxbiVudevy/CTogpigOPOPOUF gtx) }jaGlOzMNedXO 1O{A4CKNQVSEZYIGpS
+ec ToghtignckNQVSBNYAIOCTogPHhKNDEKQIOVIND Ldn zaiSuC Tog? ok-H3V2Vc29yCToglpcb2dvTUIQUnkSTDUy.jénckZ1YXRLcaV Ze TogEnAgYXIpbitQgZXZ0cSRyDSBNZXgCG!bGngconn
+$8206) EohyY2hy T6r0b23pYatgznbocCBhc21¢zGhn Gud KIEFz alkene Yoxy/V98jTR}eGOnIGF Zaha 2MAKQLBVIGI tcGxbulVudGVYC Tog ¥igehpOUFUgYAD JaCl@ZiMOdKDIOLAECKNQVSE
+2IaP USOC Toph tigxCKQVSBWIX2OC Toph HhkNOQKQIBVIN 1dml.zaiQuCToghAoK" ,“dataconnectionstate”:"0" “datanetworktype" "13", -device":"t2s","displayopi":450,
+“aisplayteight' 2800, "isplaysideh":1090,"fps":120,"gpu_renderer”:,"gpu_vendor”:"","groupidlevel1":"","iceid":"80249854099109759476" "inet":
+~305992330251871" "imei? "4s001670058c061", “incremental”: eng. dpi. 20191015.144423","ip_addr":"10,92.54.150" ,"kernelBootid
+“bd3#6f2@-8c6d-11eb-a536-c81f66f61e3*", "kernelVersion”:
+“Toludeggdnvyc2lvodact ja. xB ego b\/QGIXBpLOVyPacSAc22N31421 cng ASTD Tdiz1hwcay 2c YANKS AoRONDKSA9 TCP HNUCBQURVETVBUTERLZ
+gn
+5H-G996H",“networkoperator” "46001", “networkoperatornane”:"CHINA UNICOM™,“networktype" :"13",-operator": 46001" ,“operatornane”:"China Unicom GSH",
+“phone _nunber”:"17276388035" "product": "t2sksx", "product board": "exynos2100","product_platfora”:"", "radioVersion”:"953_GEN_PACK-1,179545.1.181534.2",
+Rn 丞 e tpizoraedt e
+~Slacountryiso™
+cn”, "simstate’

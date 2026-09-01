@@ -1,0 +1,31 @@
+# OCR: 378e4cf1a8c5f05133b1e5de465e352d.webp
+# 来源: .\02-WriteUp\2025\378e4cf1a8c5f05133b1e5de465e352d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+| Boj] ¢€¢ | D | E | F | G | 1 | Jf K | Lt | 1 N
+1 )id — name_enc descriptio’ price_encr stock enci category ‘additional created_at updated_at name description price category additional data
+2 17 wYLyokKh B3selLRbN 6plOBItdvyvBYNHML 5wfu2uVv /tDEPOL6. 2025/4/7 2117 2025/4/7 21:22 jk-101 “ 督 能 安 防 描 像 头 1419.77 安 防 fcolor: 黑 色 ““weight「“120g“1
+3/18 IPok8pGCB3selLRbk arRPSTICTK3S7bZHY 5wfu2uWw/iDEPOLSs 2025/4/7 2117 2025/4/7 21:22 水 -105 “ 智 能 安 防 援 像 头 123484 安 防 fcolor: 黑 色 ““weight「“270g“1
+一 | 19 tF393gsmxuUo9CoViafBMbEKAsdxbJPOKCSwfuzuvv/iDEPOLSz 2025/4/7 21:17 2025/4/7 21:22 jk-103 “ 高 清 防 盗 监 按 摄 像 头 “139841 安 防 fecolor
+5 20 llb)mc48 uQWX+7(tOdRew3f77Kbyanoe pmiYZW4i/tDEPOL6s 2025/4/7 21:17 2025/4/7 21:22 hx-101 室 内 高 清 家 展 提 像 头 “146077 家 居 fcolor
+6 21 llb)mc48 dt7Pkrh2E c4zcO7Sd35ICTLbwC pmYZW4il LaiMgodb 2025/4/7 21:17 2025/4/7 21:22 hx-101 家 属 智 能 抒 像 头 129757 家 居 fcolor
+了 22 lMb)mc48 BISKEDyt' LMFMROxzLnoZISZ7 pmiYZW4iLaiMgodb 2025/4/7 21:17 2025/4/7 21:22 hx-101 家 用 无 线 援 像 头 18627 家 居 fcolor
+8 | 23 Miv3Mr2uQWX+7(9luuYwgqfrEajclOlpmYZW4iLaiMgodb 2025/4/7 21:17 2025/4/7 21:22 hx-105 宣 内 高 清 家 展 提 像 头 。 198444 家 居 fcolor
+9 , 24 vdhdVNSY/amH74PWApq23o+FskaVO 6b4MTHY/iDEPOL6s 2025/4/7 21:17 2025/4/7 21:22 cw-103 超 微 高 清 描 像 头 1748.39 数 码 fcolor
+10 | 25 68PRikZEiN3yUnKS /y3ctGZAEGavJFhmj: Mp7hJ6RA/tDEPOL6e 2025/4/7 21:17 2025/4/7 21:22 江 -102 隐 蔽 针 孔 监 挚 摄 像 头 “159178 监 控 "color"
+11 | 26 QY2FQIIN Y/gmH74cISAjSfU3ro/tSkTyFislE I6b4MTHY LaiMgodb 2025/4/7 21:17 2025/4/7 21:22 cw-105 超 微 高 清 摄 像 头 1752.96 数 码 fcolor
+12| 27 QY2FQIIN XSMhzivP. MFHeil2+cz4DQ4XI I6b4MTHY 6h+yO+q 2025/4/7 21:17 2025/4/7 21:22 cw-105 超 微 便 携 摄 像 头 1643.23 数 码 fcolor
+13 | 28 llb)ymed8 dt7Pkrh2E qlwr1LO9MofrLy0+Lt pmYZW4i /tDEPOL6e 2025/4/7 21:17 2025/4/7 21:22 hx-101 BBS 126157 家 属 fcolor
+14 | 29 KJ3ChnyX zbl+QI2z4jbxnEneqNOpsSKely Mp7hJ6RA6h+yO+q 2025/4/7 2117 2025/4/7 21:22 zk-103 1257.64 监 控 fcolor:
+15 | 30 8NL+0PBIY/gmH74e 2r++HXYSeb7yP7BK I6b4MTHY /tDEPOL6e 2025/4/7 21:17 2025/4/7 21:22 cw-104 1966.4 数 码 fcolor
+16 | 31 VEv+AtWizbl+QI2z4RxGETHPWHNEHpN Mp7hJ6RALaiMgodb 2025/4/7 2117 2025/4/7 21:22 zk-104 185127 监 控 fcolor
+17 | 32 wYLyokKh BaselLRbk Al5/bgaEClowSROot Swiu2uVv LaiMgodb 2025/4/7 21:17 2025/4/7 21:22 jk-101 1517.53 安 防 fcolor:
+18 | 33 raEXGHsGuQWX+7C2qYvColB7l8ZfwIT1fpmYZW4i/tDEPOLSz 2025/4/7 2117 2025/4/7 21:22 hx-103 1302 家 居 fcolor
+19 | 34 Ib)ymed8 dt7Pkrh2E gZviB/D9+cGVgV3ae pmYZW4i LaiMgodb 2025/4/7 21:17 2025/4/7 21:22 hx-101 15889 家 居 fcolor
+20 | 35 wYLyokKh uUo9CoVi 3daSNAunYBt+kwM Swiu2uWv LaiMgodb 2025/4/7 2117 2025/4/7 21:22 jk-101 1283.55 安 防 fcolor
+21) 36 D66PRZEzbl+QI2z4mZaxseRHiM7pdmA Mp7hJ6R/LaiMgodb 2025/4/7 2117 “2025/4/7 21:22 zk-102 129334 监 控 fcolor
+22 | 37 ScxUBeFwXSMhzvP EcAhXO9d4I5I6YpBXI6D4MTHYLaiMgodb 2025/4/7 2117 2025/4/7 21:22 cw-101 1819.24 数 码 fcolor
+23 | 38 JvdhdVN5 XSMhzlvP. IyAPnreF70RMI3HwI6b4MTHY/tDEP0L6s 2025/4/7 2117 “2025/4/7 2122 cw-103 1457.87 数 码 fcolor
+24 | 39 wYLyokKh B3selLRbkxoVKdRNRe6U1G8Jb 5wfu2uVy LaiMgodb 2025/4/7 2117 2025/4/7 21:22 jk-101 161694 安 防 fcolor
+25 | 40 VEv+AtW 3nhiHbMtfeF6zaGY4WGGIUHIMp7hJ6R/LaiMgodb 2025/4/7 21:17 “2025/4/7 21:22 zk-104 1627.18 监 控 fcolor: 灰 色 “weight「“180g“1

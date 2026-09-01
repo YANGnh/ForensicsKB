@@ -1,0 +1,27 @@
+# OCR: 14cd57de28d0b37cfcc5819cf911b83b.webp
+# 来源: .\02-WriteUp\2025\14cd57de28d0b37cfcc5819cf911b83b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+Y
+100080 ASB
+data tar/media 435/0/Android/data/com,
+St: a433ab9be561c59783157900ai008 19568560440 2ecf61296b09299501e5d8.0
+Sane: Lfioo08Q ARE MPA, ag、 Eips < HOI LET 26 Sete Be NT A
+5 MN AA MOAN OT PRI A PRIMA H s
+E
+RABE:
+<data.tar/media_435/0/Android/data/com.miuigallery/files/gallery disk cache/full size/a433ab9be
+'561€59783157800a008 1f968c5b04402ecf6129b09299501c508 0
+e209; 2025-01-23 10:00:31
+cewem eam +
+E
+《 h
+[issues]
+zneas
+E
+sow
+oe
+a
+ors
+ane

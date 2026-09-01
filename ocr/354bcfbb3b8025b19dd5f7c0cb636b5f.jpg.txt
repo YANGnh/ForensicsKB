@@ -1,0 +1,55 @@
+# OCR: 354bcfbb3b8025b19dd5f7c0cb636b5f.jpg
+# 来源: .\02-WriteUp\2024\354bcfbb3b8025b19dd5f7c0cb636b5f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+居 Wireshark - 8 TCP HE (tep.stream eq 1315) -FERAF-pcapng
+H a a 五
+2009/07/14 11:28 <DIR> E
+2009/07/14 09:41 366,080 2ipflde.d11
+2550 TRA 1,105,151,751 FH
+90 BR 51,721,289,728 RSH
+C:\itindows\systen32>systeminfo
+systeminfo
+Ee: IN-HapsocgenoT
+05 ii: Microsoft Windows 7 ib
+0s Ba: 6.1.7600 Wik Build 7600
+Ricrosoft Corporation
+joo TA
+Pultipcocessor Free
+SRA: Windows RP
+3
+P 1: (09382-918-5000002-85642
+mea:
+a
+一 8 arc Inc.
+E arc Virtual Platform
+FSD x64-based PC
+E E
+[ei]: Intel6s Fonily 6 Model 158 Stepping 9 GenuineIntel ~3600 Mhz
+10s mB: Phoenix Technologies LTO 6.00, 2018/4/13
+Windows ER: C:\Windows
+FER: nn
+2988 Jowiceerdttceeione
+林EE (
+E
+Be: D
+s 240 ve
+a 心
+E fe:
+FRE: C:\pagefile.sys
+‘woRKGROUP
+ee
+E
+BRT 个 c
+I Intel(R) PRO/I000 MT Network Connection
+BRE: Tie
+BR once: &
+E
+E
+C:\tindows\systen32>bitsadmin /rawreturn /transfer getfile http://192.168.85.130:9011/flag.png c:\Flag.png
+bitsadmin /rawreturn /transfer getfile http://192.168.85.130:9011/fleg.png c:\Flag.png
+985700, 27 SR engss Semel AEES,
+SARE (13318) S| show data as [68K 史
+«(BBE
+ea)

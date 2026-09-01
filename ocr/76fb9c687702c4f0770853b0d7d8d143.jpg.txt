@@ -1,0 +1,25 @@
+# OCR: 76fb9c687702c4f0770853b0d7d8d143.jpg
+# 来源: .\02-WriteUp\2024\76fb9c687702c4f0770853b0d7d8d143.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+[+] https: //www.exploit-db.com/exploits/38201/ -- Windows CreateObjectTask TileUserBroker Privilege Escalation, PoC
+[+]
+[E] MS15-097: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution (3089656) - Critical
+[*] https: //m.exploit-db.com/exploits/38198/ 一 Windows 19 Build 10130 - User Mode Font Driver Thread Permissions Privi
+[*] https: //w.exploit-db.com/exploits/38199/ 一 Windows NtUserGetClipboardAccessToken Token Leak, PoC
+[x]
+[ NS1S-878: Vulnerability in Microsoft Font Driver Could Allow Remote Code Execution (3079904) - Critical
+[*] https: //m.exploit-db.com/exploits/38222/ 一 MS15-078 Microsoft Windows Font Driver Buffer Overflow
+[x],
+[MJ| MS15-051: Vulnerabilities in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege (3057191) - Important
+[+] https: //github.com/hfirefOx/CVE-2015-1701, Win32k Elevation of Privilege Vulnerability, PoC
+[x]| https: //mn.exploit-db.com/exploits/37367/ 一 Windows ClientCopyImage Win32k Exploit, MSF
+[ 目 MS15-010: Vulnerabilities in Windows Kernel-Mode Driver Could Allow Remote Code Execution (3036220) - Critical
+[*] https: //mm.exploit-db.com/exploits/39035/ 一 Microsoft Windows 8.1 - win32k Local Privilege Escalation (MS15-019), P
+[*] https: //mm.exploit-db.com/exploits/37098/ 一 Microsoft Windows - Local Privilege Escalation (MS15-019), PoC
+[x] https: //mw.exploit-db.com/exploits/39035/ 一 Microsoft Windows win32k Local Privilege Escalation (MS15-010), PoC
+[
+[E] MS15-001: Vulnerability in Windows Application Compatibility Cache Could Allow Elevation of Privilege (3023266) - Impor
+[*] http: //mm.exploit-db.com/exploits/35661/ — Windows 8.1 (32/64 bit) - Privilege Escalation (ahcache. sys/NtApphelpCac
+Tel

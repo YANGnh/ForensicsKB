@@ -1,0 +1,25 @@
+# OCR: 6ce8d739c6fcadec3640bbb91dd844db.webp
+# 来源: .\02-WriteUp\2025\6ce8d739c6fcadec3640bbb91dd844db.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+fig, axes = plt.subplots(nro 0 Figsize=
+axe: xes.flatten()
+word_codes_list = [[115, 101, 115, 115, 105, 111, 1
+for i, word_codes in enunerate( ‘word_codes_1:
+ax = axes[i]
+Setudin( len(word_codes) + 1)
+set_ylim(0, 3)
+set_xticks([1)
+set_yticks([])
+word Join( [chr (code
+ax.text(0.5, 1.5, word, fontsize=24, ha=
+plt.tight_layout()
+plt.show()
+S\ Figure 1
+命 人 力 中 Q 芸 以 回
+session
+sponsor
+approve
+village
+square

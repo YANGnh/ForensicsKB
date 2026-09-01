@@ -1,0 +1,17 @@
+# OCR: 96938cba62982eea0c5ae253a6e40d9d.webp
+# 来源: .\02-WriteUp\2024\96938cba62982eea0c5ae253a6e40d9d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+Lait
+名 E 3
+5 圆 00
+0- $Extend
+2-29 $Recycle.Bin 。
+“Q¥ S-1-5-21-2119920595-1839877
+4 Documents and Settings
+2 Perflogs
+TYAS
+J Lextaiwhd.gz
+口 Vnuntpcoex
+] 口 R2tdltk

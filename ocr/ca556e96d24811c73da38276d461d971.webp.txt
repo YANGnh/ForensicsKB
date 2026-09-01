@@ -1,0 +1,10 @@
+# OCR: ca556e96d24811c73da38276d461d971.webp
+# 来源: .\02-WriteUp\2025\ca556e96d24811c73da38276d461d971.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+# pwd
+/data/app/el2/100/database/com.example.pgsdsj/entry/rdb
+# Ls a
+。 key lock notepad.db notepad.db-shm notepad. db-wal
+#|

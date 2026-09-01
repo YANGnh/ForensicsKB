@@ -1,0 +1,21 @@
+# OCR: effdbd1afe76ef6e8225e6c1541fb53e.webp
+# 来源: .\02-WriteUp\2025\effdbd1afe76ef6e8225e6c1541fb53e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+nn
+Jy xe
+OG. = admin
+Ole. = Fee
+i zuluCrypt-7.1.0
+i J) git 2.43.0-0k3 amd64deb
+i Jinstaller_debian_arm64_2.2.6.7.deb
+i Jinstaller debian x64 2.2.6.7.deb
+J Davaray.v2.7.0.Appimage
+i Jtodesk-v4.7.2.0-amd64.deb
+i Jukylin-wechat_3.4.0.1_amd64deb
+i Jwechat-beta 1.0.0.241_amd64deb
+i Jwechat-beta 4.0.0.21_amd64deb
+| JWeChatlinux x86 tdeb
+De
+J Dzulucrypt-7.1.0.tarcez

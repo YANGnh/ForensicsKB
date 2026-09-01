@@ -1,0 +1,25 @@
+# OCR: d63551d1a519c01fa7fcd73d58d1f036.jpg
+# 来源: .\02-WriteUp\2024\d63551d1a519c01fa7fcd73d58d1f036.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+员 万
+Recover File Password
+recoveryPage_tabs files
+recoveryPage_tabs report recoveryPage tabs resources
+a.xls
+SHER C: ) Users ) 32622 ) Desktop
+X MSS Excel 97-2003 — Open Password, CSP Encryption
+SRE * Brute-force - Slow
+Ms: FE51051CAB5C446D5836878541DCA0B4
+Passwords: File-Open PisswOrd = CEE
+File-Modify RSWSCUBWYSWOYSX “nk DEE
+Unprotected file: CJ Users ) 32622 ) Desktop ) a-unprotected.xis
+os: COBEEFES0402878F6428430E63F88159
+Seats TIME ELAPSED
+2 58 minutes, 46
+seconds
+E
+22,866,138,098
+Sa
+recoveryPage_tabs_performance recoveryPage tabs_attack:

@@ -1,0 +1,38 @@
+# OCR: 8daf8118411c9a3e56d6a606a96f6f65.jpg
+# 来源: .\02-WriteUp\2024\8daf8118411c9a3e56d6a606a96f6f65.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+国 Tat-iDgit
+SA) PERE) TACO) BS) 00
+Ene: IZTYQTRFU20DWUZ
+OS 名 称 Microsoft Windows Server 2008 R2 Enterprise
+OS figas: 6.1.7601 Service Pack 1 Build 7601
+05 券 造 高 , Microsoft Corporation
+OS 尽 匿 独 立 服 务 路
+05 构 似 承 & Multiprocessor Free
+注 朋 的 所 有 人
+注 望 的 组 练 Alyun
+产 品 ID: 00486-001-0001076-84509
+初 皋 安 装 日 跋 2024/1/30, 19:50:52
+系 统 启 动 画 间 , 2024/5/1115:1830
+系 统 制 遂 腐 Alibaba Cloud
+SES: Alibaba Cloud ECS
+x64-based PC
+安 茹 了 1 NNER.
+[01]: Intel6é4 Family 6 Model 85 Stepping 4 Genuinelntel -2500 Mhz
+BIOS 版 丝 SeaBIOS 449e491, 2014/4/1
+Windows 目 录 C:\Windows
+系 统 目 学 _CAWindowsssystem32
+启 动 & 备 \Device\hHarddiskyolomef
+系 统 区 域 设 置 加 -cni 中 文 比 国 )
+输 入 法 区 域 & 置 , 加 -n 丨 文 中 国
+刑 区 (UTC+0800 北 京 , 重 庆 , 青 湛 特 别 行 政 区 , 乌 鲸 木 齐
+物 理 存 总 春 , 1.966 MB
+可 用 的 物 理 内 存 , 521 MB
+庞 伊 内 存 春 大 俪 1,966 MB
+庞 押 内 存 : 可 阜 157 MB
+LAG: 便 用 中 . 1809 MB
+页 面 文 件 位 置 , 智 欣
+域 WORKGROUP
+—— sip

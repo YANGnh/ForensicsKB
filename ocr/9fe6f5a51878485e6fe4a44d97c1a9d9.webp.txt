@@ -1,0 +1,31 @@
+# OCR: 9fe6f5a51878485e6fe4a44d97c1a9d9.webp
+# 来源: .\02-WriteUp\2025\9fe6f5a51878485e6fe4a44d97c1a9d9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+国 *kptbt -i
+文 件 ( 编 辑 ( 格 式 (0) 查 看 () 帮 助 (H)
+16161616
+@ Database.kdbx - KeePass
+File Group Entry Find View Tools Help
+团 昌 回 | 畹 -| 明 国 伊 - 自 益 | 杨 - 国 |Seardh. -
+佳 Database Title User Name Password URL Notes
+| Bencral P Sample... UserName r https://keep... Notes
+= Windows 加 SampleE.。 Michael321 r https://keep...
+& Network 力 备 用 机 惠 码 E
+Internet -
+eMail @ Edit Entry
+骑 Homebanking
+Group: Database. Title: 备
+Time: 2025/10/16 14:48:4
+1 of 3 selected 月
+小 Edit Entry
+You are editing an existing entry.
+General Advanced Properties Auto-Type History
+Title: 帮 用 枝 震 石 Icon: [P
+User name:
+Password: eve
+36 bits 10 ch [ @
+Notes:
+Expires: [2025/11/23 0:00:00 目 |
+100% Win

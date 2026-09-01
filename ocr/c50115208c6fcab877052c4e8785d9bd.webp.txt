@@ -1,0 +1,42 @@
+# OCR: c50115208c6fcab877052c4e8785d9bd.webp
+# 来源: .\02-WriteUp\2025\c50115208c6fcab877052c4e8785d9bd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+while ( ReadFile(Files 1, Buffer, @x1000u, &llumberofsytesRead, OLL) )
+《
+NumberOfBytesRead_1 = NumberOfBytesRead;
+if ( !NumberofsytesRead )
+break;
+for ( i = 03 i < NunberofeytesReads i += 16 )
+《
+memset(v21, 8 sizeof(v21))5
+v22 = @}
+memset(V12, 8 sizeof(v12))5
+vis = 8
+if ( NumberofbytesRead_1 - i < exile )
+break;
+v9 = *CowoRD *)&suffer[i]s
+v20 自
+4
+OLLs
+LL;
+LL;
+(QhiorD *)sub_180002380(696LL) ;
+sub_180001000(v11, ( t
+key 扩 展
+Junsigned ing(eseotga * (unsigned _int64)(i >> 4)) >> 32) >> 3))3
+3:
+f
+I iv
+sub_160001A80(8V16, a vi0, v21)s
+*(GuoRD aseffert = v2i[0]s
+af (vis )
+(*(void (_fastcall **)(_Qw0RD *, _int64))*vi6)(vi6, 4LL)3
+NunberOfBytesRead_1 = NunberofByteskeed;
+1
+if ( thiriteFile(hobject, Buffer, NumberOfBytesRead_1, BllumberOfBytesiiritten, @LL)
+I] NunberofByteswritten != NumberofBytesRead )
+《
+n 砺 公 众 号 - 小 谢 取 证
+'0000144F sub 180001E50:68 (18000204F)

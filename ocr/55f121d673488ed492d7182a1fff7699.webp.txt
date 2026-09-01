@@ -1,0 +1,12 @@
+# OCR: 55f121d673488ed492d7182a1fff7699.webp
+# 来源: .\02-WriteUp\2024\55f121d673488ed492d7182a1fff7699.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+PB wAlicetyMacbook > 国 &#se (915) > jo mB
+O=s8 , 万 报 D 阮 = Macht = BSDEEFaR meee = 0m
+RE tie per] Vv le VO lite UV
+口 1 1EEE8O211 IOSerce
+口 2 Thunderbolt 1 82-13-13-12-B9-CO ent Ethernet lOService....
+口 3 Thunderbolt 2 82-13-13-12-B9-C1 en2 Ethernet lOService:
+口 4 Thunderbolt Ethernet 0C-4D-E9-CA-0A-0B en3 Ethernet lOService:...

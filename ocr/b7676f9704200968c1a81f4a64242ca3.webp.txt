@@ -1,0 +1,18 @@
+# OCR: b7676f9704200968c1a81f4a64242ca3.webp
+# 来源: .\02-WriteUp\2025\b7676f9704200968c1a81f4a64242ca3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
++ select count(member_id) Aa, left(address, 2) ti
+from members
+group by ait
+order by Aa desc; # ©
+v elect sum(ts. amount)
+fron members m
+left join transactions ts on m.member_id = ts.payer_id
+Wwhere left(m.address, 2) ,
+and ts.type = ‘withdrawal
+@ tf «BB sum(ts.amount):double x
+He GOB # Q 圆
+(0 ‘sum(ts.amount)’ 卫
+2301065.1300000004

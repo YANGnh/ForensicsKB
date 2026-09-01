@@ -1,0 +1,15 @@
+# OCR: 0b8e3d4fb2419d8d7cfbb4de9245ffee.jpg
+# 来源: .\02-WriteUp\2024\0b8e3d4fb2419d8d7cfbb4de9245ffee.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+vmware’ ESXi
+4008
+1068
+2008
+5068
+arnanate )
+‘Contos 7 (64 2)
+‘Ubunty Linux (32 2)
+‘Debian GNULinux 10 (64 €2)
+Centos 7 (64

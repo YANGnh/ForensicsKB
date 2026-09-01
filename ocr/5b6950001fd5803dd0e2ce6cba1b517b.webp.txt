@@ -1,0 +1,40 @@
+# OCR: 5b6950001fd5803dd0e2ce6cba1b517b.webp
+# 来源: .\02-WriteUp\2024\5b6950001fd5803dd0e2ce6cba1b517b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+log=BEREE& pwd=root&wp - submit=%E7%99%BB%E5%BD%95&redirect_to=http%3A%2F%2F192 .168.289 .147%2Fwp-admin%2F&testcookie=1
+HTTP/1.1 288 OK
+Server: nginx
+Date: Mon, @5 Aug 2024 08:18:56 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Expires: Wed, 11 Jan 1984 @5:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Set-Cookie: wordpress_test_cookie=WP%2@Cookie%2@check; path=/
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv=“Content-Type“ content="text/html; charset=UTF-8" />
+Ktitle> 登 录 &lsaquo; web3 &#8212; WordPress</title>
+<meta name='robots' content='noindex, nofollow, noarchive' />
+<link rel="stylesheet’ href='http://192.168.209.147/wp-admin/load-styles.php?c=@&amp ; dir=1tr&amp ; load%5Bchunk_@%5D=dashicons, button
+s, forms ,11@n, login&amp;ver=6.6.1' media='all' />
+<meta name=「referrer“ content='strict-origin-when-cross-origin' />
+<meta name=“viewport“ content="width=device-width" />
+</head>
+<body class="login no-js login-action-login wp-core-ut locale-zh-cn">
+<script>
+document.body.className = document.body.className.replace('no-js','js');
+</script>
+<div id="login">
+<h1><a href="https://cn.wordpress.org/">3éF WordPress</a></h1>
+<div id="login_error" class="notice notice-error"><p><strong>fiix: </strong> 为 用 户 名 《strong>saber</strong〉 指 定 的 密 码 不 正 确 。
+<a href=“http://192.168.289.147/wp-1ogin.php?action=lostpassword“> 忘 记 宿 码 ? </a></p></div>
+Leite: 27469 4hR SAG 147 fun zyinpelgiSysueR
+t 4 FJ 79
+F g

@@ -1,0 +1,6 @@
+# OCR: 34e47a89bf4d4ec3c74f5746c7b9fdad.jpg
+# 来源: .\02-WriteUp\2024\34e47a89bf4d4ec3c74f5746c7b9fdad.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+7m

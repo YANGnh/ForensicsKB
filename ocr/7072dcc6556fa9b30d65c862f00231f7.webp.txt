@@ -1,0 +1,30 @@
+# OCR: 7072dcc6556fa9b30d65c862f00231f7.webp
+# 来源: .\02-WriteUp\2025\7072dcc6556fa9b30d65c862f00231f7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+ServerSocket serverSocket;
+switch (this.227¢e) {
+case @:
+MainActivity mainActivity = (MainActivity) this.f2271f5
+int i6 = Mainactivity.f2790s;
+c2.e.e(mainactivity, "thisso”);
+Random random = new Random(System.currentTimeMillis())3
+if (e1.a.f3470e < @) {
+Calendar calendar = Calendar.getInstance()5
+int Length = ((calendar.get(11) * 60) + calendar.get(12)) % el.a.3469d. length;
+el.a.f3470e = 63
+Field declaredField = el.b.class.getDeclaredField("b");
+declaredField.setaccessible(true);
+declaredField. set(e1.b.f3471a, Integer.valueOf( (((e1.a.3467b[0] * 10) + ((et.a.F3466a[1] /
+)
+random.nextint(10)
+int 17 = e1.a.f347065
+Stringl] 国 圆 = e1.a.f3460d;
+try {
+mainactivity. startactivity(new Intent(mainActivity, Class. fortiame i
+Log.d(“Activityslanager", "Loading interface: * + pO Re
+returns
+) catch (Exception ae (
+Log.e("Activityilanager", “Failed to load interface", e6)3
+returns

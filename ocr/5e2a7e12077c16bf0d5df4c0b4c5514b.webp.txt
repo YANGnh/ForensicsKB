@@ -1,0 +1,8 @@
+# OCR: 5e2a7e12077c16bf0d5df4c0b4c5514b.webp
+# 来源: .\02-WriteUp\2025\5e2a7e12077c16bf0d5df4c0b4c5514b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+Welcome to my new HNS site!
+This is currently like an empty void, but there will be more content in the following days (or hours)
+Meanwhile, visit www.lumito.net

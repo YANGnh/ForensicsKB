@@ -1,0 +1,12 @@
+# OCR: bbebef915d07bcd0bd1acfea3cf5012a.webp
+# 来源: .\02-WriteUp\2025\bbebef915d07bcd0bd1acfea3cf5012a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+Soooooomooomonooeooomooomoon
+7300676539 al @a G8 @0 80 G0 G0 81 GO a8 00 81 80 00 20 1c
+7300676549 52 07 G8 @8 G0 G8 G0 dB 76 b2 08 73 G8 00 00 81
+7300676559 80 @0 G8 20 00 G2 GO 81 G2 a8 08 80 ec 14 8 Ic
+€x7300676469, [object Object], 77,144,55,56,74,192, 244, 200,205,25,55,170,43,225,97,94
+pathkey =>
+8 1 2 3 4 5 6 7 8 9 ABC D E F @123456789ABCDEF

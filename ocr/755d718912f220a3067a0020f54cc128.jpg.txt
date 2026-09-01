@@ -1,0 +1,15 @@
+# OCR: 755d718912f220a3067a0020f54cc128.jpg
+# 来源: .\02-WriteUp\2024\755d718912f220a3067a0020f54cc128.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+二 - 一 E -
+ee T smHTe 欣 tsql ()tee Exe - 门 Sue 命 eee
+Ty myst E
+目 闵
+Dit - 口 余 t 贺 M
+1 SELECT SUM(need_give_money) FROM *member_deal’ WHERE deal_status = 4
+ae
+SUM(need give money)
+» 1006765500
+ge S21 a Re

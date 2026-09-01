@@ -1,0 +1,22 @@
+# OCR: 73f5848f15044bfb612ba413849789bc.webp
+# 来源: .\02-WriteUp\2024\73f5848f15044bfb612ba413849789bc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+vp 国 Alice 的 Macbook > 【4丑TeamViewer 〉 国 配 置 信
+国 三 序 号
+三 名 称
+过 滑
+连 接 ID
+端 口 名 称
+上 次 使 用 Macit 址
+= 英 文 名 称
+过 滤
+CLIENT-ID
+PORT
+LASTLUSED_MAC
+=a
+过 滑
+358639376
+6039
+F4:5C:89:A1:C0:07

@@ -1,0 +1,40 @@
+# OCR: 5c62150a9bf0a270e51c018e1b60e419.jpg
+# 来源: .\02-WriteUp\2024\5c62150a9bf0a270e51c018e1b60e419.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+[rooteyourcode tmp]# service redts status
+redts is running! (1027)
+[root@yourcode tmp]# service redis restart
+Stopping ..-
+Could not connect to Redis at 127.0.0.1-6379: Connection refused
+Redis stopped
+Starting redis server …
+Starting redis success!
+[root@yourcode tmp]# netstat -napt
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address Foreign Address State PID/Program name
+tcp 6 ′ 6.8.8.8- LISTEN 16960/python
+tcp 6 0.0.0.0:* LISTEN 1436/nginx: master
+tcp 6 0.0.0.0:* 1028/sshd
+tcp 6 0.0 * 1436/nginx: master
+tcp 6 6_6 *
+tcp 6
+tcp 6 16 ED python
+tcp 6 6 WEL ESTABLISHED 17910/sshd- root
+tcp 6 6 217.1:50131 FINWAIT2  -
+tcp 6 6 -217-1-50067 ESTABLISHED 16960/python
+tcp 6 6 217.1:50008 ESTABLISHED 16960/python
+tcp 6 36 -217.1:39833 ESTABLISHED 9205/sshd- root@pts
+tcp 6 6 -217-1-50665 ESTABLISHED 16960/python
+tcp 6 6 -217-1-50811 ESTABLISHED 16960/python
+tcp 6 6 217.1:58132 FLMAI2  -
+tcp 6 6 -217.1:50014 ESTABLISHED 16960/python
+tcp 6 6 217.1:50013 ESTABLISHED 16960/python
+tcp 6 6 -217-1-50664 ESTABLISHED 16960/python
+tcp 6 6 : LISTEN 1028/sshd
+tcp 6 6 LISTEN 1807/master
+tcp 6 6 LISTEN 2498/mysqld
+tcp 6 6 ESTABLISHED 17910/sshd- root
+tcp6 6 6 :56466 ESTABLISHED 2498/mysqld
+[root@yourcode tmp]i#t

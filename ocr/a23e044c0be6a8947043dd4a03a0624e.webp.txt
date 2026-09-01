@@ -1,0 +1,14 @@
+# OCR: a23e044c0be6a8947043dd4a03a0624e.webp
+# 来源: .\02-WriteUp\2025\a23e044c0be6a8947043dd4a03a0624e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+市 场 PC:
+财 务 PC:
+行 1 列 1
+192.168.10.106 用 户 名 : admin 密 码
+192.168.10.107 用 户 名 : admin 密 码
+188 个 孙 符
+100%
+Windows (CRLF)
+UTF-8

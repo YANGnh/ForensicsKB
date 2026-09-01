@@ -1,0 +1,24 @@
+# OCR: 98fd6f298248a69379f6868c168b30d1.webp
+# 来源: .\02-WriteUp\2024\98fd6f298248a69379f6868c168b30d1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+-4.28
+cd profile,d
+hi cd: profile,d: No such file or directory
+h-4.28 cd profile.d
+h-4.28 1s
+5etern.csh check-system.sh
+5etern.sh colorgrep.csh
+brt-consele-notification.sh colorgrep.sh
+ash_completion.sh colorls.csh
+h-4.2% rm -F check-system.sh
+h-4 28
+colorls.sh
+esh. local
+lang .csh
+lang.sh
+less.csh vim.sh
+less.sh which2.csh
+sh.local which2.sh
+vim.csh

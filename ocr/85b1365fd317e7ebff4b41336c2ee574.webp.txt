@@ -1,0 +1,36 @@
+# OCR: 85b1365fd317e7ebff4b41336c2ee574.webp
+# 来源: .\02-WriteUp\2026\85b1365fd317e7ebff4b41336c2ee574.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+公
+V| 只 读
+史 Oo eA Earl) pine Min size RegExp
+© Nauz File Detector (NFD) PE64 via MA V, ANSI UTF8 Vv Unicode Null-terminated 链 接 5|> 搜 索
+© Detect It Easy (DiE)
+© Yara rules Code page 过 滤 器
+© VirusTotal 一 flag 保 存
+〇 Visualization
+团 十 六 进 制 Number “ 大 小 类 型 字 符 串
+医 BL 崛颤慢 lag(oh you find me!)
+口 响 带 00026e1c 0042901c 节 (2)[.rdata「] 8 A ,sorryyou can't get flag
+宫 茎亘吕 700 0002ddb1 004351b1 节 (10).. Qe A ,ExceptionFlags
+口 内 存 眼 射 711 0002dea4 004352a4 节 (10)... 0c A ContextFlags
+口 信 息 症 719 0002df23 00435323 节 (10).. 06 A EFlags
+O 提 取 器 856 0002f183 00436583 节 (10).. 09 A 8dwFlags
+O 搜 索 1425 00032580 00439980 节 (10).. Qe A ExceptionFlags
+@ 工 具 雄 1436 00032673 00439a73 节 (10)... 0c A ContextFlags
+- niall 1444 000326f2 00439af2 节 (10)... 06 A EFlags
+= Os ee eee 1576 0003330a 0043a70a 节 (10).. 10 A #VersionAndFlags
+@ ACE FILE HEADER 1704 0003408b 0043b48b 节 (10)... 05 A ,flag
+> @ IMAGE 0PTIONAL_HEADER 1825 00034b23 0043bf23 节 (10).. 05 A ,flag
+国 IMAGE_DIRECTORY_ENT... 1834 00034bed 0043bfed 节 (10)... 05 A flags
+“ 野 节 一 1975 00035ea4 0043d2a4 节 (10).. Qe A ExceptionFlags
+@ 信 息 1986 00035f97 0043d397 节 (10).. 0c A ContextFlags
+1 一 ace 1994 00036016 0043d416 节 (10).. 06 A EFlags
+@ 异 常 2118 00036f20 0043e320 节 (10)... 05 A Flags
+~ 心 TLS 2228 00037ccd 0043f0cd 节 (10)... 0b A LoaderFlags
+@ TLS 回 调 2298 00038a8c 0043fe8c 节 (10).. Qe A ExceptionFlags
+@ 附 加 2310 00038b89 0043ff89 节 (10).. 0c A ContextFlags
+2318 00038c08 00440008 节 (10).. 06 A EFlags 7
+Detect It Easy

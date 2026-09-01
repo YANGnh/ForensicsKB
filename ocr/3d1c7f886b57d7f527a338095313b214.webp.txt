@@ -1,0 +1,28 @@
+# OCR: 3d1c7f886b57d7f527a338095313b214.webp
+# 来源: .\02-WriteUp\2025\3d1c7f886b57d7f527a338095313b214.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+SELECT c 传 感 器 IDyCOUNT(DlSTINCT c 证 件 号 码 「) as zs FROM (SELECT b. {4
+感 器 IDyb. 证 件 号 码 「 FROM sdqk a join rxkk b on a 证 件 号 码 「 = b 证 件 号 码 「
+where substr(b. J 知 时 间 ,12,8)>=“00:00:00“ and substr(b. 感 知 时 间
+*,12,8)<="06:00:00") c GROUP BY c 传 感 器 ID「 HAVING zs>1
+SELECT
+c 传 感 器 ID“
+COUNT(DISTINCTc. 证 件 号 码 ) AS zs
+FROM
+(
+SELECT
+b.. 传 感 器 ID“
+b 证 件 号 码 「
+FROM
+sdqka
+JOIN rxkk b ON a 证 件 号 码 「 = b 证 件 号 码 「
+WHERE
+substr(b. 感 知 时 间 “ 12, 8) >= "00:00:00"
+AND substr(b“ 感 知 时 间 12, 8) <= “06:00:00“
+) c
+GROUP BY
+c 传 感 器 ID「
+HAVING
+25>1

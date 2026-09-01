@@ -1,0 +1,22 @@
+# OCR: 32dbb50d392d373a65463915be8e2114.webp
+# 来源: .\02-WriteUp\2024\32dbb50d392d373a65463915be8e2114.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+sopomoo u
+BBR
+public function export()
+{
+$db= new Backup();
+if (Request: : instance()->isPost()){
+$input=input( ‘post. ');
+$fileinfo =$db->getFile();
+// 检 查 是 否 有 正 在 执 行 的 任 务
+$lock = "{$fileinfo[ ‘filepath' ]}backup. lock";
+if(is_file($lock)){
+钗 his->error(「 桃 测 到 有 一 个 备 份 任 务 正 在 执 行 , 请 稍 后 再 试 !“);
+} else {
+// 创 建 锁 文 件
+file_put_contents($lock, time()) 5
+]
+“filepath']) || 8this->error( 备 份 目 录

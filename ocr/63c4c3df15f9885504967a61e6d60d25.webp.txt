@@ -1,0 +1,23 @@
+# OCR: 63c4c3df15f9885504967a61e6d60d25.webp
+# 来源: .\02-WriteUp\2025\63c4c3df15f9885504967a61e6d60d25.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+TYPE="Ethernet"
+PROXY_METHOL
+BROWSER_ONLY="no
+BOOTPROTO="static”
+DEFROUTE="yes"
+IPV4_FAILURE_FATAL="no"
+IPV6INIT="yes”
+‘IPV6_AUTOCONF
+IPV6_DEFROUTE="yes"
+IPV6_FAILURE_FATAL="no"
+IPV6_ADDR_GEN_MOD!
+NAME="ens33"
+DEVICE="ens33"
+ONBOOT="yes”
+IPADDR=192.168.2.199
+GATEWAY=192.168.2.1
+noni
+stable-privacy"

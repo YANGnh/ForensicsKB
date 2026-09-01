@@ -1,0 +1,37 @@
+# OCR: 7075da8fb0453c1c1b66e01e2b90807f.jpg
+# 来源: .\02-WriteUp\2024\7075da8fb0453c1c1b66e01e2b90807f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+a
+SOR
+E
+Bees 。 AN
+{root
+I 日 I
+> ali boot
+> ali dev
+> all ete
+> all home
+> all lost#found
+> alt media
+> a mnt
+> all opt
+> ll proc
+> a ssh
+D) bash history
+口 forward
+profile
+D md
+口 sngethets
+G
+。
+ax +
+Linux pve 6.5.11-8-pve #1 SMP PREEMPT_DYNAMIC PMX 6.5.11-8 (2024-01-36T12:27Z) x86_64
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright .
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable Law
+Last login: Mon Mar 25 11:87:48 2624
+root@pve:~# []

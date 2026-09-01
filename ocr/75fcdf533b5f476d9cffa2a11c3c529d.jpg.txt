@@ -1,0 +1,10 @@
+# OCR: 75fcdf533b5f476d9cffa2a11c3c529d.jpg
+# 来源: .\02-WriteUp\2024\75fcdf533b5f476d9cffa2a11c3c529d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+root@Openlirt:/# cat /etc/openwrt_release
+DISTRIB_ARCH="x86_64"
+DISTRIB_DESCRIPTION="OpenWrt 23.05.2 r23630-842932a63d"
+DISTRIB_TAINTS=
+root@openmirt:/# []

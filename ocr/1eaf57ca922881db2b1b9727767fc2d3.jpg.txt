@@ -1,0 +1,25 @@
+# OCR: 1eaf57ca922881db2b1b9727767fc2d3.jpg
+# 来源: .\02-WriteUp\2024\1eaf57ca922881db2b1b9727767fc2d3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+恶 意
+flashcenter pp_ax_install cn.exe
+Sh:
+sisted:
+E
+ERE:
+E
+HASH
+SHA2S6:
+MDs:
+SHAT
+2024/05/11 RIESE 2024/05/11 FLRA MH: 2024/05/11 20:09:08
+2.6 MB 3S: PE32+ executable (GUI) x86-64, for MS Window
+8/27 ‘SR: 国 Win10(1903 64bit Office2016)
+ES3 samme: 国 E
+CobaltStriket2il
+标 国 E 国 BAA ECobaltStrikeA BRR.
+caSb8de264cde2adefecSfd3ccSbf934751d72db59159423483067dec0Se590d
+1877379d9261 1ea52befbbe2c2c77e55
+69de0e2b60eF67a349#fe58592374255(2c20483

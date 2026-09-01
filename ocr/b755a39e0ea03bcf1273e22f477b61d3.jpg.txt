@@ -1,0 +1,15 @@
+# OCR: b755a39e0ea03bcf1273e22f477b61d3.jpg
+# 来源: .\02-WriteUp\2024\b755a39e0ea03bcf1273e22f477b61d3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+卯 吴 2 © chromewass> 回 TiER
+Gess| =a URL
+E Y 途
+口 1 WiresharkPortable64_3....
+T
+https://2.na.dl.wireshark.org/win64/WiresharkPortable...
+v
+CAUsers\Administrator\Downloads\WiresharkPortable64...
+口 2 Eraser 6.2.0.2993.exe https://sourceforge.net/projects/eraser/files/Eraser%2...___C:\Users\Administrator\Downloads\Eraser 6.2.0.2993.exe
+口 3 encrypt fileexe http://192.168.100.100/public/upload/encrypt file.exe _C:\Users\Administrator\Downloads\encrypt file.exe

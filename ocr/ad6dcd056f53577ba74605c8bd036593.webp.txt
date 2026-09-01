@@ -1,0 +1,13 @@
+# OCR: ad6dcd056f53577ba74605c8bd036593.webp
+# 来源: .\02-WriteUp\2025\ad6dcd056f53577ba74605c8bd036593.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+历 弛 技 国 。 文 札 国 十 大 国 notedb
+豇〕 = note id = created date = modified date = content
+account
+园 c 4 1744358379000 1744358379000 g
+android metadata (1
+data 1
+note 7
+sqlite sequence 2

@@ -1,0 +1,35 @@
+# OCR: 53d47fc1490526043d98e7af694b44b1.webp
+# 来源: .\02-WriteUp\2025\53d47fc1490526043d98e7af694b44b1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+仪 | 园 | 日 色 品 | 八 由 | 张
+白 日 Plee Value Type Data
+白 团 InterfaceDrivers pe REG_DWORD ox00000006
+E (88) MediaType REG_DWORD o¥00000000
+ce Gy (0493CFB4-0109-4E 48.4211.€ PhysicaMediaT ype REG_DWORD a
+3 GB (07374750-€688-4908-9330-9F alias REG_SZ Etheinetd
+心 团 @ABICOFC-2AF1-4DCD-8018. NetLuidlndes REG_DWORD ov00008001
+fm @@ (2E2c70c.092-4088.46549 BB) Characteristics REG_DWORD oxo0000084
+@ (GQ (2FE38D58-CAME-47CD-A1D0- al ltDescr REG_SZ Intel(F} 82574L Gigabit Network Connection
+cm (Gy (4F552287-521C-4CCF-B9D0-C afl] ProtocolList REG_MULTI.. RDMANDKTcpipMsLIdpT cpipérspndiRasPppoeN
+REG_BINARY 2078 FD 98 SC D6 18 4C 9F EA 98 34 01 96:29
+eG (7218DD12-7EDE-4817-A30D.
+ce Cy (@BSEF4F7-7996-470287193t
+日 团 (@D05F331-1611-4078-8F753
+ce Gy (93128211-9628-4E04-82F EA
+日 团 (GeFBEF 2003504240 97A9-7
+白 团 (85649540-9514-4160-8742-C
+口 团 Escolgtsgzlegas
+团 ana
+白 团 Properties
+口 团 Foeososstepetxt
+GD Kernel
+GD Properties
+E
+G Kernel
+Result Panel
+Key Type Value Data
+Peimanentddtess REG_BINARY 0000 230F 6900
+Key Pat! ROOT\ControlSet001\Control\NetworkSetup2\\Interfaces\(E3AC91D1-EE50-4E20-B9F9-3F742336DB8E)\Kernel
+hacia G:\20258554"\ 2 \export\SVSTEM

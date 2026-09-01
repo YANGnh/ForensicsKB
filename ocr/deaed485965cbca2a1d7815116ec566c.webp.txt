@@ -1,0 +1,22 @@
+# OCR: deaed485965cbca2a1d7815116ec566c.webp
+# 来源: .\02-WriteUp\2025\deaed485965cbca2a1d7815116ec566c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+root@lower:/boot/Logs# docker start fe
+fe
+root@Tower: /boot/logs# eC
+root@Tower:/boot/Logs# docker start 18
+18
+root@Tower: /boot/Logs# docker ps
+CONTAINER ID IMAGE COMMAND: CREATED ‘STATUS
+NAMES
+feecgefa566 wwi-web “docker-php-entrypoL““4 weeks ago Up 9 seconds
+0-8080->80/tcp, - --8080->80/tcp www-web-1
+7 “docker-entrypoint.s." 4 weeks ago Up 4 seconds
+=3306->3306/tcp, 33060/tcp  waw-db-1
+182b6d6l9bla ysqt
+@:3306->3306/tcp,
+PORTS
+0.0.0.
+0.0.0.

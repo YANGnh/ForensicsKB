@@ -1,0 +1,26 @@
+# OCR: 3fd14adbaa757cc01ff09394fd808fd6.webp
+# 来源: .\02-WriteUp\2026\3fd14adbaa757cc01ff09394fd808fd6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+. CPU usage: 0.0% of
+File Actions Edit View Help File Edit View Go Bookmarks Help
+—(kalié kali)-[~1 ,
+一 steghide extract -sf ‘/home/kali/Desktop, 个 fi 《 A a
+Enter passphrase:
+steghide: could not extract any data with th Places
+= p—(kali@ kali)-[~] Seman gz
+L$ steghide extract -sf ‘/hone/kali/Desktop, [iki
+Enter passphrase:
+Desktop Documents Downloads
+wrote extracted data to “666.txt". 园 Desko
+a a @) Recent
+~666.txt - Mousepad @
+File Edit Search View Document Help 5 Music Pictures Public
+B 国 日 国 C x Sse 学 月 日 Q 仁 0
+I 甾 阎
+= 2 vm82048204
+| 3 vc1233211234567| Templates Videos 666.txt
+1 stwork
+13 folders | 16 files: 57.7 KiB (59,112 bytes) | Free space: 59.5 GiB
+a”

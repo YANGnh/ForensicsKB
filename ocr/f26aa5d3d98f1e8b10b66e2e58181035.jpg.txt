@@ -1,0 +1,16 @@
+# OCR: f26aa5d3d98f1e8b10b66e2e58181035.jpg
+# 来源: .\02-WriteUp\2024\f26aa5d3d98f1e8b10b66e2e58181035.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+Rex +
+droidenodel:-$ modprobe binder_linux devices=
+modprobe: ERROR: could not insert 'binder_linux':
+droid@nodei:~$ sudo modprobe binder_linux devices="
+[sudo] password for droid:
+droid@nodei:~$ sudo modprobe ashmen_linux
+droidenodel:-$ sudo modprobe binder_linux devices="binder ,hwbinder ,vndbinder"
+droid@node1:~§ []
+binder ,hwbinder ,vndbinder”
+Operation not permitted
+binder ,hwbinder ,vndbinder”

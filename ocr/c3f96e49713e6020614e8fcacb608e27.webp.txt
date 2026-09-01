@@ -1,0 +1,35 @@
+# OCR: c3f96e49713e6020614e8fcacb608e27.webp
+# 来源: .\02-WriteUp\2025\c3f96e49713e6020614e8fcacb608e27.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+心 心 户 D
+B ol
+ARES
+V JFFS2-ROOT
+V root
+V etc
+v dropbear
+= dropbear_ecdsa_host_key
+= dropbear_rsa_host_key
+known_hosts
+© network \ interfaces.d
+与 eth0
+V webui
+芸 backupconf
+芸 fw_envcconfig
+$ passwd
+$ passwd-
+= shadow
+= shadow-
+V root
+.ash_history
+= 重 要 passworditxt
+frpc
+与 frpcini
+password.txt
+= password.txt X
+root > root > = password.txt
+3
+2
+Qm1@TG9ja2VyIFBhc3N3b3JkOiBMaXN@c3RAcXd1MTIz

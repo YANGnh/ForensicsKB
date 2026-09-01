@@ -1,0 +1,36 @@
+# OCR: 2bce7573f75378b0c24544a362acea94.jpg
+# 来源: .\02-WriteUp\2024\2bce7573f75378b0c24544a362acea94.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+AS
+STRAT 7 AR, HUE DT LE
+E Sheen
+E information
+ee Bare
+口 f id
+Br E
+回 ee
+团 E
+回 日 ao
+\ 回 市
+a E
+F
+varchar
+varchar
+varchar
+varchar
+varchar
+varchar
+varchar
+KE HA Se
+255
+255
+255
+255
+255
+255
+255
+。 c c c c e e
+<t-# || 下 训
+E

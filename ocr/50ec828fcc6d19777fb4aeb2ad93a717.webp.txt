@@ -1,0 +1,24 @@
+# OCR: 50ec828fcc6d19777fb4aeb2ad93a717.webp
+# 来源: .\02-WriteUp\2025\50ec828fcc6d19777fb4aeb2ad93a717.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+e
+rootlocathost -]# cat /etc/passud
+root=x ‘oot: /root: /bin/bash
+b in: btn: /sbin/nologin
+alt: /sbin: /sbin/halt
+mat: /var/spool/mat- /sbin/nologin
+FIP User: /var/ftp: /sbin/nologin
+。 bin/nologin
+systend-bus-proxy:x:999-997-systemd Bus Proxy:/:/sbin/nologin
+systend-network:x:192:192:systemd Network Management /:/sbin/nologin
+: sbunynologun
+: /:/sbunynetogun
+Account used by the trousers package to sandbox the tcsd daemon: /dev/null:/
+sbin/nologin
+2 7
+5: /var/Lib/chrony: /sbin/noLogin
+etcjntp:fsbin/nologin
+pdt
+[root@locathost.~J#

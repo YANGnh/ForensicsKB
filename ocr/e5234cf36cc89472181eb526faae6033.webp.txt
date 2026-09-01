@@ -1,0 +1,15 @@
+# OCR: e5234cf36cc89472181eb526faae6033.webp
+# 来源: .\02-WriteUp\2025\e5234cf36cc89472181eb526faae6033.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+ag g
+t/Shadou-werdList=/nnt/912625 盘 吉 石 杯 / 酮 级 螂 /export/dic.txt /ant1912625 盘 i
+Loaded 1 password hash (crypt, generic crypt(3) [?/64])
+Will run 16 OpenMP threads
+Press ‘q' or Ctrl-C to abort, almost any other key for status
+P@ssword (root)
+19 0:00:00:00 100% 25.009/s 2400p/s 2400c/s 2400C/s www. ,o1
+Use the “--show" option to display all of the cracked passwords reliably
+Session completed
+wxaze g WXazc in ~/software |112!20:42

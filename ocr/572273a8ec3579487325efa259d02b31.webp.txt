@@ -1,0 +1,16 @@
+# OCR: 572273a8ec3579487325efa259d02b31.webp
+# 来源: .\02-WriteUp\2025\572273a8ec3579487325efa259d02b31.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+Obj !Duration@453341
+--off_8:-int (0x£4240)
+1
+Obj !Duration@453351+:+{
+e 8: -int (0x0)
+| Hex
+vec
+oct
+F 4240
+3,000,000
+3641100

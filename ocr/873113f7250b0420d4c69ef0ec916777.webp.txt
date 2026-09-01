@@ -1,0 +1,10 @@
+# OCR: 873113f7250b0420d4c69ef0ec916777.webp
+# 来源: .\02-WriteUp\2024\873113f7250b0420d4c69ef0ec916777.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+v N enaraon 1/5
+Y 8 a train2023
+“ 口 表 3
+> ASH
+> i zeae

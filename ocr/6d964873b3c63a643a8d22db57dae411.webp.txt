@@ -1,0 +1,22 @@
+# OCR: 6d964873b3c63a643a8d22db57dae411.webp
+# 来源: .\02-WriteUp\2025\6d964873b3c63a643a8d22db57dae411.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+t
+Al Thinker ESP32-CAM
+Camera\
+68
+61
+63
+Arduino AVR Boards by Arduino 64
+65
+18.6 巳 安 装 66
+Boards included in this package: Arduino Mega or 67
+Mega 2560, Arduino Mega ADK, Arduino Robot 68
+Control, Arduino Gemma, Arduino Esplora.... 69
+更 多 信 息 76
+186 v 移 除 71
+72
+73
+J

@@ -1,0 +1,37 @@
+# OCR: e6fa572f006050bac0b768de629b0b95.jpg
+# 来源: .\02-WriteUp\2024\e6fa572f006050bac0b768de629b0b95.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+E 史 Admin.php 伟 pncionphp3  config.php X
+7EF application 》 仪 confgpip
+、 288 /
+E 228 "cookie" > [
+。 一 236 ‘domain’ =
+7 文 f 有 19 T 限 李 命 国 异 .
+` 237 / cookie BRERA
+的 confgphp application @ 2328 ‘secure’ => false,
+| -RUTHICODE ripsho / 相 X 。 // wetponlyiR
+\- & function.php application 3 国 246 “hetponly’ =>",
+retum mds(CCHEREESEE $m; 241 仁 BIER setcookie
+242 csetcookier => true,
+v @ www TPshop _com1.sql backup 伟
+243 as:
+_anbsp:Sanbsp.8inbsp;Sinbsp,8#3/AUTHLCODERE... 。
+v S tpshopsal install @ us a
+bspisinbsp nbsp; nbsp 8#39/AUTH_CODES&..
+v9 WyPay.Api.php plugins\paymentiweixinvib 。 国
+“paginate「 [
+“type” => ‘bootstrap’,
+“var_page’ => ‘page’,
+‘list_rows’ => 15,
+} else ifesinputObj->
+~-WxPayException ESCA APEC, 铁 、
+9% WyPay.Data.php plugins\paymentiweixin\lib 国
+Public function SetAuth_code(Svalue)
+Sthis->values auth code’) = Svalue; *ORDER_STATUS’ =>[
+public function GetAuth_code Oe
+retum Sthis->valuest'auth code" ‘ % Bae
+Public function isAuth codeseto 3 - ERE,
+retum array _key_exists(auth code’, $this->values); 4 => 巳 / 怡 佛 宏
+9 WrPaystedatacphp Dugnipometwenie 国 5 - ‘EVER,

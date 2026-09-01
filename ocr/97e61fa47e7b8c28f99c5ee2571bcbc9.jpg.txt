@@ -1,0 +1,13 @@
+# OCR: 97e61fa47e7b8c28f99c5ee2571bcbc9.jpg
+# 来源: .\02-WriteUp\2024\97e61fa47e7b8c28f99c5ee2571bcbc9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+P essg, 国 tsapsnal , 0 xCixaettt
+回 三 8S| ssn BERS = maxes E
+日 ie 日 浩 E
+口 1 vm-100-disk-0.gcow2 data.£01/43R4/images/100/vm-100-disk-0.qcow2
+口 2 vm-101-disk-0.qcow2 data.£01/93R4/images/101/vm-101 -disk-0.qcow2
+口 3 vm-102-disk-0.qcow2 data.£01/331R4/images/102/vm-102-disk-0.qcow2
+口 4 vm-110-disk-0.raw data.£01/33R4/images/110/vm-110-disk-O.raw
+口 5 vm-111-disk-O.vmdk data.£01/93R4/images/111/vm-111-disk-O.vmdk

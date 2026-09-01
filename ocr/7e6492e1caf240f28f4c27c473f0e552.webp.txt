@@ -1,0 +1,15 @@
+# OCR: 7e6492e1caf240f28f4c27c473f0e552.webp
+# 来源: .\02-WriteUp\2025\7e6492e1caf240f28f4c27c473f0e552.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+Log-in Entries
+[ype PID [Line [User Host [Time
+BOOT_TIME 0 eboot B.10.0-514.e17 x86_64 bo
+[INIT_PROCESS E67 22 bo
+ILOGIN_PROCESS E67 22 LOGIN bo
+JSER_PROCESS E67 22 oot bo
+BOOT_TIME 0 eboot B.10.0-514.e17 x86_64 [2022/02/23 14:23:36 +8
+[INIT_PROCESS E0 fey [2022/02/23 14:23:44 +8
+ILOGIN_PROCESS E0 22 LOGIN; 23 1423-44 +8
+RUN LVL 51 a b 10.0-514.e17 x86 64 23 14.2348 +8

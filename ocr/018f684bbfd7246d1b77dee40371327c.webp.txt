@@ -1,0 +1,14 @@
+# OCR: 018f684bbfd7246d1b77dee40371327c.webp
+# 来源: .\02-WriteUp\2024\018f684bbfd7246d1b77dee40371327c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+‘SRSA RTM EKA SH WS. ASPS. Sra.
+DRE ee) oS)
+if get.passwordi:
+PUbIE.M(‘users’).where(“username=?", (session
+[‘username’],)).setField({' password’, publif’.password_salt(
+publie.md5(get.password1.strip()), username=session
+['username"]))]
+BUBIE.writeLog("TYPE_PANEL", “USER_PASSWORD_SUCCESS’, (session
+ae te

@@ -1,0 +1,12 @@
+# OCR: d8e8cdde388c4280b2dd650715f8f75d.webp
+# 来源: .\02-WriteUp\2024\d8e8cdde388c4280b2dd650715f8f75d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+if (v5)
+v6 = sub_4021BD(v5, v13)5
+if ( v6 )
+An
+v7 = (void (__stdcall *)(_DWORD, _DWORD))sub_402924(vo, Strained) ;
+if ( v7 )
+v7(®, 0)3

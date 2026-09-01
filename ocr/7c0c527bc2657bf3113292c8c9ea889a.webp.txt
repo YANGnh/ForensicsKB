@@ -1,0 +1,38 @@
+# OCR: 7c0c527bc2657bf3113292c8c9ea889a.webp
+# 来源: .\02-WriteUp\2025\7c0c527bc2657bf3113292c8c9ea889a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+OP IDA - v2reyexe harm C\Users\Forensics\Desktop\2rey exe harm - oo x
+2 E
+"a5 = (61285) _om_and_ps((_128)n_add_epi32(_pm_shuffle_¢
+vie = _pa_packus_epi16(vi4, vid);
+7 = “pm_packus_epii6(vi5, a
+( 7 5) = wm” evte8428.5432(_mm_packus_ep£16(v26, u
+[DWORD *)vi0 = 4) = “pmcevtes120_i32(mm_packus_epii6(v17, 17)
+8 = _pm_evtsi32_$1128(v12);
+We View! e
+32(_em_evtsi32_si128(vi2 - 4), @), ©1128), vil);
+32(18, @), 51128), ag
+vat = (51281) _m_and_ps((_»128) _m_odd_opi32(_em_shuffle_epi32(_em_cvtsi32_s1128(vi3), @), $1128), v1);
+*((0n0RD *)vi0"- 3) = mm_evtst128_6132(m_packus_ep426(020, a
+yaa = pm packus_epi16(V21, a
+ACne "Jie > 2) = _wmevts$128_#432( mm packus_epi26(¥22, a
+)
+while ( (ant(vi2 a
+0
+匹 E
+do
+《
+vas = *v24;
+v8 = (v25 ¢ (unsigned _inte)EEEREERRIEIEEME23 % (unsigned int)aa + vs) %
+e
+u h
+E
+Request to deepseek-ai/Deepseek-Ri sent.
+deepsenk-a/Oepseak RL query finished!
+Wwechat-Oeepseek explain H Aa nn e
+Flushing buffers, please wait...ok BK =. $ 2K B 7 A 1
+ees ee 公 众 号 . 金 星 路 406 取 证
+e
+EE

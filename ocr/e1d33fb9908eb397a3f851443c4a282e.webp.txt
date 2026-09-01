@@ -1,0 +1,44 @@
+# OCR: e1d33fb9908eb397a3f851443c4a282e.webp
+# 来源: .\02-WriteUp\2025\e1d33fb9908eb397a3f851443c4a282e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+Jata/default/captchaBot/runtime/captcha image config.tonl X dec.word.txt log 20250917.log log 20250918.1og config.toml 。 十 一 。
+ellall«\lelii[cllo|-jfa}ooll(cl m4 iol] a 一 + 1 ie cw
+王
+2 [system]
+3 app_debbug-false
+4 — join_hint_after_del_time=60 » lie) {ili iil
+ata 5 captcha timeout=120 # 皋
+6
+7
+8
+3
+runtime_path="/runtime" 一
+a k8s data
+telegram ALE
+国 default 河
+a M 国 阮 吴 个 “ |
+达 api_proxy: "http: //kk.xilika. 68” # telegram apift®. {Z &
+“ 瞥 config 巩 manage_users=[6213151597] 英 伟useridie YL
+B
+eT 一 一 …
+目 5 [log]
+国 d 16 max_size=32
+B) dec word.txt 1 max_age=7
+- 1 max_backups=3
+7 国 runtime 19
+、 加 wih LRH
+“ 国 captcha images 2
++ 9 int="akiW [%s](Xs) MA Xs\n AAU CIFAM RAMEE, ABLIUENI LRA w
+状 认 限 wn 串 札 标 洁 春 24 秒 历 自 许 阮 陪 w 标 ha Fp RU LR
+面 g 02S0gI7iog 23 captcha_image="ails6:0 A [Xs] \navACH CLIT RAR HL SEUESHIE. \n Ay 9 ERISA MLA A
+Z EDL LPP MERU ANGE Am OLR AE ay SE SOR ONE A EE AE We AS RE BFE ROA]
+面 og 20250918log
+venification_rompletec “ 英 z 春 江 [ 国 人 阡沙 ] RARE NRMERERRUM. \nM PEER
+口 capteha-bot iifaJiW BLA telegram’ Fini BF 22 oe MERGE OLB ak AaB”
+用 tom 25 block hint="\\eH4ERE\n[Xs}(Xs) 详 沥 , 的 水 中 史 有 外 迪 闽 VME CR RA MUM AE
+t as ASHE FEES LAE IO Hs HAE RAL BN HE MEER ME \
+, 国 dujjaoka 讥 e 国 、
+口 e B 砺 公 众 号 . 金 星 路 406 取 证 人
+国 - Rex +

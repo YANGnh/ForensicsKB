@@ -1,0 +1,25 @@
+# OCR: b6f6935972a2cc8026294ec09b7a400e.webp
+# 来源: .\02-WriteUp\2025\b6f6935972a2cc8026294ec09b7a400e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+ss o x
+g ME) IMU WG) RO AMA) a MND HAN IRM a
+En
+JCCmmeeeemeeneneeeacozt
+No Time source Destination Protocol Length nfo
+E a a 口 e tn (EPASY) (STOR /none/fep/shachong) 厂
+n E E e 4520 FTP Oates Less bytes (EPASV) (STOR yy
+E e A e FP ata: 1648 bytes (EPASY) (STOR /hoe/2p/2hahone)
+216108 2025-09-25 09:26:15. 246773 t Dn e Fr bet e
+2645 2925-09-23 09:26:15 250088 e D e 外 命 eveyomem
+E E A 口 23520 FTP Data: Lats bytes (EPASY) (STOR veyemeey
+2165 2625-09-23 09:26:35 251283 E 玟 L 1520 F7P nate: Lac bytes (EPASV) (STOR /hone/fepsachorg)
+> Frame 226465; 96 bytes on wire (768 bits), 96 bytes captured (768 bite) ee
+Linu coated capture v2 E
+E ee
+‘Transmission Control Protocol, sre Port: 21, Ost Port: 53565, Seq: 996, Ack: 187, Len: 24 as
+File Transfer Protecel (FP) yee
+(current working directory: }
+4N
+八

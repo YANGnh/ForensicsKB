@@ -1,0 +1,31 @@
+# OCR: 6ae4fecf8148f5d1dbf1c6253da5c246.webp
+# 来源: .\02-WriteUp\2025\6ae4fecf8148f5d1dbf1c6253da5c246.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+[root@k8s-master -]# kubectl describe node
+Name: k8s-master
+Roles master
+Labels: beta. kubernetes.io/arcl
+beta. kubernetes.io/os
+kubernetes.io/arch=and64
+kubernetes. io/hostname=k8s-master
+kubernetes.io/os=Linux
+node-role.kubernetes.io/master=
+Annotations: flannel.alpha.coreos.com/backend-data: {"VNI":1,"VtepMAC":
+flannel.alpha.coreos.com/backend-type: vxlan
+flannel.alpha.coreos.com/kube-subnet-manager: true
+flannel.alpha.coreos.com/public-ip: 192.168.2.199
+kubeadm.alpha.kubernetes.io/cri-socket: /var/run/dockershim.sock
+node.alpha.kubernetes.io/ttl: 6
+reattonTinesta Mon, 24 Jun 2024 19:28:11 +0800
+managed-attach-detach: true
+aint: Schedule
+Unschedulable: false
+Lease:
+HolderIdentity: k8s-master
+AcquireTime:  <unset>
+RenewTi Mon, 24 Feb 2025 12:02:28 +0800
+Conditions:
+Type Status LastHeartbeatTime LastTransitionTime
+son Message

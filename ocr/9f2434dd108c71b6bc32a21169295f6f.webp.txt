@@ -1,0 +1,36 @@
+# OCR: 9f2434dd108c71b6bc32a21169295f6f.webp
+# 来源: .\02-WriteUp\2024\9f2434dd108c71b6bc32a21169295f6f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+M@ Wireshark 迥 除 HTTP 流 (cpsteam eq 124) . 诧 最 包 指 妓 pcapno
+POST /wp-admin/admin-ajax.php HTTP/1.1
+Host: 192.168.209.147
+Connection: keep-alive
+Content-Length: 77
+Accept: application/json, text/javascript, */*; q=0.01
+DNT: 1
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.@ (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/12
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://192.168.209.147
+Referer: http://192.168.209.147/wp-admin/users.php?id=2
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: wordpress_70c6a7128182612c62a854d9d5bc4 ei=saber4}7C1724035447%7C8PMX1KiLWoCqXjdEZ1HTYnPdynINa3
+2da56e7eSc7e8f19adf7ba89e766e18172a952a3a4fb97868; e5f3c84ad1239d1a4229610edbe6f3F7_ss1=92ef4da6-8c45-.
+CLoITbIggxX8LJ1yLT1k; |wordpress_logged_in_/@c6a7128182612c62a854d9d5bc406d=saber4/C1724035447%7CBPMX1Ki
+jddiy%7C9bc39f24db9ffe879d287afb864d897b4f33943fc985649ed7588e9d211f5556; 96887d92ddbe4a856ea424815a6a
+4-346946c13d82 .3i4sgqm]jpzdRHRoHOMAY9o23io; 69be717216e5lec92fd4b13cef575cec_ss1=8ebe4b8e-2d7e-47d1-a6
+WEQQZaxc-WMA; wp-settings-time-1=1722843967
+interval=668&_nonce=784f1bfd65&action=heartbeat&screen_id=users&has_focus=true
+HTTP/1.1 288 OK
+Server: nginx
+Date: Mon, @5 Aug 2024 98:32:40 GMT
+Content-Type: application/json; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: http://192.168.209.147
+Access-Control-Allow-Credentials: true
+X-Robots-Tag: noindex

@@ -1,0 +1,34 @@
+# OCR: d3e8f19c5944af0635c24181bb707a98.webp
+# 来源: .\02-WriteUp\2024\d3e8f19c5944af0635c24181bb707a98.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+import os
+import sys
+from Crypto.Cipher import AES
+from Crypto.Util.Padding import unpad
+def decrypt_file(encrypted_path, password):
+# 从 加 宿 文 件 中 读 取 IV 和 盎 倦
+with open(encrypted_path, 'rb') as f_in:
+iv = f_in.read(16) # AES.block_size == 16
+salt = f_in.read(32)
+# 从 文 件 中 读 取 初 余 的 数 据
+data = f_in.read()
+# 俭 用 PBKDF2 派 生 密 钥
+key = PBKDF2(password, salt, dkLen=32, count=190000000)
+# 创 建 AES 对 象 并 解 密 数 据
+cipher = AES.new(key, AES.MODE_CBC, iv)
+decrypted_data = unpad(cipher.decrypt(data), AES.block_size)
+# 确 定 原 始
+fiLe_path = 0s.path.Splitext(encrypted_path] [0]
+密 后 的 数 据 不 入 原 始 文 件 路 径
+with open(file_path, 'wb') as f_out:
+f_out .write(decrypted_data)
+print(f"File decrypted successfully: {file_path}")
+if —_name__ == "__main_.
+if len(sys.argv) != 3:
+print("Usage: python decrypt.py <encrypted_file_path> <password>")
+sys.exit(1)
+encrypted_path = sys.argv[1]
+password = sys.argv[2]
+decrypt_file(encrypted_path, password)

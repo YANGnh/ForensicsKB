@@ -1,0 +1,7 @@
+# OCR: 0761e240b818c2b1f0ff69dff85a9394.jpg
+# 来源: .\02-WriteUp\2024\0761e240b818c2b1f0ff69dff85a9394.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+4
+司 医 面 顺 固 Bee 厨 固 ;

@@ -1,0 +1,6 @@
+# OCR: c13684283be392ee0874e57636895c69.jpg
+# 来源: .\02-WriteUp\2024\c13684283be392ee0874e57636895c69.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 16:11
+
+# 结果: 无可用文本（tesseract 未识别到文字）

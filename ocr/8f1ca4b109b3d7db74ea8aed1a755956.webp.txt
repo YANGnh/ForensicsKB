@@ -1,0 +1,6 @@
+# OCR: 8f1ca4b109b3d7db74ea8aed1a755956.webp
+# 来源: .\02-WriteUp\2025\8f1ca4b109b3d7db74ea8aed1a755956.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+# 结果: 无可用文本（tesseract 未识别到文字）

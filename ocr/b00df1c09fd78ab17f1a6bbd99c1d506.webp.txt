@@ -1,0 +1,26 @@
+# OCR: b00df1c09fd78ab17f1a6bbd99c1d506.webp
+# 来源: .\02-WriteUp\2024\b00df1c09fd78ab17f1a6bbd99c1d506.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+*key_widget_multi_device_origin_data’
+*bool': True,
+*int32': 669,
+*uint32"! 669,
+int6a': 669,
+‘uinted': 669,
+‘float’! 5.024002886510476e+175,
+"bytes'! b'[{"did":"1057099622", "model": "chuangmi.. camera. 06901", "name" :"\xe5\xb0\x8F\xe7\xb1\xb3\xe6\x99\xba\ xe
+8\x83\xbd\xe6\x91\x84\xe5\ x83\ x8F\xe6 \x9c\xba3_\xed\xba\x91\xe5\x8F | xb0\xe7\x89\x88", "Uid" :"2968704175", "mac" :"94FB:27:
+E4:9E:ED", "isOnline":true, "pid" :0, "permitLevel": 16, "resetFlag":0, "rssi":~33, "token" :"794c355667384d6f634551314a785753"
+localip":"192. 168.110. 106", "longitude" :0, "latitude" :, "ssid": "\xe5\xb0\x8f\xe7\xb1\xb34C-Wwif i", "Dssid" !"22:28:F7:2F
+7", "show_mode":1,"hide_mode":0,"parent_id" parent_model":"", "owner" :{},"desc_new":"", "spec_type":"urn:miot-spec-v:
+evice! camera: 0000A01C: chuangmi-069a01 "freqFlag" :true, "comFlag":129, "orderTime":"1726731554" , "eth_type
+0, "sn" access_typ "Last_onlin
+*string': "[{"did":"1057099622" ‘chuangmi.camera.069a01", "name": "/)\ES 29687041
+75", "mac" :"94:F8 d":0,"permitLevel":16, "resetFlag":0, "rss: "794c355667384d6
+£634551314a785753" longitude": "ssid": "“WKAC-wifi", "bssid" !"22:28:F7:2F
+7", "show_mode":1," rent_model":"", HQ, "desc_new"!
+evice! camera: 0000A01C: chuangmi-969a01:2", "voice_ctr1":0, "freqFlag
+sn"
+‘access_type":0,"last_online":0,"carConfis"

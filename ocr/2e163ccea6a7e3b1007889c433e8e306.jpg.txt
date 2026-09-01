@@ -1,0 +1,15 @@
+# OCR: 2e163ccea6a7e3b1007889c433e8e306.jpg
+# 来源: .\02-WriteUp\2024\2e163ccea6a7e3b1007889c433e8e306.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+ENN 2024 Fic - iss (MySQL)
+v 8
+Sl BR RR SSL SSH
+HTTP.
+Navicat cad
+[2024 FIC
+E H821688142
+E 3306
+APE: ji-mei
+x

@@ -1,0 +1,8 @@
+# OCR: af5a2ec7086680b714a41948f2a393f6.webp
+# 来源: .\02-WriteUp\2025\af5a2ec7086680b714a41948f2a393f6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+E 国
+1, #18 SIBBIT ABAT (HarmonyOs NEXT)
+@ 8061 ae FO

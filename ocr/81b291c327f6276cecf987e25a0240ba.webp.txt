@@ -1,0 +1,7 @@
+# OCR: 81b291c327f6276cecf987e25a0240ba.webp
+# 来源: .\02-WriteUp\2025\81b291c327f6276cecf987e25a0240ba.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+5 叶 D
+310104200108110624

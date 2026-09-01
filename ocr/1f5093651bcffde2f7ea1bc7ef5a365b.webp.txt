@@ -1,0 +1,19 @@
+# OCR: 1f5093651bcffde2f7ea1bc7ef5a365b.webp
+# 来源: .\02-WriteUp\2025\1f5093651bcffde2f7ea1bc7ef5a365b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+fa
+Bee: tT 1willow1 jp
+92.86 KB
+2025-05-09 13:17:54
+2025-05-12 11:24:54
+2025-05-09 13:17:54
+MetaAdar: 16359
+UUID/1/home/android/tf1 1willow1 jpg
+SMB
+0300A48E6ACEFEF 6EBC6FF64B957B42880F EBB66B5C807C7E3D7D3C3CC
+AD2661
+BABE
+RARE
++s

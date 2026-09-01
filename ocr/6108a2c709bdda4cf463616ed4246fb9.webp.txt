@@ -1,0 +1,11 @@
+# OCR: 6108a2c709bdda4cf463616ed4246fb9.webp
+# 来源: .\02-WriteUp\2024\6108a2c709bdda4cf463616ed4246fb9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+1 select sum(abs(coin)) from ssc2022_coin_log where uid in (select uid from (select uid,count(
+DISTINCT(type)) #IEBA from s5c2622_bets group by “uid HAVING 技 注 彬 限 > 1) t) and actionTine
+>= 1514736000 and actionTime < 1546273000
+s 阮 1 at we
+sum(abs(coin))
+r 10721.099

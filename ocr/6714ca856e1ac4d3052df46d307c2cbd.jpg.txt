@@ -1,0 +1,41 @@
+# OCR: 6714ca856e1ac4d3052df46d307c2cbd.jpg
+# 来源: .\02-WriteUp\2024\6714ca856e1ac4d3052df46d307c2cbd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+OpenWrt 23.05.2,z23630-842932a634
+zooceopenmgre:/ ifconfig
+br-lan
+etho
+E
+Link encap:Ethernet HWaddr BC:24:11:47:98:11
+92.168.100.1 Beast:192.168.100.255 Mask:255.255.255.0
+1/60 Scope:Global
+inet6 addr: fe80::be24:11££:fe47:9811/64 Scope:Link
+UP BROADCAST RUNNING MULTICAST MTU:1500 Metric:1
+RX packets:4 errors:0 dropped:0 overruns:0 frame:0
+TX packets:15 errors:0 dropped:0 overruns:0 carrier:0
+collisions:0 txqueuelen:1000
+RX bytes:188 (188.0 B) 1K bytes:1990 (1.9 KiB)
+BC: 24:11: EF: 67:96
+Beast:192.168.71.255 Mask:255.255.255.0
+£:fee£:6796/64 Scope:Link
+UP BROADCAST RUNNING MULTICAST MTU:1500 Metric:1
+RX packets:45 errors:0 dropped:0 overrun:
+TX packets:55 errors:0 dropped:0 overrun:
+collisions:0 txqueuelen:1000
+RX bytes:5309 (5.1 KiB) 1X bytes:6804 (6.6 KiB)
+frame
+:0 carrier:0
+Link encap:Ethernet HWaddr BC:24:11:47:98:11
+UP BROADCAST RUNNING MULTICAST MTU:1500 Metric:1
+RX packets:9 errors:0 droppe
+TX packets:15 errors:0 dropped:0 overruns:0 carrier:0
+collisions:0 txqueuelen:1000
+RX bytes:454 (454.0 B) 1K bytes:1990 (1.9 KiB)
+overruns:0 frame:0
+Link encap:Local Loopback
+TX packet:
+collisions:0 txqueuelen:1000
+RX bytes:4454 (4.3 KiB) 1X bytes:4454 (4.3 KiB)
+root@openwrt:/# ff

@@ -1,0 +1,20 @@
+# OCR: 516ed66420b5084dfe01af3f93e7046a.webp
+# 来源: .\02-WriteUp\2024\516ed66420b5084dfe01af3f93e7046a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+页 5 Aicesss#y , 国 e > 囚 目 t , min
+与 大 小 = 刑 时 间
+VY oF, 起 始 结 束 T
+| 1 20240723 213709jpg 4.46 MB 2024-07-23 21:37:09
+2 20240723 220854jpg 4.84 MB 2024-07-23 22:08:54
+详 细 信 息
+名 称 : 20240723 213709,jpg
+大 h: 446 MB
+创 浩 时 间 : 2024-07-23 21:37:09
+惟 改 时 间 : 2024-07-23 21:37:09
+手 机 中 路 佐 : /storage/emulated/0/DCIM/Camera/20240723 213709jpg
+本 场 路 佐 : Alice Mobile biny1/media/0/DCIM/Camera/20240723 213709jpg
+日 录 台 称 ; 相 机
+源 件 : Alice Mobile bin/1/data/comandroidprovidersmedia/databas
+Bae: 否

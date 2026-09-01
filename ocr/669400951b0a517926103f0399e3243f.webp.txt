@@ -1,0 +1,32 @@
+# OCR: 669400951b0a517926103f0399e3243f.webp
+# 来源: .\02-WriteUp\2025\669400951b0a517926103f0399e3243f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+SB DB Browser for SQLite - DSH}
+题 目 \2025 数 法 杯 决 赛 \ 个 人 赛 导 ttkducdkdb
+T H
+一 新 建 数 据 库 080 一 打 开 数 据 库 (0) 与 入 更 改 ( 主 值 迷 更 改 (8) 团 打 开 工 程 (B) 宝 保 存 工 程 (9) 晓 附 加 数 据 库 &) 八 关 闭 数 据 库 ()
+数 据 库 结 构 “ 浏 览 数 据 编 辑 杂 注 执 行 SQL
+表 ( : 国 CATEGORY v 伟 晓 为 a a 国 o
+LOCAL_ID SYS_CATEGORY_ID USER_GUID f0LOR_HEX ICON_ID TAG_NAMES] ATTRIBUTE ACCOUNT_BOOK_ID LOCAL_F
+迈 i 过 滤 诊 涤 过 滤 过 滕
+6e93b0aeefcd418e8dda540a553.. 6 29075726b10cffe 7648 f5687fe516d4cadb7e4c486c4a...
+ee4215b807194b00978f4174465.. 5 29075726b10cffe 仆 6958 f5687fe516d4cadb7e4c486c4a...
+NOOR ODE
+90a47dedee5340ef8d839b5cb0e..
+3ad1010951041c08d327c8b9e5..
+294dc3de9db847e993047701947..
+99df8ed3ad2448c9b914710cle5
+9637a5eb259241a39418f95fab..
+4 29075726b10cffe
+3 29075726b10cffe
+2 29075726b10cffe
+0 29075726b10cffe
+0 29075726b10cffe
+Bee DOR OD
+f5687fe516d4cadb7e4c486c4a...
+f5687fe516d4cadb7e4c486c4a...
+f5687fe516d4cadb7e4c486c4a...
+f5687fe516d4cadb7e4c486c4a...
+f5687fe516d4cadb7e4c486c4a...

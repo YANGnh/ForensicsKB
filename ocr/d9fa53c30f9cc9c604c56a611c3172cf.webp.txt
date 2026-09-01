@@ -1,0 +1,33 @@
+# OCR: d9fa53c30f9cc9c604c56a611c3172cf.webp
+# 来源: .\02-WriteUp\2025\d9fa53c30f9cc9c604c56a611c3172cf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+67:26:22:6d:al:bf Broadcast
+61:50 Broadcast
+61:50 Broadcast
+61:50: Broadcast
+26:29 Broadcast
+26:29 Broadcast
+26:29 Broadcast
+80:e1 Broadcast
+80:e1 Broadcast
+80:21:21 Broadcast
+SamsungElect_40:65:cf Broadcast
+34:51:6 f Broadcast
+34:51:6d:89:93:1F Broadcast
+Anonymous Broadcast
+27:9d:30:70:a7:d1 Broadcast
+27:9d Broadcast
+27:9d Broadcast
+05:47: Broadcast
+05:47 Broadcast
+05:47:78: 7b: fb: bb Broadcast
+1d:7f Broadcast
+1d:7f:6f:67:6d:a7 Broadcast
+2 Danvdeart
+tes captured (392 bits) on
+interface COM3-3.6,| id 0
+0000 63 2a 0
+0010 79 d6 be §
+0020 Od FF Ac

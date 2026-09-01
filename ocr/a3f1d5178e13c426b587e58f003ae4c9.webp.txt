@@ -1,0 +1,12 @@
+# OCR: a3f1d5178e13c426b587e58f003ae4c9.webp
+# 来源: .\02-WriteUp\2025\a3f1d5178e13c426b587e58f003ae4c9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+p
+public string
+t
+get
+0
+retum “Firefox”
+1

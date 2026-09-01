@@ -1,0 +1,15 @@
+# OCR: 600bcb480490c012f5c203a4612cfc46.jpg
+# 来源: .\02-WriteUp\2024\600bcb480490c012f5c203a4612cfc46.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+BOOT-INF/classes/application-prod. ym],
+port: 9032
+database:
+url: jdbe:mysql: //192.168.100.112:13306/jinyi?tinyInt1isBit-fals
+password: honglian7e0l.
+s redis
+3 host: 192.168.100.112
+9 port: 16379
+2 timeout: 5000
+3

@@ -1,0 +1,11 @@
+# OCR: 9abae4fb41f25a0ce9a55362f1c7bdef.webp
+# 来源: .\02-WriteUp\2025\9abae4fb41f25a0ce9a55362f1c7bdef.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+电 脑 开 机 密 码
+NOtep@d++
+手 机 锁 屏 密 码
+147258
+容 器 及 vmx 加 密 规 则
+随s+4位数宇+d…j

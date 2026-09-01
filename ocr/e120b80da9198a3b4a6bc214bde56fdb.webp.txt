@@ -1,0 +1,14 @@
+# OCR: e120b80da9198a3b4a6bc214bde56fdb.webp
+# 来源: .\02-WriteUp\2026\e120b80da9198a3b4a6bc214bde56fdb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+PARE
+@ 6 0 业 务 启 域 训
+明 5 俊 用
+0 . . a
+25 AI 语 f RE
+E
+T
+iClouda&
+mactools E

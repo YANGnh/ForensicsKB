@@ -1,0 +1,9 @@
+# OCR: 7e14b5524e6a899310daefe408e3d367.jpg
+# 来源: .\02-WriteUp\2024\7e14b5524e6a899310daefe408e3d367.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+A x +
+drotdenode2--$ sudo find / -name base_apk
+/root/data/app/~~W_BhWcXqxofFinwnFrhZvg==/com_.ss android .ugc .aweme-V_GSezKj2egAP310X71azw==/base_apk
+droid@node2 -~$

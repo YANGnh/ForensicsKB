@@ -1,0 +1,7 @@
+# OCR: 143e6372dc3385de0a907bd1b88ee1df.jpg
+# 来源: .\02-WriteUp\2024\143e6372dc3385de0a907bd1b88ee1df.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+Re
+solo,one girl,upper body, looking at viewer, <lora:Whitening Girl_A:1>, photography texture, delicate skin

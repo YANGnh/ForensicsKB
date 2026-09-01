@@ -1,0 +1,23 @@
+# OCR: 6911d7f2a82bd0601f86bbc4b2b5d87a.jpg
+# 来源: .\02-WriteUp\2024\6911d7f2a82bd0601f86bbc4b2b5d87a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+Rex +
+root@nginx:~# ping 192.168.100.111 -c 3
+PING 192.168.100.111 (192.168.100.111) 56(84) bytes of data.
+64 bytes from 192.168.100.111: time=0.753 ms
+64 bytes from 192.168.100.111: t ttl=64 time=0.321 ms
+64 bytes from 192.168.100.111: icmp_seq=3 ttl=64 time=0.252 ms
+--- 192.168.100.111 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2029ms
+rtt min/avg/max/mdev = 0.252/0.442/0.753/0.221 ms
+root@nginx:~# ping 192 168.190 112 -c 3
+PING 192.168.100.112 (192.168.100.112) 56(84) bytes of data_
+64 bytes from 192.168.100.112: 4 time=0.928 ms
+64 bytes from 192.168.100.112 time=0.419 ms
+64 bytes from 192.168.100.112: t 4 ttne-6.294 ms
+--- 192.168.100.112 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2027ms
+rtt min/avg/max/mdev = 0.294/0.547/0.928/0.274 ms
+root@nginx:~#

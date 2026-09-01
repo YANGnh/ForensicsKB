@@ -1,0 +1,16 @@
+# OCR: 6c7c565dad11692541eadec5e5235835.webp
+# 来源: .\02-WriteUp\2025\6c7c565dad11692541eadec5e5235835.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+# 细 信 息
+3 称 : xc_ persistence
+sa: 文 件
+5N: 4 KB
+8 改 时 间 。 2025-05-26 10:02:42
+5 敬 据 地 址 : 190437888
+BSE
+\ndroid.tar/com.xcthings.fchan_0.tar/com.xcthings.fchan_0/data/user/0/com.xcthings.fchan/f
+原 类 型 视 图 文 本 视 图 十 六 进 制 视 图
+余 “ 人 仁 @Bprivacy_flagBBQlogin_accountB13877144642country_codeBBCN
+HNS_TOKENutIQA

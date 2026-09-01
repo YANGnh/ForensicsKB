@@ -1,0 +1,11 @@
+# OCR: 401475b26e606ef345032c4380b91b50.webp
+# 来源: .\02-WriteUp\2025\401475b26e606ef345032c4380b91b50.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+uitniliniuznuuopmeiu
+(gdb) call (char *)get_flagi()
+$1 = 0x595F9b0 "Flagi{hong112233}"
+(gdb) call (char *)get_flag2()
+$2 = 6x595fa46 "Flag2{hong}"
+(gdb)

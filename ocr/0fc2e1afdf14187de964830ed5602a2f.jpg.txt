@@ -1,0 +1,16 @@
+# OCR: 0fc2e1afdf14187de964830ed5602a2f.jpg
+# 来源: .\02-WriteUp\2024\0fc2e1afdf14187de964830ed5602a2f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+2024 年 3 月 14 日 星 服 四
+口 2041 巳 192.168.8.17  192.168.8.17
+O 2020 四 MoneyMoney 192.1688.17 7
+0 2033 团 FAF-MoneyMoney 192.168.8.17 t
+O 2033 巳 FBF-MoneyMoney 192.168.8.17
+O 2033 日 FBF-MoneyMoney 192.1688.17 i
+O 2033 巳 用 P -MonaMone 192.168.8.17 i
+O 2032  192.168.8.17 192.168.8.17
+口
+@
+郭 8 陶 情 B - PcMoe! hiponcene

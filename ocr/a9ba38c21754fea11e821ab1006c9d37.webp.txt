@@ -1,0 +1,21 @@
+# OCR: a9ba38c21754fea11e821ab1006c9d37.webp
+# 来源: .\02-WriteUp\2025\a9ba38c21754fea11e821ab1006c9d37.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+2-2 Program Files
+(2) Common Files
+巾 团 Crashpad
+田 国 Gocgle
+(2-2) Internet Explorer
+20 Microsoft Office
+巾 团 Microsoft Office 15
+21 MedifiableWindowsApps
+巾 团 Mozilla Thunderbird
+巾 团 Notepad++
+巾 一 Tencent
+22 Uninstall Information
+巾 一 UNP
+20 Veracrypt
+20 VMware
+自 圆 Windows Defender

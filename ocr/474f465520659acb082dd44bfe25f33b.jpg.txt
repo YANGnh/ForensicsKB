@@ -1,0 +1,67 @@
+# OCR: 474f465520659acb082dd44bfe25f33b.jpg
+# 来源: .\02-WriteUp\2024\474f465520659acb082dd44bfe25f33b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+app > admin > controller > # Admin.php > ¢g Admin > © Save
+24
+84
+145
+146
+147
+148
+149
+150
+E
+152
+453
+154
+455
+156
+157
+459
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+am
+172
+173
+es
+class
+el
+0
+/
+p
+《
+‘Admin extends Common
+ublic function SaveInfo()
+经
+* @author Devil
+“ @blog http: //gong.ga/
+* @version 1.0.0
+* @date 2621-03-03
+“ @desc description
+0
+ublic function Save()
+// BRS
+$this->TsLogin() ;
+Mt Be
+$params = $this->data_post;
+// 不 摄 探 作 自 已 的 惧 叶
+if(1isset($params["id']) || $params[‘id’]
+{
+- $this->admin[ ‘id*])
+/ AUREL
+$this->TsPower();
+}
+/ 开 8 探 作
+$params[ ‘admin’ ] - $this->admin
+return ApiService: :ApiDataReturn||adminService: :AdminSave($params))];

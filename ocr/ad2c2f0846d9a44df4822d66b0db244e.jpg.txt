@@ -1,0 +1,14 @@
+# OCR: ad2c2f0846d9a44df4822d66b0db244e.jpg
+# 来源: .\02-WriteUp\2024\ad2c2f0846d9a44df4822d66b0db244e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+Croot@localhost ~1# bt 14
+curl: (28) Resolving timed out after 10524 milliseconds
+BT-Panel default infot
+one [
+username: b2zobisy
+password: @f5acdc4
+If you cannot access the panel,
+release the following panel port [6888] in the security group
+DDDDDDooDoomDCpomDmDTioyou

@@ -1,0 +1,31 @@
+# OCR: fc73984d511c1b466123c4424adc5430.webp
+# 来源: .\02-WriteUp\2025\fc73984d511c1b466123c4424adc5430.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+\Image.zip\data\user\0\com.carriez,flutter_hbb\app flutter\peers
+J 788
+QL. = app flutter t
+Tx VRE
+\mage.zip\data\user\O\c
+一 坤 「 口 X fms Dee Jane
+memes) : | 】 | 8 | =| =| O
+Offset 012345 67 89 ABCODEPF UTE-8
+00000270 70 74 69 6F GE 73 5D OA 63 6F 64 65 63 2D 70 72 ptions] codec-pr
+00000280 65 66 65 72 65 GE 63 65 20 3D 20 27 61 75 74 6F eference = ‘auto
+00000290 27 0A 73 77 61 70 2D 6c 65 66 74 2D 72 69 67 68 , swap-left-righ
+000002A0 74 2D 6D 6F 75 73 65 20 3D 20 27 27 OA 69 34 34 t-mouse = '' i44
+000002B0 34 20 3D 20 27 27 0A 63 6F 6c 6c 61 70 73 65 SF 4 = '' collapse_
+000002c0 74 6F 6F 6c 62 61 72 20 3D 20 27 27 0A 7A 6F 6F toolbar = '' zoo
+000002D0 ,6p 2D 63 75 72 73 6F 72 20 3D 20 27 27 0A 74 6F m-cursor to
+000002E0 75 63 68 2D 6D 6F 64 65 20 3D 20 27 27 0A 63 75 uch-mode = '' cu
+000002F0 73 74 6F 6D 2D 66 70 73 20 3D 20 27 33 30 27 OA stcm-ips = '30'
+00000300 0A 5B 75 69 SF 66 6C 75 74 74 65 72 5D OA OA 5B [ui_flutter] [
+00000310 69 6E 66 6F 5D 0A 75 73 65 72 6E 61 6D 65 20 3D info] username =
+00000320 20 27 61 6E 64 72 6F 69 64 27 OA 68 6F 73 74 68 ‘android’ hostn
+00000330 61 6D 65 20 3D 20 27 67 6F F 67 6c 65 2D 50 69 ame = 'gofgle-Pi
+00000340 78 65 6c 27 0A 70 6c 61 74 66 6F 72 6D 20 3D 20 xel' platform =
+00000350 27 虹 6E 64 72 6F 69 64 27 OA OA 5B 74 72 61 GE ‘Android' [tran
+00000360 73 66 65 72 5D 0A 77 72 69 74 65 5F 6A 6F 62 73 sfer] write jobs
+00000370 20 3D 20 5B 5D 0A 72 65 61 64 SF 6A 6F 62 73 20 = [] read_jobs
+00000380 3D 20 5B 5D 0x =f]

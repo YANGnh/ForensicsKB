@@ -1,0 +1,34 @@
+# OCR: b4c71c2c333ae5c7932ee8d6b0dc0248.webp
+# 来源: .\02-WriteUp\2024\b4c71c2c333ae5c7932ee8d6b0dc0248.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+GET /up_load.html HTTP/1.1
+Host: 192.168.209.147
+user-agent: Mozilla/5.@ (Windows NT 10.0; Win64; x64) Appl
+Accept-Encoding: gzip, deflate, br
+accept: */*
+Connection: keep-alive
+accept-rncoding: *
+keep-alive: timeout=15, max=1000
+cache-control: maX-age=6
+HTTP/1.1 208 OK
+Server: nginx
+Date: Mon, @5 Aug 2024 98:16:30 GMT
+Content-Type: text/html
+Content-Length: 252
+Last-Modified: Mon, @5 Aug 2024 93:00:10 GMT
+Connection: keep-alive
+ETag: “66b8493a-fc“
+Accept-Ranges: bytes
+<html>
+<body>
+<form action="up_load.php" method="post"
+enctype="multipart/form-data">
+<label for="file">Filename:</label>
+<input type="file" name="file" id="file" />
+<br />
+<input type="submit" name="submit" value="Submit" />
+</form>
+</body>
+htmlx

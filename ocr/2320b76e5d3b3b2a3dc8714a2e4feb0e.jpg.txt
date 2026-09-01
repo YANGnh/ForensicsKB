@@ -1,0 +1,16 @@
+# OCR: 2320b76e5d3b3b2a3dc8714a2e4feb0e.jpg
+# 来源: .\02-WriteUp\2024\2320b76e5d3b3b2a3dc8714a2e4feb0e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+lifusion-webui > output > txt2img-grids > 2024-03-13
+弘 grid-0001 jpg REE
+Si s2 tex SHEE pene
+Be a
+8
+]
+Negative prompt license plate,
+E ‘confusion, people
+porter) \steps: 20, Sampler: DPM++ SDE
+geen |Karras, CFG scale: 7, Seed:
+BEES

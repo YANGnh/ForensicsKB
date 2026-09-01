@@ -1,0 +1,44 @@
+# OCR: 191fe21a1f91a703257636e74a998ce3.webp
+# 来源: .\02-WriteUp\2024\191fe21a1f91a703257636e74a998ce3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+ln
+E
+ea
+coll
+ies
+lea
+‘eax, byte ptr cs:word_14900805c
+shore’ loe_1490020¢5
+咤 人 jopre
+8, Caption — “Login successful’
+rae, Text } “Great! You have finished the first step
+c e 4 hind
+E
+1 CODE XREF: immeueeeicad
+‘eax, byte ptr csinord_14900805c
+Shore lee_14900211¢
+伟 In
+怡 [espe23snevar_F0
+rex, [espeasahevar 03}
+0b 180002280
+E
+ion
+E urype
+8, aTheBitlockerke "The 8itlocker Key’
+咤 ra 3 Iptext
+e e 5 hn
+eee
+r p
+0b” 180002840
+4} CODE XREF: sub_adeneracosseety
+short loc_14000214°
+CODE xREF: sub_149901860457515
+ss
+t j "invalid username or password.”
+ex, carqnord 140008768 5 hind
+esrSetsindonTexta
+命 30h; "0" 5 uType
+F8, aloginfeiled ; "Login ag yo. py er
+汀 振 任 吊 吴 : ALIEABR

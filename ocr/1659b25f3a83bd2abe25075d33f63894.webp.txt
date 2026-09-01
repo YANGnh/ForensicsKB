@@ -1,0 +1,11 @@
+# OCR: 1659b25f3a83bd2abe25075d33f63894.webp
+# 来源: .\02-WriteUp\2026\1659b25f3a83bd2abe25075d33f63894.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+order 2 2
+order 3 1
+usdt TVhgguUmSKUa8cFbLbRjvc6pxXH7VyqA3J
+usdt-fee D
+auto-recharge 1
+rocharno_f 5

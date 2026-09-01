@@ -1,0 +1,17 @@
+# OCR: 22ac60283b53303fc039920b8f3746b9.webp
+# 来源: .\02-WriteUp\2025\22ac60283b53303fc039920b8f3746b9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+F
+颌 ImagestrikeV02 By zR00t
+setting viewer
+陪 写 方 2 [12】 JPG 改 商 度 〔 原 始 口 度 2 、 一
+InglPat 1846 jpg
+Ing2Pat
+Pen Reset
+口
+bal
+(*] Foremost - 运
+Ce] JPG 改 高 度 - 执 行 成 功 , 图 片 保 存 在 ./
+imgs/result12. jpg

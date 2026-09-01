@@ -1,0 +1,68 @@
+# OCR: d2728902d64860281344098131c33cdc.webp
+# 来源: .\02-WriteUp\2025\d2728902d64860281344098131c33cdc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+nneel
+e
+foccin rang)
+stele fore inranges
+lal). Ode} * rt. 008)* m2}. 008) * ma.008)
+E
+couter4+ 2] = mullet) mula] x05) mut al xe) * muta], 00)
+couter4+ 3} = lal oth) muta x0) muta x0) & mu al, Oe)
+retumout
+et encryptblok(blck16, rounds:
+state = add_round_key{sate, round hey{0})
+for nd i angel, 10}:
+state= ad sound keystate, round keyalg)
+e
+state = sub_bytestate)
+state = add_round key{state, round heyst20})
+retum bytes(state)
+et decrypt blok(block6, round hey:
+state = around ty sate, round sey}
+for rin ranges,
+c
+state= add_ round key(state, round keyalg)
+E
+state inv shift rowdstate)
+State = add_round esate, round key{0})
+retum bytes(state)
+c
+‘et aes. encryptipaintentKey6, W16):
+E
+round teys=key_expansion(teyi6)
+padded = painter.
+blocks = [padea:16] fr in range, lenipadded) 16)
+E
+e
+for bikin blocks:
+ored=byts(a®b for a,bin tik, pre)
+ene = encrypt_Bock cred round keys)
+cipher s= ene
+e
+return opher
+et aes coe decyptepheren, ke6, ME,
+ser en)
+c
+‘ase Valter ‘loherte length must be multiple of 16")
+round teys=keyevpansonty36
+oes = perth] fern range, en(cpnertent, 19
+pin =|
+prev=na8
+for bikin bles:
+‘dec= decrypt Hock, round ys)
+ered = testa” ber .binnplde ore)
+sr usinesfornex
+efx to_bytesh:
+n
+e
+return bytesseomhen(h)
+eleey
+E
+E
+_
+#AES28 sngleblock test EC): from NISTSP 800-38
+e bytes '53674453623655475567654637457557")
+随 公 众 吊 “ 仁 谢 取 证

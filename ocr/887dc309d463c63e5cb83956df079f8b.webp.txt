@@ -1,0 +1,17 @@
+# OCR: 887dc309d463c63e5cb83956df079f8b.webp
+# 来源: .\02-WriteUp\2024\887dc309d463c63e5cb83956df079f8b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+summary 5 BOOT-INF/classes/application.yaml 5 BOOT-INF/classes/application-sxj.yam]
+port: 882 4
+spring:
+pathmatch
+matching-strategy: ANT_PATH_MATCHER
+datasource
+‘type: com.alibaba.druid.pool .DruidDataSource HE
+driver-class-name: com.mysql.cj.jdbc.Driver # mysql 3) (0 com.mysql. jdbc. Driver
+url: jdbe:mysql: //rm-bp18td2bshi3#5jy.mysql.rds.aliyuncs.com:3306/sxj_prod?allowtultiqueries
+username: sxy
+password: 2
+院

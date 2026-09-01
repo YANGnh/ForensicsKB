@@ -1,0 +1,17 @@
+# OCR: 2708d524e68658f2e97678935dd24c57.jpg
+# 来源: .\02-WriteUp\2024\2708d524e68658f2e97678935dd24c57.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+BABI
+redish >
+不 俭 用 edi 异 步 霁 要 安 裂 妃 edis 朔 务 浩 酣 益
+(QUEUE_CONNECTION=redis
+不 后 吊 水
+解 zh_CN 简 仪 文
+郎 zh_TW ss
+鲜 en FE5C
+34
+# EAT ehttps ( 前 洲 开 吴 工 后 渡 必 顾 为 true)
+斤 局 史 盟 录出 珂 err 或 者 其 忐 莲录 明 常 闭 颜 , 大 献 率 是 开 告 了 http: 帕 后 史 沙 有 开 呆 , 把 下 面 的 false 为 truegp 可
+ADMIN_HTTPS=false

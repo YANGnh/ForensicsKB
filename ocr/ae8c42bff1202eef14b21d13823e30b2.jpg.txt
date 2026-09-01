@@ -1,0 +1,12 @@
+# OCR: ae8c42bff1202eef14b21d13823e30b2.jpg
+# 来源: .\02-WriteUp\2024\ae8c42bff1202eef14b21d13823e30b2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+& | TRepp.user withdraw @ji-mei (2024 Fl... 命 - 无 5 国 -
+ee Tss@ia <ausa (tee Exe - 厂 sues oly ame
+[2024 Fic 口 Fne v] Daze -
+1 SELECT SuM(amount) FROM “app_user_withdraw’ \HERE “status” = 3
+6S gE S21 at eS
+SUM(amount)
+0 39821148.48

@@ -1,0 +1,43 @@
+# OCR: 8380cd0c3a54e617c1aa59c42552f133.jpg
+# 来源: .\02-WriteUp\2024\8380cd0c3a54e617c1aa59c42552f133.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+droid@node2:~$ netstat -anpt
+(Not all processes could be identified, non-owned process info
+will not be shown, you would have to be root to see it all.)
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q
+tcp 6
+tcp
+tcp
+tcp
+tcp6
+tcp6
+drotdenode2--$ []
+220000
+6
+Cc)
+6
+6
+6
+Local Address
+0.0.0.0:5555
+127.0.0.53:53
+0.0.0.0:22
+192.168 100. 102:22
+555
+Foreign Address
+0.0.0.0:*
+0.0.0.0:*
+0.0.0.0:*
+192.168 100 100:13211
+*
+State
+LISTEN
+LISTEN
+LISTEN
+ESTABLISHED
+LISTEN
+LISTEN
+PID/Program name

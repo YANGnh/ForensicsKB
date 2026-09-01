@@ -1,0 +1,10 @@
+# OCR: e0d1cc9f319cda33210cd33b6b74ecac.jpg
+# 来源: .\02-WriteUp\2024\e0d1cc9f319cda33210cd33b6b74ecac.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+v 0 6
+> 国 UnoBsWf
+7218
+353
+14

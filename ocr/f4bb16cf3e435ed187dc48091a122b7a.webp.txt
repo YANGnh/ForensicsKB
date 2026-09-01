@@ -1,0 +1,148 @@
+# OCR: f4bb16cf3e435ed187dc48091a122b7a.webp
+# 来源: .\02-WriteUp\2025\f4bb16cf3e435ed187dc48091a122b7a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+8 010 Editor - DAtest\1 (2)jpg (F
+文 件 (E) 编 辑 () “ 选 择 (G) _ 查 找 (D) 视
+Be 团 蝇 邓 丝 庭 主 喻 嗣 勺 G, 尸 忠 吻 SS
+起 始 页
+3:F790
+3:F7A0
+3:F7B0
+3:F7C0
+3:F7D0
+3:F7E0
+E
+3: F800
+3: F810
+3: F820
+3: F830
+3: F840
+3: F850
+3: F860
+3: F870
+3: F880
+3: F890
+3: F8A0
+3: F8B0
+3: F8C0
+3: F8D0
+1 (2).jpg x
+49
+00
+1C
+5D
+A6
+F4
+88
+20
+11
+20
+92
+OE
+79
+04
+11
+40
+11
+52
+22
+04
+88
+模 板 结 果 - JPG.bt e
+名 称
+v jpgfile
+SOIMarker
+Y
+app1
+appO
+app2
+dat]
+dqt[1]
+sof0
+dht[0]
+dht[1]
+dht[2]
+dht[3]
+scanStart
+scanData[259126]
+4B
+22
+> unknownPadding[21609]
+选 定 : 2 个 字 节 ( 范 围 : 260146 [3F832h] 到 260147 [3F833h])
+00
+01
+41
+63
+FF
+co
+co
+EA
+值
+M_SOI (FFD8h)
+Oh
+2h
+86h
+98h
+272h
+2B7h
+2FCh
+30Fh
+330h
+386h
+3A5h
+3EEh
+3FCh
+3F834h
+图 Q) “ 格 式 (Q) WA) ikl) “ 调 试 (G) MEP) “ 工 具 (
+(W) “ 帮 助 (QJ)
+c
+CE .%f~U....sRGB.@1
+72 6
+.IDATxXAIXMRr
+51 ]6“,KUy6c. H「4“Q
+E8 !4.V G>0GGzDOJma
+11 d}y}}}yOy...D ..
+44 7@."€.xéAAX&...D
+02 «..°@.b.t°U,,.D .
+44 .7@."..eA,.&...D
+大 小
+44C9Dh
+2h
+84h
+12h
+1DAh
+45h
+45h
+13h
+21h
+56h
+1Fh
+49h
+Eh
+3F436h
+5469h
+. 6@ …D
+E
+struct JPGFILE
+enum M _ID
+struct APP1
+struct APP0
+struct APP2
+struct DQT
+struct DQT
+struct SOFx
+struct DHT
+struct DHT
+struct DHT
+struct DHT
+struct SOS
+char
+char
+Hex|=5 q
+=e
+颜 色
+I
+注 释
+开 始 : 260

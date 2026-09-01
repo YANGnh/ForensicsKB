@@ -1,0 +1,57 @@
+# OCR: 104e01af3e5da0baecc83eebce5093f7.jpg
+# 来源: .\02-WriteUp\2024\104e01af3e5da0baecc83eebce5093f7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+Ree wm Same
+BE: /www/server/nginx/cont
+力 上 林 Ch +52 Qe
+> lim rewrite
+> 国 vhost
+© enable-php-00.conf
+enable-php-52.conf
+© enable-php-53.conf
+© enable-php-54.conf
+© enable-php-55.conf
+enable-php-56.conf
+© enable-php-70.conf
+© enable-php-71.conf
+© enable-php-72.conf
+enable-php-73.conf
+© enable-php-74.conf
+© enable-php-80.conf
+enable-php-81.conf
+enable-php.cont
+G fastogi.cont
+B fastcgi.contdefault
+B fastegi_params
+国 fstcgpammsdetauk
+B ko-utr
+koi-win
+Cm Ase nm
+Aue Tse UtH RE ORE
+© nginx.conf 芸
+53 access_log off;
+69 server
+61 {
+62 listen 888;
+63 server_name phpmyadmin;
+64 index index.html index.htm index.php;
+65 root  /www/server/ phpmyadmin;
+Location ~ /tmp/ {
+return 4035
+]
+‘include enable-php.conf;
+location ~ .*\.(gif|jpg|ipegl png|bmp | swf) $
+x
+expires 30d;
+]
+78 location ~ .*\.(js|css)?$
+me | of
+s expires 42h;
+= 1
+82
+33 location ~ /\.
+aa sf
+明 deny all;
+ri ee

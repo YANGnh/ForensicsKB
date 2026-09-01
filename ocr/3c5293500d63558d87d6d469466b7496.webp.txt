@@ -1,0 +1,13 @@
+# OCR: 3c5293500d63558d87d6d469466b7496.webp
+# 来源: .\02-WriteUp\2025\3c5293500d63558d87d6d469466b7496.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+4 dvar = new d(loginactivity2);
+c2.e.e(str, “username");
+c2.e.e(str2, “password");
+c2.e.e(dvar, “callback");
+try {
+String 回 el.c.b(str);
+Log.d("Loginservice”, + b7)5
+String a6 = el.c.a(String.value0f(9981))3

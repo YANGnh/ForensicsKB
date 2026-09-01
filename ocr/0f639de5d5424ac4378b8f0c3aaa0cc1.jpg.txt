@@ -1,0 +1,26 @@
+# OCR: 0f639de5d5424ac4378b8f0c3aaa0cc1.jpg
+# 来源: .\02-WriteUp\2024\0f639de5d5424ac4378b8f0c3aaa0cc1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+(PEER
+public function register()
+《
+if (C(‘is_open_reg’) 一 9 {
+$this-rredirect(“error’);
+2
+if (IS_PosT) {
+if (1TS_AJAX) {
+$this->error( 描 方 式 理
+Jelse {
+$username
+$password
+= ‘{$username}'")->Find();
+if (!$res) {
+$reg_data = array(
+“nickname’ => $username,
+‘username’ => $username,
+"password’ => $password,
+“headisgorl => I(‘headimgurl"),
+"reg time’ => time(),
+“peg_ip' => get_client_ip(),

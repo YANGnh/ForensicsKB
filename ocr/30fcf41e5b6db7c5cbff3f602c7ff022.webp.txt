@@ -1,0 +1,51 @@
+# OCR: 30fcf41e5b6db7c5cbff3f602c7ff022.webp
+# 来源: .\02-WriteUp\2025\30fcf41e5b6db7c5cbff3f602c7ff022.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+国 hosts 切 换 hosts 兴
+查 看 系 统 hosts 文 件 内 容
+RA
+@ 公 共 玲 盟
+BEY
+开 发 环 塔
+Wats
+wovVanaune
+16
+a
+12
+13
+14
+1s
+16
+7
+18
+19
+26
+21
+22
+23
+24
+25
+This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+Copyright (c) 1993-2089 Microsoft Corp.
+This file contains the mappings of IP addresses to host names. Ea
+entry should be kept on an individual line. The IP address should
+be placed in the first column followed by the corresponding host
+The IP address and the host name should be separated by at least
+space.
+Additionally, comments (such as these) may be inserted on individ
+lines or following the machine name denoted by a '#' symbol.
+For example:
+102.54.94.97 rhino. acme.com # source server
+38.25.63.16 X.acme.com # x client host
+Cte eee eee eee ee eee
+# localhost name resolution is handled within DNS itself.
+英 127.8.8.1 localhost
+李 localhost
+192.168.2.200 www. gsjksu2kig.com
+192.168.2.200 www.mtbtsdafda.com
+192.168.2.201 www.jiedaiormr.com
+192.168.2.201 www. jiaoyoumfoup.com
+0
+余 阮 (CTRL+S)

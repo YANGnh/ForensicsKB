@@ -1,0 +1,9 @@
+# OCR: 4107f8951cb7482d7aca31df243128a4.webp
+# 来源: .\02-WriteUp\2025\4107f8951cb7482d7aca31df243128a4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+C:1 meme>nslookup chen.foren6
+服 务 器 : UnkKnown
+Address: 192.168.196.2
+xxx Unknown 拖 不 到 chen.foren6: Non-existent domain

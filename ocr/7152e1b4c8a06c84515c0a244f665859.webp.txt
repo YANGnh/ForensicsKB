@@ -1,0 +1,21 @@
+# OCR: 7152e1b4c8a06c84515c0a244f665859.webp
+# 来源: .\02-WriteUp\2025\7152e1b4c8a06c84515c0a244f665859.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+因
+- Super! SingleChildRenderObjectWidget
++++ -0ff_c_Obj!Text@44e321-:-{
+-off_c: vpgs 比 芸 不 用 “,
+-off_14_Obj!Textstyle@44d241-:-{
+++ -0ff_@:-true,
++ off _c_Obj!Color@44ed21-
+off_8:-double(1),
+off_10:-double(1),
+.. off_18:-double(1),
+.. off_20:-double(1),
+. off_28_Obj !ColorSpace@4530c1-:-{
+. «Super
+-off_8
+-off_10:
+sRGB"

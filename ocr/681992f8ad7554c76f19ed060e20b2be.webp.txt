@@ -1,0 +1,6 @@
+# OCR: 681992f8ad7554c76f19ed060e20b2be.webp
+# 来源: .\02-WriteUp\2025\681992f8ad7554c76f19ed060e20b2be.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+# 结果: 无可用文本（tesseract 未识别到文字）

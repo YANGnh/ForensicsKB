@@ -1,0 +1,35 @@
+# OCR: 5e03ca306b6d09e48429c16688d03759.webp
+# 来源: .\02-WriteUp\2025\5e03ca306b6d09e48429c16688d03759.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+重 叉 团 与 出 圆 园 《 血 申 地 @ & & 亚 固
+5 n
+SE B 。 device name
+Options: == 口 ESxd 吊 — OBackwards CO) Multiple occurrences
+jo. Time Source Destination Protocol Length Info
+35 0.024619 07:a3:79:06:60:1a Broadcast LE LL 63 ADV_NONCONN_IND
+36 0.025620 79:06:60: 1a Broadcast LE LL 63 ADV_NONCONN_IND
+37 0.025620 3b:5e:85:e0:8c:92 Broadcast LE LL 63 ADV_NONCONN_IND
+38 0.026618 :e0:8c:92 Broadcast LE LL 63 ADV_NONCONN_IND
+39 0.027620 :e0:8c:92 Broadcast LE LL 63 ADV_NONCONN_IND
+4 0.028620 :71:9d:64 Broadcast LE LL 63 ADV_NONCONN_IND
+41 0.028620 :71:9d:64 Broadcast LE LL 63 ADV_NONCONN_IND
+42 0.029620 :71:9d:64 Broadcast Le LL 63 ADV_NONCONN_IND
+43 0.030620 :00:5b: 仪 Broadcast LE LL 63 ADV_NONCONN_IND
+44 0.031160 :00:5b: 仪 Broadcast LE LL 63 ADV_NONCONN_IND
+45 0.031160 :00:5b: 仪 Broadcast Le LL 63 ADV_NONCONN_IND
+46 0.032138 :33:32:31 Broadcast LE LL 58 ADV_IND
+47 0.033138 :33:32:31 Broadcast LE LL 58 ADV_IND
+48 0.033138 2€8:99:30 80:e1: 26: 33:32:31 LE LL 38 SCAN_REQ
+49 0.034138 :33:32:31 Broadcast Le LL 32 SCAN_RSP
+5@ 0.035139 :33:32:31 Broadcast LE LL 58 ADV_IND
+51 0.035740 :73:9f:d5 88:e1:26:33:32:31 LE LL 38 SCAN_REQ
+52 0.036266 :33:32:31 Broadcast LE LL 32 SCAN_RSP
+53 0.037245 :6a:e5:82 Broadcast LE LL 63 ADV_NONCONN_IND[Malformed Packet]
+Simultaneous LE and BR/EDR to Same Device Capable (Controller || 0000 国 33 08 03 4f e1 02 Ga 61 25 28 68 88 5c 51 d8 。 酣 0 -%(--\Q
+= BR/EDR Not Supported: true (0x1) © 79 d6 be 89 8e 20 20 31 32 33 26 e1 8002 81 6 y 1 238
+_ = LE General Discoverable Mode: true (8x1) 6f 09 46 6c 69 70 70 65 72 20 31 32 33 61 6c 6c Flippe r 123al1
+. … = LE Limited Discoverable Mode: false (0x0) 0307-82 30,02 105.00"be 职 沥 6 >
+~ Device Name: Flipper 123al1
+15

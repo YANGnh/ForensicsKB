@@ -1,0 +1,40 @@
+# OCR: d444821bcea45904e5f0b7b6ca0fe015.webp
+# 来源: .\02-WriteUp\2025\d444821bcea45904e5f0b7b6ca0fe015.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+nawt BENE ARH 0 。 国 (omnes)
+=
+ee 98A , ag “ @ 8 aPai OP wees | Swe Lex ary
+@ e 21
+SA socket opened
+Using networked device @°127.0.0.1:27045"
+testjs Agent injected and responds ok!
+Sass Running a startup command... stack off
+Running @ startup command... android bypass
+g [2025-11-01 11:57:26] delay job add...
+Oz [2025-11-01 11:57:26] MMM Se MAES IFA. AF ID, 044357
+aid [2025-12-01 11:57:26] delay job add...
+[2025-11-01 11:57:26] SAM AES IER. £5 TD, 953896
+delay resume
+[2025-11-01 11:57:26] run custom script
+[ Frida WAC mm, TEE DNR...
+[+] @% net.net.Maindctivity Gina
+[+] R net.net.Maindctivity 巳
+Le] Ee Taw MRO AORN AH BR.
+[+] [+] 0h SN 8 AE = KOpQVBZ3ByKL2602 fshqYTHC2FTRUIVTgrmIFEGCORU=
+[tab] for commend suggestions
+Co] 1 ah Wi RMB REA (ver): 4.56.23
+[+] 1 英 APK Bb (apkilash): 983*8a605d16530190cO9b0884d7cef1
+[+] [+] sem Hint (ts): 1727899789
+Dn soe! CRRA Owe!
+Ue] 克 英 明 URL:
+http: //Localhost:60723/K0pQvB238yk1 2602 fshqYTHC2#7RUJY IgrmIF6GcORUY.30 ?hash=983f8a605d16530190cO9b0884d7cef liver=4.56.23
+&ts=1727899789
+[+] [ GARB MainActivity.getVer i) Hook ( 月 )
+[+] [ & Hook MainActivity.onCreate
+[+] @K net.net.crypto.MultilayerEncryption E 匹
+[+] BA net.net.crypto.MultiLayerEncryption & Ii i
+[+] [*] & Hook MultiLayerEncryption.multiLayerEncrypt ( 用 )
+{2025-11-01 11:57:27] Registering job 044357. Type: androi GAS . 金 星 路 406 取 证 人
+[2025-11-01 11:57:27] job 953896 no hooks load. not include

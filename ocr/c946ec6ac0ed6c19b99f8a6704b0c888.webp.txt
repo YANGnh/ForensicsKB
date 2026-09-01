@@ -1,0 +1,20 @@
+# OCR: c946ec6ac0ed6c19b99f8a6704b0c888.webp
+# 来源: .\02-WriteUp\2025\c946ec6ac0ed6c19b99f8a6704b0c888.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+Nk = 4
+Nb = 4
+Nr = 10
+rds: 4-byte words
+w = [key16[i:i+4] for i in range(®, 16, 4)]
+for i in range(Nk, Nb*(Nr+1)):
+temp = w[i-1]
+if i % Nk ==
+temp = bytes(a ^ b for a,b in zip(sub_word(rot_word(temp)), bytes([RCON[i//Nk],0,0,0])))
+w.append(bytes(a ^ b for a,b in zip(w[i-Nk], temp)))
+round_keys = [b''.join(w[4*i:4*i+4]) for i in range(Nr+1)]
+ss = round_keys[n]
+round_keys[n] = round_keys[0]
+round_keys[0] = ss
+return round_keys # list of 11 round keys (16 bytes each)

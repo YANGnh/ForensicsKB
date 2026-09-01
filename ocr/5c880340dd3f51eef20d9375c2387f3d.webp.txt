@@ -1,0 +1,6 @@
+# OCR: 5c880340dd3f51eef20d9375c2387f3d.webp
+# 来源: .\02-WriteUp\2024\5c880340dd3f51eef20d9375c2387f3d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+# 结果: 无可用文本（tesseract 未识别到文字）

@@ -1,0 +1,34 @@
+# OCR: 2c3d3a6d5329ef345a3df50a63d0c53b.webp
+# 来源: .\02-WriteUp\2025\2c3d3a6d5329ef345a3df50a63d0c53b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+Cc 8
+ish 评 便 /
+| | 8 < 吴 的 里 口 Datsinc「S-1.521-247- @
+= B = S410 = p = Bue = fxa = AX
+\ 8H Duncan Japt.... 11/93772 口 团
+SF v 述 途 口 [security-enabled 了 1S152 | (tit 口 , vie
+V HE LAM KH lapt... 34376 一 - 2
+> 暨 Mn 4 口 16 479 Amember was removed from ase... <EventDat.. 信 酝 Security a
+bs l 「 口 T ane Amember was added to asecurity.. <EventDat.. | Security
+> FAP 327
+BS ae 阮 口 18 4732 Amember was added to asecurity.. <EventDat.. 信 相 Security
+> Bs Tns 口 1 4732 Amember was added to asecurity.. <EventDat.. 信 相 Security
+> © 856 4405
+v #6 SHES 20169 7
+v 菲 WndoweB 9934
+40 Bers: 0
+5620 wei: 4732
+BH: A member was added to a security-enabled local group.6n%nSubject:6n%tSecurity ID:96t%6t%E%nd%tAccount Name:%t%t%7%n%tAccount
+= E Domain:%t%t%89%n%tLogon ID:96t96t9996n%6nMember:%ondtSecurity ID:96t6t%2%ndtAccount Name:%t%t% 1%n%nGroup:%n%tSecurity
+J Beez | ID:96t%t%5%n%tGroup Name:%6t9%6t9%39%n%tGroup Domain: %t%t%4%n%nAdditional Information:9%n%tPrivileges:96t96t9610
+FHL... 10235 x08: <EventData> <Data Name="MemberName">-</Data> <Data Name="MemberSid’ >S-1-5-21-244795756-2605320691-3516395164-1004</Data>
+> 蛭 8BsaWf sse <Data Name="TargetUserName">Administrators</Data> <Data Name="TargetDomainName" >Builtin</Data> <Data Name="TargetSid">S-1-5-32-
+544</Data> <Data Name="SubjectUserSid” >S-1-5-18</Data> <Data Name="SubjectUserName”>CEO-PC$</Data> <Data
+Biren 8 Name="SubjectDomainName">WORKGROUP</Data> <Data Name="SubjectLogonld” >0x000003e7</Data> <Data Name="PrivilegeList”>-</Data>
+> asin 83 </EventData>
+este 153 Seen: BB
+&y ShimCache 1319 2 Security
+56 mez: CEO-PC
++ = #8: Microsoft-Windows-Security-Auditing

@@ -1,0 +1,9 @@
+# OCR: 03b4614097bc7a33654bcd412ef0099a.jpg
+# 来源: .\02-WriteUp\2024\03b4614097bc7a33654bcd412ef0099a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:21
+
+[root@server ~]# lastb
+root ssh:notty 192.168.1571 Fri Oct 9 16:47 - 16:47 (00:00)
+btmp begins Fri Oct 9 1
+29 2020

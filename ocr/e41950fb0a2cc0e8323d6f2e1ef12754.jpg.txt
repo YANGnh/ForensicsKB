@@ -1,0 +1,29 @@
+# OCR: e41950fb0a2cc0e8323d6f2e1ef12754.jpg
+# 来源: .\02-WriteUp\2024\e41950fb0a2cc0e8323d6f2e1ef12754.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+E
+[root@localhost ~]# ss -napt
+State Recv-Q Send-Q
+LISTEN 6 128
+′ pid=1116, fd=3))
+LISTEN 6 100
+users: (("master" pid=1292, fd=13))
+ESTAB 6 180
+users: (("sshd" ,pid=1534, fd=3))
+LISTEN 6 128
+users: (("sshd" ,pid=1116, fd=4))
+LISTEN 6 100
+users: (("master" pid=1292, fd=14))
+[root@locathost ~]# []
+Local Address:Port
+22
+127.0.0.1:25
+192.168.8.142:22
+E
+[::1]:25
+Peer Address:Port
+[
+E
+192-168.8.1:36868

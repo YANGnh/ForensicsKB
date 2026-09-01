@@ -1,0 +1,8 @@
+# OCR: d9fdb443ac87b10772b6b5539eb2340c.jpg
+# 来源: .\02-WriteUp\2024\d9fdb443ac87b10772b6b5539eb2340c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+E
+E
+CAUsers\Luck\Desktop

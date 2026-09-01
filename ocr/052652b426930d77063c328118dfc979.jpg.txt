@@ -1,0 +1,26 @@
+# OCR: 052652b426930d77063c328118dfc979.jpg
+# 来源: .\02-WriteUp\2024\052652b426930d77063c328118dfc979.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+wax +
+# 数 据 源 配 贻
+spring
+datasource:
+‘type: com_alibaba-druid.pool .DruidDataSource
+driverClassNane: com_mysql_cj-jdbc_Driver
+# EEG
+master
+# url: jdbc:mysql: //Llocalhost:3366/}-met2useUnicc
+useSSL=true&serverTimezone=GMT%2B8
+# username: root
+root
+url: jdbc-mysql-//192.168 8 .142-3306/ji-mei?useUr
+UL&usessL= fal5e"5e「ve「Tl'I叠z()"e乳_J(T,霾2|攫【薹
+SnzssCCsp2NCpcjAl]
+password:
+# 从 库 数 据 源
+lave:
+# 从 数 据 源 开 关 / 默 认 关 闭
+enabled: false
+r

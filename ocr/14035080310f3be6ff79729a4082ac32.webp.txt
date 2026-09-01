@@ -1,0 +1,22 @@
+# OCR: 14035080310f3be6ff79729a4082ac32.webp
+# 来源: .\02-WriteUp\2025\14035080310f3be6ff79729a4082ac32.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+w ESXi Host Client root@192.168.10.101~ | 部 助 ~
+EB esxit
+镣 口 组 | RIZE | MEE vMkernel 网 卡 TCP/IP 堆 搜 BAKA
++, aM vMkernel 网 卡 2 | C M 4 口 摄 繁
+E “ TCP/IP $88 、 RS v Pv4 地 址 、 IP v6 Stthk
+v 国 vCLS-3e654d56-a676 3 @ Management Network 伟 Bik TCP/IP HE 管 理 19216810.01“ 无
+E E & Dswitch-vSAN Bik Tcp/ip ste 192.168.20.2. 无
+曰 乡 庭 红 全 8 TcP/iP 罪 备 ,Moton 192168302-| 无
+园 ate
+囡 ames
+ES 8 己 排 队 的 间 、 启 动 时 间 v BRa 完 成 明 间 ¥ v
+Refresh Services 2025/06/09 19:14:59 2025/06/09 19:15:09 2025/06/09 191510 @
+Start Service 2025/06/09 19:14:59 2025/06/09 19:14:59 2025/06/09 19:15:09
+Start Service 2025/06/09 191459 2025/06/09 19:14:59 2025/06/09 19:14:59
+Start Service 2025/06/09 19:14:37 2025/06/09 19:14:48 2025/06/09 19:14:59
+Auto Start Power On 2025/06/09 19:10:29 2025/06/09 19:10:29, 2025/06/09 19:10:29
+Refresh Services 2025/06/09 19:15:09 _ 2025/06/09 19:15:09 2025/06/09 19:15:10

@@ -1,0 +1,43 @@
+# OCR: f7f184ccb2266e18a571b573c580bfeb.jpg
+# 来源: .\02-WriteUp\2024\f7f184ccb2266e18a571b573c580bfeb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+ispamsmegiemg
+Protocel Leng info
+No. Time Source
+41915 177.476605 1: 192.168.85. 250 192.168. 85. Be ‘HTTP rt U 200 OK (text/html)
+2018 197.619101 192.168.85.250 192.168.85.130 HTTP 71 HTTP/1.1 200 OK (text/html)
+@0 Oc 29 a3 史 cf 00 Oc
+03 f4 Sd df 40 08 40 8
+55 fa 52 cc 8 58 @3 9
+@0 e5 19 Sc 00 88 8 01
+7b bd 58 4f 53 54 20 2
+69 6e 2 69 6d 70 6F 72
+54 50 2f 31 2e 31 94 8
+32 2e 31 36 38 2e 38 35
+65 72 2d 41 67 65 6e 74
+61 2F 35 2e 30 20 28 5
+78 20 78 38 36 Sf 36 34
+30 29 20 47 65 63 6b 6
+31 20 46 69 72 65 66 6F
+41 63 63 65 70 74 3a 2
+65 70 74 2d 4c 61 6s 67
+2d 55 53 2c 65 6s 3b 71
+63 65 70 74 2d 45 Ge 63
+7a 69 70 2c 20 64 65 6
+66 65 72 65 72 3a 20 68
+> Frame 1903: 1026 bytes on wire (8208 bits), 1026 bytes captured (8208 bits) on interface \Device\NPF_{9I
+> Ethernet II, Src: VMware £3:b8:de (@0:0c:29:f3:b8:de), Dst: VMware_a3:c7:cf (00: 7:cf)
+> Internet Protocol Version 4, Src: 192.168.85.130, Dst: 192.168.85.250
+> Transmission Control Protocol, Src Port: 49868, Dst Port: 80, Seq: 1, Ac
+1, Len: 960
+v HTML Form URL Encoded: application/x-www-form-urlencoded
+is_js_confirmed" = "0"
+token” = "@0aa696FO7b68db6b04860b3d0a862e:
+pos" = “
+goto" = "server_sql.php"
+message to_show" = “Your SQL query has been executed successfully"
+‘show_query" = "1"
+‘ajax_request” = “true”
+nocache" = "1560431213443661324"

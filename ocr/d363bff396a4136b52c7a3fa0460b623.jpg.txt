@@ -1,0 +1,9 @@
+# OCR: d363bff396a4136b52c7a3fa0460b623.jpg
+# 来源: .\02-WriteUp\2024\d363bff396a4136b52c7a3fa0460b623.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+r
+172.1802
+人 ==
+厂 埔

@@ -1,0 +1,52 @@
+# OCR: 77a759c7d7f58bfd0363ff3ba9c4f81c.webp
+# 来源: .\02-WriteUp\2025\77a759c7d7f58bfd0363ff3ba9c4f81c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+属 Wireshark Conversations - CEO_Trafficpcapng
+Conversation Settings
+O size
+口 s
+口 Eibsstopa
+E *
+Follow Stream.
+Graph,
+一 “
+Bluetooth
+E
+pcc
+Ethernet
+FC
+FDDI
+IEEE 802.11
+IEEE 802.154
+pv
+I
+1px
+D
+ue
+Mprcp
+New
+‘openSAFETY
+O0o00000s8B00008000
+Filter list for specific type
+Ethernet-17  IPv4-10 h6.8 = TCP-75 U0p.1h
+Address A Address B SHH Bytes Stream ID PacketsA +B  BytesA+>B PacketsB—+A BytesB—>A RelStart #48515) Bits/sA>B  Bits/sB>A
+68:da: 01:00:5e:7fiff:fa 476 FB 15 4 116 FR 6 0 孙 8 408.271533 30784 1860 bits/s O bits/s
+1 _ 603 16 1 ors 0 037 937.422347 0.0000
+12 0 84 E 6 0 孙 0000000 1119.8234 E O bits/s
+6 360255 8 6 36255 0 OF 6920744 23775 «1218 bits/s Obits/s
+36 2kB 10 36 2kB 6 0 孙 6.830269 847.6167 21 bits/s O bits/s
+01:00:5e:7fiff:fa 画 30 T 5 30kB 6 OFT 6.898344 896.5655 272 bits/s O bits/s
+33:33:00:00:00:02 3 210055 5 3 20055 6 0 孙 8 S7lg0 8.0028 209 bits/s O bits/s
+33:33:00:00:00:0c 58 “ 卯 娟 12 58 30 kB 6 OFT 6898494 896.5657 271 bits/s O bits/s
+33:33:00:00:00:16 8 740 SR 6 8 7405 6 0 孙 8 57laoso 3.4942 1694 bits/s O bits/s
+33:33:00:01:00:02 21 3kB 1 21 3kB 6 0 孙 8 5.260579 917.2199 27 bits/s O bits/s
+33:33:00:01:00:03 36 3kB 9 36 3kB 6 OF 6.830146 847.6165 28 bits/s O bits/s
+33:33:ff:a5:08:e3 1 7 4 1 BSR 6 0 孙 8 5.712771 0.0000
+H 5 1 2 96 E 6 OF 5523852 941.3560 ‘97 bits/s O bits/s
+01:80:c2:00:00:00 1,114  67kB 13 h4 卯 埔 6 OF 7.072962 117.0455 478 bits/s O bits/s
+33:33:00:01:00:03 2 18055 14 2 180 5 6 OF 3.718839 1.0102 1425 bits/s O bits/s
+a0b3:ce29:2609 47415 MB 7 746. 2B E 45
+01:80:c2:00:0 38 SkB 3 38 SkB 6 0 孙 芸 5.555148 1110.5823 E O bits/s
+E

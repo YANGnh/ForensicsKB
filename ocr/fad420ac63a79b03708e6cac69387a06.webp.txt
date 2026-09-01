@@ -1,0 +1,12 @@
+# OCR: fad420ac63a79b03708e6cac69387a06.webp
+# 来源: .\02-WriteUp\2025\fad420ac63a79b03708e6cac69387a06.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+2362 root@OpenWrt:~# df
+237 | Filesystem 1K-blocks Used Available Use% Mounted on
+238 | /dev/root 4352 4352 6 106% /ron
+239 | eftvars 256 2 254 1% /sys/firmware/efi/efivars
+240| tmpfs 2012008 168 2811846 6% /tmp
+241 | /dev/loop8 8292024 582972 “7789852 _7% /overlay
+243 “ tmpfs 512 6 512 0% /dev

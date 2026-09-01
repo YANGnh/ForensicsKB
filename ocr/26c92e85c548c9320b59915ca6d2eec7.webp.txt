@@ -1,0 +1,95 @@
+# OCR: 26c92e85c548c9320b59915ca6d2eec7.webp
+# 来源: .\02-WriteUp\2025\26c92e85c548c9320b59915ca6d2eec7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+000
+No. Source Destination Protocol Lengt! Info
+HTTP
+w
+HITP/1.1 208 OK
+gcuiny 2 POXTESUSSQSWAFF/ pia
+392.168.111, 61 HTTP/1.1 200 OK
+492/168.111, 2 GET /gSN6RBNSTHFYOINSIAaN7AHHKCTncWuA-nAT-A@dhjf6Q9u-DéPon3nLFGXTESNSSQSWWFF/ HTTP/1.1,
+E HTTP/4.1 280 Ok
+E POST /gSN6RBNSIHFYS1n3HAsN7AhHKCTmcHus-nAT- Aad fQou-DePon3nL FGKTESNSSQsvuFF/ r
+402823, 192.168.111. w 200 0K
+40329: GGET /g5N6RBuSTHEVS1n3IIAaN7AhHKCTmchuA-nAT-Aadhjf6QSu-DdPon3nLFGXTESUSSOSWuFF/ HTTP/1.1
+0 0 HITP/1.1. 280 OK
+392.168.111.80 GET /gSNGREWSIHFYS1N3HAaN7AhHKCIncHUA-nAI-A@si FGQOu-DdPon3nLFOKTESNSSQSVWFF/ ri
+E HITP/1.1 200 OK
+[erame: 15859, a
+Frame: 15860
+[Evane: 1586
+spaciisse bytes)]
+[Frane: 15867. payload: 166112-167571 (2460
+[Frane: 15868. payload: 167572-169031 (2460
+[Frane: 15869. payload: 169032-470401 (2460
+Frane: 15870, payload: 170492-171951 (2460 byte
+Frame: 15871
+cane:
+[Segment count: 125]
+[Reassenbled gr length: 176855]
+[Reassenbled TCP Data [..]: 485454502f31223120323030204F4bed0a4366274656e74205479706538206176726c68636174696F66
+~ Hypertext Transfer Protocol
+© HTTP/1.1 208 Ok\r\n
+Response Version: HITP/1.1
+Status Code: 200
+[status Code Description: OK]
+Response Phrase: Ok
+Content-Type: application/octet-strean\r\n
+Connection: Keep-Alive\r\n
+Server: Apache\r\n
+~ Content-Length: 176732\r\n
+[Content length: 176732]
+[Request in frame: 15735
+[Time since request: 115.680000 milliseconds)
+[Request URI: /gSNEREWSIHFYOIn3NAaNSAN2FEzndeysRLNSROARLSST-9]
+L request URI: hetp://192,168.134, 126: 8960 /eSNGRouSIHFV9 InsMkaNsAFSzndcvsRLNSROARL
+File Data: pp bytes,
++ Data (176752 bytes)
+Data 门 4dSaeseeeo909eshs2455s8%es81c361450000#¢1381<39864020089305360450 Fdesones0zegezeoe0casezeeedeecaced!
+Length: 1767321 1 _ Packet (1061 bytes) | Reassembled TCP (176855 bytes)
+BSSBNSSESSSSLSLSSSSSSS
+团
+ea
+58
+92
+2
+22
+22
+团
+20
+2
+20
+0
+2
+心
+心
+a
+20
+20
+20
+28
+20
+2
+心
+20
+es
+20
+马
+团
+20
+20
+BESSSSSSISSISSSSSSILES
+BERLISSSLRSISSRIISSRERSSSSS
+SSTSSSSSSSSSSISISSLIIS
+Sregesussssesssseesee
+61
+心 ea
+20 80 28 0 09 09 09 49
+BERRILSTSRSLSLSSLSLSSRSPURKURSTIAS SSL
+SSSARSSSSSSSESSSSSSSSSSSSSESSSVALSSS
+SRSCSSSSSSSSSTSSISSISLILSSSSSHSAGIFSIIS
+吴 沥
+20 08

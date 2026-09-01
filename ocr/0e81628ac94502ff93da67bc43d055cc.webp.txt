@@ -1,0 +1,9 @@
+# OCR: 0e81628ac94502ff93da67bc43d055cc.webp
+# 来源: .\02-WriteUp\2026\0e81628ac94502ff93da67bc43d055cc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+11 - [é]| ame
+A | B | C | D | E
+合 规 基 训 记 录 表
+TR-2025-0 reer

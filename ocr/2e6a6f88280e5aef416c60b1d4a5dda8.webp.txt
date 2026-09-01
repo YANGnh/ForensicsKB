@@ -1,0 +1,9 @@
+# OCR: 2e6a6f88280e5aef416c60b1d4a5dda8.webp
+# 来源: .\02-WriteUp\2024\2e6a6f88280e5aef416c60b1d4a5dda8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+[mysqld]
+default-tine-zone = '+8:00"
+skip-grant-tables|
+4

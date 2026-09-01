@@ -1,0 +1,24 @@
+# OCR: fa381ddf11e28062a118b849e20f938c.jpg
+# 来源: .\02-WriteUp\2024\fa381ddf11e28062a118b849e20f938c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+[rootelocalhost alist]# -/attst admin h
+Show admin user's info and some operations about admin user's password
+Usagi
+alist admin [flags]
+alist admin [command]
+Aliases:
+admin, password
+nds
+to a random string
+-h, --help help for admin
+Global Flags:
+--data string data folder (default "data")
+~-debug start with debug mode
+--dev start with dev mode
+--force-bin-dir Force to use the directory where the binary file is located as data directory
+--log-std Force to log to std
+--no-prefix disable env prefix
+Use "alist admin [command] --help" for more information about a command.
+[rootetocathost alist]#

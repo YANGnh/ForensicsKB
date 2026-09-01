@@ -1,0 +1,18 @@
+# OCR: fb885609a73fa94d2f6fd021e13dd36d.webp
+# 来源: .\02-WriteUp\2025\fb885609a73fa94d2f6fd021e13dd36d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+]
+public void 河 EBREEcoxont context) {
+]
+‘Componentiiame componentName - new ComponentNiame(context, (Class<?>) class);
+JobInfo info = new JobInfo.Builder(123, componentName). setPersisted (true) . setPeriodic (922000L
+JobScheduler scheduler = (JobScheduler) context.getSystemService("jobscheduler");
+int resultCode = scheduler. schedule(info) ;
+if (resultCode == 1) {
+Log.d("jobSchedulerTest", “Job scheduled");
+} else t
+Log.d("jobSchedulerTest", "Job scheduling failed");
+]
+vnnsstnunnaongiisgny

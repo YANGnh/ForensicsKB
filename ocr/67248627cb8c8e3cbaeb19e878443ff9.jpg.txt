@@ -1,0 +1,6 @@
+# OCR: 67248627cb8c8e3cbaeb19e878443ff9.jpg
+# 来源: .\02-WriteUp\2024\67248627cb8c8e3cbaeb19e878443ff9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+完 成 后 松 开 手 指

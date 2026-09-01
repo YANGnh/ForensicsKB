@@ -1,0 +1,15 @@
+# OCR: 772e7a9cdef5959aaf05a6e166348e4d.webp
+# 来源: .\02-WriteUp\2024\772e7a9cdef5959aaf05a6e166348e4d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+*/
+public function del($time = @){
+$db= new Backup()5
+if($db->delFile($time)){
+addlog($time);//SAB&
+$this->Sueeess ("Z(S3C ERIE RLY! “,“appmanager/databackup/
+importlist');
+jelse{
+this->error(“ 备 份 文 件 删 除 失 败 , 请 检 查 权 限 1 “):
+]

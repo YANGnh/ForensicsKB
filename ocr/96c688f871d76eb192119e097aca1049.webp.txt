@@ -1,0 +1,18 @@
+# OCR: 96c688f871d76eb192119e097aca1049.webp
+# 来源: .\02-WriteUp\2024\96c688f871d76eb192119e097aca1049.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+所 胡 下 朐 广
+1916
+通 i 量
+339
+PRESS
+1577
+绥 余 浩 量
+11066700
+BTSs
+1141200
+PREMISES
+9925500
+SSE SSS

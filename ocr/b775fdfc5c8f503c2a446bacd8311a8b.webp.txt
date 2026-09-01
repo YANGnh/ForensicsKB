@@ -1,0 +1,27 @@
+# OCR: b775fdfc5c8f503c2a446bacd8311a8b.webp
+# 来源: .\02-WriteUp\2025\b775fdfc5c8f503c2a446bacd8311a8b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+E BRE
+FER TMS E01), BE 6
+BBO:
+Windows Intaton
+\Windows
+Domain: WORKGROUP
+Computer name: neodchen
+Owner edn
+Vorsen: Windows 10 Pro
+Time zone: Chine Standard Tine
+M 2025/05/05 13:4433 «8
+Last shutdown: 2025/05/13 003215 +8
+Nunber of eccourts:2
+SAE: NTFS
+39.587 495 696 4 = 13068
+wast: 272,631,808
+Sis pak 512
+E
+3 河 20 河 a#
+FERS: 34,078,975
+DRRRIB' SHA296 _3258EB659625ADDA7BFA58A3ADSDGEH213BCDBECEB423 E
+E E

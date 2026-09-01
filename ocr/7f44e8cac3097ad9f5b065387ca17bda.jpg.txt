@@ -1,0 +1,30 @@
+# OCR: 7f44e8cac3097ad9f5b065387ca17bda.jpg
+# 来源: .\02-WriteUp\2024\7f44e8cac3097ad9f5b065387ca17bda.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+server
+listen 80;
+server_name apijmhw.sdxfwl.top:
+location / {
+proxy_pass http://127.0.0.1-8080/:
+proxy_set_header Host Shost;
+proxy_set_header X-Real-IP Srenote addr:
+proxy_set_header REMOTE-HOST Sremote_addr:
+proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+]
+AT
+location [hearer
+# 招 汪 页 面 刷 新 464 问 额
+try files $uri $uri/ /luck-prize/index_html;
+index index.html;
+alias /webapp/luck-prize:
+]
+location /download{
+try files Suri $uri/ /down/index-html;
+index index.html;
+alias /webapp/down:
+]
+Iocatton /appf
+try_ftles Surt $uri/ /app/app-apk:
+alias /ebapp/app:

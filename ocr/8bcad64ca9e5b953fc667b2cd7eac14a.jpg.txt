@@ -1,0 +1,17 @@
+# OCR: 8bcad64ca9e5b953fc667b2cd7eac14a.jpg
+# 来源: .\02-WriteUp\2024\8bcad64ca9e5b953fc667b2cd7eac14a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+门 (laMi@tatD-[/pesktop]
+一 sudo vim /etc/hosts
+[sudo] password for kali:
+[—(kali@ kali)-[~/Desktop]
+一 cat /etc/hosts
+127.0.0.1 localhost
+127.0.1.1 kali
+# The following lines are desirable for IPv6 capable hosts
+nl localhost ip6-localhost ip6-Loopback
+1 ip6-allnodes
+2 ip6-allrouters
+222.2.2.10 ww.tjshop.com

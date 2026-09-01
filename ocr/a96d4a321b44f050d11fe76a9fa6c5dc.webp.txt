@@ -1,0 +1,29 @@
+# OCR: a96d4a321b44f050d11fe76a9fa6c5dc.webp
+# 来源: .\02-WriteUp\2025\a96d4a321b44f050d11fe76a9fa6c5dc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+Ringeeplrserver-2: $ service ssh start
+AUTHENTICATING FOR org. freedesktop.systemd1.manage-units =
+Authentication is required to start 'ssh.service'.
+Authenticating as: king
+Password:
+AUTHENTICATION COMPLETE
+king@api-server-2:"8 service ssh status
+ssh.service - OpenBSD Secure Shell server
+Loaded: loaded (/usr/lib/systemd/system/ssh.service; disabled; preset: enabled)
+Active: active (running) since Wed 2025-05-28 10:08:36 UTC; 2s ago
+TriggeredBy: 。sshsocket
+Docs: man:sshd (8)
+man: sshd_config(S)
+Process: 10487 ExecStartPre=/usr/sbin/sshd -t (code-exited, status=0/SUCCESS)
+Main PID: 10489 (sshd)
+Tasks: 1 (Limit: 4642)
+Memory: 2.1M (peak: 2.3M)
+CPU: 39ms
+ceraup: /system.slice/ssh.service
+一 0d89 "sshd: /usr/sbin/sshd -D [listener] 9 of 10-100 startups"
+May 28 1
+May 28 16 6 api-server-2 sshd[10489]: Server listening on :: port 22.
+May 28 10:08:36 api-server-2 systemd[1]: Started ssh.service - OpenBSD Secure Shell server.
+5 api-server-2 systemd[1]: Starting ssh.service - OpenBSD Secure Shell server...

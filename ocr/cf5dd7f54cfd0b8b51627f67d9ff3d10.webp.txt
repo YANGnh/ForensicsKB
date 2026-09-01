@@ -1,0 +1,16 @@
+# OCR: cf5dd7f54cfd0b8b51627f67d9ff3d10.webp
+# 来源: .\02-WriteUp\2024\cf5dd7f54cfd0b8b51627f67d9ff3d10.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+八 IADX INFO: Access modifiers changed from: private +/
+public void e(byte[] barr) 《
+try {
+Bitmap decodeByteArray = BitmapFactory.decodeByteArray(bArr, @, barr. length);
+byteArrayOutputStream
+jSONObject.put("image", true);
+jSONObject.put("buffer", byteArrayOutputStream. toByteArray());
+e.a().b().a("xeeeeca", JjSONObject);
+} catch (JSONException e) 《
+e.printStackTrace();
+}

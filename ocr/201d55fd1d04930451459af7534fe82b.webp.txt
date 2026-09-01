@@ -1,0 +1,73 @@
+# OCR: 201d55fd1d04930451459af7534fe82b.webp
+# 来源: .\02-WriteUp\2025\201d55fd1d04930451459af7534fe82b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+Raramua c
+心 日 5 日 巳
+河 confarkesctmoreplusapk
+ORK
+a com.mycompany .myapp4
+» @ABC
+@ Buildconfig
+E
+E
+E
+GAPK signature
+B Summary
+pes
+°
+3
+日
+m
+st
+团
+团
+sa
+3s
+6
+°
+sa
+团
+te
+一
+团
+&
+a
+te
+@
+ca
+团
+团
+史
+i
+团
+M
+3
+团
+ee ee ee eee:
+五 暗 Q 又 自 < + 丽 口 一 | 国 一
+inflate. setLayoutParans(new ViewGroup.LayoutParams(-1, -1));
+franeLayout .addView( inflate) ;
+dothis( inflate),
+windowtanager.
+return inflat
+\ddView(frameLayout, layoutParams);
+)
+private void dothis(View view) (
+view. FindViewyId(R. id. FloattButtont) .setOnclickListener(new View.OnClickListener(this,
+private final MBG thisse;
+private final EditText valsedit;
+this.thiss@ - this;
+this.valgedit = r
+erride // android. view. View.OnCLickListener
+if (this. valSedit.getText()
+return;
+]
+this. valSedit.setHint (“EWTN NEBIEEinieeteese
+this. valSedit .setText (“iFJinb");
+)
+ys
+1
+Goverride / android. occessibilityservice.AccessibilityService
+public void onAccessibilityEvent(Accessibility€vent eccessibility€vent) f

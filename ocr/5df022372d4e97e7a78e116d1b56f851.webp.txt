@@ -1,0 +1,27 @@
+# OCR: 5df022372d4e97e7a78e116d1b56f851.webp
+# 来源: .\02-WriteUp\2025\5df022372d4e97e7a78e116d1b56f851.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+P< Mia
+Linux > UUD/1> SRS >
+Gess , 三 用 R& = Shel 一 3
+me | 日 jae 史 ae
+口 166 root pip install matplotlib --break-system-packages
+口 157 root python reco.py
+168 root vi reco,
+Py
+口 165 root python reco.py
+170 root vi reco,
+Py
+口 I71 root python reco.py
+口 02 root python reco.py
+173 root vi reco,
+Py
+口 4 root python reco.py
+175 root ipu
+pup
+O176 root upx dist/reco
+root Is
+7 (
+口 T8 root rm reco*

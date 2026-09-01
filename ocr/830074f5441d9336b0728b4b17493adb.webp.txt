@@ -1,0 +1,24 @@
+# OCR: 830074f5441d9336b0728b4b17493adb.webp
+# 来源: .\02-WriteUp\2024\830074f5441d9336b0728b4b17493adb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+Bookmarks dict
+cond dict
+Calendars dict
+Noes dict
+B-comapple Accessibility dict
+ProductVersion string
+Productlype string
+BuildVersion string
+com.apple.mobileiTunes dict
+com.apple.mobileswirelesdict
+UniqueDevicelD
+SerialNumber
+string
+E
+T5I
+FFcnais
+21F90
+(00008020-000C18843C2A402E
+DX3F20PJKXLY

@@ -1,0 +1,15 @@
+# OCR: 8d099ce00931ed84b9efa56236621f64.webp
+# 来源: .\02-WriteUp\2024\8d099ce00931ed84b9efa56236621f64.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+详 细 信 息
+名 称 : externaldb
+扩 展 名 : db
+类 益 : 文 件
+大 A: 880 KB
+: 2017-01-01 00:03:04
+MetaAddr: 328242
+#8: Alice_Mobile.bin/1/data/com.android.providers.media/databases/external.db
+Meee: ANNE
+Bae: &

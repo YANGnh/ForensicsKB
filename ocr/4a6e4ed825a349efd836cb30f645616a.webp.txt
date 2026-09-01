@@ -1,0 +1,53 @@
+# OCR: 4a6e4ed825a349efd836cb30f645616a.webp
+# 来源: .\02-WriteUp\2026\4a6e4ed825a349efd836cb30f645616a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+Beem
+f Qi
+A ett
+人 deen
+全 mes
+园 安 $ 佐
+国 终 端 i 和 SNMP
+A 系 统
+余 sero
+Bex
+Me wae
+几 mike
+伟 硬 fHfn 电 滩
+团 外 探 & 命
+0 更 新 和 汪 原
+常 视 “ 网 络 。 存 傅 “ 服 务 设 备 分 析
+A 基 本 信 息
+服 务 器 名 称
+DSM 版 本
+Synology 帐 户
+QuickConnect ID
+A 硬 件
+产 晏 序 列 号
+产 品 垒 号
+CPU
+CPU 时 钟 频 率
+CPU 内 核 数
+物 理 内 存 大 小
+敬 燃 狄 态
+风 扇 横 式
+USB 设 备
+PCIe Slot 1
+A 时 间 信 息
+NTP 服 务 躁
+时 区
+Home
+DSM 7.2-64561
+2023LYC000000
+DS3622xs+
+INTEL Xeon D-1531
+2.69 GHz
+6
+4096 MB
+《 正 常
+静 音 模 式
+Virtual Mouse - VMware, Inc.
+pool.ntp.org
+(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi

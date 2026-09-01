@@ -1,0 +1,31 @@
+# OCR: ad1e89102ed0e24a17da3e7aac933bed.jpg
+# 来源: .\02-WriteUp\2024\ad1e89102ed0e24a17da3e7aac933bed.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+Attack
+Xieve
+E
+45
+BAB a
+Previous Passwords
+新 建 爆 破 攻 击
+SETTINGS
+E 8 t 8 FH
+遣 English
+symbol set VW SSNS symbols,
+引 2KS Space
+Y Numbers
+Sie
+Ea
+E
+res aa 8
+w
++ Change case
++ Change chars order
+ATTACKBUILDER_COMMENT
++ Substitute chars
+一 0 000000rd « AmivmOrd « Ly3ZXErd - ISFTAZrd -zzzzzerd
+BESNEB 56,800,235,584
+E
+E

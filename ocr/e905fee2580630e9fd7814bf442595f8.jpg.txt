@@ -1,0 +1,10 @@
+# OCR: e905fee2580630e9fd7814bf442595f8.jpg
+# 来源: .\02-WriteUp\2024\e905fee2580630e9fd7814bf442595f8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+E
+71.133;
+ubuntu 22.04
+-4 LTS nodez tty
+node2 login: _

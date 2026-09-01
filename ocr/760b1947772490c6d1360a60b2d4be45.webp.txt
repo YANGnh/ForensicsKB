@@ -1,0 +1,22 @@
+# OCR: 760b1947772490c6d1360a60b2d4be45.webp
+# 来源: .\02-WriteUp\2025\760b1947772490c6d1360a60b2d4be45.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+ISHI3Wiondotaucerfmunmeettinodepeoycharsd prat
+1 RAR jee \RER 78E
+Of. ru.meefik.linuxdeploy (0) Fe \et41~
+a. = shared prefs (0 ee
+目 5 `
+| settings confxml BEN xml MSH1-FfLand
+-# (Dx ms | Dea | 日 g | 国
+Offset 0 12 3 4 5 6 7 8 3 10
+00000144 75 65 22 20 2F 3E 0A 20 20 20 20
+00000160 68 67 20 6E 61 6D 65 3D 22 64 69 73 74 72 69 62 ng nam distrib
+00000176 22 3E 64 65 62 69 61 6E 3C 2F 73 74 72 69 6E 67 ">debial</string
+00000192 3E OA 20 20 20 20 3c 13 74 72 69 6E 67 20 6E 61 > <string na
+00000208 6D 65 3D 22 75 73 65 72 “SF 70 61 73 73 77 6F 72 a "user_passwor
+00000224 64 22 3E 39 39 63 32 36 64 61 35 3C 2F 73 74 72 | d">99c26daS</str
+00000240 69 GE 67 3E OA 20 20 20 20 3c 73 74 72 69 6E 67 ing> <string
+00000256 20 6E 61 6D 65 3D 22 66 73 SF 74 79 70 65 22 3E name: 's_type">
+00000272 65 78 74 34 3C 2F 73 74 #72 69 GE 67 3F OA 20 20 ext4</strinag>

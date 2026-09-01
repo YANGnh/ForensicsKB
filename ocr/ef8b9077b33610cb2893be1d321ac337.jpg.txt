@@ -1,0 +1,15 @@
+# OCR: ef8b9077b33610cb2893be1d321ac337.jpg
+# 来源: .\02-WriteUp\2024\ef8b9077b33610cb2893be1d321ac337.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+Recipe
+URL Decode eu
+From Base64 Qu
+Alphabet
+A-Za-20-9+/= “ Remove non-alphabet chars
+Strict mode
+Input
+L3dady93dadyb2901 3d3dyS@cHNob3AUY29tLw%30%30)
+Output
+Jnanonnuroot/mmctpshop.coal

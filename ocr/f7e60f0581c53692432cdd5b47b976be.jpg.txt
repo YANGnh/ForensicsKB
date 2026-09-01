@@ -1,0 +1,18 @@
+# OCR: f7e60f0581c53692432cdd5b47b976be.jpg
+# 来源: .\02-WriteUp\2024\f7e60f0581c53692432cdd5b47b976be.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+[root@wns ~]# cat /root/backup.sh
+#1/bin/bash
+BACKUP_PATH="/root/backup"
+cd $BACKUP_PATH
+DATE=$(date +%Y%m%d%HXM%S )
+AES_PASS=S(e ‘SDB_NAME" | openssl enc ass pass-mysecretpassword
+BACKUP_FILE_NAME="${DB_NAME}. ${DATE}. sql"
+mysqldump - $DB_USER -pSDB_PASSWORD $DB_NAME > $BACKUP_FILE_NA
+File_Name="${DB_NAME}.sql.gz”
+tar -czvf - $BACKUP_FILE NAME | openssl des3 -salt|-k SAES_PASS] out $File_Name
+rm -rf $BACKUP_FILE_NAME
+nysqladmin -u $DB_USER -p$DB_PASSWORD drop $DB_NAME --force
+[root@wns ~]# |

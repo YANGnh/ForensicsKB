@@ -1,0 +1,16 @@
+# OCR: e5a4271f774aee2149d172b9dfbe2515.webp
+# 来源: .\02-WriteUp\2025\e5a4271f774aee2149d172b9dfbe2515.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+~ Advertising Data
+v [Device Name: Cracked
+Length: 8
+Type: Device Name (0x09)
+Device Name: Cracked
+~ Manufacturer Specific
+Length: 11
+Type: Manufacturer Specific (Oxff)
+Company ID: Unknown (@xab57)
+> Data: @701434839313430
+~ Tx Power Level

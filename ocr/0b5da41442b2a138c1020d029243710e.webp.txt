@@ -1,0 +1,8 @@
+# OCR: 0b5da41442b2a138c1020d029243710e.webp
+# 来源: .\02-WriteUp\2025\0b5da41442b2a138c1020d029243710e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+-onst keyManager = require, ./KeyManager ),
+const ALGORITHM = ‘aes-128-cbc';
+const DEFAULT _IV = Buffer.alloc(16, 0);

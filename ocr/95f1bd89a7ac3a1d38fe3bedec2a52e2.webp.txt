@@ -1,0 +1,6 @@
+# OCR: 95f1bd89a7ac3a1d38fe3bedec2a52e2.webp
+# 来源: .\02-WriteUp\2024\95f1bd89a7ac3a1d38fe3bedec2a52e2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+179 179 Asie 0 1701

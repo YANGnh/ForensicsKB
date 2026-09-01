@@ -1,0 +1,15 @@
+# OCR: 604616a1fd98529139d9cfe7a9a6e1ed.webp
+# 来源: .\02-WriteUp\2024\604616a1fd98529139d9cfe7a9a6e1ed.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+/* JADX INFO: Access modifiers changed from: private */
+public void e(byte[] barr) 《
+tr
+Bitmap decodeByteArray = BitmapFactory .decodeByteArray(bArr, 0, bArr. length);
+ByteArrayOutputStream = new ByteArrayOutputStrean( ) :
+750NObject 二|S(】，_()|】二|e:t new JSONObject();
+. toByteArray());
+} catch (Jsonexception e t
+e.printStackTrace()3
+}

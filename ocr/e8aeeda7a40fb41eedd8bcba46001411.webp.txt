@@ -1,0 +1,66 @@
+# OCR: e8aeeda7a40fb41eedd8bcba46001411.webp
+# 来源: .\02-WriteUp\2026\e8aeeda7a40fb41eedd8bcba46001411.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+E
+E E
+- 个 圆 驭sd怡gnose一202丘04.08一22一1侈35+〔〕芝叠〔〕〔〕一了Phon{妻一OS一了Phon鲁…一21臼0 > logs powerlogs
+aa 名 称 exes
+, 网 图 片 门 log 2025-04-08_22-17_C345A388.EPSQL 2025/4/8 22:17
+“ 国 文 恩 门 powerlog 2025-04-08_22-17_FBD78CIAPLSQL 2025/4/8 22:17
+SQLiteStudio (3.4.4) - [BatteryMetrics Battery 1 2 (powerlog 2025-04-08_22-17_FBD78CTAJ]
+8 库 (D) “ 结 恺 (5) 视 图 () 工 具 (D 帮 助 (H)
+“ 蟠 国 蝶 | 国 圈 , 厅 寇 F 名
+ax
+称 过 浦
+= powerlog_2025-04-08_22-17_FBD78C1A (SQLite
+表 (516)
+己 AccessibilityMetrics_ZoomEnabled*
+Audio_Sing_1_2
+BackgroundProcessing_FeatureChec..
+BackgroundProcessing_FeatureStatv.
+BackgroundProcessing_Intensivefa.
+BackgroundProcessing_TaskBlockinv.
+BackgroundProcessing_TaskCheckp.
+BackgroundProcessing_WorkloadInf++
+BackupMetrics_RestoreState_l_2
+BatteryMetrics Battery_1_2
+i
+1D
+timestamp
+AbsoluteCapacity
+AbsoluteLevel
+Amperage
+<yvvvvyyvyvy
+国 国 园 育 肖
+团 9 ose
+BRE DDL
+me ek | 怡 | EB
+结 构 “ 数 搬 AR Ral
+网 裂 视 固 表 单 视 图
+国 | 国 - 园 园 园 | 回 回 : 回 回 | 督 , 髯 4)
+sa
+EPSQL 文 件
+PLSQL 文 件
+大 h
+308 KB
+9,008 KB
+5 “ 己 加 载 行 数 , 190
+〇
+石 在 powerlogs 中 揉 素
+1D timestamp AbsoluteCapacity  AbsoluteLevel 。 hnperage AppleRam ChargeAcc DODO ExternalC IsChargir Level 。 NotChargi PassedChe Voltage
+90 46522 1744041999. 225102 2474 83. 7920758550627 2100 2623 © -3093 «10044 1 1 94 0 -1332 4323
+91 46523 1744042125. 231133 2487 84 21943785980359 2100 2622-3106 10044 1 1 95 0 -1345 4324
+92 46524 1744042426. 237721 2514 85. 1376227565188 2100 2620 -3134 。 (10044 1 1 96 0 -1372 4326
+93 46525 1744042727. 225941 2538 85. 94649508973924 2100 2618 3157 10044 1 1 97 0 -1396 4327
+94 46526 1744043028. 231989 2558 86. 62377243481205 2100 2617-3177, 10044 1 1 97 0 -1416 4328
+95 46527 1744043323. 22608 2575 87. 9945817812395 2100 2615 -3194 10044 1 1 98 0 -1433 4329
+96 46528 1744043624. 233887 2590 87. 70741618692854 2100 2614 -3209 10044 1 1 99 0 -1448 4330
+97 46529 1744043925. 231207 2603 88. 14764646122588 2100 2614-3223 10044 1 1 99 0 -1461 4331
+7 14 1 1 7
+99 46531 1744044608. 229806 T314256089 2605 3047 0 T 0 100 I T85 4307
+100 46532: 1744045186. 307166 2628 88. 9942431425689 2605 = -3247 «10044 1 0 100 1 -1486 4297
+101 46533: 1744045438. 227397 2628 88. 9424314256689 2605 -3247 «10044 1 0 100 1 486 4295
+102 46534 1744046025. 2710419 2628 88. 9424314256689 2605 -3247 10044 1 0 100 1 -1486 4292
+103 46535 1744046219. 2357202 2628 88. 99424314256689 2605 -3247 10044 1 0 100 1 -1486 4291

@@ -1,0 +1,27 @@
+# OCR: b21544f93476231f78a21cee20fc8643.webp
+# 来源: .\02-WriteUp\2025\b21544f93476231f78a21cee20fc8643.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+static - enerypePath(/ e info */) ¢
+J * addr: Ox370ad0, size: 0x160
+1 0x370ad0: EnterFrane
+W 0x370ad0: stp fp, Ir, [SP, #-Ox10]!
+川 0x370a04: mov fp, SP
+1 @x370ac8: ALlocStack (0x78)
+川 0x370a08: sub SP, SP, 0x78
+1/ Ox27eadc: SetupParameters (dynamic - / r1 => 62, fP-Ox50 */)
+川 0x370ade: mov 2, x1
+川 0x3703e0: stur x1, [fP, #-0x50]
+/ eereset: CheckStackOverflow
+W 0x370ae4: 1dr x16, [THR, #0x38] ; THR?:stack_limit
+川 @x370308: cnp SP, x16
+川 ox370zec: b.1s #0x370¢28
+) eereate: re = Encrypter()
+I 0x370af0: bl #0x370ebc ; AllocateEncrypterStub -> Encrypter (size=0xc)
+W oxaT0aF4: stur x0, [FP, #-0%58]
+) 0x370a*8: ro = 颖 国 0
+川 ox370af@: bL #0x370e00 ; AllocateSSISaz0stub -> 国 国 国 (size=ox10)
+川 eafci stur x0, [fp, #-0x60]
+|} 0x370b00: rg = InitLateStaticField(@xc20) // [package:liekai/encryption_utils.dart] EncryptionU
+i coe ie Fn 俊 HH

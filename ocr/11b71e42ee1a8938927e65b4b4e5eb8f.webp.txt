@@ -1,0 +1,14 @@
+# OCR: 11b71e42ee1a8938927e65b4b4e5eb8f.webp
+# 来源: .\02-WriteUp\2025\11b71e42ee1a8938927e65b4b4e5eb8f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+Peg 1 计 算 机 检 材 E01 > © Chrome 浏 览 器 属 保 存 的 密 码
+刀 一 序 号 | 三 登 录 URL
+世 账 号
+世 密 码
+1 https://bilibili.com/ 11451419198 Doloris@1314
+2 https://douyin.com/ 11451419198 Doloris@0520
+3 https://doubao.com/ 11451419198 Doloris@6666
+4 https://steampowered.com/ 11451419198
+Doloris@9999

@@ -1,0 +1,21 @@
+# OCR: f9a615f55c48a3216bba93cf8b33d30b.jpg
+# 来源: .\02-WriteUp\2024\f9a615f55c48a3216bba93cf8b33d30b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+Ejoshst © l
+T ipconfig
+2 whoami
+3 ipconfig | findstr /i "ipv4"
+4 net user
+S exit
+6 REG QUERY "HKEY_LOCAL MACHINE\SYSTEM\CurrentControlset\Control\Terminal Server\WinStations\RDP-Tep" /V PortNumber
+7 dir /a/b/s D:\web\*.asp
+8 wmic logicaldisk get name
+3 c:\inetpub\wwwroot
+10 dir c:\inetpub\wwwroot /AD
+11 dir C:\inetpub\wwwroot\aspnet_clinet /AD
+22 Get-Childitem -path c:\ -Filter *.asp -Recurse | Select-Object -Property DizectoryName, Name
+13 dir C:\*.asp /s /P /B
+24 type C:\Server\WebSits\admin\shell.aspx
+15 exit

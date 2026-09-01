@@ -1,0 +1,56 @@
+# OCR: 800bbd80f35726bed325083115d98daa.webp
+# 来源: .\02-WriteUp\2024\800bbd80f35726bed325083115d98daa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+Get / 邢 颊 咏 .php HTTP/1.1
+Host: 192.168.209.147
+user-agent: Mozilla/5.@ (Windows NT 10.0; Min64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+accept: */*
+Connection: keep-alive
+accept-rncoding:
+*
+keep-alive: timeout=15, max=1000
+cache-control: maX-age=6
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, @5 Aug 2024 08:16:30 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Content-Encoding: gzip
+<br />
+<b>Warning</b>:
+<br />
+<b>Warning</b>:
+2</b><br />
+<br />
+<b>Warning</b>:
+<br />
+<b>Warning</b>:
+3</b><br />
+<br />
+<b>Warning</b>:
+<br />
+<b>Warning</b>:
+4</b><br />
+Undefined
+Trying to
+Undefined
+Trying to
+Undefined
+Trying to
+array key "file" in
+access array offset
+array key "file" in
+access array offset
+array key "file" in
+access array offset
+<b>/www/wwwroot/192.168.209.147/up_load.php</b> on line <b>2</b><br />
+on value of type null in <b>/www/wwwroot/192.168.209.147/up_load.php</b> on line <b>
+<b>/www/wwwroot/192.168.209.147/up_load.php</b> on line <b>3</b><br />
+on value of type null in <b>/www/wwwroot/192.168.209.147/up_load.php</b> on line <b>
+<b>/www/wwwroot/192.168.209.147/up_load.php</b> on line <b>4</b><br />
+on value of type null in <b>/www/wwwroot/192.168.209.147/up_load.php</b> on line <b>

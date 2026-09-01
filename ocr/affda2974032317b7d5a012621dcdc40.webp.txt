@@ -1,0 +1,13 @@
+# OCR: affda2974032317b7d5a012621dcdc40.webp
+# 来源: .\02-WriteUp\2025\affda2974032317b7d5a012621dcdc40.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+SELECT COUNT(DISTINCT a. 证 件 号 码 ) AS target_persons
+FROM ldzs a
+JOIN ldzs b
+ON a 证 件 号 码 = b, 证 件 号 码
+AND DATEDIFF(b. 入 住 时 间 , a. ACERT IA) = 1 -- 后 一 条 记 录 比 前 一 条 晚 1
+AND a 旅 店 编 码 <> b, 旅 店 编 码 - 入 住 不 同 酒 店
+WHERE YEAR(a: 入 住 时 间 ) IN (2024, 2025)
+AND YEAR(b. 入 住 时 间 ) IN (2024, 2025); -- 确 保 两 条 记 录 都 在 目 标 年 份 内

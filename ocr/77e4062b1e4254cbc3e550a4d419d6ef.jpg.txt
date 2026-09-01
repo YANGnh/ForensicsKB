@@ -1,0 +1,49 @@
+# OCR: 77e4062b1e4254cbc3e550a4d419d6ef.jpg
+# 来源: .\02-WriteUp\2024\77e4062b1e4254cbc3e550a4d419d6ef.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+A X +
+[rootetocalhost /]# bt
+Jonng/serverjpanet/teols_py:78: SyntaxWarning- invalid escape sequence “\c「
+nysql_dir = '''#!/bin/bash
+/wwu/server/panel/ tools .py:582- SyntaxWarning: invalid escape sequence '\w'
+rep = “AT \w@\__]+$"
+aaPanel CLI
+(4) Restart panel (8) Change panel port
+(2) Stop panel (8) Clear panel cache
+(3) Start panel (48) Clear login Limit
+(4) Reload panel (41) Cancel entrance Limit
+(5) Change panel password (12) Cancel domain binding Limtt
+(6) Change panel usernane (13) Cacel IP access Limit
+(7) Forcibly change MySQL root password (14) View panel default info
+(22) Display panel error log (15) Clear system rubbish
+(23) Turn off Bastchuth authentication (46) Repair panel (check for errors and update panel files to the latest version)
+(24) Turn off Google Authenticator 47) Set log cutting on/off conpresston
+(25) Set whether to save a historical copy of the file (18) Set whether to back up the panel automatically
+(26) Keep/Renove local backup when backing up to cloud storage
+(8) Cancel
+Pls enter command number: 14
+EXECUTING
+curl: (28) Resolving timed out after 16000 milliseconds
+aaPanel default tnfo
+aaPanel Internet Address: https: //-32137/ba2ba7f1
+aaPanel Internal Address: https-//192.168.217.188-32137/ba2ba7f1
+/wau/server/panel/tools_py-78: SyntaxHarning: invalid escape sequence '\c'
+nysql_dir = '''#!/bin/bash
+/wwu/server/panel/toolspy:582- SyntaxWarning: invalid escape sequence W
+rep = "[\w@\._]+$"
+username: haz99wzt
+password: h
+Warning
+If you cannot access the panel,
+release the following port (8888|888/8@|443|20|21) in the security group
+[root@localhost /]# bt 5
+/wwu/server/panel/tools_py:78: SyntaxWarning: invalid escape sequence '\c'
+nysql_dir = '''#!/bin/bash
+Jwwu/server/panel/ tools py-582- SyntaxWarntng: invalid escape sequence '\w'
+rep = "A[\w@\__]+$”
+EXECUTING
+Pls enter new password: 123456
+1-Usernane: haz99wzt
+|-New password: 123456

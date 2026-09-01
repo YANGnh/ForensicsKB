@@ -1,0 +1,14 @@
+# OCR: 1ec144f5d642151509aa467983ac723e.webp
+# 来源: .\02-WriteUp\2025\1ec144f5d642151509aa467983ac723e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+SUBROUTIN
+40 public get_flag
+740 get_flag proc near 5 DATA xt
+749 ; unwind (
+LOAD:000000000000071810
+lea ri, s 5 "flagi{hongi12233}
+担 _strdup
+3 / starts at 1740
+get_flagi endp

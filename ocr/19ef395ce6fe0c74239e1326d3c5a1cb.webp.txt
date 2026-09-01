@@ -1,0 +1,18 @@
+# OCR: 19ef395ce6fe0c74239e1326d3c5a1cb.webp
+# 来源: .\02-WriteUp\2024\19ef395ce6fe0c74239e1326d3c5a1cb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+@Component
+厂 loaded from: cal-0.0.1-SNAPSHOT. jar:B00T-INF/cLasses/com/rh/cal/task/MobileStatusTask. cla
+| public class MobilestatusTask 《
+private static final Logger log = LoggerFactory.getLogger((Class<?>) NobileStatusTask. cl.
+@utowired
+private UserService userService;
+2 public void scheduled() {
+3 log-info("HATERES” + Datevtil.formatTime(new Date()))3
+try {
+this .userService.uptinobilestatus()s
+) catch (Exception g 〈
+7 Ingerrer( 宣 佳 朐 奂 故 : ()", (Throwable) e);
+)

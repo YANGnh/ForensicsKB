@@ -1,0 +1,31 @@
+# OCR: 989c3bdcb35ea10ff7378511ac5eccac.webp
+# 来源: .\02-WriteUp\2025\989c3bdcb35ea10ff7378511ac5eccac.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+@ Wireshark. 3823 HTTP 3 (tcp.stream eq 7)  testpeap
+POST /api/auth/login HTTP/1.1
+Authorization: Bearer {eyJhbGci0iJIUZTINiIsInR5cC1
+NTExfQ.2G0_YmNaVw4l.cfVA46dG709a_Lhg3jScvV1H_zquVx!
+Content-Type: application/json
+User-Agent: PostmanRuntime/7.43.2
+Accept: */*
+Postman-Token: 60f17033-93f9-4700-bb8b-be8afb94ee:
+Host: api-server.com
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 65
+{
+“username「
+“password”
+"admin",
+“zhaohong655“
+]
+HTTP/1.1 200 OK
+Server: nginx/1.27.4
+Date: Tue, @8 Apr 2025 05:16:14 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 256
+Connection: keep-alive
+Content-Security-Policy: default-src ‘self’ ;base-t
+rc ‘self’ data:;object-src ‘none';script-src “sel

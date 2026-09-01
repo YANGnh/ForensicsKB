@@ -1,0 +1,10 @@
+# OCR: 1b8ff277ed8558d0ec8a51265ba2b3e6.jpg
+# 来源: .\02-WriteUp\2024\1b8ff277ed8558d0ec8a51265ba2b3e6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+[root@yourcode tmp]# bt 5
+请 犍
+|- 用 户 动 : 3omihxmd
+] - 新 密 码 : 123456
+[root@yourcode tmp]# |

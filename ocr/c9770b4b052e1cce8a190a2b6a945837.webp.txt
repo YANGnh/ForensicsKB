@@ -1,0 +1,17 @@
+# OCR: c9770b4b052e1cce8a190a2b6a945837.webp
+# 来源: .\02-WriteUp\2024\c9770b4b052e1cce8a190a2b6a945837.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+select sum(money)
+from app_card
+Where company in
+(select a.company
+from (select company, count(1) AS
+量 fron app_card group by company order by f
+量 desc limit 10) a)
+and substr(card_no, 1, 1) = '4'
+回 输 8 。 团 summoneyytext x
+圆 x 〈 s 、> ; 乙 @ 目 , 8# a 圆
+团 “son(noney) “ 卯 +
+21701599. 630000096

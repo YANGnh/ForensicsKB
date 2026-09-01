@@ -1,0 +1,6 @@
+# OCR: df4f9c8ed44958421b9d74718486269f.webp
+# 来源: .\02-WriteUp\2025\df4f9c8ed44958421b9d74718486269f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+ID: 未 获 得 用 户 ID 内 部 ID: wxid fs0jmpvrc522 ;17859628390 i: KEE

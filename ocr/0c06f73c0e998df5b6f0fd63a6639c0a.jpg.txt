@@ -1,0 +1,41 @@
+# OCR: 0c06f73c0e998df5b6f0fd63a6639c0a.jpg
+# 来源: .\02-WriteUp\2024\0c06f73c0e998df5b6f0fd63a6639c0a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+a
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+a
+a
+Other Expense
+Outgoing transfer
+feet
+E
+Pay Interest
+Te
+E
+E
+Other Income
+Incoming transfer
+Collect Interest
+loioro
+ic category other_expens
+icon 142
+ic_category loan
+icon 141
+icon 4
+ic category salary
+ic category debt
+icon.140
+ic category other income
+icon 143
+ic category interestnone ET

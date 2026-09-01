@@ -1,0 +1,25 @@
+# OCR: 4874848dbfbe83d240647d5f01f78356.jpg
+# 来源: .\02-WriteUp\2024\4874848dbfbe83d240647d5f01f78356.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+M + 5
+[root@study ~]# docker ps
+CONTAINER ID IMAGE COMMAND CREATED STATUS PORTS
+NAMES
+643626ab3d8b _matternmost/mattermost-preview "/bin/sh -c -/docker_" 2 weeks ago Up 15 minutes 5432/tcp, 0.0.0.
+>8065/tcp _mattermost-preview
+[root@study ~]# netstat -anpt
+Active Internet connections (servers and established)
+:8865->8065/tcp, =
+=8065-
+Proto Recv-Q Send-Q Local Address Foreign Address State PID/Program name
+tcp 8 9 0.6.6.9:22 0.9.6.0:* LISTEN 3503/sshd
+tep 9 @ 121.8.8.4.25 8.0.8 LISTEN 1351/master
+tep 8 9 0.9.6.0:8065 6.0.0 LISTEN 1782/docker -proxy
+tcp 9 1 192.168.137.3:22 192.168.137.1:44890 UsrhQt
+tcp 936 192.168. 137.3:22 192.168.137.1-45269 ESTABLISHED 3773/sshd: root@pts
+tcp6 e LISTEN 3503/sshd
+tcp6 9 LISTEN 1351/master
+tcp6 6 LISTEN 1788/docker-proxy
+[root@study ~]# D

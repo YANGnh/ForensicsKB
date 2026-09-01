@@ -1,0 +1,6 @@
+# OCR: c59f43d2f9e0d8150a2fb811ff8548f6.webp
+# 来源: .\02-WriteUp\2024\c59f43d2f9e0d8150a2fb811ff8548f6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+# 结果: 无可用文本（tesseract 未识别到文字）

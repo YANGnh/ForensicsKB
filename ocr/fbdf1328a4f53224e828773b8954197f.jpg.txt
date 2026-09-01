@@ -1,0 +1,70 @@
+# OCR: fbdf1328a4f53224e828773b8954197f.jpg
+# 来源: .\02-WriteUp\2024\fbdf1328a4f53224e828773b8954197f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+jesse >
+USBRSISS
+口 1
+口 2
+口 3
+口 4
+口 5
+口 5
+口 7
+口 8
+口
+O10
+mu
+por T
+Samsung Portable SSD TS USB Device
+WD Elements SE SSD SCSI Disk Device
+Bluetooth Device (Personal Area Net...
+VMware Virtual USB Hub
+VMware Virtual USB Hub
+Samsung PSSD T7 USB Device
+Samsung Portable SSD TS SCSI Disk...
+@System32\drivers\usbxhcisys.#10...
+VMware Virtual USB Mouse
+VMware Virtual USB Hub
+Pixel
+= hema
+E
+Siem:
+Bier:
+Siem:
+Siem:
+Siem:
+Siem:
+Siem:
+Siem:
+Siem:
+Siem:
+E
+T
+Samsung Portable SSD T5 USB Device, Samsun...
+WD Elements SE SSD SCSI Disk Device, Element...
+Bluetooth Device (Personal Area Network)
+Generic USB Hub
+Generic USB Hub
+Samsung PSSD 17 USB Device, HBB; Sein: .
+Samsung Portable SSD TS SCSI Disk Device, Sa...
+@System32\drivers\usbxhci.sys,#1073807361:%...
+USB Composite Device
+Generic USB Hub
+ADB Interface
+Ress
+训 达
+007018654321
+2335NM400370
+007018654321
+FAGA80312283
+Net
+Unk
+Unk
+Stor
+Stor
+Unk
+Inp
+Unk
+Con

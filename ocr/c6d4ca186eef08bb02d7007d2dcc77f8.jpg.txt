@@ -1,0 +1,24 @@
+# OCR: c6d4ca186eef08bb02d7007d2dcc77f8.jpg
+# 来源: .\02-WriteUp\2024\c6d4ca186eef08bb02d7007d2dcc77f8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+(Md Wireshark - 3883 HTTP i (tep.stream eq 141) tepdump ticap - ag x
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, @4 Mar 2022 07:17:53 GMT
+Content-Type: text/html; charset-UTF-8
+‘Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Content-Encoding: gzip
+c7#5barchive: goon2_lin.zip
+inflating: goon2_lin
+of7dd
+Zu /yweur oot /wew. tpshop.com/application
+dea75af743i5s, |
+Jecaai6agt9
+BE 85M, 1 EASE, ORB SE, 0 turn
+ASE (342 bytes) Show data as 0 司 符 [ 宁
+BR Brew) |
+mai | [Am E3 E 2

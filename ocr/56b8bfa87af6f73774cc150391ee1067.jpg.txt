@@ -1,0 +1,19 @@
+# OCR: 56b8bfa87af6f73774cc150391ee1067.jpg
+# 来源: .\02-WriteUp\2024\56b8bfa87af6f73774cc150391ee1067.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+RS
+E
+E
+H
+E
+ane
+Openwrt
+\vMwere, Inc. VMware Virtual Platform
+aaa
+a
+=m
+么
+匹 又
+0.00, 0.00, 0.00

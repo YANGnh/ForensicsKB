@@ -1,0 +1,26 @@
+# OCR: ee12f21226de4776345d5f0d2b63fe5c.jpg
+# 来源: .\02-WriteUp\2024\ee12f21226de4776345d5f0d2b63fe5c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+ERS
+Host accepted by detault (no veritication)
+Host accepted (verified)
+‘Outbound: Sending NEWKEYS
+Inbound: NEWKEYS
+Verifying signature ..
+Verified signature
+Handshake completed
+‘Outbound: Sending SERVICE REQUEST (ssh-userauth)
+Inbound: Received EXT_INFO
+Inbound: Received SERVICE_ACCEPT (ssh-userauth)
+‘Outbound: Sending USERAUTH_REQUEST (none)
+Inbound: Received USERAUTH FAILURE (publickey,password)
+lent: none auth failed
+‘Outbound: Sending USERAUTH_ REQUEST (password)
+Inbound: Received USERAUTH_ FAILURE (publickey,password)
+Client: password auth failed
+‘Outbound: Sending USERAUTH_REQUEST (keyboard-interactive)
+Inbound: Received USERAUTH FAILURE (publickey,password)
+Client: keyboard-interactive auth failed
+All configured authentication methods failed

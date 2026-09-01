@@ -1,0 +1,9 @@
+# OCR: 1f86807ceafb8fd1bda40dd16bb2d86c.jpg
+# 来源: .\02-WriteUp\2024\1f86807ceafb8fd1bda40dd16bb2d86c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+刹 axatsy, CONavicat > 国 a
+目 一 88 =eez E E E E = ARS E
+1 卫 1 vite 卫 pie ve E 卫 E
+口 1 mem MySQL 192.168.137.125, 3306 root root

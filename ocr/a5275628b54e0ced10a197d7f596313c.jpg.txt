@@ -1,0 +1,28 @@
+# OCR: a5275628b54e0ced10a197d7f596313c.jpg
+# 来源: .\02-WriteUp\2024\a5275628b54e0ced10a197d7f596313c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+fastcgi.impersonate
+fastegi.logging
+disable functions| M 人 v xX
+PHP Version
+5.6.27
+allow_url_fopen On On
+allow_url include of Off
+always populate raw post data 0 0
+arg_separator.input & &
+arg_separator.output & &
+asp_tags Of Off
+auto_append file no value no value
+auto_globals jit On On
+auto_prepend file
+browscap no value
+default_charset UTF-8
+default_mimetype text/html text/html
+disable_classes
+disable functions system, passthru, exec, shell_exec, popen, escapeshell system, passthru, exec, shell_exec, popen, escapeshell
+ee > emmmmmmmmmmmmmmmmme 0
+display errors On On
+display startup_errors On
+doc_root oe

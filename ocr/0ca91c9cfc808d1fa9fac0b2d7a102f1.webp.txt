@@ -1,0 +1,54 @@
+# OCR: 0ca91c9cfc808d1fa9fac0b2d7a102f1.webp
+# 来源: .\02-WriteUp\2024\0ca91c9cfc808d1fa9fac0b2d7a102f1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+# root @ d in /home [20:
+s docker images
+REPOSITORY
+mcr microsoft.com/mssql/server
+nginx
+redts
+mysql
+httpd
+nongo
+php
+TAG
+2019-latest
+latest
+latest
+5.7
+latest
+latest
+7
+f
+IMAGE ID
+4fbbec6f60b4
+605c77e624dd
+7614ae9453d1
+<20987F18b13
+dabbfbeec57b
+dfda7apcf273
+28f52b60203d
+CREATED
+WNNNNNW
+months ago
+years
+years
+years
+years
+years
+years
+ago
+ago
+ago
+ago
+ago
+ago
+SIZE
+1.47GB
+141MB
+113MB
+144MB
+693MB
+398MB

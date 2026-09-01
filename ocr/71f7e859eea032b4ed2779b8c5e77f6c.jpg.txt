@@ -1,0 +1,11 @@
+# OCR: 71f7e859eea032b4ed2779b8c5e77f6c.jpg
+# 来源: .\02-WriteUp\2024\71f7e859eea032b4ed2779b8c5e77f6c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+[rootelocalhost -]# find / -name CobaltStrike*
+/home/CobaltStrike4.4.zip
+/home/CobaltStrike
+/hone/CobaltStrike/CNA/Aggressor-master /Aggressor-master /CobaltStrike.gif
+/hone/CobaltStrike/CNA/RedTeamTools-master /windows/yara/CobaltStrike.yara
+[rootetocathost ~]# []

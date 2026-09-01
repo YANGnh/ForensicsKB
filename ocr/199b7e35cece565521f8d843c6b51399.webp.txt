@@ -1,0 +1,14 @@
+# OCR: 199b7e35cece565521f8d843c6b51399.webp
+# 来源: .\02-WriteUp\2025\199b7e35cece565521f8d843c6b51399.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+NoahTie@LAPTOP-H91IARRE C/h/1/# /s/e/8/1/r/2025-05-89-19-29-40-844-user_0
+> adb devices
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+List of devices attached
+a8c785da device
+NoahTie@LAPTOP-H91IARRE C/h/1/# /s/e/0/1/r/2025-05-09-10-29-40-844-user_0
+> adb install .\base.apk
+Performing Streamed Install

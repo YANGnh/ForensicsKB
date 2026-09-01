@@ -1,0 +1,9 @@
+# OCR: 3a9ac32837b3de0ef92a006d497e1cbf.jpg
+# 来源: .\02-WriteUp\2024\3a9ac32837b3de0ef92a006d497e1cbf.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+root@locathost /]# find / -name alist
+er pause
+alist
+[rectalbeathost ned

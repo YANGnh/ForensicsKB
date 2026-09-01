@@ -1,0 +1,15 @@
+# OCR: 046bfdc4dab6066acf74bb6b37ca4acc.jpg
+# 来源: .\02-WriteUp\2024\046bfdc4dab6066acf74bb6b37ca4acc.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+Mounts": 【
+《
+volume”,
+ytime-kuma",
+/var/1ib/docker/volunes/uptime-kuma/_data"
+"Destination"- "/app/data".
+“Driver"- "Local",
+"Mod
+"RW": true,
+"Propagation" -

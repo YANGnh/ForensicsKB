@@ -1,0 +1,61 @@
+# OCR: db8c8c4b935f8f43c0d5b5806dc62419.webp
+# 来源: .\02-WriteUp\2025\db8c8c4b935f8f43c0d5b5806dc62419.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+23
+24
+25
+26
+27
+28
+29
+E
+BL
+32
+33
+34
+35
+36
+37
+38
+39
+40
+aL
+42
+43
+45
+0
+47
+48
+49
+uiuttm n
+CHAR FileName[272]; // [rsp+17%h] [rbp+70h] s
+_BYTE Buffer[4996]; // [rsp+280h] [rbp+1a0h] BYR:
+na snene( ite, i 标
+6A = CreateFilea(IpFileni
+leas
+(HANDLE)-2LL )
+sub_180@@1D80((int)&unk_180225A8, IpFilellame);
+return @LL;
+]
+news
+SetFilePointer(Filea_1, 8 @LL, FILE BEGIN);
+20
+SetFilePointer(Filea, @, @LL, FILE_END);
+if ( nex!
+return @LL;
+hobject = CreateFilea(
+if (hObject == (HANDLE)-ILL )
+《
+20 > @xSF5EI00 )
+sub_18001D80((int)&unk_180225C@, Filellane);
+CloseHandle(FileA_1)5
+return @LL;
++
+else
+while ( ReadFile(Filea 1, Buffer, @x1000u, &NumberofBytesRead, LL) )
+《 鲍 公 众 号 . 小 谢 取 证
+NumberofBytesRead_1 = NumberOfBytesRead;
+“READ, 6, OL, OPEN EXISTING, FILE_READ ATTRIBUTES, OLL);
+Leliame, GENERIC WRITE, @, @LL, CREATE ALWAYS, FILE_READ ATTRIBUTES, @LL);

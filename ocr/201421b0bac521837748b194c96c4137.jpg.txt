@@ -1,0 +1,13 @@
+# OCR: 201421b0bac521837748b194c96c4137.jpg
+# 来源: .\02-WriteUp\2024\201421b0bac521837748b194c96c4137.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+FE MobaXterm te
+(CAUsers\Luck\Desktop
+1.53 KB (1,575 $7)
+4.00 KB (4,096 $75)
+20248631118, 19:00:14
+20248631118, 19:00:14
+202445BI8B, 10:53:30
+ORR) CH)

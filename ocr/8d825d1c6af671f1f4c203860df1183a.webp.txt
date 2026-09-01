@@ -1,0 +1,42 @@
+# OCR: 8d825d1c6af671f1f4c203860df1183a.webp
+# 来源: .\02-WriteUp\2024\8d825d1c6af671f1f4c203860df1183a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+O XRAOWfTR OOO
+@ art, san
+audiodg.exe(4344) 3
+suchost.exe(5640) 3
+svchost exe(8672) 3
+MiniSearchHostexe(8348) 3
++eaeepanm 3
+E 1
+E 5
+E 40
+‘conhost.exe(5796) 3
+E 3
+WindowsTerminalexe(@476) 3
+RuntimeBroker.exe(6388) 3
+cemdexe(2444) 3
+WeChat.exe(9832) 3
+mmecrashpad handler64exe(... 3
+KERNEL32.DLL
+KERNELBASE.ll
+sechost.l
+Path
+CAUsers\Administrator\Desktop
+\sleexe
+‘CAWindows\System32\KERNEL3
+2
+‘CAWindows\System32\KERNELBA
+sEan
+‘CAWindows\System32\sechost.all
+2179072
+794624
+ori74a
+LoadTime
+2024-05-23 06:37:47
+2024-05-23 06:37:47
+2024-05-23 06:37:47
+2024-05-23 06:37:47
+2024-05-23 06:38:20

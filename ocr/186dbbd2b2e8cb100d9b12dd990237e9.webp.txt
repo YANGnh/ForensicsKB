@@ -1,0 +1,94 @@
+# OCR: 186dbbd2b2e8cb100d9b12dd990237e9.webp
+# 来源: .\02-WriteUp\2026\186dbbd2b2e8cb100d9b12dd990237e9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+町
+团 目 《 | 益
+ae
+File Config View ‘Tools Help
+BasicAnalyzer
+a BaseInfo
+a Certificate
+a ALLAPIS
+a AllStrings
+a AppStrings
+a Alluris
+a AndroidManifest
+a MalScan
+a Resources
+DexClass
+田 r
+固 android. support .v4
+日 国 pp
+© @ Iotificationsidecrennel
+@ cancel (String, int String): vole
+@ cancelall (string) :void
+© notify(String, int, String,Noti:
+四 @ InotificationSideChannelsstub
+@ @ Wotificstionsieecrernelsstubspr
+@ @ RemoteactionCompatParcelizer
+@ @& graphics.drawable
+@ Bos
+{8 androidtranscoder
+申 图 engine
+@ @ format
+@ @ utils
+@ @ Mediatranscoder
+申 @ Mediatranscoder$1
+@ @ Mediatranscoders$2
+@ @ Mediatranscoders3
+日 @ Mediatranscoders4
+申 @ Mediatranscodersasi
+@ @ Mediatranscoders4s1si
+日 @ Mediatranscoder$4$2
+@ @ Mediatranscoderstistener
+用 @ Videocompressor
+5 M _C F | 目 千 吵 靥 四 日 | 水
+4 index
+GDA4.02(Free Edition)
+package declare
+[File Base Info]
+File Wss: C:\Users\NEKON\Desktop\ LU 3e\ ts 82\ #244 \ 8) APKC (#\uni .owry.apk
+Package Name: uni.owry
+Main Activity: io.dcloud.Pandoraéntry
+File Size: 21184244 bytes
+MDS: cSea689ea806ed2318bccbbc2cbaS198
+Packed: Not Packed
+Min SOK. 19
+Target SOK: 28
+DCLOUD_APP_DEFAULT_LANGUAGE
+DCLOUD_DARK_MODE: — auto
+DCLOUD_STREAMAPP_CHANNEL :
+android.notch_support :
+notch. config: portrait
+auto
+uni .owry|__UNI__7¢B999B | 126691230302 | common
+true
+‘android. support .FILE_PROVIDER_PATHS:
+@resource
+[DEX Base Info]
+Dex File Name: classes.dex
+File Size: 9329828 bytes
+#5d37adc f402de23808e8068b4293882
+7843
+: 65487
+String Size: 68846
+Dex File Name: classes2.dex
+File Size: 1001608 bytes
+2193362589F0da4c483addeFebd46cda
+659
+6167
+String Size: 9680
+[Permissions]
+android. permission. INTERNET
+android. permission.WRITE_EXTERNAL_STORAGE
+android. permission.ACCESS_NETWORK_STATE
+\droid.permission.ACCESS_WIFI_STATE
+android. permission. INSTALL_PACKAGES
+android. permission. REQUEST_INSTALL_PACKAGES
+android. permission.CHANGE_NETWORK_STATE
+android. permission. MOUNT_UNMOUNT_FILESYSTEMS
+android. permission. VIBRATE
+android-nrraiseion.8fn 0
+标 | 园 Se 职 00| 的 的 李 Bl? sxe

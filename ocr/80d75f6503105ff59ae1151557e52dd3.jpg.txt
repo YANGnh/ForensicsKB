@@ -1,0 +1,53 @@
+# OCR: 80d75f6503105ff59ae1151557e52dd3.jpg
+# 来源: .\02-WriteUp\2024\80d75f6503105ff59ae1151557e52dd3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+> idea
+> app
+> bootstrap
+> config
+© database
+> factories
+> seeds
+va
+E
+> pubic
+> resources
+> routes
+> storage
+> tests
+E
+E 河
+197
+297
+208
+E
+5
+E
+212
+E
+ma
+as
+216
+27
+ne
+219
+220
+zm
+5
+CREATE TABLE “admin_users” (
+‘UNIQUE KEY “admin Users_usernane_unique” (Cusernane”)
+) ENGINE-Tnn008 AUTO _INCREMENT=2 DEFAULT CHARSET-utfanb4 COLLATE<utf8nb4_unicode_ci;
+Records of admin_usees
+‘BEGINS
+INSERT INTO “admin_users* VALUES (2, un
+*AUAXF2HEWIELITr-2aGmukvSOKiexqRF EG JONAH
+comer
+Table structure for carmis
+[DROP TABLE IF EXISTS “carmis”
+CREATE TAOLE an 自
+poopiionimage
+Jnooomenmmzmnmzomon
+r s
+‘Administrator’, NULL,

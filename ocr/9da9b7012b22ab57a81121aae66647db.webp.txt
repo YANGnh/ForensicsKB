@@ -1,0 +1,7 @@
+# OCR: 9da9b7012b22ab57a81121aae66647db.webp
+# 来源: .\02-WriteUp\2025\9da9b7012b22ab57a81121aae66647db.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+G:\ 20258 BERR export\download.ra\ SESE
+ifacetjpg RE

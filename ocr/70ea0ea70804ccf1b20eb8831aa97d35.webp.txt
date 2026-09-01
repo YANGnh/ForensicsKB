@@ -1,0 +1,20 @@
+# OCR: 70ea0ea70804ccf1b20eb8831aa97d35.webp
+# 来源: .\02-WriteUp\2025\70ea0ea70804ccf1b20eb8831aa97d35.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+def encrypt_file(self, input_file, output_t
+if not output_file:
+| output_file = input_file + [enc
+tr
+cipher = AES.new(key=self.enhanced_key, mode=AES.MODE_CBC)
+i cipher.iv
+with open(file=input_file, mode="rb") as
+file_data = f.read()
+padded_data = self.pad_data(date-file_data)
+encrypted_data = cipher encrypt (plaintext=padded_data)
+with open(file=output_file, mode='wb') as f:
+£.write(iv + encrypted_data)
+return (True, output_file)
+except Exception as e:
+return (False, str(object=e))

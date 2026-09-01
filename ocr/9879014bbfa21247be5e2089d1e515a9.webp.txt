@@ -1,0 +1,20 @@
+# OCR: 9879014bbfa21247be5e2089d1e515a9.webp
+# 来源: .\02-WriteUp\2025\9879014bbfa21247be5e2089d1e515a9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+Root Zone Records
+Ds 37231 13 2 e0f330ac9dc23allcbf49db04310c3d2fd60d95d26acd0fc4b3cda201b172377
+nst
+Ns 45.79.133.98
+ns2
+g 45.79.133.98
+4
+Bid History
+Date Amount Lockup
+200.00HNS
+06 Aug 31, 2022 200.00HNS
+000HNS Blind
+、
+Status
+(CONFIRMED

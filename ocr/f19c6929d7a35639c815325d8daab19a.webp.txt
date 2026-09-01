@@ -1,0 +1,69 @@
+# OCR: f19c6929d7a35639c815325d8daab19a.webp
+# 来源: .\02-WriteUp\2024\f19c6929d7a35639c815325d8daab19a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+暗 Androidhanifestcxml 一
+package="ahmyth.mine.king
+yth”
+platformBuildversionCode="23"
+platformBuildversionName="6.@-2438415">
+<uses-sdk
+android: minSdkVersion:
+16"
+android: targetSdkVersion="22"/>
+<uses-feature androidina
+<uses-feature android:name="android.hardware.camer:
+<uses-permission android
+<uses-permission android
+<uses-permission android
+<uses-permission android
+<uses-permission android
+<uses-permission android
+<uses-permission android
+<uses-permission android
+<uses-permission android
+<uses-permission android:
+<uses-permission
+<uses-permission
+<uses-permission
+<uses-permission
+<uses-permission android
+<uses-permission android:
+<uses-permission android
+<uses-permission android:
+<uses-permission android
+<uses-permission android:
+<uses-permission android
+<uses-permission android:
+<uses-permission android
+<uses-permission android:
+<uses-permission android
+<application
+e="android.hardware.camera"/>
+autofocus"/>
+name="android.permission.WAKE_LOCK"/>
+name="android.permission.CAMERA"/>
+name="android.permission.READ_EXTERNAL_STORAGE"/>
+name="android. permission.WRITE_EXTERNAL_STORAGE"/>
+name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+name="android.permission.WRITE_SETTINGS"/>
+name="android.permission.WRITE_SECURE_SETTINGS"/>
+name="android. permission. INTERNET"/>
+name="android. permission. ACCESS_NETWORK_STATE"/>
+name="android.permission.READ_SMS"/>
+‘android. permission.SEND_SMS"/>
+‘android. permission. RECEIVE_SMS"/>
+‘android. permission.WRITE_SMS"/>
+‘android. permission.RECEIVE_BOOT_COMPLETED"/>
+name="android.permission.READ_PHONE_STATE"/>
+name="android.permission.READ_CALL_LOG"/>
+name="android.permission.PROCESS_OUTGOING_CALLS"/>
+name="android. permission. READ_CONTACTS"/>
+name="android. permission. RECORD_AUDIO"/>
+name="android. permission. MODIFY_AUDIO_SETTINGS"/>
+name="android. permission. ACCESS_FINE_LOCATION"/>
+name="android.permission.READ_CALENDAR"/>
+name="android.permission.ACCESS_COARSE_LOCATION"/>
+name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+name="android. permission. REQUEST_IGNORE_BATTERY_OPTIMISATIONS"/>

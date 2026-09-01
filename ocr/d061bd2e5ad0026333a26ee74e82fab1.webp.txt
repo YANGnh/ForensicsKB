@@ -1,0 +1,16 @@
+# OCR: d061bd2e5ad0026333a26ee74e82fab1.webp
+# 来源: .\02-WriteUp\2025\d061bd2e5ad0026333a26ee74e82fab1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+罚 pcEo1, 团 & , @ 用 p 庭
+t = em 世 用 户 夷 坤 = 最 名 瑞 录 趸 闭 世 最 吊 弯 录 央 贾 间 世 摄 厉 恺 改 应 园 财 间
+E vy [ )V (ga) ee 17 8 ee lv | ae ) 17
+1 Administrator 本 H 户
+2 Guest 本 圭 贻 户
+3 DefaultAccount 本 H 户
+WDAGUtilityAccount Z7MKP 2025-05-16 15:14:21
+2025-05-20 17:59:31 2025-05-20 15:10:04 2025-05-16 15:18:38
+6 SYSTEM 本 地 账 户
+7 LocalService 本 地 贯 户
+8 NetworlSeice 本 地 账 户

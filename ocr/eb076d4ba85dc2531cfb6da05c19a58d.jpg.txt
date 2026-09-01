@@ -1,0 +1,14 @@
+# OCR: eb076d4ba85dc2531cfb6da05c19a58d.jpg
+# 来源: .\02-WriteUp\2024\eb076d4ba85dc2531cfb6da05c19a58d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+[rooteserver /]# ls -al /data/backup/
+total 264
+drwxr-xr-x 4 root root 4096 Feb 17 2023
+drwxr-xr-x 5 root root 4096 Apr 25 10:57
+drwxr-xr-x 2 root root 4096 Feb 17 2023 database
+-rw-r--r-- 1 root root 6 Feb 17 2023 shop1.sql
+-rw-r--r-- 1 root root 253587 Feb 17 2623 _shop1_zip
+drwxr-xr-x 2 root root 4096 Feb 17 2023 site
+[root@server /]# |

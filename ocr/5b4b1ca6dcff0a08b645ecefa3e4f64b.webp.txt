@@ -1,0 +1,41 @@
+# OCR: 5b4b1ca6dcff0a08b645ecefa3e4f64b.webp
+# 来源: .\02-WriteUp\2025\5b4b1ca6dcff0a08b645ecefa3e4f64b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+一 we Ua CD
+详 细 信 息
+名 称 ; maomi.db
+扩 展 名 : db
+类 型 : 文 件
+大 小 : 40 KB
+创 建 时 间 : 2025-09-25 11:14:55
+访 问 时 间 : 2025-09-25 11:14:55
+修 改 时 间 : 2025-09-18 13:47:28
+元 数 据 地 址 : 0
+全 路 径 : data/data/com.kongyubac.mifa/databases/maomidb
+meee: 未 加 密
+已 删 除 : 否
+原 类 型 视 图
+未 删 除 记 录
+android metadata
+bjmodel
+iconmodel
+imgmodel
+password
+passwordmodel
+sqlite sequence
+table schema
+文 本 视 图
+1
+0
+0
+40
+E
+a c
+发 口
+十 六 进 制 视 图
+= password
+8127
+IN
+E

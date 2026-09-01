@@ -1,0 +1,90 @@
+# OCR: af00b0c888843a6e1a5f965f7b41e234.webp
+# 来源: .\02-WriteUp\2024\af00b0c888843a6e1a5f965f7b41e234.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+庞 月 ANSFMNmagezpldstvdstiommospreiosingioo
+E
+data
+[Bstorage
+[isystem
+[vendor
+[dev
+[proc
+E
+园 zc4
+「 国
+国 3
+E
+[J initusb.configfs.re
+[initusb.re
+[Jueventd.re
+8 fixsh
+[Dsystemprop
+[boot time statistics
+Diinitenviron.re
+[init.zygotes4.re
+[ questosinfo
+5 init shellsh
+(defaut.prop
+h
+3 248 594 285
+1525 816 586
+954 870 180
+20 168 911
+12.678 748
+6754411
+1.452 632
+10019
+26
+1.879 768
+29577
+7690
+5 646
+5.272
+5105
+3.325
+3.289
+1064
+535
+401
+138
+23
+BaEK
+3 248 594 285
+1525 816 586
+954 870 180
+20 168.911
+12678 748
+6754411
+1452 632
+10019
+26
+1.879 768
+29577
+7690
+5 646
+5272
+5 105
+3.325
+3289
+1064
+535
+401
+138
+23
+saa
+2024-01-17 1
+2024-01-17 1
+2024-01-17 1
+2024-01-17 1
+2024-01-17 1
+2024-01-17 1
+2024-05-22 1.
+2024-05-22 1.
+2024-01-17 1
+2024-01-17 1
+2024-01-19 1
+2024-05-22 1.
+2024-01-17 1
+E

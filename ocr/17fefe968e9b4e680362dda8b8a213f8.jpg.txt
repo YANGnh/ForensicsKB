@@ -1,0 +1,25 @@
+# OCR: 17fefe968e9b4e680362dda8b8a213f8.jpg
+# 来源: .\02-WriteUp\2024\17fefe968e9b4e680362dda8b8a213f8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+A see
+《 个 [data/data/com.termux/files/home/kali-arm64/root
+E Be
+bash profile data/data/com.termux/files/home/kali-arm64/root/.bash_profile
+口 bashre data/data/com termuxi/files/home/kali-arm64/root/.bashre
+口 bbashre.original data/data/com termux/files/home/kali-arm64/root/-bashrc.original
+[cache data/data/com.termuxy/files/home/kali-arm64/root/.cache
+face data/data/com termux/files/home/kali-arm64/root/-face
+local data/data/com.termux/files/home/kali-arm64/root/local
+profile data/data/comtermuxfiles/home/kali-arm64/root/.profile
+口 wersion data/data/comtermuxfiles/home/kali-arm64/root/.version
+口 wiminfo data/data/comtermux/files/home/kali-arm64/root/.viminfo
+vnc data/data/com termux/files/home/kali-arm64/root/.wnc
+data/data/com.termux/files/home/kali-arm64/root/.2sh history
+i
+5
+3
+data/data/com.termux/files/home/kali-arm64/root/zshre
+EOD
+sqlmap data/data/com termuxi/files/home/kali-arm64/root/sqlmap

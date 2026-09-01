@@ -1,0 +1,22 @@
+# OCR: 509851fb304167b9a3d8ad150bc10f08.jpg
+# 来源: .\02-WriteUp\2024\509851fb304167b9a3d8ad150bc10f08.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+[rootetocathost /]# find / -name xss*
+/wwu /wwuroot/platforn.con/template/xss-desc
+[wu /wwur oot /platform.con/template/xss js
+[ww /wwuroot /website.com/xsser .crx
+/wwu /wwroot /website.com/xssplatform.sql
+/wwu/backup/database/xssplatform_sql
+/-Recycle_bin/_bt_www_bt_wwroot_bt_platform.
+/-Recycle_bin/_bt_www_bt_wwwroot_bt_platform.
+/-Recycle_bin/_bt_www_bt_wwwroot_bt_platform.
+/-Recycle_bin/_bt_www_bt_wwwroot_bt_platform.
+/-Recycle_bin/_bt_www_bt_wwwroot_bt_platform.
+[root@localhost /J# [|
+com_bt_BlueLotus_XSSReceiver-master_t_1716198395 .0896602/guide/xssor .png
+com_bt_BlueLotus_XSSReceiver-master_t_1716198395 .0896602/template/xss.desc
+com_bt_BlueLotus_XSSReceiver-master_t_1716198395 .0896602/template/xss_js
+com_bt_template_t_1716199329..6665545/xss.desc
+com_bt_template_t_1716199329.6665545/xss_js

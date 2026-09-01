@@ -1,0 +1,30 @@
+# OCR: 7c1deb57af395ba611d6e453913e05b0.jpg
+# 来源: .\02-WriteUp\2024\7c1deb57af395ba611d6e453913e05b0.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+:orommernomemmmgooopmottnmamenuemoaomaemnent
+忌 - [25/Apr/2024:18:51:49 +0800] “POST /tmpugklv.php HTTP/1.1" 288 215 “http: //192.168.137
+10.0; Win64; x64) AppleWebKit/S37.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.3
+心 - = [25/Apr/2024:18:51:49 16868] “GET /tmpbnyhp.php?cmd=echo%2@command%2@execution%20test
+kppwd" "Mozilla/5.@ (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
+.76 - - [25/Apr/2024:18:52:46 +0800] “GET /tmpugklv.php HTTP/1.1" 200 403
+/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/6e4.1"
+心 - - [25/Apr/2024:18:53:33 +080] “GET /tmpugklv.php HTTP/1.1" 200 403
+refox/iez.er
+-1 - - [25/Apr/2024:FEREEEEE| +0800] “POST /tmpugklv.php HTTP/1.1" 288 215 “http: //192.168.137
+4; rv:102.8) Gecko/20100101 Firefox/102.0”
++1 - - [25/Apr/2024:18:56:31 16868] "GET /con2.php HTTP/1.1" 269 31 "-" "Mozilla/S.@ (x11; Li
+2
++1 - - [25/Apr/2024:18:58:2@ +880] "POST /con2.php HTTP/1.1" 288 15@ "-" "Mozilla/5.@ (Windo
+Gecko) Chrome/37.@.2049.0 Safari/537.36”
+.76 - - [25/Apr/2@24:19:0:17 +9880] "GET /con2.php HTTP/1.1" 288 31 "-" "Mozilla/S.@ (Window
+ML, like Gecko) Chrome/124.6.8.8 Safari/537.36"
+.76 - - [25/Apr/2@24:19:8:53 +0800] "POST /con2.php HTTP/1.1" 2¢@ 151 -
+refox/21.0.1"
+.76 - - [25/Apr/2024:19:8:55 +8800] "POST /con2.php HTTP/1.1" 20@ 152 "-
+/533.21.1 (KHTML, like Gecko) Version/5.6.5 Safari/533.21.1"
+.76 - - [25/Apr/2024:19:8:56 +8800] "POST /con2.php HTTP/1.1" 268 888 "-
+.NET CLR 3.1.40767; Trident/6.@; en-IN)"
++1 - - [26/Apr/2024:09:37:58 +@80@] "GET /Admin HTTP/1.1" 3@2 16 "-" “Mozilla/5.@ (Windows NT
+ea IS ps ee Ee oR ECE)

@@ -1,0 +1,10 @@
+# OCR: bacef2771a5c15b7ff70c751ef806b00.jpg
+# 来源: .\02-WriteUp\2024\bacef2771a5c15b7ff70c751ef806b00.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+[root@localhost:~] esxcfg-volume -m 65efb8a8-ddd817f6-84ff-668c297bd8e6
+Mounting volume 65efb8a8-ddd817f6-64ff-668c297bdpe6
+[pasteles ~] Ls /vmfs/volumes/
+4dd27076-@1edd2b2-1941-87438e67ddc8 65efb8a8-888f1414-cb5b-888c797bd8e5 datastore1
+55efbeal-7ad39fd5-a185-888c297bd8e6 65efbBa8-dddB17F6-O4Ff-000c297bdee6 de&b9d7b- 3f13adcb-7847-79b624e90883

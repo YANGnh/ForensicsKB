@@ -1,0 +1,31 @@
+# OCR: 4ed73e7f9064be9eaf44aaebd6b4a4f4.jpg
+# 来源: .\02-WriteUp\2024\4ed73e7f9064be9eaf44aaebd6b4a4f4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+#0
+DHCPIDNS
+amy
+E
+E
+网 4 明
+G 逼 出
+20 设 备 seh
+dockero
+Pe)
+br-tan
+fait: SIH
+近 DW 陆 Dniom5cs
+MAC: 00:0€:29:89:6F:80
+$a: 154.86 KB (1730 BED)
+OK: 6.90 MB (2063 SUED)
+IPv4: 192.168.200.124
+ii AES
+技 08 (0 SEE)
+SSE 0B (08
+iz ESE
+M 诊 eit
+运 W图 0n2om5cs
+MAC: 00:0C:29:89:6:76
+$E8C 7.43 MB (7834 eat
+IPv4: 192.168.8.132

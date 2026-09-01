@@ -1,0 +1,50 @@
+# OCR: 550b8b4839a48bf1346bf19931203343.webp
+# 来源: .\02-WriteUp\2025\550b8b4839a48bf1346bf19931203343.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+% Applications.plist X
+C: > hinet > 6-1749087347 > Image.tar > private 》 Applications plist
+4
+12973
+13039
+130490
+13041
+13042
+13043
+13044
+13045
+13046
+13047
+13048
+13049
+13656
+13051
+13052
+13053
+13054
+13655
+13056
+<array> » |4C62-B8E7-893F37B14474 Aa ab, 和 1of4
+<dict>
+LURE s 0b EEO! aareuluacge a
+<key>EnvironmentVariables</key>
+<dict>
+<key>CFFIXED_USER_HOME</key>
+<string>/private/var/mobile/Containers/Data/Application/
+228286AC-3593-4C62-B8E7-893F37814877. .trine,
+<key>TMPDIR</key>
+<string>/private/var/mobile/Containers/Data/Application/
+228286AC-3593-4C62-B8E7-893F37B14477/tmp</string>
+<key>HOME</key>
+<string>/private/var/mobile/Containers/Data/Application/
+228286AC-3593-4C62-B8E7-893F37B144774/string>
+</dict>
+<key>CFBundleNumericVersion</key>
+<integer>@</integer>
+<key>SequenceNumber</key>
+<integer>1920</integer>
+<key>IsDemotedApp</key>
+<false/>
+<key>CFBundleIdent r</key>
+<string>com. fabian.hasse.haushaltsbuch</string>

@@ -1,0 +1,10 @@
+# OCR: a8ec60f83bd47228723a08315bba348a.webp
+# 来源: .\02-WriteUp\2025\a8ec60f83bd47228723a08315bba348a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+名 称 ; Bluetooth Device (Personal Area Network)
+适 配 器 类 型 : 虚 拟 网 卡
+sabe: 否
+当 前 MAC 托 址 : 9C-B6-D0-04-C9-CC
+物 理 MAC 地 址 : 9C-B6-D0-04-C9-CC

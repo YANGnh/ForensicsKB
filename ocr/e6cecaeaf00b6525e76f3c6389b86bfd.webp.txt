@@ -1,0 +1,32 @@
+# OCR: e6cecaeaf00b6525e76f3c6389b86bfd.webp
+# 来源: .\02-WriteUp\2024\e6cecaeaf00b6525e76f3c6389b86bfd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+‘El encrypt_file. pyE3 |
+76 aL. 49 58 LOAD_STR ‘encrypted’
+77 60 LOAD_FAST "filename'
+78 62 COMPARE_OP not-in
+79 64 POP_JUMP_IF FALSE 38 'to 38'
+80
+81 aL. 50 66 LOAD_STR (ext
+82 68 LOAD_FAST "filename"
+83 70 COMPARE_OP in
+84 72 POP_JUMP_IF_TRUE 98 _'to 98"
+85 74 LOAD_STR (gcc)
+86 76 LOAD_FAST "filename'
+87 78 COMPARE_OP in
+88 80 POP_JUMP_IF_TRUE 98 _'to 98"
+89 82 LOAD_STR
+90 84 LOAD FAST "filename'
+91 86 COMPARE OP in
+92 88 POP_JUMP_IF_TRUE 98 ‘to 98"
+93 90 LOAD_STR
+94 92 LOAD_FAST "filename'
+95 94 COMPARE OP in
+96 96 POP_JUMP_IF FALSE 38 'to 38'
+97 98 0 COME_FROM 88 “88「
+98 98 1 “COME FROM 80 “80“「
+99 98_2 COME FROM 72 727
+100
+国 咤 园 , eine es tee: seas,

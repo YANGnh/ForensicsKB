@@ -1,0 +1,9 @@
+# OCR: 52b41f7ac7f3ac5f380820ac122a2016.jpg
+# 来源: .\02-WriteUp\2024\52b41f7ac7f3ac5f380820ac122a2016.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+Bere
+aes APS E
+@ 1921682001 E @
+鲜 192.168.200.201 root honglian7001 E i

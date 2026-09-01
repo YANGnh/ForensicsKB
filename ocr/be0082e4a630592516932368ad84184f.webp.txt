@@ -1,0 +1,36 @@
+# OCR: be0082e4a630592516932368ad84184f.webp
+# 来源: .\02-WriteUp\2025\be0082e4a630592516932368ad84184f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+口 B® Cobalt Strike Tools work xX + v - a x
+> python .\cs-decrypt-metadata. py C:\Users\Administrator\Desktop\Cobalt_Strike_Tools_work\keys EiDMOx7okMSPoOXuyuvu3m
+Ige4QMTH76ein6q9xB3/yb3jDNcnn+hDAy7f11AVA4lefssoVYp309qQ1575G2Kp3GLGFTh7FISdZ9V+U8XSH2jB2CdtaP6r/LivHAQEMLYMesDzLCLTSX1w
+bSYcnAA2GNg/X62pGwSZuMF1jkrQg=
+C:\Users\Administrator\Desktop\Cobalt_Strike_Tools_work\cs-decrypt-metadata.py:553: SyntaxWarning: invalid escape sequen
+ce '\.'
+if not re.match(b'[0-9]+\.[0-9]+\t[0-9]+', peek):
+Input: EiDMOx7okMSPo0Xuyuvu3mIge4QMTH76etn6q9xB3/yb3jDNcnn+hDAy7f11AVA41efssoVYp309q0157SG2Kp3GLGFTh7FISdZ9V+U8XSH2jB2Cd
+taP6r/LivHAQEMLYMesDZLCLTSX1wbSYcnAA2GNg/X62pGwSZuMF 1jkrQg=
+Encrypted metadata: 1220cc3b1lee890c48fae5eecaebeede62207b840c4c7efa7a29faabdc41df fc9bde30cd7279Fe843032edfd75015038d5e7
+e€cb28558a773bda90d79ed21b62a9dc694615387b14849d67d57e53c5d21f68c 1d8276d68f eabfe58at 1c040430b60c7ac0F32c2953497d706d261c9
+C003618d83f5fada91b0499b8c1758e4ad08
+Decrypted:
+Header: 0000beef
+Datastze: 00000050
+Raw key: “ac1649e14133e13b65722f5c352a7a4c
+aeskey: “264aa04e0d24989e4de4d18d2f0a6c73
+hmackey: 164ba0341a1db183fdfc697f37f9e81F
+charset: 03a8 ANSI/OEM Simplified Chinese (PRC, Singapore); Chinese Simplified (GB2312)
+charset_oem: 03a8 ANSI/OEM Simplified Chinese (PRC, Singapore); Chinese Simplified (GB2312)
+bid: 6d6ed2dc 1835979484
+pid: 03c8 968
+port: 0
+flags: Oc
+vari: 6
+var2: 1
+var3: 7601
+var4: 0
+var5: 1976504901
+var6: 1976504866
+Internal IPv4: 10.10.10.80

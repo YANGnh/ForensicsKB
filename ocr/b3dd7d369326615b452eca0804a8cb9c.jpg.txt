@@ -1,0 +1,31 @@
+# OCR: b3dd7d369326615b452eca0804a8cb9c.jpg
+# 来源: .\02-WriteUp\2024\b3dd7d369326615b452eca0804a8cb9c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+[root@localhost ~]# docker ps
+Cannot connect to the Docker daemon at unix-///var/run/docker sock. Is the docker daemon running?
+[root@localhost -]# systemctl docker start
+Unknown operation 'docker'-
+[root@localhost ~]# systemctl start docker
+[root@localhost ~]# systenctl status docker
+© docker.service - Docker Application Contatner Engine
+Loaded: loaded (/usr/1b/systend/systen/docker.service; disabled; vendor preset: disabled)
+Active: active (running) since Sat 2024-64-27 68:53:40 EDT; 7s ago
+Docs: http: //docs.docker.com
+Main PID: 1692 (dockerd-current)
+CGroup: /system.slice/docker service
+1692 fusr/bin/dockerd-current --add-runtime docker-runc=/usr/Libexec/docker /docker-runc-current --default-runtime=d
+1697 /usr/bin/docker-contatnerd-current -1 unix: ///var/run/docker/\ibcontatnerd/docker-contatnerd.sock --metrics-in
+Apr 27 08:53:39 localhost.localdomain dockerd-current[1692]: time="2024-04-27T@8:53:39.117623027-04:08" level=info
+Apr 27 88:53-48 localhost localdomain dockerd-current[1692]- tine="2024-@4-27T08- 53-40. 280278401-04-60"
+Apr 27 @8:53:48 localhost .localdomatn dockerd-current[1692 :53:40.281188438-04: 60"
+Apr 27 @8:53:48 localhost. localdomain dockerd-current[1692 53:40. 306232454-04: 60"
+Apr 27 @8:53:4@ localhost localdomatn dockerd-current[1692 253-48. 641545019-04- 00"
+Apr 27 @8:53:48 localhost. localdomain dockerd-current[1692 3:40. 759948316-04 06"
+Apr 27 08:53:48 localhost. localdomain dockerd-current[1692] 53:40.911745425-04:60" level=info
+Apr 27 68:53:48 localhost. localdomatn dockerd-current[1692]- ="2824-84-27T08 : 53:48. 911771633-04:60" level=info
+Apr 27 08:53:48 localhost. localdomain systend[1]: Started Docker Application Container Engine.
+Apr 27 68:53:48 localhost. localdomain dockerd-current[1692]- time="2024-04-27T08-53:49.933374496-04-60" Level=info
+Hint: Some Lines were ellipstzed, use -l to show in full.
+[root@locathost ~]# []

@@ -1,0 +1,7 @@
+# OCR: 3071dc57fc3d5b43d41b970dae32639f.jpg
+# 来源: .\02-WriteUp\2024\3071dc57fc3d5b43d41b970dae32639f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+"payload [rest ‘pont E e e
+‘windowsibeacon_htipreverse nip 192 168.217 188. ‘7700 192 168.217 188, ‘defaut

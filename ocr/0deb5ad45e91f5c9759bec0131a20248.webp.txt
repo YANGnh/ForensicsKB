@@ -1,0 +1,64 @@
+# OCR: 0deb5ad45e91f5c9759bec0131a20248.webp
+# 来源: .\02-WriteUp\2025\0deb5ad45e91f5c9759bec0131a20248.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+(@ vesa.pgs.cup ; a
+摘 要 “ 监 控 EE WR _ 数 据 中 心 “ 主 机 和 集 羧
+虚 拟 机 模 板 vApp
+快 透 符 选 、 锴 入 值
+RR
+市 场 PC ( 巳 断 开 连 据 已 关 闭 电
+源
+财 务 ( 巳 断 开 连 掷 熹关[矛〕F葵星
+a
+a
+吴 AD ( 巳 断 开 连 接 熹关[矛〕电
+吴 bocai ( 巳 断 开 这 接 }熹关[矛〕电
+a
+meeting ( 巳 断 开 这 接 Bans
+口 , 口 , 口 , , 口 口
+吴 yCLS-0dap4d56-fda8-5716- 已 关 闭 电
+3b52-35798ec033bc ( 巳 断 开 连 源
+#2)
+口
+吴 yCLS-93d84d56-d7 0 已 打 开 电
+-9c2f3d03553acc8f ( 5 源
+RE
+E
+未 知
+未 知
+未 知
+未 知
+未 知
+未 知
+未 知
+数 据 存 借
+E
+100.77 GB
+124.34 GB
+184.69 GB
+102.4 GB
+124.36 GB
+OB
+OB
+网 络
+链 接 的 vCenter Server 系 统
+E 主 机 CPU
+57.22 GB OHz
+29.92 GB OHz
+19.19 GB OHz
+30.35 GB OHz
+20.42 GB 0 Hz
+OB OHz
+OB OHz
+扩 展 播 件
+主 师
+OB
+OB
+OB
+OB
+OB
+OB
+OB
+更 新

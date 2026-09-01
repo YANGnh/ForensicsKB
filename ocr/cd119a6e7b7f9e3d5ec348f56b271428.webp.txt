@@ -1,0 +1,30 @@
+# OCR: cd119a6e7b7f9e3d5ec348f56b271428.webp
+# 来源: .\02-WriteUp\2024\cd119a6e7b7f9e3d5ec348f56b271428.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+R TP salary ©1200 (localhost) -
+E
+eer T sala 关 莲 csqL () BR Ext - 口 Saver ly ome
+[localhost 2 v] Dae - Ot 贻 8
+SELECT
+userId,
+SUM(newBlance - oldBlance) AS newDataSum
+FROM
+salary
+GROUP BY
+userId
+ORDER BY
+newDataSum DESC;
+BSoavousune
+巳
+8 Ee S21 a RS
+userld newDataSum
+‘ERT 22000
+s 21143072 E
+八 3
+a [
+- 一 司 国 阮 一
+ee
+ae aoe
+50023589 9775.29

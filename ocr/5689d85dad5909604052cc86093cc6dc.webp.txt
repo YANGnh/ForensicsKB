@@ -1,0 +1,18 @@
+# OCR: 5689d85dad5909604052cc86093cc6dc.webp
+# 来源: .\02-WriteUp\2024\5689d85dad5909604052cc86093cc6dc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+iooerstion( BAER")
+public ResponseResult login(HttpServletRequest request, Ecestacy AdminLoginDTO dto) {
+String ipaddr = Iputils. getIpaddr(request)
+log.info("iBFAIP: {}", ipAddr) 5
+‘this.blackListservice.isBlackexception(ipaddr, GlackTypetnum.IP.getCode())
+checkrp(ipaddr) ;
+sysUser sysUser - this. sysUserService. geteyPhone(dto. getiiobile());
+anotiull(sysuser, "RSA" ) 3
+String redisCode - this. stringRedisTemplate..opsForValue().get(RedisConstant .ADMIN_PHONE_CODE +
+isTrue(dto.getCode().equals(rediscode), ;
+String token - getToken(sysUser.getId());
+‘this. stringRedisTenplate.opsforValue().set(RedisConstant.ADMIN_TOKEN_KEY + token, sysUser.getIc
+return ResponseResult. success (token) ;

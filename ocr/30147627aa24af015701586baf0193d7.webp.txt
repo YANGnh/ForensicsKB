@@ -1,0 +1,11 @@
+# OCR: 30147627aa24af015701586baf0193d7.webp
+# 来源: .\02-WriteUp\2025\30147627aa24af015701586baf0193d7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+印 《 1PUNWGz-60om-H2HAN1)/9KO> 口 历 & > 在 历 吴
+回 三 8 =mrz E
+(me | 日 a Ve
+回 日 | root mkdir test
+回 史 root cd test/
+回 % root tcpdump iena3-50-wiestpap

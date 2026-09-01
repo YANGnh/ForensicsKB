@@ -1,0 +1,32 @@
+# OCR: f18cc5637325c86c752329cd040e55ac.webp
+# 来源: .\02-WriteUp\2025\f18cc5637325c86c752329cd040e55ac.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+[root@master ~]# kubecti describe pod captcha-bot-6b4d85b765-25xq6 -n
+default
+Name: captcha-bot-6b4d85b765-25xq6
+Namespace: default
+Priority: 0
+Service Account: default
+Node: node2/192.168.50.82
+Start Time: Wed, 17 Sep 2025 22:48:21 +0800
+Labels: app=captcha-bot
+pod-template-hash=6b4d85b765
+Annotations: cniprojectcalicoorg/containerID:
+40716ec4baf13d25bf7c2890324d0b7634554681947b3599aedd59a08d30bab
+cni.projectcalico.org/podIP: 10.224.104.21/32
+cni.projectcalico.org/podIPs: 10.224.104.21/32
+Status: Terminating (lasts 125m)
+Termination Grace Period: 30s
+IP:
+IPs: <none>
+Controlled By: ReplicaSet/captcha-bot-6b4d85b765
+Containers:
+captcha-bot:
+Container ID:
+docker://EEEIBeoela8404ee09bb866f09547d699bbddd825bla8dff5722aaef7209
+94d .
+鲸 公 众 号 - 金 星 路 406 取 证 人
+Image: alpine:latest
+E

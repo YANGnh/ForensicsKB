@@ -1,0 +1,23 @@
+# OCR: 563ba47ddffc8ed22f65026fb3d8a789.jpg
+# 来源: .\02-WriteUp\2024\563ba47ddffc8ed22f65026fb3d8a789.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+REO SA SHO BEM F
+ance come qeceTseaaan
+E0ERcmermm
+Mi Wireshark Conversations - FAIR pcepng
+Conversation Settings
+s
+口 sReala
+口 2RsatRa
+EShemet1 P IP6 TC-Hi7e
+Uop
+Address A Address B= 344 Bytes Packets AB Bytes AB Packets B—A BytesB—A Rel Start #482119) Bits/sA—B Bits/sB— A
+192.168.85.130 192.168.85.250 6,613 2MB
+3,381
+849 kB
+3,232
+1Me (0,000000"666:1983
+10 kbps
+17 kbps

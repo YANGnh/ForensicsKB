@@ -1,0 +1,18 @@
+# OCR: ed16bfc277648ae79d9044ea843a1d17.webp
+# 来源: .\02-WriteUp\2026\ed16bfc277648ae79d9044ea843a1d17.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+0
+口 10
+Ou
+On
+(O13
+ou
+O1s
+| ee
+Is dafu
+ssh root@10.0.0.11 dafu
+ifconfig dafu
+uname -a dafu
+csrutil status dafu

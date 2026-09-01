@@ -1,0 +1,10 @@
+# OCR: bc95fdbb5dce3ed8c80bf70075d6d338.jpg
+# 来源: .\02-WriteUp\2024\bc95fdbb5dce3ed8c80bf70075d6d338.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+DATE
+‘ZLATITUDE
+22.4517216666667
+ZLONGITUDE
+114,171853333333

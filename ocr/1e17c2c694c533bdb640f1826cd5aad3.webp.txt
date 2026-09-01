@@ -1,0 +1,19 @@
+# OCR: 1e17c2c694c533bdb640f1826cd5aad3.webp
+# 来源: .\02-WriteUp\2025\1e17c2c694c533bdb640f1826cd5aad3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+root@Kurumi /m/f/P/Sjc# tree
+[— modules .abe
+一 sourceMaps.map
+[— module. json
+[- pack. info
+[— pkgContextInfo. json
+[— background. png
+门 foreground. png
+[— layered_image. json
+一 starticon.png
+[— backup_config. json
+一 main_pages. json
+L_ resources. index
+5 directories, 12 files

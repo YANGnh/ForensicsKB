@@ -1,0 +1,24 @@
+# OCR: 8c46f80713021d9edfcdcb96652e8854.webp
+# 来源: .\02-WriteUp\2025\8c46f80713021d9edfcdcb96652e8854.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+字 符 串 上 下 文 x
+信 移 量 FRB: 编 码
+0x10ABB550 ""D:\VeraCrypt\VeraCrypt-x6 Ascii
+4.exe" /volume D:\VeraCrypt
+\volumes\aaa.hc /letter X /
+password "WOWEIZUGUOXIANSHI
+you" /quit /silent"
+上 下 文 内 容 ( 前 后 各 1KB) - Hex 继 续 加 载 1KB
+〔〔〔〔〔〔〔〔〔〔〔〔〔〔〔〔 \oS2scls=280=22 21 2=3 255 2120-02 58 502 7232 9G. 2 335 950252 5o8o=3loBs2s9s325
+xnuuioporopronorpopzoporoopnorprpporoaropocroppzopprizpt C:\ProgramData\VMware\
+VMware Tools\tools.conf.REPLY[2], sessionId 0, srcId 10001, binary size 0.
+oo
+-\.z-h.\.vem.t.r.a-y---V-m.8.g-
+.Correction 1”
+Panel\Desktop...
+ncos 20 Boo
+2088s cls o
+.p。
+C:\ProgramData\VMware\VMware Toolsytemp-

@@ -1,0 +1,15 @@
+# OCR: eb989c8321a609a4425bec4aec200c6e.webp
+# 来源: .\01-取证技巧\02-网络取证\eb989c8321a609a4425bec4aec200c6e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+Command: 78 COMMAND_EXECUTE_JOB
+Command: D “%COMSPEC% 「
+Arguments:
+Integer: @
+Packet number: 17292
+HTTP request POST
+http: //192.168.31.170/submit . php?id=1603726794
+Length raw data: 68
+Counter: 2
+Callback: 3@ CALLBACK_OUTPUT_OEM

@@ -1,0 +1,6 @@
+# OCR: c6bd5f3f0ed667a27933b7ea4d636d57.jpg
+# 来源: .\02-WriteUp\2024\c6bd5f3f0ed667a27933b7ea4d636d57.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 16:11
+
+# 结果: 无可用文本（tesseract 未识别到文字）

@@ -1,0 +1,13 @@
+# OCR: 5b8b15ec36fa8344e5f5cc518d8130a6.webp
+# 来源: .\02-WriteUp\2025\5b8b15ec36fa8344e5f5cc518d8130a6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+/ e 口胃通】卫`尸!`辽〉Ii旨亨六`!蕙1Z亘
+ell
+router.get("/flag2", (req, res) =>
+/ ‘WaFget flag:
+const flag = getflag2();
+poe a PARMAR
+// 不
+res.json({

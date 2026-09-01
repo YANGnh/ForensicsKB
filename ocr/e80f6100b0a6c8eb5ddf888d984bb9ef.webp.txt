@@ -1,0 +1,9 @@
+# OCR: e80f6100b0a6c8eb5ddf888d984bb9ef.webp
+# 来源: .\02-WriteUp\2025\e80f6100b0a6c8eb5ddf888d984bb9ef.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+Interpreter:/>-cambist
+0 Back.Caneza
+E 租 芸
+Interpreter: />-takepic+1

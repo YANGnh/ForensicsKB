@@ -1,0 +1,42 @@
+# OCR: 7b2151e7b0db32ed00b0ac146ea93434.webp
+# 来源: .\02-WriteUp\2025\7b2151e7b0db32ed00b0ac146ea93434.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+C @
+ish 评 便 /
+\ WH Doncanlspt。1ieara
+> Gssr 2
+Ooficexszee 19
+> Bawa 4
+\ BE LAMKH apt... 34376
+》 蒙 Hn 嗣 4
+> BIskES 1
+、 国 e 327
+© ane E
+E 118
+RPP 8
+团 eee 40
+247
+E
+P SLAM KH laptop.e01 > 匹
+Oess sam
+识 识 \/ Vv
+口 1 Bie MATERIALS_NAME Windows 7 Enterprise
+口 2 SERRE OS_TYPE Windows
+口 3 E OS_NAME Enterprise
+口 4 探 IeSeeE 05 NEss eat
+口 5 emE OS_TIME_ZONE (UTC+08:00) 北 荣 , 重 庭 , 吊 河 刹 行
+口 5 aaa INSTALL_TIME 2025-04-12 15:32:37 +0800 CST
+口 7 FREE PRODUCT_KEY HRHW9-GH6P8-3)8WH-FWGNP-HHXGV
+口 5 亦 &ID OS_PRODUCT_ID 00392-918-5000002-85249
+口 5 SaaS C_VERSION 6
+口 10 sjiguidiK# 句 VERSION 7600.0
+On Bese COMPUTER_NAME CEO-PC
+口 人 BaheeReeRtalERS... NTP_SERVER time.windows.com
+OB ReERE SYSTEM_PATH CAWindows
+口 14 mes PATH_NAME CAWindows
+口 15 me RIESE) LAST_LOGOUT_TIME 2025-05-15 16:22:51
+口 16
+最 命 H 巳 用
+NTFS_LAST_ACCESS_UPDA...

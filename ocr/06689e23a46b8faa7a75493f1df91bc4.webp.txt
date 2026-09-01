@@ -1,0 +1,9 @@
+# OCR: 06689e23a46b8faa7a75493f1df91bc4.webp
+# 来源: .\02-WriteUp\2025\06689e23a46b8faa7a75493f1df91bc4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+@override // Ltd.newbee.maLL.service.AdmtnUserService
+public AdminUser login (String userName, String password) throws NoSuchAlgorithmException {
+String passwordMdS = MDSUtil.MDSEncode(password, "UTF-8");
+return this.adminUserMapper.login(userName, passwordMd5) ;

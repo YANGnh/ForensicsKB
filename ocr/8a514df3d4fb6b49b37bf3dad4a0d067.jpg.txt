@@ -1,0 +1,39 @@
+# OCR: 8a514df3d4fb6b49b37bf3dad4a0d067.jpg
+# 来源: .\02-WriteUp\2024\8a514df3d4fb6b49b37bf3dad4a0d067.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+<?php
+Sconftg = array (
+‘dbHost' 2200.01。
+‘dbUser' => ‘website’,
+“dbpwd「 immNjhCjePCrPpjd'.
+‘database’ => ‘website’,
+‘charset’ => ‘utf8',
+“tbprefbc => 'oc_'.
+“dbType“ => ‘mysql’.
+"register! "normal",
+‘mailauth' alse
+‘urlroot'
+“urtrewrtte「 alse,
+fulepath => ' a
+“Etleprefta >| “hetpe/ 192 tet 217 108-7786/ pond |
+“thene => 'defal *
+‘template’ => 'default'.
+*show' =>
+array (
+"sitename' => 'xXssF@'.
+vsttedesc => '"'_
+‘keywords’ => “ 技 术 交 流 . 程 序 员 . 设 计 . 项 目 . 创 业 . 技 术 . 网 络 安 全 . 技 术 文 章 .12「.
+"description" 0
+“adatnnatt「
+array (
+‘publish’ => 2
+‘comment’ => 2,
+‘invitereg' => 10,
+Ms
+0
+‘timezone’ => ,Asta/Shanghat 人
+“exptres「 => 3600,
+‘debug’ => true,
+25

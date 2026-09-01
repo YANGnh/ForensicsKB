@@ -1,0 +1,19 @@
+# OCR: e424c4920be1351d5471668645635468.webp
+# 来源: .\02-WriteUp\2025\e424c4920be1351d5471668645635468.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+n641dartva3.7.2_android_arm64Configyersion.cmake
+-- Configuring done
+-- Generating done
+一 Build files have been written to: /home/wxjzc/software/blutter/build/blutter_dartvm3.7.2_androi
+[22/22] Linking CX executable blutter_dartvm3.7.2_android_arm64
+-- Install configuration: “Release”
+一 Installing: /home/wxjzc/software/blutter/blutter/../bin/blutter_dartvm3.7.2_android_arm64
+libapp is loaded at 0x7f64abb69000
+Dart heap at 0x7F6300000000
+Analyzing the application
+Dumping Object Pool
+Generating application assemblies
+Generating Frida script
+hen a ibtive <n utendkamateSubien (44%%a7s6 tented

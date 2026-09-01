@@ -1,0 +1,11 @@
+# OCR: 371aed5baf282ab99baf59a1ea4e781a.jpg
+# 来源: .\02-WriteUp\2024\371aed5baf282ab99baf59a1ea4e781a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+CentOS Linux 7 (Core)
+Kernel 3.10.8-1160.83.1.e17.x86_64 on an x86_64
+server login: root
+Password:
+Last login: Thu Apr 25 89:23:56 on ttyl,
+Urootserver “18 _

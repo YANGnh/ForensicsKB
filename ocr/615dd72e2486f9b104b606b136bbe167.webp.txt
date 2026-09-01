@@ -1,0 +1,11 @@
+# OCR: 615dd72e2486f9b104b606b136bbe167.webp
+# 来源: .\02-WriteUp\2025\615dd72e2486f9b104b606b136bbe167.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+详 细 信 息
+名 称 : SAFEIMAGER
+串 号 : 02004032108790302000009C4
+Class Guid: feec5ad98-8080-425f-922a-dabf3de3f59a}
+设 备 实 例 ID: SWD/WPDBUSENUM/_??_USBSTOR#Disk&Ven_Pansafe
+葛 容 ID: wpedbusenum\fs SWD\Generic

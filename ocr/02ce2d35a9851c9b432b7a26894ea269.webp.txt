@@ -1,0 +1,32 @@
+# OCR: 02ce2d35a9851c9b432b7a26894ea269.webp
+# 来源: .\02-WriteUp\2025\02ce2d35a9851c9b432b7a26894ea269.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+DSwitch-DVUplinks-1029 | ; a
+摇 要 监 控 配 置 权 限 端 口 主 机 虚 报 机
+wom oy | 8 vy | 述 &B 振 了 | BGRMACHE oy 错 D 绍 y | 抵 丁 | VLANID T
+国 国 5 , esxilpgs.cup-vmni 一 DSwitch-DVUplinks-10 ` VLAN 中 继 : 0-40
+0 uplink = PS 园 已 连 接 ad
+rl] oy , esxilpgs.cup-vmni DSwitch-DVUplinks-10 3 VLAN 中 继 : 0-40
+1 uplink2 符 2 园 已 连 接 84
+: , DSwitch-DVUplinks-10 VLAN 中 继 .0-40
+» , 2 uplink3 = 二 江 - 7
+7 , DSwitch-DVUplinks-10 VLAN 中 继 .0-40
+为 3 uplink4 - - 59 - bn
+7 . DSwitch-DVUplinks-10 VLAN 中 继 .0-40
+» 4 uplink! 一 ~ 29 一 94
+A , DSwitch-DVUplinks-10 VLAN 中 继 .0-40
+>» 5 uplink2 = - 25 - 刹
+: , DSwitch-DVUplinks-10 VLAN 中 继 : 0-40
+>» 6 uplink3 = 心 2 - 限
+7 . DSwitch-DVUplinks-10 VLAN 中 继 .0-40
+>» 7 uplink = - a - oa
+: esxi2pgscup -vmni DSwitch-DVUplinks-10 VLAN 中 继 : 0-40
+回 29 94
+: esxi2.pgs.cup - vmni DSwitch-DVUplinks-10 VLAN 中 继 .0-40
+2 29 94
+poy , 目 目 DSwitch-Dvuplinks-0 一 VLAN 中 继 : 0-40
+10 uplink3 a oa
+Poy | a uplinka 量 量 DSwitch-DVUplinks-10 一 VLAN 中 继 : 0-40
+29 94

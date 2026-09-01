@@ -1,0 +1,28 @@
+# OCR: 81f077aaaf9558b957fee716baab8ced.webp
+# 来源: .\02-WriteUp\2025\81f077aaaf9558b957fee716baab8ced.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+BB Windows PowerShell x 十 v 二 口 x
+Windows PowerShell
+版 权 所 有 (C) Microsoft Corporation, (RHA AMA.
+安 装 最 新 的 PowerShetL, 了 解 新 功 能 和 改 进 ! https: //aka.ms/PSWindows
+PS D:\ 检 材 题 目 \2925 数 证 杯 决 赛 \ 导 出 \CobaLt_Strike_TooLs> python .\cs-parse-traffic.py -r ac1649e14133e13b65722f5c352a7ac
+.X123.pcap
+Packet number: 7
+HTTP response (for request 4 GET)
+Length raw data: 96
+Timestamp: 1760614439 20251016-113359
+Data size: 65
+Command: 78 COMMAND_EXECUTE_JOB
+Command: b'%COMSPEC%'
+Arguments: b' /C |netsh advfirewall show allprofiles
+Integer: 0
+Packet number: 7
+HTTP request
+http://192.168.111.128:81/__utm.gif
+Length raw data: 96
+HMAC signature invalid
+Commands summary:
+78 COMMAND_EXECUTE_JOB: 1
+PS D:\ 检 材 题 目 \2925 数 证 杯 决 赛 \ 导 出 \CobaLt_Strike_TooLs>

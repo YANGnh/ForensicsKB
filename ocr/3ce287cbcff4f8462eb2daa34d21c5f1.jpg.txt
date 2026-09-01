@@ -1,0 +1,60 @@
+# OCR: 3ce287cbcff4f8462eb2daa34d21c5f1.jpg
+# 来源: .\02-WriteUp\2024\3ce287cbcff4f8462eb2daa34d21c5f1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+P 吴 a
+回 三 8
+口 7
+口 8
+口
+O10
+on
+口 2
+口 1
+ow
+口 5
+口 1
+ow
+口 8
+口
+口 20
+口 2
+O22
+EES > BARES
+Sam
+E
+REA
+ATID
+亦 8ID
+E
+当 jbuld 胡 李 号
+E
+ae
+Ream
+Be
+Be
+丁 R
+BES
+BS RESAMAA
+暨 厉 河 B 日 用
+法 陈 者
+E
+E 里
+E 史 ae v
+PRODUCT_KEY W269N-WFGWX-YVC9B-4J6C9-T83GX
+RELEASE_ID 2009
+OS_PRODUCT_ID 00331-10000-00001-AA472
+C_VERSION 10
+VERSION 19045.4291
+cpu 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2...
+MEMORY 8G
+COMPUTER_NAME DESKTOP-3BDNVRB
+FIRMWARE VMware, Inc.
+FIRMWARE_VERSION \VMW71.00V.18452719.B64,2108091906
+SYSTEM_PATH
+PATH_NAME
+LAST_LOGOUT_TIME
+NTFS_LAST_ACCESS_UPDA.. 8]
+REGISTER_OWNER gactao
+PC_GROUP, WORKGROUP,

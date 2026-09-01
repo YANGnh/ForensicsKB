@@ -1,0 +1,11 @@
+# OCR: 53f2cfc291c55bd2691b24e385504cd3.jpg
+# 来源: .\02-WriteUp\2024\53f2cfc291c55bd2691b24e385504cd3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+] 行 为 格 测
+MITRE AITaCkx 5885 0 有 WORE 4 SEE, 盯 查 国 Win10(1903 64bit,Office2016)
+© 芸 & 为 (4) saat
+Ez STS  Win10(1903 64bit,Office2016), ^
+file: CAWindows\Temp\evilrue.exe
+file: CAWindows\Temp\flashcenter_pp_ax_install_cn.exe

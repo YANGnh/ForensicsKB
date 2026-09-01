@@ -1,0 +1,9 @@
+# OCR: c577ab214e3f2bb64a3510c69fcf441c.webp
+# 来源: .\02-WriteUp\2024\c577ab214e3f2bb64a3510c69fcf441c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+‘The Bitlocker Key x
+Identifier: 0887EA0B-12ED-43E8-9708-672195186975 , Repair key:
+299255-418649-198198-616891-099682-482306-642609-483527
+«feted

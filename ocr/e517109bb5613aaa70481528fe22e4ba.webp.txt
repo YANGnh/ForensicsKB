@@ -1,0 +1,19 @@
+# OCR: e517109bb5613aaa70481528fe22e4ba.webp
+# 来源: .\02-WriteUp\2025\e517109bb5613aaa70481528fe22e4ba.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+详 细 信 息
+im: IMG_0110.HEIC
+Aus: 4.31 MB
+alg@atig): 2025-05-19 18:50:13
+惟 改 时 间 : 2025-05-20 02:50:13
+RR:
+Image.tar/private/var/mobile/Media/PhotoData/Thumbnails/V2/DCIM/100APPLE/I
+MG_0110.HEIC/5005.JPG
+本 地 路 匣 : Imagetar/private/var/mobile/MediayDCIM/100APPLE/IMG 0110.HEIC
+白 录 $ 称 DCIM/100APPLE
+经 度 : 104.07005283333334
+纬 度 ,30.517041666666666
+源 X 件 Image:tar/private/var/mobiley/Media/PhotoDatay/Photossqlite
+已 蹦 除 , 否

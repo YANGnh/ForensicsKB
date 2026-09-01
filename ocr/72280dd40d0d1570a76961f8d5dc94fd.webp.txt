@@ -1,0 +1,62 @@
+# OCR: 72280dd40d0d1570a76961f8d5dc94fd.webp
+# 来源: .\01-取证技巧\02-网络取证\72280dd40d0d1570a76961f8d5dc94fd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:10
+
+厮 DESKTOPpcapng
+文 件 ( “ 编 辑 ( “ 视 图 ()
+打 开 (0)
+打 开 最 近 的 文 件 (R)
+AFM)...
+从 Hex 转 傅 导 入 (0.、
+RAO,
+保 存 (S)
+FFAG)...
+文 件 集 合
+导 出 特 定 分 组 .
+导 出 分 组 解 析 结 果
+导 出 分 组 字 节 流 (8).
+导 出 PDU 到 文 件 .、
+Strip Headers...
+SH TLS 会 话 惧 钥 .
+FTEN(P)...
+退 出 (Q)
+跳 转 (G) _ 捕 获 (O “ 分 析 (A) StS) 电 适 0) “ 无 线 ( TAT) “ 帮 助 (H)
+Ctrl+0O
+Ctrl+W
+Ctrl+5
+Ctrl+Shift+5
+Ctrl+Shift+X
+Ctrl+P
+Ctrl+Q
+»
+> Transmission Control Protocol, Sri
+>
+[Community ID: 1:2yzzA9Ldd12NDFMPu c
+标 里 西 埕 | & & @ 坂
+Destination Protocol Length 。Info
+192.168.27.132 HTTP. 238 GET /TJvI HTTP/1.1
+192.168.27.169 HTTP. 2601 HTTP/1.1 200 OK
+192.168.27.132 HTTP. 442 GET /ca HTTP/1.1
+192.168.27.169 HTTP. 169 HTTP/1.1 200 OK
+192.168.27.132 HTTP. 442 GET /ca HTTP/1.1
+192.168.27.169 HTTP. 102 HTTP/1.1 200 OK
+192.168.27.132 HTTP. 2586 POST /submit.php?id=1389642286 HTTP/1.1
+192.168.27.169 HTTP. 154 HTTP/1.1 200 OK
+192.168.27.132 HTTP. 442 GET /ca HTTP/1.1
+192.168.27.169 HTTP. 169 HTTP/1.1 200 OK
+192.168.27.132 HTTP. 442 GET /ca HTTP/1.1
+192.168.27.169 HTTP. 102 HTTP/1.1 200 OK
+192.168.27.132 HTTP. 7@@ POST /submit.php?id=1389642286 HTTP/1.1
+192.168.27.169 HTTP. 154 HTTP/1.1 200 OK
+DICOM... 429 urre AAD GET Ira urro a 4
+FTP-DATA.
+a ptured (1840 bits) on interface eth@, id 6 2002 @@ 8c 29 ba
+IMF )。Dst: VMware_ba:49:ad (86:6c:29:ba:49:ad) 亘宫壬宣 莹旨 {具f熹 董亘 蒿
+sMe pores 12589, Seg: 2, Ack: l Len: 176 省 “ % 3 2
+3 bb SEYB By ake Bo Wane 2040 48 54 54 50
+TFTP... 6056 67 65 6e 74
+6056 30 20 28 63
+6076 53 49 45 20
+0030 20 4e 54 20
+5959 2f 35 2e 36

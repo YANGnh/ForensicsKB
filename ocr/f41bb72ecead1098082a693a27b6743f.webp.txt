@@ -1,0 +1,34 @@
+# OCR: f41bb72ecead1098082a693a27b6743f.webp
+# 来源: .\02-WriteUp\2024\f41bb72ecead1098082a693a27b6743f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+|) SYSTEM_BOOT@1729670250611.lost
+| F sySTEM_B00T@1729740434784.tet
+|X] system_server_wif@1726651226405.lost
+|X) system_server_wif@1726651226462.lost
+|X) system_server_wif@1726795509051 lost
+| X| system_server_wif@1726795509605.lost
+9 EtR
+E
+一 9 Ost | 回 R | 网 |
+Offset 0 1 2 3 4 5 @
+2290376704 69 73 50 72 65
+2290376720 OA 42 75 69 6C 64
+2290376736 69 61 6F 6D 69
+2290376752 64 65 76 31 30
+2290376768 72 2F 72 65 6C
+2290376784 61 72 64 77 61 72 68
+2290376800 52 65 76 69 73 68 E
+2290376816 6c 6F 61 64 65 72
+2290376832 64 69 6F 3A 20
+2290376848 49 33 OA 4B 65
+sRipaE:
+Bae:
+eH: wge
+- a x
+1729740434784
+‘Asia/Shanghai
+‘Asia/Shanghai
+[2024-10-24 11:27:14
+山 育

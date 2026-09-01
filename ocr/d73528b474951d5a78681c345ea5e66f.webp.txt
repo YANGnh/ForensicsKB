@@ -1,0 +1,31 @@
+# OCR: d73528b474951d5a78681c345ea5e66f.webp
+# 来源: .\02-WriteUp\2025\d73528b474951d5a78681c345ea5e66f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+[rootek8s-master ~]# kubectl get ns
+NAME
+default
+default-mem-example
+kube-node- Lease
+kube- public
+kube-system
+kubernetes-dashboard
+www-mtbtsdafda-com
+[root@k8s-master ~]#
+STATUS
+Active
+Active
+Active
+Active
+Active
+Active
+Active
+AGE
+244d
+243d
+244d
+244d
+244d
+244d
+243d

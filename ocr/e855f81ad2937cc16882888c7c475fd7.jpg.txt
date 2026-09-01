@@ -1,0 +1,7 @@
+# OCR: e855f81ad2937cc16882888c7c475fd7.jpg
+# 来源: .\02-WriteUp\2024\e855f81ad2937cc16882888c7c475fd7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+title url num _c
+0 1IIERMNR - TAMA https://casino.bet365.com/player-guides/zh-CHT/blackjack

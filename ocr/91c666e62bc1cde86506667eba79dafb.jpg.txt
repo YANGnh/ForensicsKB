@@ -1,0 +1,18 @@
+# OCR: 91c666e62bc1cde86506667eba79dafb.jpg
+# 来源: .\02-WriteUp\2024\91c666e62bc1cde86506667eba79dafb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+a 19:
+168.100.100 @
+A / Rise
+E z s 2 丞
+s -
+demotishop.com
+testlishop.com
+E
+192.168.100.100
+tee
+A
+E
+oe

@@ -1,0 +1,18 @@
+# OCR: 2943cbe4a5a3cbd3adcc6b85df7fe010.webp
+# 来源: .\02-WriteUp\2025\2943cbe4a5a3cbd3adcc6b85df7fe010.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+“accountName“ “ 无 “
+“amount“ 800,
+“category”: {
+“code”: "Custom2146848",
+“custom”: true,
+“icon”: "/DIY/icon sortc1.png “
+“title“ “ 接 单 “
+]
+“click”: false,
+“content”: “ 接 单 定 金 “
+“creator”: {
+“avatar”: "https://storage.bestrie.com/avatar/anonymous.png",
+"memberld": 4951227,

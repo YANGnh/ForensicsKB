@@ -1,0 +1,16 @@
+# OCR: bd8105634829b01b8e26829dea189aa7.webp
+# 来源: .\02-WriteUp\2024\bd8105634829b01b8e26829dea189aa7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+f (barr barr.length == @ || barr2 == null || barr2.length < 16 || £2954
+etl etl
+‘throw new InvalidParameterexception() 5
+)
+String substring = new String(bArr2).substring(@, 16);
+byte[] decode = Base64.decode(barr, 2);
+IvParameterSpec ivParameterSpec = new IvParameterSpec(substring.getBytes());
+SecretKeySpec secretKeySpec = new SecretKeySpec(barr2, "AES");
+Cipher cipher = Cipher.getInstance("AeS/CBC/PKCSSPadding" ) 5
+cipher.init(2, secretKeySpec, ivParameterSpec);
+return cipher.doFinal (decode) ;

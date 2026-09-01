@@ -1,0 +1,14 @@
+# OCR: 53c820c7982236587fe27174bd2cc386.webp
+# 来源: .\02-WriteUp\2025\53c820c7982236587fe27174bd2cc386.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+elect payer_id, sum(amount) tots
+ron transactions
+here “type” = ‘withdrawal’
+roup by payer_id
+der by total desc
+© ett Bi Result7 <
+fir 〇 Q 目 8 Q 团
+口 payer_id ¥ + Ototal ¥ :
+Ma19026 19611.739999999998

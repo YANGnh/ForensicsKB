@@ -1,0 +1,48 @@
+# OCR: ff007812afb8d8643e93b85830db0d07.webp
+# 来源: .\02-WriteUp\2025\ff007812afb8d8643e93b85830db0d07.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+@ pyLingual About Recently Viewed~ Help CQ (esse “ -
+Keybinding- reCO.PYC Python 3:1 aa
+Nowsunen
+10
+a
+13
+14
+a5
+16
+7
+18
+Python Code - Decompilation Success
+Decompiled with Pylingual (hi
+Internal filename: reco.py
+Bytecode version: 3.11a7e (3495)
+Source timestamp: 1970-01-@1 00:00:00 UTC (@)
+tps://py
+import matplotlib.pyplot as plt
+from matplotlib.font_manager import FontProperties
+import string
+fig, axes = plt.subplots(4,
+axes = axes.flatten()
+word_codes list = 服 5 101, 115, 115, 105, 111, 149], [1@2, 101, 118, 1¢1, 114], [115, 112, 111, 110, 115, 111, 114], [99, 114, 111, 117, 99, 1@4], [116, 1@5, 99, 107, 1¢1, 116], [116, 119, 105, 115, 116], [97, 112
+for i, word_codes in enumerate(word_codes_list):
+ax = axes[i]
+ax.set_xlim(@, len(word_codes) + 1)
+ax.set_ylim(@, 3)
+ax. set_xticks([])
+ax.set_yticks([])
+word = "*.join([chr(code) for code in word_codes]
+figsize=(12, 12))
+Submitted Bytecode
+6 LOAD_CONST @ (8)
+2 LOAD_CONST 4 (None)
+4 IMPORT_NAME 6 (matplotlib.pyplot)
+6 IMPORT_FROM z (pyplot)
+8 STORE_NAME 2 (plt)
+1@ PoP_TOP
+12 LOAD_CONST e (@)
+14 LOAD_CONST 2 ((*FontProperties’,))
+16 IMPORT_NAME 3 (matplotlib.font_manager)
+18 IMPORT_FROM 4 (FontProperties)
+20 STORE_NAME 4 (FontProperties)

@@ -1,0 +1,18 @@
+# OCR: adc707a3039a50e0ac8f47ece3ce4bc5.webp
+# 来源: .\02-WriteUp\2025\adc707a3039a50e0ac8f47ece3ce4bc5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+年 2025 (= 完 成
+分 析
+Gambling receipts and payments from Jan...
+> 趋 势 ( 收 入 )
+你 赚 得 和 往 常 一 样
+@ 今 年 @ 平 均 值
+Y32,959,790,276.00 “Y32,959,790,276.00
+央 余 额
+你 的 余 额 是 ¥22,074,145,663.00
+¥32,959,790,276.00 仁 A
+ee
+-¥10,885,644,613.00 su
+$ 储 蓉 率

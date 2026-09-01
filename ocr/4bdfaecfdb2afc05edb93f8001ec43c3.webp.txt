@@ -1,0 +1,23 @@
+# OCR: 4bdfaecfdb2afc05edb93f8001ec43c3.webp
+# 来源: .\02-WriteUp\2025\4bdfaecfdb2afc05edb93f8001ec43c3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+Superuser
+囡 四 寸 国
+回 命
+org fdroid.fdroid
+Gboard
+com.google.android.inputmethod latin
+Google Play Services for AR
+com.google.ar.core
+Google Wallet
+com.google.android.apps.walletnfcrel
+Jami
+ox.ring
+Linux Deploy
+ru.meefiklinuxdeploy
+LocalSend
+org.localsend.localsend_app
+E
+060 目 目 目 〖 -

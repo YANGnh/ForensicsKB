@@ -1,0 +1,21 @@
+# OCR: 80f9fd59e8b1a90b0d99b130da6b7862.webp
+# 来源: .\02-WriteUp\2025\80f9fd59e8b1a90b0d99b130da6b7862.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+File Edit View Options Help
+一 言 邑 | 录 园 国 白 字 昌 沥
+Snapshot Name 万 Explorer Path Volume Path Volume Name Originating Machine
+® \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy7 _\\localhost\G$\@GMT-2025.05.19-09.27.47, GA \\?\Wolume{8d20cebb-4b82-11f0-be2e-4c0f3e63056e}\ “DESKTOP-02H4UR
+@ XGLOBALROOTWDevicethHarddiseyolumeshadowCopy5 _\\localhost\C$\@GMT-2025.06.18-03.41.32 CA \\?\Wolume{bc335ddb-a89b-4291-aefb-ad814e822814}\ DESKTOP-8RM6G90
+@ NXGLOBALROOTWDevicethHarddiseyolumeshadowCopy4 “WocalhostCSN@GMT-2025.0618-0341.25 cA \\?\Wolume{bc335ddb-a89b-4291-aefb-ad814e822814}\ DESKTOP-8RM6G90
+@ XGLOBALROOTADevicethHarddiseyolumeshadowCopy3 _\\localhost\C$\@GMT-2025.06.14-02.42.41 x \\?\Wolume{bc335ddb-a89b-4291-aefb-ad814e822814}\ DESKTOP-8RM6G90
+\Users\admin\Desktop
+Filename + Modified Time Created Time Entry Modified Ti File Size Attributes File Extension
+冠 Prvazer 40.101Setup 2025/3/5 1457:12 2025/5/1 1 2025/S/19 17:18:... D 101Setup
+E 2025/5/19 15:39:. 2025/5/19 15:39:. 2025/5/19 15:39:... D
+al desktop.ini 2025/5/16 15:1 2025/5/16 15: 2025/5/16 15:18:... 282 AHS ini
+[H)PrivaZer_4.0.101_Setup.zip 2025/5/19 17:17:.... 2025/S/1917:18:。 2025/5/19 17:18:... 15,796,344 A zip
+[")Xshell.Ink 2025/5/16 15:34:. 2025/5/16 15:34:. 2025/5/16 15:34:... 645 A Ink
+B 第 - 汀 告 bt 2025/5/19 11: 2025/5/19 11: 2025/5/19 11:57:... 342 A E
+6 Files+Folders, 1 Selected NirSoft Freeware. https:/www.nirsoft.net

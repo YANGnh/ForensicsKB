@@ -1,0 +1,39 @@
+# OCR: 632bf679c9d7a807caea7f391a2ee439.jpg
+# 来源: .\02-WriteUp\2024\632bf679c9d7a807caea7f391a2ee439.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+匹 ifpcopro
+SHO MIE WEY BG BRO HW SO SEM ew TAO wm)
+白 DERE te2eF
+http contains “phpmyadmin” && http
+Time Source Destination Protocol Lengt! Info
+264 41.98475@ 192.168.85.138 192.168.85.25@ HTTP 413 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+286 43.108396 192.168.85.138 192.168.85.250 HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+313 44.214285 192.168.85.138 192.168.85.250 HTTP 396 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+340 45.308711 192.168.85.13@ 192.168.85.25@ HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+十 366 46.428525 192.168.85.130 “192.168.85.258 HTTP 390 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+392 47.555811 192.168.85.138 192.168.85.250 HTTP 394 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+419 48.663181 192.168.85.138 192.168.85.25@ HTTP 397 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+446 49.785555  192.168.85.130 “192.168.85.258 HTTP 395 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+473 58.987384 192.168.85.13@ 192.168.85.25@ HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+499 52.017365 192.168.85.130 “192.168.85.258 HTTP 394 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+526 53.137797 192.168.85.138 192.168.85.25@ HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+552 54.245659 192.168.85.13@ 192.168.85.25@ HTTP 395 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+579 55.358387 “192.168.85.138 192.168.85.25@ HTTP 394 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+607 56.47589@ 192.168.85.130 192.168.85.250 HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+633 57.603774 192.168.85.13@ 192.168.85.25@ HTTP 396 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+660 58.71275@ 192.168.85.130 192.168.85.250 HTTP 395 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+GR7_5Q_21790R 107 162 RE 13A_107 168 RS ISA HTTP —_2QA_ PACT /mhnmradmin/ HTTP/1 __/onmiratinnjvesecfrrmcurlenrndoh
+> Frame 366: 390 bytes on wire (3120 bits), 390 bytes captured (3120 bits) on interface \Device\NPF_{9F3BE| 0000 0@ 8c 29 a3
+> Ethernet II, Src: VMware _f3:b8:de (@0:0c:29:f3:b8:de), Dst: VMware_a3:c7:cf (@0:0c:29:a3:c7:cf) e010 01 78 66 fe
+> Internet Protocol Version 4, Src: 192.168.85.130, Dst: 192.168.85.250 国 图 罗 fa 口 吊
+> Transmission Control Protocol, Src Port: 49770, Dst Port: 88,Seq: 1, Ack: 1, Len: 324 Pas 20S
+i 0040 48 £7 50 4f
++ HTML Form URL Encoded: application/x-www-form-urlencoded hea S60 21 28
+> Form ‘pma_username" = "root" 9070 35 30 6d ea
+> Form i token" = "95d61e34dc30fb3@cabdd430405Fd973" 9080 6b 65 65 70
+> Form i ‘target! rl. php” 2099 7@ 74 2d 45
+> Form i ‘pma_password" = “root” 0920 7@ 2c 20 64
+* 9aba 78 74 3a 20
+> Form 3 server"

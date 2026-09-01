@@ -1,0 +1,45 @@
+# OCR: 199f48dabac7f2ed7f919af7e2072842.webp
+# 来源: .\02-WriteUp\2024\199f48dabac7f2ed7f919af7e2072842.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+E
+口 日 日 口 口 日 D 口 日 D 口 日 D 口 日 D 口 日
+Se
+4 __[data/data/com.sec.android.app.myfiles/databases
+E Be
+Account.db data/data/com sec.android.app.myfiles/databases/Account.db
+Account.db-shm
+Account.db-wal
+FileCache.db
+FileCache.db-shm
+FileCache.db-wal
+Filelnfo.db
+Filelnfo.db-shm
+Filelnfo.db-wal
+Frequency.db
+Frequency.db-shm
+Frequency.db-wal
+Homeltem.db
+Homeltem.db-shm
+Homeltem.db-wal
+OperationHistory.db
+OperationHistory.db-shm
+OperationHistory.db-wal
+data/data/com sec.android.app.myfiles/databases/Account.db-shm
+data/data/com.sec.android.app.myfiles/databases/Account.db-wal
+data/data/com.sec.android.app.myfiles/databases/FileCache.db
+data/data/com.sec.android.app.myfiles/databases/FileCache.db-shm
+data/data/com.sec.android.app.myfiles/databases/FileCache.db-wal
+data/data/com.sec.android.app.myfiles/databases/Filelnfo.db
+data/data/com.sec.android.app.myfiles/databases/Filelnfo.db-shm
+data/data/com.sec.android.app.myfiles/databases/Filelnfo.db-wal
+data/data/com sec.android.app.myfiles/databases/Frequency.db
+data/data/com.sec.android.app.myfiles/databases/Frequency.db-shm
+data/data/com.sec.android.app.myfiles/databases/Frequency.db-wal
+data/data/com.sec.android.app.myfiles/databases/Homeltem.db
+data/data/com.sec.android.app.myfiles/databases/Homeltem.db-shm
+data/data/com.sec.android.app.myfiles/databases/Homeltem.db-wal
+data/data/com.sec.android.app.myfiles/databases/OperationHistory.db
+data/data/com.sec.android.app.myfiles/databases/OperationHistory.db-shm
+data/data/com.sec.android.app.myfiles/databases/OperationHistory.db-wal

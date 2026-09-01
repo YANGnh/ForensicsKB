@@ -1,0 +1,39 @@
+# OCR: a3ee187fc75c6bf5d101472b47204591.webp
+# 来源: .\02-WriteUp\2025\a3ee187fc75c6bf5d101472b47204591.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+last
+Lightdm tty9
+Lightdm tty9
+[ryligebei® kal )-[/var/Log/ journal /daf7e90620214e6¢8e03957ab4826C47 |
+$
+05:02 (00:
+左 (00
+04 (00
+14 (00
+41 (00
+01:12 (00:
+still logged in
+00:40 (00:00)
+still logged in
+Wed May 28 04:55
+Wed May 28 03:58
+Lightdm tty9 Wed May 28 03:03
+Lightdm tty9 Wed May 28 02:00
+root pts/0 Wed May 28 01:36
+Lightdm tty9 政 Wed May 28 01:00
+haobei tty8 1 Wed May 28 00
+Lightdm ttys 1 Wed May 28 00
+0
+root tbp Wed May 28 00
+y
+Lightdm ttys ia Thu
+haobei ssh 192.168.3.253 Thu
+haobei ssh 192.168.3.253 Thu May 15 03:30 - 03:30 (00:00)
+haobei ssh 192.168.3.253 Thu May 15 03:22 - still logged in
+haobe ssh 192.168.3.253 Thu May 15 03:22 - still logged in
+Lightdm ttys at Thu May 15 02:20 - 03:21 (01:01)
+rost pts/1 Thu May 15 02:01 - still logged in
+Lightdm tty7 0 Thu May 8 03:57 - still logged in
+/var/1ib/wtmpdb/wtmp.db begins Thu May 8 03:57:54 2025

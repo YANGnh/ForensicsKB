@@ -1,0 +1,9 @@
+# OCR: 72656af5a1785d0fe463927166881fb2.webp
+# 来源: .\02-WriteUp\2025\72656af5a1785d0fe463927166881fb2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+Frame 2/55. Packet, /66 Dytes on wire (6126 02681 , /66 bytes captured (Oizo 9681 on interrace evice _tAcar
+Ethernet II, Src: ChongqingFug_2b:5c:77 (a8:93:4a:2b:5c:77), Dst: Intel_8e:49:96 (ec:4c:8c:8e:49:96)
+Internet Protocol Version 4, Src: LAPTOP-4VTTP@OT.local (192.168.8.15), Dst: BigBaos.local (192.168.8.30)
+Transmission Control Protocol, Sre Port: 58471, Dst Port: 8080, Seq: 1, Ack: 1, Len: 712

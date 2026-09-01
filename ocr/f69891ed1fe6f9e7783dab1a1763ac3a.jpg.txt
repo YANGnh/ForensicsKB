@@ -1,0 +1,10 @@
+# OCR: f69891ed1fe6f9e7783dab1a1763ac3a.jpg
+# 来源: .\02-WriteUp\2024\f69891ed1fe6f9e7783dab1a1763ac3a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+information
+Ed
+D localhost
+B test
+5,965

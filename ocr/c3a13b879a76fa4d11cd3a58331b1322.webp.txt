@@ -1,0 +1,34 @@
+# OCR: c3a13b879a76fa4d11cd3a58331b1322.webp
+# 来源: .\02-WriteUp\2025\c3a13b879a76fa4d11cd3a58331b1322.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+339
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+[online] received express login
+[Loginutiis] receive express login request from online
+[service] Check password: type(1), account(), password is empty(no)
+[service] connect p2p server @ 182.100.46.36:4118
+[udp] support straight send in peer : no 182.100.46..
+[PzPAccepter] connect p2p server 182.100.46.36:4118 OK
+[p2paccepter] detect local ip 192.168.3192
+[P2paccepter] login p2p server [182.100.46.36:4118] OK,received public ip 116.192.161.222:2577
+[Loginutits] P2>_INDEX = 1789689751
+[Loginutiis] access address PHSRC: //1789689751.s1p2p-336125-std.oray.net:4118/, PHSRC_HTTPS: //1789689751.s
+[P2pAccepter] attempted to create forward tunnel sip2p-336125-std.oray.net:443 with ssi
+[P2paccepter][TCP] attempt to create forward tunnel, server s1p2p-336125-std.oray.net:443, ss1:true
+[P2paccepter][TCP] attempt to connect tep server slp2p-336125-std.oray ni
+attempt to connect server slp2p-336125-std.oray.net :443(182.100.46.36:443)

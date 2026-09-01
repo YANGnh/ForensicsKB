@@ -1,0 +1,25 @@
+# OCR: 4bf9a8847fb3861cf427b3560e370ba6.webp
+# 来源: .\02-WriteUp\2025\4bf9a8847fb3861cf427b3560e370ba6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+> STRING (4)
+MEDIA(4)
+coLoR(1)
+FLOAT(1)
+PROF(2)
+id(DEC)
+16777216
+16777220
+16777221
+16777222
+name
+app-nane
+EntryAbility_desc
+EntryAbility label
+module_desc
+base
+PGSDBW
+description
+PGSDBW
+module description

@@ -1,0 +1,12 @@
+# OCR: 2e4f67cb3e9c26b4351108ce893e8648.webp
+# 来源: .\02-WriteUp\2025\2e4f67cb3e9c26b4351108ce893e8648.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+const _Ox7ea2 = crypto[_0xd8c3(5)](_0x2f76.a,_0x2f76.k,
+let _0x9d42;
+if (textlength > 0) {
+_0x9d42 = BufferL Oxd8c3(6)](C
+_Ox7ea2[_0xd8c3(7)|(text.toStringd,
+“Ox7ea2[_0xd8c3(8)]0)
+Ds

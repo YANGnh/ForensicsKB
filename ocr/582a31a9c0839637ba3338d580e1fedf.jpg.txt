@@ -1,0 +1,43 @@
+# OCR: 582a31a9c0839637ba3338d580e1fedf.jpg
+# 来源: .\02-WriteUp\2024\582a31a9c0839637ba3338d580e1fedf.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+10
+u
+2
+A
+8
+c
+Cname Gender | Birthday
+5 E
+Mobile EMail
+a=
+[
+Sante
+SKE
+|e
+me
+E
+自 苏
+E
+页 艾 一 井 史 艾 艾 史 史 口
+19810501
+19740713
+19830825
+19680721
+18851082222 yaoda***@163.com
+18311943333 19740**6@qq.com
+18752084444 dou_r***ui@hotmail.com
+18960765555 xmww***1 @sina.com
+19800728} 18921286666|marwe***@163.com
+19740313
+19830606
+19820907
+19700307
+19810319
+18823707777 miaoh***.m@gmail.com
+18721708888 hhhhy***@gmail.com
+18396059999 zheng***ng_xu520@sina.com.cn
+18943191111 z hon***n@126.com
+18561928865 ipave***163.com

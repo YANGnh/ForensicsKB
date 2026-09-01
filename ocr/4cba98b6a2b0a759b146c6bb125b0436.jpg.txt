@@ -1,0 +1,15 @@
+# OCR: 4cba98b6a2b0a759b146c6bb125b0436.jpg
+# 来源: .\02-WriteUp\2024\4cba98b6a2b0a759b146c6bb125b0436.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+Vv 磁 李 H 认
+v RAR 568349,
++ 量 EIH (6) 1
++ 万 Be (c) 499463
++ 一 ake 39
++ 二 RRB 1
+十 一 SE (D) 68227
+oe
+》 门 sense 5
+》 目 FF 6

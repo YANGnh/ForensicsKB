@@ -1,0 +1,10 @@
+# OCR: 14434e70c2daa801b0f88743f55dc56d.jpg
+# 来源: .\02-WriteUp\2024\14434e70c2daa801b0f88743f55dc56d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+[(mtielmti]-[/]
+$ sudo find L -name Thinkphp*
+[sudo] password for kali:
+find: ‘/run/user/1000/gvfs': Permission denied
+/home/kali/Downloads/ThinkphpGUI-1.3-SNAPSHOT. jar

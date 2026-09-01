@@ -1,0 +1,9 @@
+# OCR: e8a70e0dd60a54c050d1672715e98c0c.jpg
+# 来源: .\02-WriteUp\2024\e8a70e0dd60a54c050d1672715e98c0c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+Task viewer: VM 102 - 重 吊
+E s
+| |
+_ TASK ERROR: VM quit/powerdown failed - got timeout

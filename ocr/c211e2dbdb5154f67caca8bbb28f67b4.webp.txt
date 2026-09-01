@@ -1,0 +1,22 @@
+# OCR: c211e2dbdb5154f67caca8bbb28f67b4.webp
+# 来源: .\02-WriteUp\2024\c211e2dbdb5154f67caca8bbb28f67b4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+L
+returns
+)
+String obj = Nainactivity.this.editText.getText() .tostring()s
+try {
+File file2 = new File(str, Mainactivity.this.filellame + txt");
+Log.d("TAG", "RARE: "+ t
+Fileuiriter #ileiiriter ~ new Fileiiriter(file2);
+Fileticiter-append( (CharSequence) obj);
+filetiriter.flush()s
+Filetiriter.close();
+Toast.makeText Viainactivity.this, “S)st3h", 0) .show();
+Nainactivity this.doZipSinglerilewithPassword(File2, “IlsDa9Re5St2b3a,[')s
+} catch (10Exception e) {
+e.printstackTrace()3
+Log-d("TA6", "EDM: "+ e.getessage())s
+Toast.makeText iainactivity.this, "5 )clit", ©) .shou()s

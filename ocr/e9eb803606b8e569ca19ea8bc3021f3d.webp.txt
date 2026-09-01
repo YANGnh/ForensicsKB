@@ -1,0 +1,26 @@
+# OCR: e9eb803606b8e569ca19ea8bc3021f3d.webp
+# 来源: .\02-WriteUp\2025\e9eb803606b8e569ca19ea8bc3021f3d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+0x10, @x11,0x12,@x13, 0x1.
+cBc Raw
+Salsa20
+Key
+@x4d , 0x90, 0x37, 0x38, 0x4..
+Nonce
+HEX ~
+HEX
+HEX~
+0x20, @x21,,0x22, 0x23, 0x2.
+Counter Rounds
+e 20
+Input Output
+Raw Raw
+LgilCeebjast3vKygQALNMphb6DITsXy ial SLL7XMRGO7B+af22NCthxcZUget2m7 EA
+It/biofDgmZdUj IDNOgm LduA7036xjuOxYak/K 14)
+E
+Output Bom:
+|/storage/emulated/@/Android/data/com. example. liekai/files/recording
+11753597638259
+Tr Raw sytes LF

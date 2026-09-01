@@ -1,0 +1,12 @@
+# OCR: 16b789b936a8cdda0d1043b66101301e.jpg
+# 来源: .\02-WriteUp\2024\16b789b936a8cdda0d1043b66101301e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+N 国 ronsactonz @main (MoneyloverS2).. 命 “ 无 E - Sa ‘TB categories @main (MoneyLovers2) -
+er T saga 关 芊 tsaL (] RR Exe - 门 sue ih ame
+[MoneyLovers2 | fj main 门 P B - 口 t Pam
+1 SELECT SuM(amount) FROM transactions HHERE cat_id IN (SELECT cat_id FROM categories WHERE cat_type = 1)
+2 ge SR
+SUM(amount)
+» 279002

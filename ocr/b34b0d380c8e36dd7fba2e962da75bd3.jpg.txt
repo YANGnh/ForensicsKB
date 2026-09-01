@@ -1,0 +1,31 @@
+# OCR: b34b0d380c8e36dd7fba2e962da75bd3.jpg
+# 来源: .\02-WriteUp\2024\b34b0d380c8e36dd7fba2e962da75bd3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+1 |
+[root@localhost CobaltStrike]# ls
+a1z41-941ba-881_ico CNA cobaltstrike
+agscript cobaltstrike cobattStrtke
+c2 cobattstrtke_bat cobattstrtke
+c2tunt cobaltstrtke jar CSAgent_jar
+[root@localhost CobaltStrike]# -/teanserver 192 168
+I WiLL use existing X509 certificate and keystore
+-store cCs.vbs
+store data
+-store_bak downloads
+hs_err_pid5484_log
+tcon.tco
+Ladon10.10 20230503
+hs_err_pidi96.log Logs
+217-188 123456
+(for SSL)
+* Loading properties file (/home/CobaltStrike/TeamServer . prop) -
+[!] Properties file (/home/CobaltStrike/TeamServer prop) was not found.
+[+] Team server is up on 0.0.0.0-59837
+[ 月 SHA256 hash of SSL cert is: 6518555fb3cSbccc6c35efa2aa651ecc8566ef OF 7128b69614Fb6efbeeSc43ee
+ia Listener: csma started!
+peclone
+resources
+scripts
+teamserver

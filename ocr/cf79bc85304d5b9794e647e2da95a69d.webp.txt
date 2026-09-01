@@ -1,0 +1,15 @@
+# OCR: cf79bc85304d5b9794e647e2da95a69d.webp
+# 来源: .\02-WriteUp\2025\cf79bc85304d5b9794e647e2da95a69d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+丽\ Pp A kali 64 位 vmdk - 计 算 机 E01 > .Fi「ef(】X演n]览暑暑 鳄 kali “ 尿 历 史 记 录 Q Roel
+2/144139 口 万 序 号 =n = URL = 最 后 访 间 时 间
+3 过 滑 过 滑 了 , 起 始 结 束 Vv
+47 1 https://portswigger.net/in-product/community/proxy/intercept 2025-05-09 10:30:26
+“ 2 https://portswigger.net/burp/documentation/desktop/tools/proxy/getting-started-intercept?utm_s... “2025-05-09 10:30:26
+24533 3 Kali Linux filey///usr/share/kali-defaults/web/homepage html 2025-05-09 15:45:14
+12 4 Kali Linux filey///usr/share/kali-defaults/web/homepage html 2025-05-09 15:45:18
+273 5 404 Not Found http://www. forensix.test.com/bf_form.php 2025-05-09 15:45:49
+6 Get the pikachu http://www. forensix.test.com/vul/burteforce/bf_form.php 2025-05-09 15:46:04
+4 7 Get the pikachu http://www. forensix.test.com/vul/burteforce/bf_form.php 2025-05-09 15:46:32

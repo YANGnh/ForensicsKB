@@ -1,0 +1,31 @@
+# OCR: 186887b92f9f05a7cde090dc333fab63.webp
+# 来源: .\02-WriteUp\2025\186887b92f9f05a7cde090dc333fab63.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+zt -F4/L.tar\data\user\0\com.ivanovsky.passnotes\shared_prefs
+[Ree EE ee
+巳 - = comivanovsky.passnotes EH
+a. = shared prefs (0 H -
+| comivanovsky.passnotes,_preferences.xml FES, .. xml
+国 cAUsers\ADMINI~1\AppData\Local\Temp\com.ivanovsky 9952.xml [SAIS] - Nad
+SAA REE) SRO MEV) SBN) BAY RE 刑 6 交 TRO)
+.tar\data\user\0
+f.tar\data\user\O\comivanovsky
+\i841-S2H1 tar data\user\0\comivanovsky
+颖 # TO REE
+3 国 目 昌 | 国 | 府 | 日 @ | 曾 鲍 园 | 乡 4 && 1 由
+Ghot.edeny 团 国 toy 团 团 racint gy 团 团 gmlog t 团 团 hot st 四 团 IfBBB et 四 目
+2 <?xml -version='1.0'-encoding='ut£-8'-standalone="yes! -?>
+2 月 anap>
+3 | . cbooleannamezoisockNotificationgisiblen.valuezotzuen />
+4 | . cbooleannamezoisgiometziconlockEnabledr -value="true" ./>
+s | . cscring.nanecvautorockpelayTnitsn>300000</string>
+一 坤 [OR © | …<scring.nanecvgitosezhamer>chewhaoN</stzing>
+Offset | ( 7 | --++<string-name="gitUserEmail">fic@wjcwgc.com</string>
+00000000 3% = | ....<string-name="searchType">STRICT</string>
+ooo00016 | 国 5 dboolean.nameznispostponedSymcgnabledn - value="true" -/>
+aaoedeaa 5 ++. s<string -name="autoClearClipboardDelayInMs">30000</string>
+P 24 ++» +<boolean -name="isLogToFileEnabled" - value="false" -/>
+00000080 引 22 </map>
+00000096 | 13

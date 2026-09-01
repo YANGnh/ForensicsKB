@@ -1,0 +1,29 @@
+# OCR: 89c0e9d188df445a9f7effde0cf33d6e.webp
+# 来源: .\02-WriteUp\2025\89c0e9d188df445a9f7effde0cf33d6e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+BP eaalOo|K
+© GB Disktven_ TU200PretPiod_2566E | Value Type Data
+一 巳 7e12ase0sd0.000000 Capabities REG_DWORD  ov00000080
+Device Parameters al] Container REG_SZ _(34185b67-68735b34 905) Sdec76455ee5)
+© G Propatios 途 CompatblelDs REG_MULTI... wedbuserum\fsSWD\Genetio
+画 团 Geetpstotttvtsg all) ClassGUID REGSZ vsvesesppyscviteotea
+口 团 Eouepestottyewe | al) Diver E SZ csvtsespyscoisetotio
+i oon | | a a REGS2 。 TU200Pa
+E all Service REGSZ — WUDFWedFs
+te (@ (90897100-8073-42692 ConfigFlags REG_DWORD 000000000
+eG (63de6326-9706-4088-94
+ce CB fesbe65de-263¢-4094-ac | al) FiiendyName REGSZ EA
+@ @ storage
+3 @ sw
+宇 团 Moen
+日 团 spas
+心 团 PRINTENUM
+@ @ Ravi
+E
+一 巳 (ecwtueieonlesteit
+& G Device Parameters
+a G Poopeties
+| @ use
+© @ hoorhus

@@ -1,0 +1,12 @@
+# OCR: 72e9c2ead6fea4c749c0d884c32223cd.jpg
+# 来源: .\02-WriteUp\2024\72e9c2ead6fea4c749c0d884c32223cd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+仁 火 统 宁 全 SBR
+口 二 “ 共 发 现 风 险 项 目 1 个 , 建 议 立 即 处 理
+口 二 E
+4 RB
+CAUsers\Administrator\Desktop\resource_hacker\Wechatexe
+国 Backdoor/Cobaltstrike.d
+a

@@ -1,0 +1,34 @@
+# OCR: a2a77490a85fbbe220e3bc39efe4aee4.webp
+# 来源: .\02-WriteUp\2025\a2a77490a85fbbe220e3bc39efe4aee4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+详 细 信 息
+名 称 : default.conf
+扩 展 名 : conf
+类 型 : 文 件
+大 小 : 1.74 KB
+创 建 时 间 : 2024-03-24 00:00:15
+访 问 时 间 : 2025-11-06 09:51:26
+修 改 时 间 : 2025-11-06 09:51:26
+元 数 据 地 址 : 1587067
+全 路 径 ; 服 务 器 检 材 二 E01/ 分 区 2/home/CCY/nginx-adminyconfig/conf:d/defaultconf
+meee: 未 加 密
+已 脑 除 : 否
+原 类 型 视 图
+PAGE
+文 本 视 图 十 六 进 制 视 图 口
+ZOOM
+HIGHLIGHT @
+: |
+location /install-package/ {
+root /tmp/;
+location ~ /manage-server/* {
+proxy_pass http://127. 23. 194. 157:13000;
+proxy_set_header Host $host;
+proxy_set_header X-real-ip $remote_addr;
+proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+proxy_set_header Connection “
+proxy_http_version 1.1;
+chunked_transfer_encoding off;
+proxy_buffering off;

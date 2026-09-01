@@ -1,0 +1,10 @@
+# OCR: 390c4360056aaac7a7281b02616f0fce.webp
+# 来源: .\02-WriteUp\2025\390c4360056aaac7a7281b02616f0fce.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+127.8.8.1 localhost localhost.1ocaldomain localhost4 localhost4.1ocaldomain4
+ia localhost localhost.localdomain localhost6 localhost6.localdomainé
+192.168.2.199 k8s-master
+192.168.2.20@ k8s-node1
+192.168.2.201 k8s-node2

@@ -1,0 +1,26 @@
+# OCR: 037cc0ef47f320e5c7b8cfe8256938ce.webp
+# 来源: .\02-WriteUp\2025\037cc0ef47f320e5c7b8cfe8256938ce.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+@ linux.conf @ C:/hinet/1-1748241630/4244 1-4) tar/data/user/0/ru.meefiklinuxdeploy/files/config * - Kate
+SAD #40 220 12M G Ike 。LSP 吊 P 280 IRD BBO mW)
+Dat anv Bee Bsa. 9 a
+te [le peur x |
+SUITE="bookworm"
+TARGET PATH="$ {EXTERNAL STORAGE}/UUID"
+TARGET TYPE="file"
+a
+fh
+回
+人
+1
+VNC_DEPTH="16"
+39  VNC_DISPLAY="0"
+40  VNC_DPI="75"
+41  VNC_HEIGHT="1080"
+42 VNC_WIDTH="2320"
+43 X11_DISPLAY="0"
+44 |X11 HOST="127.0.0.1"
+45 X11 _SDL="false"
+46 |X11_SDL DELAY="15"

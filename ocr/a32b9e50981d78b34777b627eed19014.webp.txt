@@ -1,0 +1,12 @@
+# OCR: a32b9e50981d78b34777b627eed19014.webp
+# 来源: .\02-WriteUp\2025\a32b9e50981d78b34777b627eed19014.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+G 1 windowed! 1 33 HeaaR > 20338B
+2aa TR v St vy Bev ag r
+Ss RHE
+口 1 “DneoWmRRscauaumind
+口 2 “DneoWjamRpRhtatfStmind
+口 3 “D2PyhonpmgaRtconnd
+口 4 DiReRtmstomind

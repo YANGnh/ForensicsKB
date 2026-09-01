@@ -1,0 +1,12 @@
+# OCR: cbd2408fd634f245a2751d391a8c876d.jpg
+# 来源: .\02-WriteUp\2024\cbd2408fd634f245a2751d391a8c876d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+这 则 cobat Strike Teamserver
+i}
+EM: |192.168.217.188
+ow: |59837
+FAP: |neo
+a
+(ae ea)

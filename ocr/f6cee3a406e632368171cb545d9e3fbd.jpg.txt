@@ -1,0 +1,22 @@
+# OCR: f6cee3a406e632368171cb545d9e3fbd.jpg
+# 来源: .\02-WriteUp\2024\f6cee3a406e632368171cb545d9e3fbd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+SELECT user_id,message,create_at FROM “Post” WHERE channel_id = ‘dpqyctmqif@imjunikk3iqiahy|’ ORDER BY create_at
+俊 招 1
+user id message create_at
+> enf863dp lifi3ffos7bpduynny got joined the team. 1713926729202
+ekzparbtatidte6tyoxyySmrty fujiya joined the team. 1713927384895,
+jrmi9kxBpfg9drc7bSdezh7neo yiyan joined the team. 1713927386828
+aqceyadrxbrajq8bpuk89wrtuw maoxueliu joined the team. 1713927529683,
+odyzexuusio8t8pp68ufpdyer yangyuehua joined the team. 1713928382009
+362guhfox7baipsbp9cq393qkc jingguangming joined the team. 1713928530414
+enfa63dp1ifi3ffos7bpduynny 入 B REBRANESS 1713929174548
+ekzparbiatidteStyoxyySmrty Ei) 1713929223493,
+enf863dp1ifi3fos7bpduynny SARNADARRESOAT 1713930611559
+enf863dp1ifi3fos7bpduynny BEAR 1713930616787
+ekzparbiatidteStyoxyySmrty a 1713931447714
+adyzexuusio8t8pp68ufpdyer SREERIVE ER 1713931525776
+odyzexuusfno8t8pp68ufpdyer BLCERNCSEAMT. F 1713931703394
+SS a TT <a

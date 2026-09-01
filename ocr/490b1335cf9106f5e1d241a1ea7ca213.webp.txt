@@ -1,0 +1,25 @@
+# OCR: 490b1335cf9106f5e1d241a1ea7ca213.webp
+# 来源: .\02-WriteUp\2024\490b1335cf9106f5e1d241a1ea7ca213.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+p Https
+E
+a
+Websocket HTTP1 HTTP2 JSON XML 3a HTML JS 国 婉 绍
+Be
+GET
+a d
+URL
+.ws://127.0.0.1:10007/download
+SRE
+@ msedge
+Pa ints Oe ale is oh
+SHEL x Boe 3n 4n Soo
+Se Re S55) BRA) RA
+https://2pi.sxb |.com/user/v2/login?password=e10adc3949ba59abbeS6e05
+nType=0&mobile=1391 3911391 &time=17320668778secret=bcbb321b18:
+E Completed
+we Post
+E ria
+P 200

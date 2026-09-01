@@ -1,0 +1,70 @@
+# OCR: 63bd8049a74fce8a73fabcd59a34ef08.jpg
+# 来源: .\02-WriteUp\2024\63bd8049a74fce8a73fabcd59a34ef08.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+eax +
+[root@localhost ~]# docker ps
+CONTAINER ID IMAGE ‘COMMAND
+NAMES
+85c6F203baSb 。corenttnth/tt-tools:latest “/docker-entrypotnt
+::8888->88/tcp it-tools
+b28698e532@a__Loutslan/uptime-kuna:1 *Jusr/bin/dumb-tntt -
++:3001->3001/tcp  uptime-kuma
+41945cbed@27 “soutteary/flare "flare --nologin=6"
+::86->5885/tcp flare-flare-1
+[root@localhost ~]# netstat -anpt
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address Address.
+tcp 8 6 114 许
+tcp 8 6 8080 *
+tcp 9 8 80 *
+tcp 8 8 22 E
+tcp 8 8 3061 诊
+tcp 6 8 1:25 许
+tcp 8 36 217-131-22 2171-26974
+tcp6 8 8
+tcp 6 8
+tcp6 8 8
+tcp6 8 8
+tcp 8 8
+tcp6 8 8
+tcp6 6 8
+CREATED
+2 weeks ago
+2 weeks ago
+2 weeks ago
+State
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+ESTABLISHED
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+STATUS PORTS
+Up 2 minutes 8.6.8.8:8888->88/tcp,:
+Up 2 minutes (healthy) @.0.0.6:3001->3001/tcp,
+Up 2 minutes 0.0.0.0:80->5005/tcp, =
+PID/Program name
+793/rpcbind
+2961/docker-proxy
+2916/docker-proxy
+1115/sshd
+2936/docker-proxy
+1498/master
+9171/sshd: root@pts
+793/rpcbind
+2967/docker-proxy
+2925/docker-proxy
+1115/sshd
+2943/docker-proxy
+1498/master
+1123/alist

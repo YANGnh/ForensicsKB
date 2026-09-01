@@ -1,0 +1,31 @@
+# OCR: aa19350024d8995b689d14464cab9371.jpg
+# 来源: .\02-WriteUp\2024\aa19350024d8995b689d14464cab9371.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+@ G D | | nenieotemn-mue x 目 Openwe- si - Luci x +
+《 G A
+OpenWrt
+BE | 222.2.22/cai-bin/luci
+te
+b
+E
+RS
+E
+PRBS
+系 统
+wes
+eae ae E
+eae. as ‘VMware nc. VMware Virtual Platform
+WireGuard BB,
+E [AMD Ryzen 7 4800H with Radeon Graphics
+OR
+E OpenWrt Stable Version compiled by eSir / LuCl openwrt-21.02 branct
+口 BRS
+ss 5.4164
+@ Docker
+a) 2024-08-31 06:5134
+& BS
+sees on ams
+> BH
+E 0.08, 0.03, 0.00

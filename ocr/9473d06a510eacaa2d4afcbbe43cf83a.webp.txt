@@ -1,0 +1,6 @@
+# OCR: 9473d06a510eacaa2d4afcbbe43cf83a.webp
+# 来源: .\02-WriteUp\2024\9473d06a510eacaa2d4afcbbe43cf83a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+# 结果: 无可用文本（tesseract 未识别到文字）

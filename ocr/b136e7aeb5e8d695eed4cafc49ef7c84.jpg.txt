@@ -1,0 +1,18 @@
+# OCR: b136e7aeb5e8d695eed4cafc49ef7c84.jpg
+# 来源: .\02-WriteUp\2024\b136e7aeb5e8d695eed4cafc49ef7c84.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+®@ berack py x
+import berypt
+target_hash = b*$2a$10$A1UikRIMBtrohKNRg240jewSpL2WXi9Rq7NriLHHINBSSRIOLAXYa"
+with open(‘dict.txt', 'r') as f:
+for i in f.readlines():
+if berypt.checkpw(i.strip().encode(), target_nash):
+print(*beryptHiz: " + i.stripO)
+7 exit)
+with open(‘dict.txt’,'r) asf) fori in f.readiines() » if berypt.checkpw(i.strip().enc.
+技 行 。 @ berack «
+Ge
+C:\HyApp\Dev\Python39\python.exe C:\ \Desktop\PythonSecDev\bcrack. py
+borypt 春 X 为 ; adminges

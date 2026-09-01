@@ -1,0 +1,9 @@
+# OCR: b45f77691ee0bebd547a44b4f28c80dc.jpg
+# 来源: .\02-WriteUp\2024\b45f77691ee0bebd547a44b4f28c80dc.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+ex +
+drotdenodel:-$ sudo chmod -R 777 /root
+drotdenodel:-$ 1s /root
+drotdenodel:-$ []

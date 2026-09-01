@@ -1,0 +1,28 @@
+# OCR: c9bdeca1a7722e36a520e1b6b8f81cf7.jpg
+# 来源: .\02-WriteUp\2024\c9bdeca1a7722e36a520e1b6b8f81cf7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+= NEA
+eam
+PRR
+Phe:
+E
+8
+E
+E
+E
+aags
+BEX
+eee
+E
+E
+高 纶 设 盟
+E
+E 4 vcpu
+ae
+ltg 0 : 4096 MB
+20:
+512MB 8GB 3268 E
+日 Q
+目 zgorrcot

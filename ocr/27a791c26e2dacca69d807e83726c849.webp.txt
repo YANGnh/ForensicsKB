@@ -1,0 +1,9 @@
+# OCR: 27a791c26e2dacca69d807e83726c849.webp
+# 来源: .\02-WriteUp\2025\27a791c26e2dacca69d807e83726c849.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+def _descranble_key(self, tenp_key):
+mixed_base = b''.join([butes (> * 国 for 5 in temp_key[:10]])
+actual_key = ‘Securekey123456"
+self.enhanced_key = self.enhance_key(key=actual,_key)

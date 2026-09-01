@@ -1,0 +1,8 @@
+# OCR: 6af31a5018a9a155f55df62bfc1caca5.jpg
+# 来源: .\02-WriteUp\2024\6af31a5018a9a155f55df62bfc1caca5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+Task failed
+® WARNINGS: 1
+| ae |

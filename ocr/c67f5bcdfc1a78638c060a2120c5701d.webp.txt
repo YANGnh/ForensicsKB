@@ -1,0 +1,8 @@
+# OCR: c67f5bcdfc1a78638c060a2120c5701d.webp
+# 来源: .\02-WriteUp\2024\c67f5bcdfc1a78638c060a2120c5701d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+Recovery key:
+469876-653598-354629-023573-566423-569162-055055-432267 [copy]
+“The Key for data decryption was found!

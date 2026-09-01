@@ -1,0 +1,93 @@
+# OCR: ada84d507f527a9c696e4c75b10e2515.webp
+# 来源: .\02-WriteUp\2026\ada84d507f527a9c696e4c75b10e2515.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+町
+a
+File Config View Tools
+ars
+Help
+日 @ Basicanalyzer
+a BaseInfo
+a Certificate
+a ALLAPIS
+a Alistrings
+a AppStrings
+@ Alluris
+a AndroidManifest
+Malscon
+=
+® w Resources
+“@ &d Dexciass
+E
+1B @ android. support .v4
+8 app
+日 @ IotiticationsideChannel
+@ cancel (String, int, String): voic
+@ cancelAll (String) : void
+© notify(String,int,String,Noti:
+& @ INotificationSideChannelsstub
+日 @ InotiFicationSideChannel$stubsPr
+@ @ RemoteActionCompatParcelizer
+@ @& graphics.drawable
+@ Bos
+图 androidtranscoder
+@ € engine
+@ & format
+@ @ utils
+日 @ MediaTranscoder
+申 @ Mediatranscoder$1
+申 @ Mediatranscoder$2
+申 @ Mediatranscoder$3
+日 @ Mediatranscoders4
+@ @ Mediatranscoder$4$1
+@ @ Mediatranscoder$4$1$1
+日 @ Mediatranscoder$4$2
+由 @ Mediatranscoder$tistener
+口 G videocomoressor
+SMCF B | 目 千 吵 砺 四 日 | 荣 #
+4 index
+GDA4.02(Free Edition)
+package declare
+DCLOUD_DARK_MODE: auto
+DCLOUD_STREAMAPP_CHANNEL :
+android.notch_support :
+notch. config: portrait
+uni -owryl.
+true
+android, 2.5
+android. support.FILE_PROVIDER_PATHS:  @resource
+[DEX Base Info}
+Dex File Name: classes .dex
+File Size: 9329828 bytes
+MDs: #5d37adcf402de23808e8068b4293882
+Class Size: 7843
+Method Size: 65487
+String Size: 68846
+Dex File Name: classes2.dex
+File Size: 1001608 bytes
+2193362589F0dasc483addeFebd4écda
+659
+6167
+String Size: 9680
+[Permissions]
+android. permission. INTERNET
+android. permission.WRITE_EXTERNAL_STORAGE
+android. permission.ACCESS_NETWORK_STATE
+android. permission.ACCESS_WIFI_STATE
+android. permission. INSTALL_PACKAGES
+android. permission. REQUEST_INSTALL_PACKAGES
+android. permission.CHANGE_NETWORK_STATE
+android. permission. MOUNT_UNMOUNT_FILESYSTEMS
+android. permission. VIBRATE
+android. permission. READ_LOGS
+android. permission.CAMERA
+droid. permission.GET_ACCOUNTS
+android. permission.READ_PHONE_STATE
+android pereission READ_MEDIA_TNAGES
+android. permission. READ_MEDIA_VIDEO
+android. permission. READ_MEDIA_VISUAL_USER_SELECTED
+android. permission. BINO_J08_SERVICE
+标 | 园 Se 职 00| 的 的 李 Or sxe
+|—UNT__7¢B999B | 126691230302 | common

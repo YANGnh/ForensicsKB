@@ -1,0 +1,9 @@
+# OCR: 94291dd47f29a8a04d7e4a385e794f47.jpg
+# 来源: .\02-WriteUp\2024\94291dd47f29a8a04d7e4a385e794f47.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+Welcome ta the Proxmox Virtual Environment. Please use your web browser to
+configure this server - connect to:
+https://192. 168.71. 133:8006/
+pve login:

@@ -1,0 +1,13 @@
+# OCR: 1031a094bb26dc5c22ff1f5d63a83fcf.webp
+# 来源: .\02-WriteUp\2025\1031a094bb26dc5c22ff1f5d63a83fcf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+367a4: stur ban Lt ea
+367a8: ArrayStore: r2[0] = rO ; List_4
+0x2367a8: stur wO, [x2, #0x17]
+367act 0 = Instance 国
+0x2367ac: add xO, PP, #0xd, 1sl #12 ; [pp+0xd300] Ob-
+0x2367b0: 1dr x0, [x0, #0x300]
+367b4: StoreField: r2->field_b = ro
+0x2367b4: stur wO, [x2, #0xb]

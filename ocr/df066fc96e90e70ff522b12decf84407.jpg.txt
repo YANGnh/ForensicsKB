@@ -1,0 +1,60 @@
+# OCR: df066fc96e90e70ff522b12decf84407.jpg
+# 来源: .\02-WriteUp\2024\df066fc96e90e70ff522b12decf84407.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+droidénodei:“$ sudo docker ps -a
+CONTAINER i IMAGE
+NAMES
+451a0378d664 —redroid/redroid: 12.
+5 loving_shtern
+Os4c638ab04¢ —redroid/redroid: 12.
+0 agitated_gauss
+eooczs08fcS4 —redroid/redroid: 12.
+5 _goofy_euclid
+bdsfezes7421 _redroid/redroid: 12.
+0 sweet _pare
+380eSb2c898 _redroid/redroid: 12.
+9  priceless_knuth
+droidenode1:~3
+‘COMMAND
+"sinit androidboot.h.."
+"sinkt androidboot .h.."
+"sinit androidboot.h.."
+“sinit androidboot.h..!"
+vintt androidboot .h..*
+CREATED
+2 months ago
+2 months ago
+2 months ago
+2 months ago
+2 months ago
+s
+exited
+Exited
+exited
+Exited
+Exited
+3)
+(258)
+(258)
+(255)
+(258)
+8 weeks ago
+8 weeks ago
+8 weeks ago
+About an hour ago
+About an hour ago
+PORTS
+0.0.0.
+15555-5555/ten,
+0.0.0.0:4444->5555/tep,
+0.0.0.0:9993->5885/teD,
+0.0.0.0:2¢¢2->5855/ten,
+0.0.0.
+:1111->9555/tcp,
+15555->9855/tc
+1114444->5555/tc
+993->9555/tc
+12222->9555/tc
+hnsssei

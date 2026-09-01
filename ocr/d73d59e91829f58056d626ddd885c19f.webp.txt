@@ -1,0 +1,9 @@
+# OCR: d73d59e91829f58056d626ddd885c19f.webp
+# 来源: .\01-取证技巧\04-隐写文件\d73d59e91829f58056d626ddd885c19f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+Color (Green) Base 10 “ Binary
+团 “ 238 = 11101110
+i 235 11101011
+口 232 1110199!

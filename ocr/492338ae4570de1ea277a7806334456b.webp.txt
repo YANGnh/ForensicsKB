@@ -1,0 +1,11 @@
+# OCR: 492338ae4570de1ea277a7806334456b.webp
+# 来源: .\02-WriteUp\2024\492338ae4570de1ea277a7806334456b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+O brute force
+minimal length
+maximal length
+Bene". 00n0W
+Ospace
+口 astom

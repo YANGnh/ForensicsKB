@@ -1,0 +1,16 @@
+# OCR: fce45d2a9f923e67fcc02648588884ac.jpg
+# 来源: .\02-WriteUp\2024\fce45d2a9f923e67fcc02648588884ac.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+盖 110 (ogine) ear | sa gee | Ba | van. | ome | Boast | COR R
+100 (Router) =r 5
+101 (node) ns 160 pata a a
+402 (node2) E 5 a
+一 103 (n0de3) E E 心 a ens 160 121687113328 192168712
+(S111 Gavaserver) Ead ius Bridge a a 192. 168.100.0724
+Bi 112 (ealsorer)
+一 a
+河 localnetuork (pve)
+E
+‘S]tocat-vm (pve)

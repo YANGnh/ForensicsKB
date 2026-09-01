@@ -1,0 +1,70 @@
+# OCR: f1e1ea710f37a747e233207360593054.webp
+# 来源: .\02-WriteUp\2025\f1e1ea710f37a747e233207360593054.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+42
+43
+45
+0
+47
+43
+49
+s
+52
+52
+53
+54.
+55
+56
+57
+58
+59
+s
+61
+62
+63
+64.
+65
+66
+67
+68
+69
+0
+7
+2
+eg a eS Se
+n
+)
+while (
+vil = (unsigned _inta *)a3 + 73
+for ( i = 4LLs i <= 10; +4)
+《
+for (j= lls j< 45 +4) )
+《
+if (i)
+《
+vid = vil[j +
+vis = &vil[j + 9]5
+vis g
+vi? = vis[7]3
+vis s
++
+else
+《
+v5 = val + 95
+via = *(@v24 + i) * *(BYTE *)(*val + al + 8)3
+vis = *(BYTE *)(vai[4] + al + 8)3
+vir = Ceyre *)(v11[8] + al + 8)3
+vis = *CByTE *)(*(vil - 4) + al + 8)5
+]
+vi9 v 司 * vi7s
+v2e = vilfj +5] * vias
+vai = vilfj - 7] * vias
+vil[j + 13] = vif} - 3] * vies
++ = v195
+vif} + 21] = v203
+V5 = vais
+a3 = a3[vs]s
+a3[vs] = v225
+return results

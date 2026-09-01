@@ -1,0 +1,7 @@
+# OCR: 01d1ba7dd709bea60ba4587ec050a855.webp
+# 来源: .\02-WriteUp\2025\01d1ba7dd709bea60ba4587ec050a855.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+PID PPID State | ShortName Name
+182 1 12052 忡460 忡 [HeyGemexe HeyGem.exe

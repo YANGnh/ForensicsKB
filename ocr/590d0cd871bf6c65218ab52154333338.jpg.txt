@@ -1,0 +1,22 @@
+# OCR: 590d0cd871bf6c65218ab52154333338.jpg
+# 来源: .\02-WriteUp\2024\590d0cd871bf6c65218ab52154333338.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+$ sudo docker ps
+CONTAINER ID IMAGE COMMAND CREATED ‘STATUS PORTS
+NAMES
+388esbzc8b98 redrotd/redrotd-12.8.8-latest “/tntt androtdboot-h-“ 2 months ago Up 29 seconds @.@.8.6:1111->5555/tcp, =
+111->5555/tep__priceless_knuth
+drotd@nodei:-$ netstat -anpt
+(Not all processes could be identified, non-owned process info
+will not be shown, you would have to be root to see tt all.)
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address Foreign Address State PID/Program name
+tep 6 8 6.8.6.8-22 0.0.6.9:* LISTEN -
+tcp 8 8 127-8.8-53:53 0.0.6.0:* LISTEN -
+tcp 6 8 0.0.6.0-1111 0.0.0.0:* LISTEN -
+tcp 6 $2 192.168.190.101:22 192.168.10@.100:57101 ESTABLISHED -
+tcp 6 8 192.168 .100.101:22 192.168. 100.100:57100 ESTABLISHED -
+6 * LISTEN -
+6 诊 LISTEN -

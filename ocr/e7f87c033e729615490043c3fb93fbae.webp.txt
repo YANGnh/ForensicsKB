@@ -1,0 +1,9 @@
+# OCR: e7f87c033e729615490043c3fb93fbae.webp
+# 来源: .\02-WriteUp\2025\e7f87c033e729615490043c3fb93fbae.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+E:\ 取 证 检 材 \FIC2825\ 检 材 \ 检 材 1>certutil -hashfiLe 取 证 录 像 .mp4 sha256
+SHA256 的 取 证 录 像 .mp4 哈 席 :
+2753da22fe23cadaadcl4fedc1d5896a153368d9f9199Tea376846431f5c1567
+CertUtil: -hashfiLe 命 令 成 功 完 成 。

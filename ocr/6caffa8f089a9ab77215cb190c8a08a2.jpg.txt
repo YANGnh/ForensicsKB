@@ -1,0 +1,9 @@
+# OCR: 6caffa8f089a9ab77215cb190c8a08a2.jpg
+# 来源: .\02-WriteUp\2024\6caffa8f089a9ab77215cb190c8a08a2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+http 8 http contains pmaanir http contains “version®™
+No. Time Source Destination Protocol Lengtl Ine
+1678 134.013911 192.168.85.250 192.168.85.13@ HTTP 71 HTTP/1.1 200 OK (text/html)
+1754 134.248819 192.168.85.130 192.168.85.25@ HTTP 743 GET /phpmyadmin/version_check.php?&_nocache=1560431171279220602 HTTP/1.1

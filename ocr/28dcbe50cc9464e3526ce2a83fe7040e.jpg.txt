@@ -1,0 +1,27 @@
+# OCR: 28dcbe50cc9464e3526ce2a83fe7040e.jpg
+# 来源: .\02-WriteUp\2024\28dcbe50cc9464e3526ce2a83fe7040e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+Blog Post: "Introducing Windows Exploit Suggester”, htt
+USAGE
+update the database
+//olog.gdssecurity.com/labs/201 4/7/11 1/introducing-windows-exploit-sugge
+$ ./windows-exploit-suggester .py --update
+[*] initiating...
+[#] successfully requested base url
+[ 气 scraped ms download url
+[+] writing to file 2014-06-06-mssb.x1sx
+[*] done
+install dependencies
+(install python-xird, $ pip install xIrd -upgrade)
+feed it "systeminfo" input, and point it to the microsoft database
+5 ./windows-exploit-suggester.py --database 2014-06-06-mssb.x1sx --systeminfo win7spl-systeminfo. txt
+[#] initiating...
+[*] database file detected as x1s or xlsx based on extension
+] reading from the systeminfo input file
+[*] querying database file for potential vulnerabilities
+[*] comparing the 15 hotfix(es) against the 173 potential bulletins(s)
+[ there are now 168 remaining vulns
+[+] windows version identified as ‘Windows 7 SP1 32-bit!
+[*]

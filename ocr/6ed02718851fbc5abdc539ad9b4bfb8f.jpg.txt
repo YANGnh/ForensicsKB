@@ -1,0 +1,53 @@
+# OCR: 6ed02718851fbc5abdc539ad9b4bfb8f.jpg
+# 来源: .\02-WriteUp\2024\6ed02718851fbc5abdc539ad9b4bfb8f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+L
+package com hiveasyapi
+Inport andreid.os.Bundle:
+e
+n
+Anport andeold. widget edteTexts
+sport andvoia widget. Toasty
+Inport androldx.appcompat. app. Appcompatactivity;
+7% ooded fron: ctosses3. dex */
+20| public class mainactivity extends AppComatactivity Q)
+public serine bls
+public sutton bes
+public sting keys
+public Edittext keyTexts
+en Access modiflers changed fron: protected y
+override // androiass frageent.app.Fragnensacttvity, androick.octivity.Conpenentictivity, ondrotdr.core.opp.Componentictivity, android. opp. Activity
+21| public vold oncreste(Sundle saveainstancestate) {
+2 e
+】】 Setcontentview(R, Layout activity. nain):
+3 this teyText e HndVfentyT4(R. Ad. key ext);
+26 E
+】′ final String std = new cache() getcacheD(€his);
+= final serine atr2 = mew extcachet ).getextCacheD this)
+» final ering str3 + new Flles() getrilesd( thts);
+Fs nal String stra = new extfiles().getextriles0 (this);
+2 Final sting Str» mew prefs(this) read);
+x ‘his.btn.setOnClickiiatener (ne View ( from class: com.h-casyaph-Mxintceivity. 2
+Boverride // androta. view. view.OncLickttstener
+国 public votd enclick(View view) {
+Fa Steingluilder sb = mew Stringbuilder();
+e
+心
+符 e nn
+r
+E
+x Raintetivity asiatctivity = heinictivity. this;
+mmainactivity key ~ mainactivity keyText-getText() tostring|
+IF (Malndeetviey.ehis.key-Lengeh() |= 40) {
+ToastomakeText(Wninactivity.this, e
+)
+e e nn t
+团 e this, “EIRIEM! ", 2).show()3
+1
+团 ToastomakeText(Wainactivity.this, E SHRI!
+)
+sy
+shows
+shows

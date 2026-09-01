@@ -1,0 +1,9 @@
+# OCR: c4b12ac36e2c5e3ac200933b213ba512.jpg
+# 来源: .\02-WriteUp\2024\c4b12ac36e2c5e3ac200933b213ba512.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+口 covetool
+口 coveaoon
+1 server3.001
+1 servers.£01

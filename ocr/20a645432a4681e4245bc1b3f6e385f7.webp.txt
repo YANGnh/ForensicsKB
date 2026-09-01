@@ -1,0 +1,7 @@
+# OCR: 20a645432a4681e4245bc1b3f6e385f7.webp
+# 来源: .\02-WriteUp\2025\20a645432a4681e4245bc1b3f6e385f7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+atedAt T + {password V
+e Seats /EHRAF Nez Sma

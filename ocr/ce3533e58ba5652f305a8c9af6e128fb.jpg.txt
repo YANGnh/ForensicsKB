@@ -1,0 +1,37 @@
+# OCR: ce3533e58ba5652f305a8c9af6e128fb.jpg
+# 来源: .\02-WriteUp\2024\ce3533e58ba5652f305a8c9af6e128fb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+[root@localhost alist]# pud
+Jopt/alist
+[root@localhost alist]# ls
+alist data storage
+[rootetocathost alist]# ./alist -h
+A file list program that supports multiple storage,
+built with love by Xhofe and friends in Go/Solid.js.
+Complete documentation is available at https://alist.nn.ci/
+Usage:
+alist [command]
+Available Commands:
+admin Show admin user's info and some operations about admin user's password
+cancel2fa Delete 2FA of admin user
+completion Generate the autocompletion script for the specified shell
+help Help about any command
+Lang Generate language json file
+restart Restart alist server by daemon/pid file
+server Start the server at the specified address
+start Silent start alist server with -force-btn-dtr「
+stop Stop alist server by daemon/pid file
+storage Manage storage
+version Show current version of AList
+Flags:
+--data string 。 data folder (default "data")
+--debug start with debug mode
+-dev start with dev mode
+--force-bin-dir Force to use the directory where the binary file is located as data directory
+-h, --help help for alist
+-log-std Force to log to std
+--no-prefix disable env prefix
+Use “alist [command] --help" for more information about a command.
+[root@localhost alist]#

@@ -1,0 +1,7 @@
+# OCR: 5703ee29f61872a43d55d114c4876bd9.jpg
+# 来源: .\02-WriteUp\2024\5703ee29f61872a43d55d114c4876bd9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+ag > SRE (0) > Rope-Opal-03a > output
+Tampa

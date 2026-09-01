@@ -1,0 +1,11 @@
+# OCR: bda4fdb24ff8d9bf53d2b3401efe3d7a.webp
+# 来源: .\02-WriteUp\2024\bda4fdb24ff8d9bf53d2b3401efe3d7a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+55 70.533730 192.168.253.129 192.168.733.138 TCP 166 38984 » 8852 [ACK] Seqel AcKel Wins32i28 Lens® TSval=2791828063 TSecr=1@5€395039
+57 70.534660 192.368.233.138 192.168.233.129 TCP 166 8082 + 38984 [ACK] Seqei Acke426 Win=64768 Lens@ T5val=1050995@40 TSecr=2791028063
+(A Wives BIR HTP Be tcpsteam e92)-2peap
+Get /victinegi r
+Host: 192.168.233.130:6082
+webp, inage/apng,*/*;q-8.8, application/signed-exchange;v=b3;q-2.7

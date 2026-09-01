@@ -1,0 +1,18 @@
+# OCR: 4c5806551de5172017b662f482eb7d38.webp
+# 来源: .\02-WriteUp\2024\4c5806551de5172017b662f482eb7d38.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+Ne i aoe ee ee ee
+]
+// 验 证 昼 称 是 否 存 在
+$nickname = $model->where( ‘nickname’ ,$post[ ‘nickname" ])
+->select();
+if (lempty($nickname)) {
+return 8this->error( “ 提 交 失 败 该 春 称 已 被 占 用 「)3
+]
+// 密 码 处 理
+$post[ 「passuord 「] = BHEPYPEPASS ($post| ‘password’ ]);
+if(false == $model->allowField(true)->save($post)) {
+return $this->error( “ 添 加 管 理 员 失 败 “)3
+Taltet

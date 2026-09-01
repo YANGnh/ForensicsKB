@@ -1,0 +1,16 @@
+# OCR: 1248feafae4d55090ba78a39479aa5c9.webp
+# 来源: .\02-WriteUp\2025\1248feafae4d55090ba78a39479aa5c9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+[V1 T 2
+Biers
+ieee
+5
+GE. = home (
+1 E) important.do
+万
+1 538
+2
+HE 。 docx
+sn

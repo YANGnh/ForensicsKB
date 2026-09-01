@@ -1,0 +1,23 @@
+# OCR: 5f38c851d10b81b9c79f9c6b1f5d517f.jpg
+# 来源: .\02-WriteUp\2024\5f38c851d10b81b9c79f9c6b1f5d517f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+[root@wns backop]# cat /root/backup.sh
+#1/bin/bash
+DB_USER="root"
+DB_PASSWORD=
+DB_NAME="2828
+BACKUP_PATH="/root/backup"
+4 $BACKUP_PATH
+DATE=$(date +%Y%m%d%HXM%S )
+AES_PASS=$(echo -n "SDB_NAME” | openssl enc -aes-256-cbc -a -salt -pass pass:mysecretpassuord -nosalt)
+BACKUP_FILE_NAME="${DB_NAME}. ${DATE}. sql"
+nysqldump -u $DB_USER -pSDB_PASSWORD $DB_NAME > $BACKUP_FILE NAME
+File_Name="${DB_NAME}.sql.gz”
+tar -czvf - $BACKUP_FILE NAME | openssl des3 -salt -k SAES_PASS -out $File_Name
+rm -rf $BACKUP_FILE_NAME
+nysqladmin -u SDB_USER -p$DB_PASSWORD drop $DB_NAME --force
+[root@wns backup]# echo -n "2828" | openssl enc -aes-256-cbc -a -salt -pass pass-mysecretpassword -nosalt
+IvPGP/8vFTLtzQFITMOhY:
+[root@wns backup]# []

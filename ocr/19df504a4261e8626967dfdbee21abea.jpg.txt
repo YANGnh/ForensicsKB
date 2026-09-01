@@ -1,0 +1,18 @@
+# OCR: 19df504a4261e8626967dfdbee21abea.jpg
+# 来源: .\02-WriteUp\2024\19df504a4261e8626967dfdbee21abea.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+®) vol3-hashdump
+User rid
+‘Administrator500
+Guest 501
+DefaultAccount
+WDAGUtIlityAccount
+David Tenth 1001
+Imhash —_nthash
+aad3b435b51404eeaad3b425b5140dee 31d6cfe0d16ae931b73c59d7e0c0890
+aad3b435b51404eeaad3b435b5140dee 31d6cfeOd16ae931b73c59d7e0c089C0
+E aad3b435b51404eeaad3b425b51404ee 31d6cfe0d16ae931b73c59d7e0c089c0
+504 aad3b435b51404eeaad3b435b51404ee 1da02a5b25cd0a98Sbc04a9e1cB138dF
+aad3b435b51404eeaad3b425b51404e€

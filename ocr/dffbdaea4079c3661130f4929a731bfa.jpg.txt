@@ -1,0 +1,7 @@
+# OCR: dffbdaea4079c3661130f4929a731bfa.jpg
+# 来源: .\02-WriteUp\2024\dffbdaea4079c3661130f4929a731bfa.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+口 55 root java -jar /nome/service/jinyi/api/jinyi.apiapi-1.0.0,jar --spring.profiles.active=prod
+口 5 root java jar /nome/service/jinyi/web/jinyi.web.web jar --spring.profiles.active=prod

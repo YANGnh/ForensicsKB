@@ -1,0 +1,15 @@
+# OCR: 0e25255adfb24076cfc913033e613f11.webp
+# 来源: .\02-WriteUp\2024\0e25255adfb24076cfc913033e613f11.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+from tqdm import tqdm
+def aes_encrypt(data, key, i
+cipher = AES.new(key, AES. 5 MODE.CEC, iv)
++ RUBIA
+padded data = padtdataencode0, AESblock size)
+#
+encrypted_data = cipher.encrypt(padded_data)
+return encrypted_data
+[BM b'65825648G89F 1669"
+iv = b83E6CBEF547944CF「

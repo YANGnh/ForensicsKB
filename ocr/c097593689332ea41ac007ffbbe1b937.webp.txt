@@ -1,0 +1,15 @@
+# OCR: c097593689332ea41ac007ffbbe1b937.webp
+# 来源: .\02-WriteUp\2025\c097593689332ea41ac007ffbbe1b937.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+PS C:\Users\Administrator> nslookup -type=mx
+8BNIR 务 霸 : dns. google
+Address: 8.8.8.8
+> server 45.79.133.98
+RHAN 朋 务 霸  45-79-133-98. ip. 1inodeusercontent.com
+Address: 45.79.135.98
+> chen. forené
+邹务 隧 : 45-79-133-98.ip.linodeusercontent.con
+Address: 45.79.135.98
+chen. forené MX preference = 0, mail exchanger = mail.163.com

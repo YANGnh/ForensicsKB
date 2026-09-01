@@ -1,0 +1,25 @@
+# OCR: d9e3b1f473cf3a88cfac82c195ca67dc.jpg
+# 来源: .\02-WriteUp\2024\d9e3b1f473cf3a88cfac82c195ca67dc.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+育 A H E e FRA
+VMnetO 刑 技 Realtek PCle GbE Family Co. 。 。
+vMnett {REPL - E BRR 192.168.47.0
+VMnetS F I E 巳 B 192,168.71.0
+R
+a
+OPE CEH SERED aR)
+P Realtek el
+nat BSNS
+E
+E
+E 3
+LA eR abt DHCP 月
+Flr @: [192.168 71. 0 FARA OM: [255 .255 .255 . 0
+WSRNRRR SAM. 3 E E EA)
+Seer),
+Ees
+I 6
+DHCP BE).
+E

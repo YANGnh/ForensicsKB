@@ -1,0 +1,15 @@
+# OCR: 0f02197986bb1e94bf0a1ccdca9199ec.webp
+# 来源: .\02-WriteUp\2025\0f02197986bb1e94bf0a1ccdca9199ec.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+.miui.wmsvc.1000.0./data/asez/0/com.mini.wmsvc.platform:pzivapp:tazgetsdkyezsionz29.2001,1065,1005,300213003,3001,3007,1024,1007,
+-android. overlay. cngmstelecomm-10036-0-/data/user/0/com.android. overlay.cngmstelecomm -plat form: targetSdkVersion=33 -none-0-1-1-@sys
+-android.providers.settings.overlay-10019-0-/data/user/0/com.android.providers. settings. overlay -platform:targetSdkVersion=33 -none.
+-android.phone.overlay-miui - 10055 -0-/data/user/0/com.android.phone. overlay.miui -plat form: targetSdkVersion=33 -none -0-33-1-@system
+.xiaomi-market -10186-0-/data/user/0/com.xiaomi market platform: targetSdkVersion=33 -3003-1-40005920-1-@system
+-xiaomi.misettings-1000-0-/data/user/0/com.xiaomi.misettings -platform:privapp: targetSdkVersion=29 -2001, 1065, 1005, 3002, 3003, 3001, 3(
+.topjchnwu. 醒 驿 10254 -0 -/data/user/0/com. topjohnwu. fagisl- default: targetSdkversion=34 -3003-0-27000-1-com.miui.packageinstaller
+-google.android.printservice. recommendation - 10187 -0-/data/user/0/com.google.android.printservice. recommendation -default:targetSdk\
+-xiaomi-mirror-1000-0-/data/user/0/com.xiaomi.mirror -platform:privapp: targetSdkVersion=29-2001, 1065, 1005, 3002, 3003, 3001, 3007, 1024,
+meee, Cares eit Heme ice 016200 +s feita sone /O/ comma txine Lat ionserviee plat foie: tuxnetidkiersi 6-2 963003 +0 0161 s@austen:

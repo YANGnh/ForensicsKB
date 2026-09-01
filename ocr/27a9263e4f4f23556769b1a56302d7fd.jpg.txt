@@ -1,0 +1,42 @@
+# OCR: 27a9263e4f4f23556769b1a56302d7fd.jpg
+# 来源: .\02-WriteUp\2024\27a9263e4f4f23556769b1a56302d7fd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+C:\L丨sE1厂s\筐2622\D口`2′n1口7翼口1s〉ph囊) database. php
+c
+[1 贾 许 倩 用 的 ae
+default => “mysql”,
+if SS a,
+time_query_rule’ =
+自 助 功 盯 闵 〕亡启〉盲
+ff true: ala
+if | Sn eee S249 int timestamp datetime date
+auto_timestamp’ => true,
+仁 时 间 守 段 职 出 后 的 默 认 时 间 格 式
+"datetime_format’ => Y-m-d i
+if DEE SERE AS
+connections’
+“ys:
+i Slee
+=>’ mysql’,
+// 服务器地址
+* hostname’ => ?127.0.0.1’,
+* database’ => ’shopl’,
+(RRS, 园
+username => root’,
+pe => "nle7001’,
+het ae eeu, 3807,
+E ESR _
+随r胍
+\PDO: :ATTR CASE => \PDO: :CASE_LOVER,
+] \PDO: :ATTR_EMULATE_PREPARES => true,
+人 BOR IRR coed ,
+"charset! ttSnp4 ,
+i ,
+ee => "sxo’,
+if SURE SEAT: 0 雄 中 式 ( 单 一 服 务 器 ) 1 分 市 式 ( 主 从 服 务 霸 )
+E皇爹〈嘉 是否妇`羞〔〕王入入式有亥爹〈
+万W熹萱芬蔫熹 王)言艮誓昔暑言熹量〈量
+if Tsar Y
+ave_no’

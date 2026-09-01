@@ -1,0 +1,50 @@
+# OCR: 683f7dcd858d7d44bcb6aee4ad2ffc8c.webp
+# 来源: .\02-WriteUp\2025\683f7dcd858d7d44bcb6aee4ad2ffc8c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+Cc 8
+E
+\ WH Donanlspt。1ieara
+\ RE LAM KH lapt.. 34376
+> $B Noimanssse 4
+> 3 ISKES 1
+> Bree 327
+尸 awe 244
+> Ea E
+> @ BSBS 4405
+v 8g BEBE 20169
+v 8B Windows 9934
+10
+5629
+3022
+> % DRESS. 10235
+> SZ BABS 1398
+Lal 8
+> site 日
+iG Renter 153
+Xp ShimCache l
+56
+』 〈 Ze Y CreateTime >= 202504- @ | 人 | BBR
+口 =8B = sD = a = 8 = Re SAK
+SF ov 4624 史 (it 口 1552 日 | tie Y wie Vv 2
+口 1 4624 ‘An account was successfully logge... <EventDat.. 信 眼 Security Et
+口 2 4624 ‘An account was successfully logge... <EventDat.. | Security
+口 3 4624 ‘An account was successfully logge... <EventDat.. 信 眼 Security
+口 4 4624 ‘An account was successfully logge... <EventDat.. | Security
+评 皓
+protocols.Yenvt- Key length indicates the length of the generated session key. | his will be U it no session key was requested.
+x08: <EventData> <Data Name="SubjectUserSid">S-1-5-18</Data> <Data Name="SubjectUserName">CEO-PC$</Data> <Data
+Name="SubjectDomainName">WORKGROUP</Data> <Data Name="SubjectLogonld” >0x000003e7</Data> <Data Name="TargetUserSid” >S-1-5-21-
+244795756-2605320691-3516395164-1000</Data> <Data Name="TargetUserName">CEO</Data> <Data Name="TargetDomainName">CEO-
+PC</Data> <Data Name="TargetLogonid” >0x00ae1cad</Data> <Data Name="LogonType">10</Data> <Data Name="LogonProcessName” > User32
+</Data> <Data Name="AuthenticationPackageName" >Negotiate</Data> <Data Name="WorkstationName” >(@g@Bge</Data> <Data
+Name="LogonGuid">00000000-0000-0000-0000-000000000000</Data> <Data Name="TransmittedServices">-</Data> <Data
+Name="LmPackageName">-</Data> <Data Name="KeyLength">0 </Data> <Data
+Name="ProcessName” >C:\Windows\System32\winlogon.exe</Data bata> <Data
+Name="IpPort"> 32828</Data> </EventData>
+Bae: BB
+B88: Security
+maz: CEO-PC
+BEE: Microsoft-Windows-Security-Auditing
+GUID: 54849625-5478-4994-ASBA-3E3B0328C30D

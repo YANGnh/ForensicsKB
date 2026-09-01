@@ -1,0 +1,12 @@
+# OCR: f846a9b9e7a205f6c92e5a455d2f9e67.jpg
+# 来源: .\02-WriteUp\2024\f846a9b9e7a205f6c92e5a455d2f9e67.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+Omnichannel
+E 人 Omnichannel '至_'I
+G # general
+as to
+E
+B e rocket-cat
+Invite and add m

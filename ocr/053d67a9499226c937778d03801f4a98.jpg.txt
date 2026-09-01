@@ -1,0 +1,13 @@
+# OCR: 053d67a9499226c937778d03801f4a98.jpg
+# 来源: .\02-WriteUp\2024\053d67a9499226c937778d03801f4a98.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+园 100% - 述 5 SOL #
+=a S805
+E 501
+E 501
+Sia 0
+E 00:00.91
+[SQU Query 20230216182549 start
+[SQU Finished successfully

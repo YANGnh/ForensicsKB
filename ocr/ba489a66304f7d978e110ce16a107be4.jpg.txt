@@ -1,0 +1,15 @@
+# OCR: ba489a66304f7d978e110ce16a107be4.jpg
+# 来源: .\02-WriteUp\2024\ba489a66304f7d978e110ce16a107be4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+[root@server ~1# cat veterhosts.aliou
+hosts.allow This file contains access rules which are used to
+allow or deny connections to netuork services that
+either use the tcp_urappers library or that have been
+started through a tcp_wrappers-enabled xinetd.
+See "man 5 hosts_options’ and ’man 5 hosts_access’
+for information on rule syntax.
+See "man tept for information on tep_wrappers
+sshd:8.8.8.8:allow
+Se es

@@ -1,0 +1,17 @@
+# OCR: 9d1d04c4c4073e62dd33be667290330e.webp
+# 来源: .\02-WriteUp\2025\9d1d04c4c4073e62dd33be667290330e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+回 小 测 if-2025 数 证 杯 初 赛 | 国 lott v
+1 SELECT COUNT(*)
+FROM t_trade_betrecord b
+JOIN t_lottery_jnd j ON b.Issue = j.Issue
+WHERE b.Keeper = '188'
+AND b.LotteryType = 'jnd28';
+停 止 Come
+wn
+ut
+信 息 “ 摇 如 “ 结 果 1 剖 枪 KS
+COUNT(*)
+\ 92842

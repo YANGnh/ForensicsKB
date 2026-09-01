@@ -1,0 +1,32 @@
+# OCR: c50de1d0c77d4bd55dbc8d6f1fcac4f7.webp
+# 来源: .\02-WriteUp\2025\c50de1d0c77d4bd55dbc8d6f1fcac4f7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+rootepemlrti 8 ifconfig eth add inet 192.168.137.100
+rootepelr
+etho
+lo
+myupn
+s ifconfig
+Link encap:Ethernet HWaddr 52
+inet6 addr: fe80::5054:ff:fe12:3456/64 Scope:Link
+UP BROADCAST RUNNING MULTICAST MTU:1500 Metric
+RX packets:8 errors:0 dropped: overruns:0 frame:0
+1X packets:102 errors:0 dropped:6 overruns: carrier :0
+collisions:0 txqueuelen:1000
+RX bytes :896 (896.0 B) 1X bytes:32412 (31.6 KiB)
+Link encap:Local Loopback
+inete addr: ::1/128 Scope:Host
+UP LOOPBACK RUNNING MTU:65536 Netric:1.
+RX packets:440 errors:0 dropped:0 overruns:0 frane:6
+1X packets:440 errors:0 dropped:0 overruns:0 carrier :0
+collisions:0 txqueuelen:1000
+RX bytes :35324 (34.4 KiB) 1X bytes:35324 (34.4 KiB)
+Link encap:UNSPEC Miaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+inet addr 114.122.133.144 P-t-P:114.122.133.144 Mask:255.255.255.255
+UP POINTOPOINT RUNNING NOARP MTU:1420 Metric:
+RX packets:0 errors: dropped:0 overruns:0 frame
+TX packets:0 errors:0 dropped:0 overruns:0 carrier:
+collisions:0 txqueuelen:1000
+RX bytes:0 (0.0 B) TX bytes:0 (0.0 B)

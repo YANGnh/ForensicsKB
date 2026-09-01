@@ -1,0 +1,29 @@
+# OCR: 0a0c192eb4e43304a2a8d9d71f29a920.webp
+# 来源: .\02-WriteUp\2024\0a0c192eb4e43304a2a8d9d71f29a920.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+[BB Detect it Easy v3.10 [Windows 10 Version 2009] (x86_64) - ag x
+SR,
+> tiLencrypt_file. exe. exe
+see seth
+Pied = 5.65 HB
+Be E E E E
+6 刀 厂 64 fi ‘es ie
++ PEG
+述 f Windows(Server 2003)[AMD64, 的 位 英 h
+铁 @B Microsoft Linker(14.32.31328)
+8 Microsoft Visual C/C+ +(19.32.31328)[C]
+C/C++
+3B: Python
+“LE: Visual Studio(2022 version 17.2)
+HL: Pyinstaller
+e Binary
+220%: ZLIB data[ZLIB compression best] s
+- QRonpadiedk Binary
+棣 Pyhon Compiled Module(3.765)[Magic tag: 3394] s
+E
+E
+Be 。 丫 逊 BBS V EE E 前 V ia 氓
+英 D Spy a
+BR E E 水 ae b ia

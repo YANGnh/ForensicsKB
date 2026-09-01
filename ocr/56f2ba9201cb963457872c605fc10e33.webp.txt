@@ -1,0 +1,23 @@
+# OCR: 56f2ba9201cb963457872c605fc10e33.webp
+# 来源: .\02-WriteUp\2025\56f2ba9201cb963457872c605fc10e33.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+BARE
+QS
+SIRS AER:
+内 存
+述 招 枝 的 内 存 (M :
+512MB 8GB 16GB
+启 动 参 数
+团 重 颜 所 有 用 户 命
+给 Wndows 史
+借 复 源 根
+E
+2 vCPU
+4096 2 MB
+32GB 64GB
+3
+REVMTools
+所 用 河 虚 技 化
+“ E

@@ -1,0 +1,11 @@
+# OCR: ada23bfc36bf2a5eeb8444414debfc2e.webp
+# 来源: .\02-WriteUp\2025\ada23bfc36bf2a5eeb8444414debfc2e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+ecipe ^ 四 围 目 Input + 口 @
+rom Binary ^ G 1
+Delimiter Byte Lenath
+Space 8
+0-305 (305 selected) Tr Raw Bytes + LF
+Output a ‘Oo Gl oc:

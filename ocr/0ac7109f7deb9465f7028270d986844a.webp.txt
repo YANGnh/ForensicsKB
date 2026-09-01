@@ -1,0 +1,21 @@
+# OCR: 0ac7109f7deb9465f7028270d986844a.webp
+# 来源: .\02-WriteUp\2025\0ac7109f7deb9465f7028270d986844a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+秘 : com.mhh.daytimeplay_preferences.xml
+展 名 : xml
+型 : 文 件
+小 : 937 6
+建 时 间 : 2025-11-11 16:05:24
+问 时 间 : 2025-11-11 16:05:24
+改 时 间 : 2025-11-11 16:05:24
+数 据 地 址 : 5841497
+路 径 : Nox_ 5-disk2.vmdk/ 分 区
+data/com.mhh.daytimeplay/shared_prefs/com.mhh.daytimeplay_pref
+ences.xml
+惠 类 型 : 未 加 密
+删 除 : 否
+原 类 型 视 图 文 本 视 图
+xml versionz 1.0’
+十 六 进 制 视 图

@@ -1,0 +1,7 @@
+# OCR: 4ea430ab61a68f9be89c256c25f18d09.jpg
+# 来源: .\02-WriteUp\2024\4ea430ab61a68f9be89c256c25f18d09.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+admin
+张 不 怀 码 不 正 腾

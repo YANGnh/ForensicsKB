@@ -1,0 +1,9 @@
+# OCR: d8b337e29f4848e33bb1d6dde80a4d5f.webp
+# 来源: .\02-WriteUp\2026\d8b337e29f4848e33bb1d6dde80a4d5f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+廿oot@mast墓「01 opt ]# kubectl get pods
+NAME READY STATUS RESTARTS AGE
+nginx-6799fc88d8-6sn9m 0/1 ImagePullBackOff 0 8d
+PP aN aa Satan ck ae in eR

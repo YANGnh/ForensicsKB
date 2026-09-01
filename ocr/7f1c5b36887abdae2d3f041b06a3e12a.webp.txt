@@ -1,0 +1,60 @@
+# OCR: 7f1c5b36887abdae2d3f041b06a3e12a.webp
+# 来源: .\02-WriteUp\2025\7f1c5b36887abdae2d3f041b06a3e12a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+、 Dgunidbg C:\Users\Administrator\Desktoplt
+>
+>
+>
+〈
+口 ides
+己 n
+Dassets
+Di backend
+CB unidbg-android
+“ 白 z
+“ 巳 man ~
+v Dijava ~
+> Bi comagithubunidbg
+> Binet fornwalljelf
+> DBresources
+“ 巳 ea
+v Dijava
+“ 自 com
+> Blanjukemobile.sign
+> Bbaiduutil
+> Bibytedance,frameworks
+vy Bexample
+> Bidetective
+> Blencode
+> Bholygrail 一
+37
+a Test «
+SG
+dl
+asd8cecb5F
+逸 巳 维 耿 , 谅 出 仪 为 0
+public class Test {
+public static final @NotNull string a( @NotNull string str) throws NoSuchAlgorithmException, UnsupportedEncodin:
+String biginteger = new Biginteger( signum: 1, digest). toString( rade 16);
+if (32 <= bigInteger.tength()) {
+charSequence = bigInteger.subSequence(, bigInteger.length());
+Y else t
+StringBuilder sb = new StringBuilder( capacity: 32);
+int length = 32 - bigInteger.1ength();
+if (1.5 Length) 《
+while (true) {
+sb.append('9");
+if (46 == length) {
+break;
+ios;
+}
+sb. append((CharSequence) bigIntegen);
+charSequence = sb;
+}
+return charSequence.toString();
+public static void ain(string[] args) throws UnsupportedEncodingException,
+Suetem ait nninmnfarsininn vnniengr n amerninnrn I
+Program Files\Java\jdk-17\bin\java.exe" ...
+NoSuchAlgorithmException {

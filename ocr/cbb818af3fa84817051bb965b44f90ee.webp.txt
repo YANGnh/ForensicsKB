@@ -1,0 +1,6 @@
+# OCR: cbb818af3fa84817051bb965b44f90ee.webp
+# 来源: .\02-WriteUp\2025\cbb818af3fa84817051bb965b44f90ee.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+# 结果: 无可用文本（tesseract 未识别到文字）

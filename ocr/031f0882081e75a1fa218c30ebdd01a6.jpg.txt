@@ -1,0 +1,12 @@
+# OCR: 031f0882081e75a1fa218c30ebdd01a6.jpg
+# 来源: .\02-WriteUp\2024\031f0882081e75a1fa218c30ebdd01a6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:21
+
+着 pay_money
+E
+int(11)
+不 春 nul
+E
+(NULL)
+Nseg

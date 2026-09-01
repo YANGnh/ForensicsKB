@@ -1,0 +1,21 @@
+# OCR: c22c4bb934b3b62ba7707ea1bf01a37c.jpg
+# 来源: .\02-WriteUp\2024\c22c4bb934b3b62ba7707ea1bf01a37c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+Ae 100% - SiH
+我 f] 已 收 集 冉 导 导 出 敦 描 时 所 霭 的 全 部 信
+炳 帆 所 始 | BSAARESHH. (5/5)
+member_money total t
+91,952 é
+91,952
+E 00:21.08
+[EXP] Export start
+[EXP] Export Format - Excel fle
+[EXP] Getting and Exporting data -
+[EXP] Export table [member]
+[EXP] Export to - CAUsers\32622\Desktop\memberxlsx.
+[EXP] Export table [member_money total] :
+[EXP] Export to - C:\Users\32622\Desktop\member money total-xisx ;
+[EXP] Finished successfully
+砂 月 H 一 团 E 招 应 园 1

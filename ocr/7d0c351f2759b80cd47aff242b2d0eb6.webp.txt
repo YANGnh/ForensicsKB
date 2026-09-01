@@ -1,0 +1,20 @@
+# OCR: 7d0c351f2759b80cd47aff242b2d0eb6.webp
+# 来源: .\02-WriteUp\2025\7d0c351f2759b80cd47aff242b2d0eb6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+‘Mnemonic Language
+BIP39 Mnemonic
+BIPS9 Passphrase
+(optional)
+BIP39 Seed
+Coin
+BIP32 Root Key
+English Base Espafiol 中 文 阑 余 中 文 健 腔 Fianag Italiano #201 CeStina Portugués
+session fever sponsor crouch ticket twist approve village finish square also coo
+CO show split mnemonic cards
+208478b0ca12153b4ae26d05fc50eSbbt122307d7d431c9d59e1fbc7 d9a835c7d3d384bb4011aeb7540acets6 129ad620839d24383a1308997905c9
+0586611
+BTC - Bitcoin
+xprv9s21ZrQH143K3KJns8y VAU3NjKZXFbbWmgk7fmoyY SXztNKHRUWB7ZIXZK42E VneGfVNVXtcbixWFSMXsnzTCVTyNJ6sT3iSMaHccsonDgN
+口 snowelpss

@@ -1,0 +1,88 @@
+# OCR: 133f8f6c1645bf3b7bfe27471adaeced.webp
+# 来源: .\02-WriteUp\2024\133f8f6c1645bf3b7bfe27471adaeced.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+[proxychains] Dynamic chain
+n.mozitLa.net:443 ... OK
+proxychains] Dynamic chain
+127.0.0.1
+127.0.0.1
+D
+[proxychains] Dynamic chain ... 127.0.0.1
+OK
+proxychains
+ok
+[proxychains] Dynamic chain ... 127.
+3... OK
+[proxychains] Dynamic chain ... 127.
+n.mozilla.net:443
+proxychains] Dynamic F 命 伟
+n.moziLLa .net:443
+proxychains] Dynamic F 河 口
+s.com:443 OK
+[proxychains] Dynamic
+proxychains] Dynamic
+et:443 OK
+proxychains] Dynamic
+OK
+[proxychains] Dynamic
+es.mozilla.com:443
+proxychains] Dynamic
+n.mozilla.net:443
+proxychains] Dynamic 市 .0.0。
+La.com:443 。 OK
+[proxychains] Dynamic chain
+OK
+proxychains
+[pzoxychains
+OK
+[proxychains] Dynamic chain ... 127.0.0.1
+roxychains] DLL init: proxychains-ng 4.17
+OK
+proxychains
+3 OK
+proxychains
+3 OK
+[proxychains] DLL init: proxychains-ng 4.17
+Dynamic chain ... 127.0.0.
+127.0.0.1
+DLL init: proxychains-ng 4.17
+Dynamic chain 127.0.0.1
+Dynamic chain 127.0.0.1
+Dynamic chain 127.0.0.1
+19050
+79050
+79050
+79050
+79050
+19050
+79050
+:9050
+:9050
+:9050
+:9050
+:9050
+:9050
+:9050
+:9050
+tracking-protection.cd
+tracking-protection.cd
+n.mozilla.net:443 [proxychains] DLL init: proxychains-ng 4.17
+dnsleaktest.com:443
+dnsleaktest.com:443
+ww .dnsleaktest.com:44
+tracking-protection.cd
+tracking-protection.cd
+safebrowsing.googleapi
+o.pki.goog:80 ... OK
+normandy.cdn.mozilla.n
+r11.o.lencr.org:80
+classify-client.servic
+content-signature-2.cd
+contile.services.mozil
+dnsteaktest.com:443 .
+dnsleaktest.com:
+dnsleaktest.com:
+ww .dnsleaktest.
+ww .dnsleaktest.

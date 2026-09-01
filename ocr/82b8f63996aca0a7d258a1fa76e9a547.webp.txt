@@ -1,0 +1,9 @@
+# OCR: 82b8f63996aca0a7d258a1fa76e9a547.webp
+# 来源: .\02-WriteUp\2025\82b8f63996aca0a7d258a1fa76e9a547.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+vesa - VMware Workstation x
+AF NSCS EAL Intel VT-x/EPT »
+ABE FAREMCE Intel VI>/EPT , 是 口 维 绿 ?
+是 0 |

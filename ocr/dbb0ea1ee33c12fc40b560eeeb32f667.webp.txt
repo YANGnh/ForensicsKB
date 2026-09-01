@@ -1,0 +1,13 @@
+# OCR: dbb0ea1ee33c12fc40b560eeeb32f667.webp
+# 来源: .\02-WriteUp\2024\dbb0ea1ee33c12fc40b560eeeb32f667.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+468 GET /up_load.aspx HTTP/1.1
+762 HTTP/1.1 484 Not Found (text/h
+399 GET /up_load.php HTTP/1.1
+486 HTTP/1.1 200 OK (text/html)
+399 GET /up_load.jsp HTTP/1.1
+762 HTTP/1.1 404 Not Found (text/h
+488 GET /up_load.html HTTP/1.1
+548 HTTP/1.1 20@ OK (text/html)

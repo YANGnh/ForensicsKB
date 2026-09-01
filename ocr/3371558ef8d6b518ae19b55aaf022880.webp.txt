@@ -1,0 +1,17 @@
+# OCR: 3371558ef8d6b518ae19b55aaf022880.webp
+# 来源: .\02-WriteUp\2025\3371558ef8d6b518ae19b55aaf022880.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+from django.contrib import admin
+# Register your models here
+from .models import click, email_info
+class CLickAdnin (admin.ModelAdnin}
+List_display = ['email', ‘ip’, ‘created_at']
+search_fields = ['email']
+admin. §888.register(model_or_iterable=click, admin_class=clickAdmin)
+class email_infoRdnin(admin.ModelAdmin
+List_display = [‘email', ‘password’, ‘new_password!', ‘new_password2', ‘created_at', ‘updated_at']
+search_fields = ['enail']
++
+adnin, BG. register(node1_or_iterable-enail_info, adnin_class=enail_infoAdnin)

@@ -1,0 +1,12 @@
+# OCR: 21ace114d4ccb37dc2337e2fb75213ec.webp
+# 来源: .\02-WriteUp\2025\21ace114d4ccb37dc2337e2fb75213ec.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+一 世 序 号
+= 名 称 = 包 名 = 版 本 名 称 = 应 用 类 型 = 安 装 时 间 E
+华 为 迂 溺 过 溺 广 工 一 ee 1
+1 华 为 计 算 嘴 Com.android calculator2 系 统 ( 预 装 2025-09-25 15:05:33
+2 华 为 应 用 市 场 com.huaweiappmarket 非 系 统 ( 非 预 装 2025-09-24 19:37:42
+3 华 为 图 库 com.android.gallery3d 系 统 ( 预 装 2023-03-23 09:11:28
+4 华 为 联 系 人 com.android.contacts 非 系 统 ( 非 预 装 2025-09-24 19:51:27

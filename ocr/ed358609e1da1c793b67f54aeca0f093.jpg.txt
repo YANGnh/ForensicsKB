@@ -1,0 +1,8 @@
+# OCR: ed358609e1da1c793b67f54aeca0f093.jpg
+# 来源: .\02-WriteUp\2024\ed358609e1da1c793b67f54aeca0f093.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+[root@wns ~]# ls /root/backup
+2828 sql _gz
+[root@wns ~]# []

@@ -1,0 +1,32 @@
+# OCR: f9110ce5ddcd5833b5fc1ef94268a75f.webp
+# 来源: .\02-WriteUp\2024\f9110ce5ddcd5833b5fc1ef94268a75f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+B 广 牌 诚 理 荣 @ 2 X : 一 GB cof option (@192.168.71.133] 圆 cmf_config [@192.168.71.133] *
+- 尿 幻 [8 回 团 po + © 24 v 习 Q 十 一 mam vy po Q Rw 氓 (
+。 & @192.168.71.133 5 ‘Yr WHERE => ORDER BY
+v Od 西 Mid 了 + Ocode 了 + title VY + 团 group-id VY + Oval 了
+“ G8 db_accessadmin 239 system_message 手 机 消 设 罪 严 茹 上 传 色 情 、 反 动 、 非 法 博 彬 夺 APP, 违 反 洁 枝 的 App 将 祸 眠 除 , 属 次
+> G8 db_backupoperator 241 acon 手 机 端 设 置 1
+> GB db dataread
+E 242 system_sms_key E
+> 8 db datawriter =
+243 t id 谚
+> G8 db ddladmin SOLS E
+> 8 db denydatareader ae system_sms_ip FE a
++ WF pn 245 system_sms_sum 短 信 发 送 每 天 限 制 李 华 手 机 端 设 置 10
+> G8 db_owner 246 system_parsing 软 件 包 解 栖 地 址 软 件 包 解 栖 地 址 https://192.168.0.107:1234/upLoad
+> G8 db securityadmin 247 app_file_max_size APP 文 件 上 佩 的 最 大 陇 上 传 设 盟 120
+“ 68 dbo 248 service_qq 客 服 Q 手 机 消 设 置 925890424
+“ 口 表 吊 249 new_reg_give_count PERMEATE FRE 50
+> fadmi
+r 250 app_key_shield appatn peat RE, A
+》 团 cmf asset . 肉
+251 ipa_name 包 名 关 销 词 ALR
+》 团 cmf auth access
+〉 团 anf auth rule 252 ali_save_access_key 阿 里 云 存 答 key 帆 借罪 LTAI4FriwHNuARS4AWKdheuL
+> BB cmf charge 253 ali_save_access_secret 阿 里 云 存 佩 Secret “ 存 信 酣 蜜 WAQEQRCUVxUgLLdSS8EWkBk2QRBbir
+〉 团 cmf charge log 254 ali_save_upload_url 阿 里 云 存 佩 上 传 地 址 _ 存 信 酣 置 http: //oss-accelerate.aliyuncs.com
+fe 团 莲 pen cme H SRE a SESE
+> 团 cmf confg 256 ali_save_bucket 阿 里 云 存 惠 宇 闭 存 借罪 xinfenfa

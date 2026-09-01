@@ -1,0 +1,31 @@
+# OCR: c2f3461e365914660c008972f9e74c0b.jpg
+# 来源: .\02-WriteUp\2024\c2f3461e365914660c008972f9e74c0b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+“@xO4d879C 7AceS63BbE1D2C201872D53b836D16CcD",
+24d079¢ 7ace663bbe1d2¢261072463be36d16ccd
+d3c2Abcecced
+团
+“txParans”:
+value": “exo
+“maxFeePerGas”: “exb2d05e0e",
+"maxPriorityFeePerGas”: "@xb2d05200",
+‘estimatedBaseFee": “6x0”
+b
+“userEditedGasLimit”: false,
+“verifiedOnBlockchain": false,
+“type: “transfer”,
+“originalGaststimate": "4547",
+“gasFeetstinatestoaded”: true,
+“ps "@x26846a82*275e222081 Fb7edf3¥489ddFO72234d9C762ea1 aSbb25FFSEI36IS,
+"ss "@x2e036Fee609fa6958a4b49ed390d6cSaaabaio4secfiédobceBddofdeescd972",
+“ex02FBaf380184b2d05e008462405e0082d5479456e7a6dd8aa1.c78ba77944c94c43054578e89b7b0b44a0052cbb
+190900084079C7aces6abbe1d2¢201072
+-32603,
+)
+b
+“insertimportTine": false
+h
+《
+| “chainta": rese,

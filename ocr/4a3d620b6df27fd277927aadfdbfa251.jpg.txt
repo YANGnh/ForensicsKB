@@ -1,0 +1,9 @@
+# OCR: 4a3d620b6df27fd277927aadfdbfa251.jpg
+# 来源: .\02-WriteUp\2024\4a3d620b6df27fd277927aadfdbfa251.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+请 犍
+|- 用 户 动 : hLl23
+|- 颜 密 码 123456
+[root@server ~]# []

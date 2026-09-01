@@ -1,0 +1,14 @@
+# OCR: 60fb57efdeebb3f9fc0efdd061978820.jpg
+# 来源: .\02-WriteUp\2024\60fb57efdeebb3f9fc0efdd061978820.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+Recipe
+To Base64
+Alphabet
+A-Za-z0-9+/=
+Input
+/stwas/wauroot/default/
+=a $1 Ou
+Output 节
+L3d3dy93dadyb290L2R1ZmF1bHQV

@@ -1,0 +1,25 @@
+# OCR: e1e97cc7169288e09a62a275ebf01bee.webp
+# 来源: .\02-WriteUp\2024\e1e97cc7169288e09a62a275ebf01bee.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+8409 0xab866311a240
+8410 0xab866311a3d0
+8411 0xab866311aa10
+8412 0xab866311aba0
+8413 0xab866311aec0
+8414 0xab866311¢180
+8415 0xab866311¢950
+x FTK
+\wPs Office\12.1.0.16929\office6\wpsofficeicon.dll 216
+Moirectory
+216
+\ProgramData\Microsoft\windows\start Menu\desktop.ini 216
+\ProgramData\Huorong\sysdiag\user.db 216
+\Program Files\AccessData\FTK Imager\FTK Imager.exe 216
+Moirectory 216
+\Administrator\KafanInputNamedPipe 216
+av
+区 分 大 小 要 I
+全 孙 匹 M)
+正 则 裴 达 式 9 35 个 匹 略 顶

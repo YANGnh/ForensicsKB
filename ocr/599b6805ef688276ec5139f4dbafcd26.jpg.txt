@@ -1,0 +1,14 @@
+# OCR: 599b6805ef688276ec5139f4dbafcd26.jpg
+# 来源: .\02-WriteUp\2024\599b6805ef688276ec5139f4dbafcd26.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+app 软 件 信 息 5omare Package Api Controller
+协 议 页 面 Aoreementpoeconuoler
+商 城 相 关 rop conroler
+商 城 订 单 norpmoconroe
+{cr ] fapi/shopOrder PATER
+[ost 7
+| Ea fapi/shopOrder/ {id} RAUTHES
+地 址 管 理 Srop Address Controller
+好 友 模 块 userPrenaconroler

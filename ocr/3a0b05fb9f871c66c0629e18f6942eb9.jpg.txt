@@ -1,0 +1,12 @@
+# OCR: 3a0b05fb9f871c66c0629e18f6942eb9.jpg
+# 来源: .\02-WriteUp\2024\3a0b05fb9f871c66c0629e18f6942eb9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+居 Wireshark + HTTP & 命
+E [fag Content
+Sa SNe E h E 命
+6452 192.168.85.130:8000 image/png 有 怀 。 flag.png
+6480 192.168.85.130:8000 image/png 有 怡 — flag.png
+6502 192.168.85.130:8000 image/png 19kB 。 flag.png
+6526 192.168.85.130:8000 image/png 19kB 。 flag.png

@@ -1,0 +1,53 @@
+# OCR: a1f63a884bf50e3186559dbedbac787c.jpg
+# 来源: .\02-WriteUp\2024\a1f63a884bf50e3186559dbedbac787c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+Md Wireshark SS HTTP 3 (tep.stream eq 59) - HELA pcapng - a
+POST /phpmyadain/index.php i
+Host: 192.168.85.25@
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Accept: text/htwl, application/xhtml+anl, application/xel;q-2.-9,"/*;q-0.8,
+/Accept-Languege: en-US,en;q-2.5
+/Accept-Encoding: gzip, deflate
+Referer: http://192.165.85.250/phpmyadmin/ index. php?token-0eaas36fa7béedbsbesscob3doasszat
+‘Content-Type: application/x-m-form-urlencoded
+‘Content-Length: 92
+‘Cookie: pa lang-en; paa_ncrypt_{v-QrEy4S7IAMKXSD; pmaUser-1-%2FOASR2FINGZOOR3D; paa_navi_width=200; phplyaduin=tdca7duhOqfiajnubsdqjcSk7SSnF8sv; wordpress_test_cookie+uP+Cook
+detcheck
+Connection: keep-alive
+Upgrade-Insecure-Request:
+a
+pmo_usernane=rootipna_password-adnink401234sQserver=t&token«000a696f07b68db5b04060b340a862aINTTP/1.1 302 Moved Temporarily
+Date: Thu, 13 Jun 2019 13:06:07 an
+Server: Apache/2.4.23 0 OpensSL/2.
+X-Powered-By: PHP/S.6.27
+Expires: Thu, 19 Nov 1981 08:52:00 an
+(Cache-Controi: private, max-oge-10800, pre-check=10000
+Set-Cookie! pmaPass-1-LkGrQuafVinpX2FCO1zSAacCX20820; pathe/phpayadain/; hetponly
+Last-Hedified: Sat, 27 Jul 2013 22:36:50 Gxt
+Location: heep://192.168.85.250/phpmyadain/index.php?token=00aa696f07b6Edbsbe4s60b340—862—1
+‘Content-Length: @
+Keep-Alive: tineoute5, maxe100
+keep Alive
+‘text/html; chorset=uTe-8
+2] mod_fegid/2.3.9
+[GET /phomyadain/index. php?tokened0aas96Fe7b6sdbsbe4s6ab3dea862a1 MITP/1.1
+Host: 192.168.85.250
+User-Agent: Mozilla/5.0 (X11; Linux e t rv:68.0) Gecko/20100101 Firefox/0.0
+Accept: text/htel, application/xhtml+anl, application/xel;q-@.9,*/*;q+0.8,
+JAccept-Encoding: grip, deflate
+re
+[Upgrade-Insecure-Requests: 1
+w 220 OK
+Date: Thu, 13 Jun 2019 13:06:07 en
+Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2) mod_fegid/2.3.9
+X-Powered-By: PHE/S.6.27
+x-Frane-Options: SAEORIGIN
+X-Content-Security-Policy: allow "self" ; options inline-script evel-script; frame-ancestors "self"; img-src “self* dats
+X-Webkit-cSP: default-see ‘self"; script-sre ‘self* ‘unsafe-inline’ ‘unsafe-eval'; style-sre ‘self" ‘unsafe-inline’
+Expires: Thu, 13 Jun 2619 13:06:68 +0000
+Cache-Control: na-store, no-cache, mst-revalidate, pre-checks0, post-check~@, max-oge=0
+Pragna: nocache
+Last-Modified: Thu, 13 Jun 2019 13:06:08 GT
+P

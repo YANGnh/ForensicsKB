@@ -1,0 +1,32 @@
+# OCR: 823ac8e564a323d908e0899978c57344.jpg
+# 来源: .\02-WriteUp\2024\823ac8e564a323d908e0899978c57344.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+t - 万
+Rocket.Cat
+MoneyMoney
+Laoli
+He “ 小 See @ BRE
+rocketicat
+Zhao
+Laoli
+‘Tlusers @rocketchat (2024 FIC BER.
+status
+online
+online
+offline
+offline
+statusDefault _utcOffset_—_ active
+online 0 true
+8 true
+“11 true
+B true
+Gs © Se [th oir fp amen
+type
+bot
+_updatedat roles
+2024-03-14 08:13:53.343_(Array
+2024-04-27 17:17:17.046 |(Array
+2024-03-15 08:10:29.957 (Array
+2024-03-15 08:12:33.217 (Array

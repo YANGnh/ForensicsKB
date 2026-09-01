@@ -1,0 +1,29 @@
+# OCR: 735e12d10858d8429929a331d4ebd42c.jpg
+# 来源: .\02-WriteUp\2024\735e12d10858d8429929a331d4ebd42c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+2024-05-20 10-40-49_568 [main] o.s.scheduling- concurrent -ThreadPoolTaskSche
+duler'
+2024-05-20 18-48-49.656 [main] INFO org.apache coyote http11.Http11NtoProtocol:1
+2024-05-20 18-48-49 .724 [main] o.s_boot web embedded. tomcat. TomcathlebServer
+context path ''
+2024-05-20 18-48-49.727 [main] INFO s.d_s.web-plugins DocumentationPluginsBootst
+2024-05-20 10:40:49.734 [main] INFO s.d.s.web-pluginsDocumentationPluginsBootst
+2024-05-20 18-48-49 .735 [main] s.d_s.web_plugins DocumentationPluginsBootst
+bean swagger v2.0
+2024-05-20 10-40-49 766 [main] com. jiasoft_JiasoftApplication:61 - Started
+for 16.78)
+2024-05-20 18-48-49.781 [main] INFO com_jiasoft.JiasoftApplication:40 -
+Application is running! Access URLs
+Local: http: //localhost:9031/
+Externat: http=//127.8.1.1:9831/
+Snaggqer 文 档 http://127.6.1.1:9031/doc. html
+2024-05-20
+2024-05-20
+2024-05-20
+2024-05-20
+[scheduling-1] INFO com. jiasoft.task.PurchaseSequenceTas
+[scheduling-1] INFO com. jiasoft task. PurchaseSequenceTas
+[scheduling-1] INFO “con jiasoft.task.PurchaseSequenceTas
+[scheduling-1] WAN c.j.a.a_p-service.impl.PurchaseSeque

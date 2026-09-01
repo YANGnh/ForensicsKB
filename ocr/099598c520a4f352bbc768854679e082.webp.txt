@@ -1,0 +1,20 @@
+# OCR: 099598c520a4f352bbc768854679e082.webp
+# 来源: .\02-WriteUp\2025\099598c520a4f352bbc768854679e082.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+brani
+SFR: addressxml 原 类 型 视 固 文 本 视 固 十 六 进 制 视 图
+MD5: 00677B62F0E49561E6E858A2F9963815
+扩 展 名 : xml
+se, 文 件
+心 standalone-
+大 小 : 560 B
+创 建 时 间 : 2025-09-17 11:36:15
+访 问 时 间 : 2025-09-17 11:36:15
+修 改 时 间 : 2025-09-17 11:36:15
+元 数 据 地 址 : 263062
+全 路 径 : 鲁 堪 安 卓 手 机 vmdk/ 分 区 4/user_ de/0/com.leristfakelocation/shared_prefs/addressxml
+meee: 未 加 密
+已 删 除 : 否 廓
+, 中 国 “altitude“:0.

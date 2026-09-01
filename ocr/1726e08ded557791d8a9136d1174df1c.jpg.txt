@@ -1,0 +1,48 @@
+# OCR: 1726e08ded557791d8a9136d1174df1c.jpg
+# 来源: .\02-WriteUp\2024\1726e08ded557791d8a9136d1174df1c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+fax + x
+Jnode-proxy/conf/nedb # =
+datafile
+{oode-proxy/conf/nedb # cat dataftle
+{"key”="538488db-9268-4833-a2c3-46dc29eSbFfc" . "exptre” 1716552620417. "value” -{"redtrectUrl" = "http: //192.168.200.131-5244/p/KESKE
+eT
+494%A8 / sour cecode/XE6KOCXBOKEGX9GNBOXE /X89%E8XEGX9CKACKE4XBANSCKE SRBCKBOXEGXO4KAF ME 4XBBXOBXEORBANAZXE SREDKOSKE 7B 3XBBSE /XBBXOPRESNB X91
+‘SESNB8X8OXE7SB38BBSE7XBBX9F 2 (p?stgn=1h3LN637p-W-Lg-tISbKbPxctk2ZUUDXOEF64anXNto:
+6" ."passwdInfo" -{"password" = "rNj39Yj_R*MV" “describe”
+="files","encType"="aesctr" ."enable"- true. “encName" - false. "encSuffix"-""."encPath" :["encrypt_folder/*" ."novie_encrypt/*"."sourcecode/*"
+"/dencrypt_folder/*"," /pencrypt_folder/**,"/davencrypt_folder/*","/dmovie_encrypt/*”,"/pmovie_encrypt/*”,"/davnovie_encrypt/*","/dsour
+Cecode/*"."/psourcecode/*"." /davsourcecode/*"], "id" -6,4168247088452169}, "FileSize" :25630925},"-1d" - 8tVieqzwvG3SGEAB™)
+{"key" ="ftleInfoTable_/#fi/FiddlerSetup_exe” ."exptre" - 1802705998683. "value" -{"name"- "FiddlerSetup.exe" ,"size"-6840480,"is_dir":false.”
+nod Fed” -"2024-03-11109-41-12. 394+08:60", “created” -"2024-03-11109-41-12.394+08-08", “sign” -"sxIt txdXyRSqPwyNvDetivexXSHIGGZTOCFOFLC-vC4
+=0","thunb":"","type"-6, "hashinfo" -"null*,"hash info" :null, “path"="/ 3K /il/FiddlerSetup.exe" ,"table":"Filelnfolable "},"_td"-"16inhS7i¥r
+ftyhPw"}
+{"key":*frletnfotable_/itF4/sPhafdL 16¢7Riixa7k4h7k6a7sVIrEvAT-HL7F1G7R327+VO-ukkih33n_71p" ,"exptre” -1862706964992, "value" :{“nane"-"2024
+Thinkphpiit esi MAAS. zip" ,"size"-€961647,"ts_dir”-False, "modified" -"2624-05-21115-18-@8.688+08:60" , "created" -*2624-05-21115
+88+08: g “sign” -"-XN5SGBO41SNT3tQbNL nvno214Q9YdxN j6guBh10PZGM=:6" , “thunk ‘type"-@,"hashinfo"- "null" ,"hash_info"-null, “path”:
+‘SPh4fdL16c7RHmxa7k4h7k6a7SVIr EVA? -HL7r LG7RJz7rVO~ukkWh33n_ztp" “table” -"ftleInfoTable_"}."_td"="1KIrCONqt7Ygg2pH"}
+{"key" :"5a528137-Be7F -48a9-8e45-aGefb0d83741" , "expire" 1716562958417, "value" -{"redirectUrl”: "http: //192. 168.200. 131-5244/p/KEGXBANSOXET
+‘%AOKB1/7kHz7k6G~uOFGN33S _ pdf ?sign=JHdFaZY8sdCoVr pdGw60 - nO IgAG4NF s jvE6tz JhOKgA=-0" ,"passwdInfo" -{"password" :"rNj39Y}_R*HV" “describe” f
+Ules", "encType"="rc4", enable" true. "encNane"=true. “encSuf fix’ =""."encPath"=["sourcecode/*","il/*"," /dsourcecode/*"." [psourcecode/*".
+*/davsourcecode/*",” / 澈 罚 . 善1 门 u -0.2787097149983507),"FUleStze" -1283186}.*_1d" -"IMTYVZqUBZEAtp"}
+{"key"="fileInfoTable_/sourcecode/2023-11-87 18-21-33 mp4", "expire" -1802695047941, "value" -{"name"-"orig_2023-11-@7 18-21-33_mp4","size"
+433041673,"ts_dir"-false, "modified" : "262 -@7119:35:24_641+08-00" . "created" -"2023-11-67T1¢ 24. 641+88-08" .“sign" = "XMb4CODSAbsaZOYz
+-M4Z3jbPo4m3Ye8ITRuJpFR- Isl “thumb type"-2,"hashtnfo" "null". "hash_info" -nulL, "path’ ‘sourcecode/2623-11-87 18-21-33.mp4"."ta
+ble"-"ftleInfotable_"}, "1d" -"22Zg1UUIZ70Lb722"}
+{tkey":"FtleInfotable_/ JH /ii63". "expire" 1802695034736, "value" :{"nane" -" Ii" ,"stze"-0,"1s_dir*=true, "nodi fied" :"2624-05-21719-59:45.
+054114158+68-06" . "created" -"2624-@5-21T19- 59-45. 054114158+68-68" ."sign"-"", "thumb" rype"=1,"hashinfo"- "null". "hash_info"-nulL. "path
+甫 伟 FvLetnforable 1d” “20eraquasavovzra:
+Gera gettletaForente 18 sourcecode MARCA ILA AU RE. zep"“expure’-sBozeoes0c666, value” (mane: KIA JTL
+A RUBLIS RAL- zip” "size" -25830925,"ts dur" false, nodufted" g 5 40-96 273+08-00". "created" -"2624-05.20110-40-56.273108:60"
+. “sign” -"1h3LM637p-W-Lg-tISbKbPxctk2ZUUDXOEF 64amXWto=-8". “thumb” “type” 8, "hashinfo"="null","hash_info" null, "path" :"/7i JH /sourcecod
+c/RBGA TCIM RIOD REL. u tables" i j 1der=2lWhBCeywe¥e3g3U"}
+{"key"=" FileInfoTable_/iF5/E8cbkL6JNVOHLLEING6Dy86FRLczP8OMkYuF2eKF LIRU2GKuj 7uoL-RIRR-+PjPolsOuys2u2GKu j7uulbw+1js+jEK+usXnr6LI7rl27sl
+CTeLTTcyTTwb7-HLTeGTR}Z7rVO-ukKAN33T. Zip" “expire” -1862706004988,"value"={nane”-" CHF YLRCECR MISS) aAUMSRHE RHE] AMBER BB
+镐 锋 竖 吊 网 江 源 罚 z1p"."stze" -24745306."t5 dir” -False, "nodt fied" -*2624-05-21T15-18-07 455+08-00", “created” -"2024-05-21T15-18-07.455+08
+=06", “sign” - “oGMIefa20uUqnBoUwl QtQv LowxS4n6nliGV1ianWD@LI=-6",“thumb" -"", "type" -@,"hashinfo" "null" ,"hash_info” -null, “path” =" /JM#5/E8cbk
+L6INVGWL Lt INS6Dy86FRLczP86MkYuF2eKF LIRU2GKuj 7uol -R1RR-+PjPolsOuys2u2GKu j7uu Lbw+1 js+jEK+usXnr6lT7r 127s Ur7r LG7Tcy7Tvb7-HL7r LG7RJz7FVO~ukk
+Wh33T_zip”. "table": "FtleInfoTable_"}."_1d"="256524P99Xmnlinzg"} 3
+hey cnfoiobte / 英 咤 Pidiigiiggcetsrioficpyuloupielion zigr.“oqure- eglrecoegoes “watne-[roore -pgzd 新 二 影 招 tpr .
+irvocieciroeceoninolsretroret agoXireicreinyrcnlgeroent

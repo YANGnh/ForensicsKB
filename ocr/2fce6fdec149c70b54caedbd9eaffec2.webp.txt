@@ -1,0 +1,13 @@
+# OCR: 2fce6fdec149c70b54caedbd9eaffec2.webp
+# 来源: .\02-WriteUp\2025\2fce6fdec149c70b54caedbd9eaffec2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+249
+256
+251
+252
+[persist.sys.country]: []
+[persist.sys.dalvik.vm.lib.2]: [libart.so]
+[persist.sys. device name]: [Redmi 6 Pro]
+[persist.sys.enable_inputopts]: [true]

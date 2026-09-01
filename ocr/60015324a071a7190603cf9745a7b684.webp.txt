@@ -1,0 +1,16 @@
+# OCR: 60015324a071a7190603cf9745a7b684.webp
+# 来源: .\02-WriteUp\2025\60015324a071a7190603cf9745a7b684.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+Windows Information:
+Computer Name:
+Current Time:
+Boot Time:
+Time Zone:
+Version:
+DESKTOP-MCB21LB
+2025-10-16 11:21:53 UTC
+2025-10-16 11:14:04 UTC
+China Standard Time : UTC+8:68
+10.@ (build 14393)

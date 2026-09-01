@@ -1,0 +1,11 @@
+# OCR: a7d03e5a4f103a9f43fee1edfebfe914.webp
+# 来源: .\02-WriteUp\2025\a7d03e5a4f103a9f43fee1edfebfe914.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+0
+ivi scp p3Ssuord_ collector roote192.168.31.2: /root
+oote192.168.31.2“5 password:
+oote192.168.31.2“5 password:
+35SMord_collector 100% 4819KB 4.7MB/S 00:01
+oote0penttrt:o#

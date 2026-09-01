@@ -1,0 +1,11 @@
+# OCR: 16cadc2e14f7ea2b90d8945a999eadfe.webp
+# 来源: .\02-WriteUp\2025\16cadc2e14f7ea2b90d8945a999eadfe.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+C: Vaaleaalss>nsLookup -type=A ns1.varo
+服 务 器 : dns1.hnsdns.com
+Address: “139.144.68.241
+非 权 威 应 答 :
+名 称 nsl .varo
+Address: “45.79.133.98

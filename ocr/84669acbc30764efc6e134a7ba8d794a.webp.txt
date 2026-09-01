@@ -1,0 +1,8 @@
+# OCR: 84669acbc30764efc6e134a7ba8d794a.webp
+# 来源: .\02-WriteUp\2024\84669acbc30764efc6e134a7ba8d794a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+A sae
+< 个 [private/var/run
+comapple....  comapple..._ comapple hostapd.conf utmpx

@@ -1,0 +1,37 @@
+# OCR: 38cd73900900594589a05600c223eb72.webp
+# 来源: .\02-WriteUp\2026\38cd73900900594589a05600c223eb72.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+Key Type
+Root dict
+IsEncrypted boolean
+Version string
+Date date
+SystemDomainsVersion _ string
+ManifestKey data
+WasPasscodeSet boolean
+Lockdown dict
+| 上 @ com.apple.MobileDevice dict
+一 一 comsa pple.TerminalFlash dict
+; {8 com.apple.mobile.data_s dict
+“ 留 -comappleAccessibilty dict
+ProductVersion string
+Productfype string
+BuildVersion string
+com.apple.mobile.iTunes dict
+-com.apple.mobile.wirele:dict
+SerialNumber
+DeviceName
+巳 Applications
+Value
+true
+10.0
+2025-04-08 22:12:48
+24.0
+false
+17.5.1
+iPhone12,1
+21F90
+C6KZRWJNN745
+iphone

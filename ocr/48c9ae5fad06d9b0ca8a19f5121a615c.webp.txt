@@ -1,0 +1,11 @@
+# OCR: 48c9ae5fad06d9b0ca8a19f5121a615c.webp
+# 来源: .\02-WriteUp\2025\48c9ae5fad06d9b0ca8a19f5121a615c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+门 丢 序 号 , 与 用 户 名 三 Shel 类 型 = 命 令 = 时 间
+过 滤 , W wie VY ssh 起 始
+口 1 ssh-keygen -t rsa -C "example@mail.com"
+L 2 ssh root@121.11.43.23
+L 3 ssh user@154.23.43.11
+LJ4 ssh root@123.60.81.230

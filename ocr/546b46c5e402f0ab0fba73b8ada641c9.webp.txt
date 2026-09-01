@@ -1,0 +1,10 @@
+# OCR: 546b46c5e402f0ab0fba73b8ada641c9.webp
+# 来源: .\01-取证技巧\02-网络取证\546b46c5e402f0ab0fba73b8ada641c9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:10
+
+Find / Replace ^ Ou
+Find Replace
+\\n REGEX - \r
+WZ Global match [J Case insensitive (Multiline matching
+(1 Dot matches all

@@ -1,0 +1,22 @@
+# OCR: c4d1d43dbfc06cfa922f88cdddbbe841.jpg
+# 来源: .\02-WriteUp\2024\c4d1d43dbfc06cfa922f88cdddbbe841.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+[rootlocalhost
+INFO[2024-06-09
+INF0[2624-86-89
+INFO[2024-06-09
+INFO[2024-06-09
+INFO[2624-06-09
+INFO[2024-06-09
+[root@locathost
+Peep eo.
+Uist]# -/alist admin set 123456
+reading config file: data/config-json
+load config from env with prefix: ALIST_
+anit logrus _ _-
+admin user has been updated:
+username: admin
+16:36:40] password: 123456
+alist]#

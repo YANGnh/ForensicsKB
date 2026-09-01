@@ -1,0 +1,10 @@
+# OCR: 584a9236f0bb56607d18a07029a99517.webp
+# 来源: .\02-WriteUp\2026\584a9236f0bb56607d18a07029a99517.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+DiskStation Manager
+版 本 7.2-64561
+法 循 条 款
+www.synology.com
+版 权 所 有 @ 2023 Synology Inc. 保 留 一 切 权 利 Synology

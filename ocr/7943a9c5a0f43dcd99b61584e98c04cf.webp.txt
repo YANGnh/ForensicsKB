@@ -1,0 +1,39 @@
+# OCR: 7943a9c5a0f43dcd99b61584e98c04cf.webp
+# 来源: .\02-WriteUp\2025\7943a9c5a0f43dcd99b61584e98c04cf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+laoka > contig 2 霍 dujlaoka.php
+<?php
+i
+* The file was created by Assimon.
+*
+* @author assimon<ashang@utf8.hk>
+* @copyright assimon<ashang@utf8.hk>
+* @link http: //utf8.hk/
+oy
+1
+2
+3
+4
+5
+6
+7
+8
+9
+9 return [
+1 |® “dujiaoka 国 命 嗅 ,-: 「 园 要 .,
+2 // 模 板 集 合
+3 ‘templates’ => [
+4 ‘unicorn’ => “ 官 方 [unicorn- 独 角 兽 ] ,
+5 ‘luna’ => 'Luna[Julyssn]',
+6 "hyper" => 'hyper[Bimoe]'
+7 1,
+8 // 语 言
+9 ‘language’ => [
+9 *zh_CN' => “ 简 体 中 文 “,
+1 ‘zh_TW’ => “ 繁 体 中 文 “,
+…Z
+3
+1,
+1; Ta 公 众 号 - 金 星 路 406 取 证 人

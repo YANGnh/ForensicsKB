@@ -1,0 +1,10 @@
+# OCR: 96e08039202270b86b54991703860cbb.jpg
+# 来源: .\02-WriteUp\2024\96e08039202270b86b54991703860cbb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+Bax +
+droid@node2:~§ sudo modprobe binder_linux devices="binder ,hwbinder , vndbinder"
+[sudo] password for droid:
+droid@node2:~§ sudo modprobe ashmem_Linux
+droid@node2:~$ []

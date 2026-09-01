@@ -1,0 +1,43 @@
+# OCR: 145d67cd72f4fe3c97f51727be14368c.webp
+# 来源: .\02-WriteUp\2025\145d67cd72f4fe3c97f51727be14368c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+Eouuan
+2
+c Hex Viewl
+fint _fastcall main(int argc, const char *
+it
+HAND ConsoleWindow; // r
+void *Buffers / rsi
+Stream *Stream; // rax
+__int6a a // rex
+Stream *Stream_1; // rbp
+unsigned int Sizes // edi
+ConsoleWindow = GetConsolewindow()s
+Shouttindow(ConsoleWindow, SW_HIDE)3
+putter = a
+argv, const char **envp)
+Stream = wfoen(L” RnRGaibclcySIZ60aL",
+28
+打 开 读 取 文 件 内 容
+r = Streamy
+if ( Stream )
+《
+fseek(Stream, e 2)5
+Size = ftell(stream_1)3
+Fseek(Stream_1, 0, 0)3
+puffer = j_malloc_base(Size);
+fread(suffer, IuLL, Size, stream_1)5
+Size = Size;
+Felose(Stream_1)5
++
+She = Butters
+sub _140@@15F0(v6, 16LL, Buffer, Buffer);
+调 用 rc4 解 密
+IF T eorrs )
+sub 149001010("fail!!!\r\n")3
+zub_140001070() 5
+return Oy
+) 内 存 加 载 解 密 后 的 文 件 oy 人 人
+. 小

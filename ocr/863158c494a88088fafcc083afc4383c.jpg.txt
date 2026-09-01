@@ -1,0 +1,22 @@
+# OCR: 863158c494a88088fafcc083afc4383c.jpg
+# 来源: .\02-WriteUp\2024\863158c494a88088fafcc083afc4383c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+Site modification [platform.com] -- Time added [2024-05-20 06:01:47]
+Domain Manager
+‘Adomain per line, the default port is 80
+Subdirectory binding Wildcard domain format
+To add another port, the format is www.domain.com:88
+*domain.com
+Site directory
+Limit access
+Domain name
+Traffic control
+192.168.11.188
+URL rewrite
+platform.com
+Default indexes
+Port opr
+59204 Del
+80 Del

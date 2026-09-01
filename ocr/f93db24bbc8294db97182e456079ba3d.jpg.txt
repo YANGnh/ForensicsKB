@@ -1,0 +1,38 @@
+# OCR: f93db24bbc8294db97182e456079ba3d.jpg
+# 来源: .\02-WriteUp\2024\f93db24bbc8294db97182e456079ba3d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+# 偏 理 后 台 代 理 28221227
+server {
+server_nane naster_jy_proxy2_jshcloud_cn master _jy_proxy_jshcloud_cn;
+listen 80 5
+root Jusr/share/ngtnx/htrl;
+index ‘index.html index.htm;
+# 厉 台 接 口 服 务 配 贻
+location ^- /adminAPI/ {
+a http://192 .268 1【董B 土 99」之/
+$proxy_add_x_forwarded_for; if (
+great - ( yfset | SRealtP Se XT cind PALER TE ESET 20230130
+proxy_set_header Shost -$server_port:
+proxy_set_header r $RealIP;#Sremote_addr :
+proxy _set_header X-Forwarded-For  $proxy_add_x forwarded for;
+proxy_set_header X-Forwarded-Proto $schene;
+a 新 增 如 下
+proxy_buffer_size 124k;
+proxy_buffers 16 1824k:
+proxy_busy buffers stze 2048k;
+【 proxytenp_ftle_wrtte_stze 2048k;
+location / {
+r()(，【 [home /www/jinyt;
+files Surt Sury /index.html;
+Hi kRouter (node "history' Bist F, MRT Re HaHb ALAN AEF BI TAN) fa
+if Cl-e Srequest_filename) {
+rewrite *(_*)$ /index_html?s=$1 last;
+break:
+}
+]
+error_page 404 /464.htnt
+location = /4ex_htnt {
+error_page 589 502 503 504 /56x_htnl:
+location = /5ex-htnt 《

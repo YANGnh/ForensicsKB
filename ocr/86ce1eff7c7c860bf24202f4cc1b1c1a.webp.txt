@@ -1,0 +1,19 @@
+# OCR: 86ce1eff7c7c860bf24202f4cc1b1c1a.webp
+# 来源: .\02-WriteUp\2025\86ce1eff7c7c860bf24202f4cc1b1c1a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+SELECT
+ffqe
+count (DISTINCT f.gk) AS zs
+FROM
+sevecr
+c 廷 阮 砺 ak,
+a EASED as ok
+Rov
+(SELECT * FROM rxckk a WHERE a. 4EfPSES* NOT IN (SELECT b 证 余 叶 码 , FROM sdqk b)) c
+JOIN (SELECT b 佩 居 蕊 n , b. TESS, b. RAAT FROM sdqk a JOIN rxkk b ON a. GPP SHS = b. TESS) d onc. fERRBID = dE RBID
+iene
+UNIX TIMESTAMP (c.” RESCH [a]”) = UNIX_TIMESTANP(d.” REACBT(AT”) <= 20
+AND GNIX_TINESTANP(c." 居 知 时 间 ) - ONDX_TIMESTANP(d.~ 居 阡 闵 ] >=- 20
+鲸 公 众 号 . 小 谢 取 证

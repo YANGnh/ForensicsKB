@@ -1,0 +1,8 @@
+# OCR: cae2bcca9556c35ac37ac94e8c50496e.jpg
+# 来源: .\02-WriteUp\2024\cae2bcca9556c35ac37ac94e8c50496e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+Erootelocalhest ~I# netstat -napt i grep 88
+‘tep 8 8 8.8.0.8:80 8.8.0.8
+LISTEN 41657/nginx: master

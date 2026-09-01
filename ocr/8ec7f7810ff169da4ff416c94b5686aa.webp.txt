@@ -1,0 +1,16 @@
+# OCR: 8ec7f7810ff169da4ff416c94b5686aa.webp
+# 来源: .\02-WriteUp\2025\8ec7f7810ff169da4ff416c94b5686aa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+u
+一| Yee eee xB RE
+recovery (0 H-SHLendatmi
+3 an \iSt4 1-341 tar\data\misc\rece
+Bae" —________________9)} -___ ps
+Ji Qversion.t MSH1HfLandouicaree
+一 坤 「 白 X4 fms |= Bowe): ] 】 [ae “ 鹄 艺 =| O=
+Offset 0 12 3 4 5 6 7 8 9 10 11 12 13 14 15 UTF-8
+00000000 4c 69 6E 75 78 20 76 65 72 73 69 6F 6E 20 34 2E Linux version 4.
+00000016 31 34 28 31 38 36 2D 67 38 34 34 66 64 31 39 63 14.198-g844fq19c
+00000032 36 20 28 62 75 69 6c 64 65 72 40 70 61 GE 67 75 6 (builder@pangu

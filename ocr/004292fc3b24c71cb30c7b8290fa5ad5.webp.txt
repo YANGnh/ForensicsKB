@@ -1,0 +1,39 @@
+# OCR: 004292fc3b24c71cb30c7b8290fa5ad5.webp
+# 来源: .\02-WriteUp\2024\004292fc3b24c71cb30c7b8290fa5ad5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+XML View List View
+1 <?uml_version="1.0" encoding="UTF-3"2>
+2 <!DOCTYPE plist PUBLIC "-//Apple//DID PLIST 1.0//EN" "http://www.apple.com/DIDs/PropertyList-1.0.dtd">
+3 <plist version="1.0">
+4 <array>
+5 <dict>
+6 <key>WFWork£lowActionIdentifier</key>
+a <string>is.workflow.actions.gettext</string>
+s <key>WFWork£lowActionParameters</key>
+3 <dict>
+10 <key>UUID</key>
+过 <string>1AS6D08B-06B9-4179-82FA-077BEE728704</string>
+12 <key>WFTextactionText</key> 口 ctool bases4 x
+13 <string> MPR yIjE20C4#MZCuMjI=</string>
+Aa OPP © cool 1397 A MARE 林验 锭
+16 <dict>
+7 <key>WFWork£lowActionIdentifier</key> @Base64 — URLS — Unicode — JWTERES © Hex
+18 <string>is.workflow.actions.base64encode</string>
+19 <key>WFWorkflowActionParameters</key>
+20 ad MTkyLJE20CaxMzcumjl=
+团 <key>WFInput</key>
+22 <dict>
+23 <key>Value</key>
+24 <dict>
+25 <key>OutputUUID</key>
+26 <string>1A56D08B-06B9-4179-82FA-077BEE728704</striz
+27 <key>Type</key>
+28 <string>ActionOutput</string>
+29 <key>OutputName</key>
+30 <string> XA</string> 492.168.137.22
+31 </dict>
+32 <key>WFSerializationType</key>
+33 <string>WFTextTokenAttachment</string>
+7 r

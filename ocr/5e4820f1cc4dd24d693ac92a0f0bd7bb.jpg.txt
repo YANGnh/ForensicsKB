@@ -1,0 +1,10 @@
+# OCR: 5e4820f1cc4dd24d693ac92a0f0bd7bb.jpg
+# 来源: .\02-WriteUp\2024\5e4820f1cc4dd24d693ac92a0f0bd7bb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+a 192168157237 @
+c Benen 5 - E
+一 一 me 伊
+0% 5 s 11% n
+| w 1

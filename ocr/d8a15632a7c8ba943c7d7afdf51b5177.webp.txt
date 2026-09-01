@@ -1,0 +1,13 @@
+# OCR: d8a15632a7c8ba943c7d7afdf51b5177.webp
+# 来源: .\02-WriteUp\2025\d8a15632a7c8ba943c7d7afdf51b5177.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+aaran
+SERIO
+a
+E
+E
+2 me:
+E
+e

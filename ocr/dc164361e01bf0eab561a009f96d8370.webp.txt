@@ -1,0 +1,21 @@
+# OCR: dc164361e01bf0eab561a009f96d8370.webp
+# 来源: .\02-WriteUp\2025\dc164361e01bf0eab561a009f96d8370.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+/
+if (fsexistsSynctkEY STORAGE_FILE) {
+try{
+/
+const fileKey = deriveKey(masterPassword, salt, 32);
+const encryptedKeys = JSON.parse(fs.readFileSync(KEY_STORAGE FIL!
+const decryptedData = decryptWithKey(encryptedKeys, fileKey);
+const keys = JSON.parse(decryptedData);
+return {
+aeskey: Buffer.from(keys.aeskey, ‘hex’),
+inter keysjwtKey
+} ith (ert) (
+consoleerror[ 从 文 仪 载 怪 钰 出 镂 / err.message);
+1) ESE REA
+)
+1

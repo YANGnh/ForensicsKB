@@ -1,0 +1,66 @@
+# OCR: 7f4a4eac8de178578952910876d5a1d6.webp
+# 来源: .\02-WriteUp\2024\7f4a4eac8de178578952910876d5a1d6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+国 u
+[B list packages.txt
+ew ays ee
+2024/9/5 3:20
+a B list_packages.txt - Notepad2
+File Edit View Settings 2
+一 白 西 | 扬 生 | 国 绘 西 鲁 | 斧
+ga
+13 package:
+14 package:
+15 package:
+is package:
+17 package:
+1s package:
+19 package:
+20 package:
+2 package:
+22 package:
+23 package:
+24 package:
+25 package:
+26 package:
+2) package:
+com.
+com,
+com.
+.oculus.browser
+.android.htmviel Whatsapp
+com.
+com.
+com,
+com,
+.oculus.os.vrlocl
+com.
+com.
+com.
+com,
+com.
+com,
+com.
+..meta. frameworkpacKagestubs
+com.
+oculus. preshutdes..4 jo:
+android. document
+android.external coarch string:
+android. compani¢ (>) Match case
+a
+TXT SOE
+oculus.cvp (Match whole word only
+meta. curio. toyb¢ (>) Match beginning of word only
+-android.providet ^
+meta.curio.rulet (C)Regular expression search
+android.network$ 口 Tansom backslashes
+oculus.accounts¢
+6KB
+(Don't wrap around
+(close after find
+Goto Replace (Ctrl+H)
+End Next
+Find Previous
+Close

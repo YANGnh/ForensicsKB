@@ -1,0 +1,25 @@
+# OCR: 821a97abd7e924d43013a0aea3170256.webp
+# 来源: .\02-WriteUp\2025\821a97abd7e924d43013a0aea3170256.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+A Jn h ha couq 一
+口 一 序 号 , 万 名 称 三 大 小 = 创 建 时 间 三 修 改 时 间 丫 | 世 全 路 径
+过 滑 Y | SF 起 始 结 束 , W , 起 始 结 束 , W , 过 滤
+4X 0B 2076-11-29 16:54:34 2076-11-29 16:5434 计 算 机 检 材 E01/ 分 区 8/yb/mohT j1「6Jq[d
+5X 0B 2076-11-29 16:54:34 - 2076-11-29 16:5434 计 算 机 检 材 E01/ 分 区 8/yb/abpjLAFWoY TrS
+6x Wj5Bg17UK'uOkA 0B 2076-11-29 16:54:34 2076-11-29 16:54:34 计 算 机 检 材 .E01/ 分 区 8/Wj5Bg17UKuOKA
+™ ((ZhzO,aJhCFHWAJ 0B 2076-11-29 16:54:34 2076-11-29 16:54:34 计 算 机 检 材 E01/ 分 区 8/)b/[(7hzO,alhCFHWwAJ
+8 spdLogbr 64 KB 2025-07-09 10:53:47 “2025-10-16 23:45:10 “ 计 算 机 检 材 E01/ 分 区 8/$Extend/SRmMetadata/$TxfLog/$TxfLog blf
+9 $pdLogcontaineroo000000 2 MB 2025-07-09 10:53:47 2025-10-16 23:45:10 计 算 机 检 材 E01/ 分 区 8/$Extend/SRmMetadata/$TxfLog/$TxfLogConta
+10 BU tet 174B 2025-07-09 14:58:16 2025-10-16 23:32:12 计 算 机 检 材 E01/ 分 区 8/ 资 料 1:txt
+11 FVE2.fe40ad34d-dae9-4bc7 64 KB 2025-07-10 00:33:54 2025-10-16 23:30:59 计 算 机 检 材 E01/ 分 区 8/System Volume Information/FVE2.{e40ad34d-c
+12 FVE2.fe40ad34d-dae9-4bc7 64 KB 2025-07-10 00:33:54 2025-10-16 23:30:59 “ 计 算 机 检 材 :E01/ 分 区 8/System Volume Information/FVE2.{e40ad34d-c
+13 FVE2.{e40ad34d-dae9-4bc7 64 KB 2025-07-10 00:33:54 2025-10-16 23:30:59 计 算 机 检 材 E01/ 分 区 8/System Volume Information/FVE2.{e40ad34d-c
+14 FVE2.{24e6f0ae-6a00-4f73- 8 KB 2025-07-10 00:33:54 2025-10-16 23:30:59 计 算 机 检 材 :E01/ 分 区 8/System Volume Information/FVE2.(24e6f0ae-6
+详 细 信 息
+名 称 ; 资 料 1.txt 原 类 型 视 国 文 本 视 固 十 六 进 制 视 图
+扩 展 名 : txt
+类 型 : 文 件 12345687621313213123231231321313
+大 N: 174 B 123132131
+12 吴 1321311212121121212113131331231313

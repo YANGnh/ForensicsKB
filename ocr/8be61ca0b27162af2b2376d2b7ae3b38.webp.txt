@@ -1,0 +1,10 @@
+# OCR: 8be61ca0b27162af2b2376d2b7ae3b38.webp
+# 来源: .\02-WriteUp\2025\8be61ca0b27162af2b2376d2b7ae3b38.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+C: N >nsLookup -type=MX _chen .foren6
+服 务 器 : dns1.hnsdns.com
+Address: 139.144.68.241
+非 权 威 应 答 :
+chen .foren6 MX preference = 8,mail exchanger = mail.163.com

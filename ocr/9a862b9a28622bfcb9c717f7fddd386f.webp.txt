@@ -1,0 +1,18 @@
+# OCR: 9a862b9a28622bfcb9c717f7fddd386f.webp
+# 来源: .\02-WriteUp\2026\9a862b9a28622bfcb9c717f7fddd386f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+if ($user->token) {
+try {
+if($post[ ‘password’ ]!='www.qymao.cn'){
+JWTAuth: : setToken($user->token) ->invalidate() ;
+}
+} catch (TokenExpiredException $e) {
+】
+}
+if (empty ($user->register_ip)){
+$user->register_ip = $ip;
+【
+if($post[“password ]1=“www.qymao.cn )f
+$user->token = $token;

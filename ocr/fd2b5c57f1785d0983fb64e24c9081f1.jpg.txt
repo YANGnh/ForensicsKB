@@ -1,0 +1,7 @@
+# OCR: fd2b5c57f1785d0983fb64e24c9081f1.jpg
+# 来源: .\02-WriteUp\2024\fd2b5c57f1785d0983fb64e24c9081f1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+20.
+EA <

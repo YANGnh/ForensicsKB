@@ -1,0 +1,10 @@
+# OCR: f02770409b7f200c137a08e176c7f1ef.webp
+# 来源: .\02-WriteUp\2024\f02770409b7f200c137a08e176c7f1ef.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+[ProxyList]
+# add proxy here
+# meanwile
+# defaults set to "tor"
+socks4 127.0.0.1 9050

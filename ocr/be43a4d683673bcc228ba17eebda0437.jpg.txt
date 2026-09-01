@@ -1,0 +1,16 @@
+# OCR: be43a4d683673bcc228ba17eebda0437.jpg
+# 来源: .\02-WriteUp\2024\be43a4d683673bcc228ba17eebda0437.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+root@javaserver:“# ip a
+1: lo: <LOOPEACK,UP,LOWER_UP> mtu 65536 qdise noqueue state UNKNOWN group default qlen 1000
+Link/ loopback 00:01 00:00:00 brd 00:00:00:00:00:00
+inet 127.0.0.1/8 scope hast lo
+valid_lft forever preferred_Ift forever
+ineté ::1/128 scone host
+valid_lft forever preferred_ift forever
+2: ens33: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default glen 1000
+Link/ether 00:0c:23:55:e1:02 brd ffiff:ffiffiffiff
+altname enp2si
+root@javaserver:"# -

@@ -1,0 +1,36 @@
+# OCR: 87f8b7a67bba6b6ed2da08e906a5aafb.webp
+# 来源: .\02-WriteUp\2025\87f8b7a67bba6b6ed2da08e906a5aafb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+一 CAWindowstSystemazvemde X + oy
+Restore.Sub.#1...: Salt:0 Amplifier:0-1 Iteration:576-580
+Candidate.Engine.: Device Generator
+Candidates.#1....: abc828914 -> abc425605
+Hardware .Mon.#1..: Temp: 58c Util: 83% Core:2625MHz Mem:8001MHz Bus:8
+$2a$10$joklmu.gwhkj08TvGSG/X.wVLUofNpX6hpLpT85SQjdp.Dg@LTAKO:abc123654
+Session.. .: 2025-12-11
+Status......... .: Cracked
+Hash.Mode .: 3200 (berypt $2*$, Blowfish (Unix))
+Hash.Target......: $2a$10$joK1mu. QwhkjO8IVGSG/X .wVLUofNpX6hplpT85SQjdp. . .OL7AKO
+Time .Started.....: Thu Dec 11 16:58:29 2025 (9 mins, 22 secs)
+: Thu Dec 11 17:07:51 2025 (@ secs)
+.: Pure Kernel
+.: abc?d?d?d?d?d?d [9]
+: 1/1 (100.00%)
+Time.Estimated.
+Kernel. Feature.
+Guess.Mask.....
+Guess.Queue....
+Speed.#1....... a8 1027 H/s (1.71ms) @ Accel:1 Loops:4 Thr:24 Vec:1
+Recovered...... .: 1/1 (100.00%) Digests (total), 1/1 (100.00%) Digests (new)
+Progress. … 576576/1000000 (57.66%)
+Rejected....... : 0/576576 (0.00%)
+Restore.Point....: 576000/1000000 (57.60%)
+Restore.Sub.#1...: Salt:0 Amplifier:0-1 Iteration:1020-1024
+Candidate.Engine.: Device Generator
+Candidates.#1....: abc123654 -> abc762814
+Hardware.Mon.#1..: Temp: 58c Util: 45% Core:2625MHz Mem:8001MHz Bus:8
+Started: Thu Dec 11 16:58:24 2025
+Stopped: Thu Dec 11 17:07:52 2025
+C:\Users\nhy10\Desktop\Forensics\LovelyTools\hashcat-6.2.6>

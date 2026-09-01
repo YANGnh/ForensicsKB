@@ -1,0 +1,21 @@
+# OCR: 6ade09da5584c6f0dc9ea41933aa44bb.jpg
+# 来源: .\02-WriteUp\2024\6ade09da5584c6f0dc9ea41933aa44bb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+userdata ini - GH
+SH) RRO) tO) BBW 00
+[192.168.71.100%3A15555]
+WindowRectX=2145
+WindowRectY=135
+WindowRectW=561
+WindowRectH=998
+[192.168.71.100%3A25555]
+WindowRectX=1378
+WindowRectY=116
+WindowRectW=561
+[192.168.71.100%3A35555]
+WindowRectX=1378
+WindowRectY=116
+WindowRect 61
+Oe

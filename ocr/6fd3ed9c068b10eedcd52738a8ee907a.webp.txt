@@ -1,0 +1,29 @@
+# OCR: 6fd3ed9c068b10eedcd52738a8ee907a.webp
+# 来源: .\02-WriteUp\2026\6fd3ed9c068b10eedcd52738a8ee907a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+公
+归 档 设 置
+[y
+日 志 发 送
+4 接 收 日 志
+疙 设 置 历 史 记 录
+当 前 “ 已 存 档
+渊 除 旷 出 一 本 地 ~ 。 常 规 一 川
+优 先 层 级 日 志 时 间 用 户 事 件
+信 息 系 统 2025-04-02 22:27:08 LFR Network time synchronization is activated; t...
+信 息 系 统 2025-04-02 22:27:08 SYSTEM System successfully started [NTP service].
+8 系 统 2025-04-02 22:27:08 SYSTEM System successfully stopped [NTP service].
+信 息 系 统 2025-04-02 22:27:07 LFR Time zone was changed to [(GMT+08:00) Be...
+信 息 系 统 2025-04-02 22:25:49 admin User [admin] was disabled.
+信 息 系 统 2025-04-02 22:25:49 admin User [LFR] was added to the group [administ...
+信 息 系 统 2025-04-02 22:25:48 admin User [LFR] was created.
+信 息 系 统 2025-04-02 22:25:48 admin Password of the user [admin] was changed.
+信 息 系 统 2025-04-02 22:25:48 admin Server name was changed from [SynologyN...
+信 息 系 统 2025-04-02 22:25:47 admin Enabled auto block service.
+警 告 系 统 2025-04-02 22:22:23 SYSTEM System booted up from an improper shutdo...
+信 息 系 统 2025-04-02 22:22:08 SYSTEM System started to boot up.
+警 告 系 统 2025-04-02 18:05:21 SYSTEM
+System booted up from an improper shutdo...
+每 页 显 示 数 1000 ~ 131 个 项 目 C

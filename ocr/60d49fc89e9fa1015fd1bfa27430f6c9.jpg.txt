@@ -1,0 +1,14 @@
+# OCR: 60d49fc89e9fa1015fd1bfa27430f6c9.jpg
+# 来源: .\02-WriteUp\2024\60d49fc89e9fa1015fd1bfa27430f6c9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+85122 67-42:34 UTC [checkin] host called home, sent- 12 bytes
+05/22 07-43-07 UTC [input] <neo> hashdump
+05/22 07-43-08 UTC [task] <T1003, T1055, T1093> Tasked beacon to dump hashes
+05/22 07-43-08 UTC [checkin] host called home, sent: 82541 bytes
+05/22 07-43-69 UTC [output]
+received password hashes:
+Administrator -50-aad3b435b51404eeaad3b435b51404ee- 32ed87bdb5fdcSe9cba88547376818d4-
+Guest 581-aad3b435b51484eeaad3b435b51484ee-3146cfe6d16ae931b73c59d7e6c689c6---
+www = 1000 - aad3b435b51464eeaad3b435b51484ee -3146cfe6d16ae931b73c59d7e6c689c6

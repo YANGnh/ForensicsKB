@@ -1,0 +1,25 @@
+# OCR: 70e7285358c81916276df8bc5350f8e7.jpg
+# 来源: .\02-WriteUp\2024\70e7285358c81916276df8bc5350f8e7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+root@iStore0S:7# cat /etc/os-release
+AME ="iStoreOS"
+JERS ION="22. 83.6"
+ID="istoreos”
+ID_LIRE="lede openurt™
+RETTY_NAME="iStoreOS 22.03.6"
+ERS ION_ID="22.03.6"
+7/github.com/istoreos”
+“https ://github. com/istoreos/istoreos/issues”
+SUPPORT_URL="https://forum. openurt.org/"
+UILD_ID="2024830112"
+DPENWRT_BOARD="x86/64"
+DPENWRT_ARCH="x86_64"
+DPENURT_TAINTS="busybox"
+DPENWRT_DEVICE_MANUFACTURER="Openirt™
+DPENWRT_DEVICE_MANUFACTURER_URL="https://openurt.org/"
+OPENURT_DEVICE_PRODUCT="Gener ic”
+OPENWRT_DEVICE_REUISION="v8"
+DPENURT_RELEASE="iStore0S 22.03.6 2624030112"
+root@iStore0S:/# _

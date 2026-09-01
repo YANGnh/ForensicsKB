@@ -1,0 +1,23 @@
+# OCR: 89b83c74c98480ab317b468f03004a40.webp
+# 来源: .\02-WriteUp\2025\89b83c74c98480ab317b468f03004a40.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+C: : 张 >nsLookup admin.chen.foren6
+服 务 器 : dns1.hnsdns.com
+Address: “139 .144.68 .241
+名 称 : admin .chen .foren6
+c:\l >nsLookup caidan.chen.foren6
+服 务 器 : dns1.hnsdns.com
+Address: “139.144.68.241
+非 权 威 应 答 :
+名 称 : caidan .chen .foren6
+Address: 20.25.4.26
+C: 余 3 z >nsLookup fichen .foren6
+服 务 器 : dns1.hnsdns .com
+Address: “139.144.68.241
+xxx dnsl.hnsdns.com 找 不 到 fichen .foren6: Non-existent domain
+c:\ = 东 >nsLookup hl.chen.foren6
+服 务 器 : dns1.hnsdns.com
+Address: 139.144.68.241
+xxx dnsl.hnsdns.com 找 不 到 hl.chen.foren6: Non-existent domain

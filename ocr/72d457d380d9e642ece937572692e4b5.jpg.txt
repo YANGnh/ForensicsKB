@@ -1,0 +1,34 @@
+# OCR: 72d457d380d9e642ece937572692e4b5.jpg
+# 来源: .\02-WriteUp\2024\72d457d380d9e642ece937572692e4b5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+th 2.easyapk.apk = Mainactivity .  @; prefs
+口 渡 阜
+kage a 5
+白 andreid.support.wd J
+im androidx import android. content.Context;
+encom: import android. content.SharedPreferences;
+im google. android.material 广 an from: clasees3idex */
+ba hl.easyapk 12| public class prefs t
+Signin, private static final String SP_TAG = “ayprefs"s
+Soe Prius Conte nantes
+@ cache 23] public prefs() 《
+@extCache ]
+李 2 16] public prefs(Context mcontext) {
+@ files 18 ‘this.mContext = mContext
+@Meindctivity }
+Gusts 21| public void save() {
+WSP_TAG String 2 SharedPreferences sp = this.mContext.getSharedPreferences(SP_TAG, 0);
+@aContext Context 23 SharedPreferences.Editor editor = sp.edit();
+@prers() void E n AppSigning();
+editor.putString("sign”, String. valueOf AppSigning.getSigninfo(this.mcontext, AppSigning.MDS)));
+® prefs(Context) void 53 editor.commit();
+马 read0 String | 1
+® save() void
+30| publi
+E oy 「蠢雳康__
+@she “ ss nn
+E H E
+自 AK signature 34 return da
+回 Sumary 3

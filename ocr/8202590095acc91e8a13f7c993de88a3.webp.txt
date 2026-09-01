@@ -1,0 +1,36 @@
+# OCR: 8202590095acc91e8a13f7c993de88a3.webp
+# 来源: .\02-WriteUp\2024\8202590095acc91e8a13f7c993de88a3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+#!/usr/bin/python
+‘import os
+‘import time
+‘import datetime
+‘import pipes
+import sys
+if
+db_host = "localhost"
+db_user = 'yourcode_xyz'
+db_user_password = ‘yTmeRFKftLxymj8n'
+db_nane = 'yourcode_xyz'
+backup_path = ' /www/backup/database'
+now = datetime.datetime.now()
+time_stamp = now.strftine('%Y%m%dXHKMKS.
+backup_folder = backup_path + '/' + time_stamp
+try:
+os.stat(backup_folder)
+except:
+os.nkdtr(backup_fotder)
+donpcnd = “mysqldump -h " + db_host +" -u " + db_user + "
+backup_folder) +
+os -system(dumpcrd)
+time.sleep(10)
++ db_name + "sql"
+-p" + db_user_password +
+"4 db_name +"
+oschdir(pipes-quote(backup_folder
+zipcnd = "zip -q -m -r -P " +/sys.argv[1].strip()|+ "" + db_nane + ".zip " + db_name + ".sql"
+tem(zipcnd)
+国
++ pipes .quote(

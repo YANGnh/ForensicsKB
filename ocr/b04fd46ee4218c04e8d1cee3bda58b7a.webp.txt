@@ -1,0 +1,8 @@
+# OCR: b04fd46ee4218c04e8d1cee3bda58b7a.webp
+# 来源: .\02-WriteUp\2024\b04fd46ee4218c04e8d1cee3bda58b7a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+[root@localhost cli-plugins]# docker compose version
+Docker Conpose version v2.27.1
+[root@localhost cli-plugins]# |

@@ -1,0 +1,14 @@
+# OCR: bb005a74e27bb0a35ce636b9d66bf373.webp
+# 来源: .\02-WriteUp\2024\bb005a74e27bb0a35ce636b9d66bf373.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+心 0 > Program Files > WindTerm >
+2 eas E h
+SS wind 2022/7/29 15:01 E
+一 geba 2022/7/24 4:20 E
+plugins 2022/7/21 5:20 E
+Di terminal 2022/7/21 5:20 E
+Si vendors 2022/7/21 5:20 E
+回 tcopeal 2021/12/21 631 aes 3,361 KB
+Bi licensetxt 2022/7/24 3:15 esac} 42KB

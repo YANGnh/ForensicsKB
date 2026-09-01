@@ -1,0 +1,21 @@
+# OCR: cf8367555dacf453d49a590544094588.webp
+# 来源: .\02-WriteUp\2024\cf8367555dacf453d49a590544094588.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+[rootebpionaufohyerboond
+server{
+Tisten 82;
+server_nane localhost;
+location / {
+Foot /www/admin/build;
+‘index index.html index.htm;
+]
+]
+server{
+listen 83;
+server_nane localhost;
+location / {
+Toot /www/adnin/tty/build;
+‘index index.html index.htm;
+]

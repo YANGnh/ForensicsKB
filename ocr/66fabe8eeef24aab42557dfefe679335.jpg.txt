@@ -1,0 +1,13 @@
+# OCR: 66fabe8eeef24aab42557dfefe679335.jpg
+# 来源: .\02-WriteUp\2024\66fabe8eeef24aab42557dfefe679335.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+P write Cries > 匹 万 2
+Gess| =s8 URL
+VY | 训
+口 187 Google https://www.google.com/
+(188 Clash http://192.168.71.100:9090/ui/dashboard/#/proxies
+(189 Clash http://192.168.71.100:9090/ui/dashboard/#/proxies
+(1190 Stable Diffusion http://127.0.0.1:7860/
+口 191 404 Not Found htpy/1921687too/

@@ -1,0 +1,9 @@
+# OCR: 6aa248b3b2fa630cd0dca27526843d05.webp
+# 来源: .\02-WriteUp\2025\6aa248b3b2fa630cd0dca27526843d05.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+| 团 1721680.105 v 国 newbee malLdb | 口 运 行 - ib 督 解 释
+SELECT COUNT(*) FROM tb_newbee_mall_order;
+COUNT(*)
+8628

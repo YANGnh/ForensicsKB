@@ -1,0 +1,53 @@
+# OCR: ad54fba296083588b2d385533205aefa.webp
+# 来源: .\02-WriteUp\2026\ad54fba296083588b2d385533205aefa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+q
+v21 = strings_Replace(
+unsigned int
+is://100.78.221.98:8880/www
+[!] Warning: Failed to patch exit functions: %vas"
+"ni: Unmarshal recipient value is non-pointer attempting to link in too many shared libraries",
+47,
+(unsigned int)" ",
+1,
+0,
+0,
+-1,
+v19,
+v20);
+qword_128C208 = 47;
+if ( dword_12E218@ )
+sub_D65840(&qword_128C200);
+else
+qword_128C200 = v21;
+result = strings_Replace((unsigned int)"QWERt_CSDMAHUATWBringWin", 16, (unsigned int)"
+qword_128C158 = 16;
+if ( dword_12E218@ )
+return sub_D65840(&qword_128C150);
+qword_128C150 = result;
+return result;
+", 1, @, @, -1, v22, v23)3

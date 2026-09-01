@@ -1,0 +1,13 @@
+# OCR: 6be03678671f869c89e029b906a16c12.jpg
+# 来源: .\02-WriteUp\2024\6be03678671f869c89e029b906a16c12.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+Gs GB Sa 图 RRtt oh eee
+user_name nickname —_usertype _ email phonenumber sex
+厂 西 2 - 压 一 | 1
+2 1 zhangjie E 00 x@qg.com 156666666061
+101 1 zt 00 196123123120
+102 1 zhangrunshuai SGI 00 18560628095 0
+108 1 yuankaizeng E 00 0
+一 R 5 限 5

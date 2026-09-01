@@ -1,0 +1,152 @@
+# OCR: 3203d61f447b76a49bf473517cd91901.jpg
+# 来源: .\02-WriteUp\2024\3203d61f447b76a49bf473517cd91901.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+匹 BBS pcapng
+XHO RAO REY MAG ARO SHA Sit BEM Tew IAD wae
+一 目 于 国 UBBE Qeestae
+@ @ 亚
+p contains lpmyadmia 8 http.request method=="POST]
+No.
+陶
+Time
+264 41.984750
+286 43.108396
+313 44.214285
+340 45.308711
+366 46.428525
+392 47.555011
+419 48.663181
+446 49.785555
+473 50.907384
+499 52.017365
+526 53.137797
+552 54.245659
+579 55.358307
+607 56.475890
+633 57.603774
+660 58.712750
+PA ETS
+Source
+192.168.85.130
+192.168.85.130
+192.168.85.130
+192.168.85.130
+192.168.85.130
+192.168.85.130
+192.168.85.130
+192.168.85.1386
+192.168.85.130
+192.168.85.130
+192.168.85.1386
+192.168.85.130
+192.168.85.130
+192.168.85.130
+192.168.85.13@
+192.168.85.1386
+Nn
+Destination
+192.168.85.250
+192.168.85.250
+192.168.85.250
+192.168.85.250
+192.168.85.250
+192.168.85.250
+192.168.85.250
+192.168.85.250
+192.168.85.256
+192.168.85.256
+192.168.85.256
+192.168.85.256
+192.168.85.256
+192.168.85.256
+192.168.85.256
+192.168.85.256
+Sue ae aes
+Protocol Lengtl Info
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP.
+HTTP
+HTTP
+HTTP
+HTTP
+i
+413 POST
+393 POST
+396 POST
+393 POST
+390 POST
+394 POST
+397 POST
+395 POST
+393 POST
+394 POST
+393 POST
+395 POST
+394 POST
+393 POST
+396 POST
+395 POST
+ae oe
+/phpmyadmin/
+/phpmyadmin/
+/phpnyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+/phpmyadmin/
+Se) ir aa
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+HTTP/1.1
+TE
+(application/x-wn-form-urlencoded)
+(application/x-wwu-form-urlencoded)
+(application/x-wwu-form-urlencoded)
+(application/x-www-form-urlencoded)
+(application/x-wwu-form-urlencoded)
+(applicat ion/x-www-form-urlencoded)
+(applicat ion/x-www-form-urlencoded)
+(application/x-www-form-urlencoded)
+(application/x-wwu-form-urlencoded)
+(application/x-www-form-urlencoded)
+(application/x-wwu-form-urlencoded)
+(application/x-www-form-urlencoded)
+(application/x-www-form-urlencoded)
+(application/x-www-form-urlencoded)
+(application/x-www-form-urlencoded)
+(application/x-www-form-urlencoded)
+in

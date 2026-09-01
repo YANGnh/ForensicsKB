@@ -1,0 +1,26 @@
+# OCR: fe74a7e480dc1bda773cf1a5e1c4e3d0.webp
+# 来源: .\02-WriteUp\2025\fe74a7e480dc1bda773cf1a5e1c4e3d0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+MMKV Visualizer
+View MMKV databases online - completely ©
+transparent & private.
+Open File(s) Download Sample Data
+upload_aad_time (hexstring) 083230323531303130 心 区
+current_capital_account (hexstring) 00 心 厚 (hexstring) 00 OL
+hym_bill_days_count29075726b10cffec (hexstring) 083230323531303130 心 区
+hym_activity_add_bill29075726b10cffec (hexstring) 083230323531303130 心 区
+table_category_md5 (hexstring) 20383466616362343032373964336466333236336534616... 口 区
+exstring) cf146958373646743
+capital_sort29075726b10cffec (hexstring) 00 OF (hexstring) 00 OF
+home_float_button_right (hexstring) 01 DOE (hexstring) 01 OE
+current_income_capital_account (hexstring) 00 OF (hexstring) 00 OE
+table_bill_md5 (hexstring) 20303662373239353730393163366333613639386230373.., 心 区 (hexstring) 2065666231363730(
+need_sync29075726b10cffec (hexstring) 00 OG (hexstring) 01 OF
+last_update_time (hexstring) d295ffccgc33 必 区 (hexstring) d295ffccgc33 必 区
+first_install_event_insert_count (hexstring) 08 OF (hexstring) 07 DE
+last_good_appraise_time (hexstring) 0e3230323531303130313234323335 OL
+——— EEE »
+Features
+Visualize the most recent key-value pairs, as well as older logged values not available via the native API.

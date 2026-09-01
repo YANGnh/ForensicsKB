@@ -1,0 +1,7 @@
+# OCR: 388aa078c628972cd975317d5dfa7396.webp
+# 来源: .\02-WriteUp\2025\388aa078c628972cd975317d5dfa7396.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+ame FROM “ds_member” WHERE mobile = (SELECT parent FROM “ds_member” GROUP BY parent ORDER BY COUNT(*) DESC LIMIT @,1);
+团 8RWa mike CS 史

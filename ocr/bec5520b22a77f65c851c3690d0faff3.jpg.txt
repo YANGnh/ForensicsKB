@@ -1,0 +1,9 @@
+# OCR: bec5520b22a77f65c851c3690d0faff3.jpg
+# 来源: .\02-WriteUp\2024\bec5520b22a77f65c851c3690d0faff3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+C:\Users\Luck \AppData\Local \stable-di ffusion-webui \models\Stable-diffusion>certutil -hashfile v1-5-pruned-emaonly. safetensors SHA256
+SHA256 ff) v1-5-pruned-emaonly. safetensors 吊 莉 :
+22e85 15aab985b77Gafcle42647 £23865 1a317d2497291232d03a ledfeeaedc
+Certlltil: -hashfile aS AMINE,

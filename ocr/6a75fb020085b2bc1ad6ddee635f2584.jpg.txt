@@ -1,0 +1,11 @@
+# OCR: 6a75fb020085b2bc1ad6ddee635f2584.jpg
+# 来源: .\02-WriteUp\2024\6a75fb020085b2bc1ad6ddee635f2584.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+8 +
+451a0978d664:/ # find / -name base.apk
+/data/app/~~H_BhWcXqxofFWnwnF rhZvg==/com_ss.androtd_ugc. aweme-V_GSezK j2eqAP310X71azw==/base.apk
+451a0978d664-/ # pdssun /data/app/~~W_BhWcXqxofFWnwmFrhZvg-=/com.ss. android. ugc. aweme-V_GSezk j2egAP310X7Iazw==/base.apk
+@ce8F95ba0401769a9F4860749cc8206 /data/app/~~W_BhWcXqxofFWnwnFrhZvg==/com.ss.androtd.ugc.awene-V_GSezK j2egAP310X71azw==/base. apk
+451a0978d664:/ # []

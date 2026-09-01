@@ -1,0 +1,54 @@
+# OCR: ad5e7ba0aa47d6c39f0baed2ffbb5bf1.jpg
+# 来源: .\02-WriteUp\2024\ad5e7ba0aa47d6c39f0baed2ffbb5bf1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+[root@localhost ~]# docker info
+Containers: 1
+Running: 1
+Paused: 6
+Stopped: 6
+Images: 1
+Server Version: 1.13.1
+Storage Driver: overlay2
+Backing Filesystem: xfs
+Supports d_type: true
+Native Overlay Diff: true
+Logging Driver: journald
+Cgroup Driver: systend
+Plugins:
+Volume: local
+Network: bridge host macvlan null overlay
+Swarm: inactive
+Runtimes: docker-runc runc
+Default Runtime: docker-runc
+Init Binary: /usr/libexec/docker/docker-init-current
+contatnerd version: (expected: aa8187dbd3b7ad67d8e5e3a15115d3eef43a7ed1)
+runc verston: 8891bca22c049cd2dcf13ba2438cObac8d7F3343 (expected: 9df8b306d01f59d3a8029be411deO15b7304dd8F)
+init version: fec3683b971d9c3ef73F284F176672c44b448662 (expected: 949e6facb77383876aeff836944dde66b3889574)
+Security Options:
+secconp
+WARNING: You're not using the default seccomp profile
+Profile: /etc/docker/seccomp. json
+selinux
+Kernel Version: 3.10.0-1160.108.1_el7.x86_64
+Operating System: CentOS Linux 7 (Core)
+OSType: Linux
+Architecture: x86_64
+Number of Docker Hooks: 3
+CPUs: 1
+Total Memory: 991 MiB
+Name: localhost . localdomain
+ID: KPIA:N4L7- EQMY :XBT4-VE7K: 3Q2U-: SG6H: SAK2 : CZKO: VMKN: XO3M:CI35
+Docker Root Dir: /var/lib/docker
+Debug Mode (client): false
+Debug Mode (server): false
+Registry: https://index.docker.io/v1/
+Experimental: false
+Insecure Registries:
+127.0.0.0/8
+Registry Mirrors:
+https: //registry docker-cn.com
+Live Restore Enabled: false
+Registries: docker.io (secure)
+[root@locathost ~]# []

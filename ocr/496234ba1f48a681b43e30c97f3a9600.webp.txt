@@ -1,0 +1,20 @@
+# OCR: 496234ba1f48a681b43e30c97f3a9600.webp
+# 来源: .\02-WriteUp\2025\496234ba1f48a681b43e30c97f3a9600.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+一 级 卡
+文 作 f 置
+文 似 关 城
+Protection
+复 朱度
+MDS:
+Passwords:
+-xIsx
+D: ) 检 材 题 目 ) 2025 数 证 杯 初 赘 ) 导 出
+MS Office 2013-2019 — Open Password, Hardware acceleration possible, Instant \
+AES 256-bit Encryption, SHA-512
+eeee. Brute-force - Slow
+52EE2947370FD03286CE583B1EFE7F9F
+File-Open 688561
+File-Modify 好 像 汪 有 设 置 宏 码 揉

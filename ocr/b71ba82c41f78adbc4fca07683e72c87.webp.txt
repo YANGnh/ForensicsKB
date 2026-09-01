@@ -1,0 +1,30 @@
+# OCR: b71ba82c41f78adbc4fca07683e72c87.webp
+# 来源: .\02-WriteUp\2025\b71ba82c41f78adbc4fca07683e72c87.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+import pandas as pd
+# 假 设 df 是 您 的 DataFrame, 包 含 列 : 分 局 ID, 案 件 时 间 , 被 骗 金 额
+# 如 果 数 据 尚 未 加 载 , 可 先 创 建 示 例 DataFrame ( 根 据 您 的 实 际 数 据 调 整 )
+df = pd.read_excel(“04- 涉 诈 案 件 信 息 表 .xlsx“)
+# 1. 转 换 时 间 列 并 提 取 年 月 信 息
+df[ 年 月 ] = df[ 案 件 时 间 ].dtto_period(M】 # 转 换 为 Period 对 象 , 便 于 处 理 月 度
+数 据
+#2. 过 滤 仅 保 留 2024 和 2025 年 的 数 据
+df = df[df[「 案 件 时 间 T.dtsyearisin([2024, 2025])]
+#3. 按 分 局 和 年 月 分 组 , 计 算 每 月 被 骗 总 额
+monthly_sum = df:groupby([ 分 局 IDy 「 年 月 小 [ 被 骗 金 额 ]1sum(j.reset_index()
+#4, 为 每 个 分 局 创 建 完 整 的 2024-01 至 2025-12 月 份 范 围 ( 确 保 所 有 月 份 均 覆 盖 )
+branch_ids = df[「 分 局 ID].unique()
+all_months = pd.period_range(start=「2024-01, end=「2025-12, freq='M')
+full_index = pd.Multilndex.from_product([branch_ids, all_months], namesz=[「 分 局 ID“
+年 月 小
+monthly_sum_indexed = monthly_sumset_index([「 分 局 IDy 「 年 月 弓
+complete_sum = monthly_sum_indexed.reindex(full_index,
+fill_value=0).reset_index()
+#5. 按 分 局 和 年 月 排 序 数 据 ( 确 保 时 间 顺 序 正 确
+complete_sum = complete_sum.sort_values([「 分 局 ID', 「 年 月 小
+#6. 计 算 环 比 增 长 率 ( 当 前 月 与 上 月 相 比 的 百 分 比 变 化
+complete_sum[「 环 比 增 长 率 = complete_sum.groupby(「 分 局 ID')[' 被 骗 金 额
+'].pct_change() * 100
+#7. 筛 选 环 比 增 长 率 > 30% 的 月 份 ( 注 意 : inf 表 示 从 0 到 万 数 的 增 长 , 视 为 大

@@ -1,0 +1,21 @@
+# OCR: bb7ced02424ac75122cfd17f9c31a5c5.jpg
+# 来源: .\02-WriteUp\2024\bb7ced02424ac75122cfd17f9c31a5c5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+“last_reportdevice_channelr value="1" />
+<float name="key_sync_session" value="0.45563316" />
+<boolean name="keyHadFinishTransfer#3754435632#ux48412ab344ba1bd0" value=
+<long name="handler_trace_file_full_size" value="30720" />
+<long name="MMTempkeyStepLogger-Last-Clean-Time" value="1725012995742" />
+<boolean name="keyHadClean01dScheme#3754435632#ux0f9c43804781bce0" value="
+<string name="login_weixin_userna
+<int nam
+<int name="last_reportdevice_clientversion
+Valu
+<int name="com.tencent .mm.plugin. gallery. cache.cache-file-num"
+<string name="last_login_use_voice">32768</string>
+<string name="login_user_name">+85269702743</string>
+<long name="trace_config_last_update_time" value="1724392749845" />
++85269702743</string>
+<string name="last_login_bind_mobile”

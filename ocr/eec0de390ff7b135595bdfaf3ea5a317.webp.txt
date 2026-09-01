@@ -1,0 +1,21 @@
+# OCR: eec0de390ff7b135595bdfaf3ea5a317.webp
+# 来源: .\02-WriteUp\2025\eec0de390ff7b135595bdfaf3ea5a317.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+] 西 | 予 自 品 | 户 守 | 失
+2 Root Value Type Data
+5 口 e \DosDevices\C: REG_BINARY 44 40 49 4F 2A 49.44.34 £3 6E DC SD 84 F7 96 44 8D 11 DB 43 D8.ABE2B8
+。 团 Contotset001 \2\Volume({dedbo431-169-11f0... REG_BINARY  §C 00 3F 00 3F 00 5C 00 63.00 43.00 63 00 49.00 23 00 43.00 68 00 62 00 BF 00 6D 00
+团 Dive atabase \?r\Wolume({dedbo432-169-11f0.... REG_BINARY §C 00 3F 00 3F 00 5C 00 46 00 48 00 43.00 23 00 47 00 45 00 4E 00 46 0052 00 43.00:
+团 HardwareContig \DosDevices\&: REG_BINARY —5C-00 3F 00 3F 00 6C 00 45 00 44 00 43 00 23 00 47 OO 45 00 4E 00 45 00 52 00 49.00.
+CB Input \DosDevices\D: REG_BINARY SC 00 3F 00 3F 00 6C 00 53 00 43 00 53 00 49 00 23 00 43 0 64 00 52 00 GF 00 6D 00
+团 Keyboard Layout 4440 49 4F 34 49.44 EF 4B EE
+团 Mans
+GE MountedDevices:
+团 ResourceManager
+团 ResourcePalcyStore
+GANG
+|G Select
+» Setup
+» Sofware

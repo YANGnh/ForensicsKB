@@ -1,0 +1,22 @@
+# OCR: 152130a159b3fc5532701f9db71244bf.webp
+# 来源: .\02-WriteUp\2025\152130a159b3fc5532701f9db71244bf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+从
+if (processenvAES SECRET KEY && process.envJWT SECRET) {
+return {
+aeskey: Buffer. from(process.env.AES_ SECRET KEY, ‘utf8"),
+jwtKey: process.env.JWT_SECRET
+E
+)
+/
+const masterPassword = process.env.MASTER_PASSWORD;
+ifQmasterPassword {
+consoleerror[ 警 告 未 提 供 主 宥 码 或 加 宏安 钰 、 便 用 随 从 生 成 的 一 次 性 安 铜 ( 不 适 用 于 生 产 环 境 ) “
+/
+return (
+aeskey: crypto.randomBytes(KEY_DERIVATION_KEY LENGTH),
+jwtKey: crypto.randomBytesUWT_KEY_LENGTH).toString(hex’)
+【
+)

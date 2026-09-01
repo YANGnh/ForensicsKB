@@ -1,0 +1,21 @@
+# OCR: 887e620b24e981269b7fe3c97380d18c.jpg
+# 来源: .\02-WriteUp\2024\887e620b24e981269b7fe3c97380d18c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+吊 s1 国 Inuagsfme > _ cev4k2)-tard-ZexS-hkwE-30qd-b8Fi-iDqWyR)/3E1 >
+巳 JeetS. 巳 w
+Gees , 万 P& 一 Shelx = BS
+|v in ik
+口 万 ww
+口 25 ww Is
+口 27 ww cd PwnKit-Exploit-main
+O2 ww -/exploit
+口 23 ww cd application/
+口 30 ww Is
+口 31 ww cd PwnKit-Exploit-main
+O32 ww is
+O33 ww JE
+口 34 ww is
+口 35 ww Is
+口 35 ww -Jexploit

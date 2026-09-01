@@ -1,0 +1,31 @@
+# OCR: 108d83deb3cded1dcbc01f9b2e4ad0e2.webp
+# 来源: .\02-WriteUp\2025\108d83deb3cded1dcbc01f9b2e4ad0e2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+HNSDNS documentation 史 e
+DNS resolver
+DNS resolver
+Getting started
+How to setup HNSONS
+For frsttime users
+For experienced users
+Windows
+ux
+Android
+Routers
+‘Advanced options,
+DNS resolver
+© Wratie a ons resoner? >
+How to setup HNSDNS
+‘You can configure HNSDNS in just 1 minute if you know how to change your DNS servers, or in 3 minutes if you don't know how to do
+this.
+For first-time users
+You can follow our setup guides. You'll currently find them forthe following operating systems:
++ Windows
+© Linux
+Android
+* Routers
+If you know how to configure them in another operating system that isnt listed above, please contribute to the project by editing this,
+documentation page. Note: you!l need a GitHub account.
+For experienced users

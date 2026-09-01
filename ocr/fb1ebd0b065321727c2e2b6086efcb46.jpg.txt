@@ -1,0 +1,27 @@
+# OCR: fb1ebd0b065321727c2e2b6086efcb46.jpg
+# 来源: .\02-WriteUp\2024\fb1ebd0b065321727c2e2b6086efcb46.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+14 Makeup
+15 BR
+16 Home Maintenance
+17 SERS
+18 0
+19 328
+20 Vehicle Maintenance
+2S
+22 Medical Check-up
+23 Fitness
+3
+icon 63
+ic category family
+icon29
+icon 8
+icon 53
+ic category transport
+icon_130
+ic category medical
+ic category doctor
+icon_70
+el i

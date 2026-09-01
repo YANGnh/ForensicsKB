@@ -1,0 +1,14 @@
+# OCR: f3e991edc65a92a613c8c4d88f148d43.webp
+# 来源: .\02-WriteUp\2025\f3e991edc65a92a613c8c4d88f148d43.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+~ Force Rotate: 6
+"+ Autolock Managers: false
+i Root Rotation In Progress: false
+Node Address: 172.16.80.104
+Manager Addresses:
+。 L72.16.86.164:277
+Runtimes: io.containerd.runc.v2 runc
+Default Runtime: runc
+Dnit: Binary: docker—iit

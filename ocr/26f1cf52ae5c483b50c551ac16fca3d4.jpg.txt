@@ -1,0 +1,29 @@
+# OCR: 26f1cf52ae5c483b50c551ac16fca3d4.jpg
+# 来源: .\02-WriteUp\2024\26f1cf52ae5c483b50c551ac16fca3d4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+© amass
+BAR E 弘 E DHCP E
+vwneto 刑 Realtek PCle GbE Family Co... ~ = =
+e R Bee BAR 192.168.47.0
+e NAT g Ir g Bee RR 192.168.710
+E Bee BEA 192.168.1000
+R HRSCO Baka.
+Vwnet (88
+OPE EI ERED RO
+HH: [Realtek cle Gbe Family Contoler
+OurtGdg
+AA hb OD)
+( 河
+目 才 E
+E
+EZ pep Dre ARSE HS IP HEHE ILA OD
+FAP O:
+WSRNRR SA. E
+192 . 168 100. FHaBU:
+255.255
+E
+0
+DHCP EO).
+E E

@@ -1,0 +1,15 @@
+# OCR: 562ef172b97cd7482a1eb9fb4327af51.webp
+# 来源: .\02-WriteUp\2024\562ef172b97cd7482a1eb9fb4327af51.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+“prefix「 "think",
+“type「 =>
+“auto_start「 => true,
+)
+[ info ] [ LoG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020784s ] mysql|:host=127.0.0.1;
+port=3306;dbname=lok1; charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM “app_urlconfig“ [ RunTime:0.003870s ]
+[ sql ] [ SQL ] SELECT “aliases“,“urL“ FROM “app_urlconfig“MHERE
+~<tatns = 1 | Rontiee:0.002554s 1

@@ -1,0 +1,11 @@
+# OCR: 5f6f273604df9c57bdf6b1f6c8c7f543.jpg
+# 来源: .\02-WriteUp\2024\5f6f273604df9c57bdf6b1f6c8c7f543.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+Bz
+RAAF
+modprobe binder linux devices~"binder, hubinder, yndbinder”
+E
+‘obe bn
+docker start all

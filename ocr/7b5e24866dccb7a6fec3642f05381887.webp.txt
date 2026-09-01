@@ -1,0 +1,31 @@
+# OCR: 7b5e24866dccb7a6fec3642f05381887.webp
+# 来源: .\02-WriteUp\2025\7b5e24866dccb7a6fec3642f05381887.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+popup.htm
+popupjs  argon.ts j —cipher-core js enc-base64js Meng 。 Bapts
+11 store key
+await BrowserStorage. set({
+| key: (enc: enckey, hash: enckeyHash )
+i
+await EntryStorage. set(state. state.entries);
+await new Promise((resolve) => {
+BrowserStorage.renove(oldkeys, () => {
+| resoive();
+»
+5
+state, state. encryption.updatetncryptionPassword(
+wordArray.toString()
+3
+auoit state. dispatch(“updateentrie
+}else t
+11 - decrypt using key
+const key = CryptoJS.AES.Bdecrypt(encKey.enc, password) .DtoString();
+const isCorrectPassword = await new Promise(
+(resolver (value: string) => void) => {
+const ifrane = document. getElenentById("argon-sandbox") ;
+| pete
+faction: "verity",
+1 votue: key,
+pore me ae

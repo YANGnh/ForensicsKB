@@ -1,0 +1,10 @@
+# OCR: a7609ede8276eb7c8339c4ed90e8ced6.jpeg
+# 来源: .\02-WriteUp\2024\a7609ede8276eb7c8339c4ed90e8ced6.jpeg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+E
+[root@localhost /]# cd /var/lib/docker/volumes/uptime-kuma/_data
+[root@locathost _data]# Is
+docker-tls kuma.db kuma.db-shn kuma.db-wal screenshots upload
+[root@localhost _data]# |

@@ -1,0 +1,9 @@
+# OCR: 633111dedf0a62613c9b5728a686dd95.jpg
+# 来源: .\02-WriteUp\2024\633111dedf0a62613c9b5728a686dd95.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+《 眼 仿 真 取 证 4382115
+虚 拟 机 (sqlserver) 创 建 成 功
+用 户 宿 码 巳 重 盟 为 :123456
+E E tue

@@ -1,0 +1,27 @@
+# OCR: 04453c3a2c002466adc0859f066240a2.webp
+# 来源: .\02-WriteUp\2025\04453c3a2c002466adc0859f066240a2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+不 estpap
+AO R80 MAW BG BRO
+AIA SHO BEM Few TSO sa
+CHAO BEB Ree 窒 口 8 颠 匿 & Q & 面 国
+Bl not http contains *Mozilla/4.0 (compatible;
+Win32; WinHttp. WinkittpRequest.5)" and http.request,
+No. Time Source Destination Protocol Length _Info
+1594 139.791281 172.16.10.1 172.16.10.254 HTTP/JSON 576 POST /api/auth/login HTTP/1.
+1601 140. 686560 172.16.10.1 172.16.10.254 HTTP/JSON 576 POST /api/auth/login HTTP/1.
+1611 143.557098 172.16.10.1 172.16.10.254 HTTP/JSON 576 POST_/api/auth/login
+1644 154.859211 172.16.10.1 172.16.10.254 HTTP 457 GET /api/products/17
+1653 156.441354 172.16.10.1 172.16.10.254 HTTP 457 GET /api/products/17
+1662 157.480833 172.16.10.1 172.16.10.254 HTTP 457 GET /api/products/17
+1684 162.813243 172.16.10.1 172.16.10.254 HTTP 457 GET /api/products/19
+1699 167.248409 172.16.10.1 172.16.10.254 HTTP 457 GET /api/products/21
+1718 173.606330 172.16.10.1 172.16.10.254 HTTP 85 5
+1722 174.471210 172.16.10.1 172.16.10.254 HTTP 269 GET /api/auth/flag2 HTTP/1.
+1725 175.373200 172.16.10.1 172.16.10.254 HTTP 269 GET /api/auth/flag2 HTTP/1.1
+, JSON (application/json)
+, JSON (application/json)
+» JSON (application/json)
+L

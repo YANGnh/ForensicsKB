@@ -1,0 +1,16 @@
+# OCR: d9d5e62255321caf29e727fbf6382e2c.webp
+# 来源: .\02-WriteUp\2025\d9d5e62255321caf29e727fbf6382e2c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+75x60
+Color #FFFFFF
+Font 14px -apple-system, linkMacSystem
+20px 15px
+a.main-nav-link
+Padding
+ACCESSIBILITY
+Name 老 博 客
+Role link
+Keyboard-focusable @
+腐 私 与 安 Lighthouse

@@ -1,0 +1,15 @@
+# OCR: b7510bb1c522c9fc42f55c19f9f79ff8.webp
+# 来源: .\02-WriteUp\2025\b7510bb1c522c9fc42f55c19f9f79ff8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+文 似 t #8@ 。 查 看 () “ 工 具 (D 。 邹 助 G
+口 郭 腾 故 接 库 40 园 打 开 数 描 库 G0 、 QS\SkO) [ 录 倒 晓 曰 改 () 钿 觉 销 t | [ 商 打 W 目 @ [ 自 保 # 目 @
+WEES WEG 缝 锭 朱 注 G 执 行 soL )
+表 (D: 目 recent files ] 鸿 口 乙 | 园 智 | 园 国
+path open_time encoding line colum 1
+ih [te | |
+1 /data/data/ru.meefik.linuxdeploy/files/config/linux.conf 1746690278468 UTF-8 1 0
+2 〉d旦仁己/d己仁己/【u-me巳宜ik-1ir^`】〉【(】l【e熏>1《〕)//宜i1Es/1】1C1`】〔量e/C【>T(碧/〔量`勇〔】]【>】/.C口【If 1746690293986 UTF-8 1 0
+3 /data/data/ru.meefik. linuxdeploy/files/include/init/deploy.sh 1746690318782 UTF-8 1 0
+4 /storage/emulated/0/output.1og 1747119601381 UTF-8 1 0

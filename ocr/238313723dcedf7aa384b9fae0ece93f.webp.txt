@@ -1,0 +1,10 @@
+# OCR: 238313723dcedf7aa384b9fae0ece93f.webp
+# 来源: .\02-WriteUp\2025\238313723dcedf7aa384b9fae0ece93f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+onfig interface ‘myvpn’
+option proto Mireguerd
+option private_key 'SLKCLYRNrkWIFgJWFEdOB7S99F YWIF9PUV+SC33VW3U="
+option listen_port 151826「
+list addresses '114.122.133.144"

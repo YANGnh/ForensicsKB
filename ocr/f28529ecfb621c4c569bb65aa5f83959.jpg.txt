@@ -1,0 +1,9 @@
+# OCR: f28529ecfb621c4c569bb65aa5f83959.jpg
+# 来源: .\02-WriteUp\2024\f28529ecfb621c4c569bb65aa5f83959.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+MobaXterm
+Please enter your master password
+[)Remember me on this computer
+@ ox @ cancel

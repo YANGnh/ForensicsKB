@@ -1,0 +1,13 @@
+# OCR: 0b31a6f5606c40c544a7c5715cbf0234.webp
+# 来源: .\02-WriteUp\2024\0b31a6f5606c40c544a7c5715cbf0234.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+1L.dsnbbaj686_fit.conf nysqlS7-communtty-release-el1-8.noarch.rpn
+root @ ql-ni17-45.117.19.203 in /etc/nginx/conf.d [20:43:50]
+cst bL-dsnbba]686-fttconf
+erver {
+listen 80;
+server_nane bl.dsnbbaj686. fit:
+root /opt/bl.dsnbbaj686. Fit/www/public;
+index index html index htm index php;

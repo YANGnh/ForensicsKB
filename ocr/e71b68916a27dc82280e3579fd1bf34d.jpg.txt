@@ -1,0 +1,6 @@
+# OCR: e71b68916a27dc82280e3579fd1bf34d.jpg
+# 来源: .\02-WriteUp\2024\e71b68916a27dc82280e3579fd1bf34d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+E a 2) oo 白 0

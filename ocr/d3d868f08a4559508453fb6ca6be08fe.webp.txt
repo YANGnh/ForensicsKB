@@ -1,0 +1,47 @@
+# OCR: d3d868f08a4559508453fb6ca6be08fe.webp
+# 来源: .\02-WriteUp\2025\d3d868f08a4559508453fb6ca6be08fe.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+& Docker 8
+E
+docker.vim
+目 E
+Doge-Node
+Baer
+Iamapp
+E
+www-db-t
+目 E
+www-web-1
+目 E
+E
+v Bi
+SAR
+v Bi
+心 符 3 市
+«S55
+me
+bridge
+bridge
+bridge
+www_default
+www_default
+ser
+seo
+22556.7CP
+g000:TCP
+3306.7CP.
+80:TCP
+LAN IP:PoRT
+192.168.71.29:22556
+192.168.71.29:8000
+192.168.71.29:3306
+192.168.71.29:8080
+E
+Jvar/run/dockersock r /var/run/docker.sock
+Jetc/doge/ +> /mnt/user/appdata/doge-node/
+/models +» /mnt/user/appdata/llama_cpp/model
+/docker-entrypoint-initdb./02-data.sql + /mnt/disk1 /www/mysq\_data/generate_10k_records.sql
+/docker-entrypoint-initdb.d/01-schema.sql + /mnt/disk1 /www/mysq|_data/dkewl.sql
+Jvar/werw/html -* /mnt/disk' /www

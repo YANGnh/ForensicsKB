@@ -1,0 +1,23 @@
+# OCR: 1f5f43b18ccd09bb83fd23be78e2c124.webp
+# 来源: .\02-WriteUp\2024\1f5f43b18ccd09bb83fd23be78e2c124.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+趸 睡 Ben8JJumpStation , 目 基 本 信 息 , 余 网 络 配 置 〉 余 网 络 连 接
+昼 三 座 号 “ 与 名 称 = 掩 逊 世 IP Hthhit
+过 滤 VY | 过 滢 口 , 过 滢
+口 4 Microsoft IP-HTTPS .. Microsoft IP-HTTPS ...
+5 Ethernet0 Intel(R) 82574L Giga...
+6 Bluetooth Network... Bluetooth Device (P...
+详 细 信 息
+名 称 : Ethernet0
+搔 述 : Intel(R) 82574L Gigabit Network Connection
+Mac 地 址 : 00-0C-29-64-D3-A0
+DHCP 网 关 Mac: 00-50-56-EF-B7-95
+租 期 获 得 时 间 : 2024-08-28 11:37:45
+过 期 时 间 : 2024-08-28 12:07:45
+DHCP 服 务 器 : 192.168.182.254
+DHCPDNS: 192.168.182.2
+DHCP 网 关 地 址 : 192.168.182.2
+DHCP 子 网 掩 码 : 255.255.255.0
+巳 剌 除 ; 否

@@ -1,0 +1,25 @@
+# OCR: 61c78fd219187d363848ee3cee6e6b4b.webp
+# 来源: .\02-WriteUp\2024\61c78fd219187d363848ee3cee6e6b4b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+F
+5 auth info_key_prefsxml FES
+3 || e2c migration reportxml En
+3 || comatencent.mm_preferencesam| eH
+15] comatencent.mm_preferences fontScaleTip.xml eH
+35] comatencent.mm_preferences redesignam| a
+一 3 区 口 X , 四 R Dee | 口 W Bei See: | 水 168 一
+Offset 0 12 3 4 5 6 7 8 91011 12 13 14 15 Y ,
+0259756032 3c 3F 78 6D 6c 20 76 65 72 73 69 6F GE 3D 27 31 <?xml versio
+0259756048 2F 30 27 20 65 GE 63 6F 64 69 GE 67 3D 27 75 74 .0' encoding="ut
+0259756064 66 2D 38 27 20 73 74 61 GE 64 61 6c 6F GE 65 3D £-8' standalone=
+0259756080 27 79 65 73 27 20 3F 3E OA 3C 6D 61 70 3E 0A 20 “yes 2> <map>
+0259756096 20 20 20 3c 62 6F GF 6C 65 61 GE 20 GE 61 6D 65 <boolean name
+0259756112 3D 22 61 75 74 68 SF 69 GE 66 6F SF 70 72 65 66 ="auth_info_pref
+0259756128 73 SF 75 73 65 SF GE 65 77 SF 65 63 64 68 22 20 s_use_new_ecdh”
+0259756144 76 61 6c 75 65 3D 22 74 72 75 65 22 20 2F 3E OA value="true" />
+0259756160 20 20 20 20 3c 69 GE 74 20 GE 61 6D 65 3D 22 SF <int nam
+0259756176 61 75 74 68 SF 75 69 GE 22 20 76 61 6c 75 65 3D auth_uin” value:
+0259756192 22 2D 31 34 36 36 37 35 33 36 37 32 22 20 2F 3E "-1466753679" />
+0259756208 OA 20 20 20 20 3c 62 GF GF 6c 65 61 GE 20 GE 61 <boolean na

@@ -1,0 +1,11 @@
+# OCR: 4e0410a00b4b17374a6fc70e5523b0b0.jpg
+# 来源: .\02-WriteUp\2024\4e0410a00b4b17374a6fc70e5523b0b0.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+a
+x +
+[root@localhost ~]# mysql -u root -p
+Enter password:
+ERROR 1045 (28090): Access denied for user 'root'@'localhost' (using password: YES)
+[root@locathost ~]# []

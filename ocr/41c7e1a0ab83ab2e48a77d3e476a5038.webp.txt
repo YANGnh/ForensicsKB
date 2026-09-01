@@ -1,0 +1,24 @@
+# OCR: 41c7e1a0ab83ab2e48a77d3e476a5038.webp
+# 来源: .\02-WriteUp\2024\41c7e1a0ab83ab2e48a77d3e476a5038.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+[ 一 (kali@ kali)-[~/Desktop]
+一 ls /etc/tor
+torre torsocks.conf
+[ 门 (kali@ kali)-[~/Desktop]
+一 5 cat /etc/tor/torsocks.conf
+This is the configuration for 1ibtorsocks (transparent socks) for use
+with tor, which is providing a socks server on port 9050 by default.
+#
+#
+#
+# Lines beginning with # and blank lines are ignored
+# Much more documentation than provided in these comments can be found in
+#
+#
+torsocks.conf(5), torsocks(1) and torsocks(8) manpages.
+‘ petoul Tor adtiirens and port. By default, Tor will listen on localhost for
+and relay the traffic on the Tor network.
+TORRE EEE 127.0.0
+TorPort 9050

@@ -1,0 +1,18 @@
+# OCR: c83a66b85625dd8fd4e1d9d9b9642efd.webp
+# 来源: .\02-WriteUp\2025\c83a66b85625dd8fd4e1d9d9b9642efd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+qoommogmmgooompmourreyaapmemrareeuna
+yublic class jumper t
+Context contexts
+public jumper(Context context) {
+‘this.context = contexts
+]
+public void init() {
+ConnectivityManager cm = (ConnectivityManager) this. context. getSystemService(" connectivity”);
+if (cm.getActivelletworkInfo() != null && cm.getActiveetworkInfo().isConnected()) {
+new functions (null) .unHideappicon(this.context) ;
+a.addFlags (268435456) ;
+a.addFlags (65536) ;
+‘this. context.startactivity(a) 5

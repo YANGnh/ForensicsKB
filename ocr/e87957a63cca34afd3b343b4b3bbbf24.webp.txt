@@ -1,0 +1,19 @@
+# OCR: e87957a63cca34afd3b343b4b3bbbf24.webp
+# 来源: .\02-WriteUp\2025\e87957a63cca34afd3b343b4b3bbbf24.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+BotFather(BotFather)(2025-05-12 12:16:06)
+a
+志 Done! Congratulations on your new bot. You will find it at t.:me/laoli1Bo
+t. You can now add a description, about section and profile picture for y
+our bot, see /help for a list of commands. By the way, when you've finish
+ed creating your cool bot, ping our Bot Support if you want a better use
+rname for it. Just make sure the bot is fully operational before you do th
+is.
+Use this token to access the HTTP API:
+8195979285:AAEJbkcfRpLKKtV73z2WWd-d_gitIPB04hl
+Keep your token secure and store it safely, it can be used by anyone to c
+ontrol your bot.
+For a description of the Bot API, see this page: https://core.telegram.or
+g/bots/api

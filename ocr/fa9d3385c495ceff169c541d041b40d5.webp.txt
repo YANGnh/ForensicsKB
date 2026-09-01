@@ -1,0 +1,6 @@
+# OCR: fa9d3385c495ceff169c541d041b40d5.webp
+# 来源: .\02-WriteUp\2025\fa9d3385c495ceff169c541d041b40d5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+1 QRCODE _https://fic.orensix.cn (==) Gg

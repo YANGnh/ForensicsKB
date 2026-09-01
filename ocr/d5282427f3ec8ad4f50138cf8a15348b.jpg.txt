@@ -1,0 +1,9 @@
+# OCR: d5282427f3ec8ad4f50138cf8a15348b.jpg
+# 来源: .\02-WriteUp\2024\d5282427f3ec8ad4f50138cf8a15348b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+C:\Users\Luck\Desktop>certutil -hashfile @%. png SHA256
+SHA256 的 238. png 春 帝 :
+02139b1305680cetieddp606c00pbaeb55c7925a6415cTalc62bcdeglcgcefl
+CertUtil: -hashtile 帕 仪 成 办 宏 成 。

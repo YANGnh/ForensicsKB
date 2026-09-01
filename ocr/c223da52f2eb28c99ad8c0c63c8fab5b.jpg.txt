@@ -1,0 +1,21 @@
+# OCR: c223da52f2eb28c99ad8c0c63c8fab5b.jpg
+# 来源: .\02-WriteUp\2024\c223da52f2eb28c99ad8c0c63c8fab5b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+server
+listen 80;
+server_nane xiazat_sdxfwl_top:
+location / {
+root _/webapp/down;
+try files $uri $uri/ /down/index html;
+index index-html:
+ae
+location Proves
+HR TB 404 FA
+try_files Surt Surt/ /www/server/nginx/guanwang/index_html;
+index index html;
+]
+locatton /appf
+alias /aebapp/app:
+try_ftles Suri $uri/ /app/app-apk:

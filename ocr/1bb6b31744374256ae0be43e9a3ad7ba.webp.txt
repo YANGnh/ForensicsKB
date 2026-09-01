@@ -1,0 +1,62 @@
+# OCR: 1bb6b31744374256ae0be43e9a3ad7ba.webp
+# 来源: .\02-WriteUp\2025\1bb6b31744374256ae0be43e9a3ad7ba.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+86374
+8638
+8639
+8640
+8641
+8642
+8643
+8644
+8645
+8646
+8647
+8648
+8649
+8650
+8651
+8652
+8653
+8654
+8655
+8656
+8657
+8658
+8659
+8660
+8661
+8662
+root@api-server-2: /home/king/web-api/app/src/routes# cat auth.routes.js
+const express = require(‘express’);
+const 《 login, register, getProfile } = require(’../controllers/auth.controller');
+const 《 authMiddleware } = require(’../middleware/auth.middleware’) ;
+const 《 getflag2 } = require(’../utils/encryption’) ;
+// SAB cade Al eS
+const {
+getAl1Products,
+getProduct,
+createProduct,
+updateProduct,
+deleteProduct,
+searchproducts
+} = requtre( ../controllers/product.controller.);
+const router = express.Router() ;
+// 益 录 踹 由
+router.post(‘/login’, login);
+// EB
+router.post(‘/register’, register);
+// 荫 职 用 户 个 人 贼 料 ( 霸 要 认 证 〉
+router.get('/profile’, authMiddleware, getProfile) ;
+router.get('/flag2', (req, res) => {
+// 调 用 getflag2 国 数 , 诗 团 数 包 音 反 调 试 通 糊 , 只 在 调 试
+const flag = getflag20) ;
+// 不 真 接 返 回 flag 管 , 确 保 只 有 途 过 调 试 器 才 能 荫 取
+res.json(t
+success: true,
+message: flag,
+result: “ 请 俭 用 gdb 调 试 器 进 行 调 试 荻 取 !
+广 ;
+ST BEARS flag

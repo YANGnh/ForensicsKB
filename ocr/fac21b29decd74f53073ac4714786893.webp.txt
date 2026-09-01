@@ -1,0 +1,24 @@
+# OCR: fac21b29decd74f53073ac4714786893.webp
+# 来源: .\02-WriteUp\2024\fac21b29decd74f53073ac4714786893.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+荣 LAML BERR
+名 BNB Chain 4 E v 6ANFT v FRY g
+交 易 列 表
+F Oxa2AF1c188£828A440d32Ec6A206cac5310b74BC1
+en
+iC 05 ~ | $95262besec3431F4 一 @ E
+E 523 E REA E E f
+usor
+0xd7235ab9b03436. transfer 2022/06/26 23:42:00 Oxaaf..ac5310b74bc1 Out Oxd109...2be4ec343116 -30,000
+usor
+0x58845d2209C573, transfer 2022/06/23 18:48:48 ——Oxa2af..ac5310b74b¢1 Out Oxd109..2besec3431f6 -30,000
+usoT
+0x9840cf47 1ea18Fa. transfer 2022/06/22 20:42:25 Oxa2af..ac5310b74bc1 Out Oxd109..2be4ec3431f6 ~40,000
+usor
+0xd16899e238ede1 transfer 2022/06/20 19:58:28 Oxa2af..acS310b74bc1 Out Oxd109..2be4ec3431f6 -20,000
+usot
+Oxaa47f432cfdaebf. transfer 2022/06/20 00:22:36 Oxa2af..ac5310b74b¢1 0xd109...2be4ec3431f6 -5,000
+吊
+outbred, tke ENN V2? LST Oa he 2000 @

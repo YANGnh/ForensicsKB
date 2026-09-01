@@ -1,0 +1,29 @@
+# OCR: dc5b311507d6691b686a2519e2926646.jpg
+# 来源: .\02-WriteUp\2024\dc5b311507d6691b686a2519e2926646.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+port: 7890
+socks-port: 7891
+redir-port: 7892
+alloy-lan: true
+node: rule
+log-level: silent
+external-controller: 0..0..0.0:9030
+secret: NCoYZFyg
+proxies:
+—nane: 看 渤 501 Hak aay
+tyne: vmess
+server: ndt
+port: 42001
+uuid: cdd3blde-4a38-38e2-8682-49fbezdosdoa
+alterld: 0
+arthnode com
+cipher: auto
+udp: true
+network: ¥s
+us-opts:
+path: “/th”
+headers:
+Host: 10.5,
+-nane: 500 中 雕 动 忘

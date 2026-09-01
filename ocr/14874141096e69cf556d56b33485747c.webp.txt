@@ -1,0 +1,48 @@
+# OCR: 14874141096e69cf556d56b33485747c.webp
+# 来源: .\02-WriteUp\2024\14874141096e69cf556d56b33485747c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+n
+[
+igePackage(7S6FScc com.gunratders)
+odePath=/data/app /~-Q212EV4Fp_} -vgEBBQHeNgen/com. gunraider s-0y qVe 1QGBOMUADDGFA TOG
+esourcePath=/data/app/~-021tev4hp_j-vgEbBQheNg==/com. gunraiders-Oy¥qVe TAGSDMUAGDGFAtOg==
+Tegacynativeribraryorr«/éata/app/--021tev4Pp_}-vGESECHENGH=/Con.qunraiders-OyVqveTOGSDRUACbGFStoge=/T1b
+EracthativeLibectrue
+an
+ereneseoali
+econ
+E
+t
+Verstonnane=10.6.5
+Usesnonschapi=faise
+splitse [base]
+apkSigningversion=2
+app] icationtnfosPackageImp]{7S6¢Scc com. gunraiders)
+‘Flags={ HAS_CODE ALLOW_CLEAR_USER_DATA }
+privaterlagse(_ PRIVATE FLAG ACTIVITIES, RESIZE WOOE_RESIZEABLE_VIA_SOK_VERSION ALLOW AUDIO_PLAYBACK CAPTURE PRIVATE_FLAG_ALLOW NATIVE HEAP_POINTER_TAGGING ]
+Privateragsextet PROFILEABLE J
+Forcequeryable=fatse
+an
+w Coeevem android. vending.bi71ing. Inepp8i17ingservice.61N0 })
+/data/user/0/com.gunraiders
+supportsScreens=[sna11, medium, large, xlarge, resizeable, anyOensity]
+‘Cimestanp=2024-09-04 08:40:27
+firstinstal 17ine=2026-09-08 08:40:29
+Jastupdaterine=2024-09-04 08:40:29,
+‘instal lerPackageNanescon.oculus.ocms
+signaturessPackagesignatures{Sb30015 version:2, signatures: (5727684), past signatures: [)}
+instal lermisstonsFixed=true
+p HAS_CODE ALLOW_CLEAR_USER_DATA }
+{install permissions:
+‘android. perm ssion.MoOIF¥_AUDIO_SETTINGS: granted=true
+andro\d.permission.ACCESS_NETWORK_STATE: grantedetrue
+Android. permisston.WaKE LOCK: grantedetrue
+User 0: cebstaznode=29729689 installedstrue hiddensfalse suspendedefalse distractionFlags=0 stoppedetrue notLaunchedstrue e instantefalse virtuaTafalse
+‘Tastotsabledcatter: com. cculus cca
+d 3001)
+Funtime permission:
+‘android. permisston.BLUETOOTH_CONNECT: grantedefaTse, flags=[ USER_SENSITIVE_MHEN_GRANTED |USER_SENSTTIVE._WMEX_DENTED]
+Android. permission READ_EXTERNAL_STORAGE: grantedefalse,  flags=l USER_SENSTTIVE HMEN.GRANTED |USER_SENSITIVE_MENDENTED|RESTRICTZON_INSTALLER_EXEPT]
+android. permission RECORD_AUDIO: granted=false, flags=[ USER SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENZED)

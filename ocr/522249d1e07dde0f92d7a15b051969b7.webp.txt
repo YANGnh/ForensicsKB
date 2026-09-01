@@ -1,0 +1,8 @@
+# OCR: 522249d1e07dde0f92d7a15b051969b7.webp
+# 来源: .\02-WriteUp\2025\522249d1e07dde0f92d7a15b051969b7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+2a Authenticator as
+814000
+chenhaoren

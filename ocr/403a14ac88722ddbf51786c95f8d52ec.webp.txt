@@ -1,0 +1,14 @@
+# OCR: 403a14ac88722ddbf51786c95f8d52ec.webp
+# 来源: .\02-WriteUp\2024\403a14ac88722ddbf51786c95f8d52ec.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+0 = L “
+H 贾 口 6.65 G8 A, $239.8 GB
+DVD S808 (0) E
+=
+mee 6.61 G8 AR, 共 19568
+5 ane 00)
+an E 一
+. 垒 口 不 s
+BRE a1 NR

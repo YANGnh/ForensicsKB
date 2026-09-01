@@ -1,0 +1,49 @@
+# OCR: 78ea5db8361a01eeb1db20be8ba89258.jpg
+# 来源: .\02-WriteUp\2024\78ea5db8361a01eeb1db20be8ba89258.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+(G@ UserInfoController © Encryptionutils
+| package com.ruoyi.common.utils.token;
+import java. security MessageDigest;
+import Java.util.UUI0;
+7* loaded from: ruoyi-admin. jar:B00T-INF/Lib/ruoyi-conmon-3.8.2.jar:com/ruoyi/conmon/utils/token/EncryptionUtils.
+public class EncryptionUtils t
+private static final char[] HEX_DIGITS =
+public static void main(string{] args) 《
+System.out.printin( da3rFaske”, 中 0 0
+system.out.printin( (("eambdozyk", “asdgfw"));
+)
+public static String sha(String data)
+return encode("shai", data);
+1
+public static String md5(String data)
+return encode("nd5", data);
+public static String BREPYPREMGRA(String psw, String salt) {
+return encode("nd5", psw + salt);
+public static String setSlat() {
+return UUID.randomUUID().toString().replaceall("-",
+).substring(®, 5)5
+1
+private static String encode(String algorithm, String value) {
+if (value == null) {
+return null;
+}
+try
+NessageDigest messageigest = MessageDigest.getInstence (algorithm) ;
+messageDigest.update(value.get8ytes()):
+return getFormattedText (messageDigest.digest());
+} catch (Exception e) {
+‘throw new Runtimeéxception(e)s
+)
+}
+private static String getFormattedText (byte[] bytes) {
+int len = bytes.length;
+StringBuilder buf = new StringBuilder(len * 2);
+for (int j = @; j < len; j++) {
+buf append(HEX_DIGITS[(bytes[j] >> 4) & 15])3
+buf append(HEX DIGITS[bytes[j] & 15])3
+]
+return buf.toString()s
+class */
+0

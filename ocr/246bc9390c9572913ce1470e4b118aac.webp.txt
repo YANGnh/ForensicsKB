@@ -1,0 +1,15 @@
+# OCR: 246bc9390c9572913ce1470e4b118aac.webp
+# 来源: .\02-WriteUp\2025\246bc9390c9572913ce1470e4b118aac.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+encor =
+Volumes System Favorites Tools
+Dive Volme
+2s:
+ar
+as:
+E
+E
+已
+E

@@ -1,0 +1,14 @@
+# OCR: 8ce488d901cc6f7dd4c7fe4e5568073e.jpg
+# 来源: .\02-WriteUp\2024\8ce488d901cc6f7dd4c7fe4e5568073e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+VmWware ESXi
+团 BWvcanerseer | we
+L | Ga GSAS | Cir | 标2
+localhostlocaldomain
+E 6.7.0 (Build 8169922)
+8 JES GREEEVEA vCenter Server)
+Enspag 6 奂
+( @ SAREE NER ESXi, IFATESE 58 ABM.
+| @ You are running DetEMC Customized image ESXi 6.7 AO1 (based on ESXi ViKemel Release Build 216

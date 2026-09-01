@@ -1,0 +1,41 @@
+# OCR: fd67d300b12001aba88cc6e0ac89963c.webp
+# 来源: .\02-WriteUp\2025\fd67d300b12001aba88cc6e0ac89963c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+\i8471-SiL.tar\data\misc\bluedroid
+ier Tx Yue Re
+OG. = mise 0 eH NSHLHFfLandet
+口 = bluedroid VMSrl-Eftardeuuit
+ch \
+口 目 bccdpcorfacerf FEN 。 cn MSH1HFfLandeuiccbuedr
+-# [Dx fms
+Offset 0 12 3 4 5 6 7 8 910 11 12 13
+00000096 61 66 37 66 63 31 38 64 35 35 66 32 62 34
+00000112 35 32 36 62 65 31 65 33 65 63 66 65 66 36
+00000128 64 30 39 62 39 65 63 30 36 62 64 62 65 62
+00000144 65 36 64 30 38 OA OA 5B 41 64 61 70 74 65
+00000160 OA 41 64 64 72 65 73 73 20 3D 20 61 34 3A
+00000176 3A 39 30 3A 31 35 3A 32 65 3A 37 36 OA 4C
+14
+39
+39
+34
+72
+35
+45
+a ne ee 6s
+15
+36
+34
+39
+5D
+35
+SE
+UTF-8
+af7£cl8d55£2b496
+526belesecfef694
+d09bsec06babeb45
+e6d08 [Adapter]
+Address =
+:90:15:2

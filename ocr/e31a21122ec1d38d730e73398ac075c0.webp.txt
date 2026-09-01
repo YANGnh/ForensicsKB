@@ -1,0 +1,12 @@
+# OCR: e31a21122ec1d38d730e73398ac075c0.webp
+# 来源: .\02-WriteUp\2025\e31a21122ec1d38d730e73398ac075c0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+E
+public string
+t
+get
+0
+retum “WinSCP”
+i

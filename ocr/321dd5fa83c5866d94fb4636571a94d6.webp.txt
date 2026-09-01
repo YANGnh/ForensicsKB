@@ -1,0 +1,27 @@
+# OCR: 321dd5fa83c5866d94fb4636571a94d6.webp
+# 来源: .\02-WriteUp\2024\321dd5fa83c5866d94fb4636571a94d6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+\WinXray
+J xray-core
+| )Winkray.exe
+一 3 , 门 | ms [Awe Fema | Gee Seem: IM 「 8 , 牢
+NT Authority\System
+$-1-6-18
+Grant Full Control
+Authenticated User
+5
+Grant 5
+Builtin\sers
+S-1-5-32-545
+Grant 8
+S-1-5+21-37503620-462879402-3397714388-513
+Group
+ALS AE REAL eB Tea
+S I WINDOWS32
+Type PP.
+ersion 4. 4.0.0
+{Company Hntcay
+Description too’ GAIL" 0 候
+Product. i

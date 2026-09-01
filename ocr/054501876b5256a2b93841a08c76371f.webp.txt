@@ -1,0 +1,10 @@
+# OCR: 054501876b5256a2b93841a08c76371f.webp
+# 来源: .\02-WriteUp\2024\054501876b5256a2b93841a08c76371f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+1 SELECT count(distinct(uid)) FROM ~ssc2022 member_session” where loginTime
+>= "2020-01-01" and loginTime <= '2020-06-30'
+BRI al Re
+count(distinet(uid))
+> 4125

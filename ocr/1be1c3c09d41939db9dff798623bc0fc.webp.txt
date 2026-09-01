@@ -1,0 +1,37 @@
+# OCR: 1be1c3c09d41939db9dff798623bc0fc.webp
+# 来源: .\02-WriteUp\2025\1be1c3c09d41939db9dff798623bc0fc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+芸 .env x
+dujiaoka > 癸 .env
+29  REDIS_PORT=31678
+21
+22  BROADCAST_DRIVER=1log
+23 SESSION_DRIVER=file
+24  SESSION_LIFETIME=120
+25
+26
+27 # 缓 存 配 置
+28 # file 为 磁 盘 文 件 “redis 为 内 存 级 别
+29 # redis 为 内 存 需 要 安 装 好 redis 服 务 端 并 配 置
+36  CACHE_DRIVER=redis
+31
+32 # 异 步 消 息 队 列
+33 # sync 为 同 步 _redis 为 异 步
+34 # 使 用 redis 异 步 需 要 安 装 好 redis 服 务 端 并 配 置
+35 QUEUE_CONNECTION=redis
+36
+37 # 后 台 语 言
+38 姬 zh_CN 简 体 中 文
+39 ## zh_TW 繁 体 中 文
+48 。 辩 en 英 文
+4 DUJTAO_ADMIN_LANGUAGE=zh_CN
+42
+43 # 后 台 登 录 地 址
+44 ADMIN_RouTE_PREFIX=/ 英 吴 着
+45
+46 # 是 否 开 启 https ( 前 端 开 启 了 后 端 也 必 须 为 true)
+47 # 后 台 登 录 出 现 eerr 或 者 其 他 登 录 异 常 问 题 , 大 概 率 是 开 启 了 https 而 后 台 没 有 开 启 , 把 下 面 的 false 改 为 true 即
+判 L 蛇 公 众 号 - 金 星 路 406 取 证 人
+49

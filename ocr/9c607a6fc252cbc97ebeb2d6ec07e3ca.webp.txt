@@ -1,0 +1,12 @@
+# OCR: 9c607a6fc252cbc97ebeb2d6ec07e3ca.webp
+# 来源: .\02-WriteUp\2024\9c607a6fc252cbc97ebeb2d6ec07e3ca.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+Rex +
+[root@localhost sqlmap]# find / -name touzilc3.txt
+/hone/sqlmap/touzilc/touzilc3. txt
+[root@localhost sqlmap]# cd /home/sqlmap/touzilc/
+[root@localhost touzilc]# 1s
+touzt touzi1.txt touzi2.txt
+[root@locathost touztlc]4 []

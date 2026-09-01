@@ -1,0 +1,25 @@
+# OCR: 188e86218a4bf507201a920e946a6ae1.jpg
+# 来源: .\02-WriteUp\2024\188e86218a4bf507201a920e946a6ae1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+“ 道 root
+@ pp
+国 pki
+口 bash history
+FE] bash logout
+口 bash profile
+口 bashre
+口 e
+-DPINST.LOG
+Dicinstalllog
+口 peare
+西 PFROlog
+B) sreadme.tet
+Dama
+-setupactlog
+-setuperrlog
+口 see
+WindowsUpdate.log
+英 anaconda-ks.cfg
+1 installsh

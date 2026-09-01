@@ -1,0 +1,10 @@
+# OCR: cc37ebe129c2bd144300b4bb923efe3c.webp
+# 来源: .\02-WriteUp\2025\cc37ebe129c2bd144300b4bb923efe3c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+Bess SEEK WEEKG SLE ImageSteganography  BruteForcelmage FrequencyColor GIF Misc
+S80: [3] FFT(Normalization)
+ingWB: G:/20257F8T/#EESI2/PNG107 png
+HUGE: 50
+@ @ - PNG107_fft.png

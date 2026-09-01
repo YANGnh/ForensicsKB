@@ -1,0 +1,15 @@
+# OCR: 93f834b83746d2941bcb0fafaa2c1a5c.jpg
+# 来源: .\02-WriteUp\2024\93f834b83746d2941bcb0fafaa2c1a5c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+PB Dh vm-112-disk-0.qcow2 > 团 Lnuags@ _ vm-112-disk-0.qcow2/3R7 > 团
+SBS =a Esssais E
+E 了 (ie Vv (ie
+口 1 se hostname
+口 2 FRR OS_TYPE openEuler
+口 3 技 ffR ( 不 OS_NAME 22.03 (LTS-SP3)
+口 4 RFRRER MATERIALS NAME openEuler
+os 系 EE 史 (UNS) VERSION_ID 22.03
+口 5 BR PRETTY_NAME open€uler 22.03 (LTS-SP3)
+口 7 。 RJg# Kernel 5.10.0-182.0.0.95.082203sp3.x86_64

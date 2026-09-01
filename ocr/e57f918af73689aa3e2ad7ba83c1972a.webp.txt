@@ -1,0 +1,9 @@
+# OCR: e57f918af73689aa3e2ad7ba83c1972a.webp
+# 来源: .\02-WriteUp\2025\e57f918af73689aa3e2ad7ba83c1972a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+sso-userfvcsa [ /etc ]$ cat Lsb-reLease
+DISTRIB_ID="VMware Photon 0S"
+DISTRIB_C0DENAM hoton
+DISTRIB_DESCRIPTION=“VMware Photon OS 4.6"

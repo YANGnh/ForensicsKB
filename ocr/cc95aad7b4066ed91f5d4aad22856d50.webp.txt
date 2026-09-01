@@ -1,0 +1,13 @@
+# OCR: cc95aad7b4066ed91f5d4aad22856d50.webp
+# 来源: .\02-WriteUp\2025\cc95aad7b4066ed91f5d4aad22856d50.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+>S _C:\Users\Administrator> nslookup -type
+B 务 限 : Unknown
+ddress: 45.79.133.98
+8 ~query=txt chen.forenb 5.79.133.98
+chen. forené text =
+"chen=fengbaoliejiu"
+chen. forené ‘text
+"FIC=forensicsincyberspace"

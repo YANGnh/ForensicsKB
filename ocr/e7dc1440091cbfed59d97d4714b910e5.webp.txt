@@ -1,0 +1,8 @@
+# OCR: e7dc1440091cbfed59d97d4714b910e5.webp
+# 来源: .\02-WriteUp\2025\e7dc1440091cbfed59d97d4714b910e5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+BRI f Re
+ARID E
+。 385

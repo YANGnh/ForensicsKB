@@ -1,0 +1,37 @@
+# OCR: 4c4809456ea169a8717a7e23bdae0a6d.webp
+# 来源: .\02-WriteUp\2025\4c4809456ea169a8717a7e23bdae0a6d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+\Users\ 255 \AppData\Local\Google\Chrome\User Data\Default
+YB ere]
+Al. = User Data
+2 自 ,= Default
+DHistory
+| JHistory-journal E \Users\ E555 \AppData\Local\
+uock H WssSRAppDattoca
+Gos FE, \Users\EEES\AppData\ Local
+J JLo.cld EH... old \Users\EEES \AppData\ Local
+5 Login Data FEN \Users\EEES \AppData\ Local
+4 Login Data For Account FEN \Users\HEE \AppData\ Local
+| Login Data For Account-journal E \Users\ E555 \AppData\Local\
+1 Login Data-journal E \Users\ E55 \AppData\Local\
+“| |] MediaDeviceSalts FEN \Users\EEES \AppData\ Local
+| J MediaDeviceSalts-journal eH, \Users\ E555 \AppData\Local\
+4 Network Action Predictor FEN \Users\EEES \AppData\ Local
+| Network Action Predictor-journal FEN, \Users\ E555 \AppData\Local\
+| Jpasskey enclave state FEN \Users\ E2555 \AppData\Local\
+1 Preferences en \Users\EES \AppData\ Local
+1) Preferences~RF7cac23.TMP 晓 tmp \Users\EE3 \AppData\ Local
+4 > Preferences~RF7d04¢2.TMP 晓 tmp \Users\HEES \AppData\ Local
+| PreferredApps E \Users\ E55 \AppData\Local\
+4 secure Preferences FEN \Users\HEES \AppData\ Local
+一 3 「 一 # ims | Dee | 日 g | 8 一 |
+Offset o 12 3 4 5 6 7 8 9 A BC DEF
+00000390 2F 68 61 79 74 71 6C 6C 64 6D 66 79 61 22 3 31 /haytqlidmfya’
+000003A0 2c 22 61 63 63 6F 75 GE 74 63 61 70 61 62 69 6c vaccoungcapabil
+000003B0 69 74 69 65 73 2F 68 65 34 74 6F 6c 6c 64 6D 66 ities/he4tolldmt
+000003C0 79 61 22 3A 30 7D 2c 22 65 6D 61 69 6c 22 3A 22 ya":0},"email' 5
+000003D0 74 71 6D 64 61 76 69 64 GA 6F 68 GE 73 6F 6E 33 tomdavidjohnson3
+000003E0 30 30 40 67 6D 61 69 6C “28 63 6F 6D 22 2C 22 66 00@gmail.ccf]","£
+000003FO (75 6C 6C SF GE 61 6D 65 22 3A 22 41 75 73 74 69 ull _name":"Austi

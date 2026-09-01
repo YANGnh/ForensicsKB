@@ -1,0 +1,66 @@
+# OCR: e7bd742991cfecee72ef68d162ef58f7.jpg
+# 来源: .\02-WriteUp\2024\e7bd742991cfecee72ef68d162ef58f7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+8 述 SmgtottSyL,
+口 1
+口 2
+口 3
+口 4
+口 5
+口 5
+口 7
+口 8
+口
+口 1
+on
+Or
+口 1
+口 4
+mac
+BEERS
+BERS
+E
+E
+Bea
+aa
+REA
+BAD
+产 8ID
+E
+jbuid 育 朱号
+E
+ae
+设 艳 院
+Dn
+MATERIALS_NAME
+OS_TYPE
+OS_NAME
+OS_BITNESS
+OS_TIME_ZONE
+INSTALL_TIME
+PRODUCT_KEY
+RELEASE_ID
+OS_PRODUCT_ID
+C_VERSION
+VERSION
+cpu
+MEMORY
+COMPUTER_NAME
+FESS eye
+训 江 v
+Windows 10 Pro
+Windows
+Professional
+64
+(UTC+08:00) 4G, Bk, SS SaTHE.
+2023-06-08 20:55:53 +0800 CST
+W269N-WFGWX-YVC9B-4/6C9-T83GX
+2009
+00331-10000-00001-AA472
+10
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2...
+8G
+DESKTOP-3BDNVRB
+ak i.

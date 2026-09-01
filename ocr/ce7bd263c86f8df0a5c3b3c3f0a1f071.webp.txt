@@ -1,0 +1,77 @@
+# OCR: ce7bd263c86f8df0a5c3b3c3f0a1f071.webp
+# 来源: .\02-WriteUp\2025\ce7bd263c86f8df0a5c3b3c3f0a1f071.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+rdats
+.rdata
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+.rdata:
+.rdat
+_pdata
+90000001400236F8
+20000001400236F8
+66666681466236F8
+66666661466236f8
+149023780
+0000000140023711
+9000000140023714
+6666666146623714
+9900000140023714
+666666614662371A
+9900000140023720
+0000000140023720
+0000000140023739
+9000000140023740
+8868668146823748
+6666668148823757
+0000000140023758
+-9999000140023759
+3 const type_info::
+vftable「
+??_7type_info@@6B@ dq offset sub_140019B9C
+alnjc2ntq2mzcon
+; const wehar_t
+aRb:
+aSdghy3a9dk3t14
+aStartyzraynExe
+unk_140023758
+; DATA XREF:
+i .data:std:
+DATA XREF:
+db "ANjc2NTQ2MzceNTc’
+align 4
+arb]
+text "UTF-I6LE",
+align 20h
+db "SDGHY3a9DK3t14Fg1hSGHS6U' ,O
+; DATA XREF:
+*rb',e
+; DATA XREF:
+align 20h
+db ‘start ..\..\v2rayN.exe',@
+; DATA XR
+align 8
+db @A1h
+db @BEh
+; DATA XREF:
+:bad_ exception
+sub_140019B9C+6t0
+RTTI Type Descriptor'’to ...
+RC4_Process+1@9To
+maintdffo
+sub_146661876:1oc_146661482fo
+) 关 欢 鸣 “ 垂 星 路 406 取 证 人
+‘sub_140601070+465To

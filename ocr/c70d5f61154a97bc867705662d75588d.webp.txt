@@ -1,0 +1,25 @@
+# OCR: c70d5f61154a97bc867705662d75588d.webp
+# 来源: .\02-WriteUp\2024\c70d5f61154a97bc867705662d75588d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+Iterator it3
+int 5 = 93
+while (4t3.hasNext()) {
+barr2[i5] = ((\lumber) it3.next()).bytevalue();
+E
+arrayList2.iterator()3
+)
+Secretkeyspec secretKeySpec - new SecretkeySpec(barr2, ss
+((Galleryactivity) dvar2.#286).getClass();
+Cipher cipher = Cipher. getInstance AES/GCH/sNGPAdd:RE!) 5
+byte[] barr3 - new byte[12];
+new SecureRandom() .nextBytes(bArr3) 5
+cipher.init(1, secretkeySpec, new GCMParameterSpec(128, bArr3))s
+byte[] dorinal - cipher.doFinal (barr);
+int length2 = doFinal.length + 125
+byte[] barra = new byte[length2);
+system-arcaycopy(bare3, 6 barr, 0, 12);
+system.arcaycopy(doFinal, e barr4, 12, doFinal. length)
+((Galleryactivity) dvar2.#286).getClass();
+yg qvar = new y1.q()3

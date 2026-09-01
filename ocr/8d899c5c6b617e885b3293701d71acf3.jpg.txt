@@ -1,0 +1,26 @@
+# OCR: 8d899c5c6b617e885b3293701d71acf3.jpg
+# 来源: .\02-WriteUp\2024\8d899c5c6b617e885b3293701d71acf3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+rootépve:“# ip a
+1: lo: <LOOPEACK,UP,LOWER_UP> mtu 65536 qdlsc noqueue state UNKNOWN group default qlen 1000
+Link/ loopback 90:00:00:00:90:00 brd 90:00:00:00:00:00
+inet 127.9.0.1/8 scope host lo
+valid_lft forever preferred_lft forever
+inet6 ::1/128 scope host noprefixroute
+valid_lft forever preferred_lft forever
+2: ens160: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 150 qdisc mq master vmbr@ state UP group default qlen 1000
+link/ether 00:0c:23:bb:0cice brd 衔
+altname enpasd
+3: vmbr@: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1590 qdisc noqueue state UP group default qlen 1000
+link/ether 00:0c:23:bb:0c:ce brd ffiff:ff:ff:ffiff
+inet 192.168.71.133/24 scope global wnbre
+valid_lft forever preferred_lft forever
+ineté fe8d::20c:29ff:febh:cce/64 scope link
+valid_lft forever preferred_lft forever
+4: vmbri: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1560 qdisc noqueue state UNKNOWN group default qlen 1900
+作 f 余
+e19:adic/é4 scope link
+valid_lft forever preferred_lft forever
+root@pve:"#

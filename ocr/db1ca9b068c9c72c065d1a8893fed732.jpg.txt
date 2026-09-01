@@ -1,0 +1,6 @@
+# OCR: db1ca9b068c9c72c065d1a8893fed732.jpg
+# 来源: .\02-WriteUp\2024\db1ca9b068c9c72c065d1a8893fed732.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+fms 222.2. 2.0/24 (rw, no_root_squash, async, fsid-0)

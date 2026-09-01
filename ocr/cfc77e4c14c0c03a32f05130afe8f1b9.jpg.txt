@@ -1,0 +1,6 @@
+# OCR: cfc77e4c14c0c03a32f05130afe8f1b9.jpg
+# 来源: .\02-WriteUp\2024\cfc77e4c14c0c03a32f05130afe8f1b9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+E

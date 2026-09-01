@@ -1,0 +1,17 @@
+# OCR: eee9b4d561ec4d8f7d02a01a5bd2282f.webp
+# 来源: .\02-WriteUp\2025\eee9b4d561ec4d8f7d02a01a5bd2282f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+园 保 仪 个 查 浑 8 工 具 沥 美 化 QL () HBR
+回 dataset “ || captchabot v| [ 运 行 。 一 做 - Pomme
+1 SELECT
+2 COUNT(DISTINCT telegram_user_id)
+3 FROM
+4 user_captcha_record
+5 WHERE
+6 captcha_status = 1 -- 假 设 1 代 表 成 功 通 过 验 证 码
+7 AND captcha_success_time >= “2825-86-81 68:
+消 恩 “ 摘 妙 “ 结 果 1
+we 。 信 恩 [ 吊 单 五 挝 编 描 躁 伟 数 排
+COUNT(DISTINCT tele 鲸 公 众 号 . 金 星 路 406 取 证 人

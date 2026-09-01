@@ -1,0 +1,11 @@
+# OCR: 6a4864b209f68c8da3772c1e5c9cc9b1.webp
+# 来源: .\02-WriteUp\2024\6a4864b209f68c8da3772c1e5c9cc9b1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+“ @return string
+*/
+function Bneryptpass($password)
+{
+return password _hash($password, PASSWORD BCRYPT) ;
+0

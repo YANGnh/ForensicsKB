@@ -1,0 +1,35 @@
+# OCR: 386aee9821bf3fa67961f914841eadd6.webp
+# 来源: .\02-WriteUp\2025\386aee9821bf3fa67961f914841eadd6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+国 - 9 x
+- BRE 气 8 vine r it
+init
+ACE ViBRSR VEE 门 诊 asta
+archive = = Detect
+2 E T 办 探 VETS v ETE
+» Bina
+n | return sRecult =
+cab 真 ,
+1 0 16 function detect (bShowType, bShowVersion, bShow0ptions)
+CurleoBPP 国
+duration 18 f(ELF. comparesP("3led5e89e193ed. . 50545268. 。 . 515668...
+“ ELF 19 t
+ELFOsg 20 EE comporearCittyttyteresgae TAZA, TCR, BOSD EE.
+团
+D 、 . 。
+Borland Kylixa.sg 2 sVersion="4, 7, 2(exe) ;
+Bumneye.2.5g
+ELFCrypt2.sg
+FASM4sg
+Flexim.4.sg
+Free Pascal.d.sg
+E
+| GLIBC.3.s9
+God.sg
+HASP.1.5g
+HP +4459
+IBM AIX kernel loader.sg
+Oracle Solaris Studio.4.sg
+Sle E E E

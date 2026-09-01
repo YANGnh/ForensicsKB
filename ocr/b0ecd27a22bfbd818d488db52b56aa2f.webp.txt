@@ -1,0 +1,20 @@
+# OCR: b0ecd27a22bfbd818d488db52b56aa2f.webp
+# 来源: .\02-WriteUp\2025\b0ecd27a22bfbd818d488db52b56aa2f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+, oO + ‘th? User Settings / Edit Profile
+D 巳 & Main settings
+Q Search or go to... This information will appear on your profile.
+Pronunciation
+ser settings
+3) Profile | |
+Enter how your name is pronounced to help people address you correctly.
+* Account
+Email
+8 Applications
+| wangdefa888@gmail.com
+J Chat
+We also use email for avatar detection if no avatar is uploaded.
+=> Access tokens
+Diublic email

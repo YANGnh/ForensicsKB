@@ -1,0 +1,17 @@
+# OCR: a2661e38da337f1f059b1314ee1bfd72.jpg
+# 来源: .\02-WriteUp\2024\a2661e38da337f1f059b1314ee1bfd72.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+Linux > __ cl(8v4k2J-1aFd-ZRXS-hKwE-30qd-b8Fi-iDqWyR)/SK1 > BRS > Toot
+RRS Shele = SS 一 8g
+me |v | ge y | te 卫 (ate
+口 23 root epdump -v
+口 24 root tcpdump -hep
+口 25 root ifconfig
+口 25 root sudo tepdump
+口 27 root Is all
+O28 root cat tepdump.cap
+口 口 root cd/
+口 3 root Is
+口 31 root logout

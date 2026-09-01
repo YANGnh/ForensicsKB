@@ -1,0 +1,36 @@
+# OCR: 3a1549ae286b8f8f1b455bd50f8cb91c.jpg
+# 来源: .\02-WriteUp\2024\3a1549ae286b8f8f1b455bd50f8cb91c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+[root@server -]# service docker start
+Redirecting to /bin/systemctl start docker.servtce
+[root@server ~]# docker ps -a
+CONTAINER ID IMAGE ‘COMMAND CREATED STATUS PORTS
+NAMES
+8fbd1968d75e nysql:5.7 “docker-entrypotnt “ 14 months ago Exited (8) 14 months ago
+mysqt
+[root@server -]# docker start 8f
+8F
+[root@server ~]# netstat -anpt
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address Foreign Address State PID/Program name
+tcp 6 8 0-6.6.6-21 0.0.0.0:* LISTEN 1302/pure-ftpd (SER
+tcp 6 8 0.0.0.0:22 @.0.0.0:* LISTEN 9836/sshd
+tcp 6 @ 0.0.0.0:8888 0.0.0.0:* LISTEN 2838/python
+tcp 6 8 127.0.0.1:25 0.0.0.0:* LISTEN 2132/master
+tcp 6 @ 192-168 - 外 .133-8888 192.168 .47.1:15826 ESTABLISHED 2838/python
+tcp 6 36 192.168.47 .133:22 192 168-47.1-16279 ESTABLISHED 14636/sshd: rootept
+tcp 6 @ 192.168-47.133:8888 192.168 .47.1:15833 ESTABLISHED 2838/python
+tcp 6 @ 192-168 - 奶 -133-8888 192.168 .47.1:16298 ESTABLISHED 2838/python
+tcp 6 @ 192.168.47.133-8888 192.168 .47.1:16206 ESTABLISHED 2838/python
+tcp 6 6 192.168.47.133-8888 192.168.47.1:16207 ESTABLISHED 2838/python
+tcp 6 6 192 168-47.133:8888 192.168 .47.1:16342 ESTABLISHED 2838/python
+tcp 6 6 LISTEN 2787 /mysqld
+tcp 6 6 LISTEN 18304 /docker-proxy-
+tcp6 6 6 LISTEN 1569/httpd
+tcp 6 6 LISTEN 1302/pure-ftpd (SER
+tep6 6 6 LISTEN 9836/sshd
+tcp 6 6 LISTEN 1569/httpd
+tcp6 6 6 LISTEN 2132/master
+1

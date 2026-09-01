@@ -1,0 +1,31 @@
+# OCR: 462beed5c2caff6256e44871693db037.webp
+# 来源: .\02-WriteUp\2025\462beed5c2caff6256e44871693db037.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+Recipe
+From Base64
+Alphabet
+A-Za-z0-9+/=
+Strict mode
+Gunzip
+G1 Remove non-alphabet chars
+Input + 口 司 目 国
+(/OLPAAAAYIn1MdIkil1wilIMi11UD7dKJotyKDH/McCsPGF8Aiwgwc8NAcdJde9SV4tSEItCPAHQi@B4hcB@TAHQiOgYilggAdNQhclePemL!
+Isx/wHlMicCswe8NAcc44HX@A334030kdeBYi 1gkAdNmiwxLi1gcAdOLBIsB@I1EICRbW2FZW1H/4FhfllosS6YD///SdaG51dABod21uaVRoT!
+cmB/ /VMdtTUINTU+iCAAAATWS6aWxsYS81L3AgkFdpbmRvd3MgT1QgMTAUMDsgV21UNjQ71Hg2NCkgQXBwbGVXZWILaXQvNTM3L5M2ICHLSFI
+NTCwgbG1rZSBHZWNrbykgQ2hyb211LZExNC4wLjAUMCBTYWZhemkvNTMBLjM2IEVkZy8xMTQuMC4xODIzLjUxAGg6Vnmn /SVTU2ZCDUINCkBS/
+AOirAAAALZ€ITJZSOHe1SUNGHT1.sbNNQHFONUFXeKY2enSKY312UKxONVIWNFINUSNULTRAUGHXiZ/G/9U19x1NOAAJCFNTULATVmjrVS47,
+‘9WWagpfULNTUIZOLQYYe/ /VhcB1FGilEWAAaE TwNeD/1U914ehMAAAAakBOABAAAGEAAEAAUZhYpFP1/9WTU10I51doACAAAFNWaBKWieL/ 1°
+XAdM+LBwHDhcBISVjDX+h/ ////MTkyLJE20C4xMTEUMTI4AL vwtaJWagBT /9U:
+= n 一 140-507 (63 selected) Tr Raw Bytes €+ CRLF (detected)
+Output BOA:
+nn *A1OGROeR er «Races “Ber (1VIAr<a sre, At cesouCTUTRWe Rois #B<sonD #@x
+AtLaoBeHeweX. d
+Et<Tede1ysonO1AnAt ce sou BBUSen}O; }SUBKEXSsouOFe se KoX cs sonOecoresonBeD$$ [ [aYZQVAX_Ze oaées//7 ]hnetwhwing ThLwBoes
+JOLSSSSSEenuniwiMozilla/S.@ (Windows NT 10.0; Win64; x64) AppleWebKit/S37.36 (KHTML, like Gecko)
+Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823. 54wh:Vy§¥OSSjenSShe ussunucwuvunne
+(/gSNERSUSTHFVS1NSMABNSANZF6zndeySRLNSROARLSET-Shu:Phlle «AYO» AShuusrsh SSSWSVREU. ; /Oe5 us _SSSSVH-scxea{ PO
+Auoceh + scinuenthDBS8YOOUdEL suru F@hrwovenuinuchwuwnGruShXHSayOeSSe hh run SVhoc* VO
+E
+AuaxA_2eV79192.168.111.128m»du¢Vjausyd

@@ -1,0 +1,12 @@
+# OCR: 6a505fa71c729254e87522321184f123.jpg
+# 来源: .\02-WriteUp\2024\6a505fa71c729254e87522321184f123.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+BP oeverss 国 sszspal
+目 8S #
+口 1 vm-100-disk-0.qcow2
+口 2 wmmordiskcoqcow
+口 3 vm-102-disk-O.qcow2
+口 4 wm-ioigconw
+口 5 vm-111-disk-O.vmdk

@@ -1,0 +1,32 @@
+# OCR: 377c2cea19a79ac6533d223b6c5abf35.webp
+# 来源: .\02-WriteUp\2026\377c2cea19a79ac6533d223b6c5abf35.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+r『]
+Watchdog: Temperature abort trigger set to 98c
+Host memory required for this attack: 1473 MB
+2c8b52dcc3af1307F868dd326535a763 : 881015@zy666
+| Session..........: hasheat
+Status … . Cracked
+_Hash .Node. . … …: 1000 CNTLM)
+Hash. Target. : 2c8b52dcc3af1307F868dd326535a763
+Time.Started … : Mon Apr 21 21:50:57 2025 (6 secs)
+Time.Estimated...: Mon Apr 21 21:51:03 2025 (@ secs)
+Kernel.Feature...: Pure Kernel
+Guess.Mask...... : ?d?d?d?d?d?d@?1?1?717171 [12]
+/Guess.Charset....: -1 ?d?L, -2 Undefined, -3 Undefined, -4 Undefined
+Guess.Queue...... : 1/1 (100.00%)
+Speed.#1......... : 11205.6 MH/s (9.44ms) @ Accel:128 Loops:125 Thr:256 Vec:1
+Recovered. …....: 1/1 (100.00%) Digests
+Progress. . : 65003520000/60466176000000 (0.11%)
+| Rejected......... : 0/65003520000 (0.00%)
+Restore .Point . . . .: 64880640/60466176000 (0.11%)
+Restore.Sub.#1. . .: SaLt:9 Amplifier:0-125 Iteration:9-125
+Candidate.Engine.: Device Generator
+Candidates.#1....: 123482@90are -> 912763@4p012
+-Hardware.Mon.#1..: Temp: 66c Util: 94% Core:1777MHz Mem: 7000MHz Bus:8
+Started: Mon Apr 21 21:50:55 2025
+Stopped: Mon Apr 21 21:51:04 2025
+E:\4. 学 习 调 研 \ 工 具 集
+T-BOX for JeLLy\ 工 具 \【3】 密 码 工 具 \【8】hashcat\hashcat-6.2.5:|

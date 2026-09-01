@@ -1,0 +1,22 @@
+# OCR: 0715bbeb732fec17eb4fdf29cd734b60.webp
+# 来源: .\02-WriteUp\2025\0715bbeb732fec17eb4fdf29cd734b60.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+芸 eny MX
+dujiaoka > % .env
+1 APP_NAME= 独 角 数 卡
+2 APP_ENV=local
+3 多 APP_KEY=base64: UudHxLyk7HqpUcTQ99p6NZMFxC7eInhkagTLks80YFk=
+4 APP_DEBUG=true
+5 APP_URL=http://xillka.com:31669
+6
+P LOG_CHANNEL=stack
+8
+9 # 数 据 库 配 置
+1@ DB_CONNECTIONzmysq1
+11/ DB_HOST=192.168.5@.8@
+12 DB_PORT=30627
+13 DB_DATABASE=dujiaoka
+147 DB_USERNAME=root 鲸 公 众 号 - 金 星 路 406 取 证 人
+15 , DB_PASSWORD=LKKD23mjak1213dmmm

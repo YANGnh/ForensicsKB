@@ -1,0 +1,77 @@
+# OCR: 5903c4d6429479418ce466a8f5c5bdca.webp
+# 来源: .\02-WriteUp\2025\5903c4d6429479418ce466a8f5c5bdca.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+ss
+5 查 找 “deletn“
+(6 处 命
+2025-09-17
+2025-09-17
+2025-09-17
+2025-09-17
+2025-09-17
+2025-09-17
+548:
+查 找 "delete" (0 处 命
+P 在 1 文 件 )
+3C: \h1n′St\6 1758777252\202509222139.E01\ 分
+09:
+09:
+09:
+09:
+09:
+Zils
+中 在 1 文 件 )
+358
+36:
+43:
+49:
+49:
+3t
+16.
+.536
+02.
+Silo
+B00
+SEs
+28
+101
+034
+620
+354
+412
+Deleting file "test.bat".
+Recycle bin: Delete to:
+Recycle bin: Delete to:
+Recycle bin: Delete to:
+Deleting file "PW.rar".
+Recycle bin: Delete to:
+No,
+No,
+No,
+No,
+Overwritten
+Overwritten
+Overwritten
+Overwritten
+to:
+to:
+to:
+to:
+No,
+No,
+No,
+No,
+[X3\Users\pk\AppData\Local\Temp\winscp.log (6 和
+Bin
+Bin
+Bin
+Bin
+path:
+path:
+path:
+path:
+杳 拆 "199 168.19.1"
+(0 外 合
+中 存 ] 立 似 )

@@ -1,0 +1,8 @@
+# OCR: 356936ca9a810b8461e5dcaeb17a51b2.jpg
+# 来源: .\02-WriteUp\2024\356936ca9a810b8461e5dcaeb17a51b2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+人 0 R
+》 霜 LnuBsWf 620
+0

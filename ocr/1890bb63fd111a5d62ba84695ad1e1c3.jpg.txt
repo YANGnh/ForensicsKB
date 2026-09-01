@@ -1,0 +1,15 @@
+# OCR: 1890bb63fd111a5d62ba84695ad1e1c3.jpg
+# 来源: .\02-WriteUp\2024\1890bb63fd111a5d62ba84695ad1e1c3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+Everyone
+0 704 [anicecene ubenicsed Users
+0 704 |services.exe $-1-16-16384 System Mandatory Level
+6 724 |Isass.exe 51518 Local System
+〖 724 _|Isass.exe 1-5-3254 Administrators
+724 |Isass.exe E Everyone
+P
+Authenticated Users
+2m Mandatory
+‘ecel Sueteen

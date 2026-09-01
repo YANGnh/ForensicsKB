@@ -1,0 +1,84 @@
+# OCR: 920b54b94eb17229de04da80ec1ac5ce.webp
+# 来源: .\02-WriteUp\2024\920b54b94eb17229de04da80ec1ac5ce.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+4805 2024/08/23
+‘06 2024/08/23
+‘0 2024708/23
+‘oe 2024/08/23
+‘09 2024/08/23
+sin02024708/23
+‘sus 2024708/23
+fa 2024/08/23
+yn) 2024/08/23
+16 2024/08/23,
+4835 2024/08/23
+‘ns 2024/08/23
+‘uy 2024/08/23
+4838 2024/08/23
+‘ni9 2024/08/23
+‘20 2024/08/23
+y
+02:29:29,284
+E
+E
+E
+e
+02:31:06.045
+02:31:06.085
+吊
+E
+E
+E
+E
+aerd
+E
+E
+s
+5456
+9208
+9208
+g
+g
+g
+a
+3208
+8
+9208
+g
+g
+a
+9208
+9208
+一
+a
+a
+a
+6036
+6036
+6036
+E
+e
+E
+6080
+8
+8
+h
+8
+ond
+SSSPRASSSARALASEA
+‘SesstonFeatureClassicalri letransfer:
+igh, Connectiontode: e
+Estimated RTT parkner 702954756. tor reTiabi lity: High, Comectionkode! t
+Vorr! system perforsance (last 60s)! CPU load of system = Ot
+Vorr: system performance (last 605): CPU load of system = O&
+N Atstocontret! current capturing endpoint: “Default Communication Device”
+I Audtocentrol: current renéering endpoint: “Default Communication Device”
+VorP: austocontrel: Previous capturing endpoint volunes: Histogram (esamplese120): Range n r
+$Streananager internals: :ReadstreanParaneters: typens (streanType.File, private), streanTypeuid=(3978¢238-8726
+‘twnetwork::Streansanager Internals: g (StreanType File, private), streanTypeUuide(29?8c238-872¢
+rate), streanTypeUutd={99"8c238-872¢
+sretespantmanager: :RenoveParticipant: (702954756, 556665233)
+streansanager (261): ‘Receivedenésesston(): reasonel
+P

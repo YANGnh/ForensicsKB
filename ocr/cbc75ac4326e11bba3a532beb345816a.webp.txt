@@ -1,0 +1,27 @@
+# OCR: cbc75ac4326e11bba3a532beb345816a.webp
+# 来源: .\02-WriteUp\2025\cbc75ac4326e11bba3a532beb345816a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+莲 AndroidManifest.xml
+43
+7 agconnect-core.properties 3 APK signature 的 Ad
+package com.net.api;
+import android.content.Context;
+import android.content.SharedPreferences};
+import android. text.TextUtils;
+import com.net.api.base.RpcManager;
+/* Loaded from: classes13.dex */
+public class RpcApi {
+public static
+public static
+public static
+public static
+public static
+public static
+String CLIENT_ID = “FengChanrPFCTPWvcztUe";
+String CLIENT_SECKEY = "XwQXCFLIzxHzXPtKNvpMkQXQoG99sCak" ;
+String HOST = "cn3.api.xcthings.com";
+int PORT = 443;
+String share_host = "HOST";
+SharedPreferences sharedPreferences;

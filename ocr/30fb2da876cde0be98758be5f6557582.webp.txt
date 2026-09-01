@@ -1,0 +1,46 @@
+# OCR: 30fb2da876cde0be98758be5f6557582.webp
+# 来源: .\02-WriteUp\2025\30fb2da876cde0be98758be5f6557582.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+ynmapemomooomimrangagorgc
+public static final /* synthetic */ int #2797t = 0;
+/* renamed from: r, reason: collision with root package name */
+public final String #2798 = "TAG:222
+/* renamed from: s, reason: collision with root package name */
+public c £27995;
+Govercide // p0.f, androidy. activity. Conponentactivity, xd, android. app. Activity
+public void oncreate(Bundle bundle) {
+super.onCreate(bundle);
+Final int 16 = 03
+Final int 47 = 13
+try
+Field declaredField = b.class.getDeclaredField("b");
+declaredField.setaccessible( true);
+declaredField. getint(b.class.getDeclaredField("a").get(null));
+Log.d(this.f2798r, "Systen initialized with reference: "+ b.#3473c{0])3
+} catch (Exception e6) {
+Log.e(this.f2796r, "systen initialization failed", e
+}
+ra)
+¢ €7 = c.e(getLayoutInflater())3
+‘this.#27395 = 5
+setcontentView(e7.c())3
+getitindon( ).setLayout (getResources() .getDimensionPixelSize(R.dimen design _bottom_sheet_nodal_ width)
+5 cVar = this. #279953
+if (evar == null) {
+€2.e.k("binding");
+‘throw null;
+)
+((TextView) cVar.#2519f) .setText(getString(R.string.welcome_message)) 5
+c cVar2 = this.f27995;
+if (cvar2 == null) {
+€2.e.k("binding")s
+‘throw null;
+)
+((Button) cVar2.#2516c) setOnClickListener(new View.OnClickListener(this) { // from class: bL.5
+/* renamed from: f, reason: collision with root package name */
+public final /* synthetic */ E 22754;
+《
+]
+‘this.#2275f - this;

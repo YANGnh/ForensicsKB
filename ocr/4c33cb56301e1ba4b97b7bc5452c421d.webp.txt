@@ -1,0 +1,58 @@
+# OCR: 4c33cb56301e1ba4b97b7bc5452c421d.webp
+# 来源: .\02-WriteUp\2025\4c33cb56301e1ba4b97b7bc5452c421d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+436
+4370
+438
+439
+448
+441
+442
+443
+444
+445
+446
+king@api-server-2:~$ sudo docker exec -it
+rooted4ob231cae7
+total 364
+-rwer- 1 root
+-rwer- 1 root
+-r-xr-xr-x 1 root
+drwxr-xr-x 119 root
+srw-r--r-- 1 root
+-rw-r--r-- 1 root
+drwxr-xr-x 7 root
+root@d4cb231cae7
+692
+1779
+18400
+4096
+328574
+666
+4096
+Apr
+Apr
+Apr
+Apr
+Apr
+Apr
+Apr
+E 沥 沥
+1
+67
+66
+63
+d4cb /bin/bash
+205 app.js
+:23 index. js
+66:
+:12[node_modules|
+66:
+62 libJiami
+o
+12 package-lock. json
+:23 package. json
+66:
+68 src

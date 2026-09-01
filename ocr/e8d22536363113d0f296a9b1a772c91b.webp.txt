@@ -1,0 +1,42 @@
+# OCR: e8d22536363113d0f296a9b1a772c91b.webp
+# 来源: .\02-WriteUp\2025\e8d22536363113d0f296a9b1a772c91b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+Cc 8
+ish 评 便 /
+| | 日 | - 2 See eee “ s 一
+= B 三 tto = p = a = Se = 9x
+\ BH Duncan_fapt.. 11/9372 口 nL
+日 SF vy 4624 口 ie 口 1552 VY | tie Y aie V ie
+V HE LAM KH lapt... 34376 2
+eee 1 口 1 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security 刹
+) 葛 Nonsss
+> 蒙 ISBRSS 1 口 2 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security
+> Bre 327 口 5 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security
+E 244
+口 4 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security
+> |) = 1118
+> © 856 4405
+*
+“ BARE 20169
+3 评 皓 x
+v 菲 WndoweB 9934
+protocols.Yen%st- Key length indicates the length of the generated session key. Ihis will be 0 if no session key was requested.
+x08: <EventData> <Data Name="SubjectUserSid" >S-1-0-0</Data> <Data Name="SubjectUserName" >-</Data> <Data
+Name="SubjectDomainName">-</Data> <Data Name="SubjectLogonid">0x00000000</Data> <Data Name="TargetUserSid” >$-1-5-21-244795756-
+3032 2605320691-3516395164-1004</Data> <Data Name="TargetUserName">CEO2</Data> <Data Name="TargetDomainName" >CEO-PC</Data> <Data
+| ese es | Name="TargetLogonld” >0x00b064a4</Data> <Data Name="LogonType">3</Data> <Data Name="LogonProcessName">NtLmSsp </Data> <Data
+10
+3629
+- Name="AuthenticationPackageName”>NTLM</Data> <Data Name="WorkstationName’>[\l]</Data> <Data Name="LogonGuid">00000000-0000-
+> 蒋 国 B 10235 0000.0000.000000000000</Data> <Data Name="TransmittedServices">-</Data> <Data Name="LmPackageName">NTLM V2</Data> <Data
+〉 蛭 86&3Wf — 1398 aS BaterName="Processid">0x00000000</Data> <Data Name="ProcessName">-</Data> <Data
+apes 。 17.11</Daja> <Data Name=“IpPorr>52344/Data> </EventData>
+> asin cy
+3 Security
+maz: CEO-PC
+iG Restor 153
+> ShimCache 1319 BE: Microsoft-Windows-Security-Auditing
+56 GUID: 54849625-5478-4994-ASBA-3E3B0328C30D
+万 = RSF: SRD

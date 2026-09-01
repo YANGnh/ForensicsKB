@@ -1,0 +1,75 @@
+# OCR: 43b2bdfd621a08beb93e622b47832a75.webp
+# 来源: .\02-WriteUp\2024\43b2bdfd621a08beb93e622b47832a75.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+Joohe Investment. apk
+ec
+@color
+‘@ ConnectionManager
+ad
+E
+@ drawable
+E
+af
+ee
+h
+gid
+integer
+@ layout
+@Maindctivity
+E
+mipmap
+eq MyReces
+E
+@ string
+style
+E
+pe android
+be android
+刑
+me
+md
+64
+aytearrayOutputstrean byteArrayoutputStream = new Sytearrayoutputstes
+decodeBytesrray. conpress(Bitmap.conpressFormat.JPEG, 20, byteArrayOutputstr
+JsONObJect jsONODJect = new ISONOJect();
+Jsouobject.put( "image", true);
+Jsonobject put(“ourfer", bytedrrayoutputstream. tobyteArray());
+.a().BC)-a("x20aeca", Jsonobject);
+) catch (250NException ©) t
+)
+)
+e.printstackTrace();
+public Isonobject c() {
+3soNobject jsonobject;
+Af (| this. £36a. getPackageManager()).hassystenFeatui
+return null;
+)
+try t
+3soWobject JsoNOdJect2 = new ISONObJect();
+3soWArray JS0NArray = new ISONAPray();
+Ssonobject2.put(“camist™, true);
+nt numberofCaneras = Camera
+for (int 4 = @; 4 < numberofcaneras; i++) (
+Camera.camerainfo cameraInfo = new Comera.canerainfo();
+Comera.getCanerainfo(i, camerainfo);
+Ant 42\= camerainfo. facing;
+4€ (42 == 1) (
+JSoUobsect = new 2soNobJect();
+Jsonobject.put("nane", “Front”;
+Jsonobject.put("ic", i);
+} else 4 (42 == 0) (
+Js0Wobject = new 2SoNobject()
+Jsonobject.put("nane", “i
+jsonobject.put("ic", i);
+《
+JsoWobject = new ensteetoi
+Jsonobject.put("nane", “other");
+Jsonobject-put(~ic", i);
+1
+de
+}
+Jsouarray.put(Jsonobsect) 5
+)
+Gsonopdect2.eut("list". 4somarrey)

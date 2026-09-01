@@ -1,0 +1,30 @@
+# OCR: a4aa0b267120d220f8d1c65df70bb49f.jpg
+# 来源: .\02-WriteUp\2024\a4aa0b267120d220f8d1c65df70bb49f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+[root@localhost netuork-scripts]# syetewetl restart NetworkManager
+[root@localhost netuork-scripts]# ifconfig
+docker@: f lags=4899<UP, BROADCAST, MULTICAST> mtu 1588
+inet 172.127.8.1 netmask 255.255.8.8 broadcast 172.17.255.255
+ether 02:42:86:48:09:6e txqueuelen @ (Ethernet)
+RX packets 8 bytes 8 (8.0 B)
+RX errors 8 dropped 6 overruns 6 frame 6
+TX packets 8 bytes 8 (8.8 B)
+TX errors 8 dropped 8 overruns @ carrier 8 collisions 6
+ens33: f lags=4163<UP, BROADCAST, RUNNING, MULTICAST> mtu 1588
+inet 192.168.188.112 netmask 255.255.255.8 broadcast 192.168.188.255
+inet6 fe88::20c:29ff :feld:fb3a_ prefixlen 64 scopeid @xZ8<1ink>
+ether @8:0c:29:1d:fb:3a txqueuelen 1088 (Ethernet)
+RX packets 1 bytes 243 (243.8 B)
+RX errors 8 dropped 8 overruns 8 frame 6
+TX packets 8 bytes 628 (628.8 B)
+TX errors 8 dropped 8 overruns @ carrier 8 collisions 6
+lo: flags=?3<UP,LOOPBACK,RUNNING> mtu 65536
+inet 12?7.8.8.1 netmask 255.0.0.8
+inet6 ::1 prefixlen 128 scopeid @x1@<host>
+loop txqueuelen 1888 (Local Loopback)
+RX packets 8 bytes 8 (8.0 印
+RX errors 8 dropped 6 overruns 6 frame 6
+TX packets 8 bytes 8 (8.8 B)
+TX errors 8 dropped 8 overruns @ carrier 8 collisions 6

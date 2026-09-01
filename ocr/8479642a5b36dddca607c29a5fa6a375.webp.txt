@@ -1,0 +1,21 @@
+# OCR: 8479642a5b36dddca607c29a5fa6a375.webp
+# 来源: .\02-WriteUp\2024\8479642a5b36dddca607c29a5fa6a375.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+android: value="portrait|landscape"/>
+<activity
+android: theme="@style/AppThene. StartingilindowThene”
+name="com. changbo.pro.ui.splash.Splashactivity”
+Hlaunchtiode="singleTop”
+screenOrientation="portrait”
+configChanges="orientation|keyboardHidden”
+thardwareaccelerated="true">
+<intent-filter>
+<action android:nam:
+<category android:name=
+<category androié
+</intent-filter>
+indroid. intent -action-MAIN" />
+ndroid. intent. category. LAUNCHER" />
+ndroid. intent. category .MULTININDOW_LAL

@@ -1,0 +1,11 @@
+# OCR: 0218186ef601a1a56515d6c01e2cd79b.webp
+# 来源: .\02-WriteUp\2025\0218186ef601a1a56515d6c01e2cd79b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+(eer T MARTA 泷 美 化 SQL 〔 ) 代 码 段
+\鏖】0〔a_h0st v ‖. backup newbee v | 巳 运 行 Sit Po pepe
+SELECT COUNT(*) FROM tb_newbee_mall_order;
+B
+COUNT(*)
+8914

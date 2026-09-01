@@ -1,0 +1,27 @@
+# OCR: 64eebe173750f9e8d3e9cca6b1916c58.webp
+# 来源: .\02-WriteUp\2024\64eebe173750f9e8d3e9cca6b1916c58.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+cnd=「cd /www/wwroot/192.168.269.147 ;cat wp- 国 命 图 .php「
+response=<?php
+[ee
+* WordPress 基 础 配 置 文 件
+这 个 文 件 被 安 装 程 序 用 于 自 动 生 成 wp- 腾 骆 圆 .php 配 置 文 件
+您 不 必 使 用 网 站 , 可 以 将 讷 个 文 件 复 制 到 Twp - 葛 善 图 .php 」 并 境 写 这 些 值 。
+本 文 件 包 吾 以 下 酒 置 迹 项 。
+* 数 据 库 设 罪
+* 宝 钥
+* 数 据 库 表 名 前 缨
+* ABSPATH
+@Link https: //wordpress.org/documentation/article/editing-wp-config-php/
+@package WordPress
+He Fk FF FH OH FF FF
+0
+/1 妮 数 搬 库 设 置 - 您 可 以 从 您 的 主 机 获 职 讷 些
+/*x WordPress 数 据 库 名 称 /
+define( 'DB_NAME', '192_168_209_147' );
+/x* 数 据 库 用 户 名 */
+define( 'DB_USER', '192_168_209_147' );
+[xx 数 据 库 宿 码 */
+define( 'DB_PASSWORD', 'X847Z3QzF1a6MHjR' );

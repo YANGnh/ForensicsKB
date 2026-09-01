@@ -1,0 +1,30 @@
+# OCR: 8cb16cc5ff7c7d00e0d36a6b53edd06f.webp
+# 来源: .\02-WriteUp\2025\8cb16cc5ff7c7d00e0d36a6b53edd06f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+留 © SL = OB — & duheRechargephp x
+E 国 园 园 “ Oa
+E Me 2 +
+s+ 3 | ThinkPHP [ WE CAN DO IT uer THINK ]
+2A 2 NER - CRETE ae
+v 园 余 e
+apasn 7 namespace driver\recharge;
+\_ JuheRecharge php extnd\ iver vechage @ :;
+a) 9 f+ Mea FMze Mea
+woo
+u
+一 class JuheRecharge
+Bf
+u 阮 a
+5 protected $recharge_url = "http: //op.juhe.n/ofpay/nobile/onlineorder”;
+as TIRE
+不 protected $query_url = "http: //op.juhe.cn/ofpay/nobile/ordersta";
+8 //%fropenia
+re protected Sopeni
+2 PRESALE key
+2 protected $key;
+2 public function construct (Sopenid, $key)
+23 |
+24 Sthis-ropenid=Sopenid;
+Porikaymee

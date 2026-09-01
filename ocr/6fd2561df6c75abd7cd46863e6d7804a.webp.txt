@@ -1,0 +1,60 @@
+# OCR: 6fd2561df6c75abd7cd46863e6d7804a.webp
+# 来源: .\02-WriteUp\2025\6fd2561df6c75abd7cd46863e6d7804a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+HEHEraericeri 一 XH #86 BRO OEM 8B BAY BE Ase TRO) mA W BOER
+74 |
+SE. = users (14) 3 国 目 昌 国 | 庞 | 口 G 曾 白 目 | 乡 & B&B T @ oo? 团 回 国 | 国
+Om. 902 颂 5
+E > & core. py.1shot.cde. py 日 & core.py.ishot.das 巳 目 2.py 日 目 震酶 trt 日 月 persistent_prope ., 日 A settings_glot
+3 日 ppseaeeon 1 <?am1-version='1.0' -encoding="UTF-8' -standalone='yes' -?>
+| app idle statsam|
+<settings -
+1 | package-restrictionsaml Pi<sottings -versio
+口 photo.png 3 + <setting-id: sysui_float_version"-valu 744358960727" -package="com. android. s
+1 £) runtime-permissionsxml 4 + +<setting-id= -name="mobile_data0" -value="1" -package="com. android. phone" -defaultValue=
+eG Seti paul 5 dsecting. i mobile _datal" -value: package="com. android. phone" -defaultvalue:
+1 | settings secureaml 5
+1 | settings ssaid.aml Seacting <a
+[1 | settings systemaml E csecting.id
+国 welpopecinioan 8 cseceing.id
+8 + +<setting-id:
+<setting-id=
+<setting-id:
+<setting-id:
++ +<setting-id:
++ +<setting-id:
+"low_battery_sound_timeout"-value: package="android" -defaultvalv
+/system/media/audio/ui/Undock.ogg" -packac
+show_notification_channel_warnings -package="com.androi
+com.xiaomi.market.superscript_count' "61" -package
+development_settings_enabled -package="com.android.sett
+"window_animation_scale" defaultvalue
+value:
+"car_undock_sound"
+value="0
+- value: com. xiac
+-value="1
+1.0" -package="android"
+wifi_coverage_extend_feature_enabled" -value="0" -package:
+personalized_ad_time "1230739235652" -packag
+"use_gesture_version_three"-value: package="com.miui .home
+value:
+android"
+"com. android.
+defau
+valu
+csecting.id force_allow_on_external” -value="0" -package="com.android. settings”
++ +<setting- id= "malti_sim_data_call"-value="-1" -package="com.android.phone" -defaul
+一 妮 | Ose wm | + <setting-id: "show_zen_settings_suggestion” -value="1" -package="android" -defaultv
+RERREHXUNE csecting. i tether_offload_disabled” -value="1" -package="com. android. settings"
++ <setting-id: com.miui.personalassistant .preferences.bg_color"-value="16250871"
+E P + +<setting-id: "systemui_fsg_version”-value="10" -package="com. android. systemui" -de
+0 cseceing. i jode_ringer" -value="2" -package="android" -defaultValue="2"-defaultsy
+Ene freee + +<setting- id= "default_install_location”-value="0" -package="android" -defaultValue
+Eee al = + +<setting-id: "wifi_display_on"-value: -package="android" -defaultvalu -defa
+E EERSTE + +<setting-id: ‘device name" - value 6-Pro" -package="android" .defaultyalu
+Paes 0 + +<setting-id: wifi_networks_available_notification_on"
+PEs tise Document « s<setting-id: zen settings updated" -value="1
+P WR 5 5 5 q oe er

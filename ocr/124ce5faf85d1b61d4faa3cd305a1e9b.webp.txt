@@ -1,0 +1,11 @@
+# OCR: 124ce5faf85d1b61d4faa3cd305a1e9b.webp
+# 来源: .\02-WriteUp\2025\124ce5faf85d1b61d4faa3cd305a1e9b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+w
+OBS Studio
+29.1.3 (64 bit)
+e
+kif OBS AB
+shit

@@ -1,0 +1,33 @@
+# OCR: 1b842e5254c13a38abab92e631e79e5f.jpg
+# 来源: .\02-WriteUp\2024\1b842e5254c13a38abab92e631e79e5f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+Docker
+docs
+cprsoms
+GPT_weights
+i18n
+logs
+output GPT-SoVITS-beta0217>runt ime\python. exe webui. py
+URL: http: //0. 0.0. 0:9874
+runtime
+SoVITS_weights
+TeMp
+tools
+dockerignore
+gitignore
+| apipy
+batch inference.py
+colab_webuiipynb
+config.py
+dockerbuild.sh
+docker-compose.yaml
+Dockerfile
+= ffmpeg.exe
+fiprobe.exe
+go-webuibat
+3 go-webui.pst
+gweight.ot
+install sh
+LICENSE

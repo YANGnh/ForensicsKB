@@ -1,0 +1,8 @@
+# OCR: 0aae0dbb3ce5241d1664bd585bc59ba5.webp
+# 来源: .\02-WriteUp\2024\0aae0dbb3ce5241d1664bd585bc59ba5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+门 ( ) [-/ 栗 面 /Forensics/velatiLttya]
+口 python3 vol.py -f /mnt/Share With Win10/PC.mem windows.filescan > filescan.txt
+Progress: 46.01 Scanning memory layer using BytesScanner

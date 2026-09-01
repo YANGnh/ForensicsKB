@@ -1,0 +1,19 @@
+# OCR: 972421fc891e994e2c4bc3ac2af80412.webp
+# 来源: .\02-WriteUp\2025\972421fc891e994e2c4bc3ac2af80412.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+6628
+6629
+6638
+6631
+6632
+6633
+6634
+root@0penlirt: /etc/config! uci show network .myvpn
+network .myvpn=interface
+network .myvpn.proto='wireguard’
+network .myvpn. private_key=" SLkCLyRhrkWIF gJWfEd@B7s99FYWJf9PUV+scj3Vw3U="
+network .myvpn. listen_port="51820'
+network .myvpn.addresses=' 22.133.144「
+PoionReSJouRE |

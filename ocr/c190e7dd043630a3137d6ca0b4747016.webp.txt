@@ -1,0 +1,28 @@
+# OCR: c190e7dd043630a3137d6ca0b4747016.webp
+# 来源: .\02-WriteUp\2026\c190e7dd043630a3137d6ca0b4747016.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+754017F70 Al FA 01 E8
+754017F80 B4 08 BB 07
+754017F30 73 6B 20 72
+754017FAO 63 75 72 72
+754017FBO 20 69 73 20
+754017FCO OA 50 72 65
+754017FDO 44 65 6C 20
+754017FEO 00 00 00 00
+754017FFO 00 00 00 00
+扇 区 61472.959 / 61,472,960
+偏 移 地 址
+jue “688cC-< 上
+“» 王 8 Adi
+sk read error oc
+curred BOOTMGR
+is compressed
+Press Ctrl+Alt+
+Del to restart
+留 复 制 ( 〇 “754017F8E“ ( 十 六 进 剑
+相 对 训 录 偏 移 地 址 (U
+余 席 助 (H)
+754017ro
+= 1uu eR:

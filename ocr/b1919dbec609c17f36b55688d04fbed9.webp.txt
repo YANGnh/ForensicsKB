@@ -1,0 +1,61 @@
+# OCR: b1919dbec609c17f36b55688d04fbed9.webp
+# 来源: .\02-WriteUp\2026\b1919dbec609c17f36b55688d04fbed9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+园 , 月 $SPCE01 421205) > 应 用 转 件 (1069) > 浏 览 嘴 (68) , Edge (949) * 下 载 汤 录 (25) ,
+口 序 号 “ 文 件 名
+口 13 VisualStudioSetup.exe
+口 14 VisualStudioSetupexe
+口 15 pcbatchatexe
+口 16 Kali Linux Installerexe
+Ow ctfile.exe
+口 18 ctfile (1).exe
+EHS katitinrax-2025-ta-vmware-amd 64-72
+口 20 kali-linux-2025.1a-vmware-amd64.7z
+口 21 SunloginClient 15.83.19819 x64.exe
+口 22 Sunloginlient 15.8.3.19819 x64.exe
+g
+Bayepmmpmpnpnm
+文 件 保 存 路 佐
+CAUsers\zy881\Do...
+CAUsers\zy881\Do...
+CAUsers\zy881\Do...
+CAUsers\zy881\Do...
+CAUsers\zy881\Do...
+CAUsers\zy881\Do...
+CAUsers\zy881\Do...
+C:\Users\zy881\Do...
+CAUsers\zy881\Do...
+CAUsers\zy881\Do...
+下 载 URL
+https://c2rsetup.officeapps.live.com/c2r/d...
+https://d.baticq.com/bat.apk?nonce=478...
+https://d.baticq.com/pc/pcbatchat.exe?n...
+blob:https://apps.microsoft.com/3ba33cd...
+https://imgstatic.ctfile.com/upload/apps/...
+https://imgstatic.ctfile.com/upload/apps/...
+httpsy/cdimagekaliorgykali-2025.1a/kali..
+httpsy/kalidownloadybase-images/kali-2.、
+https://client-api.oray.com/softwares/65/...
+https://dw.oray.com/sunlogin/windows/S...
+下 载 开 竞 时 间
+点 正
+2025/04/07 20:45:11
+2025/04/07 21:29:16
+2025/04/07 21:29:35
+2025/04/07 21:48:21
+2025/04/07 22:07:44
+2025/04/07 22:43:15
+2025/04/07 22:50:56
+2025/04/07 22:50:56
+2025/04/08 13:24:38
+2025/04/08 13:24:38
+2025/04/07 21:30:1
+2025/04/07 21:48:2
+2025/04/07 22:08:0
+2025/04/07 22:43:1
+2025/04/07 23:01:3
+2025/04/07 23:01:3
+2025/04/08 13:24:4
+2025/04/08 13:24:4

@@ -1,0 +1,21 @@
+# OCR: a4dd52ce15fde1fba78fffc70c88d04b.webp
+# 来源: .\02-WriteUp\2025\a4dd52ce15fde1fba78fffc70c88d04b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+@ linux.conf @ C:/hinet/1-1748241630/A244 1-F#).tar/data/user/0/ru.meefikclinuxdeploy/files/config - Kate
+S40 #80 220 82M GJ Tem ieee 280 ID BBO aN)
+Dat Lan» Bee © se.
+[iy | >) =
+1 ARCH="armht"
+DESKTOP="xfce"
+FB_ARGS="-dpi 100 -sharevts vt0"
+FB DEV="/dev/graphics/fb0"
+FB_DISPLAY="0"
+FB_FREEZE="none"
+FB_INPUT="/dev/input/event0"
+FB_REFRESH="true"|
+FS TYPE="ext4"
+GRAPHICS="vnec"
+5
+wow oO

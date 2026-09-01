@@ -1,0 +1,17 @@
+# OCR: 4066e3a85ab5770965603770d9f706c9.jpg
+# 来源: .\02-WriteUp\2024\4066e3a85ab5770965603770d9f706c9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+检 材 : 检 材 3- 计 算 机
+基 本 信 息
+8: 20240427184755BVN2RA
+RARE: ANSH3 f
+fer: (UTC+0800) : 量 关 , 春 祖 刹 E SET
+: 2024-04-27 18:87:59
+gxh 42.65 GB
+SSH FE: Windows
+HEA: 8068
+SHAT: FFD2777COB966DSFCO7F2BAED1 DAS782FBDESADS:
+DRE:
+2 Lee)

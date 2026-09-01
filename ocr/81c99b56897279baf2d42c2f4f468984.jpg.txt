@@ -1,0 +1,11 @@
+# OCR: 81c99b56897279baf2d42c2f4f468984.jpg
+# 来源: .\02-WriteUp\2024\81c99b56897279baf2d42c2f4f468984.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+AE 1 pmB
+mas E ene = HEE
+1 2024-05-20
+0 2018-12-08
+Ra
+ae

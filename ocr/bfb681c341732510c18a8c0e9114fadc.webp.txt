@@ -1,0 +1,19 @@
+# OCR: bfb681c341732510c18a8c0e9114fadc.webp
+# 来源: .\02-WriteUp\2024\bfb681c341732510c18a8c0e9114fadc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+return []
+// 数 据 库 类 型
+type, => ‘mysql’,
+// 服 务 器 地 址
+“hostname「 => '172.17.0.4",
+// 数 据 库 名
+“database「 => "loki",
+/ 国 国
+“username「 => ‘root’,
+// BB
+“passuord「 => ‘root123456",
+/ A
+“hostport「 => "3306",
+11 YE Edsn

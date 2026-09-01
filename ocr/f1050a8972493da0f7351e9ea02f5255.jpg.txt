@@ -1,0 +1,23 @@
+# OCR: f1050a8972493da0f7351e9ea02f5255.jpg
+# 来源: .\02-WriteUp\2024\f1050a8972493da0f7351e9ea02f5255.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+> 8 阮 > ANDRE (C) > FAA > Luck > AppData > Local > stable-diffusion-webui > models > Stable-diffusion
+Por ae aS
+E
+(1) againmix v20.safetensors
+[Put Stable Diffusion checkpoints here.tt
+[Jj v1-5-pruned-emaonly.safetensors
+E
+2024/3/13 18:32
+2024/3/12 22:19
+2024/3/13 18:33
+E
+SAFETENSORS
+sa
+SAFETENSORS
+E
+60,804 KB
+oke
+123,793 KB

@@ -1,0 +1,29 @@
+# OCR: d8bfdc943e16e35f1ffcab7ff8a709e6.webp
+# 来源: .\02-WriteUp\2024\d8bfdc943e16e35f1ffcab7ff8a709e6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+Mount Image To Drive x
+Add Image
+Image File:
+B:\Group\John_NAS_2.£01
+Mount Type: Physi CY
+Drive Letter: Next Available (L:) a
+Mount Method: Block Device / Writable 、
+Write Cache Folder:
+E:\EAA\20242 147 AE
+[ion]
+Mapped Image List
+Mapped Images:
+驱 动 镭 (.。 Method 分 区 Image
+PhysicalD... Block Device... Image B:\Group\John_NAS_2.£01
+I 分 区 1 (81... B:\Group\John_NAS_2.£01
+分 区 2 [20.。 B:\Group\ohn_NAS_2.£01
+分 区 3 [14.。 BtGroupohn_NAS_2.E0l
+Image B:\Group\John_NAS_1.£01
+分 区 1 [8l.。 B:\Group\John_NAS_1.£01
+分 区 2 [20., B:\Group\ohn_NAS_1.£01
+分 3 [29.。 B:\Group\John_NAS_1.£01
+Unmount
+关 闯 (C)
+一

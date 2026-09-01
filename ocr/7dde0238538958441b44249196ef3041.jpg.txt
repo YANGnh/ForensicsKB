@@ -1,0 +1,43 @@
+# OCR: 7dde0238538958441b44249196ef3041.jpg
+# 来源: .\02-WriteUp\2024\7dde0238538958441b44249196ef3041.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+eax + x
+http {
+邹
+# Basic Settings
+am
+sendftle on;
+‘tcp_nopush on;
+types _hash_max_stze 2048;
+# server_tokens off;
+# server_names_hash_bucket_stze 64;
+# server_nane_in_redtrect off;
+‘include /etc/nginx/mine.types;
+default_type applicatton/octet-strean:
+邹
+# SSL Settings
+邱
+ssl_protocols TLSv1 TLSvi 1 TLSv1.2 TLSv1.3; # Dropping SSLv3, ref- POODLE
+ssl_prefer_server_ctphers on;
+a
+# Logging Settings
+酥
+access log /oar/ig/ngtwyaccess.log:
+error_log /var/log/nginx/error. log;
+邹
+# Gzip Settings
+0
+gzip on;
+# gzip_vary on;
+# gzip proxted any;
+# gzip_conp_ level 6;
+# gzip buffers 16 8k;
+# gzip _http version 1;
+# gzip_types text/plain text/css applicatton/json applicatton/javascript text/xml applicatton/xml appLication/xnl+rss text/ Javascript;
+邱
+# Virtual Host Configs
+a
+tnctude /etc/nginx/conf_d/* conf;
+include /etc/nginx/sites-enabled/:

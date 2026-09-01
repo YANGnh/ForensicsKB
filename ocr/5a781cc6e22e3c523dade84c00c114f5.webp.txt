@@ -1,0 +1,9 @@
+# OCR: 5a781cc6e22e3c523dade84c00c114f5.webp
+# 来源: .\02-WriteUp\2025\5a781cc6e22e3c523dade84c00c114f5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+(1): roommaster_table v OS 4 IL 国
+id identity _hesh
+d
+42 cTddfe0161bdadb9as6éc3402bbale42

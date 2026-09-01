@@ -1,0 +1,24 @@
+# OCR: 05f3840bc7d7aa5044db256a3486f4fd.jpg
+# 来源: .\02-WriteUp\2024\05f3840bc7d7aa5044db256a3486f4fd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+全 R
+BAR E 弯
+林 技 R Realtek PCIe GbE Family Co.
+DHCP E
+ERW 192.168.47.0
+E 关 沥 沥
+vee: |ReaiekPcle be Famiy contoler
+OnaT BASHAM HS EMA HOD
+OREMSA EARNER
+目 木 E
+E
+FZ epi DHCP ARSE TP HE SARA IAL OD
+BRRAO
+Flr @: [192.168 71. 0 Fria:
+WSRHRRG SAO. E
+Eesuat
+E
+NAT REO.
+DHCP REO).

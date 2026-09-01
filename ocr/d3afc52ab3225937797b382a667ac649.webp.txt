@@ -1,0 +1,18 @@
+# OCR: d3afc52ab3225937797b382a667ac649.webp
+# 来源: .\02-WriteUp\2024\d3afc52ab3225937797b382a667ac649.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+GiB ORE:
+system_config_prefs
+GH ukviiEesA, WARIS:
+《
+"default_uin': 《
+‘bool’: True,
+‘int32't 326674411,
+‘uint32"! 326674411,
+‘intea'! 326674411,
+‘uinted'! 326674411,
+‘Float
+"bytes
+*string’

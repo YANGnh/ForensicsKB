@@ -1,0 +1,15 @@
+# OCR: 460dbd62bf2ee299f22d7a06e895d9a7.webp
+# 来源: .\02-WriteUp\2025\460dbd62bf2ee299f22d7a06e895d9a7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+| com.xiaomi.youpin
+| comyouku.phone
+| com.zhihu.android
+| design.codeux.authpass.fdroid
+| Imiui.systemui.plugin
+| Aorg.ifaa.aidlmanager
+| org.mipay.android.manager
+|rumeefik.busybox
+| rumeefiklinuxdeploy
+T nn

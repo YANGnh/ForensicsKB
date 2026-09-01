@@ -1,0 +1,12 @@
+# OCR: d086b7267f662228dff054e02316df10.jpg
+# 来源: .\02-WriteUp\2024\d086b7267f662228dff054e02316df10.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+Recipe 日 国 白 input
+Lad3dy93d3dyb290L 3d3dyS@cHNob3AUY29tL2FucGxpY2F @alwOuL2dvb24yX2xpbiS6aXAK30,
+:
+一 东
+Output
+_ /veta/ waaroot /wnon. tpshop .con/application/goon2_lin.zin
+1

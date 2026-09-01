@@ -1,0 +1,11 @@
+# OCR: aa846951912e1aa3661daeb29f8ab57d.webp
+# 来源: .\02-WriteUp\2025\aa846951912e1aa3661daeb29f8ab57d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+[rootek8s-master ~]# kubectl get nodes
+NAME STATUS ROLES AGE VERSION
+k8s-master Ready master 244d v1.18.0
+k8s-node1 NotReady <none> “243d v1.18.0
+k8s-node2 NotReady <none> 243d v1.18.0
+[root@k8s-master ~]#

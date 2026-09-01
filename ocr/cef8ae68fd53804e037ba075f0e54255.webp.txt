@@ -1,0 +1,59 @@
+# OCR: cef8ae68fd53804e037ba075f0e54255.webp
+# 来源: .\02-WriteUp\2025\cef8ae68fd53804e037ba075f0e54255.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+已 @ decryptipa.py
+1 [import basesa
+import binascii
+‘import os
+import re
+“""Reverse 1 round: XOR @xFF -> b6é4decode -> b64decode"""
+xored = bytes(b * @xFF for b in blob)
+once = base64.b64decode(xored)
+18 return base64.b64decode(once)
+2
+3
+4
+5
+6 def _single_round_decrypt(blob: bytes) -> bytes:
+7
+8
+9
+12 def decrypt jpg():
+13 # 医 配 形 吴 xooc_en.jpgChoocen_en.jpg …
+14 pat = re.compile(r’(.+?)(?:_en)+$', re.IGNORECASE)
+15
+16 targets = [f for f in os.listdir() if f.lower().endswith(".jpg") and“_en“in f.lower()]
+17 if not targets:
+18 print ( 任 我 切 芸 芊 育 医 网 “en.jpg |")
+19 return
+28
+21 for enc_file in targets:
+22 stem, ext = os.path.splitext(enc_file)
+23 m = pat.match(stem)
+24 if not m
+25 # RERNEREM SSM]
+26 continue
+27
+28 rounds = stem.lower().count("_en")
+29 out_stem = m.group(1) + "_dec”
+30 out_file = out_stem + ext
+E
+32 with open(enc_file, "rb") as f:
+33 data = f.read()
+34
+35 try:
+36 for _ in range(rounds): # [BIS] pic_en_en.jpg -> rounds = 2
+37 data = _single_round_decrypt(data)
+38 except binascii.Error as e:
+39 print(f"[!] {enc_file} Base64 隔 砀 奚 贤 : {e}")
+48 continue
+41
+42 with open(out_file, “wb") as f:
+43 f.write(data)
+44
+45 print (f“ 儒 国 元 动 (froundsj 国 ): fenc_file} -> {out_file}")
+46
+7 if _name_ ain
+48 decrypt_jpg()

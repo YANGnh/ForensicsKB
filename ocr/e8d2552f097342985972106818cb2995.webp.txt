@@ -1,0 +1,22 @@
+# OCR: e8d2552f097342985972106818cb2995.webp
+# 来源: .\02-WriteUp\2024\e8d2552f097342985972106818cb2995.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+21:04:08) Connected wie TUM NIN
+E
+21:08:09] ENT: COMECTED e cn 38, 202%, 21/6809) EVENT: COMPRESSION
+21:08:23) EVENT: DESCOMMECTED [Aug 28, 2825, 21:05°05] OpenVPN core 3.28.qa win XB6_64 64-bLE OVPH-OCD bullE on 3ul 17 2624 16:22:15,
+E
+21:05:03] MOTE! Tals configuration contains options that were not used
+21:05:03] Unsupported option (ignored)
+23:05:09] © [resolvcretry] [infinite]
+21:05:03) 1 {peraist-key]
+21:05:03) 2 (peraist-tun]
+E 1 网
+a 28, 2626, 21:05:05) Contacting EIGEN: 25000 via we
+21:05:03) ENT: WAET Eup 18, 2624, 21:65:03) wlnComandagent: transaitting bypass route to SUiS6i64:28i
+aug 20, 2024, 21:05:02) comecting to ( ):25000 (SESE) via vor
+Fe ec rape Or ore thn oe oe
+(Aug 18, 2624, 21:05:05) Creds: Usernane/Parsword
+[mug 10, 2024, 21:05:66) Sending Peer Info

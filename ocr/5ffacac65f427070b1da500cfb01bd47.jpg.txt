@@ -1,0 +1,35 @@
+# OCR: 5ffacac65f427070b1da500cfb01bd47.jpg
+# 来源: .\02-WriteUp\2024\5ffacac65f427070b1da500cfb01bd47.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+命 文 似 AG “ 视 国 IR me GDA4.11(Free Edition)
+PAP 5|Q 8 @ @ @ @| 4 加 小 晓 园 H|@ 呻 日 |@ 严 四 |co 史 口 都 | ? OH
+G Basicanalyzer index paciace declare
+BaseInfo ate GDA XML
+hee © activity © permission) services ©) receiver © provider @ aur 占 “ 回
+‘<xml_version="1.0" encodinge"utf-3"?>
+alistrings
+: <nanifest xmlns:android="http: //schenas.android.com/apk/res/android’
+AppStrings <uses-sdk android:minsdkversion="21" android: targetsdkversio
+Alluris <uses-feature androii “android.harduare.bluetooth” androi r y<juses-feature>
+levies cuses-feature androi android.hardware. location” android:required="false” ></uses-feature>
+a cuses-feature androi android. harduare location network" android: “false” ></uses-feature>
+Androidtanifest <uses-feature android:nane="android. hardware. location.gps" android:required="false" ></uses-feature>
+ascon cuses-feature androi ra" android: required="false" ></uses-feature>
+cuses-feature androi android:required="false” ></uses-feature>
+> © Resources cuses-feature androi " android:required="false” ></uses-feature>
+w 83 DexClass cuses-feature androi android. hardware. telephony" android:required="false” ></uses-feature>
+queries >
+4 4 <package android:nane="con.facebook.orca” ></package>
+户 国 android. support.va aie
+D a androidx <action androi android. intent.action. VIEH" ></action>
+hace data androi “https” android:host="nessenger .cox” ></data>
+</intent>
+片 国 dagger hilt.android. internal.man intent >
+BW ioe iensonsicines. qoectctenian <action android:name-"con.facebook.GET_PHONE_ID" ></action>
+5 i </intent>
+]  kotlinx.coroutines <package android:name="con. facebook. adsmanager” ></package>
+户 国 net.minidev.json.annotate “package android:nane-"coa. facebook analytics” ></package>
+‘com. facebook. talk" ></package>
+> More

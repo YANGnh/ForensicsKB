@@ -1,0 +1,9 @@
+# OCR: 6546cfd9cca0f2594e63c8ac11e89235.webp
+# 来源: .\02-WriteUp\2025\6546cfd9cca0f2594e63c8ac11e89235.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+[root@localhost ~]# uname a
+Linux localhost. localdomain 3.10.0-1160.119_1_e17_x86_64 #1 SMP Tue Jun 4 14-43-51 UTC
+2024 86 丘泼】 x86_£ 64 3 x86_64 GNU/Linux
+pny

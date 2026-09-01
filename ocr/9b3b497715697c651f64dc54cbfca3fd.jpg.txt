@@ -1,0 +1,9 @@
+# OCR: 9b3b497715697c651f64dc54cbfca3fd.jpg
+# 来源: .\02-WriteUp\2024\9b3b497715697c651f64dc54cbfca3fd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+2024 FIC PURSERSSSE x E 、
++
+localhost webapp]# sh start.sh start
+EEE CIEG EES

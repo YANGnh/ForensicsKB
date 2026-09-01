@@ -1,0 +1,13 @@
+# OCR: 57170af19d1710d92f80104e87a19373.webp
+# 来源: .\02-WriteUp\2025\57170af19d1710d92f80104e87a19373.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+© Dockerfile X
+dujiaoka > # Dockerfile
+1 FROM webdevops/php-nginx:7.4
+COPy . /app
+WORKDIR /app
+RUN [ "sh", "-c", "composer install --ignore-platform-reqs“ ]
+RUN [ "sh", "-c", “chmod -R 777 /app" ] “ 磁 公 众 号 - 金 星 路 406 取 证 人
+u 一 山 M

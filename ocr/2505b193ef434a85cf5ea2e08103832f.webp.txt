@@ -1,0 +1,10 @@
+# OCR: 2505b193ef434a85cf5ea2e08103832f.webp
+# 来源: .\02-WriteUp\2025\2505b193ef434a85cf5ea2e08103832f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+NoahTie@LAPTOP-H91IARRE ~
+> curl http: //192.168.137.108/passWord_coLLector 一 output ./password_collector
+% Total % Received % Xferd Average Speed Time Time Time Current
+Dload Upload Total Spent Left Speed
+100 4818k 100 4818k 。 6 6 6655k 6 一 i tr 655k

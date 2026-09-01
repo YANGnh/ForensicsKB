@@ -1,0 +1,60 @@
+# OCR: 9b1689a7519ced85dd901e050339dd5d.jpg
+# 来源: .\02-WriteUp\2024\9b1689a7519ced85dd901e050339dd5d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+G2 芸 SRI
+enf863dp1ifi3fos7bpduynny
+enf863dp1ifi3ffos7bpduynny
+aqceyadribrajq8bpuk89wrtuw
+aqceyadrxbrajq8bpuk89wrtuw
+aqceyadrxbrajq8bpuk89wrtuw
+enf863dp1ifi3fos7bpduynny
+aqceyadribrajq8bpuk89wrtuw
+aqceyadrabrajq8bpuk89wrtuw
+aqceyadribrajq8bpuk89wrtuw
+enf863dp1ifi3ffos7bpduynny
+aqceyadrxbrajq8bpuk89wrtuw
+aqceyadrxbrajq8bpuk89wrtuw
+aqceyadribrajq8bpuk89wrtuw
+aqceyadrxbrajqSbpuk89wrtuw
+enf863dp1ifi3fos7bpduynny
+aqceyadrxbrajq8bpuk89wrtuw
+user_id,message, create_at
+message create_at
+gat joined the channel.
+maoxueliu added to the channel by gxyt.
+SIS LaaSORe
+ADCAST 30, BREE
+ADEE EA See
+SRVEA SRR
+玖 BEREICSHSIRE In 蛇
+THUR
+RETR NT SH20808-
+ATT, RNR
+Rees RMS
+ARESBSRETiu BREE
+RRNA
+E
+技 H 一 E
+b 28XNCEANLIST, MEST
+E
+“Post™ WHERE channel_id = ‘yq5zql4mg7fdpyagpxtscydtjw' ORI
+1713931168391
+1713981187950
+1713933142391
+1713933218354
+1713933244266
+1713933290693
+1713983455479
+1713933488803
+1713943137725
+1713943197656
+1713943323189
+1713943477827
+1714011353899
+1714011369772
+1714011390454
+1714011890182
+1714011899390
+BY create_at

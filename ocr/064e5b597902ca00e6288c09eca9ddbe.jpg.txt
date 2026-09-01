@@ -1,0 +1,11 @@
+# OCR: 064e5b597902ca00e6288c09eca9ddbe.jpg
+# 来源: .\02-WriteUp\2024\064e5b597902ca00e6288c09eca9ddbe.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+7 xusers @main (data) - 要
+x# Vesa [Eee GS) © Sut 国 R 余 3
+username _pwd_hash pwd ts
+a... €51a22c85223ce70d4647171622808
+2 guest 6081585d639e3cf563acd! 0 7pSIsSEEABQBE
+pass

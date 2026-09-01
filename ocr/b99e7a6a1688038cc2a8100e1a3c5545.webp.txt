@@ -1,0 +1,8 @@
+# OCR: b99e7a6a1688038cc2a8100e1a3c5545.webp
+# 来源: .\02-WriteUp\2024\b99e7a6a1688038cc2a8100e1a3c5545.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+R see
+个 [private/var/mobile/Library/Shortcuts
+Shortcutss...  Spotlight.dat

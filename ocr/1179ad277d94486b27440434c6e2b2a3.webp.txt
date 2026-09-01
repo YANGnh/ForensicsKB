@@ -1,0 +1,7 @@
+# OCR: 1179ad277d94486b27440434c6e2b2a3.webp
+# 来源: .\02-WriteUp\2025\1179ad277d94486b27440434c6e2b2a3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+BB QR Research
+Z IAQ W

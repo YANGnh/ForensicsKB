@@ -1,0 +1,10 @@
+# OCR: 8a8ffaaf505f5fa7c0a347b835807cc6.webp
+# 来源: .\02-WriteUp\2025\8a8ffaaf505f5fa7c0a347b835807cc6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+E
+Bae 2025-05-09 17:43:16
+BEDE: 2025-05-09 18:02:00
+E
+00:18:44

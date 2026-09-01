@@ -1,0 +1,30 @@
+# OCR: 9c95c3515df4433893a547fceec1d4ec.jpg
+# 来源: .\02-WriteUp\2024\9c95c3515df4433893a547fceec1d4ec.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+SEIZIA No. 1 (1D: 0)
+“ & 樵 Don ee ice 赔 弹 amse
+ee Ge
+英 Ieoswe Use ineaon 团 吊 刹
+E
+063,680 bytes = 7.5 GB
+Sector count: 15,728,640
+Bytes per sector: 512
+Bytes per cluster: 512
+Free clusters: 15,677,849 = 100% free
+Total clusters: 15,728,639
+NTFS version: 3.1
+Volume flags: 00080
+‘Serial No.: 242835A4 fhex)
+Serial No,: A4352824 thex, rev)
+‘Serial No.: 2754947108 (dec, rev)
+201 ABIES ES: Drive J
+Examiner: Hong Kong Police Force
+AppVer: XWF 20.2
+(OSVer: Win 10, Buld 19045 (64 bat)
+Acquired on: 2024/08/28d14:24:55
+W 院 SHA25 _CO7B9S7ABB497BBESS065BE93C69434C0185B851E3ERES2: E
+E E
+阮 圆 UTC
+Lest m=O) | | “ 木 EO GREW

@@ -1,0 +1,65 @@
+# OCR: 7de172c05d7a8fc4aa86f8de478478b1.webp
+# 来源: .\02-WriteUp\2025\7de172c05d7a8fc4aa86f8de478478b1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+© tole @main (media.20240601) - #8 - Navicat Premium
+Re 8 SE = wee IR so =m
+RA =, = |
+多 e - 口 =
+= 8 E x
+Tad list
+‘Tad player ref
+国 category
+Ti aut task
+F group
+T group _player_ref
+‘T group_userref
+led_send
+play preset list
+play_preset list content
+play _preset send history
+player
+player attribute
+player_update task
+program
+program _content
+program send
+reserve schedule
+reserve schedule item
+role_permission
+role_user_ref
+scheduling
+scheduling content
+screen_group
+screen_group task
+screen_group task item
+user_attr
+user_ defined
+日 封 吴 张 封 合 张 咤 司 张 合 闹 吴 咤 司 张 哈 司 张 哈 司 弯 哈 司 弯
+a
+oS
+E
+Dyes
+ane
+心 a 心
+咤 Az F “ 二 了 目 “ 岛 F
+E | 月 E 8 EE 。
+N — TBaction log @main (media.20240601)... 四 plyeratibue @main (media.2024.
+rams 团 X# Vow 户 抵 F Ba Gs, © sit Gaara ily eee
+id name state
+招 RSRR 1
+2¢961777-2010-46d8-bt GEAR 1
+See9a3d0-d9e4-43eb-1 FERRER 1
++ 一 ¢
+SELECT *;rowid "NAVICAT ROWID" FROM “main*."role" LIMIT 0,1000
+Be
+‘role @main (media.20240601) - #
+‘TBrole_permission @main (media.2024. @ 日 图
+ee
+1
+ii fia
+\VARCHAR(64)
++ a Hes
+符 1 缘 B 商 03 刹 FHI
+口 口

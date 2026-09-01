@@ -1,0 +1,14 @@
+# OCR: 12720d876e5c59d26ecaeb384294eecc.webp
+# 来源: .\02-WriteUp\2024\12720d876e5c59d26ecaeb384294eecc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+public final boolean a(String str, String str2, List«String> list, List<File> list2) {
+try {
+this.£302a.a(new e(new String(b.b.a.a.a(this.d.getBytes(), "E1@ADC3949BA59ABBE5!
+et] ew e[list.size()];
+for (int i = 0; i < list.size(); i++) {
+0 = new e(list.get(i));
+to.
+‘this.#302a.c(str);
+f er = nee 40);

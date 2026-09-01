@@ -1,0 +1,38 @@
+# OCR: c395fbdbea160ffc37d2c63f477f0c34.webp
+# 来源: .\02-WriteUp\2025\c395fbdbea160ffc37d2c63f477f0c34.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+X86_64; rv:109.@) Gecko/201@@101 Firefox/115.6
+ml;q=6.9,image/avif,image/webp,*/“;q=8.8
+/html,application/xhtml+xml application/
+ccept-Language: en-US,en;q-8.5
+Accept-Encoding: gzip, deflate
+Connection: keep-ali
+Upgrade-Insecure-Requests: 1|
+IHTTP/1.1 401 Unauthorized
+-Authenticate: Basic realm="Authentication"|
+Date: Thu, 22 May 2025 @5:52:10 GMT|
+Content-Length: 6
+Content-Type: text/html; charsetzUTF-8
+86_64; rv:109.@) Gecko/28168161 Firefox/115.6
+ml; q=0.9,image/avif ,image/webp, */*;q=0.
+(X11; Linu
+/html, application/xhtml+xm1, applicatio
+ccept-Language: en-US,en;q=0.5|
+Accept-Encoding: gzip, deflate
+Connection: keep-ali
+8
+Cache-Control: no-cache
+Access-Control-Allow
+Content-Type: t
+Content-Length
+<meta charse utf-87
+<meta content=“8; url i-bin/status.cgi" http-equiv="refresh">
+<meta conten s name="cache-control">
+<title>OpenIPc</title>
+86_64; rv:109.@) Gecko/2@1001@1 Firefox/115.6
+ml, application/xml;q=0.9, image/avif, image/webp, */*;q=0.8|
+/html,applic
+en-US, en;q=9.5|
+ccept-Langu

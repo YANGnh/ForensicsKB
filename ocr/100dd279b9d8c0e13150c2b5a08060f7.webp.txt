@@ -1,0 +1,29 @@
+# OCR: 100dd279b9d8c0e13150c2b5a08060f7.webp
+# 来源: .\02-WriteUp\2024\100dd279b9d8c0e13150c2b5a08060f7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+@ ForensicsTool GUI WorkBench
+tet [ [1] RRERURE, RieypelBs1. 2. 4-7. 15 v]
+42 | (7) SQLCiphersmnanavasme
+file _(F:/BaiduNetdiskDownload/202472{8#f\exports/msg.db)
+password 019019 uin 。 振 佩 用 交 的 uin, ATRESEME, Eshared_prefs/auth_infe
+imei 征 俊 贺 8oIME 命 MEID, Eshared_prefs/DENGTA_ waid SURAT M wid, —Btg St REMZEnMicroMsg.db!
+token “ 野 火 IM 系 应 用 的 用 交 token, shared_prefs/config.xmli device 。 钉 钊 解 安 葛 要 的 内 容 , 通 树 场 zhared prefs/comalibab
+uid 黯 往 ( 振 帕 Echared prefsfimoom| 呸 的 userld 的 临 ) .
+> python C: \Users\Adninistrator\Deskt op\workspace\ForensicsTool\ForensicsTool. py -m 0 -t 13 —-uid
+1836042078413393920
+- fi
+PPT - Y - Y /
+SA NLINLAS
+Author: WKjzc
+GE Sensy. bE
+it tt cannons }<019019>
+[ 河 意 鲁】塞鬣孽s′】Lc】l】}】=【3】'垒1-I′/妥密
+> python C: \Users\Adninistrator\Desktop\workspace\ForensicsTool\ForensicsTool. py -m 1 -t 7 -f
+F: /BaiduNetdi skDownload/ 20247; {a # \exports/msg. db --password 019019
+eR
+IPS Pa)
+cqcmeonspasu 痴 宿 钟 为 019019》
+Hib|—oases MEAD WE Me ESCHER Dace doc db
+Author: 职 jzc

@@ -1,0 +1,74 @@
+# OCR: a7ae09d674ed87c5c187716adb5bb999.jpg
+# 来源: .\02-WriteUp\2024\a7ae09d674ed87c5c187716adb5bb999.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+c
+‘Tmember_account
+‘Tmember_message
+‘Tmaintain_message log
+‘TDmember
+‘Tmember_update record
+‘Tact member ticket log
+‘Tact member ticket
+member balance
+= member_current month
+‘Tmember current
+‘Tums invoice notify log
+‘bonus send record
+‘TDhonus_cale log
+‘Toys role dept
+, on
+。 o o c
+870045
+a
+2576 KB
+31328 KB
+16 KB
+20016 KB
+2576 KB
+16 KB
+16 KB
+2301952
+3600 KB
+6704 KB
+16 KB
+589824 KB
+211680 KB
+16 KB
+80 KB
+E
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+InnoDB
+ae ee
+6523,
+183831
+9
+51766
+34400
+0
+0
+8862915
+16719
+38958
+0
+2183174
+802794
+0
+1469
+St
+2
+E

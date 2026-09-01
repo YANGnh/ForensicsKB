@@ -1,0 +1,29 @@
+# OCR: 122b02311f61162f238135429f5879b8.webp
+# 来源: .\02-WriteUp\2025\122b02311f61162f238135429f5879b8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+详 细 信 息
+名 称 ; .env
+扩 展 名 : env
+类 型 : 文 件
+大 小 , 897 B
+创 建 时 间 : 2025-11-04 19:00:44
+访 问 时 间 : 2025-11-04 19:00:59
+修 改 时 间 : 2025-11-04 19:00:44
+元 数 据 地 址 : 804045
+全 路 径 : ubuntu-vg(xhFfBs-aYYf-FQoD-0CDc-2wpP-5119-2sGheB)/ 分
+meee: 未 加 密
+已 券 除 : 否
+区 0/home/langflow/.env
+原 类 型 视 图 文 本 视 图 十 六 进 制 视 图
+PAGE ZOOM HIGHLIGHT @
+LA ANGELOM "HEALTH. CHECK MAI  RETRIES= 5
+LANGFLOW_HOST=0. 0. 0. 0
+LANGFLOW_LANGCHAIN_CACHE=InMemoryCache
+LA ANGELO, | MAX_FILE_SIZE_UPLOAD=10000
+LANGFLOW Me \_TEXT_LENGTH= 1000
+LANGFLOW_LOG_LEVEL=info
+LANGFLOW_STORE_ENVIRONMENT_YV: ARIABLES=True
+LANGFLOW_WORKER_TIMEOUT=60000
+LANGFLOW_WORKERS=3

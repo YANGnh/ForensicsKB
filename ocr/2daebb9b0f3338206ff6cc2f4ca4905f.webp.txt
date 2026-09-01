@@ -1,0 +1,12 @@
+# OCR: 2daebb9b0f3338206ff6cc2f4ca4905f.webp
+# 来源: .\02-WriteUp\2024\2daebb9b0f3338206ff6cc2f4ca4905f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+G /tmp/ 202480 UE H+ A \session —-password S-1-5-21-2119920595-1839877 101-3701 769345-500
+Author: Wize
+SRYSI3I5 | 18.55.213.79 | 2178 | Sctauiqars. 0
+Test#j1b@001
+CcTalk | 192. 168.8178 | 12849
+仪
+E

@@ -1,0 +1,21 @@
+# OCR: a8f256773a5c106188f387c71ad2f877.webp
+# 来源: .\02-WriteUp\2024\a8f256773a5c106188f387c71ad2f877.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+5 Tym @main (vos) - 裂
+Qress 国 Pae ae Cosa [ s Ramen oh eae
+id E rom info ‘env info default env info property info create at update at *
+5 1 d38fe5%a3cdee883 Fguestrienyeri ("android d":"52ae067768e0 ("android id”:"5a163590b9#635","b ("customBatteryLe 2024-05-17 03:35:46 2024-05-17,
+> 6 2 2824fed37b89b122 —Xposed’itrue) _("android id':"a358287fed7f1 (‘android id':"d6*4fe03b8411fa3","be {"customBatteryle 2024-05-20 08:44:29 2024-05-2¢
+〈 、
+1 {"guestSystemVersion”:"ANDROID_7", "halver”:2, "hasGooglePlay": false, "hasRoot”:false, "hasXposed”:false,"isMultiInstance” :true,"minéngineVersion™:211,"nsdk”
+rtrue,"requiredéngineType” :"YLINKER™, “roaVersion" :10399, "supportAbis":"ara,arn64", “supportAccelerationSensorPenetrate”:true,"supportadb":true,
+‘supportaudioPenetrate” : true, "supportautoBootAppHanager: true, "supportatteryPenetrate”: true, "supportCameraPenetrate”:true, "supportChangellavigationBar”
+true,"supportClipboardPenetrate” :true, "support Edxposed” : true, "supportFilesExchange”: true, "supportFullUpdate” : true, "supportGooglePlay":true,
+“supportGpsPenetrate” :true, "supportGravitySensorPenetrate” : true, "supportGsmPenetrate” : true, "supportGyroScopeSensorPenetrate”:true,
+“supportHumiditySensorPenetrate” :true, "supportLightSensorPenetrate” :true, "supportLocationinfoPenetrate” : true, "supportagneticrieldSensorPenetrate”:true,
+“supportNetworkProxy” : true, "supportNotificationPenetrate” :true, "supportOrientationSensorPenetrate” :true, "supportPartUpdate™:true, "supportPreloadedapp"
+‘true, “supportPressureSensorPenetrate”: true, "supportProximitySensorPenetrate” : true, "supportRoot”: true, "supportSensorPenetrate”:true,
+“supportStepCounterSensorPenetrate”: true, "supportTemperatureSensorPenetrate”: true, “supportVibratorPenetrate” :true, "supporthifiPenetrate” :true,
+“supportxposed" : true}

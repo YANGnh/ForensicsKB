@@ -1,0 +1,8 @@
+# OCR: bcce7a370501a39066bfbd843b8e51e3.jpg
+# 来源: .\02-WriteUp\2024\bcce7a370501a39066bfbd843b8e51e3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+M E <ENote 8
+RDP 呢 asa 206.238.220.147:3389 (Administrator)
+一

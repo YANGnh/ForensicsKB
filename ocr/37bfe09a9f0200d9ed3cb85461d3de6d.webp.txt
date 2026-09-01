@@ -1,0 +1,20 @@
+# OCR: 37bfe09a9f0200d9ed3cb85461d3de6d.webp
+# 来源: .\02-WriteUp\2025\37bfe09a9f0200d9ed3cb85461d3de6d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+团 W2025 数 RJ 裙 || lott 刀 [> 运 5 - 一 你 L Pome
+1 SELECT
+2 SUM(CASE WHEN b.Content LIKE “% 小 %,THEN ELSE @ END) / COUNT(*) AS small_bet_ratio
+3 FROM t_trade_betrecord b
+4 JOIN t_lottery_jnd j ON b.Issue = j.Issue
+5 WHERE b.Keeper = '188'
+6
+7
+8
+AND b.LotteryType = 'jnd28"
+AND 于 R_B_M =“ 大 「
+AND DATE(b.CreateTime) = '2021-05-10';
+信 息 “ 摇 要 “ 结 果 1 剖 枪 RS
+small bet_ratio Re
+» 0.4488 公 众 号 . 小 谢 取 证

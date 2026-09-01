@@ -1,0 +1,28 @@
+# OCR: 16a88e5bc94e7b2fa99f7e0331240ee1.webp
+# 来源: .\02-WriteUp\2025\16a88e5bc94e7b2fa99f7e0331240ee1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+PFunSet @ HttpStateUseTool @ JnicallNative AesEncryptUseUtils
+package q2foq.i9clx. z0hfr.SetTool. ToolUse. PurposeUse;
+import javax.crypto.Cipher3
+import javax.crypto.KeyGenerator;
+import javax.crypto.spec.SecretKeySpec;
+import q2foq.i9clx,z0hfr.SetTool ToolUse.ConfigDataSetUse.Base64UseTool;
+八 Loaded from: D:\ 芬 李 震 历 厂 网 仁 穿 奂 绑 劣 二 原 厝 业 友 能 英
+public class AesEncryptUseUtils 国
+private static final String ALGORITHMSTR = “AES/ECB/PKCS5Padding";
+public static final String EKEY = IgY9@ASKNOxjrvaF f90vvicXXEiHaSPxvwwOSIRJ2vM=";
+public static final String KEY =
+痴 广 社 数 排 外 沃 分 扬 痴 矿 , 箱 播 \ 之 尔 g2fog.i9cLx.z0hfrtcooRte_68489
+public static String encrypt(String str, String str2) throws Exception {
+KeyGenerator.getInstance("AES") .init (128) ;
+Cipher cipher = Cipher.getInstance(ALGORITHMSTR) ;
+cipher.init(1, new SecretKeySpec(str2.getBytes(), "AES"))3
+return Base64UseTool.encodeBase64String(cipher.doFinal(str.getBytes (“utf-8“))):
+]
+public static String decrypt(String str, String str2) throws Exception {
+KeyGenerator.getInstance("AES").init (128);
+Cipher cipher = Cipher.getInstance(ALGORITHMSTR) ;
+cipher.init(2, new SecretKeySpec(str2.getBytes(), "AES"))5
+Peturn wae Strieei cinlor.dorinal (Bacnsakce tobi decodomaccasi ctrl li:

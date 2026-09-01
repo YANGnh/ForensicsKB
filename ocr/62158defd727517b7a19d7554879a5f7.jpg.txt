@@ -1,0 +1,15 @@
+# OCR: 62158defd727517b7a19d7554879a5f7.jpg
+# 来源: .\02-WriteUp\2024\62158defd727517b7a19d7554879a5f7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+卷 wien2>
+EES > 2ASRE> js
+BS =a
+es
+页
+E
+Veh VO ae 口
+口 1
+EthernetO Intel(R) 82574L Giga...
+192.168.100.254

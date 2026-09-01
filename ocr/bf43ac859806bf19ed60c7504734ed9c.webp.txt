@@ -1,0 +1,26 @@
+# OCR: bf43ac859806bf19ed60c7504734ed9c.webp
+# 来源: .\02-WriteUp\2025\bf43ac859806bf19ed60c7504734ed9c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+DBA484D2EBD5C8550AB537C4295AC54EBB130707 x
+OO0000000192.168.10.1040000MResource*O 00 http: //192.168.10.1
+DDOODDDD
+DDQaDDDDDDD)p*QDDDD 弼 *DDvDDLOXD
+DDaooaoDtlxaxayD-
+OcLagupeoaooaooaooazaDDOD 惟 DD「gsDDDD+ADODDDhttp://192.
+168.10.104:5003/meeting/meeting DDDDtext/htmIDDDDDDDODDDOD
+OOOOMot FodDDDDDHrrp/1.1DDDDDDDDODODDoateDDDDOFri,
+16 May 2025 14:50:17 GMTQDDDContent-Type 口 DDDtext/html
+OOOO connection
+DODOOkeep-aliveDDODDDContent-
+LengthDDDOD1ssDDDODOServerDDDDCnginx/1.27.oDDDDDDDDOOD
+0obooooooooooooooooooooodoooooooooooooooon
+xDoDQf4DDvDODDOL<N<html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+000,
+<hr><center>nginx/1.27.0</center>
+</body>
+</html>

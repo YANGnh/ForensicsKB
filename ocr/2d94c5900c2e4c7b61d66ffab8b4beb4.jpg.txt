@@ -1,0 +1,12 @@
+# OCR: 2d94c5900c2e4c7b61d66ffab8b4beb4.jpg
+# 来源: .\02-WriteUp\2024\2d94c5900c2e4c7b61d66ffab8b4beb4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+Sl R R SSL 。SSH 。Hne
+Navicat nee
+[112 MySQL
+E [192.168.100.112
+E 13306
+ARE root
+=e:

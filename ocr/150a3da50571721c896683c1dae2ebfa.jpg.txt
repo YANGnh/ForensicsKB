@@ -1,0 +1,7 @@
+# OCR: 150a3da50571721c896683c1dae2ebfa.jpg
+# 来源: .\02-WriteUp\2024\150a3da50571721c896683c1dae2ebfa.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+E
+ee 日 日 干 hae

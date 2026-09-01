@@ -1,0 +1,9 @@
+# OCR: d09ac266ff019181a447490929f62eec.jpg
+# 来源: .\02-WriteUp\2024\d09ac266ff019181a447490929f62eec.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+XK PROXMOX virwal environment 8.1.4
+Server View ® Nod
+= Datacenter
+Eb pve Q

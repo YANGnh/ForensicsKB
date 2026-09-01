@@ -1,0 +1,10 @@
+# OCR: 417cb4e994568fecc11b620202d5ddbe.jpg
+# 来源: .\02-WriteUp\2024\417cb4e994568fecc11b620202d5ddbe.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+卯 wenzitem> © chromenaa> 尺 E
+Gems =eRur =e E
+E 4 R
+口 1 httpy/192.168.85:18888/
+口 2 hetpy/192.168.8.5/cgi-bin/uci/ root hi@7001

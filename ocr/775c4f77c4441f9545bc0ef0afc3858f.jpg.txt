@@ -1,0 +1,39 @@
+# OCR: 775c4f77c4441f9545bc0ef0afc3858f.jpg
+# 来源: .\02-WriteUp\2024\775c4f77c4441f9545bc0ef0afc3858f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+广 8 。 工 孕
+ER: Awww/wwwroot/yourcodexyz
+oLR Ch +52 Qe
+〉 kEyebaseet:pjspoujgoppLRexpihtddle14I82ridaqrlzodi4-
+APP_DEBUG=False
+> itp: //yourcode. xyz
+> 曰 app 7 LOG_CHANNEL=stack
+> i bootstrap
+一 数 探 庞 阮 蛇
+> fim config DB_CONNECTION-mysql
+3 DB_HOST=127.0.0.1
+a DB_PORT=3306
+> im public DB_DATABASE-yourcode_xyz
+DB_USERNAME-yourcode_xyz
+> 国 resources DB_PASSWORD-=yTmeRFKFtLxymjgn
+《
+2 e 不 redis 陈 颜
+> 丞 storage REDIS_HOST=127.0.0.4
+REDIS_PASSWORD=
+> fim tests REDIS_PORT=6379
+“ome BROADCAST_DRIVER=log
+目 en SESSION_DRIVER=File
+= SESSION_LIFETIME=120
+envexample
+8 5 一 颖 衍 邹 医
+目 gitattributes # FleNH EI redish ARS!
+E # redisNAG ee Rei redishk Sin ie
+目 itignore 9 CACHE_DRIVER=redis
+Y styleciymi 芸 县 沥 海 恩 刹
+B Dockerfile # Sync 师 咏 步 redis 为 异 步
+干 俭 用 edic 异 步 霁 要 安 袁 好 edis 胺 务 涛 益
+B LICENSE (QUEUE_CONNECTION=redis
+B artisan 区
+Po ES s

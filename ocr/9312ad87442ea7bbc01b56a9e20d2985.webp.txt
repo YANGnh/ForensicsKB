@@ -1,0 +1,29 @@
+# OCR: 9312ad87442ea7bbc01b56a9e20d2985.webp
+# 来源: .\02-WriteUp\2025\9312ad87442ea7bbc01b56a9e20d2985.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+: Ouncompyle6 encrypt jpg. pyc
+H# uncompyle6 version 3.9.2
+# Python bytecode version base 3.7.0 (3394)
+H# Decompiled from: Python 3.7.0 (v3.7.0: 1b£9cc5093, Jun 27 2018, 04:59:51) [MSC v. 1914 64 bit (AND64)]
+十 Embedded file name: encryptjpg. py
+import base64, os
+def encrypt_ipg():
+jpg_files = lt for 王 in os. listdir() if f. lower(). endswith(". jps”)]
+if not jpg
+print (7 Saabs RB 没 有 找 到 JPG 文 件 ! “
+return
+for input_file in jpg_files:
+output_file = “ fos. path. splitext (input_file) [0]}_en. jpg”
+with open(input_file, “rb”) as f:
+original_data = f.read()
+b64_once = base64, b6dencode(original_data)
+b64_twice = base64. bédencode (b64_once)
+bit_reversed_data = bytes([byte “ 255 for byte in bé4_twice])
+with open(cutput_file, “Wb 】 as f:
+f. write(bit_reversed_data)
+print (f” HORE TEAR: {input_file} = {output_file}”)
+if _name_ == “__main_’
+encrypt_ipg ()
+H# okay decompiling encryptjpg. pyc

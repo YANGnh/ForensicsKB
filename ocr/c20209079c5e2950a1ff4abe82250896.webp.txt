@@ -1,0 +1,19 @@
+# OCR: c20209079c5e2950a1ff4abe82250896.webp
+# 来源: .\02-WriteUp\2025\c20209079c5e2950a1ff4abe82250896.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+[root@k8s-nodel ~]# cat /etc/fstab
+#
+# /etc/fstab
+# Created by anaconda on Sat Aug 26 11:03:35 2023
+#
+# Accessible filesystems, by reference, are maintained under '/dev/disk'
+# See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info
+#
+UUID=a9788e71-c336-4668-82fc-f2994dea46b2 / xfs defaults
+UUID=F842c0b8 -a362-480f -8306-ac7c73778ee0 /boot xfs defaults
+杰 JUID=75d8ff3d-fad1-48c6-bef8-6f6f1dadb75e swap swap defaults
+Jwww/swap swap swaps defaults 6 6
+[root@k8s-node1 ~]#
+00

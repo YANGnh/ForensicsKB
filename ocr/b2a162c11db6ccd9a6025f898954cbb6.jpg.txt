@@ -1,0 +1,7 @@
+# OCR: b2a162c11db6ccd9a6025f898954cbb6.jpg
+# 来源: .\02-WriteUp\2024\b2a162c11db6ccd9a6025f898954cbb6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+O s rn
+A 4 a 故 So_eocaree-a

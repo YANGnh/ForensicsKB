@@ -1,0 +1,31 @@
+# OCR: abcd013d1461b6a2dea970e8ae4d2cf4.jpg
+# 来源: .\02-WriteUp\2024\abcd013d1461b6a2dea970e8ae4d2cf4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+[rooteserver ~]# fdisk -L
+Disk /dev/sda: 75.2 GB, 75161927680 bytes, 146800640 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk label type: dos
+Disk identifier: 6x66699847
+Device Boot Start End Blocks Id System
+/dev/sdal 2048 2099199 1048576 83 Linux
+/dev/sda2 2099200 146800639 72350728 。8e Linux LVM
+Disk /dev/sdb: 2143 MB, 2143289344 bytes, 4186112 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk /dev/mapper/centos-root: 48.3 GB, 48335159296 bytes, 94404608 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk /dev/mapper/centos-swap: 2147 MB, 2147483648 bytes, 4194304 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disk /dev/mapper/centos-home: 23.6 GB, 23597154304 bytes, 46088192 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes

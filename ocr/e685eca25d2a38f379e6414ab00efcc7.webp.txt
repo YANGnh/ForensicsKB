@@ -1,0 +1,23 @@
+# OCR: e685eca25d2a38f379e6414ab00efcc7.webp
+# 来源: .\02-WriteUp\2024\e685eca25d2a38f379e6414ab00efcc7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+cdul
+二 sshd_confg
+| Qsshd_config.rpmnew
+4 Dssh_config
+4 Dssh host ecdsa key
+] 固 ssh hostecdsa keypub
+] 口 ssh host ed25519 key
+] 固 ssh host ed25519 keypub
+]Dssh hostrsa key
+] 固 ssh host rsakeypub
+-sk , 口 X 广 回 现 8 +5
+# possible, but leave them commented. Un
+# default value.
+# If you want to change the port on a SELir
+# SELinux about this change.
+# semanage port -a -t ssh_port_t -p tep #P(
+#
+Port 12320

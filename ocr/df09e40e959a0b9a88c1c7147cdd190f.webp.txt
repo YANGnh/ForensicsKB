@@ -1,0 +1,16 @@
+# OCR: df09e40e959a0b9a88c1c7147cdd190f.webp
+# 来源: .\02-WriteUp\2024\df09e40e959a0b9a88c1c7147cdd190f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+public static String ddsx(string str) {
+Object m36d = c.m36d(434) 5
+try {
+Object m36d2 = c.m36d (TypedValues.CycleType. TYPE_CU
+c.m52d(TypedValues.CycleType.TYPE_WAVE_PHASE, m36d2
+Object maad = c.maod(439, c.m38d(438, m36d), m36d2)
+byte[] 国 = c.figpa(240, (Object) str, 2);
+Object m3ad = c.m38d(441, m36d);
+c.d(443, m38d, c.d(442), m40d);
+return (String) c.d(445, c.m64d(444, m38d, )
+) catch (Exception unused) {

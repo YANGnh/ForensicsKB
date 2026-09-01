@@ -1,0 +1,29 @@
+# OCR: 30f126b51cf1fa6115b8ac38e160f488.webp
+# 来源: .\02-WriteUp\2024\30f126b51cf1fa6115b8ac38e160f488.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+5
+AdnincrooriRirStU
+一 “ 一 | c:Pregram Files\Common Files\Oracle\ava\javapath az)
+国 = CAStrawberry\c\bin
+GOPATH CAStrawberry\perl\bin #20)
+Path AStrawberry\perl\site\bin
+TEMP CARuby31-x64\bin SB).
+T cAPython27\,
+CAPython27\Scripts Eail
+CAProgram Files\Python310\Scripts\
+Program Files\Python310\
+s6SystemRoot%\system32 +8U)
+S6SystemRoot%
+s6SystemRoot%\System32\Wbem FEO)
+| ESE 248ystemRoot\System32\WindowsPowerShellvi.0\
+CAProgram Files\nodejs\
+E D:\PentestTools\€xploitationTools\Exploit Framework\Metasploit\metasploit-framework\bin\ RAM.
+CLINK_DIR CAProgram Files\dotnet\
+‘ComSpec CAProgram Files\Vava\idk-11\bin
+DriverData DABandizip\
+NUMBER_OF PROCESSORS | p:\PentestTools\Web Applications\Web Applications Proxies\BurpSuite V2022.8.4\jre-8u202-windows-x64\jre1 8.
+| Jos
+Path CAProgram Files\Git\emd
+PATHEXT C:\Program Files\Go\bin

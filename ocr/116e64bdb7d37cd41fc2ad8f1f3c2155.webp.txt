@@ -1,0 +1,47 @@
+# OCR: 116e64bdb7d37cd41fc2ad8f1f3c2155.webp
+# 来源: .\02-WriteUp\2024\116e64bdb7d37cd41fc2ad8f1f3c2155.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+23 2024/08/23 00:03:02.
+24 2024/08/23 00:03:02.
+25 Start:
+26 Version:
+27 Version short hash:
+28 ID:
+29 Loglevel:
+30License:
+31 IC:
+32 CPU:
+33 CPU extensions:
+3400S:
+35 IP:
+36MID:
+37 MIDv:
+38 Proxy-Settings:
+39IE
+40 AppPath:
+41 UserAccount:
+42
+a ee er eee
+691 9208 4100 SO
+790 9208 4100 S0
+2024/08/23 00:03:02.767 (UTC-7:00)
+15.55.3 (64-bit)
+65211090fce
+0
+Info
+0
+-1189461294
+Inte164 Family 6 Model 183 Stepping 1, GenuineIntel
+19
+Win_10.0.19045_W (64-bit)
+192.168.182.128
+0x000c2964d3a0_1d5acdec86241be_3196037202
+0
+Type=1 IP= User=
+11.3636.19041.0
+C:\Program Files\Teamviewer\TeamvViewer_Service.exe
+SYSTEM
+DesiredServices: waiting for ser
+ee ‘seed Scere eat i a a

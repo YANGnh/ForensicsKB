@@ -1,0 +1,6 @@
+# OCR: cf25284b5ebd9888a9886bd7a616f052.jpg
+# 来源: .\02-WriteUp\2024\cf25284b5ebd9888a9886bd7a616f052.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+root 1700fc66'

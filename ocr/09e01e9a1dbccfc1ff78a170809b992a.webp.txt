@@ -1,0 +1,24 @@
+# OCR: 09e01e9a1dbccfc1ff78a170809b992a.webp
+# 来源: .\02-WriteUp\2025\09e01e9a1dbccfc1ff78a170809b992a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+public final byte[] RESBG4EREFYBE(byte[] barr) {
+try t
+vreturd] nativeaeSbe4encrypt(bArr)s
+} catch (Errore
+return null;
+} catch (Exception e2) {
+return null;
+1
+1
+public final String (String str, String str2) {
+if (str == null | str.length() <= 0 || str2 == null) {
+return null;
+1
+try {
+byte[] (str. getBytes(str2));
+return null ? new String(RESBG4ERerYpE, str2) : null;
+} catch (Exception e) {
+return null;
+1

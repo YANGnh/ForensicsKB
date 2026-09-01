@@ -1,0 +1,14 @@
+# OCR: b11fdd48300e7b2cbaf00f68686ff004.jpg
+# 来源: .\02-WriteUp\2024\b11fdd48300e7b2cbaf00f68686ff004.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+Pb vm-112-disk-0.qcow2 , Mdocker > HH docker > 品 云P
+2 一 HAEW RSEHEIAA3 = SHR E H
+E Vv Be 口 we VY (we 史 we Y wa VY we VY tae V
+口 1 adaaeB%e3acdec3df4... reds redis-web redis-server Running 3
+a: =
+bridge
+mysql-web mysqld
+Running
+bridge

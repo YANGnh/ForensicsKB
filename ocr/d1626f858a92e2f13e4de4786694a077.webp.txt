@@ -1,0 +1,54 @@
+# OCR: d1626f858a92e2f13e4de4786694a077.webp
+# 来源: .\02-WriteUp\2025\d1626f858a92e2f13e4de4786694a077.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+Z “ 。 人 一
+oe
+i
+资 源
+V JFFS2-ROOT
+v root
+v etc
+V dropbear
+= dropbear_ecdsa_host_key
+= dropbear_rsa_host_key
+= known_hosts
+© network \interfaces.d
+与 eth0
+V webui
+芸 backupconf
+芸 fw_envcconfig
+$ passwd
+$ passwd-
+= shadow
+= shadow-
+v root
+与 ash_history
+HE password txt
+= frpc
+与 frpcini
+= password.txt
+© var\lib\seedrng
+= seed.credit
+= crond.reboot
+> work
+ONAN a un 丘 山 b 巳
+巳 巳 巳 人 巳 一
+0 D 一 山 b 巳 日
+世 fpcin X
+root > root > = frpcini
+[common]
+server_addr = 120.24.195.227
+server_port = 7000
+privilege_token = jklasdmn123
+[ssh]
+type = tcp
+local_ip = 127.8.8.1
+local_port = 22
+remote_port = 6000
+[rtsp]
+type = udp
+local_ip = 127.0.0.1
+local_port = 554
+remote_port = 30000

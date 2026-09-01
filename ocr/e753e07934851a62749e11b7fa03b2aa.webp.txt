@@ -1,0 +1,9 @@
+# OCR: e753e07934851a62749e11b7fa03b2aa.webp
+# 来源: .\02-WriteUp\2024\e753e07934851a62749e11b7fa03b2aa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+国 RRBBR (463/35) X  imagezip (590707/0) X
+endlocalsend app Q , 国 为 6 月 自 RE 。 g 深 I
+WR > HS - E - E E E
+ogloaltendloaltend spp LocalSend d

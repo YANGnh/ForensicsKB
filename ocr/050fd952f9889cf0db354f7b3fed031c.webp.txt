@@ -1,0 +1,62 @@
+# OCR: 050fd952f9889cf0db354f7b3fed031c.webp
+# 来源: .\02-WriteUp\2026\050fd952f9889cf0db354f7b3fed031c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+尽 卤 , 四 止 东 颜 人 @ © >a ly 莲 | 国 | 一
+zui 《 昌 AppStatus
+dc.squareup
+JSUtil JsONUtil Md5
+AppRuntime (©, BaseInfo
+NetTool (©, HashUtils
+import 10.acToua.common.bninterrace. LUN instancemgr;
+import io.dcloud.common.DHInterface.IMebvien;
+import io.dcloud.common.adapter.io.DHFile;
+dcloud import io.dcloud.common.adapter.ui .AdaUnihebVien;
+application import io.dcloud.common.adapter.ui.webview.DCWebView;
+©, DCloudApplication import io.deloud. common. adapter. util .AndroidResources;
+©, DCLoudApplicationImp1 import io.deloud. common. adapter .util.EventActionInfo;
+base import io.dcloud.common.adapter.util.Logger;
+: 5 import io.dcloud.common.adapter.util .Platformutil;
+@ BuildConfig import io.dcloud.common.adapter.util.SP;
+@ R import io.dcloud.common.constant.AbsoluteConst;
+common import io.dcloud.common.core.ui.TabBarWebview;
+DHInterface import io.dcloud.common.ui.PrivacyManager;
+adapter import io.dcloud.common.ui.blur.DCBlurDraweeView;
+constant import io.dcloud.common.util.BaseInfo;
+core import io.dcloud.feature.internal.sdk.SDK;
+cs import java.io.File;
+import java.io.FileInputStream;
+util impart java.io. FileNotFoundException 3
+import java.io.InputStream;
+db import java.lang.reflect.InvocationTargetException;
+emulator import java.lang.reflect.Method;
+hostpicker import java.util.ArrayList;
+language import java.util.HashMap;
+net import java.util.Iterator;
+© $$Lambda$AppRuntime$_ZSq3SuXcfKmm3)n1 a 3
+ui
+© 绍 Lambda$AppRuntime$i0siCkjBhiP8W7HUf ong-json-JSONObject;
+ADUtil
+S citae * Loaded from: classes.dex */
+仪 R 5 2| public class AppRuntime {
+@ AppConsoleLogutil private static int sBatteryLevel = 100;
+©, AppPermissionUtil private static int sTemperature = 20;
+口 AppRuntime private static String sUniStatistics;
+, Appstatu
+© AppStatusBarManager public static void applyWebViewDarkMode(final Context context, final WebView webView) {
+@ AppStreamltil 【 nclacsie-delaudconnos td . ABRUREEIE. 2
+©, ArrayUtil Eoverride // Java.Lang.RunnabLe
+. 3 1
+5 : public void run() 《
+鳄′'入SS:LStIr]_:)L」tLJt:L二[ E if (Build.VERSION.SDK_INT >= 29) 《
+@ Base64 2 if (MebViewFeature.isFeatureSupported(“FORCE_DARK“)) 《
+@ BaseInfo 3 if (AppRuntime . getAppDarkMode(context)) 《
+©, Birdge 4 WebSettingsCompat. setForceDark(webView.getSettings(), 2);
+©, BuildProperties } else {
+©, CheckSignatureUtil 6 NebSettingsCompat.setForcepark(webView.getSettings(),6);
+©, CompressUtil ]
+©, CreateShortResultReceiver ]
+@ Custompath 9 if (MebViewFeature.isFeatureSupported(MebViewFeature.FORCE_DARK_STRATEGY)) 《
+16 MNebSettingsCompat.setForceparkStrategy(webView.getSettings(),1)3
+禹 DataUtil 目

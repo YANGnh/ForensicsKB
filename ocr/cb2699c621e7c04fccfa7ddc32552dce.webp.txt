@@ -1,0 +1,18 @@
+# OCR: cb2699c621e7c04fccfa7ddc32552dce.webp
+# 来源: .\02-WriteUp\2025\cb2699c621e7c04fccfa7ddc32552dce.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+5 5048 2025-05-16 15:18.53 。 2025-05-16 15:1853 PC.E01/431X6/Users/admin/Pictures/desktop ini
+详 细 信 息 & 口
+仪 破 ,11png 原 类 型 视 国 文 本 视 图 十 六 进 制 视 国
+EZ: png
+se: 文 件
+Aus: 99.26 KB
+创 建 时 间 : 2025-05-19 21:30:46
+WATE: 2025-05-19 23:34:08
+惟 改 时 间 : 2025-05-19 21:30:44
+MetaAddr: 37574
+全 路 余 : PCE01/ 分 区 /Users/adminyPictures/11.png
+meee: 未 抚 康
+cae: 否

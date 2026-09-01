@@ -1,0 +1,16 @@
+# OCR: a02a4cd2e80bf9cdb84cf2866331bbb6.webp
+# 来源: .\02-WriteUp\2025\a02a4cd2e80bf9cdb84cf2866331bbb6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+“ Frame 8888: 105 bytes on wire (848 bits),185 bytes captured (848 bits) on interface \Device\NPF_{3257397C-8319-4198
+Section number: 1
+> Interface id: 8 (\Device\NPF_{3257397C-8319-4190-BDB5-E198ECC8DA@3})
+Encapsulation type: Ethernet (1)
+Arrival Time: Sep 17, 2025 11:28:40.646104000 中 国 标 准 时 间
+UTC Arrival Time: Sep 17, 2025 @3:28:40.64610490@ UTC
+Epoch Arrival Time: 1758879728.646184880
+[Time shift for this packet: 8.888888888 seconds]
+[Time delta from previous captured frame: @.0@@5970@@ seconds]
+[Time delta from previous displayed frame: @.0@05970@@ seconds]
+[Time since reference or first frame: 58989.988948880 seconds]

@@ -1,0 +1,38 @@
+# OCR: b0d2b8512bce42a6edf50fe3bd4c60b6.webp
+# 来源: .\02-WriteUp\2025\b0d2b8512bce42a6edf50fe3bd4c60b6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+File Edit Select Find View Format Scripts Templates Debug Project Tools Window Help
+Bes Big 国 寡 }hROC SEHD FSB
+76 86 A7|07 SD 81 70/23 AF 67 A6|25 EF EE DO [lvt§.J.p# gi%iiD
+0:0010 02 47 18 CD 10 1C OF 8B E9 6B 8C BDDC F4 Al 7F .G.1... <ékEHUG;.
+68 09 31/83 96 8 45 CA 44 AC 6E B7 27 A6 BF wh.1f-.E€
+6E DO 76/53 21 1A 88 58 FA CE AA 8D 99 C7 4D UnBvS!
+78 90 18 FD 47 98 8A CF 7C 54 46 AO BF 7D EB
+B1 EB FD 2F 60 8 61 DC CD 67 CE 68 84 OC 2A
+9F 4C AB 6C 9F D9 54 27 31 DO 3 C D3 BB 35
+7D 23 71/23 D1 51 SE 5B 62 30 84/CC FA 36 1C d}#qaiiQr[bo,,1u6.
+11 CF A8 51 72 8D 88 2 3D 42 24|4 EC 7A 7E , 心 r 余
+SD F1 96 吊 8 32 95 A9 45 60 03 D8 60 4F AG an caz.ee ..eol
+29 9A 20|09 74 4F EC 97 09 82 8D /BC AB 29 BF
+印 BB CO FF B8 F2 FF 84 38 DD EA Fa 4A DD 81
+19 75 F 臼 A6 AD 94 FE 05 OE B2 OF 25 31 95
+50 2B 99 6A EF EA FD 2C 08 52 14/28 BI 35 94
+85 BA DA 2E 3D 98 D3 6E 11 05 F906 DD 69 At
+BC 7C 15 9F 28 71 80 B3 3B CO 80 A7 7F 63 97
+DD 57 F418 29 D3 2E E2 71 73 08 7B 8F 2E 8
+74 40 EE BA F8 CD D3 9B 97 E6 69/80 31 F3 切 .tei°oid»—zi€ids
+£8 95 E4 限 SE 17 01 48 BC 6F SC ED 8 3E BB Z8+A0A. .HKo\i.>»
+50 9D 52/63 08 80 4B 4A 74 36 DA BA F3 65 89 ~P.Rc.€KJt6U"Ge%
+id? CM
+yOrStITE cre
+24 EE 8A/3B FC E2 04 03 76 14 OE C1 12 05 74 v.A.Ot
+> X Inspector +x
+Address value Type value
+Binary 00000001
+Signed Byte 1
+Unsigned Byte 1
+Signed Short 30209
+Re odin 国 国 园 r e 5 医
+Opened file 'C:\Users\NoahTie\Desktop\S280541". Pos: 0 [Oh] Val: 11h Size: 1,048,576 Hex ANSI LIT 。 借 OVR ,

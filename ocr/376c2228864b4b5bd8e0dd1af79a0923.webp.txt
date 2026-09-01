@@ -1,0 +1,40 @@
+# OCR: 376c2228864b4b5bd8e0dd1af79a0923.webp
+# 来源: .\02-WriteUp\2025\376c2228864b4b5bd8e0dd1af79a0923.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+02
+10 ff Token: 0x02000031 RID: 49
+1 public class \ul2F5S¢3¢ 4) 2 \uFFFD SAK a6 3 \uABEF HM \ul 05008 +8 aT > OM \u2408 HB Bul DOAB HE \UFIBTALS # “beg SNE \u2013
+E
+园 国
+13 ff Token: 0x1700002C RID: 44
+4 7 (get) Token: 0x06000009 RID: 211 RVA: Qx0000609F File Offset: 00000423"
+15 public string 国 国
+16 《
+17 get
+et
+19 return “Internet Explorer”
+20 1
+弯 。
+22
+23 ff Token: Ox060000D4 RID: 212 RVA: Ox00006048 File Offset: 0x00004248
+24 public IEnunerable<J@ 9H 9? \uF219\uFFFD\u228AR4 22M \uB58332 $8.5 SH BIS L\uIBF9> ReadAccounts()
+25 t
+0 List 688 Oh 2.n\oR2 10) oRRRD\n22R ORE SEN RRO AROK ER MIRED I RROS Tint = none Tint COND M8210) oRRRN 270 ABR SAM RE OC
+00% ||
+\pplicationName Owl wz: + LETS E
+| ae Y] EaxJ 三 门 EBEERRS 门 ag
+F ApplicationName 3 \u260388 218 \u4DD0\u1 BOABEB\uESABH \uEESFRT uE7AA\uFFFDIE GEESE
+F ApplicationName 仁 ayyeSupCRtHHHRisnRiREinutporur
+# ApplicationName 43 \uF3495ER2t82\uE3653%\ uFEG2\u23D98 = \uFFOSUERES = \uFFFDA
+F ApplicationName 4s SEI 205 1H LASER THEERES ZH \u2 1 BEERS \u21BE\UFSC
+F ApplicationName 3 332 u24E0B5 8 \u2034\ uF630757@4 B\ 1 B6ARITo\uEGAC\uATECKE\UFFFDS
+ApplicationName 43 3 Q\uFE26~ \uFFFD\uE3F9\uEED7 78\uE006 a \u0888 \uECF Ra’ 38\ uFA36r
+F ApplicationName 3 \uFFFD SHEER u203 CHRO OSRSERLIIEE| UEBOR UEFA
+F ApplicationName 3 \u02FS E523 S \uFFFD SEER uABEPSA\u 180500858
+F ApplicationName 仪 WoneeravepsufeC7SioRuzeso:esiutoosgnshuay
+F ApplicationName 3 B)B\u244D\uFFFDRERYS BERSEE, \uOCAO Tce UFFFDIREE
+F dpplicationName 3 28> 8,1 28F FOB eHEO\UFFFDR \uFFFDIRE EAR:
+ApplicationName 90 2F\u2488 BR <i U\u1 DOAS A\ur3B7 AL Hb \uEgSS#S\u2013\uFFF
+7T $e \u33FB @\uEGADST A Se ss aniagrurnnrurrrnl

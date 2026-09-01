@@ -1,0 +1,11 @@
+# OCR: 1c026d455cd150f1f733d1dff32f7822.jpg
+# 来源: .\02-WriteUp\2024\1c026d455cd150f1f733d1dff32f7822.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+E
+心 a
+a
+saat
+s
+me @

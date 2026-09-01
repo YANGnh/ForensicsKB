@@ -1,0 +1,53 @@
+# OCR: e0223d186896427191b566e25765671d.webp
+# 来源: .\02-WriteUp\2025\e0223d186896427191b566e25765671d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+public Object #-@@>#handleLogin(Object functionObject, Object newTarget, LoginPage this) {
+asyncfunctionenter = asyncfunctionenter()
+try {
+this.errorMessage = ""s
+if (this uiabilitycontext -- false) (
+‘this.errortiessage = "KALE TSHR» JORIMTHIE's
+hilog - import { default as hilog } from “Gohos:hilog"s
+hilog.error(_lexenv 0.0, “LoginPage", "Context is not available for password operation
+pronptaction - inport { default as pronptaction ) from “Qohos:promptaction"s
+obj - promptaction.showToasts
+0bj2 - createobjectuithbuffer(["nessage", 6
+obj2.message - this.errortessages
+bj (0bj2)3
+return asyncfunctionresolve(null, asyncfunctionenter) ;
+‘this.passwordInput ? 1: 8 != 0) {
+promptaction2 = import { default as promptaction ] from "@ohos:promptaction"s
+‘0bj3 = promptAction2.showToasts
+obj = createobjectwithbuffer(["message”, 0])5
+obj4.message = this.errorMessages
+0bj3(0bj4) 5
+return asyncfunctionresolve(null, asyncfunctionenter)
+‘aaynefunctionenter
+TP Casynctinctionenter T= 0
+try
+router = import { default as router } from “Gohos:router"s
+suspendgenerator (asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, router. pushUrl createobjectwithbuffer(["url", “pages/tiotepadPage
+resumegenerator = resumegenerator asyncfunctionenter);
+if ((1 == getresumenode(asyncfunctionenter) ? 1: 0) != 0) {
+asyncfunctionenter = resunegenerators
+‘throu(asyncfunctionenter);
+)
+) catch (Exceptionro unused) {
+‘bj5 - asyncfunctionenter;
+hnilog2 = import { default as hilog } from “Qohos:hilog"s
+hhilog2.error(_lexenv e “LoginPage”, "Failed to navigate to tlotepadPage
+this.errortessage = 颂 阮 货 , + obj5.messages
+pronptaction3 - import { default as promptaction ) from “Gohos:promptction"s
+0bj6 - pronptAction3. shouToast;
+0bj7 = createobjectwithbutfer(["nessage", 6
+0bj7.message - this.errortessages
+2b}6(0bj7);
++ objS.message +
+promptaction ] from “@ohos:promptaction"s
+‘0bj8 = promptAction4.showToasts
+obj9 = createobjectwithbuffer(["message”, 0])5
+obj9.message = this.errorMessages
+0bj8(0bj9) 5
+‘this.passwordInput =

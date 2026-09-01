@@ -1,0 +1,12 @@
+# OCR: 437ba3c25a1ff207b25ea73d00f658e0.webp
+# 来源: .\02-WriteUp\2025\437ba3c25a1ff207b25ea73d00f658e0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+A
+public override string
+1
+eet
+1
+return “Yandex”
+1

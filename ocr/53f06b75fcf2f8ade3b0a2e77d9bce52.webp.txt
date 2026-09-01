@@ -1,0 +1,23 @@
+# OCR: 53f06b75fcf2f8ade3b0a2e77d9bce52.webp
+# 来源: .\02-WriteUp\2025\53f06b75fcf2f8ade3b0a2e77d9bce52.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+POST /login.jsp HTTP/1.1|
+Content-Lengt
+Cache-Control: m
+Origin: http://192.168.8.38:8686
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests:
+illa/5.@ (Windows NT 10.0;
+巳
+Min64
+Accept-Language
+Connection: keep-alive
+: Apache-Coyote/1.1
+et-Cookie: ]SESSIONID=14E2F78867777D8EC6447
+Set-Cookie: rememberMe=deleteMe; Path=/; Max-Ag
+Location: (/SISCEGES CSC OTST TP ARISRSEU TER UE
+Content-Length: 6
+Date: Wed, 14 May
+2025 08:24:58 GMT

@@ -1,0 +1,16 @@
+# OCR: 57aa507c5909a660f0bce2e4ff5b866a.jpg
+# 来源: .\02-WriteUp\2024\57aa507c5909a660f0bce2e4ff5b866a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+/root/data/app/~~MNuVEe19NxyBIPIcjtvvTA==/com_batdu_input -wVcZtdgcE8GPWeWb426qKA==/base_apk
+/root/data/app/~~CMg@vKAzgbyy - scuSZ3kwQ==/tw_nekomimt nekogram--C-5Tr6cbInhwDAItTaVDw==/base_apk
+/root/data/app/~~@MLDQItj37YaLD8Gyop2UQ==/org
+/root/data/app/~~BOLGn9bSgs18FHxk8DzSwA==/com.
+/root/data/app/~~MpHN3PZKGnFKtK6ubzL Suw==/com
+/root/data/app/~~3vs-OZAw@-7fNUHeLO9iKg==/com.
+droid@nodei-~$ []
+-telegram_messenger-SycLDSg6aMczcqx31_v0GQ==/base _apk
+-android_chrome-BC1VynjsWsaw_Wh_m@3FSw==/base_apk
+-tencent.ttn-rUTIMR2xtPR-3fc_UezcTQ-=/base_apk
+-ss_androtd_ugc_aweme-Wi_qpnjmCeMC4LU1_LtG0Q==/base_apk

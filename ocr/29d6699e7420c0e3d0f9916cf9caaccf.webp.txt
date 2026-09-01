@@ -1,0 +1,9 @@
+# OCR: 29d6699e7420c0e3d0f9916cf9caaccf.webp
+# 来源: .\02-WriteUp\2024\29d6699e7420c0e3d0f9916cf9caaccf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+File Actions Edit View Help
+rootS ka /home/kali
+ev generate 123456 /home/kali/Desktop/weevely.php
+Generated '/home/kali/Desktop/weevely.php’ with password '123456' of 761 byte

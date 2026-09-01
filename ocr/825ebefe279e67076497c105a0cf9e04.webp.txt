@@ -1,0 +1,19 @@
+# OCR: 825ebefe279e67076497c105a0cf9e04.webp
+# 来源: .\02-WriteUp\2024\825ebefe279e67076497c105a0cf9e04.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+Recipe
+URL Decode
+From Bases
+A-Za-20-9+/=
+District mode
+日 曰 丁
+ou
+eu
+[x Remove non-alphabet chars
+Input +O58
+Yaqgtigadacvdsdsenovdc93d3cudh2aGOutaliveSohcHBsaltihdGlvbi17aN2 Jo2SmaNc7 ZitlobyAS7 k2Dtd2Q7ZMlobyBKZMESHMFaNzQ2HTUSO|
+=u Temes ou
+Output 日 口 @ 5
+cd “/wau/ineuroot am. tpshop.coa/ application” ;ifcontigzecho 9£764;pud;echo dea7saf74315,

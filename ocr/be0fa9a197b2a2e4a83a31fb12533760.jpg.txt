@@ -1,0 +1,14 @@
+# OCR: be0fa9a197b2a2e4a83a31fb12533760.jpg
+# 来源: .\02-WriteUp\2024\be0fa9a197b2a2e4a83a31fb12533760.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+alist-encryption
+Ba
+六 BHaiist
+史 bwebdav
+仁 shee
+仁 ees
+仁 文 4 标 衍
+园 w
+example: encrypt/*

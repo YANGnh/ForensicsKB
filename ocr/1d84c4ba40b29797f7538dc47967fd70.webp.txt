@@ -1,0 +1,11 @@
+# OCR: 1d84c4ba40b29797f7538dc47967fd70.webp
+# 来源: .\02-WriteUp\2026\1d84c4ba40b29797f7538dc47967fd70.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+国 SUHRERUNAS-disk2.vmadk (37618) , 排 ff 系 统 (427) > Linux (427) , 网
+(2) > 静 忘 网 络 配 置 信 息 (2) >
+] 序 号 网 络 接 口 名 称 网 络 连 接 名 称 UUID MACH 址 “ 虚 押 MACiB 划 IPv4i 址 IPv4 子 网 掌 码 IPv4 默 认 网 关 IPy4 广 播 地 址 IPv4 DNS
+点 此 汝 滑 点 此 过 滤 池 满 炉 此 过 溜 点 此 过 滤 点 此 汝 滑 点 此 过 滤 炉 此 过 滑
+01 _____.-_____
+]2

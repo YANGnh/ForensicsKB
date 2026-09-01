@@ -1,0 +1,18 @@
+# OCR: 9ef28d172c2c07aae80bf430ff725f15.webp
+# 来源: .\02-WriteUp\2025\9ef28d172c2c07aae80bf430ff725f15.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+Tower -GLagnos t\cs - 26250415 -2161.z\p
+er :/boot/Logs# unzip tower-diagnostics-20250416-0148.zip
+Archive: tower-diagnostics-20250416-0148.zip
+creating: tower-diagnostics-20250416-0148/
+inflating: tower-diagnostics-20250416-0148/unraid-7.0.1.txt
+creating: tower-diagnostics-20250416-0148/xml/
+Creating: tower-dtagnostics-20250416-0148/qenu/
+extracting: tower-diagnostics-20250416-0148/qemu/no qenu log files
+tower-diagnostics-20250416-0148/smart/
+tower -diagnostics-20250416-0148/smart/E§
+BREE flash (sda). txt
+inflating: tower-diagnostics-20250416-0148/smart/VEware Virtual_SATA Hard Drive_00000
+-20250416-0148 disk1 (sdb). txt

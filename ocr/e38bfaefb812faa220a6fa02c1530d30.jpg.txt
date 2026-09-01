@@ -1,0 +1,13 @@
+# OCR: e38bfaefb812faa220a6fa02c1530d30.jpg
+# 来源: .\02-WriteUp\2024\e38bfaefb812faa220a6fa02c1530d30.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+DEFROUTE=yes
+IPU4_FAILURE_FATAL=no
+IPUGINIT=yes
+IPU6_AUTOCONF=yes
+IPU6_DEFROUTE-yes
+|E_FATAL=no
+-98a5-43c9-a513-678449984F 65
+GATEWAY=192 . 168 .108.1.

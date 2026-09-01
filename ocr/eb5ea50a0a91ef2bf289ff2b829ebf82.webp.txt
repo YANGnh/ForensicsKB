@@ -1,0 +1,42 @@
+# OCR: eb5ea50a0a91ef2bf289ff2b829ebf82.webp
+# 来源: .\02-WriteUp\2025\eb5ea50a0a91ef2bf289ff2b829ebf82.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+@
+hist “ 立 全 咤 符 伟 继 诊 悌 / 河
+\ HE AP3_LEUNG YL Lap...620448
+> Ly X 英 8
+\ HE Duncan laptop.e01 457944
+>) REE 457936
+> 0 xe 8
+\ i LAM KH Japtopee...110370
+v RE 110362
+LAM_KH lapto...110361
++ 国 S6dend
+| SRecycleBin 6
+1
+(©) Documents and ...0
++ © Intel 7
++ (i Media 2782
+面 pertogt 0
++ 国 progamfies 2293
++ 国 progamfile。 1372
++ 9) ProgramData 498
++ Recovery 2
+@ 匹 匿 «ar-ax
+巳 匹 “ 1/23 / Media / 信 恩 沥 市 艺 # 芸 加 咤 / Web / opt / resources / toDisplay > l p Q J QBR
+口 =8S =a X 3 H = 8&
+E 8 v 8 ] 颜 1 (am | & ] V , 出
+| 团 1 _ 口 Poster, jpeg 92.55 KB 2025-04-29 15:52:45. 2025-04-29 15:52:45, LAM_KH_laptop.e01/33K3/Media/fSB.2tn SR... Bi
+口 2 Poster1.jpeg.hash 408 2025-04-29 15:54:30 2025-04-29 15:54:30 LAM_KH_laptop.e01/33K3/Media/fSS 2275 RFthk...
+口 3 Posterljpsaumeta 988 2025-04-29 15:52:46 2025-04-29 15:52:46 LAMLKHplopaoi/ 分 区 /Medal 伯 我 市 纳 育 .
+口 4 墨 fosterjpag 92.51 KB 2025-04-29 15:52:46 2025-04-29 15:52:46 LAM_KH_laptop.e01/33K3/Media/fSB 275 RFR...
+os Poster2,jpeg.hash 408 2025-04-29 15:54:31 2025-04-29 15:54:31 LAM_KH_laptop.e01/33K3/Media/fSB 75 RRR...
+口 6 Poster2,jpeg.meta 98B 2025-04-29 15:52:46 2025-04-29 15:52:46 LAM_KH_laptop.e01/39K3/Media/fSB 275 RFR...
+口 7 圃 Poster3,jpeg 236.16 ... 2025-04-29 15:52:46 2025-04-29 15:52:46 LAM_KH_laptop.e01/33K3/Media/fSB 275 RSE...
+口 8 Poster3,jpeg.hash 408 2025-04-29 15:54:32 2025-04-29 15:54:32 LAM_KH_laptop.e01/33K3/Media/fSB 275 RRR...
+口 Poster3,jpeg.meta 98B 2025-04-29 15:52:46 2025-04-29 15:52:46 LAM_KH_laptop.e01/33K3/Media/fSB An RR...
+O10 8 Poster4,jpeg 82.68 KB 2025-04-29 15:52:46 2025-04-29 15:52:46 LAM_KH_laptop.e01/39K3/Media/fSB 25 RR...
+ou Poster4,jpeg.hash 408 2025-04-29 15:54:32 2025-04-29 15:54:32 LAM_KH_laptop.e01/39K3/Media/fSB 275 RFR...
+口 习 Poster4,jpeg.meta 98B 2025-04-29 15:52:46 2025-04-29 15:52:46 LAM_KH_laptop.e01/39K3/Media/fSB 25 RFR...

@@ -1,0 +1,9 @@
+# OCR: 7e81b8d782331d0188c16cebfecdd25c.jpg
+# 来源: .\02-WriteUp\2024\7e81b8d782331d0188c16cebfecdd25c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+) 耿 证 挂 材 200481C 欧 雷 )eertutil -hashtile vm-112-disk-0. qcow2 SHA256
+SHA256 的 vr112-disk-0 qcow2 贾 帮 :
+0a7d9#77a5903bece9290£364b410a233a841Sdabb35bc lef 585083768 1ddded
+ertUtil: -hashfile 命 令 成 加 完 成 。

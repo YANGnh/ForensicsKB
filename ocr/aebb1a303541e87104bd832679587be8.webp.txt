@@ -1,0 +1,28 @@
+# OCR: aebb1a303541e87104bd832679587be8.webp
+# 来源: .\02-WriteUp\2025\aebb1a303541e87104bd832679587be8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+/1 Token: @x@600026C RID: 620 RVA: 6x6066pCI8 File Offset: 6xp6068528
+public static string @@\urscis \ur70eSRiets 2Al3fl «AH \uE9B7 \ueacss Bh ()
+《
+string result;
+try
+t
+string text - string. Empty;
+string scope = \u32EC\uE956\uFFFI
+string queryString =JSSELECT * FROM FirewallProduct”;
+using (ManagementObjectSearcher managementObjectSearcher = new ManagementObjectSearcher(scope, queryString))
+foreach (ManagementBaseObject managementBaseObject in managementObjectSearcher.Get())
+{
+ManagementObject managementObject - (ManagementObject )managementBaseObject;
+text - text + managementObject["displayName”].ToString() + 国 : 真
+text - Rf\ueEE7\uer13 RYE At \uFFrO SIGHS \u3.217 Sb \UFFFD—. fr Sei eslBill Sl SRB BH \u2611fm 29 \urFFDEE (text, 2);
+result = ((!string.IsNullorempty(text)) 3 text : 国 A
+]
+catch
+{
+result - 国 Untnowr
+]
+return result;
+AOS As \UESCEALE ES \uFDD2\u2F68 S18 \uE2BD \uFeAD.VistaOrHigher ?[ffroot\\securityCenter2" ://Froot\\securityCenter";

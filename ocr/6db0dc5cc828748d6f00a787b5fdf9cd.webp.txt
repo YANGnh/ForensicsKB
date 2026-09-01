@@ -1,0 +1,17 @@
+# OCR: 6db0dc5cc828748d6f00a787b5fdf9cd.webp
+# 来源: .\02-WriteUp\2025\6db0dc5cc828748d6f00a787b5fdf9cd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+Recipe
+From Morse Code
+Letter delimiter
+Space
+Last Dulla: A year ago
+ee 围 | Input
+^ G E 仪 人 A 仪
+Word delimiter
+Forward slash
+QWERT666
+c
+/

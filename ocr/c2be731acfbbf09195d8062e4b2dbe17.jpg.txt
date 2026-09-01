@@ -1,0 +1,22 @@
+# OCR: c2be731acfbbf09195d8062e4b2dbe17.jpg
+# 来源: .\02-WriteUp\2024\c2be731acfbbf09195d8062e4b2dbe17.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+P o=sensn> (Su etaars > iCost 10k - RARE RANEEADS > 目 度 炳
+ess aR
+por SF oy ite E
+口 1 default.realm 128 KB
+口 2 default.realm.lock 1.42 KB
+口 3 阎 detautreammanagament (3) 08
+评 皎
+2: default.realm
+#RE: realm
+BB: Ee
+Fu: 128 KB
+#SMETT: 2024-04-25 22:50:23
+MetaAddr: 2584240128
+8 iPhoneXR.tar/private/var/mobile/Containers/Data/Application/9B67631C-CDFD-48FF-979C-
+36A785B58D8B/Documents/default.realm
+EE: RO
+ae: 3

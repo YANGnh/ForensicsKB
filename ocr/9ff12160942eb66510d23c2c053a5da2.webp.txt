@@ -1,0 +1,48 @@
+# OCR: 9ff12160942eb66510d23c2c053a5da2.webp
+# 来源: .\02-WriteUp\2025\9ff12160942eb66510d23c2c053a5da2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+©
+@ New Chat
+悍 Settings
+E CAWindows\System32\cmd.exe
+layout
+loptimizeMetadata
+queryALlocRanges
+queryCaseSensitiveInfo
+ueryExtentsAndRefCounts
+aueryFiLeJD
+queryFileNameById
+queryOptimizeMetadata
+queryValidData
+setCaseSensitiveInfo
+setShortName
+setValidData
+setZeroData
+setE0F ` 文 文 件 结 屏
+setStrict1ySequential 将 ReFS SMR 文邗亡苓工歪丈茯置7勺只〔木薯爵喜惶夕蔓J\质序
+C: Users pkKNDesktop>fsutil file queryfiLeid test. bat
+文 件 ID 为 0x0000000000000000000500000001 e003
+关 该 文
+件 的 元
+件 的 分
+录 的 大
+件 的 抒
+伯 的 范
+似 的 范
+定 文 件
+件 ID
+余 的 优
+件 的 有
+录 的 大
+似 的 绵
+余 的 有
+件 的
+C: \Users\pk\Desktop>fsutil file queryWalidData test. bat
+有 效 数 据 长 度 为 0x747 (2007)
+C: \Users\pk\Desktop>ollama list
+NAME ID SIZE MODIFIED
+qwen2:7b-instruct-q4 _0 d9314f039b9d 4.4 GB 11 days ago
+phi3:mint 物 2222927938 2.2 GB 11 days ago
+IC: \Users\pk\Desktop >=

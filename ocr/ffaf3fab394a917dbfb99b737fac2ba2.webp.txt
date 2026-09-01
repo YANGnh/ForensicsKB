@@ -1,0 +1,7 @@
+# OCR: ffaf3fab394a917dbfb99b737fac2ba2.webp
+# 来源: .\02-WriteUp\2025\ffaf3fab394a917dbfb99b737fac2ba2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+打 金 平 台 后 台 管 理
+Babiana

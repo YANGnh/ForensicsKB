@@ -1,0 +1,12 @@
+# OCR: 5013c87ba141c089a1550f31707389d4.webp
+# 来源: .\02-WriteUp\2025\5013c87ba141c089a1550f31707389d4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+仁 2% - BAT SOL HE
+=a 信 8 心
+E 1722
+E 1524
+5 6
+E 000362
+[SQL Query 20250410-094648-1 start

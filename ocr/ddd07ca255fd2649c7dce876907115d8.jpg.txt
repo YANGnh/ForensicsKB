@@ -1,0 +1,16 @@
+# OCR: ddd07ca255fd2649c7dce876907115d8.jpg
+# 来源: .\02-WriteUp\2024\ddd07ca255fd2649c7dce876907115d8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+9 Proxifier
+File Profile Log View Help
+X | Application Target Time/Status
+。 | € kafaninputservice.exe meteorinputkfsafe.cn:31111 Failed
+3
+B Proxy Servers 7 x
+Address “ Port Type
+Add
+157.233.9829 37761 SOCKSS
+Remove
+Check,

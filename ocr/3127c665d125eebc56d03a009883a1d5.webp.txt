@@ -1,0 +1,20 @@
+# OCR: 3127c665d125eebc56d03a009883a1d5.webp
+# 来源: .\02-WriteUp\2025\3127c665d125eebc56d03a009883a1d5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+|) host.conf cont \etc
+iD
+| Ghosts \ete
+| Ghosts.allow allow 3
+| Ghosts.deny deny \ete
+| Jinputre 3
+| issue 3
+ssuenet net 3
+| Jldso.cache cache 3
+iF ld.so.conf conf \ete
+一 3 | Ose “ 回 R8 | 罗 M8 | 9 oem | | | 9 | e 一 | 李 园 | 唐 引 人
+Offset 0 12 3 4 5 6 7 8 9 A BC DEF UTF-8
+00000000 61 70 69 2D 73 65 72 76 65 72 2D 32 0 00 00 00 api-server-2 O00
+00000010 100 00 00 00 BO 00 00 00 00 00 00 00 00 00 00 00
+00000020 |00 00 00 00 00 00 00 00 O00 00 00 00 00 00 00 00

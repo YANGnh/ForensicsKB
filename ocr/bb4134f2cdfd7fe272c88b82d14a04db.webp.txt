@@ -1,0 +1,21 @@
+# OCR: bb4134f2cdfd7fe272c88b82d14a04db.webp
+# 来源: .\02-WriteUp\2024\bb4134f2cdfd7fe272c88b82d14a04db.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+1 V select company,count(1) AS
+e
+量 from app_card group by company order by
+Bn GB Result1 =
+画 x: 10 vr > 1 SOe 8 Q 国
+D company 了 : 口 信 @ 数 量 史 【
+致 沈 有 限 资 任 公 司 916
+目 有 限 责 任 司 a4
+私 关 有 限 资 任 公 司 886
+MEARE 875
+SPARE 863
+HAIR 856
+鹦 有 限 责 任 公 司 350
+震 院 有 限 资 任 公 司 848
+FRARREAA 846
+寡 伦 有 限 质 任 公 司 831

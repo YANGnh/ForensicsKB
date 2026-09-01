@@ -1,0 +1,11 @@
+# OCR: fc812eeed00ce4aa63fc097173b14732.webp
+# 来源: .\02-WriteUp\2024\fc812eeed00ce4aa63fc097173b14732.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+define(‘DB_NAME', ‘zico’);
+/** MySQL database username */
+define('DB_USER', ‘zico');
+/** MySQL database password */
+Jefine('DB_PASSWORD', 'sWifCsfJSPV9H3AmQzw8'") ;
+Pek MySOL hactname */

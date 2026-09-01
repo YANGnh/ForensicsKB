@@ -1,0 +1,9 @@
+# OCR: 7fbab08a124207854430acbd166a9c42.jpg
+# 来源: .\02-WriteUp\2024\7fbab08a124207854430acbd166a9c42.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+Di 210215170
+2
+12
+Tratfic isk 10

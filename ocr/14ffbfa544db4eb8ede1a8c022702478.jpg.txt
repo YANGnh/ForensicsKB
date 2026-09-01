@@ -1,0 +1,13 @@
+# OCR: 14ffbfa544db4eb8ede1a8c022702478.jpg
+# 来源: .\02-WriteUp\2024\14ffbfa544db4eb8ede1a8c022702478.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+5 Dzozml
+My Settings
+Password
+TFA
+Color Theme
+Language
+卯 国 八 一 口
+Logout

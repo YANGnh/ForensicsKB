@@ -1,0 +1,19 @@
+# OCR: 55764464d66674ed62344e0ce1cc2956.jpg
+# 来源: .\02-WriteUp\2024\55764464d66674ed62344e0ce1cc2956.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+Hatrptnhode“: false,
+LinkLocalIPv6Addres
+LinkLocalIPv6PrefixLen” =
+SecondaryIPAddresses”
+“SecondaryIPv6Addresses
+"EndpointID"- “58f6e6f16a88686ab389635e4f68566d3ce431fb8f18e55c63c7ca8e32761886“.
+"Gateway": "172.17.0
+"Global IPv6Address”
+"Global IPv6PrefixLen
+“IpAddress“
+"IpPrefixLen
+"IpveGateway"= ""_
+“MacAddress"= "02:42:ac:11-00:02",
+"Networks" {

@@ -1,0 +1,36 @@
+# OCR: 5eada19c1593d6128ce44865f63e0755.jpg
+# 来源: .\02-WriteUp\2024\5eada19c1593d6128ce44865f63e0755.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+A x + x
+[root@locathost alist]# docker ps
+CONTAINER ID IMAGE COMMAND CREATED STATUS PORTS
+NAMES
+85c6f203baSb —_corentinth/it-tools: latest "/docker-entrypotnt." 2 weeks ago Up 2 hours @.0.0.6-8080->88/tcp, =--8
+080->86/tcp it-tools
+b28698e5328a loutstan/apttne-kunal “Jusr/bin/dumb-tntt -“ 2 weeks ago Up 2 hours (healthy) @.6.0.6:3801->3061/tcp. =:
+=3081->3001/tcp uptime-kuma
+4i945cbede27 。soulteary/flare “flare --notogte“ 2 weeks ago Up 2 hours @.6.0.6-80->5005/tcp, =--8
+6->5005/tcp flare-flare-1
+a42dfbe981e3 “prophet3I8/attst-encrypt:beta "node tndex. js” 2 weeks ago Up 2 hours 0.0.0.6:5344->5344/tcp, =:
+9344->5344/tcp _altst-encrypt
+[root@locathost alist]# netstat -anpt
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address Foretgn Address State PID/Progran nane
+tep 8 6 111 0.0 LISTEN 793/rpcbind
+tcp 8 6 8086 9.8 LISTEN 2961/docker-proxy
+tep 6 6 86 8.6 LISTEN 2916/docker-proxy
+tep 8 e 2 8.0 LISTEN 1115/sshd
+tep e 6 3001 8.6 LISTEN 2936/docker-proxy
+tep 8 8 1:25 6.6 LISTEN 1498/master
+tcp 8 e 5344 9.6 LISTEN 9565/docker-proxy
+tep 9 36 217.131-22 192 17.1-26974 ESTABLISHED 9171/sshd- root@pts
+tcp6 6 6 + LISTEN 793/rpcbind
+tcp6 e 8 * LISTEN 2967/docker-proxy
+tcp6 8 8 : * LISTEN 2925/docker-proxy
+tcp6 8 8 * LISTEN 1115/sshd
+tcp6 8 6 * LISTEN 2943/docker-proxy
+tcps 8 e * LISTEN 1498/master
+tcp6 8 6 + LISTEN 1123falist
+tcp6 8 8 * LISTEN 9571/docker-proxy

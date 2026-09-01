@@ -1,0 +1,19 @@
+# OCR: 8c79f19c5510f0ddc10bc8f76ff9f24d.webp
+# 来源: .\02-WriteUp\2024\8c79f19c5510f0ddc10bc8f76ff9f24d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+http. request. uri. path=="/dbadnin/test_db. php’
+Ho. Tine Source Destination Protocol Lengtk Info
+“ 457536 992.531733 192-168.75.132 192.168.75.131 HTTP. 683 GET /dbadmin/test_db.php?action=row_view&table=info HTTP/1.1
+457566 1043.258163 “192.168.75.132 192.168.75.131 HTTP. 874 POST /dbadmin/test_db.php?action=table_create HTTP/1.1 (application/x-www-form-urlencoded)
+457616 1056.707781 192.168.75.132 192.168.75.131 HTTP 695 GET /dbadmin/test_db.php? switchdb=%2Fusr%2Fdatabases%2Fdemo.php HTTP/1.1
+457628 1061.03186@ 192.168.75.132 192.168.75.131 HTTP 704 GET /dbadmin/test_db.php?view=sql HTTP/1.1
+457640 1061.621005 “192.168.75.132 192.168.75.131 HTTP 68@ GET /dbadmin/test_db.php?view=structure HTTP/1.1
+457658 1081.818411 192.168.75.132 192.168.75.131 HTTP 680 GET /dbadmin/test_db.php?view=sql HTTP/1.1
+457670 1083.187248 192.168.75.132 192.168.75.131 HTTP 677 GET /dbadmin/test_db.php?view=vacuum HTTP/1.1
+457684 1083.871208 192.168.75.132 192.168.75.131 HTTP 680 GET /dbadmin/test_db.php?view=rename HTTP/1.1
+457696 1084.732732 192.168.75.132 192.168.75.131 HTTP 683 GET /dbadmin/test_db.php?view=structure HTTP/1.1
+457708 1090.002747 。192.168.75.132 192.168.75.131 HTTP
+71 GET /dbadmin/test_db.
+php? switchdb=%2Fusr%2Fdatabases%2Fdemo.php HTTP/1.1

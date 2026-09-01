@@ -1,0 +1,38 @@
+# OCR: 9fea574cc6cbfa61492d1bc3ed8cdb00.jpg
+# 来源: .\02-WriteUp\2024\9fea574cc6cbfa61492d1bc3ed8cdb00.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+Propagation” -
+“volume”,
+= "@191a7eb6e2b65e7261d97b3e3d27ddeced2907e44251e2ccO12c09ccb1592F2"
+*" [var /11b/docker /volunes/6191a7eb6e2b65e7261d97b3e3d27ddeced2967e44251e2ccO12c09ccb1592F2/_data”,
+"Destination": "/var/11b/postgresql/data”,
+"Driver": "local",
+i on ES
+"RW": true,
+“Propagation”: “
+"643626ab3d8b" 。
+false,
+= false,
+false,
+"5432/tcp" = b.
+“866s/tcp“: {}
+false,
+“OpenStdin”
+“Stdtnonce
+"Env": [
+“PATH=/nm/mattermost/bin-/usr/local/sbin: /usr/local/bin: /usr/sbin:/usr/bin-/sbin: /bin:/usr/lib/postgresql/12/bin" .
+"GOSU_VERSION=1.17",
+“LANG=en_US_utf8",
+"PG_MAJOR=12"
+false,
+false,
+PG_VERSION=12.18-1_pgdg120+2",
+PGDATA=/var/1ib/postgresql/data” 。
+POSTGRES_USER=nmuser™,
+“POSTGRES PASSHORD-nostest”,
+“POSTGRES DB=nattermost_test"
+null,
+“mattermost/mattermost-preview”.
+“/var/lib/postgresql/data": {}

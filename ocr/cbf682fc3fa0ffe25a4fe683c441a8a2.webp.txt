@@ -1,0 +1,21 @@
+# OCR: cbf682fc3fa0ffe25a4fe683c441a8a2.webp
+# 来源: .\02-WriteUp\2024\cbf682fc3fa0ffe25a4fe683c441a8a2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+YU RWNRSOANTANEWNHE DOM N
+fs
+else
+SetwindowTexta(qword_140008768, “Login Successful!
+if ( !(_BYTE)word_1400@808C )
+MessageBoxA(
+ei64,
+“Great! You have finished the first step. Keep going to find the bitlocker key.",
+“login successful",
+sub_1490022A0((__int64)v24, (__int64)v23, (__int64)v22);
+9 = (const CHAR *)sub_1400029E0(v24);
+MessageBoxA(@i64, vl0, “The Bitlocker Key", 0);
+sub_140002840(v24);
++
+sub_140002840(v25);
+蝉 公 众 号 . 取 证 布 衣

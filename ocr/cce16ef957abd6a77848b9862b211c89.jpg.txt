@@ -1,0 +1,11 @@
+# OCR: cce16ef957abd6a77848b9862b211c89.jpg
+# 来源: .\02-WriteUp\2024\cce16ef957abd6a77848b9862b211c89.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+x +
+[root@localhost alist]# 1s
+alist data storage
+[root@localhost alist]# cd data/
+localhost data]# 5
+log temp

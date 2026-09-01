@@ -1,0 +1,25 @@
+# OCR: 2a930d67d51176e8b23658b5e2f0781d.jpg
+# 来源: .\02-WriteUp\2024\2a930d67d51176e8b23658b5e2f0781d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+@ moon an
+© Uren
+@ MPRA
+om
+© Serres
+白 e
+Room rene: aeae BRON esi
+E E
+COT NULL PRIMARY KEY appl
+[2024-05-11 19:1307 | landold.database ste) SOL: ALTER TABLE app2 ADD COLUMN previous install count INTEGER;
+[2026-05-11 1913307 landol.database sje] SOL: CREATE ABLE IF NOT BASTS main event params (app Id TEXT NOT NULL event 4 TEXT
+[NOT NULL, chien to process INTEGER NOT NUL, main. event BLOB NOT NULL PRIMARY KE appl
+[2024-05-11 191307} landol.databae ste] SQL: CREATE TABLEIF NOT EXISTS default event prams (app 4 TEXT NOT NULL. parameters
+BLOB NOT NULL PRIMARY KEY app
+[2026605-11 191319} Inetsqkipher KEMEEERESLIE: /storape/emulted/O/ privacy sfe/dh/privay safe ds, s
+[2024-05-11 181399) Inetsaipher SQL: select count tom ste master:
+(2026-05-11 19118) Inetsqiphen SOL: PRAGMA ser verso
+[2024-05-1 191319) Inetsaier SQL: BEGIN EXCLUSIVE,
+[2028-05-11 19:13:01 Inetslipher SL: CREATE TABLE "BOOKMARK" (INTEGER PRIMARY KEY, NAME” TEXTURL"TEXTCON.URL"T
+EXTZICON" BLOB

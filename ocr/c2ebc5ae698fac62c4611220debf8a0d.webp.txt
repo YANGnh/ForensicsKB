@@ -1,0 +1,18 @@
+# OCR: c2ebc5ae698fac62c4611220debf8a0d.webp
+# 来源: .\02-WriteUp\2024\c2ebc5ae698fac62c4611220debf8a0d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+目 agpeg
+目 U 春 pea
+回 无 Ejipo
+目 无 R2jpo
+一 3 [Ose ims | Dem | 9 oem | 心
+Offset 0 12 3 4 5 6 7 8 is
+00356320 73 B9 2c 45 19 41 49 59 83 4B 5 AI™FRAD°O K
+00356336 C9 37 87 ER 78 64 19 25 FB 54 AO 64 3A 91 04 65 #7#éxd SAT d:* e
+00356352 0C C7 15 28 59 FF 7B 31 42 6D OF 94 83 C9 97 74 ¢ (¥y{1Em “*E-t
+00356368 F2 26 C3 CE OF FF 1F 75 D8 06 FA DC 58 SE 6D 00 dsAi 9 ug 60xm
+00356384 00 00 00 49 45 蛆 44 AE 42 60 82 C4 3D 7B 00 40 TENDGB* , A=([
+00356400 107 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00

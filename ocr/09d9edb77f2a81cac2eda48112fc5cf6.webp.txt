@@ -1,0 +1,36 @@
+# OCR: 09d9edb77f2a81cac2eda48112fc5cf6.webp
+# 来源: .\02-WriteUp\2025\09d9edb77f2a81cac2eda48112fc5cf6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+| LoginActionclass.php X
+‘APP > Modules > Systemlogined > Action > ® LoginAction.class php
+1 <?php
+2 广
+3 + GRRE OR
+4 ey
+5 Class LoginAction extends Action{
+6 e
+7 + Ree
+8 v
+3 public function index(){
+u $this->display();
+a 1
+2
+13 public function login(){
+因 1/0 A ELAR BEA A
+as IS_POST or haut( 顺 绍 3
+a6 E
+E Sf (session( ‘verify") I= T("code’,"",'md5")) {
+匹 Sthis-rerror( *SeiiE PHAR! ")5
+19 }
+20
+2 1/RES FAVED
+2 $user = M(‘user')->where(array{(‘username'=>I(‘username'), 'password'=>I( ‘password’, '', ‘shai')))->Find(
+23
+24
+25 $user or $this-rerror( Jil) RENMEI");
+26 11SEC
+E Suser["lock"] and thisoarrerC 用 广 挂 应 03
+28
+29 11 SAG BER TTP FHA

@@ -1,0 +1,29 @@
+# OCR: 642835fff8b32d6dd47358d59a492cab.webp
+# 来源: .\02-WriteUp\2025\642835fff8b32d6dd47358d59a492cab.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+C
+© & htpsy/vcsapgscup
+启 动 VSPHERE CLIENT
+文 桓
+VMware vSphere 文 档 中 心
+ABARAT AGE,
+v
+© 2gJ8VWMuarevspher
+2 http:/wwwe vmware.comigorpatents-cn =i}
+对 于 管 理 员
+基 于 Web 的 数 据 存 傅 浏 览 器
+使 用 Web 浏 览 器 可 查 找 和 下 载 文 件 ( 侈 如 , 虚 拗 机 和 虚
+捉 碟 盘 文 件 j
+浏 览 Sphere 清 单 中 的 数 据 存 借
+透 用 于 开 发 人 员
+vSphere Web Services SDK
+了 解 用 于 管 理 VMware ESXi 和 VMware vCenter 的 最 新
+SDK, 工 具 包 和 APl。 获 取 示 例 代 码 、 参 考 文 档 , 参 与 我
+们 的 论 坛 讨 论 , 以 及 观 看 我 们 的 最 新 课 程 和 网 络 研 讨 会
+了 解 Web Services SDK 的 更 多 信 息
+了 解 有 关 vSphere Automation SDK 的 更 多 信 息
+浏 览 vSphere 管 理 的 对 象
+浏 览 vSphere REST API
+下 载 受 信 任 的 栗 CA 证 书

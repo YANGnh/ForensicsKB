@@ -1,0 +1,27 @@
+# OCR: 9712bb4f05580c71a3748f6808222400.webp
+# 来源: .\02-WriteUp\2024\9712bb4f05580c71a3748f6808222400.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+O XRAOWfTR OOO
+@ art, oan
+audiodg.exe(4344) 3
+suchost.exe(5640) 3
+svchost.exe(8672) 3
+MiniSearchHostexe(8348) 3
++@0.exe(2872) 3
+a8 1
+ee 5
+rinses 40
+conhostexe(5796) 3
+OpenConsoleexe(11104) 3
+WindowsTerminalexe(@476) 3
+RuntimeBroker.exe(6388) 3
+cmdexe(2444) 3
+WeChat.exe(9832) 3
+mmecrashpad handler64exe(... 3
++4oee
+HES: 5596
+E 2024-05-23 06:37:47
+E 0
+wie: 188593676902592

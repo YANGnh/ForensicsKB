@@ -1,0 +1,50 @@
+# OCR: 22a60e496b023905c50a06e0371106e3.jpg
+# 来源: .\02-WriteUp\2024\22a60e496b023905c50a06e0371106e3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+@ 8 88 sm ITA ah
+一 量 口 巳 Te Qeeger|ENs 目 人
+jnioeeweser B00T-INF/classes/applicat ion-prod.yal
+一 B = =
+tyioweb.web - jadx-gui
+E 阮 aan EE ——
+bn ch.qos. Logack
+匹 eteet enetetiethionoeenieernieererninenectnnge
+com
+bos defpackage
+fm eu.bitwalker.useragentutils
+mm fo
+bu javassist
+bs javax
+br lonbok Aliens
+username: n
+Banet password: zhangjie.123
+i org
+s 27 tagger
+a n
+reactor es
+fm schemaorg_apache_xmlbeans.system 28 production: true
+bs springfox Fe
+ae 22 anys
+23” api:
+(im 80OT-INF t
+mi classes 3s
+me con bes
+E 27 seo6570439c50f5145dd2Fcbecf02209
+* 艾扁
+a wopper e
+: 30 item code:
+mm nybatis
+51 warehouse code: 3002
+i application-dev.yai | nn
+pA 口 customer_id:_C2o220026351515
+eames 34 Ps tata sien, conf /a/en/sieect
+35 cy: 334888:
+ce 36 app_secret: 56C155623081£38FDFSA9SDB97CC380C
+b banner. txt ”
+ie logback. xm
+mm lib
+bs META-INF
+mm org
+Summary

@@ -1,0 +1,7 @@
+# OCR: fb3ff8fdc57af45f44cf8b59364df843.webp
+# 来源: .\02-WriteUp\2025\fb3ff8fdc57af45f44cf8b59364df843.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+In [152]: bin(1741988)[2:]
+Out[152]: '11111010101'

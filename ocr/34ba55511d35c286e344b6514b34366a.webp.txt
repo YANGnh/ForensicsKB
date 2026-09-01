@@ -1,0 +1,9 @@
+# OCR: 34ba55511d35c286e344b6514b34366a.webp
+# 来源: .\02-WriteUp\2024\34ba55511d35c286e344b6514b34366a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+5 河 。 一 eMednc @main (SBMedia) - 要
+Qirems 园 X - 史 H8 Eee Gs, 6 St Ramen dl eee
+albumid d mediatype -—mediafrom y geo importdate _createdate duration _mainfilepath
+1 1 1 0 1 F52A71C4-6048-43AD-833, 16290795.72246 716290597.865 0 Documents/1/m1716290795.722455.0

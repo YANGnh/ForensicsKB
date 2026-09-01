@@ -1,0 +1,9 @@
+# OCR: e48dc2c430fae779fadbb9866b8143ed.jpg
+# 来源: .\02-WriteUp\2024\e48dc2c430fae779fadbb9866b8143ed.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+@ 团 口 | K pre-ProxmoxvVirtual Environm= x 回 opowa-uc x +
+« G A 192.168.71.100
+OpenWtt
+& root

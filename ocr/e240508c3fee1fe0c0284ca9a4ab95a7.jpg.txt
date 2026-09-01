@@ -1,0 +1,29 @@
+# OCR: e240508c3fee1fe0c0284ca9a4ab95a7.jpg
+# 来源: .\02-WriteUp\2024\e240508c3fee1fe0c0284ca9a4ab95a7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+Attack
+Xieve
+E
+45
+BAB
+Previous Passwords
+MESA
+新 建 爆 破 攻 击
+SETTINGS
+=EKE at 8 se
+se English 、
+‘Symbol Set 孔 J 吉 ‘symbols
+E ‘Space
+Y Numbers
+- BRS
+BEX
+Ea5
+et Prsswird 2
+w
++Cangecse | + Change chars order | + Substitute chars
+ATTACKBUILDER_COMMENT
+FARE © PosswOrd - Péssward - P7sswérd  Passw7rd - POssw9rd
+BELSNHER 100
+E 。 af

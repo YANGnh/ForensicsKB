@@ -1,0 +1,24 @@
+# OCR: b0bd976d23e86edf2c20f42bfb0e02b7.jpg
+# 来源: .\02-WriteUp\2024\b0bd976d23e86edf2c20f42bfb0e02b7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+国 WinHex - [RAM_Capture_David_Laptop.raw]
+SO SO BRO SHOW BEY TRO LTRMO BNO BOW t
+口 不 月 不 炎 哲 驿 SOE Get | Adee | ote E 皋 g
+RAM Capture David Laptop... |
+CESEs (Si)
+Offset = E
+Offset OL23 45 日 89 ABC DE Fi I 8
+169B06D10 E5 张 训 租 afo oF of oa
+169806D20 B5 3 10 o o D
+169806D30 ES 3 10 o 0 a
+169806D40 ES ELEELt 10 Oo o a
+169B06D50 E5 5 吴 310 o o D
+169B06D60 ES 5 吴 810 o o a
+169B06D70 E5 EEEELt a/o D o a
+169806D80 67 infant fragile g infant fragile g
+169B06D90 74 arlic bracket st arlic bracket st
+169B06DA0 20 ove blade stick ove blade stick
+169B06DB0 69 dove aerobic spi dove aerobic spi
+163806DC0 E5 n term educate 鲟 n term educateD

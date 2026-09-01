@@ -1,0 +1,34 @@
+# OCR: 9282d15371203df8422798f28f3a9f13.webp
+# 来源: .\02-WriteUp\2025\9282d15371203df8422798f28f3a9f13.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+us:
+氓
+us:
+氓
+氓
+氓
+ts:
+氓
+氓
+氓
+氓
+氓
+us:
+us:
+E
+linux [192.168.31.150]
+Checking file systen ... done
+Mounting the coneasner
+仁
+( “done
+人
+fats °° done
+俊 i so skip
+余 阮 工
+Configuring core/nat
+Configuring core/n
+Starting desktop/dous’ +. done
+Starting extra/ssh ... done
+Starting grapnies/xii”.<. done

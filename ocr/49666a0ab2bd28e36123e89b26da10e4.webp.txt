@@ -1,0 +1,7 @@
+# OCR: 49666a0ab2bd28e36123e89b26da10e4.webp
+# 来源: .\02-WriteUp\2024\49666a0ab2bd28e36123e89b26da10e4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+cmd='cd /www/wwwroot/192.168.209.147/uploaded_img/ ;cat /tnp/tmppass「
+response=passwd ! @#

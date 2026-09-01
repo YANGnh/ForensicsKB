@@ -1,0 +1,20 @@
+# OCR: de332d4134ed1a7a3a322292e3ebfc4b.webp
+# 来源: .\02-WriteUp\2025\de332d4134ed1a7a3a322292e3ebfc4b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+医
+【丑口障髓__庸
+1 docker.cfg cfg \config
+1 | docker.cfg1673835017 a fg1673835017 \config
+J Adomain.cfg we dig \config
+ag H \config
+门 一 3 区 “ 口 X Gime | Dee | Ooms | Sateen |= eee): [fee | 艇 艺 9=/0=
+Offset 0 12 3 4 5 6 7 “8 9 10 11 12 13 14 15 vj UTE-8
+0742985776 6E 44 65 6C 61 79 3D 22 30 22 OD 0A 73 70 69 58 npelay spin
+0742985792 75 70 47 72 6F 75 70 73 3D 22 6E 6F 22 OD 0A 73 bpGroupszonor s
+0742985808 68 75 74 64 6F 77 GE 54 69 6D 65 6F 75 74 3D 22 hutdownzimeout
+0742985824 39 30 22 OD 0 6C 75 6B 73 4B 65 79 66 69 6c 65 90" luksKeyfile
+0742985840 3D 22 2F 72 6F 6F 74 2F 6B 65 79 66 69 6C 65 22 ="/root/keyfil§”
+0742985856 OD 0 70 6F 6c 6C SF 61 74 74 72 69 62 75 74 65 , poll_attribute
+0742985872 73 3D 22 33 30 22 OD OA 64 65 66 61 75 6C 74 46 0" defaultF

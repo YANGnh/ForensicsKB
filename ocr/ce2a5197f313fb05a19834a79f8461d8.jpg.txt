@@ -1,0 +1,84 @@
+# OCR: ce2a5197f313fb05a19834a79f8461d8.jpg
+# 来源: .\02-WriteUp\2024\ce2a5197f313fb05a19834a79f8461d8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+[rootetocalhost ~]# netstat -anpt
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp6
+tcp
+tcp6
+tcp6
+tcp6
+tcp6
+E
+口 西 西 西 卫 西 西 巳 巳 西 巳 巳 巳 匹
+心
+口 口 口 口 口 巳 口 岑 口 口 口 口 口
+2111
+8080
+80
+22
+23001
+4225
+217.131:22
+Foreign
+6
+6
+6
+6
+6
+6
+1
+首 白 咤 白 的 白 吊
+6-
+6
+6
+6
+6
+6
+1
+0:
+算 团 咤 口 吊 吊
+Address
+*
+E
+217.1:26974
+State
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+ESTABLISHED
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+PID/Program name
+793/rpcbind
+2961/docker-proxy
+2916/docker-proxy
+1115/sshd
+2936/docker-proxy
+1498/master
+9171/sshd: rootepts
+793/rpcbind
+2967/docker-proxy
+2925/docker-proxy
+1115/sshd
+2943/docker-proxy
+1498/master
+41123/alist

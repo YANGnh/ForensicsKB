@@ -1,0 +1,54 @@
+# OCR: 8ace02a48a3cea4fb180ee44717c88cc.jpg
+# 来源: .\02-WriteUp\2024\8ace02a48a3cea4fb180ee44717c88cc.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+尸 Seearityotils
+门 anporrrormooyrromomercepoonservzcecspeom
+import org. springframework. security.core.Authentication;
+import org. springframework. security. core. context .SecurityContextHolder;
+import org. springframework. security. crypto.berypt .BCryptPasswordEncoder;
+Y* loaded from: ruoyi-admin. jar:B0OT-INF/Lib/ruoy-conmon-3.8.2.jar:com/ruoyi/conmon/utils/Securityutils.class */
+22| public class SecurityUtils t
+23] public static Long getusertd() 〈
+try {
+24 return getloginUser().getUsertd()s
+) catch (exception a {
+28 ‘throw new Servicesxception("AMAAIDRM", (Integer) 401);
+)
+)
+38] public static Long getDeptzd() {
+try {
+39 return getLoginUser().getDepttd()s
+) catch (exception a {
+3 ‘throw new Servicetxception("HELA/IEDE", (Integer) 401);
+)
+)
+53] public static String getUsername() (
+try {
+E return getloginUser().getUsername()3
+) catch (exception a {
+E ‘throw new Servicetxception(" ELE AMAHN", (Integer) 401);
+)
+)
+63] public static Loginuser getloginUser() {
+try {
+69 return (LoginUser) getauthentication() .getPrincipal();
+) catch (Exception a {
+73 ‘throw new Servicetxception("RELEAIERHN", (Integer) 401);
+)
+)
+si] public static Authentication getauthentication() {
+82 return SecurityContextolder. getContext() .getéuthentication();
+)
+92] public static String encryptPassuord(String password) (
+93 acryptPasswordéncoder passwordéncoder - new BCryptPasswordencoder()s
+E return passwordencoder .encode(passuord) ;
+)
+05] public static boolean matchesPassword(String rawPassword, String encodedPassword) {
+106 BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+he7 return passwordéncoder.matches(rawPassword, encodedPassword) ;
+eee
+117| public static boolean isAdmin(Long userrd) (
+return userid {= null && 1 =~ userTd.longValue();
+)

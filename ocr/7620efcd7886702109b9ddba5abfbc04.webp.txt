@@ -1,0 +1,26 @@
+# OCR: 7620efcd7886702109b9ddba5abfbc04.webp
+# 来源: .\02-WriteUp\2025\7620efcd7886702109b9ddba5abfbc04.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+2
+E
+he Neo4j Windows Service ’neo4j
+S E:\neo4j-conmmity-3. 5. 14-windows\neo4j-commmi ty-3. 5.
+leo4j service installed
+5S E:\neo4j-communi ty-3. 5. 14-windows\neo4j-communi ty-2. 5.
+inknown command staart
+Isage: neo4j { console | start | stop | restart | status
+ose >
+5S E:\neo4j-commni ty-3. 5. 14-windows\neo4j-communi ty-2. 5.
+leo4j service started
+Io g
+arena re yee eee ee Oe
+is not installed
+ee ad
+ié\bine . /neotj.bat status
+14\bin> . /neo4j. bat install-service
+14\bin> . /neo4j. bat staart
+| install-service | uninstall-service
+14\bin> . /neo4j.bat start
+H

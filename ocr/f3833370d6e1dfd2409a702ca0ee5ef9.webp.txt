@@ -1,0 +1,42 @@
+# OCR: f3833370d6e1dfd2409a702ca0ee5ef9.webp
+# 来源: .\02-WriteUp\2026\f3833370d6e1dfd2409a702ca0ee5ef9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+驯 CAUsersNEKONNDesktop\LI 炅 \ 出 题 检 杨 「 英 果 手 机 「 芸 果 备 份 plist 文 件 \Manifestplist
+File Edit View Help
+XML View List View
+1 <oxml version="1.0" encoding="UIF-8"2>
+2 <!DOCTYPE plist PUBLIC "-//Apple//DID PLIST 1.0//EN" “http: //www.apple.com/DIDs/PropertyList-1.0.dtd">
+3 <plist version="1.0">
+4 <dict>
+5 <key>IsEncrypted</key>
+5 <true/>
+7 <key>Version</key>
+8 <string>10.0</string>
+5 <key>Date</key>
+10 <date>2025-04-08T14:12:48Z</date>
+1 <key>SystemDomainsVersion</key>
+12 <string>24.0</string>
+13 <key>ManifestKey</key>
+14 data
+1s AwAAAGCuz6LD1HgkBVrnERoOpjn2X1p8xCZac202uuEbUbJGWeVGn7B+eGo=
+16 </data>
+17 F
+18
+19 <key>Lockdown</key>
+20 -
+21 <key>com. apple .MobileDeviceCrashCopy</key>
+22 <dict>
+23 <key>ShouldSubmit</key>
+24 <false/>
+25 </dict>
+26 <key>com. apple. TerminalFlashr</key>
+27 <dict>
+28 </dict>
+2g <key>com. apple.mobile.data_syne</key>
+30 <dict>
+31 <key>Notes</key>
+32 | <dict>
+= 国 国 国
+<key>AccountNames</key>

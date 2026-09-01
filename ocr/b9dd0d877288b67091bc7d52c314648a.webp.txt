@@ -1,0 +1,53 @@
+# OCR: b9dd0d877288b67091bc7d52c314648a.webp
+# 来源: .\02-WriteUp\2025\b9dd0d877288b67091bc7d52c314648a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+85600
+8561
+8562
+8563
+8564
+8565
+8566
+8567
+8568
+8569
+8570
+root@api-server-2:/home/king/web-api/app# cat index.js
+require(‘dotenv’).config() ;
+const express = require(「express );
+const cors = require(‘cors');
+const helmet = require(‘helmet') ;
+const morgan = require(「morgan ) ;
+const bodyParser = require(「body-parser) ;
+const path = require( path ) ;
+const 《 testConnection, initializeDatabase } = require('./src/utils/db');
+1) 踹 畔 导 人
+const authRoutes = require( ./Src/routes/auth.routes
+const productRoutes = require(「./src/routes/product.routes
+// 画 间 体 导 人
+const 《 errorHandler } = require(’./src/middleware/error .middleware’ )
+const 《 authMiddleware } = require(’./src/middleware/auth middleware’ );
+const app = express();
+const port = process.env.PORT || 3000;
+// ap el
+app.use(helmet ()
+app.use(cors()) ;
+app.use(morgan( ‘dev’ )) ;
+app.use(express. json());
+app.use(express.urlencoded({ extended: true }));
+app.use('/api/auth', authRoutes) ;
+app.use('/api/products', authMiddleware, productRoutes) ;
+J) RO Bh
+app.get(‘/api/health', (req, res) => {
+res. json({
+status: ‘ok’,
+message: ‘Service is running’,
+timestamp: new Date().tolS0String()
+yi
+广 ;
+// 根 踹 由
+app.get('/', (req, res) => {
+res.json({ message: “ 商 品 查 询 API 系 绕 正 在 运 行 });
+广 ;

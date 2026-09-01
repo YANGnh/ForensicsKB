@@ -1,0 +1,13 @@
+# OCR: 8e399cb5e4ece30f18554209c496ee06.webp
+# 来源: .\02-WriteUp\2025\8e399cb5e4ece30f18554209c496ee06.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+(base) python decrypt.py encrypt.txt
+"SERVER": "185.199.108.153"
+/var/spool/cups/",
+/tmp/.cache/",
+"/root/.local/share/upload. Log, 八 人 已 ,
+roject Dragonfire" Re 公 众 号 . 小 谢 取 证
+"LOG_FILE":
+"WATCHED_KEYWORD'

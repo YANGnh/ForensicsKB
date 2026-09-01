@@ -1,0 +1,9 @@
+# OCR: d2c2aa936b28ad304c91e95f53b70b25.webp
+# 来源: .\02-WriteUp\2024\d2c2aa936b28ad304c91e95f53b70b25.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+@override // org. springframework. security. crypto. password. Passwordéncoder
+public String encode(CharSequence rawPassword) {
+String salt = "{" + this.saltGenerator.generatekey() + "}"5
+return digest(salt, rawPassword) ;

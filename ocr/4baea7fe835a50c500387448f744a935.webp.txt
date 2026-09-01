@@ -1,0 +1,20 @@
+# OCR: 4baea7fe835a50c500387448f744a935.webp
+# 来源: .\02-WriteUp\2025\4baea7fe835a50c500387448f744a935.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+q
+CONTAINER ID IMAGE COMMAND CREATED STATUS PORTS N
+cleb3a2b673 java-app:local_ "java -jar /app/app..." About a minute ago Up About a minute 28089/tep ja
+3a9a7Se6d47e java-app:tocat "java -jar /app/app.." 6 weeks ago Exited (255) 52 minutes ago ja
+[root@locathost ~]# docker inspect c1
+【
+《
+"Id": "cle0b3a2b673b9e04a132acc88f501F42a590c4d7d3250bcb8562d28a769e4b4" ,
+"Created": "2025-07-10T03: 35:04. 1795561832",
+"path": "java",
+wargs": 【
+"jar",
+"/app/app. jar"
+1
+"State": {

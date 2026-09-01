@@ -1,0 +1,33 @@
+# OCR: 6cb82f4c3c87072e02f46d0286a8b539.webp
+# 来源: .\02-WriteUp\2025\6cb82f4c3c87072e02f46d0286a8b539.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+属 性 : Inux
+E
+Containerization method
+chroot
+Containerization options
+发 版 GNU/Lnux
+Debian
+E
+armhf
+发 行 版 GNU/Unux 版 本
+bookworm
+Bb
+http://ftp.debian.org/debian/
+READ
+E
+E
+‘S(EXTERNAL_STORAGE)/UUID
+锭 余 大 小 倩 位 : MB)
+25000
+ARSE
+extd
+APS
+android
+APES
+99¢26da5
+SAP
+android:aid_inet android:aid_sdcard_rw android:aid_graphics
+ahd

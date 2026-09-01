@@ -1,0 +1,51 @@
+# OCR: 0e725694382f925a72eccca37fb4f5ca.webp
+# 来源: .\02-WriteUp\2025\0e725694382f925a72eccca37fb4f5ca.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+(Mi Wireshark - 88% TCP
+BR (tep.stream eq 0) - ERELpcap
+-[@ 1098 root 9 W [kworker/R-wq_ri]
+1099 root 6 SW [irq/86-10320000]
+… 1100 root 9 M [kworker/R-wq_ri]
+1199 root 6 IMe [kworker/0:2H-kb]
+1202 root 6 IW< [kworker/R-cfg80]
+1226 root 6 SW [napi/phyo-7]
+226 1227 root e SW [napi/phy0-8]
+1228 root © Su [napi/phyo-9]
+1229 root 6 Su [napi/phyo-10]
+1231 root 6 Su [napi/phyo-11]
+sy. 1232 root e SW [napi/phy0-12]
+1263 root 9 Su [mt76-tx phyo]
+1286 root 6 Me [kworker/R-Fullc]
+++0 1486 logd 2664 5 /sbin/logd -5 128
+-~.FO 1540 root 4284 s /sbin/rpcd -s /var/run/ubus/ubus.sock -t 30
+2090 root 2852S  {hostapd} /sbin/ujail -t 5 -n hostapd - network -G network -C /etc/capabilities/wpad.json -c - /u
+2091 root 2852 5 {wpa_supplicant} /sbin/ujail -t 5 -n wpa_supplicant -U network -G network -C /etc/capabilities/wpad
++J@ 2116 network 。9956 5 /usr/sbin/wpa_supplicant -n -s -g /var/run/wpa_supplicant/global
+-t0 2117 network 10820 5 /usrysbinyhestapd -s -g /var/run/hostapd/global
+2155 root 2696 s /sbiynetifd
+… 2194 root 。 1258m 5 /usrybinydockerd --iptables-false
+2375 root 1644 s /usr/sbin/odhcpd
+2501 root 1972 5 /usr/sbin/uhttpd -f -h /ww -r [EWG -x /cgi-bin -u /ubus -t 60 -T 30 -k 20 -A1 -n 3 - 100
+心 . 2566 root 1288S /usrysbinyvseftpd -olisten_address=0.0.0.0 -olisten=YES -olisten_ipv6=NO /var/run/vsftpd/vsftpd. conf
+2603 root 1892 5 /usrybinydbus-daemon --system --nofork
+…6 2711 nobody 2324 5 avahi-daemon: running [InmortalWrt local]
+3204 root 1132S _/usr/sbin/dropbear -F -P /var/run/dropbear.1.pid -p 192.168.1.1:22 -p fdSb:faa4:afe6::1:22 -K 300 -
+… 3205 root 132 5 /usr/sbin/dropbear -F -P /var/run/dropbear.2.pid -p 222 -K 300 -T 3 -W 262144
+3547 root 2852 5 {ntpd} /sbin/ujail -t 5 -n ntpd -U ntp -6 ntp -C /etc/capabilities/ntpd.json -c -u -r /bin/ubus -
+-~..0 3584 ntp 1336 5 /usr/sbin/ntpd -n -N -S /usr/sbin/ntpd-hotplug -p ntp.tencent.com -p ntpl.aliyun.com -p ntp.ntsc.ac
+3833 root «24780 R /usrybinyted -i br-lan /bin/login
+, 3974 root 。 22489 5 containerd --config /var/run/docker/containerd/containerd.toml --log-level warn
+4007 root 2852 5 {dnsmasq} /sbin/ujail -t 5 -n dnsmasq -u -1 -r /bin/ubus -r /etc/TZ - /etc/dnsmasq.conf -r /etc/et
+心 6 4025 dnsmasq “5628 5 _/usr/sbin/dnsmasq -C /var/etc/dnsmasq.conf.cfg0141ic -k -x /var/run/dnsmasq/dnsmasq.cfg01411c. pid
+-t0 6055 root @ M [kworker/0:1-eve]
+6377 root 1468S 。/binylogin
+6379 root 1356S -ash
+心 ..6 6403 root @ IW “[iserkerye:2-eve]
+We BPI, 226 EE:
+E
+235 444 tur).
+Z BRA EcI
+mt:
+Eee, Hl

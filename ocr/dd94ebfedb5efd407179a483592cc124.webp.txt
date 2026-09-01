@@ -1,0 +1,33 @@
+# OCR: dd94ebfedb5efd407179a483592cc124.webp
+# 来源: .\02-WriteUp\2025\dd94ebfedb5efd407179a483592cc124.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+root@OpenWrt iat df
+Filesystem
+/dev/root
+efivars
+tmp fs
+/dev/ioopo
+overlayfs: /overlay
+tmpfs
+1K-blocks
+4352
+256
+244964
+38292024
+8292024
+512
+Used Available Use% Mounted on
+4352
+2
+168
+578144
+578144
+6
+9 100% /rom
+254 /sys/firmware/efi/efivars
+244796 。8Y /tmp
+7713880 “ 发 /overlay
+7713880 7 /
+512 0% /dev

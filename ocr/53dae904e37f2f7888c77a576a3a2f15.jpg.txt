@@ -1,0 +1,12 @@
+# OCR: 53dae904e37f2f7888c77a576a3a2f15.jpg
+# 来源: .\02-WriteUp\2024\53dae904e37f2f7888c77a576a3a2f15.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+ie X +
+root@debian:~# netstat -anpt | grep 3000
+tcp 6 8 0.0.0.0:3000
+root@debian-~# |
+0.0.0.0:*
+LISTEN
+1789/docker-proxy

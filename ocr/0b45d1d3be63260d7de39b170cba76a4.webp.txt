@@ -1,0 +1,20 @@
+# OCR: 0b45d1d3be63260d7de39b170cba76a4.webp
+# 来源: .\02-WriteUp\2025\0b45d1d3be63260d7de39b170cba76a4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+详 细 信 息 定 团 X
+名 称 : 8C6A8092-FC3D-4483-98A7-55E4842D56ECG@3xktx
+扣 展 代 : ktx
+sm: 文 件
+Aus: 272.04 KB
+MetaAddr: 4546466304
+Se:
+Image.tar/private/var/mobile/Containers/Data/Application/60
+1CD070-48D0-4FD9-8F13-
+A654331E0946/Library/SplashBoard/Snapshots/scenelD_com.
+apple.mobilesafari-B072C594-9344-4451-93E1-
+5378F67FB55E/8C6A8092-FC3D-4483-98A7-
+55E4842D56EC@3x.ktx
+meee: AMZ
+Bae: 否

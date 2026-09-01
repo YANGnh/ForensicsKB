@@ -1,0 +1,8 @@
+# OCR: e3ea6f4361e5b3ad6bf50d48b471dfb1.jpg
+# 来源: .\02-WriteUp\2024\e3ea6f4361e5b3ad6bf50d48b471dfb1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+0
+E E E E
+5 12206 F3.0¢ 2028-02-14 12:00 Sea 93 KB

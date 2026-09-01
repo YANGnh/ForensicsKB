@@ -1,0 +1,90 @@
+# OCR: 6a13cf515db4c824b54d7d5b9ad54065.webp
+# 来源: .\02-WriteUp\2026\6a13cf515db4c824b54d7d5b9ad54065.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+日 @
+田
+日 吴
+图
+日
+固 图 回 因 因 因 因 因 因 因 因 因 田
+BasicAnalyzer
+目 BaseInfo
+Certificate
+AllApIs
+AllStrings
+AppStrings
+Alluris
+AndroidManifest
+MalScan
+目 Resources
+DexClass
+8 MTT
+8 android. support .v4
+日 app
+日 @ INotificationSidecht
+@ cancel(String,int
+@ cancelAl1(String )
+© notify(String,int
+田 @ INotificationSidecht
+田 @ INotificationSidecht
+团 © RemoteActionCompat:
+田 跤 graphics.drawable
+田 跤 os
+砥 androidtranscoder
+砥 androidx
+畜 bolts
+£8 com
+畜 dc. squareup
+砥 fun. learnlife.beakpad_bui
+Bio
+£8 javax.annotation
+£8 kotlin.annotations.jvm
+fH net. lingala.zip4j
+# org
+砥 pl.droidsonroids.gif
+£8 uni.owry
+Config View Tools
+OB? | 坤 5S_M _C_F B 1 心 十 山 靥 四 口 | A
+index package
+declare
+File Name: _C:VUsersNEKONADesktop\ 山 丢 \ 出 题 \ 检 材 \ 周 字 APK 牛 件 \uni.owry.apk
+Package Name: uni.owry
+Main Activity: io.dcloud.PandoraEntry
+File Size: 21184244 bytes
+cSea689ea866ed2318bccbbc2cba5198
+Not Packed
+Target SDK:
+[MetaData]
+DCLOUD_DARK_MODE: auto
+DCLOUD_STREAMAPP_CHANNEL: — uni.owry|__UNI__7CB999B|12669123@3@2| common
+android.notch_support : true
+notch.config: portrait
+android.max_aspect: 2.5
+android. support .FILE_PROVIDER_PATHS: @resource
+[DEX Base Info]
+Dex File Name: classes .dex
+File Size: 9329828 bytes
+MDS: f5d37adcf482de23868e8668b4293882
+Class Size: 7843
+Method Size: 65487
+String Size: 68846
+Dex File Name: classes2.dex
+File Size: 1001608 bytes
+MDS: 2193362589f8da4c483a4defe6d46cda
+Class Size: 659
+Method Size: 6167
+String Size: 9680
+[Permissions]
+android. permission. INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android. permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.INSTALL_PACKAGES
+android.permission.REQUEST_INSTALL_PACKAGES
+android.permission.CHANGE_NETMORK_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android. permission. VIBRATE
+android.permission.READ LOGS
+| 团 帕 胡 onl t 皋 命 ry 2

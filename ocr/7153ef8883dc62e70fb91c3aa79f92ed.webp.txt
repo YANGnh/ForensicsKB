@@ -1,0 +1,31 @@
+# OCR: 7153ef8883dc62e70fb91c3aa79f92ed.webp
+# 来源: .\02-WriteUp\2024\7153ef8883dc62e70fb91c3aa79f92ed.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+mysql> select User from user;
+a
+ysql_infoschena
+rysql_sys|
+root
+1
+1
+msqtsession |
+I
+!
+Los Sembee opie Dome
+Toms in set (6.68 sec)
+msql show databases;
+Database 1
++
+1
++
+| information_schena |
+| mysql I
+1 performance_schena |
+1 sxi_prod I
+| sys !
++
+5
+rows in set (6.68 sec)
+s |

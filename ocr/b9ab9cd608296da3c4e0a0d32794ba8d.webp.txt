@@ -1,0 +1,33 @@
+# OCR: b9ab9cd608296da3c4e0a0d32794ba8d.webp
+# 来源: .\02-WriteUp\2025\b9ab9cd608296da3c4e0a0d32794ba8d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+® 1.powershell 6|7
+2.192,168.217.12 xX At
+“ 一 GO!» ssh , keexo192.168.217.12 5
+{"StreamConfig”:{}, “State” :{"Running” :false, *Paused” :false, “Restarting” :false, “OOMKilled” : false, “RemovalInProgress” :false, “Dead” :false, "Pid" :@, “ExitCode" :137,2
+“Error":**, “StartedAt” :*2025-@5-28T10 :46 :@0 330732122", "FinishedAt” :"2025-@5-28T10 :46 :38.31477978Z", “Health” :null}, “ID” :"d4cb231cae7fcef2c84d1418adb31458d37bce2
+4bcef88268cd13687971ee8b38f“,“Created“:“2825-84-88T66:22:26.651653457“,“Managed“:false,“Path“:“docker-entrypoint.sh c”, "ulimit -c unlimited \2
+408826\u8826 echo “ 冲 肢 动 服 务 …,\u8826\u8826 exec node index.js"], *Confil 'd4cb231cae7f", “Domainname false, “AttachS2
+tdout“:true“httachStder xposedPorts”: E "Tty” :false, “OpenStdin” :false, *StdinOnce” :false, “Env \YSQL_USER=ro2
+ot”, "MYSQL_PASSWORD=7881", “MYSQL_DATABASE=product_db”, ” evelopment” , * JWT_EXPIRES_IN=24h", "MYSQL_PORT=3306 PATH=/2
+usr/local/sbin:/usr/local/bin: /usr/sbin: /usr/bin:/sbin 6.28.2”, "YARN_VERSION=1 22.19”, “DEBIAN_FRONTEND=noninteractive”, “DOCKEI ‘DEBUG_2
+FLAG=1", "NODE_OPTIONS=--max-old-space-size=4096"], "Cmd” : -c", "ulimit -c unlimited \u@@26\u@e26 echo '# BARS.
+Imag eb-api: latest”, “Volumes” :nul1, *WorkingDir” :"/app”, "Entrypoint” :["docker-entrypoint.sh”], “OnBuild” :nul1, “Labels” :{*com.docker .compose.config-hash” :"7f2
+87ddf460fecb69ed4e43a5f56dbe346052743a41a1bd28b8a84c7409774a9F", "com.docker . compose .container-number” :"1", “com.docker .compose.depends_on”:”", “com.docker .compod
+se. imag ha256:996a3267288d224c4eada5f87368b8355728538ba18e2c994bb171428589bf3b“,“com.docker . compose. oneoff":"False”, "com.docker .compose.project” :"web-api"2
+, "com. docker . compose. project .config_files” :*/home/king/web-api/docker-compose.ym1” , "com. docker . compose. project .working_dir” :*/home/king/web-api”, "com.docker .c2
+compose. service” : "api", *com.docker .compose. version" sha256:996a32e7288d224c4eada5f87366b8355728538ba18e2c994bb171428589bf3b“,“Inagelanifest3
+*:null, “NetworkSettings“ andboxID" :*", , "HairpinMode” : false, “LinkLocalIPv6Address LinkLocalIPv6PrefixLen” :@, “Networks” :{"web?
+-api_default” : {"IPAMConfiig” : :nul1, “Aliases” :["web_api”, "api"], "MacAddress” :*", “DriverOpts” :nul1, “GwPriority” :@, "NetworkID" :"3b4688fabaf11adeddc81b2
+€35d72852c4f13b2088c8f4008ff fa445f07b9b4c3", “EndpointID":”*, "Gateway’ IPAddress“:““,“IPPrefixLen“:8,“IPv6Gateway GlobalIPv6Address“:““,“6lobalIpv6pre3
+fixLen” :@, “DNSNames” :[" :"*}}, “Service” :null, “Ports” :null, "SecondaryIPAddresses” :nul12
+, "SecondaryIPv6Addresses” :nul1, *HasSwarmEndpoint” :false}, “LogPath” :"/var/1ib/docker /containers/d4cb231cae7fcef2c84d141 8adb3145@d37bc4bcef@0268cd1360797 1ee8b382
+f /ddcb231cae7 fcef2c84d141 8adb31458d37bc4bcef8268cd13607971ee8b38F-json.log”, "Name" :*/web_api”, “Driver”: “overlay2 :"linux”, "ImagePlatform” :{"architecture?
+Linux-},“RestartCount“:44,“HasBeenStartedBefore“ : true, "HasBeenManuallyStopped” :true, *MountPoints SecretReferences” :null, "ConfigReferences?
+ountLabel ProcessLabel” :"", "AppArmorProfile” :"docker-default” , "SeccompProfile’ loNewPrivileges” : false, "WritableCgroups” :null1, “HostnamePath” :2
+* /var /1ib/docker /containers/d4cb231cae7 fcef2c84d1418adb31458d37bc4bcef@0268cd1360797 1 ee8b38F /hostname”, “HostsPath” :" /var/1ib/docker /containers/d4cb231cae7fcef?
+2c84d1418adb31456d37bc4bcef68268cd13687971ee8b38f/hosts“,“Shapath “ResolyConfPath“:“/var/lib/docker/containers/d4cb231cae7fcef2084d1418adb31458d37bo4bcef63
+\u6826\u6826 exec node index.js"],"2
+一 INSERT -- 1,935-929 All

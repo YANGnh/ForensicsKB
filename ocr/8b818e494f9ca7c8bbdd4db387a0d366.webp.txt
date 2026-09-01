@@ -1,0 +1,17 @@
+# OCR: 8b818e494f9ca7c8bbdd4db387a0d366.webp
+# 来源: .\02-WriteUp\2025\8b818e494f9ca7c8bbdd4db387a0d366.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+E
+5) bashre
+| i) .bash history
+1 profile
+3) viminfo
+一 3E , 日 2 | Ome - Ava
+docker restart 832
+cd..
+mkdir test
+cd test/
+poweroff,
+docker ps -a

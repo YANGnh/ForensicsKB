@@ -1,0 +1,64 @@
+# OCR: c2956487839570e4a78e6f9e0e4feb5a.webp
+# 来源: .\02-WriteUp\2025\c2956487839570e4a78e6f9e0e4feb5a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+Sources Network
+Performance Memory Application Privacyandssecurity Lighthouse Recorder
+团 popup.htmt —popupjs globaljs apherceeg _Accounts.tsx popupts 义 团 bh # 4 木 氓
+260 | |] | | | await new Pronise((xesolve) => { ps Baa a
+BrowserStorage.remove(oldKeys, () => { y Local. t
+| resolve(); a t
+H:
+目
+state. state.encryption.updateEncryptionPassword(
+wordArray. toString()
+de
+| await state.dispatcn(updatetntries”
+}else t
+const key = CryptoJS.AES.decryp
+const isCorrectPassword
+(resolve: (value
+const iframe
+‘await new Promise(
+string) => void) => {
+document .getElementByTd ( "argon-sandbox
+Const message =
+action: “verify”,
+value: key,
+ash: Enekey.hash,
+(zesponse) => {
+;
+U eslint-disable-next-Line @typescript-eslint/ban-ts-ignore
+1/@ts-ignore
+ifrane .contentWindow. postMessage(message,
+| resolve (response. data.response) |
+|
+| i Lee
+ie ly
+6 characters selected
+(From popups) Coverage: n/a
+) [[Prototype]]: Object
+abel: 12
+> ops: 0
+> sent: 一 0
+> trys: 0
+) [[Prototype]]: Object
++ Closure
+undefined
+> [[prototype]]: Object.
+fenckey: undefined
+‘encKeyHash: undeTined
+entry: undefined
+undefined
+undefined
+undefined
+needUpdateStorage: undefined
+eldkeys: underined
+uz undefined
+wordArray: undefined
+) Closure (applyPassphrase)
+» Closure
+» Closure
+Sei
+Window 7

@@ -1,0 +1,9 @@
+# OCR: ff1c7070582afeb9c67ad6ef0d4db7f4.webp
+# 来源: .\02-WriteUp\2024\ff1c7070582afeb9c67ad6ef0d4db7f4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+@override // org. springframework. security. config. annotation. web. configuration. WebSecurityConfigurerAdapter
+protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+auth.userDetailsService(this.userService) .passwordEncoder(new NessageDigestPasswordEncoder(”NDS"))3
+)

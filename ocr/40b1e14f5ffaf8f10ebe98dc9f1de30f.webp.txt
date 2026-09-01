@@ -1,0 +1,28 @@
+# OCR: 40b1e14f5ffaf8f10ebe98dc9f1de30f.webp
+# 来源: .\02-WriteUp\2025\40b1e14f5ffaf8f10ebe98dc9f1de30f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+sn
+npm run serve
+cd d:\crm\backedn
+cd d:\crm\backend
+node -e "console.log*
+node -e “console log SiS BRE)"
+npm run dev
+npm run serve
+> HEBER > 郭 (D) > crm > backend
+curl -i http://localhost:3000/api/health
+npm run dev
+npm run serve
+npm run dev
+cd d:\crm\backend
+npm run dev
+cd d:\crm\frontend
+npm run serve
+npm run dev
+npm run serve
+ed d:\crm
+node scripts/generate-test-datajs
+npm install mongoose faker crypto doteny
+node scripts/generate-test-datajs

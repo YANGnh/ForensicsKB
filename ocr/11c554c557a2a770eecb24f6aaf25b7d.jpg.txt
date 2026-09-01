@@ -1,0 +1,36 @@
+# OCR: 11c554c557a2a770eecb24f6aaf25b7d.jpg
+# 来源: .\02-WriteUp\2024\11c554c557a2a770eecb24f6aaf25b7d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+2024 FIC 网 霾 X 、
+Rex +
+[root@localhost ~]# bt _
+SORT ofr
+( 重 看 面 板 服 务 (8) 改 面 极 谋 口 1
+(2) 停 止 甄 松 服 务 C9) 清 除 面 权 缓 孙 1
+(3) 局 动 瓶 松 服 务 (10) 淇 除 登 录 限 刻 1
+(4) 章 辆 面 板 服 务 G11) 设 置 是 吾 开 局 Ip + User-Agent 验 证 1
+(5) 修 改 面 枢 宿 码 G2) 取 消 域 名 绕 定 限 制 1
+(6) 修 改 面 梦 用 户 名 (13 取 消 I 沃 闰 降 制 1
+(7). 强 制 修 &hysqL 宣 码 G4) 查 看 面 投 默 认 信 恩 1
+(22) 显 乐 丧 枢 羰 误 目 志 (15) SBR |
+(23) 关 岩 Bastchuth 认 证 (6) 修 复 面 桥 ( 检 查 错诬 些 更 新 面 板 文 件 到 最 新 版 ) |
+(24) 关 闭 动 态 口 令 认 证 (177 设 真 日 志 切 割 春 吾 应 缉 |
+2) BRL B OE RASeM cn) RRA Fah mh 1
+(26) iss 9 关 闯 面 格 春 录 蒸 区 限 制 1
+(20) Bam AT 〈29) 取 消 访 问 设 备 验 证 |
+28) Resolving timed out after 4516 milliseconds
+curl: (28) Resolving timed out after 4516 milliseconds
+28) Resolving tined out after 4517 milliseconds
+BT-Panel default info!
+FINA TPM, WEIS BA rp rh
+外 网 面 桥 扦 抄 : https:// 服 务 警 公 网 Ip:14131/adec8c75
+内 网 面 松 地 址 : https://192 168.8-89-14131/adec8c75
+username: j90ehwoa
+password: 4
+Warning:
+If you cannot access the panel,
+release the following port (8888|888/80/443|26|21) in the security grow
+河 葛 古 妮 定 码 仅 震 首 收 脱 命 面 板 前 能 正 编 状 友 , 其 宁 时 吾 算 通 吉 “bt 5 命 仪 霍 览 密 西
+[root@locathost ~]# []

@@ -1,0 +1,25 @@
+# OCR: f6ce5eedd050e4b33774ca689b713f99.webp
+# 来源: .\02-WriteUp\2025\f6ce5eedd050e4b33774ca689b713f99.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+ye
+* GR
+* @return string
+*/
+public function login()
+{
+if ($this->request->isPost()) {
+$data = $this->request->only([‘username', ‘password’, ‘verify']);
+$validate_result = $this->validate($data, ‘Login');
+if ($validate_result !== true) {
+$this->error($validate_result);
+} else {
+$admin_user = Db
+ame(' admin_user')->field('id, username, status )->where($where)->find();
+if (lempty($admin_user)) 《
+if ($admin_user['status'] != 1) {
+$this->error(* 当 前 用 户 已 禅 用 ;
+} else {
+Session: :set(‘admin_id', $admin_user[‘id']);
+set(‘admin_name’, $admin_user[‘username*]);

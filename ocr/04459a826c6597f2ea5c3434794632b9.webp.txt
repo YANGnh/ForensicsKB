@@ -1,0 +1,11 @@
+# OCR: 04459a826c6597f2ea5c3434794632b9.webp
+# 来源: .\02-WriteUp\2025\04459a826c6597f2ea5c3434794632b9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+趸 。 虫 15pm 计 算 机 检 材 e01 > [ 史 基 本 信 息 , 二 终 端 历 史 记 录
+世 李
+了 ae
+1 wsreset - heikewang
+源
+2 ssh root@78.45.24.55 heikewang

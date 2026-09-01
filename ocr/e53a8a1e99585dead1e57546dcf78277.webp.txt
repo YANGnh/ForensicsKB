@@ -1,0 +1,7 @@
+# OCR: e53a8a1e99585dead1e57546dcf78277.webp
+# 来源: .\02-WriteUp\2025\e53a8a1e99585dead1e57546dcf78277.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+\UUI0: 1 file pushed, © skipped. 73...MB/s (26214400000 bytes in 341.072s)
+> adb push .\UUID /storage/emulated/0/

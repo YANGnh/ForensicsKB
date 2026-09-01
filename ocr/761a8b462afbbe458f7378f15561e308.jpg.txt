@@ -1,0 +1,24 @@
+# OCR: 761a8b462afbbe458f7378f15561e308.jpg
+# 来源: .\02-WriteUp\2024\761a8b462afbbe458f7378f15561e308.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+回 口 心 目
+E
+E
+/not
+8 @l @
+boot
+data
+dev
+home
+media
+mnt
+bash_profile
+bashre
+e
+| 口 回 口 回 口 里 里 里
+_DPINSTIOG
+E
+Last login: Thu Apr 25 10:04:07 2024
+[root@server ~]# ff

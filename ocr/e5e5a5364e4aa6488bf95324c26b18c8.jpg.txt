@@ -1,0 +1,11 @@
+# OCR: e5e5a5364e4aa6488bf95324c26b18c8.jpg
+# 来源: .\02-WriteUp\2024\e5e5a5364e4aa6488bf95324c26b18c8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+a
+ih res/layout/activity main.xnl
+ay recht mare compute sorta one-vreAat~ soot ej std pre irl Laon ekg hei pen
+0 fr/teal_7007 android: layout width="natch parent” android: layout height="wrap_content” android:text=" I" />
+18 natch parent” android: layout height="weap_content™ android: text="6L4Z6VeNSpivSLiASLiqSvelleKeBSpiSe2u" android: Layout_weight="@.1" androtd: inputType="textPersontiare”/>
+BY bet data” android: Layout_width="match_parent™ android:layout_height="wrap_content” nrsititn 00HIE0E0HN0HHIHEHIEEEENIISIES android: layout weight

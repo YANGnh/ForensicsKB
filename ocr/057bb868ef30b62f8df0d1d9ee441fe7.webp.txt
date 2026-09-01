@@ -1,0 +1,13 @@
+# OCR: 057bb868ef30b62f8df0d1d9ee441fe7.webp
+# 来源: .\02-WriteUp\2025\057bb868ef30b62f8df0d1d9ee441fe7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+Input
+UESSVDezMzg5
+Alphabet
+A-Za-z0-9+/=
+H wc 12 > 1
+H
+Output
+PORT389

@@ -1,0 +1,18 @@
+# OCR: e62c7609cc705288699b7935d3b9134c.webp
+# 来源: .\02-WriteUp\2025\e62c7609cc705288699b7935d3b9134c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+亘L
+> contyrnl 动
+© configphp 46 [icmp] 192.168.100.254
+a7
+@ database-php i = -
+目 E l
+© function.php ax 。
+口 goon? fin 543 last -a
+、 544 uname -a
+里 goon2_finzip 545 cat /etc/passwd
+546 1s
+里 tppstmsez 547 cd trojan/
+Te sis

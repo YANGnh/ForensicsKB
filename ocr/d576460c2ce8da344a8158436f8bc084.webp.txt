@@ -1,0 +1,15 @@
+# OCR: d576460c2ce8da344a8158436f8bc084.webp
+# 来源: .\02-WriteUp\2025\d576460c2ce8da344a8158436f8bc084.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+E 动
++
+E
+mane
+mene
+une
+E
+E
+e
+as or

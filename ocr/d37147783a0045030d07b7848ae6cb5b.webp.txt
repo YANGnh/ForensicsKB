@@ -1,0 +1,17 @@
+# OCR: d37147783a0045030d07b7848ae6cb5b.webp
+# 来源: .\02-WriteUp\2025\d37147783a0045030d07b7848ae6cb5b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+In [21]:
+In [22]:
+In [23]:
+In [24]:
+In [25]:
+Out[25]:
+import pyotp
+import datetime
+old_day = datetime.datetime(2022, 5, 12, 0, 54, 19)
+totp = pyotp.TOTP('LIANHONGQIANQIAN')
+totp.at(old_day)
+"980000"

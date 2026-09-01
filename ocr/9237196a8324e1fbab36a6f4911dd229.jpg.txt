@@ -1,0 +1,30 @@
+# OCR: 9237196a8324e1fbab36a6f4911dd229.jpg
+# 来源: .\02-WriteUp\2024\9237196a8324e1fbab36a6f4911dd229.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+[root@localhost /1# ifconfig
+ens33: f lags=4163<UP, BROADCAST, RUNNING ,MULTICAST> mtu 158
+inet 192.168.188.188 netmask 255.255.255.8 broadcast 192.168.180.255
+inet6 fe88::5642:5868:de23:af71 prefixlen 64 scopeid @x28<1ink>
+ether @8:0c:29:bb:4b:91 txqueuelen 1888 (Ethernet)
+RX packets 6188 bytes 1293477 (1.2 MiB)
+RX errors 8 dropped @ overruns 8 frame 6
+TX packets 15125 bytes 18328478 (17.4 MiB)
+TX errors 8 dropped 8 overruns @ carrier 8 collisions 6
+JADCAST, RUNNING, MULTICAST> mtu 1588
+1 | netmask 255.255.255.8 broadcast 222.2.2.255
+9f7:he22:e15 prefixlen 64 scopeid @x20<1ink>
+4b:9b txqueuelen 1888 (Ethernet)
+RX packets 1479 bytes 167882 (163.9 KiB)
+RX errors 8 dropped 8 overruns 8 frame 6
+TX packets 2842 bytes 2478248 (2.3 MiB)
+TX errors 8 dropped 8 overruns @ carrier 8 collisions 6
+lo: flags=?3<UP,LOOPBACK,RUNNING> mtu 65536
+inet 127.8.8.1 netmask 255.0.0.8
+inet6 ::1 prefixlen 128 scopeid @x1@<host>
+loop txqueuelen 1 (Local Loopback)
+RX packets 98 bytes 8548 (8.3 KiB)
+RX errors 8 dropped @ overruns 8 frame 6
+TX packets 98 bytes 8548 (8.3 KiB)
+TX errors 8 dropped 8 overruns @ carrier 8 collisions 6

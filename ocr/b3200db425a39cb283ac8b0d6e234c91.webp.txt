@@ -1,0 +1,34 @@
+# OCR: b3200db425a39cb283ac8b0d6e234c91.webp
+# 来源: .\02-WriteUp\2025\b3200db425a39cb283ac8b0d6e234c91.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+详 细 信 息
+名 称 : gitlab.rb
+扩 展 名 : rb
+类 型 : 文 件
+Kuh: 153.28 KB
+访 问 时 间 : 2025-10-08 13:31:11
+修 改 时 间 : 2025-10-06 11:06:37
+元 数 据 地 地 : 102971999
+全 踹 径 : centos(62SKiX-rzzV-xDAq-M1MO-jLPO-sXtc-AX6FVP)/ 分
+加 惯 类 型 : 未 加 密
+已 删 除 : 3
+X1/ete/gitlab/gitlab.rb
+文 本 视 图 十 六 进 制 视 图 口
+HIGHLIGHT @
+BRD |
+##! Note: During installation/upgrades, the value of the environment vari
+##! EXTERNAL_URL will be used to populate/replace this value.
+##! On AWS EC2 instances, we also attempt to fetch the public hostname/IP
+##! address from AWS. For more details, see:
+##! https: //docs. aws. amazon. co aiest/UserGuide/ instancedata-data
+external_url“http://172.23.194.
+## Roles for multi-instance GitLab
+##! The default is to have no roles enabled, which results in GitLab runn
+instance.
+##! Options:
+b application_role
+E Iedis_sentinel_role
+1 Yedis_master_role
+Ead Yedis replica_role

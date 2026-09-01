@@ -1,0 +1,14 @@
+# OCR: b79ad72cd9f2a661315be55a82035f08.webp
+# 来源: .\02-WriteUp\2025\b79ad72cd9f2a661315be55a82035f08.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+397 king@api-server-2:~$ sudo docker inspect d4cb | grep MYSQL
+398 MYSQL_USER=root”,
+399 "MYSQL_PASSWORD=7001",
+400 "MYSQL_DATABASE=product_db",
+401 “WySQL_pog
+402 "MYSQL_HOS'
+463 king@api-server-2:~S J
+306
+72..16.10.201

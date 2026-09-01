@@ -1,0 +1,21 @@
+# OCR: 13a05774aaf790effdc774a4a550d41b.webp
+# 来源: .\02-WriteUp\2025\13a05774aaf790effdc774a4a550d41b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+String b7 = el.c.b(str);
+Log.d("Loginservice", “Username MOS first 6 chars
+String 国 - e1-c.a(String. valueOF (3981) )5
++
+null) 《
+this as java.lang.Strinaing(star
+String str3 = “http://127.0.0.1:8080/login/” + b75
+Log.d("Loginservice”, "Login URL: * + str3)s
+3sONObject JSONObject = new ISONObject()
+JS0NObject.put("usernane", str)
+Jsouobject.put("password", str2);
+jsonobject.put("id", 7;
+jsonobject.put("Flag”,
+String jsONobject2 = ecE-testring()3
+€2.e.d(JSONObject2, "jsonbject.toString()")s
+y yard = y.#5378e5

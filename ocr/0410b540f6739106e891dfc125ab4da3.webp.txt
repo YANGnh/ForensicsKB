@@ -1,0 +1,13 @@
+# OCR: 0410b540f6739106e891dfc125ab4da3.webp
+# 来源: .\02-WriteUp\2024\0410b540f6739106e891dfc125ab4da3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+Js
+datasour:
+type: con-alibaba druid_pool DruidDataSource E
+driver-class-nane- con_nysql cj jdbc_Driver el conm
+url: jdbc:mysqL: //rm-bp18td28bsh13f5jy mysqL_rds-aliyuncs .con:3306/sxj_prod?a
+cuseltcodec ueautoReconnect="" ueuseAffectedRow: else&serverTin
+username: root
+123456]

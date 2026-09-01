@@ -1,0 +1,44 @@
+# OCR: 9db58b44f1ead8bf3edb5fac1c7912ba.webp
+# 来源: .\02-WriteUp\2025\9db58b44f1ead8bf3edb5fac1c7912ba.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+NoahTie@LAPTOP-H91TARRE 0/F/Reverse
+>
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+[+]
+You
+.\pyinstxtractor-ng F:\FIC_Final\File\ie # 1\recphrase_unpack
+Processing F:\FIC_Final\File\ie # 1\recphrase_unpack
+Pyinstaller version: 2.1+
+Python version: 3.11
+Length of package: 45134537 bytes
+Found 414 files in CArchive
+Beginning extraction...please standby
+Possible entry point: pyiboot®1_bootstrap.pyc
+Possible entry point: pyi_rth_inspect.pyc
+Possible entry point: pyi_rth_pkgutil.pyc
+Possible entry point: pyi_rth_multiprocessing.pyc
+Possible entry point: pyi_rth_pkgres.pyc
+Possible entry point: pyi_rth_glib.pyc
+Possible entry point: pyi_rth_gi.pyc
+Possible entry point: pyi_rth_mplconfig.pyc
+Possible entry point: reco.pyc
+Found 689 files in PYZ archive
+Successfully extracted pyinstaller archive: F:\FIC_Final\File\#@ # 1\recphrase_unpack
+can now use a python decompiler on the pyc files within the extracted directory

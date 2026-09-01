@@ -1,0 +1,34 @@
+# OCR: 8c54228846a876bbe2e7a5cc43e01158.jpg
+# 来源: .\02-WriteUp\2024\8c54228846a876bbe2e7a5cc43e01158.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+ws Fy member @jinyi (112 MySQL) - 要
+Ber Ome 自 招 3 Omere Pze 7 be | ke
+FR 55] SM BAR 8 BR SOL RLS
+k= Mi AS oull ew
+T 4 口 人 1
+invite code varchar 32 日 口
+phone varchar 32 口 口
+member id varchar 32 日 口 E
+member type int T a 口 S555)
+leader level int T a 口 E
+referrer. member id varchar 32 口 口 HBA
+head image varchar 255 口 口 学
+nick name varchar 64 口 口 E
+user_name varchar 64 口 口 E
+identity card varchar 32 口 口 8
+member from int 园 日 口 SSE
+wechat_open id varchar 28 口 口 @iGopenid
+password varchar 32 口 口 E
+pay_password varchar 32 口 口 SHES
+master_member id varchar 32 口 口 3Smenbend
+p memberid varchar 32 口 口 Bid
+join date datetime 日 口 Jnaeig
+team flag int T a 口 E
+freeze type int T a 口
+freeze reason varchar 255 口 口
+invite level int " 日 口
+Fane Gin int 团 回 口
+shop type int 园 a a
+super_purchase flag tinyint 1 a 口 z

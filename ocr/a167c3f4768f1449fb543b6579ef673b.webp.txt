@@ -1,0 +1,25 @@
+# OCR: a167c3f4768f1449fb543b6579ef673b.webp
+# 来源: .\02-WriteUp\2024\a167c3f4768f1449fb543b6579ef673b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+8
+76eesb2ceeze
+2205ccbadec7
+grvoma
+starrocks:1.0
+mysql:1.0
+sae alll tl untutyang
+"sh -c '/opt/apache/.."
+root-starrock:
+redis
+"docker-entrypoint.s.."
+E
+12 days ago
+2 weeks ago
+Up 8 minutes (healthy)
+Up 8 minutes
+18000/tcp
+33060/tcp, 8
+13306->3306/tep,
+3306->3306/tep

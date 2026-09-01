@@ -1,0 +1,14 @@
+# OCR: 65508ffde1daa5712e751d8227efdf5d.webp
+# 来源: .\02-WriteUp\2025\65508ffde1daa5712e751d8227efdf5d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+l
+Al2
+ok
+a |
+ns
+aide
+Bae 医
+gao |
+国 园 国 国 四 3 3 3 s

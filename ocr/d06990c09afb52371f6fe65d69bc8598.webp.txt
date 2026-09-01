@@ -1,0 +1,9 @@
+# OCR: d06990c09afb52371f6fe65d69bc8598.webp
+# 来源: .\02-WriteUp\2025\d06990c09afb52371f6fe65d69bc8598.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+A H jedsomcom
+新 一 贷
+最 高 借 款 额 度 ( 元
+$00. 000

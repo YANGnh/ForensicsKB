@@ -1,0 +1,25 @@
+# OCR: 21c850b44fcd2e6eed0e76dba022cf89.jpg
+# 来源: .\02-WriteUp\2024\21c850b44fcd2e6eed0e76dba022cf89.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+David: Laptop: 64GB 21-2)
+E
+E BRS 9 2024/11/10010:47:58
+ra E
+月 IANDavid_Laptop_64GB.e01], 3K 3 Eft:
+80: E
+Windows Installation
+\Windows
+Domain: WORKGROUP
+Computer name: DESKTOP-O5P7FVS
+Owner: David Tenth
+43
+Last shutdown: 2024/08/12416:05:34 +8
+Number of accounts: 2
+E NTFS.
+ERS 37,090.810,368 S45 - 34568
+E HERS EM.
+E
+ARABS ISCAS Bx Se AIA: UTC
+国 ssQ) E a E 门 余 t

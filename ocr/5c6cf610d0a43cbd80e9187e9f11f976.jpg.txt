@@ -1,0 +1,26 @@
+# OCR: 5c6cf610d0a43cbd80e9187e9f11f976.jpg
+# 来源: .\02-WriteUp\2024\5c6cf610d0a43cbd80e9187e9f11f976.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+丁 | cpvesss, 国 tszsnal
+Deas
+口 1
+口 2
+口 3
+口 4
+口 5
+8
+RRR maxes
+vm-100-disk-O.qcow2
+vm-101-disk-O.qcow2
+vm-102-disk-O.qcow2
+vm-110-disk-O.raw
+vm-111-disk-O.vmdk
+Rexeme
+E
+data.£01/3R4/images/100/vm-100-disk-0.qcow2
+data.£01/33R4/images/101/vm-101-disk-0.qcow2
+data.£01/3R4/images/102/vm-102-disk-O.qcow2
+data.£01/33R4/images/110/vm-110-disk-O.raw
+data.£01/33R4/images/111/vm-111-disk-O.vmdk

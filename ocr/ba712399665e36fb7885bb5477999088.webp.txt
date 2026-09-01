@@ -1,0 +1,36 @@
+# OCR: ba712399665e36fb7885bb5477999088.webp
+# 来源: .\02-WriteUp\2025\ba712399665e36fb7885bb5477999088.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+口 厨 Cobalt Strike Tools work xX + v - o x
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0x0008 server,get-urt 0x0003 0x0100 “192.168.111.128,/__utm.gif「
+0x0043 DNS_STRATEGY 0x0001 0x0002 0
+0x0044 DNS_STRATEGY_ROTATE_SECONDS Ox0002 Ox0004 -1
+0x0045 DNS_STRATEGY_FAIL_X 0x0002 Ox0004 -1
+0x0046 DNS_STRATEGY_FAIL_SECONDS 0x0002 0x0004 -1 — , ,
+0x000e SpawnTo 0x0003 0x0010 'xOE\x15\xa0\x7f\x822090 U82\x16'
+0x001d spawnto_x86 0x0003 0x0040 '%windir%\\syswow64\\rundl132.exe'
+Ox001e spawnto_x64 0x0003 0x0040 '%Swindir%\\sysnative\\rundl132.exe'
+0x001f CryptoScheme 0x0001 0x0002 0
+0x001a get-verb 0x0003 0x0010 “GET 「
+0x001b pastevenla 0x0003 xolouty) "POST '
+Ox001c 6 hun
+0x0025| license- ue 391144938 Siieiis uniques -> ips/hostnames: 183 publickeys: 155
+0x0024 PjBw==「
+0x0026 bStageCleanup 0x0001 0x0002 0
+0x0027 bCFGCaution 0x0001 0x0002 0
+0x0047 MAX_RETRY_STRATEGY_ATTEMPTS 0x0002 0x0004 0
+@x0048 MAX_RETRY_STRATEGY_INCREASE 0x0002 0x0004 0
+@x0049 MAX_RETRY_STRATEGY_DURATION 0x0002 0x0004 0
+0x0009 useragent 0x0003 0x0100 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; MOW64; Trident
+75.0; MANM; MANM) “
+0x000a post-urt 0x0003 0x0040 '/submit.php'
+0x000b Malleable_C2_Instructions 0x0003 0x0100
+Transform Input: [7:Input,4]
+Print
+0x000c http_get_header 0x0003 0x0200
+Build Metadata: [7:Metadata,3,6:Cookie]
+BASE64
+Header Cookie

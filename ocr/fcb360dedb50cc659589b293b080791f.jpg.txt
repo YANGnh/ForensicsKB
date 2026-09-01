@@ -1,0 +1,20 @@
+# OCR: fcb360dedb50cc659589b293b080791f.jpg
+# 来源: .\02-WriteUp\2024\fcb360dedb50cc659589b293b080791f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+n
+我 f 已 收 集 名 导 导 入 数 据 时 所 霭 的 全 部 信
+。 点 击 GRRE] TSA.
+1,012
+4,012
+6
+6
+oooa2
+[IMP] Import type - Excel file
+[IMP] Import from - CA\Users\32622\Desktop\ 2024487 VEE thexlsx
+[IMP] Create table [information]
+[IMP] Import data [information]
+[IMP] Processed: 1012, Added: 1012, Updated: 0, Deleted: 0, Errors: 0
+[IMP] Finished successfully
+fe Import start

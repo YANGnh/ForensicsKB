@@ -1,0 +1,14 @@
+# OCR: ca0d79e2cf21a772cf5d90269eb9d1d0.webp
+# 来源: .\02-WriteUp\2024\ca0d79e2cf21a772cf5d90269eb9d1d0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+一
+B® iscsi Target Server control
+Target storage name Start (sector) Connections
+vdevo meiya_test_2 0 894825752 -
+vdevi. meiya_test_2 25728 893386752 -
+vdev2 meiya_test_2 1152 24576 -
+vdev3 meiya_test_2 1152 24576 -
+vdev4 meiya_test_2 1152 24576 -
+汪 Refresh @ Chose

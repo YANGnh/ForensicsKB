@@ -1,0 +1,20 @@
+# OCR: 7098d76eab42963abc6ab099e0aaeb2b.jpg
+# 来源: .\02-WriteUp\2024\7098d76eab42963abc6ab099e0aaeb2b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+E
+Xshell 7 (Build 0157)
+Copyright (c) 2020 NetSarang Computer, Inc. All rights reserved.
+AF RRRUET:
+License Status: Not Validated
+SHES:
+‘Xshell.exe: 7.0.0040, nssock2.dlk 7.0.0040, nsssh3.dll: 7.0.0040, nsprofile2.dll
+7.0.0040, nslicense.dll: 7.0.0040, nsutil2.dll:7.0.0040, Xagent.exe: 7.0.0040
+Xshell is a registered trademark of NetSarang Computer, Inc. SSH is a
+registered trademark and Secure Shell is a trademark of SSH Communications
+Security Corp. (wwnv.ssh.com) This product includes software developed by the
+OpenSSL Project for use in the OpenSSL Toolkit. Acknowledgments to the
+following individuals for language translations: Marc Morales (Francais), Alex
+Silva (Portugués), Andrey Kolbasenko fyccomy
+hitps://wwxshellicom

@@ -1,0 +1,6 @@
+# OCR: 459e16e252efbddfba83f575df3d7577.jpg
+# 来源: .\02-WriteUp\2024\459e16e252efbddfba83f575df3d7577.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+Vmware ESXi

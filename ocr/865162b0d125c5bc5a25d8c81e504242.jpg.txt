@@ -1,0 +1,12 @@
+# OCR: 865162b0d125c5bc5a25d8c81e504242.jpg
+# 来源: .\02-WriteUp\2024\865162b0d125c5bc5a25d8c81e504242.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+量 deal_status
+E
+i
+不 春 nul
+E
+ae
+URS

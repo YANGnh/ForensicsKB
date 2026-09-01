@@ -1,0 +1,26 @@
+# OCR: 65e92a9bcb256c0e243699d30d4c842f.webp
+# 来源: .\02-WriteUp\2025\65e92a9bcb256c0e243699d30d4c842f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+详 细 信 息
+名 称 : REG PREFxml
+MD5: D5A8CCAC7571CE30A2CF454401FF4432
+扩 展 名 : xml
+类 型 : 文 件
+A: 255 6
+创 建 时 间 : 2025-09-17 10:41:28
+访 问 时 间 : 2025-09-17 10:41:28
+修 改 时 间 : 2025-09-17 10:41:28
+元 数 据 地 址 : 262521
+全 路 径 ; 鲁 堪 安 卓 手 机 vmdk/ 分 区 4/data/comyinxiang/shared prefs/REG PREFxml
+加 鹏 类 型 : 未 加 密
+已 脑 除 : 否
+原 类 型 视 图
+文 本 视 图
+xml version-
+十 六 进 制 视 图
+encoding= standalone=
+036801
+10.8
+18

@@ -1,0 +1,8 @@
+# OCR: 7805c4226937e8465707317fc77f52c1.jpg
+# 来源: .\02-WriteUp\2024\7805c4226937e8465707317fc77f52c1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+O extract - aa
+SA) ESE) 林 O) BS) 00
+RR%#CBSf7UYLQ#28bywT

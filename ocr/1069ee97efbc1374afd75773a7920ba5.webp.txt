@@ -1,0 +1,21 @@
+# OCR: 1069ee97efbc1374afd75773a7920ba5.webp
+# 来源: .\02-WriteUp\2025\1069ee97efbc1374afd75773a7920ba5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+G NetworkMiner 2.9.0
+File Tools Help
+Mosts (103) Files (189) Tnages Messages Credentials (11) Sessions (1016) DNS (21002) Paraneters (2633) Keywords Anomalies
+[Show Cookies 门 B MIM challence-response[_]Mask Passwords
+Username Pessvord Valid login First Login
+Client Server
+1 [192.168.1.1]
+4 a (192. 168.1.1)
+192.168,
+1 1 wa 2005-09-23 01:47:47 VIC
+182. 168.1.244 a 492. 160.1.1 (192. 168.1.1) Eta Part 12656 nn 2025-09-23 01:17:49 VIC
+192. 168.1,246 a 192. 168.1.1 (kali) [192,168.1.1] ETP Cookie sysuuth htty=deOuedD6O6£80526 0d091b600fe489... W/A Unknown 2005-09-23 01:17:58 UIC
+192. 168.1.244 a 192. 168.1.1 (192. 168.1.1] MTP Cockie syzauth hteprdcOued0605050526ee4001069284469  W/A Unborn 2005-09-73 0117/58 VIC
+182. 168.1.208 [iPhone-zheo Local] 192. 168.1.244 [wer qa. cow] UTP Cookie _ge-GAl. 1, 956177906, 1707199666; f , rn 2025-09-23 01:19:59 VIC
+192. 168.1. 264 0 Gwen. qq com] 192, 168,1.1 9 0 晓1 FTP Ft 6 的 酥
+砺 公 众 号 - 金 星 路 406 取 证 人

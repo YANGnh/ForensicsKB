@@ -1,0 +1,26 @@
+# OCR: c6280984af1e378b54cf99e572d8d2f2.webp
+# 来源: .\02-WriteUp\2024\c6280984af1e378b54cf99e572d8d2f2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+Be 1.44. 1-69057 (Ext2/3/4 at 25728 on meiya_tes... X |
+© ®@-@86®- © @O©8- O8O9SCO880®
+国 “5 © Gusermeference * admin
+1 © 1.44.1-69057 (xt2/3/4 fle system) Name Date
+国 esx E 13.11.2037 16:57:50
+(BB e@SynoFinder-etc-volume J appnatify (04.01.1970 18:47:07
+(BB esynoFinder 4og
+B MB Cdatabase
+@ Mi @eadr
+(BB @synoconfd
+白 颠 e
+© Ml Cuserpreference
+固 Cadministrators
+(i SYSTEM_ADMIN
+i admin
+(Bi johnidter
+Ge system
+@ (i John Killer
+Type
+File Obytes
+File 207 bytes

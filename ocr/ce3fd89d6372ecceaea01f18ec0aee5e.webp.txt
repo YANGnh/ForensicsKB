@@ -1,0 +1,15 @@
+# OCR: ce3fd89d6372ecceaea01f18ec0aee5e.webp
+# 来源: .\02-WriteUp\2024\ce3fd89d6372ecceaea01f18ec0aee5e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+Recipe
+Input
+w r r n
+URL Decode © i $343dy93d3dyb290L 343dySecHob3Auy29tL2FucGxpY2F@ahOUL 1B3bktpdCiFeHEsb21eLNAhaW4uemy|
+From Base64 ou
+Alphabet
+A-Za-20-9+/= + Remove non-alphabet chars 。
+Output
+District mode
+/no/wauroot/ waa. tpshop .com/app]ication/Punkit-Exploit-main. zid

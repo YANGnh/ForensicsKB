@@ -1,0 +1,11 @@
+# OCR: ad175adba3f526a47ac853893527db8c.webp
+# 来源: .\02-WriteUp\2025\ad175adba3f526a47ac853893527db8c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+manghe shenhe 0
+manghe vip 1
+name admin
+pwd a66abb5684c45962d887564I08346e8d
+sitename WS OER EBAS
+rar 渡 3

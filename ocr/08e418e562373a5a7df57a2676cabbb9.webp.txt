@@ -1,0 +1,44 @@
+# OCR: 08e418e562373a5a7df57a2676cabbb9.webp
+# 来源: .\02-WriteUp\2024\08e418e562373a5a7df57a2676cabbb9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+ae ee ean.
+<key>OutputName</key>
+<string> If 4$</string>
+</dict>
+<key>WFSerializationType</key>
+<string>WFlextTokenAttachment</string>
+</dict>
+<key>WFVariableName</key>
+<string>comd2</string>
+</dict>
+</dict>
+<dict>
+<key>WEWork£lowActionIdentifier</key>
+<string>is.workflow.actions.gettext</string>
+<key>WEWork£lowActionParameters</key>
+<dict>
+<key>WFTextActionText</key>
+Retr ingBeHll 0acsutcsyb2 50n2ghaySWeO=S</ string>
+<key>UUID</key>
+<string>4F636546-896B-4316-S2E8-FAG85020B89D</str
+</dict>
+</dict>
+<dict>
+<key>WEWork£lowActionTdentifier</key>
+<string>is.workflow.actions.base64encode</string>
+<key>WEWork£lowActionParameters</key>
+<dice>
+<key>WFInput</key>
+<dice>
+<key>Value</key>
+<dict>
+<key>OutputUUID</key>
+<string>4F636546-896B-431 6-52E8-FAG85020B8S
+<key>Type</key>
+口 Ctool bases4 x
+© Ctool 13977 。 邺 用 TRESS Rt
+@Base64 ) URL#ES © Unicode  JWTAFES
+cHI0aG9ulC9yb290L 2JhaySwet
+python /rootibak py

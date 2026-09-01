@@ -1,0 +1,26 @@
+# OCR: e1a335b4794ed0676e71dee711ea1224.webp
+# 来源: .\02-WriteUp\2025\e1a335b4794ed0676e71dee711ea1224.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+int “fastcall main(int argc, const char **argv, const char **envp)
+1
+[
+__intea v3; // x0
+unsigned int v4; // wo
+int v7; // [xsp+10h] [xbp-126h]
+int v8; // [xsp+14h] [xbp-11Ch]
+_ int64 v9; // [xsp+18h] [xbp-118h] BYREF
+_inte4 vie; // [xsp+20h] [xbp-110h]
+“BYTE v11[256]; // [xsp+28h] [xbp-108h] BYREF
+if ( argc <= 1 || ! (unsigned int)stremp(argv[1], “server") )
+start_http_server();
+if ( (unsigned int)stremp(argv[1], “decrypt") )
+《
+早 = puts(&unk_69CE20) ;
+print_serialNO(v3);
+puts (&unk_69D160) ;
+fgets(vil, 256LL, stdin);
+vil[strespn(vii, &unk_69D198)] = 6;
+if ( vile] )
+v9 = @LL:

@@ -1,0 +1,25 @@
+# OCR: 4c79cf40b8b231d6b69539acd707cf65.webp
+# 来源: .\02-WriteUp\2024\4c79cf40b8b231d6b69539acd707cf65.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+pyinstaller EI > t)_encrypt file.exe.exe extracted
+Crypto
+PYZ-00.pyz extracted
+_br2.pyd 2024
+ctypes.pyd
+hashlb.pyd
+5 [] Lemapyd
+_socket.pyd 2024
+base libraruzio
+encrypt file.pyc
+berypto-1_1.dl
+pyi.rth subprocess.pyc 2024
+pyiboot01_bootstrap.pyc
+pyimed01_os_pathpye
+pyimod02_archive.pye
+g s
+国 CAWindows\System32\emd.exe
+tractior
+point:
+me

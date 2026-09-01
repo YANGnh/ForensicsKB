@@ -1,0 +1,17 @@
+# OCR: 072344ec5c7a31bb115edfb029ac5113.jpg
+# 来源: .\02-WriteUp\2024\072344ec5c7a31bb115edfb029ac5113.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+口 192.168.100.100 ©
+一 8 > www > server > nginx >
+RS
+fe GRRE BY | esv Dan
+lient_body.temp
+fastegi_temp
+proxy_cache dir
+prony_temp dir
+segi_temp
+E
+UR /
+=r

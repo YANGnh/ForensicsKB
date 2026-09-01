@@ -1,0 +1,10 @@
+# OCR: e3b96a35b36344d0b0f5d0f68ec38c08.webp
+# 来源: .\02-WriteUp\2024\e3b96a35b36344d0b0f5d0f68ec38c08.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+@override // org. springfranework. security. crypto. password. Passwordéncoder
+public boolean matches(CharSequence rawPassword, String encodedPassword) {
+String salt = extractSalt(encodedPassword) ;
+String rawPasswordEncoded = digest(salt, rawPassword);
+return PasswordéncoderUtils equals (encodedPassword.toString(), rawPasswordéncoded) ;

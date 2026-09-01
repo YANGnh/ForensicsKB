@@ -1,0 +1,9 @@
+# OCR: 970c24e5450a450a47a1221fa21e9d84.jpg
+# 来源: .\02-WriteUp\2024\970c24e5450a450a47a1221fa21e9d84.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+E
+s ware n e =)
+a
+e

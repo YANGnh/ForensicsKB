@@ -1,0 +1,10 @@
+# OCR: b8f59616548143db09df787b2ec11f14.webp
+# 来源: .\02-WriteUp\2025\b8f59616548143db09df787b2ec11f14.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+| 不 GA2025FI CHR export\important.decx\docProps\
+=
+D appaml
+BD corexm!
+BD customaml

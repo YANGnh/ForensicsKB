@@ -1,0 +1,8 @@
+# OCR: 9697583808839963ddb96b3de5e246a2.jpg
+# 来源: .\02-WriteUp\2024\9697583808839963ddb96b3de5e246a2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+If you have Telegram, you can contact @yourcode
+right away.
+END MESSA(

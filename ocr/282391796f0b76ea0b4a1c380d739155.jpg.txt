@@ -1,0 +1,40 @@
+# OCR: 282391796f0b76ea0b4a1c380d739155.jpg
+# 来源: .\02-WriteUp\2024\282391796f0b76ea0b4a1c380d739155.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+2 CAhlnet\1-1715415504\PhoneXR tar\private\Applications plist
+fle Edit View Help
+OSH 关 国 口
+XML View ListView
+044
+] 万 门 <array>
+J | <oteing>fide</stsing>
+eae 1 | </array>
+0 | T a
+0 E
+1 | Sheyoteonc/ey>
+[ E 志
+I E
+tase | e
+Jsa E
+口 <aice>
+ess 门 <key>craundiePackagetype</key>
+ese | a
+1 | Stey>uttaunchat orybourdName</key>
+fem, | eae moose
+fess 1 <key>usbiuecoothAlwaysUeagebeacription</key>
+e | i n 史nalie inpis tn
+8 | keyaroupcontainers</key>
+I |
+bees —— eee
+fees | L ceteinee petvace/ver/mobile/containers/shared/Apporoup/BBE0D501-AB0B-4228-SB4D-0282086130D4</ string?
+lees |
+lees | ckeyonstocationalwaysUsageDescription</key>
+h | access 22 your location date means we can add location metadata to pictures and videos you share in Mattermost.</string>
+M <key>DIPlatformVersion</key>
+tees | Seteing>17.0¢/string>
+命 E
+jena | Seteing>2iaszec/ string?
+tere | GheytanoetBackupeligiblec/key>
+[ 一 | G

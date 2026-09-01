@@ -1,0 +1,10 @@
+# OCR: 98e3a37efb643983e8c3f74881a0932b.webp
+# 来源: .\02-WriteUp\2025\98e3a37efb643983e8c3f74881a0932b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+(eer T 查 阀 建 工 具 汪 美 化 SQL 〔 ) 代 码 段
+\鏖|(〕c云】_h(〕5t v ‖. backup newbee v | [> 运 行 - 口 停 止 oer
+1 SELECT SUM(total_price) AS total_amount
+2 FROM tb_newbee_mall_order
+3 WHERE user_id = 213;

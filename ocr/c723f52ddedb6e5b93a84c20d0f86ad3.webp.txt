@@ -1,0 +1,6 @@
+# OCR: c723f52ddedb6e5b93a84c20d0f86ad3.webp
+# 来源: .\02-WriteUp\2024\c723f52ddedb6e5b93a84c20d0f86ad3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+# 结果: 无可用文本（tesseract 未识别到文字）

@@ -1,0 +1,25 @@
+# OCR: 32067ef6e4d1b05c3f0e993e9bc7aa2f.webp
+# 来源: .\02-WriteUp\2025\32067ef6e4d1b05c3f0e993e9bc7aa2f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+〈
+回 JNIOE-2025 改 HH 资 “ 国 as 匕 运 行 “ 俘 止 春 解 租
+1 SELECT
+25 CASE
+3 WHEN loss_amount <= 10000 AND (injury level IS NULL OR injury_level = ‘') THEN 「 轻 微 案 件 「
+4 WHEN (loss_amount BETWEEN 10001 AND 50000) OR injury_level = “ 轻 微 伤 ,THEN “ 一 航 案 似 ,
+5 WHEN loss_amount > 5@@@@ OR injury_level IN (「 轻 伪 “, “ 重 伐 「) THEN “ 重 大 案 件 「
+6 ELSE “ 其 他 案 件 「
+7 END AS case_level,
+8 COUNT(case_id) AS case_count
+9 FROM crime_records
+9 WHERE YEAR(crime_time) = 2023
+1 GROUP BY case_level;
+信 息 iE 结 果 1 剖 杏 RS
+case level case_count
+>mARt 13107
+RE 4590
+abst 2058
+Breet 222
+Fe 公 众 号 - 小 谢 取 证

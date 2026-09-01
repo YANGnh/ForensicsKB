@@ -1,0 +1,15 @@
+# OCR: d3960f1d3f7328f2230d020a6d2b0e49.webp
+# 来源: .\02-WriteUp\2025\d3960f1d3f7328f2230d020a6d2b0e49.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+elect payer_id, avg(amount) avger
+fron transactions
+be “type = ‘commission’
+roup by payer_id
+rder by avger desc
+init 1;
+© ay HB Result 15 *
+Ge 〇 Q 目 # a 团
+payer_ia V : Davger ¥ :
+M628680 999.43

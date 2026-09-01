@@ -1,0 +1,9 @@
+# OCR: 172ed3c86b2705e75c1db44fbe382f80.webp
+# 来源: .\02-WriteUp\2025\172ed3c86b2705e75c1db44fbe382f80.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+Users\Administrator> nslookup -type=mx -quergztxt blog.chen.forené 45.79.133.98
+服 务 路 ; UnCnown
+Address: 45.79.133.98
+blog. chen. forené canonical name = chewhaoN.github.io

@@ -1,0 +1,21 @@
+# OCR: aa9bc7ba4540954e80506e368c4fca13.webp
+# 来源: .\02-WriteUp\2025\aa9bc7ba4540954e80506e368c4fca13.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+这 是 一 个 非 常 典 型 的 针 对 Oracle WebLogic Server 的 远 程 代 码 执 行 (RCF) 攻 击 流 量 包 。
+根 据 数 据 包 的 特 征 , 这 是 利 用 CVE-2019-2725 (CNVD-C-2019-48814) 溥 洞 进 行 的 攻 击 尝 试
+以 下 是 详 细 的 分 析 报 告 :
+1. 基 本 信 息 概 览
+* 攻 击 目 标 : 192.168. 111. 80:7001 (Port 7001 是 WebLogic 的 默 认 端 口 j。
+* 攻 击 类 型 : 远 程 代 码 执 行 (RCE) / 反 序 列 化 溥 洞
+* 溥 湾 编 号 : CVE-2019-2725 ( 针 对 /_async/AsyncResponseService 组 件 )。
+* 响 应 状 态 : 202 Accepted ( 表 示 服 务 器 已 接 收 五 开 始 处 理 请 求 , 意 味 着 攻 击 大 概 率 成 功 )。
+2. 请 求 头 分 析
+<> Http
+POST /_async/AsyncResponseService HTTP/1.1
+Host: 192. 168. 111. 80:7001
+Content-Type: text/xml
+* URL (/_async/AsyncResponseService): 这 是 WebLogic 的 Web Service 组 件 (AsyncResponseService)。
+SOAP 请 求 时 的 反 序 列 化 缺 陪 。
+CVE-2019-2725 正 是 利 用 了 该 组 件 在 处 理

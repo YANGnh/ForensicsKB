@@ -1,0 +1,12 @@
+# OCR: 2da22847c01f57567f8ab1a46c61b876.webp
+# 来源: .\02-WriteUp\2025\2da22847c01f57567f8ab1a46c61b876.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+371 srv Server SMB 1. xxx Driver SERVICE_AUTO_START SERVICE_RUNNING Driver FILE_SYSTEM_DRIV 0x2e49fb5d9 System32\DRIVERS\srv. sys
+382 storgosflt Storage QoS Filter Driver SERVICE_AUTO_START_SERVICE_RUNNING Driver FILE_SYSTEM_DRIV 0x2e49fb617 system32\drivers\storqosflt. sys
+386 SunloginService SunloginService SYSTEM SERVICE_AUTO_START_SERVICE_RUNNING. Process OWN 0x2e49fb616”C: \Program Files\Oray\SunLogin\Sunlog:
+397 tcpipreg TCP/IP Registry Compatibility SERVICE_AUTO_START SERVICE_RUNNING Driver KERNEL_DRIVER _0x2e49fb622System32\drivers\tcpipreg. sys
+454 VGAuthService VMware Alias Manager and Ticket Service SYSTEM SERVICE_AUTO_START SERVICE_RUNNING Process OWN 0x2e49£b688 “C:\Program Files\VMware\VMware Tools\\
+478 VMTools VMware Tools SYSTEM SERVICE_AUTO_START SERVICE_RUNNING Process OWN 0x2e49£b663 “C:\Program Files\VMware\VMware Tools\
+a pmg nn u

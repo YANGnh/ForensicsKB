@@ -1,0 +1,27 @@
+# OCR: 92e02d141850e11b4addc1eb75cb6424.webp
+# 来源: .\02-WriteUp\2024\92e02d141850e11b4addc1eb75cb6424.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+wnuitatn
+om. 国 嚎 125.5io-chatr.codepat
+<sigs-count="1 1">
+«+ +<cert - inde:
+/data/app/com. §BGa123.tio.chat-uDwr-sHv4
+</sigs>
+<perms>
+++ +<item-name="com.§@da123.tio.chat.permission.PROCESS_PUSH_MSG" -granted="true" - fl
++ -<item-name="android.permission.ACCESS_FINE_LOCATION" -grante
+» + <item-name -permission.MODIFY_AUDIO_SETTINGS" -grante
+-permission.SYSTEM_ALERT_WINDOW" gzante
+-permission.CHANGE_NETWORK_STATE" -grante
+-permission.FOREGROUND_SERVICE" -granted=
+-permission. BLUETOOTH" -granted="true" - flags
+-permission.GET_TASKS" -grante
+-permission. INTERNET" -grante
+flags
+true". flags
+ditemname
+ditemname
+ditemnamez
+ditemname

@@ -1,0 +1,19 @@
+# OCR: 7c183965b6c0c3607ae75d1c8527a368.jpg
+# 来源: .\02-WriteUp\2024\7c183965b6c0c3607ae75d1c8527a368.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+BP wm essemitee> © chromemusse> HER
+门 一 = URL
+T
+口 15 BBP - Google https://wwnw.google.com.hk/search?q=Eis#Sinewwindow=18sca_esv=
+口 15 Sie https://m.douban.com/movie/
+口 17 Bree https://douban.com/movie/
+口 18 E 彭 httpsi//www.douban.com/movie/
+O19 Bie https://moviedouban.com/
+口 20 。 书 亦 - 工 E 阮 8 https://movie.douban.com/cinema/nowplaying/
+口 21 jt - E https://movie.douban.com/cinema/nowplaying/beijing/
+02 eae Ge) https://movie.douban.com/subject/35633650/?from=playing_poster
+口 口 bilibibli - Google 2% https://www.google.com.hk/search?q=bilibibli&newwindow=18sca_esv
+口 24 bilibibli - Google 8% https://www.google.com.hk/search?q=bilibibli&newwindow=1&sca_esv
+口 25 mR ( - Dn FPR~-bilibil https://www.bilibili.com/

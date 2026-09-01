@@ -1,0 +1,33 @@
+# OCR: b504146960dafeb6f09c295eb40b396b.jpg
+# 来源: .\02-WriteUp\2024\b504146960dafeb6f09c295eb40b396b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+No. Time Source Destination Protocol Lengt! Info:
+1246 83.392828 192.168.85.130 192.168.85.25@ HTTP 396 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+1272 84.494361 192.168.85.130 192.168.85.250 HTTP 397 POST /phpmyadmin/ HTTP/1.1 (application/x-waw-form-urlencoded)
+1299 85.618285 192.168.85.130 192.168.85.25@ HTTP 391 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+1325 86.756798 192.168.85.13@ 192.168.85.250 HTTP 394 POST /phpmyadmin/ HTTP/1.1 (application/x-ww-form-urlencoded)
+1351 87.864265 192.168.85.138 192.168.85.25@ HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+1378 88.991579 192.168.85.13@ 192.168.85.250 HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-ww-form-urlencoded)
+1405 90.099844 192.168.85.13@ 192.168.85.250 HTTP 393 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+1432 91.201806 192.168.85.13@ 192.168.85.250 HTTP 396 POST /phpmyadmin/ HTTP/1.1 (application/x-ww-form-urlencoded)
+1459 92.305288 192.168.85.13@ 192.168.85.250 HTTP 480 POST /phpmyadmin/ HTTP/1.1 (application/x-www-form-urlencoded)
+1488 123.487699 192.168.85.130 192.168.85.25@ HTTP 786 POST /phpmyadmin/index.php HTTP/1.1 (application/x-www-form-urlencoded)
+十 1607 130.558342 192.168.85.130 192.168.85.250 HTTP St_/phpmyadnin/index. php 2 - les
+1858 143.768295 192.168.85.13@ 192.168.85.250 HTTP
+1872 157.766477 192.168.85.130 192.168.85.250 HTTP 1818 POST /phpmyadmin/import.php HTTP/1.1 (application/x-mm-form-urlencoded)
+1887 164.625201 192.168.85.130 192.168.85.25@ HTTP 1029 POST /phpmyadmin/import.php HTTP/1.1 (application/x-www-form-urlencoded)
+1903 176.405617 192.168.85.13@ 192.168.85.250 HTTP 1026 POST /phpmyadmin/import.php HTTP/1.1 (application/x-wwa-form-urlencoded)
+1925 188.298648 192.168.85.130 192.168.85.25@ HTTP 1019 POST /phpmyadmin/import.php HTTP/1.1 (application/x-www-form-urlencoded)
+> Frame 1607: 839 bytes on wire (6712 bits), 839 bytes captured (6712 bits) on interface \Device\NPF_{9F3! 3 卯 62 36 62 36 34°38 3
+> Ethernet II, Src: VMware_f3:b8:de (00:0c:29:f3:b8:de), Dst: VMware_a3:c7:cf (00: 2a3:¢7:¢F) s 32 61 31 @d Ga 43 5f 5
+> Internet Protocol Version 4, Src: 192.168.85.130, Dst: 192.168.85.258 55 3a 2 GI Ja 70'6c 5
+> Transmission Control Protocol, Src Port: 49858, Dst Port: 80, Seq: 1, Ack: 1, Len: 773 2d 72 72, 14 206667
+5 sf 64 65 64 Od Ga 43 5
+agn Se 67 74 68 3a 20 39 3
+> Form item: "pma_username" = “root” 6d 61 Sf 6d 63 72 79 7
+> Form item: "pma_password" = “adming12345" 79 34 53 37 49 41 41 6
+> Form item: “server” = "1" 55 73 65 72 2d 31 3d 2
+> Form item: "token" = "@0aa696F07b68db6b04860b3d0a862a1" 4a 77 47 Sa 30 6f 25 3
+61 76 69 Sf 77 69 647

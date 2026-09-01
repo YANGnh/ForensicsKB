@@ -1,0 +1,23 @@
+# OCR: b84f8566e33fa0a6dbedf015480c89d8.webp
+# 来源: .\02-WriteUp\2024\b84f8566e33fa0a6dbedf015480c89d8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+Mindows 1° Bid)
+FRR ons EE
+“ap: aap flan succended
+[
+e
+ig 36, 2028, 36:95°53] cn
+performed because the #3 buffer space or
+performed because the systen lacked sufficient buffer space or queue was ful
+performed because the buffer apace or queue was full
+performed because the system lacked sufficient 2 queue was full.
+performed because the systen lacked sufficient f queue was full.
+performed because the syste lacked sufficient 2 queve was full.
+performed because the systen lacked sufficient queue was full
+Performed because the system lacked sufficient buffer space 2 queve was full
+7] Chien terminated, restarting in 2000 ms
+7] Setupeiient: signaling tun sestroy event
+EVENT: PAUSE network unavatlablesAug 26, 2928, 37:40:08) EMT: Resume {Aug 16, 2026, 17:40:08) EVENT: RECCANECTING fAug 36, 2026, 17:40:08) EVEMT: RE
+1} EVENT: WATT Bug 16, 2024, 17:40:08) Mincommandigant: Rrananitting bypass rovte to 5196.64.29

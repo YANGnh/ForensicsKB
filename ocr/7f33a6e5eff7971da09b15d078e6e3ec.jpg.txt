@@ -1,0 +1,23 @@
+# OCR: 7f33a6e5eff7971da09b15d078e6e3ec.jpg
+# 来源: .\02-WriteUp\2024\7f33a6e5eff7971da09b15d078e6e3ec.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+/* loaded from: classes3.dex */
+public class ent t
+private static String ALGORITHM = "AES";
+private static String CIPHER_TRANSFORMATION = "AES/CBC/PKCS7Padding"
+private static byte[] iv = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16}3
+private static byte[] mSecretkey;
+public static String encrypt(String plaintext) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, BadPaddi
+Key key = getSecretkey();
+Cipher cipher = Cipher. getInstance(CIPHER_TRANSFORMATION) ;
+cipher.init(1, key, new IvParameterSpec(iv));
+byte[] cipherTextInsyte = cipher.doFinal(plaintext.getBytes());
+String cipherText = Base64.encodeToString(cipherTextInsyte, 2);
+return ciphertext;
+public static String decrypt(String ciphertext) throws NoSuchAlgorithmException, InvalidkeyException, NoSuchPaddingException, BadPadd
+Key key = getSecretkey();
+Cipher cipher = Cipher.getInstance(CIPHER_TRANSFORMATION) 5
+cipher.init(2, key, new IvParameterSpec(iv));
+EN EP A Ne AE I OS BNE AO eR I

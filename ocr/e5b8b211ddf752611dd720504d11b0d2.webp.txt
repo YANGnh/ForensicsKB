@@ -1,0 +1,19 @@
+# OCR: e5b8b211ddf752611dd720504d11b0d2.webp
+# 来源: .\02-WriteUp\2025\e5b8b211ddf752611dd720504d11b0d2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+[
+‘JWT_SECRET=zhaohong_key”,
+"MYSQL_USER=root” ,
+“MYSQL_PASSWORD=7001" ,
+'MYSQL_DATABASE=prodi
+NODE_ENV=development
+"JWT_EXPIRES_IN=24h",
+“MYSQL_PORT=3306" ,
+"MYSQL_HOST=172.16.10.200",
+"PORT=3000"
+"PATH=/usr/Local/sbin: /usr/local/bin: /usr/sbin: /usr/bin: /sbin:,
+"NODE_VERSION=16 .20 2
+"YARN_VERSION=1 22.19
+“DEBIAN FRONTEND=noninteractive",

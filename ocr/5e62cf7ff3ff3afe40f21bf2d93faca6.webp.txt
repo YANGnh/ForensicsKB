@@ -1,0 +1,7 @@
+# OCR: 5e62cf7ff3ff3afe40f21bf2d93faca6.webp
+# 来源: .\02-WriteUp\2024\5e62cf7ff3ff3afe40f21bf2d93faca6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+HSE 01
+ex

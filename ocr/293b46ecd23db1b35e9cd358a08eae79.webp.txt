@@ -1,0 +1,30 @@
+# OCR: 293b46ecd23db1b35e9cd358a08eae79.webp
+# 来源: .\02-WriteUp\2025\293b46ecd23db1b35e9cd358a08eae79.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+彦 《 ubuntu-vg(724yif-HwVN-jBku-w1Pu-NWGz-600m-H2H4N1)/33 00 > 国
+Oss
+口 1
+口 2
+口 3
+口 4
+口 5
+口 6
+San E
+we Vv ie
+ne hostname
+BR PRETTY_NAME
+BREE OS_TYPE
+PIRES (NS) VERSION_ID
+BEERS OS_NAME
+BEE VERSION_CODENAME
+=a
+E
+api-server-2
+Ubuntu 24.04.1 LTS
+Ubuntu
+2
+4
+trixie/sid
+noble

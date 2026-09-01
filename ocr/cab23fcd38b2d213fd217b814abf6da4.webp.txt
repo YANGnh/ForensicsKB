@@ -1,0 +1,30 @@
+# OCR: cab23fcd38b2d213fd217b814abf6da4.webp
+# 来源: .\02-WriteUp\2025\cab23fcd38b2d213fd217b814abf6da4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+备 份 助 记 词
+#01
+#04
+#07
+#10
+solution
+faculty
+series
+ramp
+#02
+#05
+#08
+#11
+mule
+general
+loop
+bring
+#03
+#06
+#09
+#12
+rug
+upon
+express
+hamster

@@ -1,0 +1,16 @@
+# OCR: b74910df4b8314a400a887e2d89b1e8c.webp
+# 来源: .\02-WriteUp\2025\b74910df4b8314a400a887e2d89b1e8c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+吴 | :spceo, 目 skse, 乡 sft [ 圭文 ff & 素 Q) Re
+国 世 序 吊 , 三 软 # 称 世 版 本 名 称 世 公 司 吊 称 = 22h = eRe
+ae | 了 , [ 河 浩 1 ie a6 (oe 1 me v
+9 Microsoft Visual C++ 2012 x64 Mini... 11.0.61030 Microsoft Corporation 2025-05-16 15:37:11
+万 0 | camo 32101 dansmatog 2506I2n5a8 “CpegemfiewaameMa
+1 Google Chrome 136.0.7103.114 Google LLC 2025-05-16 16:17:25 C/Program Files/Google/Chrome/Application
+12 Microsoft Edge 136.0.3240.76 Microsoft Corporation 2025-05-19 10:37:48 C/Program Files (x86)/Microsoft/Edge/Application
+13 Microsoft Edge WebView2 Runtime 136.0.3240.76 Microsoft Corporation 2025-05-19 10:38:43 C/Program Files (x86)/Microsoft/EdgeWebView/Applic..
+14 PrivaZer 4.0.101.0 Goversoft LLC 2025-05-19 17:19:09 C/Program Files (x86)/PrivaZer/
+15 Microsoft Visual C++ 2022 X86 Mini... 144033810 Microsoft Corporation 2025-05-19 11:49:22
+16 Microsoft Visual C++ 2012 Redistrib... 11.0.61030.0 Microsoft Corporation 2025-05-16 15:37:19 C/ProgramData/Package Cache/{33d1fd90-4274-48a1..

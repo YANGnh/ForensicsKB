@@ -1,0 +1,43 @@
+# OCR: dc5a33d38d21ccd80800186cc171f43a.jpg
+# 来源: .\02-WriteUp\2024\dc5a33d38d21ccd80800186cc171f43a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+BP wrest > © chromemuass> BAER
+sss
+口 37
+O38
+O39
+口 40
+口 4
+Oa
+口 的
+口 4
+4s
+口 46
+口 47
+E
+localhost.localdomain -...
+localhost.localdomain -.
+iStoreOS - 首 页 -Ludl
+iStoreOS - 首 页 -Ludl
+iStoreOS - 首 页 -Ludl
+iStoreOS - 首 页 -Ludl
+iStoreOS - 首 页 -Ludl
+iStoreOS - 首 页 -Ludl
+iStoreOS - 首 页 -Ludl
+iStoreOS - LuCl
+iStoreOS - Luc
+https://192.168.8.1 12/ui/#/host/vms
+https://192.168.8.112/ui/#/host/vms/10
+http://192.168.8.5/
+http://192.168.8.5/cgi-bin/luci/
+http://192.168.8.5/cgi-bin/luci/
+http://192.168.8.5/cgi-bin/luci/
+http;
+192.168.8.5/cgi-bin/luci/admin/quickstart
+http://192.168.8.5/cgi-bin/luci/admin/quickstart/
+http://192.168.8.5/cgi-bin/luci/admin/quickstart/
+http;
+192.168.8.5/cgi-bin/luci/admin/network_guide
+http://192.168.8.5/cgi-bin/luci/admin/network_guide/pages/network

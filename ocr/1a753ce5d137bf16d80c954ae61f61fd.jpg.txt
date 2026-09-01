@@ -1,0 +1,15 @@
+# OCR: 1a753ce5d137bf16d80c954ae61f61fd.jpg
+# 来源: .\02-WriteUp\2024\1a753ce5d137bf16d80c954ae61f61fd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+HABER > SURE > QtScrepy-win-x64-v2.2.0 > config
+O a E
+明 confain 2024/3/12 16:39
++
+5] userdata.ini 2024/3/21 19:13
+=
+meee
+E
+1 KB
+2kB

@@ -1,0 +1,30 @@
+# OCR: ef00a8b65844e5656d256fc0b09f8fd1.webp
+# 来源: .\02-WriteUp\2026\ef00a8b65844e5656d256fc0b09f8fd1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+Recipe
+From Base64
+Alphabet
+A-Za-z0-9+/=
+国 Remove non-alphabet chars
+AES Decrypt
+Key
+mysecretpassword
+因
+1234567890123456
+Mode Input
+CBC Raw
+UTF8 -
+UTF8 -
+Output
+Raw
+Input
+i+sCh/8TSp8rS4Kq2aqaLQ==
+Output
+Admin123
+length: 24
+1
+lines:
+aon
+La

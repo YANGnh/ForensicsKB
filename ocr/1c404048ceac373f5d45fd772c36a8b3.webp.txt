@@ -1,0 +1,9 @@
+# OCR: 1c404048ceac373f5d45fd772c36a8b3.webp
+# 来源: .\02-WriteUp\2024\1c404048ceac373f5d45fd772c36a8b3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+private String encode(byte[] digest) {
+if (this.encodeHashAsBase64) {
+return Utf8.decode(Base54.getEncoder() .encode(digest))
+return new String(Hex.encode(digest));

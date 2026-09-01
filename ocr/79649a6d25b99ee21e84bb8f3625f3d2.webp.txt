@@ -1,0 +1,62 @@
+# OCR: 79649a6d25b99ee21e84bb8f3625f3d2.webp
+# 来源: .\02-WriteUp\2026\79649a6d25b99ee21e84bb8f3625f3d2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+| 2 CUsers\NEKON\Desktop LER HEE REF EIR ERA plist SUF Manifest plist
+File Edit View Help
+XML View List View
+38
+园
+40
+a
+a
+43
+“
+45
+46
+门 | T <farray>
+| catee
+</aice>
+<key>com.apple.Accessibility</key>
+<aict>
+“ckey>Monohudi oEnabledBysTunes</key>
+‘<anteger>0</integer>
+<ckey>VoiceOverTouchEnabledBysTunea</key>
+<anteger>0</integer>
+<key>ClosedCaptioningEnabledByiTunes</key>
+<anveger>0</integer>
+<ckey>SpeakautoCorrectionsEnabledBysTunes</key>
+<anveger>0</integer>
+| <cKeypTnvertDisplayEnabledByiTunes</key>
+“<key>ZocmTouchEnabledByiTunes</Key>
+[| sinvegero</integer>
+| datse
+<key>ProductVersion</key>
+| eevrings17.5.1</stei
+1 c
+| ckey>BuildVersionc/key>
+| anpatmgyecning
+| <keypeom.apple.nobile iTunes -accessories</key>
+| eee
+| easce>
+| ckeypcom.apple.nobile .wizeless_tockdown</key>
+| eaiew>
+| | ceeypznabieviesconnectionsc/ikey>
+1 ccruer>
+| ckey>UniqueDeviceID</key>
+| <aeeing>0000€030-000a0cee3C32e026</seeing>
+| GkeypSertaltiunberc/key>
+| <string>CéKZRMJWN745</string>
+1 <key>Deviceliame</key>
+【 <atring>iPhone</string>
+waice
+<key>Applications</key>
+<dict>
+| <keyocom. apple. DiagnosticsService . Diagnostic-8374</key>
+| <diet>
+| <key>CFBundleIdentifier</key>
+1 <string>com. apple. DiagnosticsService. Diagnostic-€374</string>
+BB oO we
+Om, aw = A FBR r G ww 了
+~A Rana.

@@ -1,0 +1,13 @@
+# OCR: 23dc0394ba9215c0baaff63232152437.webp
+# 来源: .\02-WriteUp\2024\23dc0394ba9215c0baaff63232152437.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+f ee ae
+eae a rg friar aa
+Application run failed
+org_springfranework cloud consul_config _R@REMilPr oper tySources$PropertySourceNotFoundException: con.
+cwid_consul_transport.TransportException- org_apache_http.conn_HttpHostConnectException- Connect to
+locathost-8588 [Localhost/127.6.6.1, localhost /@-6-6-6-6-6-0:1] failed: Connection refused (Connect
+on refused)
+‘at org.springframework.cloud. consul. config. ConsulPropertySources.createPropertySource(Consu

@@ -1,0 +1,40 @@
+# OCR: fb7d1156675e42ffaf9de43bfd39cce8.webp
+# 来源: .\02-WriteUp\2024\fb7d1156675e42ffaf9de43bfd39cce8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+foof Value Type Data
+引 ActivationBroker \DosDevioes\C: REG_BINARY 44 4D 49 4F 34 49 44 34 12.85 2D EQ EE F208 40
+cnoeseom WnelEtRiiriWeiles ,REG-8HARY C00 3F 00 3F 00 SC 00 53 00 43 00 83 00 49 00 2
+马 DiiverDatabase \DosDevioes\Gi REG_BINARY SC 00 3F 00 3F 00 SC 00 53 00 43 00 53 00 49 00 2
+七 HardnareConfig \PWolume(cSBaed15-75b1-11ef.. REG_BINARY 56 65 7261 43 72 79 7074.56 6F EC 75 6D 65 54
+七 i {H{cBSaed17-75b1-11et-Gcda207.. REG_BINARY 56 65 7261 43 72 79 7074.56 6F EC 75 6D 65 54
+目 Keyboard Layout \PWolume(cSBaed2d75b1-T1ef.. REG_BINARY 5665 7261 43 72 79 7074.56 6F BC 75 6D 65 46
+SD Mans \DosDevioes\D. REG_BINARY 44 4D 49 4F 34 49.44 9A 45 23 92 F1 2E 61 1C 451
+5 MountedDevices {42571 1b2-7éleTel-8c52-2079.. REG_BINARY 44 4D 49 4F 24 49 44 34 11 FE 96 DD 08 84 4 49
+目 ResourceManager \7Wolume(425711b3-76le-11ef... REG_BINARY 56 65 7261 43 72 79 7074.56 6F EC 75 6D 6559
+目 ResourcePalcyStore {8(425711d9-76leT1el-8c52-2079.. REG_BINARY 56 65 7261 43 72 79 7074.56 6F BC 75 6D 6559
+5 RNG \7Wolume(7853349-9130-11ef.. REG_BINARY’ SC 00 3F 00 3F 00 SC 00 56 00 53 00 42 00 83 005
+OD Select W6SSttnSt7iidissStte REG_BINARY 44 4D 49 4F 24 49 44 34 267 £5 40 62BE 16 4F
+目 setup \DosDevioes\E REG_BINARY C00 3F 00 3F 00 6C 00 96 00 63 00 42 00 63 005
+5 Sottware fHleed8303%0-92d8-1 Tet 8c57-f44e.. REG_BINARY 56 65 7261 43 72 79 7074.56 6F BC 75 6D 65 46
+Data View - a x
+Value name
+\DosDevices\E:
+REG_BINARY Summary
+a TOE (Sh GOS ND a CROSS OT
+Assist ip can 5 aa E
+Rese es ret 〕 林
+目 5 l Pn 〕 H
+目 re [ : eae
+E 口 P s : a ra ae
+e 53 eas 2 〕 De oes
+目 口 语 吊 I a 〕 pear ae
+lurid 16 38 a et : E 招
+目 门 - beret ie
+tl Unsigned 32 3145766 P 5 {.5.3.£.5.6.3 E
+aaag | gunn M R
+i I : a ee
+reeves I H 〕 ee
+© atetime tet B H ees
+WIN 64 Daph 17: [

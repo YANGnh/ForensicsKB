@@ -1,0 +1,6 @@
+# OCR: 4fac047004c10b2cb1e4c394325cd6f4.webp
+# 来源: .\02-WriteUp\2024\4fac047004c10b2cb1e4c394325cd6f4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+# 结果: 无可用文本（tesseract 未识别到文字）

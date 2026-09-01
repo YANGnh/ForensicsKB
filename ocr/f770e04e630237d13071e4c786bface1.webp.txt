@@ -1,0 +1,28 @@
+# OCR: f770e04e630237d13071e4c786bface1.webp
+# 来源: .\02-WriteUp\2025\f770e04e630237d13071e4c786bface1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+3. 敏 感 凭 证 和 支 付 信 息 ( 取 证 关 键 信 息 )
+这 些 信 息 可 以 直 接 用 于 追 踪 或 接 管 网 站 的 通 知 、 邮 件 和 资 金 流 。
+字 段 信 息 内 容
+USDT 收 款 地 址 (USDT TPNYhBjSLTLgtxwXYbdzkWMQUaqg4z3rJi8
+收 款 地 址 ):
+Telegram Bot Token: 8378348497 : AAGSU7pC5rrDicjMqa7Mv9at vB1iESNAZeY
+Telegram User ID: 6213151597
+SMTP 邮 箱 ituzz@qq.com
+(username):
+SMTP 密 码 hxobygicmubhddhb
+(password):
+敏 感 等 级
+极 高 ( 资 金 流
+向 )
+高 ( 通 知 / 推 送
+到 账 )
+中 (Bot 推 送 目
+标 ID)
+高 ( 邮 件 通 知 /
+找 回 密 码 )
+极 高 ( 邮 件 发
+送 凭 证 )
+田 导 则 coogle 表 格 鲸 公 众 号 - 金 星 路 406 取 证 息

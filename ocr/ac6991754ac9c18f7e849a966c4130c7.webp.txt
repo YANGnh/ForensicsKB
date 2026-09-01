@@ -1,0 +1,22 @@
+# OCR: ac6991754ac9c18f7e849a966c4130c7.webp
+# 来源: .\02-WriteUp\2025\ac6991754ac9c18f7e849a966c4130c7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+mss! (<) a]
+Awireguard 0 \config
+2
+J4ccterel E cfg \contfig
+"| docker.cfg1673835017 邦 fg1673835017 \config
+J] domain.cfg FEN cfg \config
+Adrift eH \config
+一 3 区 Oxe, hms Dee | 口 0 | Bate |= eon):
+Offset 0 12 3 4 5 6 7 “8 9101112 13
+742986112 OD OA 64 69 73 6B 49 64 53 6C 6F 74 2E 31 3D 22 diskidSlot.
+142986128 2D 22 OD 0A 64 69 73 6B 53 70 69 GE 64 6F 77 GE -“ diskSpindown
+142986144 44 65 6C 61 79 2E 31 3D 22 2D 31 22 OD OA 64 69 Delay.1="-1" di
+142986160 73 6B 53 70 69 GE 75 70 47 72 6F 75 70 2E 31 3D skSpinupGroup.1:
+142986176 22 22 OD OA 64 69 73 6B 46 73 54 79 70 65 2E 31 “ diskFsType.1
+142986192 3D 22 6C 75 6B 73 3A 7A 66 73 22 OD OA 64 69 73 ="fuks:zfs" dis
+142986208 6B 46 73 50 72 6F 66 69 6C 65 2E 31 3D 22 22 OD kFsProfile.1=""
+142986224 OA 64 69 73 6B 46 73 57 69 64 74 68 2E 31 3D 22 diskFsWidth.1=

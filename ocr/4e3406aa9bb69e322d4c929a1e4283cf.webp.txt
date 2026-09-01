@@ -1,0 +1,18 @@
+# OCR: 4e3406aa9bb69e322d4c929a1e4283cf.webp
+# 来源: .\02-WriteUp\2024\4e3406aa9bb69e322d4c929a1e4283cf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+cnimiauinoin 4
+private final native boolean isString(String str);
+public static void t(MainActivity mainActivity) 《
+Fl.c.e(mainactivity, "thisso");
+c cVar = mainactivity.f2407c0;
+if (evar == null) 《
+FLsc.h("binding");
+‘throw null;
+) else if (imainActivity. isstring( ((editText) cvar.#226).getText().toString())) (
+Toast.makeText(mainactivity, , 谅 浩 不 锋 , 0) show()3
+} else {
+mainactivity .startactivity(new Intent(mainactivity, Galleryactivity.class));
+mainactivity finish();

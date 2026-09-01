@@ -1,0 +1,51 @@
+# OCR: 03fc88778d63d396f926248e5f391623.webp
+# 来源: .\02-WriteUp\2025\03fc88778d63d396f926248e5f391623.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+U #30)
+window window, BE 2
+9 EsD
+2 Intel
+白 Model
+2 paddle
+21 Perflogs
+白 Program Files
+2 白 Program Files (x86)
+2 白 ProgramData
+5 颉 Recovery
+3-02) Sandbox
+ei a=
+e- diary
+G2 drive
+E
+6-20 Program Files (x8
+5-2) RedNotebook
+Gi user
+E
+0 current
+5-0) srednotebook
+ong
+A templates
+atm
+自 四 AppData
+5-2 public
+2 Desktop
+2 ssl key
+2 白 System Volume Information
+5-3) Users.
+\Sandbox\a8 \diary\user\current\.rednotebook\data
+ier y= yx Re 7 RAY ae
+日 国 = -rednotebook H ASond 2025/03/11 09:2
+Ga. = deta EH \Sand. 2025/03/11_09:2
+5 2025-02. eet \Sand... 3 B 2025/03/11 09:2
+ob)
+厂 一 3 Ost 回 R | Dee | ame |
+Offset 0 12 3 4 5 6 7 8 9101112131415) Y UTE-8
+00145739776 B3 3A 0A 20 20 74 65 78 74 3A 20 27 33 86 9c 88 8B: text: “3 月 1
+00145739792 33 R6 97 AS 20 E9 98 84 OA OA 20 20 20 20 24 BB 3 目 >
+日
+00145739808 8A ES A4 AY EB 80 83 ES 99 91 ES BC 80 ES A 88 天 考 虑 开 始
+00145739824 ES 86 99 F6 97 AS E8 AE BO EF BC 8C E6 94 BEES 写 A
+00145739840 9c AS F8 BF 99 F9 87 8C ES BA 94 28 AF AS 26 82 这 里 应 该 没 E
+ropmcriypl yn 朐 口 国 g

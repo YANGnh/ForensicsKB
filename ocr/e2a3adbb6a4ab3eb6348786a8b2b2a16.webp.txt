@@ -1,0 +1,17 @@
+# OCR: e2a3adbb6a4ab3eb6348786a8b2b2a16.webp
+# 来源: .\02-WriteUp\2025\e2a3adbb6a4ab3eb6348786a8b2b2a16.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+万 园 @ @ 日 园 园 团 % 乡 申 坤 口 昱 国 QA2Q8 国
+用 tcp.stream eq 14318
+No. Time Source Destination Protocol Length _ Info
+2025-10-16 11:33:59.455074Z 192.168.111. 192.168.111.128 53868 > 81 [SYN] Seq=@ Win=8192 Len=@ MSS=146@ WS=4 SACK_PERM
+2025-10-16 192.168.111. 192.168.111.380 81 > 53868 [SYN, ACK] Seq=@ Ack=1 Win=6424@ Len=@ MSS=146@ SACK_PERM NS=128
+2025-10-16 5 467 192.168.111. 192.168.111.128 53868 > 81 [ACK] Seq=1 Ack=1 Win=657@@ Len=6
+2025-10-16 E 192.168.111. 192.168.111.128 GET /_utm.gif HTTP/1.1
+2025-10-16 5 Z 192.168.111. 192.168.111.380 81 > 53868 [ACK] Seq=1 Ack=394 Win=64128 Len=6
+2025-10-16 5 192.168.111. 192.168. 81 > 53868 [PSH, ACK] Seq=1 Ack=394 Win=64128 Len=116 [TCP PDU reassembled in 58783]
+2025-10-16 192.168. 。 3 5 HTTP/1.1 200 OK
+2025-10-16
+2025-10-16 。 192.168. : 111.128

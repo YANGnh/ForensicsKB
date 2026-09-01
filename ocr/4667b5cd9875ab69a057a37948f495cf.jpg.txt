@@ -1,0 +1,25 @@
+# OCR: 4667b5cd9875ab69a057a37948f495cf.jpg
+# 来源: .\02-WriteUp\2024\4667b5cd9875ab69a057a37948f495cf.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+(KaliG kali )-[~/Desktop]
+Ce ifconfig
+etho: f
+ST RUNNING ,MULTICAST> mtu 1500
+netmask 255.255.255.0 broadcast 192.168.200.255
+fe2b:473F prefixlen 64 scopeid 0x20<Link>
+ether 00:0c:29:2b:47:3f txqueuelen 1000 (Ethernet)
+RX packets 0 bytes 0 (0.0 旦
+RX errors 6 dropped 0 overruns @ frame 0
+TK packets 672 bytes 40542 (39.5 KiB)
+TK errors 0 dropped 0 overruns 0 carrier 6 collisions 0
+3<UP, LOOPBACK, RUNNING> mtu 65536
+inet 127.0.0.1 netmask 255.0.0.0
+E prefixlen 128 scopeid 0x10<host>
+loop txqueuelen 1000 (Local Loopback)
+RX packets 449 bytes 42414 (41.4 KiB)
+RX errors 6 dropped 0 overruns 6 frame 0
+TX packets 449 bytes 42414 (41.4 KiB)
+TX errors 0 dropped 0 overruns 6 carrier 6 collisions 0
+lo: flag:

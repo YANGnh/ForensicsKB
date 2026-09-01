@@ -1,0 +1,136 @@
+# OCR: 12a260e1b0f102061c8295278bb2accb.webp
+# 来源: .\02-WriteUp\2025\12a260e1b0f102061c8295278bb2accb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+1XMt 疗 4 W - CERT TE
+v sunlogin servicelog2
+2025-04-10 11:06:29,603
+2025-04-10 11:04:29,603
+2025-04-10 11:04:29,603
+2025-04-10 11:04:29,604
+2025-04-10 11:06:29,650
+2025-04-10 11:04:29,650
+2025-04-10 11:04:29,650
+2025-04-10 11:06:29,695
+2025-04-10 11:04:29,695
+2025-04-10 11:04:29 695
+2025-04-10 11:06:29.855
+2025-04-10 11:04:29.855
+2025-04-10 11:04:29.855
+2025-04-10 11:04:29.919
+Info
+Info
+Info -
+Info
+Info
+= Info
+Info.
+Info
+Info
+Info
+= Info
+Info
+Info -
+sunlogin service.og2 x
+sunlogin servicelog2
+323
+324
+325
+326
+327
+328
+328
+E
+332
+332
+333
+334
+335
+336
+337
+338
+338
+E
+351
+352
+353
+2625-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-18
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-10
+2025-04-18 11:64:30.023
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Error
+Info
+Info
+Info
+Error
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+Info
+inte.
+[discover] Client NotifyDiscover type=5
+[OnLogin start]
+[OnLogin end)
+[http cal13] id:20, uri:https://s1-og.oray.net/slc:
+[OnLogin] WaittingTask Start
+[OnLogin] WaittingTask end
+[http call3] disconnect, error( 11 )
+[http call3] disconnect, error( 11 )
+[online] received express login
+[LoginUtils] receive express login request from onl:
+[service] Check password: type(1), account(), passw
+oray error code:134340609,error message:verify pass»
+[online] received express login
+[LoginUtils] receive express login request from onl
+[service] check password: type(1), account(), passw
+oray error code:134340609,error messi rify pass
+[online] received express login
+[Loginutils] receive express login request from onl;
+[service] Check password: type(1), account(), passw
+[service] connect p2p server @ 182.100.46.36:4118
+[udp] support straight send in peer : no 182.100.46.
+[P2PAccepter] connect p2p server 182.100.46.36:4118,
+[P2PAccepter] detect local ip 192.168.3.192
+[P2paccepter] login p2p server [182.100.46.36:4118]
+[Loginuti1s] P2P_INDEX = 1789689751
+[LoginUtils] access address PHSRC: //1789689751.s1p25
+[P2PAccepter] attempted to create forward tunnel sir
+[P2PAccepter] [TCP] attempt to create forward tunnel,
+[Papaccepter][TcP] attempt to connect cp server a
+‘attempt to connect server slp2p-336125-std.oray.net
+[Acceptor] [HTTP] new RC HTTP connection 182.100. 46..

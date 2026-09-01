@@ -1,0 +1,8 @@
+# OCR: 4b942e4750a4c370e97b4a263af73b3f.webp
+# 来源: .\02-WriteUp\2024\4b942e4750a4c370e97b4a263af73b3f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+Good - Word (#5607)
+口 李 孙 | haecco, hasecco, ABE AaBbC AaBb(
+-|Q- He E R 1 国 2 E

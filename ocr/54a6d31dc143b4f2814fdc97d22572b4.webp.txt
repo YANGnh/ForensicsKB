@@ -1,0 +1,13 @@
+# OCR: 54a6d31dc143b4f2814fdc97d22572b4.webp
+# 来源: .\02-WriteUp\2025\54a6d31dc143b4f2814fdc97d22572b4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+233.xIsx
+文 件 位 置 “D: ) 检 材 题 目 ) 广 西 公 安 系 统 第 二 居 职 业 技 能 亮 赛 电 子 数 据 取 证 分 析 赛 顶 : 镜 像 ) 导 出
+文 件 粉 城 “MS Office 2007 — Open Password, Hardware acceleration possible, Instant Memory attack possible
+Protection Microsoft Enhanced RSA and AES Cryptographic Provider, 128 bits
+BRE e@eee) Brute-force - Slow
+MDS: EFB9819F700868D9EA80C1D0CCEAEBF9
+Passwords: File-Open 012345
+File-Modify 好 余 ) 有 设 置 密 码 捏

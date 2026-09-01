@@ -1,0 +1,13 @@
+# OCR: c607e664c42e6adbc4ba8f118b21bbe4.jpg
+# 来源: .\02-WriteUp\2024\c607e664c42e6adbc4ba8f118b21bbe4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+432 目 6 史
+< 倩 126132-6515-9824
+a
+aa
+RST, METAR, RANE
+1 M
+aTdbOcf7b44ec281ae08ac624918 cso equ |
+© Mes 9

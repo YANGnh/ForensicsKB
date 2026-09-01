@@ -1,0 +1,29 @@
+# OCR: df795085b2f7b640e22f1e3a97f0b98e.webp
+# 来源: .\02-WriteUp\2025\df795085b2f7b640e22f1e3a97f0b98e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+备 份 助 记 词
+#01
+#06
+#07
+#10
+solution
+faculty
+series
+ramp
+#02
+#05
+#08
+#11
+mule
+loop
+bring
+#03
+#06
+#09
+#12
+rug
+upon
+express
+hamster

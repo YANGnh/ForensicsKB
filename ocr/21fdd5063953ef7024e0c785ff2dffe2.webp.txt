@@ -1,0 +1,8 @@
+# OCR: 21fdd5063953ef7024e0c785ff2dffe2.webp
+# 来源: .\02-WriteUp\2025\21fdd5063953ef7024e0c785ff2dffe2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+名 欲
+国 conftempin
+函 nordist2omdk

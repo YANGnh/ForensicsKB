@@ -1,0 +1,35 @@
+# OCR: b7b32350e68ea975ce844af77a5b2398.jpg
+# 来源: .\02-WriteUp\2024\b7b32350e68ea975ce844af77a5b2398.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+TERRA Rocket.Chat 招 H 用 (6.7.1)
+oo x
+& Subscription
+回 Engagement
+© Moderation Beta
+® Federation
+林 we
+& invites
+日 User status
+号 R
+口 Device management
+日 心 f one
+日 RA
+Third-party login
+> g
+山 8
+B Reports
+Q Sounds
+ae
+at
+[ 8
+文 何 传
+Configure file upload and storage.
+sms
+Enable and configure SMS gateways on your workspace.
+a
+Omnichannel
+Set up Omnichannel to communicate with cus
+regardless of how they connect with you.
+a

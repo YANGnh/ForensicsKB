@@ -1,0 +1,9 @@
+# OCR: 000f62c50d41e3103158eb58ffae0582.jpg
+# 来源: .\02-WriteUp\2024\000f62c50d41e3103158eb58ffae0582.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:21
+
+ax +
+[root@locathost ~]# docker inspect 9b | grep MYSQL_ROOT_PASSWORD
+y-secret-pw",
+[root@localhost ~]# |

@@ -1,0 +1,35 @@
+# OCR: 3b74129e2e84371a39460181d919567d.jpg
+# 来源: .\02-WriteUp\2024\3b74129e2e84371a39460181d919567d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+iStoreOS
+BR
+网 绑 向 导
+E
+iStore
+回
+E
+E
+2
+a
+一
+Docker
+PassWall 2
+DDNSTO iis)
+吴 有 五 理
+NasTools
+‘i DNS(DDNS)
+2
+NasTools
+1 BSS NAS Hse TARA. BARR: https://github.com/jxxghpinas-tools
+服 务 状 态
+Masicos 的 i
+腩
+SHARPS: admin, 医 B: password
+安 装 配 置
+UF SS REREREARNT SER:
+E 18888,
+ae nastoolinas-tools *
+Sue /root/Configs/NasTools 0
+E

@@ -1,0 +1,26 @@
+# OCR: 48953601f3dd9119b7b46bb59ab14f48.webp
+# 来源: .\02-WriteUp\2025\48953601f3dd9119b7b46bb59ab14f48.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+111, 116, 161, 8, 97, 108, 49, 58, 51]));
+TE TABLE I 。 INTEGER PRIMARY KEY A tit 5 nt T
+0 a |_at\nAFTER UPDATE ON" + 1 c RBEGIN\n UP
+c : eainittaltzer 1
+BB Python: C:Users/Moxuan Wan X 。 巾 人 -
+Windows PowerShell
+版 权 所 有 (C) Microsoft Corporation。 保 留 所 有 权 利 。
+安 装 最 新 的 PowerShelL, 了 解 新 功 能 和 改 进 ! https://aka.ns/PSWindoms
+加 载 个 人 及 系 统 配 置 文 件 用 了 846 台 秒 。
+PS C:\Users\Moxuan Mang> ipython
+Python 3.13.2 | packaged by Anaconda, Inc. | (main, Feb 6 2825,18:49:140 [MSC v.1929 64 bit (AMD6U)]
+Type ‘copyright’, ‘credits’ or ‘license’ for more information
+IPython 9.2.0 -- An enhanced Interactive Python. Type '?' for help.
+Tip: We can't show you all tips on Windows as sometimes Unicode characters crash the Windows console, please help |
+ug it.
+In [1]: [72, 117, 97, 119, 101, 105, 78, 111, 116, 101, 80, 97, 100, 49, 50, 51]
+[72, 117, 97, 119, 101, 105, 78, 111, 116, 101, 80, 97, 100, 49, 50, 51]
+In [2] 0
+(chrCi), end="")
+HuaweiNotePad123
+tr fai: |

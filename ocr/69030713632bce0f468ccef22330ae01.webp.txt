@@ -1,0 +1,85 @@
+# OCR: 69030713632bce0f468ccef22330ae01.webp
+# 来源: .\02-WriteUp\2024\69030713632bce0f468ccef22330ae01.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+XML View List View
+Key
+Root
+E
+edfowctenldonefer
+-WFWorkflowActionParameters
+‘so WFURLActionURL
+uup
+e
+Wweddewcionldenifer
+“> WEWorkflowActionParameters
+a
+edfowctenldontfer
+®-WFWorkflowActionParameters
+e
+Wweddewcionldenifer
+“@- WEWorkflowActionParameters
+a
+edfowctenldontfer
+®-WFWorkflowActionParameters
+e
+Wweddewcionldenifer
+WVedfowctenpoometee
+E
+= WeWorkflowActionidentifier
+-WFWorkflowActionParameters
+rope
+®-Value
+一 -ouputuup
+Type
+OutputName
+'WFSerializationType
+uup
+Type
+array
+dict
+string
+dict
+string
+string
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+string
+dict
+dict
+dict
+string
+string
+string
+string
+string
+Value
+isworkflow.actions.url
+https://hSpublish.gamelaoyou.com/Mahjong_Native/huizhou/config,json
+‘B4AF9A41-FABO-4A73-BF6A-62EQABOEOSBC
+is.workflow.actions.downloadurl
+isworkflow.actions.getvalueforkey
+isworkflow.actions.getvalueforkey
+isworkflow.actions.getvalueforkey
+isworkflow.actions.generatebarcode
+is.workflow.actions.savetocamerarall
+F9251815-EA3C-44BA-B440-468984AE0201
+ActionOutput
+E
+WFTextTokenattachment
+F4A49D8C-3C6F-422F-872D-2BEOFS69B6A7

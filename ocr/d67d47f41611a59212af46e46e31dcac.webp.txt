@@ -1,0 +1,39 @@
+# OCR: d67d47f41611a59212af46e46e31dcac.webp
+# 来源: .\02-WriteUp\2024\d67d47f41611a59212af46e46e31dcac.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+口 口 口 口 口 口
+i
+国 oooboooooooaoosooo0
+[5 000b.0000.0000.005.000.00.
+[5 Use Root Hub (USB 3.0)
+[J Kingston DataTraveler 3.0 U... Disk&Ven_Kingston&Prod Data
+[J SanDisk Cruzer Blade USB... Disk&Ven SanDisk&Prod_Cruz.
+[J aige U310Pro USB Device —_Disk&iVen_aigo®&Prod_U310Pro.
+2024-11-09 15:21:54
+2024-11-09 15:21:54
+2024-11-09 15:21:54
+2024-11-09 17:52:54
+2024-11-09 18:24:02
+2024-11-09 16:06:16
+2024-11-12 11:03:06
+2024-11-12 11:08:06
+2024-11-12 11:08:05
+2024-11-09 20:52:19
+2024-11-09 18:25:18
+2024-11-09 17:52:23
+2024-11-12 11:03:06
+2024-11-12 11:08:06
+2024-11-12 11:08:05
+2024-11-09 17:52:54
+2024-11-09 18:24:02
+2024-11-09 16:06:16
+admin
+admin
+USB In
+USB In
+USB Re
+USB M
+use M
+use M

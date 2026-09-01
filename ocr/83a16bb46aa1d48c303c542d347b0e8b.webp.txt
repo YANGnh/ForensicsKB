@@ -1,0 +1,50 @@
+# OCR: 83a16bb46aa1d48c303c542d347b0e8b.webp
+# 来源: .\02-WriteUp\2025\83a16bb46aa1d48c303c542d347b0e8b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+项 目 值
+排 作 系 统 名 称 Microsoft Windows 11 专 业 版
+版 本 10026100 版 本 26100
+其 他 探 作 系 统 液 述 没 有 资 料
+排 作 系 统 刺 洪 商 Microsoft Corporation
+BREE DESKTOP-8RM6G9O
+BRM MECHREVO
+系 统 城 号 YAOSHI Series
+系 纬 粑 坦 基 于 x64 的 电 脑
+系 统 SKU 0001
+pie Intel(R) Core(TM) Ultra 9 27SHX, 2700 Mhz, 24 个 内 核 ,24 个 迪 辐 处 理 嘴
+BIOS 版 本 日 卵 American Megatrends International, LLC. N.1.13MRO17, 2025/4125
+SMBIOS 版 本 35
+BATHS 1.14
+BIOS 横 式 UEFI
+主 板 制 造 商 MECHREVO
+主 板 产 品 YAOSHI Series-X6AR55xY
+主 桥 版 本 Standard
+平 台 角 色 移 动
+安 全 启 动 技 忘 启 用
+PCR7 配 置 需 要 提 升 才 能 李 看
+Windows 目 录 CAWindows
+系 统 目 录 CAWindows\system32
+启 动 设 备 \Device\HarddiskVolume1
+区 域 设 置 中 国
+HRS 版 本 = "10.0.26100.1"
+用 户 名 DESKTOP-8RM6G90\NoahTie
+刑 区 中 国 标 恒 W| 间
+己 安 装 的 物 理 内 存 IRAW) 32.0 GB
+AEA 31.5 GB
+可 用 物 理 内 存 18.8 GB
+总 的 虚 抖 内 存 37.0 GB
+可 用 虚 抖 内 存 24.1 GB
+页 面 文 件 空 间 5.50 GB
+页 @ 文 件 Chpageflesys
+内 核 DMA 保 护 启 用
+基 于 虚 技 化 的 安 全 性 正 坤 泓 行
+基 于 虚 招 化 的 安 全 性 婉 求 的 安 全 属 性
+基 于 虚 招 化 的 安 全 性 提 供 的 安 全 属 性 基 本 的 虚 抑 化 支 拼 安 全 启 动 DMA 保 护 UEFI 代 码 只 淑 SMM Security Miti...
+基 于 虚 抒 化 的 安 全 服 务 已 配 置 虚 拟 机 监 掘 程 序 强 制 行 的 代 码 完 整 伯
+基 于 虚 拐 化 的 安 全 服 务 正 在 运 行 虚 拟 机 监 控 程 序 强 制 扒 行 的 代 码 宋 整 性
+商 用 应 用 控 制 政 笺 已 实 宛
+BRM RS BP eB 审 核
+自 动 设 备 加 惠 支 持 需 要 提 升 才 能 李 看
+已 恰 洪 到 虚 拟 机 监 控 程 序 、 将 不 显 示 Hyper-V 所 霁 的 功 能

@@ -1,0 +1,95 @@
+# OCR: ae828a75f1f952d7f4965d9ae2e1fae2.webp
+# 来源: .\02-WriteUp\2026\ae828a75f1f952d7f4965d9ae2e1fae2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+町
+D 目 《 | 益
+ae
+日
+File Config View ‘Tools Help
+BasicAnalyzer
+a BaseInfo
+a Certificate
+a ALLAPIS
+a Allstrings
+a AppStrings
+a AllUris
+a AndroidManifest
+a Malscan
+@ Resources
+“@ &d Dexciass
+a
+田 r
+© @ android. support .v4
+B app
+日 @ IotiticationsideChannel
+@ cancel (String, int, String) :voir
+@ cance1al1 (String): void
+© notify(String, int, String,Noti:
+日 @ INotiFicationsidecnanneisstud
+日 @ INotiFicationSidechannelsstubsPr
+@ @ RemoteactionCompatParcelizer
+@ @& graphics.drawable
+@ Bos
+{8 androidtranscoder
+@ § engine
+团 图 format
+申 图 ttls
+日 @ Mediatranscoder
+申 @ Mediatranscoder$1
+申 @ MediaTranscoder$2
+日 @ Mediatranscoders3
+日 @ Mediatranscoders4
+@ @ Mediatranscoders4si
+@ @ Mediatranscoders4s1si
+日 @ Mediatranscoder$4$2
+申 @ MediatranscoderStistener
+白 G videocomoressor
+5 M _C F | 目 千 吵 面 四 日 | 水
+4 index
+GDA4.02(Free Edition)
+package declare
+DCLOUD_DARK_MODE: auto
+DCLOUD_STREAMAPP_CHANNEL :
+android.notch_support :
+notch. config: portrait
+uni -owryl.
+true
+android, 2.5
+android. support.FILE_PROVIDER_PATHS: @resource
+[DEX Base Info]
+Dex File Name: classes.dex
+File Size: 9329828 bytes
+MDs: #5d37adcf402de23808e8068b4293882
+Class Size: 7843
+Method Size: 65487
+String Size: 68846
+Dex File Name: classes2.dex
+File Size: 1001608 bytes
+2193362589F0dasc483addeFebd4écda
+659
+6167
+String Size: 9680
+[Permissions]
+android. permission. INTERNET
+android. permission. WRITE_EXTERNAL_STORAGE
+android. permission.ACCESS_NETWORK_STATE
+android. permission.ACCESS_WIFI_STATE
+android. permission. INSTALL_PACKAGES
+android. permission. REQUEST_INSTALL_PACKAGES
+android. permission. CHANGE_NETWORK_STATE
+android. permission. MOUNT_UNMOUNT_FILESYSTEMS
+endrodd.peralssion. VIBRATE
+android-pernission- CAPER
+arokrporehziomocrseeeln
+‘android. permission .READ_PHONE STATE
+‘android. permission.CF =
+android. permission. WAKE_LOCK
+ndroid. permission. READ, EXTERNAL STORAGE
+Sas
+android. permission.READ_! MEDIAL NIDEO
+Se nace
+android. permission. BIND_J08_SERVICE
+标 | 园 Se 职 00| 的 的 y OB? sxe
+|—UNT__7¢B999B | 126691230302 | common

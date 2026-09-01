@@ -1,0 +1,14 @@
+# OCR: 935652a01b4d094090966d73fe3596d3.jpg
+# 来源: .\02-WriteUp\2024\935652a01b4d094090966d73fe3596d3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+P sveniten>Elesea> 上 @ 吴
+口 X
+口 2X 串 can
+口 3X IMG 20220823 090520jpg
+口 X IMG 20220823 09050ljng
+口 5X
+Os LSB hide.exe
+口 7X @aree
+Osx ze

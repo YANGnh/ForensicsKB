@@ -1,0 +1,28 @@
+# OCR: 8900b9a5f26ee4d93c7f12c6938035b5.webp
+# 来源: .\02-WriteUp\2025\8900b9a5f26ee4d93c7f12c6938035b5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+口 | 助 记 词 XQ) 意 高 级
+门 世 序 号 与 名 称 = MD5 世 大 小 = 创 建 时 间 = 修 改 时 间 = 全 路 径
+山
+过 滑 VY 过 滤 VY SF | 起 始 , 结 束 V , 起 始 , 结 束 V , 过 滤 设
+置
+1 墨 imtoken 助 记 间 1PNG 15.05 KB 2025-11-07 08:28:06 2025-09-26 09:34:31 data/media/0/DCIM/imtoken 助 记 词 1.PNG 列
+2 墨 imtoken 助 记 泊 2 2.PNG 13.68 KB 2025-11-07 08:27:57 2025-09-25 15:56:29 data/data/comsyiqiangXmaster/vpromysys/sys01/storage
+详 细 信 息 & 国 x
+名 称 : imtoken 助 记 词 2 2.PNG 原 类 型 视 图 文 本 视 图 十 六 进 制 视 图 口
+扩 展 名 : PNG
+类 型 : 文 件
+大 小 13.68 KB
+创 建 时 间 : 2025-11-07 08:27:57
+访 问 时 间 : 2025-11-07 08:27:57
+修 改 时 间 : 2025-09-25 15:56:29
+二 + \ 二 _ 9
+e “ 助 记 词 2: foil delay paddle obtain
+全 路 径 :
+data/data/com.yiqiang.xmaster/vprom/sys/sys01/storage/emulated/0/importFile/sdcard/im
+portFileyimtoken 助 记 词 2 2.PNG
+加 蝉 类 型 : 未 加 蜴
+已 券 除 : 否
+WER: 0 [Default]

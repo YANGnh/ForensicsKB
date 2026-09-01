@@ -1,0 +1,11 @@
+# OCR: 500005316e0a9bc2eb0aee4bf525926e.webp
+# 来源: .\02-WriteUp\2025\500005316e0a9bc2eb0aee4bf525926e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+余 Indectondassphp 余 Commonhctiondassphp X
+App > Lib > Action > Admin > # CommonActiondassphp
+4 class CommonAction extends Action{
+55 protected function getpass($pass){
+56 return shal (md5(md5(C('cfg_adminkey')).md5($pass) ));
+57}

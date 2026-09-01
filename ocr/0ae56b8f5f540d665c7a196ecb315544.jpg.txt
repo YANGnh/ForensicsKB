@@ -1,0 +1,9 @@
+# OCR: 0ae56b8f5f540d665c7a196ecb315544.jpg
+# 来源: .\02-WriteUp\2024\0ae56b8f5f540d665c7a196ecb315544.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+Rex +
+[rootelocalhost /]# whereis s-ut
+S-ut: /usr/bin/s-ut /usr/local/s-ut
+[root@localhost /]#

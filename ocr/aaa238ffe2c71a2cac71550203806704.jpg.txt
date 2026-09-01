@@ -1,0 +1,27 @@
+# OCR: aaa238ffe2c71a2cac71550203806704.jpg
+# 来源: .\02-WriteUp\2024\aaa238ffe2c71a2cac71550203806704.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+SESE No. 1 (B-1D: 37)
+DIEEII3 H 8 探 82028880 ^
+Spe 8008
+eee MESH EDT] 4 、
+HO: RHEL:
+] (Case 5
+E
+20
+Examiner
+Notes
+|AppVer: ADI4.7.1.2
+(O3Ver Win 20x
+‘cqured on: 2024/03/22408:2428
+eps 64x 5125544 = 320KB
+|2.621,440 $8 expected, 2,621,440 # actually
+reerenced
+eR. 05,009 245 97044 - 0008
+E
+aioaty
+E FFD2777COB966D5FCO7F2BAED 1DA5782F8DESADE HREM
+H05 |2EBF2DEB771FB1198FFICASF7773B5DD REREW
+aco | mw E 口 E

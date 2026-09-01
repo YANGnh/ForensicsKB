@@ -1,0 +1,11 @@
+# OCR: 96ecfe1abfb2cd67e2154152385eee01.webp
+# 来源: .\02-WriteUp\2025\96ecfe1abfb2cd67e2154152385eee01.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+Tower
+Media server
+root
+9
+BR
+HEEB

@@ -1,0 +1,11 @@
+# OCR: 4638118fd663005d56989f01b6fd351a.webp
+# 来源: .\02-WriteUp\2025\4638118fd663005d56989f01b6fd351a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+NoahTie@LAPTOP-H91IARRE ~
+> ssh -Y android@192.168.31.150
+android@192.168.31.150's password:
+Linux localhost 4.19.324-perf+ #1 SMP PREEMPT Wed Mar 26 00:43:59 UTC 2025 aarché4
+Debian GNU/Linux 12 (bookworm) [running via Linux Deploy]
+android@Locathost:~§ |

@@ -1,0 +1,18 @@
+# OCR: 0c0db7d8247cf20559cfb8d3759b27b6.webp
+# 来源: .\02-WriteUp\2025\0c0db7d8247cf20559cfb8d3759b27b6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+POST /index.php HTTP/1.1
+Host: sysmon.cs-corp.cd
+User-Agent: Mozilla/5.@ (X11; Linux x86_64; rv:122.@) Gecko/26188161 Firefox/122.9|
+Accept: text/html, application/xhtml+xml, application/xm1;q=0.9, image/avif, image/webp, */*;q=0.8
+Accept-Language: en-US,en;q=0.5|
+Accept-Encoding: gzip, deflate|
+Content-Type: application/x-www-form-urlencoded
+Origin: http://sysmon.cs-corp.cd
+5ec-GPC: 1
+Connection: keep-alive
+Keep-Alive: timeout=5,max=166
+Connection: Keep-Alive
+Content-Type: text/html; charsetzUTF-8

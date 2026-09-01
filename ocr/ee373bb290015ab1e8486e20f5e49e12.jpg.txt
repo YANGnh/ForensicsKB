@@ -1,0 +1,18 @@
+# OCR: ee373bb290015ab1e8486e20f5e49e12.jpg
+# 来源: .\02-WriteUp\2024\ee373bb290015ab1e8486e20f5e49e12.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+切 aamwan, 日 azaw, aazmzg TPowersnell
+Q | See
+Gene sae E
+[ 7 莲 ? 】墓
+D _seyten_yony-sone Eating arp Ecc a 目
+D pnecmneyriene u aneetespgineeeeer 一
+aae E
+m sssag
+quality 18 -max-memory 4 ~execution-provider cpu ~execution-theads 4
+AHL
+frame-processor face_swapperface_enhancerf ‘temp: frame-format png --temp-frame-qualty 18 ~-cutput-video-
+e 3-H HYLEOI/90R6/Users/L/AppData/Roaming/MicrosotyWindows/PowerShell/PSReadline/ConsoleHost history.at
+pane

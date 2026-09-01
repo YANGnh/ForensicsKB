@@ -1,0 +1,34 @@
+# OCR: f52bcfa09a8917a267fe21a5ddcf4c9c.webp
+# 来源: .\02-WriteUp\2025\f52bcfa09a8917a267fe21a5ddcf4c9c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+decrypt(__inté4 a1)
+/ r
+/ rta
+/ edi
+unsigned int v5; // ebx
+__intea e // cbp
+nt28 *Aeskey; // 12
+Tintea vas // vax
+Ent v93 / ebx
+int vil; // [rsptch] [rbp-82ch] BYRE
+char vi2[1024]; / [rsp+ieh] [rbp-828h] y
+char [1064]; // [rsp+4ieh] [rbp-428h] BYRE
+va = BI0_F basess();
+v2 an
+VS = BO_new.men, buf (21, @xFFFFFFFFLL);
+B10 set flags(v2, 2561);
+va = BIO push(v2, v3);
+VS = B1Oread(vs, v2, 1024LL)5
+B10 free-ell(4);
+Ve = EVPLEIPHER CTX new()s
+Aeskey = getaeskey()s
+VS = EVP ses 256 cbe()s
+Eve ecryptinit ex(ve, ve @LL, Aeskey, BAES IV);
+Eve Decryptupdate(vé,,s, &vil, vi2, v3)5
+v9 = vily
+EvP_pecryptFinal_ex(vé, &s[v22], 8v21)5
+s[vi1 + v9] = 65
+EVP_CIPHER_CTX free(vs)5
+retin ;

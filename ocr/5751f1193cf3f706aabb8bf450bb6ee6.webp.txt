@@ -1,0 +1,44 @@
+# OCR: 5751f1193cf3f706aabb8bf450bb6ee6.webp
+# 来源: .\02-WriteUp\2025\5751f1193cf3f706aabb8bf450bb6ee6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+king@api-server-2:~s sudo netplan apply
+king@api-server-2:"% ip addr
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdise noqueue state UNKNOWN group default qlen 1000
+link/ loopback 96:00: 10:00 brd 90:00:00:00:00:00
+inet 127.9.0.1/8 scope host lo
+valid_lft forever preferred_lft forever
+inet6 ::1/128 scope host noprefixroute
+valid_lft forever preferred_lft forever
+2: ens33: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1900
+link/ether 09:0c:23:d5:f2:79 brd ffiffff:ffiffiff
+altname enp2si
+inet 192.168.217.12/24 metric 100 brd 192.168.217.255 scope global dynamic ens33
+valid_lft 1785sec preferred_lft 17essec
+ineté fe89::20c:29ff:fedS:f279/64 scope link
+valid_lft forever preferred_lft forever
+8: br-09fa523470e9: <BROADCAST, MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default
+Link/ether 6a:19:24:77:fhifi brd 衍 衔
+inet 172.19.0.1/16 brd 172.19.255.255 scope global br-99fa523470e9
+valid_lft forever preferred_lft forever
+inet6 fe80::6819:24ff :fe77:fbfi/64 scone Link
+valid_lft forever preferred_lft forever
+4: br-ab46B8fabaf1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1590 qdisc noqueue state UP group default
+link/ether 4e:dd:9b:2: 36 brd f iffoffft
+inet 172.18.0.1/16 brd 172.18.255.255 scope global br-ah4esefabat1
+valid_lft forever preferred_lft forever
+inet6 fe8d::dcdd:hff:fe21:5436/64 scope link
+valid_lft forever preferred_lft forever
+5: docker@: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1560 qdisc noqueue state DOWN group default
+link/ether 22:9:83:97:2e:51 brd ffiff:ff:ff:ffiff
+inet 172.17.0.1/16 brd 172.17.255.255 scope global dbckere
+valid_lft forever preferred_lft forever
+6: vethidh6esf@if2: <BROADCAST, MULTICAST, UP LONER_UP mtu 1500 gdisc noqueue master br-09fa523470e9 state UP group default
+link/ether 3a:9a: 258 brd ffiff:ffsff:Ff:ff Link-netnsid 0
+lnet6 f280::389a:a0ff :#ea9:5a58/64 scope Link
+valid_lft forever preferred_lft forever
+83: veth3S4cleB@if2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1560 qdisc noqueue master br-ab46eefabafi state UP group default
+link/ether c2:ba: Se brd ffiffrffsff:ff:ff Llink-netnsid 1
+lnet6 #280: :c0ba:caff :#259:d65e/64 scope Link
+valid_lft forever preferred_lft forever

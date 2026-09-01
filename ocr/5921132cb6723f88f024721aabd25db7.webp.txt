@@ -1,0 +1,7 @@
+# OCR: 5921132cb6723f88f024721aabd25db7.webp
+# 来源: .\02-WriteUp\2025\5921132cb6723f88f024721aabd25db7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+Busygox 1.36.1 (2025-02-03 23:09:37 UTC) built-in shell (ash)
+root@(none) : wt ip a

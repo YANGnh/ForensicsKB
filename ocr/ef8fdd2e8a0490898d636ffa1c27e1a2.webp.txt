@@ -1,0 +1,21 @@
+# OCR: ef8fdd2e8a0490898d636ffa1c27e1a2.webp
+# 来源: .\02-WriteUp\2025\ef8fdd2e8a0490898d636ffa1c27e1a2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+BG 计 算 i 材 / 文 似 分 类 / 加 盅 文 件 / TrueCrypteies
+OsRs =am
+过 滑
+1X 1 Beifen
+| 2 穿 eien
+详 细 信 息
+名 疳 : Beifen
+类 盔 : 文 件
+大 h: 1024 MB
+创 院 H 间 : 2025-02-10 14:42:54
+设 8 间 : 2025-02-10 16:13:35
+惟 改 8 间 : 2025-02-10 14:42:58
+MetaAddr 44
+282: PC EO1/ 新 加 崧 ()/jetbra/Beifen
+MEAB: TrueCryptSss
+eee: 否

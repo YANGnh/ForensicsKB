@@ -1,0 +1,12 @@
+# OCR: a7b2cd1358dea4f2d20ef67165439cb8.webp
+# 来源: .\02-WriteUp\2025\a7b2cd1358dea4f2d20ef67165439cb8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+em
+E
+E
+E
+0 E
+ooo parr
+mule err

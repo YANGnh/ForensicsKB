@@ -1,0 +1,6 @@
+# OCR: 4834ec370e3594d95ce9e1aae28ce244.webp
+# 来源: .\02-WriteUp\2024\4834ec370e3594d95ce9e1aae28ce244.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+Hata:image/pngybase64 ,iVBORw0KGqoRRRRNSUhEUgRARRORRRRRwCR3

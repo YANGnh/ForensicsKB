@@ -1,0 +1,14 @@
+# OCR: 2713f1e33e7d41cf58ca66a22991debd.jpg
+# 来源: .\02-WriteUp\2024\2713f1e33e7d41cf58ca66a22991debd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+k encap:Ethernet HHaddr @@:@C:29:41:7D:F8
+inet addr:192.168.8.5 Bcast:192.168.8.255 Mask:255.255. 255.0
+inet6 addr: fdbc:6f08:9c51::1/68 Scope:Global
+inet6 addr: fe88::28c:29ff:fedt:04f8/64 Scope:Link
+UP BROADCAST RUNNING MULTICAST MTU:1588 Metric:1
+RX packets :414 errors:8 dropped:@ overruns :@ franei8
+TX packets :483 errors:@ dropped:@ overruns:@ carrier :@
+collisions :@ txqueuelen: 1008
+RX bytes :407188 (397.6 KiB) TX bytes:113267 (118.6 KiB)

@@ -1,0 +1,21 @@
+# OCR: ec044db6652a94b211aea0e278346376.jpg
+# 来源: .\02-WriteUp\2024\ec044db6652a94b211aea0e278346376.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+4 S\88 = x
+我 f 已 放 集 名 导 导 入 数 据 时 所 霭 的 全 部
+。 点 击 开 姑 ] 按 钮 进 行 导 人 。
+4,087
+4,087
+6
+0
+00:00.15
+[IMP] Import start
+[IMP] Import type - Text file
+[IMP] Import from - C:\Users\32622\Desktop\202448a¢47\result.xt
+[IMP] Create table [result]
+[IMP] Import data [result]
+[IMP] Processed: 4087, Added: 4087, Updated: 0, Deleted: 0, Errors: 0
+[IMP] Finished successfully
+Be «|< |[ | za |

@@ -1,0 +1,7 @@
+# OCR: 4483849ec5420fb444d928305afa45e8.webp
+# 来源: .\02-WriteUp\2024\4483849ec5420fb444d928305afa45e8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+SAS Hi: 17590342.0
+道 程 日 算 枝 , 遇 出 任 吊 为 6

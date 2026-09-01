@@ -1,0 +1,60 @@
+# OCR: 3c3547deb2ef1b2f549cedf6e8add343.webp
+# 来源: .\02-WriteUp\2026\3c3547deb2ef1b2f549cedf6e8add343.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+[rootGmaster81 yum. repos.d]# kubectl get pods -n kube-system
+RESTARTS
+NAME
+coredns-7f6cbbb7b8-52797
+coredns-7f6cbbb7b8-1fz79
+etcd-master01
+kube-apiserver-master01
+kube-controller-manager-master01
+kube-flannel-ds-4zhv2
+kube-flannel-ds-fztvh
+kube-flannel-ds-h46ss
+kube-proxy-hpg6k
+kube-proxy-m611b
+kube-proxy-t2wgb
+kube-scheduler-master01
+READY
+1/1
+1/1
+1/1
+1/1
+1/1
+1/1
+1/1
+1/1
+1/1
+1/1
+1/1
+1/1
+STATUS
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+1
+巳 厂 厂 厂 厂 厂 门 巳 人 人 人
+ago)
+ago)
+ago)
+ago)
+ago)
+ago)
+ago)
+ago)
+ago)
+ago)
+ago)
+ago)

@@ -1,0 +1,13 @@
+# OCR: 7c2b145283ef98030a2d546d8ec2d1b9.jpg
+# 来源: .\02-WriteUp\2024\7c2b145283ef98030a2d546d8ec2d1b9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
++
+[root@localhost -]# docker ps -a --no-trunc
+CONTAINER ID
+ATUS PORTS
+NAMES
+9bflcecec3957a5cd23c24c8915b743449be5238322Ca5646e3d9e788371b765
+2 hours 6.6.8.6-3366->3386/tcp mysql
+[root@locathost ~]# |

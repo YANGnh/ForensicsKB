@@ -1,0 +1,55 @@
+# OCR: dfdcf56aa95c53e6673727e7c09422a6.webp
+# 来源: .\02-WriteUp\2025\dfdcf56aa95c53e6673727e7c09422a6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+芒 砺 怡 防 列 设 备
+E
+Ce #a1
+公 引 吊 设 备
+ae
+名 Flash
+* BRIERE
+4 Bam
+omIERa
+颖 余 DOCKER A IA
+A
+@ Virtual_storage - 8.1 GB (sda)
+Sik
+en
+BRIAR
+Mware_Virtual_SATA_Hard_Drive_00000000000000000001 - 129 GB (sdb)
+E
+E
+=e
+E
+E E
+0.0 B/s 0.08/s
+E E
+0.0 B/s 0.08/s
+Sik SSH (offline MBE
+根 庞 异 朋 扁 行 命
+Q Be: oie
+BE SUMEBTSES.
+fe STRATE.
+E
+Sh SRSRALSSE.
+Fi SRBRALRAM.
+口 usssscae
+E
+6 zfs
+E
+Media server * Tower
+巳 Q 百 义 日 回 日
+x
+124 GB
+E
+7768
+Ben
+8.02.GB
+en
+722 MB
+116GB
+Jase
+6.98 GB
+Unraid* webGui ©2024, Lime Technology, Inc. @ i

@@ -1,0 +1,43 @@
+# OCR: bdec1155f3f50a1861faa1efe5509dc9.jpg
+# 来源: .\02-WriteUp\2024\bdec1155f3f50a1861faa1efe5509dc9.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+SB Winter - [¥8-pog)
+200 REO MES SRO) BBY TAD saag BRO scan
+u
+Dar sagt | ReGws | AALNY | 气 诊 不 一 | 心 达 更 玲 月 口 一 觉 | SHAY lo
+g —
+offset 01234567 689A BCDEF ANSI ASCII 3
+(00000000 89 50 4B 47 OD OA 1A 0A 00 00 00 OD 49 48 44 52 E HDR O_O COU HDR
+00000010 00 00 04 00 00 00 04 00 08 02 00 00 春 FO 7F BC 9 x roroorero
+00000020 D4 00 00 01 BA 74 45 58 74 70 61 72 61 6D 65 74 6 éteXtparamet COLD tparamet
+00000030 65 72 73 00 73 6F 6c GF 25 31 67 69 72 6C 2C 75 ers solo,igirl,u ersUsolo, igirl,u
+00000040 70 70 65 72 20 62 6F 64 79 2C 20 6C 6F GF 6B 69 pper body, looki pper body, looki
+00000050 6E 67 20 61 74 20 76 69 65 77 65 72 2c 20 3c 6C ng at viewer, <1 ng at viewer, <1
+00000060 酮 72 61 3A 57 68 69 74 65 GE 69 GE 67 20 47 69 ora:Whitening Gi ora:Whitening Gi
+00000070 72 6C SF 41 3A 31 3E 2C 20 70 68 GF 74 6F 67 72 rl_Az1>, photogr rl_A:1>, photogr
+00000080 61 70 68 79 20 74 65 78 74 75 72 65 2C 20 G4 65 aphy texture, de aphy texture, de
+00000080 明 69 63 61 74 65 20 73 6B 69 GE OA 4E 65 67 61 licate skin Nega licate skin Nega
+000000A0 74 69 76 65 20 70 72 6F 6D 70 74 3A 20 28 77 GF tive prompt: (wo tive prompt: (wo
+00000080 72 73 74 29 71 75 61 6C 69 74 79 3A 32 29 2c 28 rst quality:2),( rst quality:2),(
+000000c0 明 6F 77 20 71 75 61 6C 69 74 79 3A 32 29 2c 28 low quality:2),( low quality:2),(
+00000000 6 GF 72 ED 61 6C 20 71 75 61 6C 69 74 79 3A 32 normal quality:2 normal quality:2
+000000E0 29 8 GC GF 77 72 65 73 2C 77 61 74 65 72 6D 61 },lowres,waterma ), lowres,waterma
+000000FO 72 6B 2c 20 6& 67 SF 64 65 65 70 6E 65 67 61 74 rk, ng_deepnegat rk, ng_deepnegat
+00000100 68 76 65 SF 76 31 SF 37 35 74 20 45 61 73 79 4B ive _vi_75t EasyN ive vi_75t EasyN
+00000110 65 67 G1 74 69 76 65 20 62 61 64 68 61 6 64 76 egative badhandv egative badhandv
+00000120 34 2c 20 63 61 6D 65 72 61 25 20 6D 61 6C 66 GF 4, camera, malfo 4, camera, malfo
+00000130 72 6D 65 64 20 66 69 GE 67 65 72 73 0A 53 74 65 rmed fingers Ste rmed fingers ste
+00000140 70 73 3A 29 32 30 2c 20 53 61 印 70 éC G5 72 3A ps: 20, Sampler: ps: 20, Sampler:
+00000150 20 44 50 4D 2B 28 20 53 44 45 20 4B 61 72 72 61, DEN++ SDE Karra DEM++ SDE Karra
+00000160 73 2 20 43 46 47 20 73 63 61 6C 65 3A 20 37 2c a CEG scale: 7, a CFG scale: 7,
+00000170 20 53 65 65 64 3A 20 33 37 31 39 32 37 39 39 39 [ 5 Seed: 371927999
+008 33 20 20 23 es Tm 68 3a. 20 31 30 32 34 78 31 30 gy Sizer 102410
+00000190 32 34 2c 20 4D GF 64 65 6C 20 68 61 73 68 3A 20 24, Model hash: 24, Model hash:
+Q00001A0 39 65 31 61 64 32 38 66 36 61 2C 20 4D GF G4 65 Selad28f6a, Mode 9elad26f6a, Mode
+00000180 6C 3A 20 61 67 61 69 GE 6D 69 78 SF 76 32 30 25 1: againmix_v20, 1: againmix_v20,
+000001cO 20 52 65 66 69 GE 65 72 3A 20 76 31 2D 35 2D 70 Refiner: vi-5-p Refiner: v1-5-p
+000001D0 72 75 6B 65 64 2D 65 6D 61 GF 6E 6C 79 20 5B 36 runed-emaonly [6 runed-emaonly [6
+000001E0 63 65 30 31 36 31 36 38 39 SD 2C 20 52 65 66 69 ce0161689], Refi ce0161689], Refi
+000001FO 6 65 72 20 73 77 69 74 63 68 20 61 74 3A 20 30 ner switch at: 0 ner switch at: 6

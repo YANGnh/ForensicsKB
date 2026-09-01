@@ -1,0 +1,55 @@
+# OCR: 392553e537a376f67442bc12a7ffcb75.webp
+# 来源: .\02-WriteUp\2026\392553e537a376f67442bc12a7ffcb75.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+s〔j怡gnose一202…04.08一22一15一35{妾〔〕芝叠〔〕〔〕一了[】h0n馨…一OS一了[】h(〕n鲁壹一21F9〔〕 > WiFi Vv G
+) KB
+石 在 Wifi 中 搜 索
+名 称
+颊
+i
+颊
+而
+wl
+颊
+i
+〗 diagnostics-configuration.txt
+| diagnostics-connectivity.txt
+diagnostics-environment.txt
+ifconfig.txt
+] leaky_ap_stats.txt
+] mobilewifitool.txt
+netstat-POST.txt
+netstat-PRE.txt
+] network _status.txt
+security.txt
+wifi_datapath-POST.txt
+wifi_datapath-PRE.txt
+〗 wifi_logarchive.log
+] wifi_scan.txt
+wifi_scan_cache.txt
+wifi_status.txt
+修 改 日 期 2a 大 小
+尘 securitytxt x 一
+文 件 “ 编 辑 查 看
+acct : 202-202
+agrp : apple
+cdat : 2020-07-12 13:45:48 +0000
+mdat : 2020-07-12 13:45:48 +0000
+musr : {length = 0, bytes = Ox}
+pdmn: ck
+sha1 : {length = 20, bytes = Oxcfc531ba039c577381 fc86de84dec134444d9494}
+svce : AirPort
+syne: 1
+tomb : 0
+<SecAccessControlRef ck>
+desc: AirPort network Password
+labl : 品 侍 面 馆
+mdat : 2024-10-16 11:29:12 +0000
+musr : {length = 0, bytes = Ox}
+pdmn: ck
+sha1 : {length = 20, bytes = 0x812e90bb42d3e4b67f7189724480fffc5a5b7847}
+svce : AirPort
+syne: 1
+tomb: 0

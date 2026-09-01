@@ -1,0 +1,23 @@
+# OCR: 08927fb026f164b2b2f3024f41ebec9c.webp
+# 来源: .\02-WriteUp\2025\08927fb026f164b2b2f3024f41ebec9c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+[root@localhost ~]# docker node ls
+~ 1D HOSTNAME
+cpangaskezaecsshgftusokok * localhost. localdomain
+” jelojtvsv7kadojhacnzjyhn4 。 locsthost.tocatdomain
+odowvmgiwckbs4fayya4ck6pyl locathost.tocatdonain
+we fedote licalhvet ~1% dackor ewatn Joli-token wockar
+STATUS
+Ready
+Down
+Down
+AVAILABILITY MANAGER STATUS
+Active Leader
+Active
+Active
+ENGINE VERSION
+Fp ibe
+FBioibes
+Boab

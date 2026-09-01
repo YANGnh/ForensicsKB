@@ -1,0 +1,10 @@
+# OCR: e16552d997f58a4d6f83a31c083f892a.webp
+# 来源: .\02-WriteUp\2025\e16552d997f58a4d6f83a31c083f892a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+\Users\zhachong>ping laozhao. com
+F 在 Ping laozh
+EG 172. 16. 10.
+. com [172,
+0 ANDI:

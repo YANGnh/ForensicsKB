@@ -1,0 +1,97 @@
+# OCR: 03e569bd143983ee57d7959d3652735d.jpg
+# 来源: .\02-WriteUp\2024\03e569bd143983ee57d7959d3652735d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:21
+
+【rooeyourcode tmp]# netstat -napt
+Active Internet connections (servers and established)
+Foreign
+Proto Recv-Q Send-Q
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp
+tcp6
+口 西 心 西 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳 巳
+口 四 口 口 口 口 口 口 口 口 口 洁 口 口 口 口 口 口 口 口
+Local Address
+@.0.0.0:22352
+0.0.0.0-80
+0.0.
+0.0.
+127
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+Address
+BREE RE ERR BE
+State
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+ESTABLISHED
+ESTABLISHED
+FIN_WAIT2
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+FIN_WAIT2
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+LISTEN
+LISTEN
+LISTEN
+ESTABLISHED
+ESTABLISHED
+pID/Progran name
+16960/python
+1436/nginx: master
+1028/sshd
+1436/nginx: master
+1807 /master
+16968/python
+17918/sshd: root
+16960/python
+16968/python
+9205/sshd- rootepts
+16968/python
+16960/python
+16966/python
+16960/python
+16960/python
+1028/sshd
+1807/master
+2498/mysqld
+17910/sshd- root
+2498/mysqld

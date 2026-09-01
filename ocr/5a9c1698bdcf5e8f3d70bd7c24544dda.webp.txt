@@ -1,0 +1,15 @@
+# OCR: 5a9c1698bdcf5e8f3d70bd7c24544dda.webp
+# 来源: .\02-WriteUp\2025\5a9c1698bdcf5e8f3d70bd7c24544dda.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+P pcEo1, 团 & , 目 玖 f
+世 序 号 “ 三 名 称
+= RNR 世 值
+过 滑 了 , 过 源 了 , 过 源 巳
+4 。 排 作 系 统 t 数 OS_BITNESS 64 位
+5 。 系 绊 E OS_TIME_ZONE
+(UTC+08:00) 北 京 , 重 庆 , 香 港 特 别 行 政 区 .、
+7 产 品 序 钥 PRODUCT_KEY
+DX2WBTKRPV3KTQYPQY2V4CRXH
+RELEASEID 2009

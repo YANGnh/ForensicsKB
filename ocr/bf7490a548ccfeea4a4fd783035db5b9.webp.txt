@@ -1,0 +1,13 @@
+# OCR: bf7490a548ccfeea4a4fd783035db5b9.webp
+# 来源: .\02-WriteUp\2024\bf7490a548ccfeea4a4fd783035db5b9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+ex +
+[root@localhost home]# 1s
+arl-install CobaltStrike CobaltStrike4.4.zip dirsearch-@.4.3 sqlmap www _xray Lnux_and64
+[rootetocathost home]# cd dirsearch-0.4.3/
+[root@localhost dirsearch-0.4.3]# 1$
+CHANGELOG.md CONTRIBUTORS.md dirsearch.py _ init__.py opttons.int reports setup.cfg static tests
+config-int db Dockerfile lib README.md requtrenents.txt setup.py testing_py
+[root@locathost dirsearch-0.4.3]# []

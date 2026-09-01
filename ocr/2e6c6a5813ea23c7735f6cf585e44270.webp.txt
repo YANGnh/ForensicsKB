@@ -1,0 +1,18 @@
+# OCR: 2e6c6a5813ea23c7735f6cf585e44270.webp
+# 来源: .\02-WriteUp\2024\2e6c6a5813ea23c7735f6cf585e44270.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+BP Joooszn, 国 xc#ss , 四 Et , 囚 a
+[ Gene
+R E = oer = sme ee
+| 口 出 1 IMG_0007.HEIC 1.26 MB 2024-08-14 12:54:35 2024-08-14 12:54:36
+_ 一
+x: IMG_0007.HEIC
+us: 1.26 MB
+M 2024-08-14 12:54:36
+‘888: John_Smartphone_itunebackup.tar/CameraRollDomain/Media/PhotoData/Thumbnails/V2/DCIM/100APPLE/IMG_0007.HEIC/5005.JPG
+em&: John_Smartphone_itunebackup.tar/CameraRollDomain/Media/DCIM/100APPLE/IMG_0007.HEIC
+a DCIM/100APPLE
+BRHF: John_Smartphone_itunebackup.tar/CameraRollDomain/Media/PhotoData/Photos.sqli
+Ba: 舌

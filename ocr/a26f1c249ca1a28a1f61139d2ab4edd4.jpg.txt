@@ -1,0 +1,31 @@
+# OCR: a26f1c249ca1a28a1f61139d2ab4edd4.jpg
+# 来源: .\02-WriteUp\2024\a26f1c249ca1a28a1f61139d2ab4edd4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+sshd_config £3 |
+Bourn
+Swe
+ORE
+Ia
+# sshd_config(5) for more information.
+# This sshd was compiled with PAT
+possible, but leave them commented.
+default value.
+Include /etc/ssh/sshd_config.d/*.conf
+FAddressFamily any
+#ListenAddress 0.0.0.0
+#ListenaAddress
+#HostKey /etc/ssh/ssh_host_rsa_key
+#HostKey /etc/ssh/ssh_host_ecdsa_key
+#HostKey /etc/ssh/ssh_host_ed25519_key
+# Ciphers and keying
+#RekeyLimit default none
+# Logging
+#syslogFacility AUTH
+#LogLevel INFO
+This is the sshd server system-wide configuration file.
+=/usr/local/bin: /usr/bin: /bin:/usr/games
+The strategy used for options in the default sshd_config shipped with
+OpenssH is to specify options with their default value where
+Uncommented options override the

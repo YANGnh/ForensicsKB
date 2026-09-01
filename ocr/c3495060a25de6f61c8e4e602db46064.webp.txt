@@ -1,0 +1,33 @@
+# OCR: c3495060a25de6f61c8e4e602db46064.webp
+# 来源: .\02-WriteUp\2025\c3495060a25de6f61c8e4e602db46064.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+4050 king@api-server-2:~$ sudo docker ps -a
+[sudo] password for king:
+CONTAINER ID
+406
+407
+408
+409
+418
+d4cb231cae7f
+832de6eb9a2d
+4ff383cbb6a1
+IMAGE
+web-api:latest
+nginx :latest
+mysql:5.7
+COMMAND,
+‘docker-entrypoint
+ocker-entrypoint.s:
+CREATED
+7 weeks
+ago
+STATUS
+Up About a minute
+NAMES
+Up 37 minutes
+Exited (@) 7 weeks ago
+nginx-prowy
+mysql-container

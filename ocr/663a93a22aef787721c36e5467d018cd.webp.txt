@@ -1,0 +1,63 @@
+# OCR: 663a93a22aef787721c36e5467d018cd.webp
+# 来源: .\02-WriteUp\2025\663a93a22aef787721c36e5467d018cd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+81845
+8185
+8186
+81870
+8188
+8189
+8190
+8191
+8192
+8193
+8194
+8195
+8196
+8197
+8198
+8199
+8200
+8201
+8202
+8203
+8204
+8205
+8206
+8207
+8208
+8209
+8210
+8211
+8212
+8213
+8214
+8215
+8216
+8217
+8218
+8219
+root@832de6@b9a2d: /# nginx -t
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+root@832de6@b9a2d: /# cat /etc/nginx/nginx.conf
+user nginx;
+worker_processes auto;
+error_log /var/log/nginx/error.log notice;
+pid /var /run/nginx.pid;
+events {
+worker_connections 1024;
+}
+http {
+include /etc/nginx/mime.types ;
+default_type application/octet-stream;
+log_format main ‘$remote_addr - $remote_user [$time_local] “Srequest“
+1Sstatus $body_bytes_sent “Shttp_referer“
+‘"Shttp_user_agent” "$http_x_forwarded_for"' ;
+access_log /var/log/nginx/access.log main;
+sendfile on;
+#tcp_nopush on;
+keepalive_timeout 65;
+#gzip on;

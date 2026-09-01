@@ -1,0 +1,10 @@
+# OCR: 03c234c578742b63b83cc824838a533a.jpg
+# 来源: .\02-WriteUp\2024\03c234c578742b63b83cc824838a533a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:21
+
+private static final String PREFIX =
+private static final String SUFFIX
+private StringkeyGenerator saltGenerator = new Base64StringKeyGenerator();
+private boolean encodeHashasBase64;
+private Digester digester;

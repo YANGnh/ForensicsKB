@@ -1,0 +1,13 @@
+# OCR: 13de38c45bd6d933bd97882f04da4163.webp
+# 来源: .\02-WriteUp\2025\13de38c45bd6d933bd97882f04da4163.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+v| DG - 一 伟 算 振
+Bw l
+select sum(actual_price) from orders where status = 4 and created_at >= ‘2025-6-@1 00:00:00" and hl_rds_delete = 8 and
+order_sn != '4V8XNK8Q@2NDSD2R*
+魏 公 众 号 -
+ax
+Cares Mor (OSH 2 me
+金 星 路 406 取 证 人

@@ -1,0 +1,23 @@
+# OCR: 137337ba14f8b220e74709a855de32fd.webp
+# 来源: .\01-取证技巧\02-网络取证\137337ba14f8b220e74709a855de32fd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:10
+
+Mi Wireshark - 188% HTTP it (tep.stream eq 2) - cscs.pcapng
+GET /cm HTTP/1.1
+Accept: */*
+Cookie: SLHATO}8/1icVtP6fImtJz6B6wROt/Xwl g1GOY3AxoxnseBfPONxoy jAWCCOH841 JULNCZZr07c IRxIPS2P-tmDD4MvD8 / PI poW8Gj8536vhwd+tyXjNKyLNyNYcj+JgO4NSFTnKtkONgv7KnsMj IC3E@eT@ctqmZ118SrXLUS9k=
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.8; MALCIS)
+Host: 10.11.4.3:12345
+Connection: Keep-Alive
+Cache-Control: no-cache
+HTTP/1.1 200 OK
+Date: Mon, 16 Dec 2024 07:07:06 GMT
+Content-Type: application/octet-stream
+Content-Length: 48
+1
+wg<'yT1&>"..r@....E.[...X.h...oBuY
+1 BP BE, 1 BSH BH, 1 tums).
+EBS (543 bytes) 2 Gm ASCII 、 Nodetatimes 一 洁 2 宇
+BK: 口 区 3 大 吊 |eR—AW)
+bes ay 打 卯 返 @ 关 团 郡 助

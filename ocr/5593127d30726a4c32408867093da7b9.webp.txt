@@ -1,0 +1,37 @@
+# OCR: 5593127d30726a4c32408867093da7b9.webp
+# 来源: .\02-WriteUp\2025\5593127d30726a4c32408867093da7b9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+运 单 号 (Tracking Number)
+fA (Shipper)
+收 件 人 (Recipient)
+发 件 地 (Origin)
+目 的 地 (Destination)
+服 务 类 型 (Service Type)
+包 裹 数 量 (Number of Pieces)
+重 量 (Wweight)
+| PR (Declared Value)
+eat (Shipment Method)
+{3K 戎 (Payment Mode)
+ae (Remarks)
+4032 x 3024 x 32 BPP 107/108 47% 4.31 MB/46.51 MB 2025/5/20 / 02:50:13
+DHL Express 运 单
+| 内 容
+〕 7890 1234 5678 9012 3456
+“ARE
+北 京 市 朝 阳 区 建 国 路 88 号
+Tel: +86 138 0000 1111
+李 娜
+中 新 市 人 民 路 1119 号 1 栋 3 单 元 2502
+邮 编 ; 315000
+Tel: +86 159 2222 3333
+北 京 , China (CN)
+中 新 市 , China (CN)
+DHL EXPRESS DOMESTIC
+1
+12.5 kg
+# 800.00 ,
+快递标准服务 |
+寄 件 方 支 付
+| BMA, wim

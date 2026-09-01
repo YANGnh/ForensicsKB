@@ -1,0 +1,20 @@
+# OCR: 8d40479ba6939d93c31709ad9ee03d7e.webp
+# 来源: .\02-WriteUp\2024\8d40479ba6939d93c31709ad9ee03d7e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+G
+[
+s 颜
+2024-08-16 162908
+8
+a |
+2
+ye
+ys
+9 fo
+9
+Q
+′
+9
+:

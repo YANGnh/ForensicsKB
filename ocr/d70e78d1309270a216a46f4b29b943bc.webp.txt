@@ -1,0 +1,36 @@
+# OCR: d70e78d1309270a216a46f4b29b943bc.webp
+# 来源: .\02-WriteUp\2025\d70e78d1309270a216a46f4b29b943bc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+口 A z025HI 袁 | 国 d v] 巴 运 行 - 一 像 L Soper
+1 SELECT
+2 city;
+3 COUNT(*) AS within_1d_count
+4 口 FROM (
+5 -- 双 每 个 案 件 的 前 一 次 作 案 时 间 及 闰 隔 天 数
+6 SELECT
+7 city,
+8 crime_time,
+9 -- 莲 取 同 一 城 市 的 |
+100 LAG(crime_time) OVER (
+121 PARTITION BY city
+12 ORDER BY crime_time ASC
+13 + ) AS prev_crime_t:
+14 -- 计 算 与 上 一 次 作 案 的 闰 隔 天 数
+158 DATEDIFF(crime_time, LAG(crime_time) OVER (
+16 PARTITION BY city
+17 ORDER BY crime_time ASC
+18 「 )) AS interval_days
+19 FROM crime_records
+20‘) AS city_crime_intervals
+21 -- 筛 选 条 件 , 存 在 前 一 次 作 案 记 录 , 且 问 隔 51 天
+22 WHERE
+23 prev_crime_time IS NOT NULL -- 押 除 证
+24 AND interval_days <= 1 -- 仅 统 计 闰 隔 1 天 f
+25 GROUP BY city
+26 ORDER BY within_1d_count DESC
+27 LIMIT 1; -- 按 次 数 降 序 排 列
+信 息 2 “ 结 果 1 剖 枪 “ 状 忘
+city within_1d_count
+苔 州 2287 砺 公 众 号 - 小 谢 取 证

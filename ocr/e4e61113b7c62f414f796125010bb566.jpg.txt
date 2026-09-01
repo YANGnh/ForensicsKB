@@ -1,0 +1,49 @@
+# OCR: e4e61113b7c62f414f796125010bb566.jpg
+# 来源: .\02-WriteUp\2024\e4e61113b7c62f414f796125010bb566.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+tax + x
+root@nginx: /etc/nginx/conf-d# |s
+proxy.conf
+root@nginx: /etc/nginx/conf .d# cat proxy.conf
+4SWAPI 代 理 20221227
+server t
+server_nane Jy-proxy2.jshcloud.cn apt-jy-proxy2.jshcloud.cn jy-proxy-jshcloud.cn apt. jy_proxy_jshc!
+loud.cn jy-jshcloud.cn apt jy-jshcloud_cn;
+listen 8 5
+root Jusr/share/agunx/htel.
+‘index ndechtnt tndex.hi
+mPOA
+location ^ iayu {
+proxy. pass http://192.168.190.111-9031/;
+$RealIP Sproxy_add_x forwarded for; Uf ( $RealIP ~ (.*),¢.*)
+) [set $RealIP 丨'夷竟十〔【1"多′薯f蝇糗】噩篝 FAP IPB 20230130
+proxy_set_header Host Shost=Sserver_port;
+proxy_set_header X-Real-IP $RealIP;#Sremote_addr ;
+proxy_set_header X-Forwarded-For  $proxy_add_x forwarded. for:
+proxy_set_header X-Forwarded-Proto §schene;
+]
+hp l 拳 口 服 务 吴 赔 逊 栗 猪 临 时
+location ^ /zhuimengyuan/ 【
+proo_poss http://192_168.100_111-9641/;
+$RealIP $proxy_add_x forwarded for: if ( $RealIP ~ (.*),(.#
+) {set SRealIP $1; eX Fed ACD Fa PUMICE aRIL 20230136
+proxy_set_header Host Shost-$server_port;
+proxy_set_header X-Real-IP Real IP; ttSrenote_addr :
+proxy_set_header X-Forwarded-For  $proxy_add_x_forwarded_for;
+proxy_set_header X-Forwarded-Proto §$schene;
+]
+location / {
+root Thome ww /b5;
+try ftles Surt Surt/ /tndex_html;
+w#iETeRouter (mode: ‘history’ yBEA FIBRE ASRS) Im
+uf Cl-e Srequest_ftlenane) {
+rewrite *(_*)§ /index_html?s=$1 last;
+break:
+]
+error_page 484 /404_html;
+location = /40x.html {
+]
+error_page 586 582 563 564 /Sex_Mtnt:
+Tocatton = /50x-htal {

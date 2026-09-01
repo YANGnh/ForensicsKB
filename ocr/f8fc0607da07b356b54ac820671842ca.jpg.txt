@@ -1,0 +1,12 @@
+# OCR: f8fc0607da07b356b54ac820671842ca.jpg
+# 来源: .\02-WriteUp\2024\f8fc0607da07b356b54ac820671842ca.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+十
+[root@wns backup]4 Is
+2828_20240427154000.sql 2828 sql_oz
+[root@wns backup]# cp 2828_20240427154000. sql /www/backup/database/2828 sql
+[root@wns backup]# 1 /www/backup/database/
+2828 sql
+[root@wns backup]# []

@@ -1,0 +1,30 @@
+# OCR: 31454f4adb901ff71aaef9052807e5a2.webp
+# 来源: .\02-WriteUp\2024\31454f4adb901ff71aaef9052807e5a2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+Poot@pc-server: /etc/netplan# netplan apply
+oe (generate:3126): WARNING wr: 15:20:49,901: Permissions for /etc/netplan/00-installer-config.yaml
+are too open. Netplan configuration should NOT be accessible by others.
+WARNING:raot:Cannot call Open vSwitch: avsdb-server.service is not running.
+yok (pracess:3124): WARNING eK: 15:20:51,092: Permissions far /etc/netplan/00-installer-config.yaml a
+re too open. Netplan configuration should NOT be accessible by others.
+yok (pracess:3124): WARNING wn 15:20:51,216: Permissions far /etc/netplan/00-installer-config.yaml a
+re too open. Netplan configuration should NOT be accessible by others.
+娆 (pracess:3124): WARNING an 15:20:51,216: Permissions far /ete/netplan/00-installer-config.yaml a
+re too open. Netplan configuration should NOT be accessible by others.
+Poot@pe-server:/etc/netplan# in a
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdise noqueue state UNKNOWN group default qlen 1000
+Link/ Loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+inet 127.0.0.1/8 scope hast lo
+valid_lft forever preferred_Ift forever
+ineté ::1/128 scone host
+valid_lft forever preferred_Ift forever
+2: ens33: <BROADCAST,MULTICAST,UP,LOWERUP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+Link/ether 00:0c:23:17:0f:53 brd 衔
+altname enp2si
+inet 192.168.71.144/24 metric 100 brd 192.168.71.255 scope global dynamic ens33
+valid_lft 1796sec preferred_lft 1796sec
+ineté fe80::20c:29ff:fe17:f53/64 scope Link
+valid_lft forever preferred_lft forever
+rootspc-server:etcynetplant

@@ -1,0 +1,33 @@
+# OCR: 9e0db9f0209a645afde5fd2a4fb10fc5.webp
+# 来源: .\02-WriteUp\2025\9e0db9f0209a645afde5fd2a4fb10fc5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+| SYSTEM
+erent | 回 | 日 自 品 | 户 由 | 弧
+port to REGEDIT format
+= ce 2 ACPI < Value Type Data
+[FlSave Report 日 E ail DeviceDese FEGSZ — @diskint sk_devdesc’Disk dive
+Eats 白 BTH Copabilties REG_OWORD 0x00000010
+L Fle nfomaon 白 DISPLAY Address REG_DWORD  oxd0000001
+es 2 白 HDAUDIO al] Contained FEGSZ ——{feSccSce-ddadS8cc-9205-81c071 2481}
+日 s a) Hardware!D REG_MULTI.. USBSTOR\DiskTOSHIBA EXTERNAL USB__0__USBSTOR\DiskTOSHIBA_ EXTERNAL
+CEN 白 HTREE 深 CompatiblelDs FEG_MULTI.. USBSTOR\DiskUSBSTOR\RAWGenDisk
+Macao 5 白 PCI a) ClassGUID REGSZ ——_(4d386967-6325-1 Ice bict-08002be10318)
+浩 2 白 PCIDE all Service REGSZ dk
+co. GROOT <8 Driver REGSZ ——_{4d36e967-¢925-1 Ice bic1-08002be10318)\0001
+user Data <3 scsi 圆 Mg E — @disk nf Zgenmanufacturer’{Standard disk cives)
+I stetup Appcatons 2 西 STORAGE 途 FiendyName REG_SZ TOSHIBA EXTERNAL_USB USB Device
+。 团 swo ConfigFlogs REG_OWORD 0x00000000
+Services and Divers
+国 ® @ use
+Q Network Configuration 3 白 usesTor
+PF Vvindos Fiewal Setings TOSHIBARProd_ EXTEF
+@ Environment
+口 口 Device Parameters
+Shel Folders 口 自 Propeties
+E 自 Hardware Proles
+G@ Policies
+Raw Data
+曰 一 团 Soovee
+一 团 DriverDatabase *

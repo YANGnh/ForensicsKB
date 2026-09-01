@@ -1,0 +1,62 @@
+# OCR: b4fdfb1dc1f45cb73f8434155cb62844.webp
+# 来源: .\02-WriteUp\2025\b4fdfb1dc1f45cb73f8434155cb62844.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+r 一 水
+NAMESPACE
+default
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kube-systen
+kubernetes-dashboard
+kubernetes-dashboard
+[root@k8s-master ~]#
+ae fdd
+coredns-7ff77c879f-dxnk
+coredns-7ff77c879f-kbhpy
+etcd-kBs-naster
+kube-apiserver-k8s-master
+kube-controller-manager-k8s-naster
+kube-flannet-ds-Intn7
+kube-flannel-ds-qx6h2
+kube-flannel-ds-vrgmn
+kube-proxy-2s599
+kube-proxy-lzcst
+kube-proxy-pxjxr
+kube-scheduler-k8s-master
+kubernetes -dashboard-5ffc5fd864-69n7F
+dashboard-metrics-scraper -78f5d9F487-9t6bk
+kubernetes -dashboard-6bc5cb8879-rgcs8
+STATUS
+ImagePuLBackOff
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+Running
+CrashLoopBackOfF
+Running
+TnagePullBackOFf
+RESTARTS
+2
+129
+8
+4

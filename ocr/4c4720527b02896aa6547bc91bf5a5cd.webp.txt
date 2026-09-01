@@ -1,0 +1,14 @@
+# OCR: 4c4720527b02896aa6547bc91bf5a5cd.webp
+# 来源: .\02-WriteUp\2025\4c4720527b02896aa6547bc91bf5a5cd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+趸 。 朱RHB 务 郭 001 , 意 docker , 国 docker , 南 答 像 表
+国 三 序 号 =e 标 筐
+过 滁 了 “ 过 源 口
+1 registryalyuncscom/google_containers/kube-controllermanager vi180
+2 registry.aliyuncs.com/google_containers/kube-scheduler v1.180
+3 kubernetesui/metrics-scraper v1.0.6
+rancher/mirrored-flannelc
+5 registry.aliyuncs.com/google_containers/coredns
+6 registry.aliyuncs.com/google_containers/kube-apiserver v1.18.0

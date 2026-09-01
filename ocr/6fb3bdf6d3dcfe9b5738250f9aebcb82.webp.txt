@@ -1,0 +1,34 @@
+# OCR: 6fb3bdf6d3dcfe9b5738250f9aebcb82.webp
+# 来源: .\02-WriteUp\2025\6fb3bdf6d3dcfe9b5738250f9aebcb82.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+® LoginActionclass.php X
+APP > Modules > Index > Action > # LoginAction.class php
+6 Class LoginAction extends Action{
+2 public function loginel(){
+35
+36 if (( ‘username’ )=="" || I(‘password')=="") 《
+37 ert (JS MRAM! *,-1)5
+38 }
+39
+40 $verify=I(‘post.vercode’,"*, "trim’);
+41 if (empty (Sverify) t
+42 alert (*ifit AIRTESIER! * 2);
+43 )
+44
+45 if ($_SESSION[ 'verify"] != md5($verify)) 〈
+46 alere( 国 骆 国 锦 洁 1 3
+47 }
+48
+43 ‘$model_m = M(‘member');
+50 ERP AREA
+51 ‘$member = $model_m->where(array (‘username'=>I(‘username’), ‘password'=>I(*password’,'',‘shai')))->Find();
+52 iF (1$menber) {
+53
+54 alert (JPA MAMI! *
+55
+国
+57
+58 PRAEGER ABR
+5 4€(4memberl ‘lock'1] <= y

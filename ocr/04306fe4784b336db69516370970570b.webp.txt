@@ -1,0 +1,27 @@
+# OCR: 04306fe4784b336db69516370970570b.webp
+# 来源: .\02-WriteUp\2024\04306fe4784b336db69516370970570b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+rabbitmg
+host: localhost
+port: 5672
+username: root
+password: 123456
+ee HHL
+virtual-host: /
+矿 Exchange
+‘template
+exchange: cal.normal.topic
+mandatory: false
+E
+publisher-confirm-type: correlated
+6 ATL ERS EL PEARED URE CBS,
+publisher-returns: true
+tt FF Fack shi at
+Listener
+direct
+acknowledge-mode: manual.
+simple
+acknowledge-mode: manual.
+E

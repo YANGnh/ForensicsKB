@@ -1,0 +1,8 @@
+# OCR: 0591c28591eba50c518cb956f3946646.webp
+# 来源: .\02-WriteUp\2025\0591c28591eba50c518cb956f3946646.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+Recovery key:
+221177-697136-173217-336204-309067-371239-365849-558998 [copy
+*The Key for data decryption was found!

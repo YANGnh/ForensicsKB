@@ -1,0 +1,32 @@
+# OCR: fd6bbc5f58f64b07b70fc57f5aeffc1d.webp
+# 来源: .\02-WriteUp\2025\fd6bbc5f58f64b07b70fc57f5aeffc1d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+心 保 衍 口 全 邦 衍 C R
+目 录
++ 上
+「 曰
+「 曰
+“ 曰
++ 曰
+目
+目
+日
+/www/wwwroot/www.mtbts...
+氙 “C RMMf +i OR
+APP
+Public
+ThinkPHP
+uploads
+htaccess
+userini
+404html
+Widbdgd1Us.php
+index.html
+® index.php
+Qtek ISR VHT 万 字 # 大 小 “ 四 主 医 One Ex
+3 WidbdgdIUsphp X
+<?php
+header( ‘location: /index. php/systemlogined/login/index");
+2

@@ -1,0 +1,23 @@
+# OCR: e019569205357dbbf9e20a532b8528eb.webp
+# 来源: .\02-WriteUp\2024\e019569205357dbbf9e20a532b8528eb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+iskr0/Sa0pJ6AAFQN14t /9k013k52gh6U+124@De1DEVIaQI7ByaJExZmcgd
+n
+From Base64 @ k292RANgWCqZ/TéprigéuqOFA==
+Alphabet
+A-Za-20-9+/=
+Y Remove non-alphabet chars
+_] strict mode
+AES Decrypt Ou
+key Tr Row sytes 匕
+lercessecotees-  UIFE~ 医
+Output 日 门 因 5
+w
+E1@ADC3949BA59AB UTFe~ Recipe (click to Result snippet Properties
+load)
+= 秋 伟 有 昌 , 语 valid UTF8
+bosstBig: Entropy: 4.92
+Input 40085222666
+Raw

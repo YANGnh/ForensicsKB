@@ -1,0 +1,28 @@
+# OCR: 7cb96f94d6c050d1837872fcc8730dba.webp
+# 来源: .\02-WriteUp\2025\7cb96f94d6c050d1837872fcc8730dba.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+3. 敏 感 凭 证 和 支 付 信 息 ( 取 证 关 键 信 息 )
+这 些 信 息 可 以 直 接 用 于 追 踪 或 接 管 网 站 的 通 知 、 邮 件 和 资 金 流 。
+FR 信 息 内 容
+USDT 收 款 地 址 (USDT TPNYhBjSLTLgtxwXYbdzkWQUaqg4z3rJi8
+收 款 地 址 ):
+Telegram Bot Token: 8378348497 :AAGSu7pCSrrDicjMqa7Mv9atvB1iE5NAZeY
+Telegram User ID: 6213151597
+SMTP 邮 箱 ituzz@qq.com
+(username):
+SMTP 密 码 hxobygicmubhddhb
+(password):
+敏 感 等 级
+极 高 ( 资 金 流
+向 )
+高 ( 通 知 / 推 送
+到 账 )
+中 (Bot 推 送 目
+标 ID)
+高 ( 邮 件 通 知 /
+找 回 密 码 )
+极 高 ( 邮 件 发
+送 凭 证 )
+画 Sui) Google 表 格 砺 公 众 号 - 金 星 路 406 取 证 命

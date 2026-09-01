@@ -1,0 +1,21 @@
+# OCR: c86a2c99b2a547aa34e84756171dedd1.jpg
+# 来源: .\02-WriteUp\2024\c86a2c99b2a547aa34e84756171dedd1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+员 “ 万
+Recover File Password
+recoveryPage_tabs files recoveryPage_tabs report recoveryPage tabs resources recoveryPage_tabs_performance recoveryPage tabs_attack:
+2024 年 3 月 13 日 星 期 三 日 报 .docx
+SUERTE —C:) Users ) 32622 ) Desktop
+2R MS Office 2013-2019 — Open Password, Hardware acceleration possible, instant Memory attack possible
+Protection AES 256-bit Encryption, SHA-512
+SRE an Brute-force - Slow
+vos SOBDAO4EC1717AF73588542D50FD2C26
+Passwords: File-Open Pisswird
+File-Modify E
+E TIME
+1 2 seconds
+Sno
+100
+em ge oe |

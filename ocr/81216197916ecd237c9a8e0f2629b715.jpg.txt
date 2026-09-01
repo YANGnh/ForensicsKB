@@ -1,0 +1,8 @@
+# OCR: 81216197916ecd237c9a8e0f2629b715.jpg
+# 来源: .\02-WriteUp\2024\81216197916ecd237c9a8e0f2629b715.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+http://112.124.62.187:8080/shell.aspx
+URL: | hitp:/112.124.62.187:8080/shell ast
+(SAGE SST BR NEE ARE Rae

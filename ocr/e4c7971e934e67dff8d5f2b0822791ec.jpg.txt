@@ -1,0 +1,34 @@
+# OCR: e4c7971e934e67dff8d5f2b0822791ec.jpg
+# 来源: .\02-WriteUp\2024\e4c7971e934e67dff8d5f2b0822791ec.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+Iroldino
+iockero:
+np5sl:
+Wde2:"$ ifconfig
+flags=4099<UP BROADCAST, MULTICAST> mtu 1500
+inet 172.17.0.1 netmask 255.255.0.0 broadcast 172.17.255.255
+ether 0 b4:cS:f7:70 txqueuelen 0 (Ethernet)
+RX packets 0 bytes 0 (0.0 B)
+RX errors 0 dropped 0 overruns 0 frame 0
+TX packets 0 bytes 0 (0.0 B)
+TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+f lags=4163<UP BROADCAST, RUNNING MULTICAST> mtu 1500
+inet 192.168.100.102 netmask 255.255.255.0 broadcast 192.168.100.255
+inet6 fd24:2cf2:d6fe:0:be2d:11ff:fe39:fdBa prefixlen 64 scopeid 0x0<global>
+inet6 fe80::be2d:11ff:fea9:fdBa prefixlen 64 scopeid 0x20<1ink>
+ether be:24:11:39:fd:8a txqueuelen 1000 (Ethernet)
+RX packets 1462 bytes 43574417 (43.5 MB)
+RX errors 0 dropped 0 overruns 0 frame 0
+TX packets 1271 bytes 73032 (79.0 KB)
+TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+lo: flags=73<UP, LOOPBACK ,RUNNING> mtu 65536
+inet 127.0.0.1 netmask 255.0.0.0
+ineté ::1 prefixlen 128 scopeid 0x10<hast>
+loop tyaueuelen 1000 (Local Loopback)
+RX packets 104 bytes 8441 (8.4 KB)
+RX errors 0 dropped 0 overruns 0 frame 0
+TX packets 104 bytes 8441 (8.4 KB)
+TX errors 0 dropped 0 overruns 0 carrier 0 collisions 0
+iroldenode2:“s _

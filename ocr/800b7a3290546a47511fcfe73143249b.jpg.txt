@@ -1,0 +1,15 @@
+# OCR: 800b7a3290546a47511fcfe73143249b.jpg
+# 来源: .\02-WriteUp\2024\800b7a3290546a47511fcfe73143249b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+XKPROXMOX vituat environment 8.1.4
+0
+西 i
+© cae
+GB 110 (nginx)
+Bos
+口
+52
+SDN
+ie

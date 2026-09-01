@@ -1,0 +1,27 @@
+# OCR: a49f82dbe16cfc2701811e34afee7ab5.webp
+# 来源: .\02-WriteUp\2024\a49f82dbe16cfc2701811e34afee7ab5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+园 “ 计 算 躁
+= 己
+三 程 序 员
+1 HEX “ D85
+DEC 3,509
+OCT 6665
+BIN 1101 1011 0101
+功 按 位 v
+A
+B
+C
+D
+QWORD
+% t 、
+人 力
+( )
+7 8
+4 5
+1 2
+权 0
+MS
+DB5

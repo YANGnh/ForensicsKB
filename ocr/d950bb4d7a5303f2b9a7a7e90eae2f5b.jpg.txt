@@ -1,0 +1,7 @@
+# OCR: d950bb4d7a5303f2b9a7a7e90eae2f5b.jpg
+# 来源: .\02-WriteUp\2024\d950bb4d7a5303f2b9a7a7e90eae2f5b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+B RERSS e
+宝 塔 Linux 面 板

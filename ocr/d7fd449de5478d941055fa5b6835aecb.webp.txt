@@ -1,0 +1,59 @@
+# OCR: d7fd449de5478d941055fa5b6835aecb.webp
+# 来源: .\02-WriteUp\2026\d7fd449de5478d941055fa5b6835aecb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+自 SiSEraraR.
+money @
+D
+2
+money
+865M Teams
+国 Exmoney\Fileem!- Notepads +
+<A) HSE) BES) WAV) SN)
+$ 国 E 血 | | 曾 留 |
+Enpmcl
+WMS ~Exchange-Organization-Messagebirectionality? incoming
+X-US-Exchange-Transport-CrossTenantHeadersStripped: DBSPEPF000145}
+X-MS-Exchange-Transport-CrossTenantHeadersPronoved: DBSPEPF000143
+X-MS-PublicTraffictype: Email
+X-US-Exchange-Organization-AuthSource: DBSPEPF00014
+X-MS-Exchange-Orgenization-AuthAs: Anonymous
+X-MS-UserbastiogenTime: 4/7/ 4:12 PM
+X-US-Offices65-Filtering-Correlation-Id-Prvs: lacbaf02-c23a-440c-ade3-08
+KouS-Exchange-EOrDizect; true
+‘X-Sender-IP: 40.92.53.64
+T rninoirorrok
+X-SID-Result: PAS
+X-US~Exchange-Organization-Sc
+XoWicrosoft-Antispam: SCL:0;ARA:14441210
+X-MS-Exchange~CrossTenant-OriginalArrivalTim
+(UTC)
+X-US-Exchange-CrossTenant-Network-Hessage-Id: £40e9918-0SeS~4eal-d£72-08dd75e72e05
+X-MS-Exchange-CrossTenant-1d; 84df9e7£-c8£6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-RUS-PersistedConsumer0rg: 00000000-0000-0000-0000-000000000000
+X-US-Exchange-CrossTenant-rns-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-AuthSource: DBSPEPFO0014#38F .eurprd02.prod. outiook.com
+X-US-Exchange-CrossTenant-AuthAs: Anonymous
+) 82M 工 J 交 M 运 G Ae) BOW ?
+国 | 园 国 困 巴 团 | 回 a
+F ,eurprd02.prod.outlock.com
+F .eurprd02.prod.outlock.com
+eurprd02-prod. outlook. com
+ansenzes
+700789026 | 13020799006 | 183007991
+07 Apr 2025 15:16:32.2760
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: TYOPRO2MB6020
+X-MS-Exchange~Transport-EndToEndLatency: 00:00:04.9331317
+X-MS-Exchange-Processed-By-BecFoldering: 15.20.8632.013
+X-Microsoft-Antispam-Mailbox-Delivery:
+ucf:0;3mr:0;ex:0;auth:1;dest:J;OFR: SpamFilterAuthJ;ENG: (5062000308) (9202
+X-Message-Delivery: Vj0xLjETAXMSMDtsPTATYTOwOOQSM3 tHRDOxO1NDTD!
+X-Microsoft-Antispam-Message-Info:
+}12 9B 2bmglb11XaDR4aEo4TVE1THhJbndTV2058j 1MaTFVTk9zSDROMKNURVA3eFBi ?=
+B2T 1hi YUJ2a01BTFRLTVItOT 1 yMnBKeii s4W32Zd3Q2WUt Oe kRVWDByZHhjbOLO2=
+'B2RUpOamY 3eVZOMFZ3d1 kvUUQ3RFNpbzgwWXclaHhj dmVId11 qWmg1OTdhMiclu?
+BIRMKVCkSuVVptWkc2 YVNOY31PeWx4YOFxM1FSVDOzdmE SaThEaDBEODNiMKBm?:
+1119095) (80000117) (920;
+Normal text file length: 16,475 lines : 221 Ln:128 Col:25  Sel:0|0 ‘Windows

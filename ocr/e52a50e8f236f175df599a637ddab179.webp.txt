@@ -1,0 +1,21 @@
+# OCR: e52a50e8f236f175df599a637ddab179.webp
+# 来源: .\01-取证技巧\02-网络取证\e52a50e8f236f175df599a637ddab179.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:10
+
+MASE: Content Type: All Content-Types v
+Sa ae 内 容 类 型 大 小 文 件 名
+25 “192.168.27.132:12580 applicationyoctetstream 296 kB Tvl
+47 192.168.27.132:12580 application/octet-stream 48 bytes ca
+56 “192.168.27.132:12580 application/octet-stream 2532 bytes submit.php?id=1389642286
+83 “192.168.27.132:12580 application/octet-stream 48 bytes ca
+90 “192.168.27.132:12580 application/octet-stream 356 bytes submit.php?id=1389642286
+103 192.168.27.132:12580 application/octet-stream 80 bytes ca
+110 192.168.27.132:12580 application/octet-stream 84 bytes submitphpzid=1389642286
+123 192.168.27.132:12580 application/octet-stream 784 bytes ca
+130 192.168.27.132:12580 application/octet-stream 100 bytes submit.php?id=1389642286
+144 192.168.27.132:12580 application/octet-stream 48 bytes ca
+151 192.168.27.132:12580 application/octet-stream 68 bytes submitphpzid=1389642286
+169 192.168.27.132:12580 application/octet-stream 3264 bytes ca
+176 192.168.27.132:12580 application/octet-stream 68 bytes submitphpzid=1389642286
+wee | em Preview 广 歼 ] 画

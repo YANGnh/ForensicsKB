@@ -1,0 +1,23 @@
+# OCR: ae2a42cf49be5d3d267e2cbc5cece86d.jpg
+# 来源: .\02-WriteUp\2024\ae2a42cf49be5d3d267e2cbc5cece86d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+E
+python2 vol.py -f /mnt/Share With Win10/memdump.mem imageinfo
+Volatility Foundation Volatility Framework 2.6.1
+INFO: volatility.debug ; Determining profile based on KDBG search...
+Suggested Profile(s) ; Win16x64 19041
+AS Layerl : SkipDuplicatesAMD64PagedMemory (Kernel AS)
+AS Layer2 : FileAddressSpace (/mnt/Share With Win10/memdump .mem)
+PAE type : No PAE
+DTB : 6xlad860L
+KDBG : @xf80775000b20L
+Number of Processors : 2
+Image Type (Service Pack) : 0
+KPCR for CPU 0 ; Oxfffff80771043000L
+KPCR for CPU 1 ; Oxffffa081295ca000L
+KUSER SHARED DATA : Oxfffff78000000000L
+Image date and time
+:/ 2024-04-25 22:18:56 +0800
+Image local date and time

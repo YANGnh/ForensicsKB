@@ -1,0 +1,26 @@
+# OCR: f23e9aca51ced0b67f03939d3f7518c2.webp
+# 来源: .\02-WriteUp\2024\f23e9aca51ced0b67f03939d3f7518c2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+e
+c -
+河 刹 洁 伟 渡 gn g el pe[810,0.4:/) men(Ceteut) tug 36, 2824, 36:95:58] reen COMRESSIOL
+r [
+17:40:06) woe fend: An operation Aseked sufficient buffer space or becaut 2
+7:40:06) woe send: An operation on fon inched sufficient buffer space or because 6 queue wat full.
+17-40:08) UOP send exception: send: An operation on # jn inched sutflelent buffer space or because © queue wat full.
+17°80:08] UO? send exception: send An operation on @ on lacked sufficient buffer space or because « queue nat full.
+127-80:08) UOP send exception: send An operation on & fn inched sutflelent buffer space or because « queue wat full.
+17:40:06) UOP aend excepelon: send: An operation on & on lacked sufficient buffer space or because
+17:80:08] UOP send exception: send: An operation on &
+n KEEPALIVEFINECUT
+127-40:07] Client terminated, restarting in 2000
+7-50.07] Setupeilent: signaling tun eestroy event
+e
+Eoolouetoopyooeesooeeegg
+eo ex
+SEE a a a
+27:40:20) Sending Peer Inte
+Wot
+cn

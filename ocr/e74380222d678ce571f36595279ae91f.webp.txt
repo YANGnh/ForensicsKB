@@ -1,0 +1,11 @@
+# OCR: e74380222d678ce571f36595279ae91f.webp
+# 来源: .\02-WriteUp\2025\e74380222d678ce571f36595279ae91f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+public override z
+1
+get
+t
+return “Opera GX”
+1

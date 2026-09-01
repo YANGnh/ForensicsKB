@@ -1,0 +1,25 @@
+# OCR: 67e106d0c37c8c0d7e2d8294e90f8db1.webp
+# 来源: .\02-WriteUp\2025\67e106d0c37c8c0d7e2d8294e90f8db1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+User-Agent: Mozilla/5.@ (Windows NT 18.8; Min64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.8.8.6
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6|
+Cookie: t681sS=e54285de394c4287cd521213cebab848; t@@ls_s=YTozOntz0jQ6InVzZX1i03M6MjY6InBocCB8IHBocD8gfCBwaHRtbCB8IHNodG1sIjtzOjM6ImF sbC17aTowO3M6MzoiaHR}
+hI jtpOjE7FQ%3D%3D; PHPSESSID=m8n4cc3krfb7vn8jfsigoste93|
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: max-age=0
+Accept: text/html, application/xhtml+xml, application/xm1;q=0.9, image/avif, image/webp, image/apng, */*;q=0.8, application/signed-exchange; v=b3; q=0.7|
+Upgrade-Insecure-Requests:
+Referer: http://10.0.0.68/cslab/login. php?gotopage=%2F cslab%2F
+Accept-Encoding: gzip, deflate
+Origin: http://16.8.8.68
+Content-Length: 67
+=
+lgotopage=%2F cs lab%2F&dopost=login&userid=cslab&pwd=eepe\aevalidate=9|
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1,
+imaximum-scale=1,user-scalable=no">|
+none}.mac_msg_jump{width:90%;max-width:42@px;margin:5% auto @;border: 1px solid #29384
+5;border-radius: 4px;box-shadow: @px 1px 2px rgba(8,8,8,8.1);border: 1px solid #8899CC;background-color: #F2F9FD;}.mac_msg_jump .title{margin-bottom:11
+pxj .mac_nsg_jump .text{margin-top: 2@px;font-size:14px;color:#555;font-weight: normal;}.msg_jump tit{height: 32px;padding: @px;line-height: 32px;font-s
+ize: 14px;color: #DFE4ED;text-ali,

@@ -1,0 +1,41 @@
+# OCR: 5d352e15c59b0207fd210e96748c8faa.webp
+# 来源: .\02-WriteUp\2025\5d352e15c59b0207fd210e96748c8faa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+[rootek8s-node2 ~]# sed -rt 's/.*swap.*/#&/' /etcfstab
+[root@k8s-node2 -]# swapoff -a
+[root@k8s-node2 ~]# systenctL start kubelet
+[root@k8s-node2 ~]# systemctl status kubelet
+s kubelet.service - kubelet: The Kubernetes Node Agent
+Loaded: loaded (/usr/lib/systend/system/kubelet.service; enabled; vendor preset: disabled)
+Drop-In: /usr/lib/systend/systen/kubelet.service.d
+10-kubeadm. conf
+Active: active (running) since Mon 2025-02-24 12:00:26 CST; 5s ago
+Docs: https: //kubernetes.io/docs/
+Main PID: 8279 (kubelet)
+Tasks: 14
+Memory: 30.3M
+CGroup: /systen.sttce/kubelet.servtce
+279 Jusr/bin/kubelet --bootstrap-kubeconfig=/etc/kubernetes/bootstrap-kubelet.conf --...
+Feb 24 k8s-node2 kubelet[8279]: 10224 12:00:26.950617 8279 remote_runtime.go:59] pa...
+Feb 24 k8s-node2 kubelet [8279]: 10224 12:00:26.950635 8279 remote_runtime.go:59] sc.
+Feb 24 k8s-node2 kubelet[8279]: 10224 12:00:26.950664 8279 passthrough.go:48] ccRes.
+Feb 24 k8s-node2 kubelet[8279]: 10224 12:00:26.950694 8279 clientconn.go:933] Clien.
+Feb 24 00:26.951041 8279 remote_image.go:50] pars.
+Feb 24 k8s-node2 kubelet[8279]: 10224 12:00:26.951045 8279 remote_image.go:50] sche.
+Feb 24 k8s-node2 kubelet [8279]: 10224 12:00:26.951051 8279 passthrough.go:48] ccRes.
+Feb 24 k8s-node2 kubelet[8279]: 10224 12:00:26.951053 8279 clientconn.go:933] Clien.
+6
+6
+6
+6
+6 k8s-node2 kubelet[8279]: 10224 12:
+6
+6
+6
+6
+Feb 24 k8s-node2 kubelet[8279]: 10224 12:00:26.951097 8279 kubelet.go:292] Adding p.
+Feb 24 6 k8s-node2 kubelet[8279]: 10224 12:00:26.951202 8279 kubelet.go:317] Watching...
+Hint: Some lines were ellipsized, use -1 to show in full.
+[root@k8s-node2 ~]#

@@ -1,0 +1,12 @@
+# OCR: 85519baf32e91fe9a4f7f38099186d95.jpg
+# 来源: .\02-WriteUp\2024\85519baf32e91fe9a4f7f38099186d95.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+cy
+com facebook Facebook dict
+S-comitencentxin dict
+ContainerContentClassstring Data/Application
+CFBundleldentifier string comstencentxin
+Path string Wnar/containers/Bundle/
+®-comapple-FinanceUlServdict

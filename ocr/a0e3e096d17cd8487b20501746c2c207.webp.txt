@@ -1,0 +1,50 @@
+# OCR: a0e3e096d17cd8487b20501746c2c207.webp
+# 来源: .\02-WriteUp\2025\a0e3e096d17cd8487b20501746c2c207.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+\i2441-$#/Ltar\data\user\0\com.miui.notes\databases
+Jy RASA
+JG. = com.miui.notes
+J = databases
+“i [dbprefdb
+J dbpref.db-journal
+团 a
+| Jnete.db journal
+| Qnete.db-shm
+J) Gnote.db-wal
+二 edodb
+2 心
+B D8 Browser for SQLite - GA2025FICEexports\notedb
+E
+E
+Rs 。 丁 WR
+Fe
+eae
+sar\data\user\0
+ij,tar\data\user\0\com.miui.notes
+\12971-SLtar\data\user\0\com.miui.notes\databases
+\f2971-S iL tar\data\user\0\com.miui.notes\databases
+\12171-SiLtar\data\user\0\com.miuiinotes\databases:
+\i8171-SiLtar\data\user\0\com.miuisnotes\databases:
+\18971-SHiLtar\data\user\0\com.miuisnotes\databases
+\i8171-SiLtar\data\user\0\com.miuiinotes\databases
+\i2171-S iL tar\data\user\0\com.miui.notes\databases
+E
+国 ( 。 SEW) 一 MBEEXG fA) QHFRar) (RFRA) 国 阡 H 。 关 兰 HH
+s s
+E
+SRE ata 0) G 的 6 SOLO
+(1): data y 山 园 仕 | 园 国 | 图 个 wees
+E noteid created date | e F
+z RE HE E
+1 d.android. cursor. item/text_note 1 1747125153000 1747125153000
+ALY aaeaT
+08
+24.0 KB
+0.5 KB
+48.0 KB
+45 KB
+32.0 KB
+165 KB
+20.0 KB

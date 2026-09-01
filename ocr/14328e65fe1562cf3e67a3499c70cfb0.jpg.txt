@@ -1,0 +1,16 @@
+# OCR: 14328e65fe1562cf3e67a3499c70cfb0.jpg
+# 来源: .\02-WriteUp\2024\14328e65fe1562cf3e67a3499c70cfb0.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+员 万 E
+Recover File Password
+recoveryPage_tabs files recoveryPage_tabs report recoveryPage tabs resources recoveryPage_tabs_perform
+名 单 .xlsx
+M 盟 C:) Users ) 32622 ) Desktop ) 2024 FIC
+Z MS Office 2007 — Open Password, Hardware acceleration possible, Instant Memory attack possible
+Protection Microsoft Enhanced RSA and AES Cryptographic Provider, 128 bits
+E ye» Brute-force - Slow
+MDS: 00C53564A8A0692990A17DE11514D7DA
+Passwords: File-Open aa23456
+File-Modify E

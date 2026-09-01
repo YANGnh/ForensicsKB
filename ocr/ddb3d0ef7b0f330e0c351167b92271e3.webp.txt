@@ -1,0 +1,12 @@
+# OCR: ddb3d0ef7b0f330e0c351167b92271e3.webp
+# 来源: .\02-WriteUp\2025\ddb3d0ef7b0f330e0c351167b92271e3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+0 sudo docker compose up -d
+\ARN[@000] /home/king/web-api/docker-compose.yml: the attribute “version” is obsolete.
+t will be ignored, please remove it to avoid potential confusion
++] Running 1/1
+V Container web apt Started
+<ing@api-server-2:~/web-apts |
+6.2:

@@ -1,0 +1,11 @@
+# OCR: c7681e171beb638e5d6939dad256b44b.webp
+# 来源: .\02-WriteUp\2025\c7681e171beb638e5d6939dad256b44b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+@ Open Database - SAVE. kdbx x
+Enter Master Key
+[tester password: Save my P Ass.
+(key file/provide: fone) 、
+[Windows user account
+Help 0 Cancel

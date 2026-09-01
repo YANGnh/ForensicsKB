@@ -1,0 +1,18 @@
+# OCR: ab0f68881d89cfa0b492ed7c3a0a15bc.webp
+# 来源: .\02-WriteUp\2025\ab0f68881d89cfa0b492ed7c3a0a15bc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+@ 用 尸 目 跋 义 炳 借
+添 加 用 户 定 义 的 短 语
+添 加
+导 入 、 导 出 或 清 除 用 户 自 定 义 短 语
+导 入 导 出 清 除
+, 拼 音 : chapter 位 置 : 3 短 语 : chapter
++ 拼 音 : exchange 位 置 : 6 短 语 : exchange
+编 辑 删 除
++ 拼 音 : frstsxmnemonicphrase 位 置 : 9 短 语 :frst six mnemonic...
+, 拼 音 : cak 位 置 : 2 短 语 :oak
++ 拼 音 : retreat 位 置 : 5 短 语 : retreat
+, 拼 音 :term “ 位 置 : 4 短 语 : term
+, 拼 音 : tissue 位 置 :1 短 语 : tissue

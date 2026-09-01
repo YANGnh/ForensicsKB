@@ -1,0 +1,15 @@
+# OCR: d40ce8f24a0e5bfe93b660e3e0b6ab6c.jpg
+# 来源: .\02-WriteUp\2024\d40ce8f24a0e5bfe93b660e3e0b6ab6c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+E
+2 x
+1791.21.18 “
+ph 10.0.0.10 5
+8
+E
+ph 43,136.168.11
+143.92.57.165
+192.165.5.15 E
+http://423.12.23.84/ass.php D219079 琏

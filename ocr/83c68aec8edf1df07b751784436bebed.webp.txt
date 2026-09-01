@@ -1,0 +1,11 @@
+# OCR: 83c68aec8edf1df07b751784436bebed.webp
+# 来源: .\02-WriteUp\2024\83c68aec8edf1df07b751784436bebed.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+# find / -nane sqlmap
+P
+Hoiteln l c Tnerererom
+[root@localhost sqlmap]# 1s
+history output
+[root@localhost sqlmap]# []

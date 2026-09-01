@@ -1,0 +1,8 @@
+# OCR: 2e775b5873fd47d282c805402609df7f.jpg
+# 来源: .\02-WriteUp\2024\2e775b5873fd47d282c805402609df7f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+* 一
+目 y 7
+4 0 3 2

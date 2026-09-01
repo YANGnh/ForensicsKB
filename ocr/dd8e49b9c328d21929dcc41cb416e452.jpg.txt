@@ -1,0 +1,6 @@
+# OCR: dd8e49b9c328d21929dcc41cb416e452.jpg
+# 来源: .\02-WriteUp\2024\dd8e49b9c328d21929dcc41cb416e452.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 16:11
+
+# 结果: 无可用文本（tesseract 未识别到文字）

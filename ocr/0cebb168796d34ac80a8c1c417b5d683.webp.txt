@@ -1,0 +1,28 @@
+# OCR: 0cebb168796d34ac80a8c1c417b5d683.webp
+# 来源: .\02-WriteUp\2025\0cebb168796d34ac80a8c1c417b5d683.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+检 材 :
+计 算 机 检 材 .E01
+基 本 信 息
+eas:
+Seas:
+gmE:
+E
+tert:
+ere:
+Banh:
+BREE:
+20251109082307TA78QZ
+HAH SAR Stee £01
+(UTC+08:00) 48, Bk, 国 水 E SRF
+e
+2025-11-09 08:
+10.45 GB
+Windows
+100.59 GB
+口 Administrator | que321@@@
+G queizsier
+分 区 信 息 Smee
+a

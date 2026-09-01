@@ -1,0 +1,21 @@
+# OCR: ff35b1bf7f14f1c31629cde6038c46bf.webp
+# 来源: .\02-WriteUp\2026\ff35b1bf7f14f1c31629cde6038c46bf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+File Edit View Help
+XML View List View
+Key Type Value
+Root dict
+IsEncrypted boolean true
+Version string
+SystemDomainsVersion _ string 24.0
+ManifestKey data oe
+WasPasscodeSet boolean false
+Lockdown dict
+> com.apple.MobileDevice dict
+‘com.apple.TerminalFlash dict
+- 国 -comapplemobiledata_sdict
+田 -comappleAccessibility dict
+ProductVersion string 754
+ProductType string iPhone12,1

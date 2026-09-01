@@ -1,0 +1,58 @@
+# OCR: 6d4faf10c5d9bcec517b44b73f5689b9.webp
+# 来源: .\02-WriteUp\2024\6d4faf10c5d9bcec517b44b73f5689b9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+RRR RR RRR RRR
+745762198.289407
+745806706.02484
+-745828801.033399
+745832562,093108
+745925966.356129
+-745998589,29084
+746352950.070264
+746440526.738382
+746692798,229586
+"746693298.839502
+746694723.960979
+746697721.060631
+746698058.897805
+746696245.618945
+746698359.354312
+746698408.191596,
+746698530.773488,
+0
+.9943620204926
+。 c c c c c c c c c c c c e e
+39534470
+63791704
+29209822
+46837124
+38596094
+31577118
+63791704
+63791704
+63791704
+63791704
+63791704
+63791704
+63791704
+63791704
+63791704
+hike
+com.apple.Telephc
+hk com.apple.Teleph¢
+hk comapple.Teleph¢
+B DCode v4.022 (Build: 9306) X the
+thc
+DCODE Q tr
+Convert Data to Date /Time Values ihc
+the
+| Add Bias: [UTC +08:00 Window on top lk
+Decode Format: [MAC: Absolute Tine =] Ine
+Example: [219216022 the
+Value to Decode: [746652798.229586
+Date & Time!
+[Fri 30 August 2024 14:39:58 +0800
+www.digital-detective.co.uk
+cave | cea |

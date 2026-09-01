@@ -1,0 +1,47 @@
+# OCR: cccdd010465129d37ceec6de15c98151.jpg
+# 来源: .\02-WriteUp\2024\cccdd010465129d37ceec6de15c98151.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+[root@server data]#
+[root@server data]#
+total 49580
+drwxr-xr-x
+dr-xr-xr-x.
+drwxrwxrwx
+=rW-F=-P==
+drwxr-xr-x
+drwx--
+5
+20
+1
+1
+2
+root
+root
+root
+root
+root
+root
+chmod 777 -R 2023.
+ls -al
+root 4096 Apr
+root 280 Apr
+root 4096 Feb
+root 50737736 Apr
+root 4096 Feb
+root 16384 Feb
+[root@server data]# |
+cn
+25
+25
+17
+25
+17
+H
+10:57
+10:17
+2023 a
+18:57 2823 cn_compress_202404251003 tar gz
+2023 backup
+2023 Lost+found

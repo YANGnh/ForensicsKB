@@ -1,0 +1,18 @@
+# OCR: cde88031a6ea9e2fb590ba72c6eef58e.webp
+# 来源: .\02-WriteUp\2024\cde88031a6ea9e2fb590ba72c6eef58e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+sub_4Q1E9E();
+sub_401064(CommandLine, @, @);
+sub_401064(aIcaclsGrantEve, 0, @);
+if ( sub_40170A() )
+sub_4012FD(v2);
+if ( sub_401437(@, 0, @) )
+《
+vB = 8;
+v5 = (void *)sub_4014a6(ATHArY, (int)&v12);
+if ( v5 )
+《
+v6 = sub 482180(v5,
+13);

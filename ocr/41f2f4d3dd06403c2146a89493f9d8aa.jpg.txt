@@ -1,0 +1,18 @@
+# OCR: 41f2f4d3dd06403c2146a89493f9d8aa.jpg
+# 来源: .\02-WriteUp\2024\41f2f4d3dd06403c2146a89493f9d8aa.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+闹 awn, 目 scma, Semmes poveset
+[EERSaRE 5 gam
+E =
+ia vm 6 ‘
+1 | Speen vungy sous elenOiipeg ert Vipps out E/sips ame-pecenert. | L 【
+目 wnenenmee nntnre cui biog ae procenort. |
+aaa @ Q x
+[
+‘output "E/dbjpg” ~trame-processor face_swapperface_enhancer--smilar-face-distance 0.85 ~temp-frame-format pg ~temp-frame-qualty 18 ~-output-video-
+‘quality 18 -maxcmemory 4 --execution provider cpu ~execution-threads 4
+aL
+BER: APTS LF ML EOT/S9ER6/Users/L/AppData/Roaming/Microsotl/Windows/PowerShell/PSReadLine/ConsoleHost history bt
+eRe:

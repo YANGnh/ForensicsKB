@@ -1,0 +1,25 @@
+# OCR: 876e1249a4b271fb45dd713bddc5ce7a.webp
+# 来源: .\02-WriteUp\2024\876e1249a4b271fb45dd713bddc5ce7a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+Mi Wireshark . 388% HTTP if (tcp.stream eq 3216) - iBT. pcapng
+POST /dbadmin/test_db.php HTTP/1.1
+Host: 192.168. 75.131
+Content-Length: 57
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://192.168.75.131
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozille/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+Accept: text/html, application/xhtml+xml, application/xml;q=0.9, image/avif, image/
+33q=0.7
+Referer: http: //192.168.75.131/dbadmin/test_db.php
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=4r@6r9gjmcujsOja9r8bstSpo5
+Connection: close
+password=123456&remember=yes&login=Log+In&proc_login=trueHTTP/1.1 200 OK
+Date: Wed, 31 Jul 2024 14:28:29 GMT
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-lubuntu3.26

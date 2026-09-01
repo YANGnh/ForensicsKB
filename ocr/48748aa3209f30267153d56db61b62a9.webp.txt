@@ -1,0 +1,27 @@
+# OCR: 48748aa3209f30267153d56db61b62a9.webp
+# 来源: .\02-WriteUp\2025\48748aa3209f30267153d56db61b62a9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+峦 细 信 息
+$ 称 : version
+eel 文 件
+Ki: 129 B
+9 建 时 间 。 2025-09-25 11:15:10
+冉 问 时 间 : 2025-09-25 11:15:10
+改 时 间 : 2025-09-18 10:13:12
+F 敏 据 地 址 : 0
+伟 路 佐 : data/miscy/recovery/proc/version
+I 密 类 型 : 未 加 密
+3 删 除 : 否
+原 类 型 视 图
+PAGE
+ZOOM
+文 本 视 图 十 六 进 制 视 图
+HIGHLIGHT
+Linux version 44.146 (build@ubuntu)
+PREEMPT Fri May 9 15:58:31 CST 2025
+发 口
+(gcc version 4.9.x 20150123 (pre:
+x
+口

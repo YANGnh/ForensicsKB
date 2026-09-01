@@ -1,0 +1,25 @@
+# OCR: a8ee75360b1f506fb06212a96b37b70d.webp
+# 来源: .\02-WriteUp\2026\a8ee75360b1f506fb06212a96b37b70d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+尘 “ 周 宇 pCiEottxt x Bs
+文 件 “ 编 辑 查 看
+Information for GA1\ 周 宇 PC\ 周 宇 PC:
+Physical Evidentiary ltem (Source) Information:
+[Device Info]
+Source Type: Physical
+[Drive Geometry]
+Cylinders: 16,709
+Tracks per Cylinder: 255
+Sectors per Track: 63
+Bytes per Sector: 512
+Sector Count: 268,435,456
+[Physical Drive Information]
+Pal 2 Meee VMware Virtual NVMe Disk
+9 593F 5423 000C 2960 FBFD 3D11.
+Removable drive: False
+Source data size: 131072 MB
+Sector count: 268435456
+[Computed Hashes]
+MD5 checksum: 5eb26f4fe4c799a77d3d9c84e341 3f2b

@@ -1,0 +1,28 @@
+# OCR: 02a12cc93a709a06eba7ff37ee8b3ef1.webp
+# 来源: .\02-WriteUp\2024\02a12cc93a709a06eba7ff37ee8b3ef1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+c
+case 1
+stringl] strane = Galleryactivity.F2HQSE@;
+Galleryaceivity galleryaceivity © (Gelleryactivity) this f1c5
+riucce(gelleryaceivity, "thisse")s
+Goject bj = ((B) this b).get()s
+伟
+r = (androide.cenera. ifecycle.d) obfs
+gellerynctivity f2sese = new Koe(6).c()s
+Enyrot r
+ri.c.d(c0364p, EIEEEEEI)
+try {
+Trace. beginsection(61.¢.0("Cxsunbindal"))5
+k
+sndrofie.canera.1ifecycle.d.b(dVer, a
+ver. f19056 4035
+hn
+Qvarscigallerynctivity, 0304p, gellerysctivity. £24060);
+ps
+} catch (exception 2) {
+Top.e("Cerera”, “Use case binding failed”, 2);
+E
+case 2

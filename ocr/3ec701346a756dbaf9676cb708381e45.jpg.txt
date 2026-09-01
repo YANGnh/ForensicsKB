@@ -1,0 +1,33 @@
+# OCR: 3ec701346a756dbaf9676cb708381e45.jpg
+# 来源: .\02-WriteUp\2024\3ec701346a756dbaf9676cb708381e45.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+9) config.ini - BB
+XH) ESE) TACO) BS) 00
+[common]
+考 窗 口 标 题
+WindowTitle=Qtscrepy
+# SISA RANTES (LAUER)
+PushFilePath=/sdcard/
+干 暨 大 fps ( 仁 又 持 Android 10 以 一
+MaxF ps:
+干 是 命 温 染 过 货 祈 频 桢 GU ASS EER)
+RenderExpiredframes-0
+干 视 频 解 码 方 式 : -1 自 动 ,0 软 解 ,1 dxaRER, 2 openg 唐 觞
+UseDesktopOpenGL=-1
+# scrcpy-sever 的 版 末 号 ( 万 要 修 改 )
+ServerVersion=2.1.1
+# scrcpy-server# XSI SiS SNES
+ServerPath=/data/local/tmp/scrcpy-server.jar
+并 自 定 丸 adb 路 径 , 例 加 Dyandroidytookyadbexe
+Adbpath=
+干 编 罗 活 顶 “ 芒 示 酝 认
+英 例 如 CodecOptions="profile=1,level=2"
+干 更 多 编 际 浑 顶 参 考 https//dandroidcomyreference/androidymedia/Mediaformat
+CodecOptions=""
+干 指 宏 编 吊 哉 名 称 凶 顾 星 H 20648), “RTBU
+英 例 如 CodecName="OMX.qcom.video.encoder.avc"
+CodecName=""
+# Set the log level (verbose, debug, info, warn, error)
+LogLevel=verbose

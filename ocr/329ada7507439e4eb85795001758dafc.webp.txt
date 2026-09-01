@@ -1,0 +1,16 @@
+# OCR: 329ada7507439e4eb85795001758dafc.webp
+# 来源: .\02-WriteUp\2025\329ada7507439e4eb85795001758dafc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+E
+Ml Wireshark Endpoints
+Endpoint Settings
+E
+日 s
+E E E n
+CEO _Trafficpcapng
+Ethemet-2 IPd.2 I6 TCP.2 _ UDP.
+oa Port #48 Bytes Total Packets Percent Filtered Tx Packet
+102134511 445.158 27 kB 158 100.00% 7
+192.168.20.100 49159 158 27 kB 158 10.00% s

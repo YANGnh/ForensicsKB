@@ -1,0 +1,27 @@
+# OCR: cc7c02e2782f865d3e99cf851c0ea9d9.webp
+# 来源: .\02-WriteUp\2025\cc7c02e2782f865d3e99cf851c0ea9d9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+Domain_Shortname: CATBOMBER|
+Domain_Name: catbomber.net
+Forest_Name: catbomber.net
+Forest_Trees:
+1) catbomber.net
+Username: Administrator Username:
+Domain_Controller: Catbomber-DC.catbomber.net|
+User_Name: CN=Phillip Ghent, CN=Users,DC=catbomber ,DC=net|
+Computer_Name: CN=CAT-BOMB-W7-PC,CN=Computers , DC=catbomber ,DC=net|
+isite_Name: Default-First-Site-Name|
+Guest Username:
+krbtgt Username: timot!
+.sizemore Username: phillip.ghent
+Domain: Catbomber-DC.catbomber.net
+Catbomber-DC,catbomber.net
+lame:
+: Administrator Username:
+-W1@-PC.catbomber.net|
+HB-W7-PC.catbomber.net
+Guest Username:
+krbtgt Username: timothy
+zemore Username: phillip.ghent

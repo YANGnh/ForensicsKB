@@ -1,0 +1,38 @@
+# OCR: 20847b36f50fbe2266b691e7a13c1b06.webp
+# 来源: .\02-WriteUp\2024\20847b36f50fbe2266b691e7a13c1b06.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+其 *$ *Joh ler oc
+日 园 1.44.1-69057 (Ext2/3/4 file system)
+@& ess
+闻 @synoFinder-etc-volume
+圆 @synoFinder-4og
+日 国 @database
+日 图 Gesor
+日 国 emp
+© 国 @userpreference
+日 国 John ler
+略 srecoyd
+园 @esor
+田 国 New folder
+@a
+园 beauty
+a - 5
+@ jpn
+日 国 v
+阚 RE
+@ 2578
+© Selected File "-10.jpq” with own size 31081 bytes.
+-10.jpg
+Picture
+Size: 30 KB
+© view
+园 6ezor
+四 -i0jpo
+四 15+po
+Thumbs.db
+四 D409
+四 幼 幼 jpo
+Modified: 02.09.2024 16:43:37
+® Save as...

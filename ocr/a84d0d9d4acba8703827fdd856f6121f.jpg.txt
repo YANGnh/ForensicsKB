@@ -1,0 +1,25 @@
+# OCR: a84d0d9d4acba8703827fdd856f6121f.jpg
+# 来源: .\02-WriteUp\2024\a84d0d9d4acba8703827fdd856f6121f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+国 [ 日 目 -
+2m Be
+€ 个 目 maoxueliu > AppData >» Roaming > Mattermost > logs
+ae “ 2 E 5
+ot 5)
+man , 目 l 2024/5/11 17:46 Bec] 21 KB
+春 F | Oi) mainlog - aaa
+国 8 * | Z SE) TACO) BEV) BAH)
+=a 孙 |[2024-04-24 10:34:41.075] [error] Logger Log level set to: info
+国 [2024-04-24 10:34:41.291] [warn] [Config] Failed to load configuration file from the filesystem. Us
+ee [2024-04-24 10:34:41.294] [info] [Config] Migrating config items successfully.
+pak [2024-04-24 10:34:42.215] [info] [App.Config] config.autostart has been configured: true
+[2024-04-24 10:34:42.375] [info] [App.Config] config.autostart has been configured: true
+@ wesze [2024-04-24 10:34:44.287] [error] [MainWindow] Error: ENOENT: no such file or directory, open C:
+s at Objectopensync (node:fs:603:3)
+= at Object.func [as openSynd (node:electron/js2c/node init:2:2214)
+one at Objectreadfilesync (node:fs:471:35)
+at treadFileSync (node:electron/js2c/node init29771)
+at MainWindow.getSavedWindowState (C:\Users\gaotao\AppData\Local\Programs\mattermos!
+at MainWindow.init (C:\Users\gaotao\AppData\Local\Programs\mattermost-desktop\resources

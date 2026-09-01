@@ -1,0 +1,33 @@
+# OCR: 04b0c0ad73890b0e46f073aab56d1f9d.webp
+# 来源: .\02-WriteUp\2025\04b0c0ad73890b0e46f073aab56d1f9d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+Le Aaa en fae a ee Se
+rootéc44b9400c7F9- /app# gdb -p 1
+GNU gdb (Debian 18.1-1.7) 10.1.90.20210103-git
+Copyright (C) 2621 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http: //gnu.org/Licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by Law.
+Type "show copying" and "show warranty" for detatls.
+This GDB was configured as "x86_64-Linux-gnu"_
+Type “show configuration” for configuration details.
+For bug reporting instructions, please see:
+<https: //www_gnu-org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http: //waw.gnu.org/software/gdb/docunentation/>.
+For help. type “help”.
+Type “apropos word” to search for commands related to “word”.
+Attaching to process 1
+[New LWP 8]
+[New LWP 9]
+[New LWP 10]
+[New LWP 11]
+[New LWP 12]
+[New LWP 13]
+[Thread debugging using Hibthread db enabled]
+Using host libthread db Library "/Ltb/x86_64-Linux-gnu/Libthread_db.so_1".
+--Type <RET> for more, q to quit, c to continue without paging-
+0x0000723206c10d56 in epoll_wait () from /1ib/x86_64-Linux-gnu/Libc.so.6
+(gdb)

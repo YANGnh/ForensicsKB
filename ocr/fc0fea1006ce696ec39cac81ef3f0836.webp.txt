@@ -1,0 +1,9 @@
+# OCR: fc0fea1006ce696ec39cac81ef3f0836.webp
+# 来源: .\02-WriteUp\2025\fc0fea1006ce696ec39cac81ef3f0836.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+File Explorer
+a>
+EHJ
+grubx64.ef i

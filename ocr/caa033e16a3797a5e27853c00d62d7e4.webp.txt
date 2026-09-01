@@ -1,0 +1,9 @@
+# OCR: caa033e16a3797a5e27853c00d62d7e4.webp
+# 来源: .\02-WriteUp\2025\caa033e16a3797a5e27853c00d62d7e4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+u
+V XMP (2 Items)
+25 - XMP Toolkit Image:Exiffool 13.36
+Composite (2 Items)

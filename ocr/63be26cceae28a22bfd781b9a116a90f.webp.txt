@@ -1,0 +1,13 @@
+# OCR: 63be26cceae28a22bfd781b9a116a90f.webp
+# 来源: .\02-WriteUp\2025\63be26cceae28a22bfd781b9a116a90f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+[
+JMuare uCenter Server 8.0.3.00500
+Type: uCenter Server with an enbedded Platform Services Controller
+4 x Intel(R) Core(TM) i?-9750H CPU @ 2.60GHz
+7.7 GiB Memory
+https://ucsa .pgs .cup :443/app iance/support-bundle
+https://192.168.10.100/ (STATIC)
+<F2> Customize Systen <F12> Shut Doun/Restart

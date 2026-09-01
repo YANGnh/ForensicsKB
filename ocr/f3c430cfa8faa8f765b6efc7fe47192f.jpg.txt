@@ -1,0 +1,18 @@
+# OCR: f3c430cfa8faa8f765b6efc7fe47192f.jpg
+# 来源: .\02-WriteUp\2024\f3c430cfa8faa8f765b6efc7fe47192f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+R
+[root@localhost CobaltStrike]# Is
+a1z41-941ba-081.1co (NA cobaltstrike.store cs.vbs hs_err_pid5484.log “pectone
+agscript cobaltstrike cobaltStrike.store data ‘icon.1co resources
+口 cobaltstrike.bat cobaltstrike.store.bak downloads Ladoni@.16 26238583 scripts
+cztunt cobaltstrike jar CSAgent_jar hs_err_ptd196.log Logs teanserver
+[root@localhost CobaltStrike]# ./teamserver 192 168 217.188 123456
+Ie WiLL use extsting X589 certificate and keystore (for SSL)
+氖 Loading properties file (/home/CobaltStrike/TeanServer . prop).
+[!] Properties ftle (/home/CobaltStrike/TeanServer prop) was not found.
+[+] Team server ts up on 0.0.0.0-59837
+[=] SHA256 hash of SSL cert ts: 6518555fb3cSbccc6c35efa2aa651ecc8566ef 6F7128b69614Fb6efbeeSc43ee
+fA Listener: csma started!

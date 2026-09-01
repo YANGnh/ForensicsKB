@@ -1,0 +1,10 @@
+# OCR: e0872dca8fa812b15c55b2b4d9a2f736.jpg
+# 来源: .\02-WriteUp\2024\e0872dca8fa812b15c55b2b4d9a2f736.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+[root@localhost -]4 bt 5
+正 在 执 行 (5) -
+l'言客}鑫了"啬『【鸳(〕面霍反密码 123456
+|- 用 户 名 : ]9oehwoa
+| - 新 密 码 123456

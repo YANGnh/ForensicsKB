@@ -1,0 +1,12 @@
+# OCR: 4451f79720d51b5ae60f6e91045ac81f.jpg
+# 来源: .\02-WriteUp\2024\4451f79720d51b5ae60f6e91045ac81f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+no-trunc
+[rootelocalhost ~]# docker images
+REPOSITORY TAG IMAGE ID
+IZE
+docker.io/eclipse/mysql latest sha256 - 66cOe7ca4921e941cbdbda9e92242F07 fe37c2bcbbaac4af701b4934dfc41d8a
+36 MB
+[root@locathost ~]# []

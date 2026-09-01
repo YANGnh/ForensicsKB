@@ -1,0 +1,22 @@
+# OCR: 8d181a7ecfb06050d3281ca5324ea6e0.webp
+# 来源: .\02-WriteUp\2025\8d181a7ecfb06050d3281ca5324ea6e0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+怀 a n 东 人 i 心
+10
+12
+13
+> META-INF/MANIFEST.MF
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.2.2
+Build-Jdk-Spec: 24
+Implementation-Title: newbee-mall
+Implementation-Version: 1.0.0-SNAPSHOT
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: 1td.newbee.mall.NewBeeMallApplication
+Spring-Boot-Version: 2.7.5
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/1ib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx

@@ -1,0 +1,9 @@
+# OCR: 958ef39dc8bea0a864e04e34dfba12b1.jpg
+# 来源: .\02-WriteUp\2024\958ef39dc8bea0a864e04e34dfba12b1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+(kali@ kali )-[~/Desktop]
+ip route
+default via|is2.is8.200.i]dev etho proto static metric 100
+192.168.2090. dev proto kernel scope Link src 192.168.200.10 metric 100

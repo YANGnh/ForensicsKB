@@ -1,0 +1,10 @@
+# OCR: 46e5cb5eb96d283a8e3c4af34fdd9805.jpg
+# 来源: .\02-WriteUp\2024\46e5cb5eb96d283a8e3c4af34fdd9805.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+国 3825.63.10 “Xacmecom
+# localhost name resolution is handled w
+# 127.0.0.1 localhost
+# 江 localhost
+192.168.217.132 yourcode.xyz

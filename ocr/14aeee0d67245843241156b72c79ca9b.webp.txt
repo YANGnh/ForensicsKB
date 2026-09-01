@@ -1,0 +1,25 @@
+# OCR: 14aeee0d67245843241156b72c79ca9b.webp
+# 来源: .\02-WriteUp\2024\14aeee0d67245843241156b72c79ca9b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+> docker start 39 d4 5f
+9
+4
+f
+E root @ ql-n117-45.117.19.203 in /home [20:
+docker ps
+31:01]
+ONTAINER ID IMAGE COMMAND
+STATUS PORTS NAMES
+392e75F460F4 — mcr.microsoft.com/mssql/server:2019-latest "/opt/mssql/bin/pern..”
+jp 7 seconds “6.6.6.6-1433->1433/tcp sqlserver2019
+14967607b7dd — mongo- latest "docker-entrypoint.s..”
+jp 6 seconds @.0.0.0:27017->27017/tcp mongo
+fc389257bb4 mysql -5.7 “docker-entrypoint.s..”
+0.0.0 .0-3306->3306/tcp, 33060/tcp _ mysql5.7
+Ip 4 seconds
+CREATED
+3 months ago
+3 months ago
+3 months ago

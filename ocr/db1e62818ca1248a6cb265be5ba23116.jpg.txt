@@ -1,0 +1,11 @@
+# OCR: db1e62818ca1248a6cb265be5ba23116.jpg
+# 来源: .\02-WriteUp\2024\db1e62818ca1248a6cb265be5ba23116.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+= Talse,
+LLOW_EMPTY_PASSWORD=yes"
+MONGODB_REPLICA SET_MODE=primary",
+MONGODB_REPLICA_SET_NAME=rs6",
+HONGODB “ADVERTISED. HOSTNAME=mongodb"
+MONGOD8_EWBLE_JOURNAL-true「

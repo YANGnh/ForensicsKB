@@ -1,0 +1,36 @@
+# OCR: 42e77f7f95a8c0b972c104a5da824a6d.jpg
+# 来源: .\02-WriteUp\2024\42e77f7f95a8c0b972c104a5da824a6d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+jaa
+package com.hl.easyapk;
+import java. security MessageDigest;
+import Java. security .NoSuchAlgorithmException;
+/* Loaded from: classes3.dex */
+public class sha 0
+public static String encrypt(String raw) 《
+String mdSStr = raw;
+try {
+MessageDigest md = MessageDigest.getInstance(AppSigning."0S) ;
+nd.update(raw.getBytes());
+byte[] encryContext = md.digest();
+StringBuffer buf = new Stringouffer("");
+for (int offset = 0; offset < encryContext.length; offsett+) {
+int i = encryContext [offset];
+if (Ace) 《
+i t= 2565
+1
+if G < 16) {
+buf -append(
+ys
+}
+buf append (Integer. toHexString(i))3
+}
+md5str = buf.tostring()5
+} catch (NoSuchAlgorithmexception e) {
+e.printStackTrace();
+]
+return mdSStr.toLowerCase();
+]
+′ll一

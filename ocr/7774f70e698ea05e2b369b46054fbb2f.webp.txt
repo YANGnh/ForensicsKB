@@ -1,0 +1,37 @@
+# OCR: 7774f70e698ea05e2b369b46054fbb2f.webp
+# 来源: .\02-WriteUp\2024\7774f70e698ea05e2b369b46054fbb2f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+4
+File file = new File(FileUtil.getFilesDir(), "UsecInfo");
+try {
+} catch (Exception e) {
+fileInputstream = null;
+) catch (Throwable th) 《
+‘th = ths
+if (filetnputstrean2 |= null) {
+)
+‘throw ths
+)
+if ({File.exists()) (
+filetnputStream = null;
+} else {
+filetnputstream
+try {
+try {
+read = ToUtil.read(#ilenputstream) 5
+) catch (Throwable tha) {
+‘th = thas
+FileInputstream2 - fileznputStream
+if (filetnputStrean2 |= null) {
+ToUtil. closequietly(FileInputstrean2);
+new FileInputStream(file);
+)
+‘throw ths
+)
+} catch (Exception e2) {
+E
+UL2.w("basemap.account", "AccountDataStore#loadUserInfoFromOldFile”, e.getMessage())3
+MapSharePreference mapSharePreference = new MapSharePreference(" spliameAccount™) 5
+ee eae Ee ne LE i ao

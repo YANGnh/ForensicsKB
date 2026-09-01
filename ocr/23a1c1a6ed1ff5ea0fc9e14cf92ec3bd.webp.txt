@@ -1,0 +1,14 @@
+# OCR: 23a1c1a6ed1ff5ea0fc9e14cf92ec3bd.webp
+# 来源: .\02-WriteUp\2024\23a1c1a6ed1ff5ea0fc9e14cf92ec3bd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+“power_booknark_neta”
+1
+“nane”: 定 in 面
+“show_icon”: false,
+“source”: “user_add”,
+“type”: “url”,
+furl’: “https: //172. 22. 4. 253: 16724/c38b33¢b",
+“visit_comt”: 1
+Loe

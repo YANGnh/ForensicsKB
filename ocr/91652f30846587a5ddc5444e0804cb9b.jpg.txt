@@ -1,0 +1,18 @@
+# OCR: 91652f30846587a5ddc5444e0804cb9b.jpg
+# 来源: .\02-WriteUp\2024\91652f30846587a5ddc5444e0804cb9b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+E
+(MongoDB)
+SR REE ssl
+_# 名
+SSH
+SSH BESS
+nee
+2024 FIC BABES
+| standalone
+口 seyi2&
+172.1802
+27017
+| None

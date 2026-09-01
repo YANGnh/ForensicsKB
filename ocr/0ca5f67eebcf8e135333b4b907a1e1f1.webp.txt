@@ -1,0 +1,18 @@
+# OCR: 0ca5f67eebcf8e135333b4b907a1e1f1.webp
+# 来源: .\02-WriteUp\2024\0ca5f67eebcf8e135333b4b907a1e1f1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+PB 留 AicetgMacbook , 团 ## 信 @ (KS) , 团 东 杭 侦
+| G=ess =n 一 英 文 名 称 与 值
+臂虔冒丨′′′′丽童`【矗′′′′暮叠置I′′′′′′′Y
+1 描 作 系 统 类 城 macOS
+2 排 作 系 统 版 本 12.7.6
+口 3 版 本 序 刀 号 21H1320
+口 4 FRANZ 1983-2024 Apple Inc.
+吴 5
+口 6 # Alices-MacBook-Pro
+口 7 。 干 台 MacBookPro12,1
+8 最 后 登 录 用 户 alce c
+9 语 言 en-HK
+10 RYFUUID B4B99592-7A67-SA64-8288-5B2503075AEE

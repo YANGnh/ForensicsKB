@@ -1,0 +1,26 @@
+# OCR: 0c5ca1e249d033e9892d8a3dc73e30dd.webp
+# 来源: .\02-WriteUp\2025\0c5ca1e249d033e9892d8a3dc73e30dd.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+、 白bachend i
+- CRunidbg-android String encData = “1SxGzkdJjffhznITNg4J910MRT]xh-Ca0ofy-n6e889MUnggygzJV_etL8cJ1505HAyB.;
+日 川 WEB
+“ String methodName = "nativeAESBo4Decrypt(Bl;)BI
+川 DEA
+Chest obj.callJniMethodBoolean(emulator, method: “nativeChiperInit()z");
+© (Bis // RB
+v Boom Dvmobject<byte[]> ret = obj.callJniMethoddbject(emulator, methodName, encData.getBytes( charsetName: "UTF-8"));
+> Blanjukemobile.sign 58 11 @2BOER
+、 白bsduadl system.out.printin(new String(ret.getValue()));
+G chiperéncrypt }
+> Bi bytedance,frameworks.co ]
+> Bigithub.unidbg
+Bi kamue.test2
+iT “ 口 chpegrept
+Gea
+"C:\Program Files\Java\jdk-17\bin\java.exe" ...
+load of fset=873ms
+Java_com_baidu_util_chiperEncrypt_nativechiperInit
+Java_com_baidu_util_chiperEncrypt_nativeAESBo4Decrypt
+万 310194200108110624

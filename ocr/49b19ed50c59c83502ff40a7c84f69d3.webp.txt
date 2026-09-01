@@ -1,0 +1,42 @@
+# OCR: 49b19ed50c59c83502ff40a7c84f69d3.webp
+# 来源: .\02-WriteUp\2025\49b19ed50c59c83502ff40a7c84f69d3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+1 50-cloud-inityaml X
+G > hinet > 4-1748330449 > ubuntu-vg(724yif-HwVN-jBku-w1Pu-NWGz-600m-H2H4N1) 》 分 区 0 etc > netplan >
+1
+巳 白a 东 人 b
+10
+1
+12
+13
+14
+15
+16
+17
+18
+19
+# This file is generated from information provided
+Changes
+# to it will not persist across an instance reboot.
+# network configuration capabilities, write a file
+# /etc/cloud/cloud.cfg.d/99-disable-network-config
+# network: {config: disabled}
+network:
+ethernets:
+ens33:
+addresses
+172.16.10.254/24
+nameserver:
+addresses:
+- 114.114.114.114
+search: []
+routes:
+- to: default
+via: 172.16.10.4
+version: 2
+by the datasource.
+To disable cloud-init's
+.cfg with the followin,
+a

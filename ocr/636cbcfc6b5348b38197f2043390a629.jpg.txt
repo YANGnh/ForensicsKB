@@ -1,0 +1,33 @@
+# OCR: 636cbcfc6b5348b38197f2043390a629.jpg
+# 来源: .\02-WriteUp\2024\636cbcfc6b5348b38197f2043390a629.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+[File Base Info]
+File Name: €:\EUiEte#f\androidi# 828 \1. 2S. apk
+Package Name: com.hl.memorandum
+Main Activity: ‘com.h1.memorandum.MainActivity
+File Size: 3311857 bytes
+D5 @ae46Fdbea33#1F85054545b9b14b56c
+Packed Not Packed
+Min SDK 2
+Target SDK: 32
+[DEX Base Info]
+Dex File Name classes.dex
+File Size: 4495468 bytes
+D5 d53be3#lceddld5879c5455bols4baae
+Class Size: 2873
+Method Size: 32547
+String Size: 37886
+Dex File Name classes2.dex
+File Size:  38914@ bytes
+怀 s 53c5a9c6352d9d952c271bee2712cbaF
+Class Size: 258
+Method Size: 279
+String Size: 4985
+Dex File Name classes3.dex
+File Size:  14@8 bytes
+吴 5 €397#42a328162151beSed7F679cef17
+Class Size: 2
+Method Size: 9
+String Size: 31

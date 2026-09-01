@@ -1,0 +1,85 @@
+# OCR: ae394ee2d69241eb986b23f1e4d3e961.webp
+# 来源: .\02-WriteUp\2024\ae394ee2d69241eb986b23f1e4d3e961.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+国 &BRs (194/0) x
+口 。
+a:
+10
+n
+2
+13
+14
+Q
+@ A 白 Ben
+H nd
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+RPI
+ae
+‘IS
+〗 园 四 口 回 日 < 申 固 ,“ 目 日 口
+E
+E
+com.appleweather
+com.appleiBooks
+com.kingsoftoffice.g.wpsoffice
+com.baiduBaiduMobile
+comappleFitness
+comapple.calculator
+comfish.stream
+com.apple facetime
+netathatsapp.WhatsApp
+com.apple.mobilem:
+comapple-Passbook
+com.xingin.discover
+comapple Home
+E
+WPS Office
+H
+E
+Stream
+FaceTimei®iS
+‘WhatsApp
+E
+AMI
+E
+a
+oa
+11.3382
+13570
+10
+1.00
+1.06
+36
+24.104
+1.00
+837
+70
+124.20
+we E
+private/var/containers/Bundle/Application/D0682984-1867-4870-
+private/var/cont
+1ers/Bundle/Application/6708377E-C921-AA67-8F
+private/var/containers/Bundle/Application/CDDS28C5-E6DE-4958-§
+private/var/containers/Bundle/Application/3EE2EBBB-FC6F-4536-84...
+private/var/containers/Bundle/Application/16C99CF0-8043-4FD4-87.
+private/var/containers/Bundle/Application/099CE783-1C5C-498D-84...
+private/var/containers/Bundle/Application/6BF6BE34-173E-49C8-89...
+private/var/containers/Bundle/Application/4CAABBCT-F8F-4D69-96,
+private/var/containers/Bundle/Application/E738F557-D3FA-409A-86...
+private/var/containers/Bundle/Application/621D264C-AS2B-4ABE-88,..
+private/var/containers/Bundle/Application/C4788494-B906-4978-81...
+private/var/containers/Bundle/Application/F816CAO3-7B80-4794-81..
+private/var/containers/Bundle/Application/BABCS630-CAE2-47E4-9C.
+private/var/containers/Bundle/Application/D2E43F3C-3797-4601-AE...

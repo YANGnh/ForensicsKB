@@ -1,0 +1,8 @@
+# OCR: 1be4b2a794a77da42997db21072b0621.jpg
+# 来源: .\02-WriteUp\2024\1be4b2a794a77da42997db21072b0621.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+1:40 B
+easyapk
+请 输 入 答 案 :

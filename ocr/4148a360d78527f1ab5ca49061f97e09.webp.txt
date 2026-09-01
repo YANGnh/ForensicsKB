@@ -1,0 +1,27 @@
+# OCR: 4148a360d78527f1ab5ca49061f97e09.webp
+# 来源: .\02-WriteUp\2025\4148a360d78527f1ab5ca49061f97e09.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+常 手 机 检 材 >
+= 名 称
+过 滑
+1 撰 作 系 统
+2 Android ID
+3 蓝 牙 名 称
+4 蓝 牙 MACB 址
+5 IMEI1
+6 IMEI2
+7 MEID
+8 ICCID
+9 时
+10 “ 允 许 模 拟 位 置
+Android
+868ca2a91a8a10fe
+Android Bluedroid
+48:87:59:76:21:0f
+865647062581063
+99001894630051
+<null>,89860321245124114178
+Asia/Shanghai
+False

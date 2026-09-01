@@ -1,0 +1,37 @@
+# OCR: 430ba0b1782ce4caa7a558c2beb205c2.webp
+# 来源: .\02-WriteUp\2024\430ba0b1782ce4caa7a558c2beb205c2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+]y
+“huizhou_2. 0. 4”:
+“platid”: 0 _
+“huizhou_! 2.0.2”;
+“https: //hSpublish. gamelaoyou. com/Nat ive2/huizhou/lobby. release/Mah jong/native. json”,
+: "wx18906dba9e3e6ec9”,
+“wbappid” : “wxd6#31b500f2b4fcc”,
+“app_scret”
+"mch_id”: "1614684433",
+“package”: “Sign=WXPay”
+“wx_mch_id”: 71614684433”,
+“androidVersion”:
+“version”: 2.0.3",
+“VersionCode 203,
+pp_down_Url”: “https: //download. gamelaoyot
+}
+国
+“huizhou_2. 0. 3”;
+“config_url”:
+“wx_mch_id”: “1
+“config_url”
+‘wx_mch_id”: "1
+“test-for-app_2,| 0.2”:
+“config_url”
+ee wait it
+人
+“nttps://hSpublish. gamelaoyou. com/Native2/huizhou/lobby. release/Mah jong/native. json”,
+614684433”
+“https: //h3publish. gamelaoyou. com/Native2/huizhou/ lobby. release/Mah jong/native. json”,
+614684433”
+“https: //hSpublish. gamelaoyou.comyNative2/huizhou/lobby. release/Mah jong/native. json”,
+614684433”

@@ -1,0 +1,9 @@
+# OCR: 982bbec47e0ce214848a91ff16c8f0b5.jpg
+# 来源: .\02-WriteUp\2024\982bbec47e0ce214848a91ff16c8f0b5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+openwrt
+root@iStorelS:/# uname -
+5.18.281
+rooteiStore0S:/ _

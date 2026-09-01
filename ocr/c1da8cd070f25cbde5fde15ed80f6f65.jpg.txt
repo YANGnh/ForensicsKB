@@ -1,0 +1,6 @@
+# OCR: c1da8cd070f25cbde5fde15ed80f6f65.jpg
+# 来源: .\02-WriteUp\2024\c1da8cd070f25cbde5fde15ed80f6f65.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 16:11
+
+# 结果: 无可用文本（tesseract 未识别到文字）

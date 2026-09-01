@@ -1,0 +1,56 @@
+# OCR: d17830930f04287968c175ca42b4ff27.webp
+# 来源: .\01-取证技巧\02-网络取证\d17830930f04287968c175ca42b4ff27.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:10
+
+厢 Wireshark StH - HTTP B 怀
+SCAR:
+aa sne
+358 10.11.4.3:12345
+461 “101143:12345
+6921 101143:12345
+6929 101143:12345
+7272 101143:12345
+7279 101143:12345
+9790 “101143:12345
+9797 101143:12345
+12133 10.11.4.3:12345
+12142 10.11.43:12345
+Aga
+application/octet-stream
+application/octet-stream
+application/octet-stream
+application/octet-stream
+application/octet-stream
+application/octet-stream
+application/octet-stream
+application/octet-stream
+application/octet-stream
+application/octet-stream
+大 小
+263 kB
+48 bytes
+64 bytes
+68 bytes
+64 bytes
+356 bytes
+48 bytes
+212 bytes
+349 kB
+260 bytes
+文 仪
+mB9u
+cm
+cm
+submit.php?i
+cm
+submit.php?id=1129373676
+cm
+submit.php?id=1129373676
+cm
+submit.php?i
+j= 1129373676
+|= 1129373676
+一 a x
+Content Type: All ContentTypes
+we | 2m | e 厂 真 ] 略

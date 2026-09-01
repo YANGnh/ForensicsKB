@@ -1,0 +1,8 @@
+# OCR: 58226ac3ff3d614ec695fe894a6d9578.webp
+# 来源: .\02-WriteUp\2025\58226ac3ff3d614ec695fe894a6d9578.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+tyle="_ color: #000000;">BETRA SARA
+text-indent:0px; color:#000000; "><br /
+"data: image/1681692777.PNG;baseé4, i

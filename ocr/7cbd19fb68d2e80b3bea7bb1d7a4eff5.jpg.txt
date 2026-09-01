@@ -1,0 +1,28 @@
+# OCR: 7cbd19fb68d2e80b3bea7bb1d7a4eff5.jpg
+# 来源: .\02-WriteUp\2024\7cbd19fb68d2e80b3bea7bb1d7a4eff5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+05/22 6 38 UTC [input] <neo> shell net user wafer /del
+05/22 6 38 UTC [task] <T1059> Tasked beacon to run: net user wafer /del
+5/22 87:58:38 UTC [checkin] host called home, sent: 50 bytes
+05/22 6 38 UTC [output]
+recetved output:
+和 令 成 功 宗 成
+65122 67:58-42 UTC [tnput] <neo> net users
+05/22 87:58:42 UTC [error] net error: argument 'users' is not a net command
+95/22 07:58:46 UTC [input] <neo> shell neet users
+95/22 67-56-46 UTC [task] <11059> Tasked beacon to run: neet users
+05/22 07-50-46 UTC [checkin] host called home, sent: 41 bytes
+05/22 07:50:46 UTC [output]
+recetved outpu _
+‘neet' Se Amare’, 也 不 是 可 运 行 的 程 序
+E
+95/22 67:56:56 UTC [input] <neo> shell net users
+05/22 6 58 UTC [task] <T1059> Tasked beacon to run: net users
+05/22 6 50 UTC [checkin] host called home, sent: 49 bytes
+05/22 67-50-50 UTC [output]
+received output:
+\\INDEXUSER 的 用 户 帐 户
+i Guest ww
+和 令 成 功 宏 成

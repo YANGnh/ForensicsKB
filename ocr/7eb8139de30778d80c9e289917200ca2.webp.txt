@@ -1,0 +1,15 @@
+# OCR: 7eb8139de30778d80c9e289917200ca2.webp
+# 来源: .\02-WriteUp\2025\7eb8139de30778d80c9e289917200ca2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+w per eee
+TUNRAIDER] ptr: 260740
+enhttp: Starting embttpd...
+Unraid Server OS version: 7.0.1
+IPu4 address: 192.168.56.129
+IPu6 address: not set
+root
+Touer login:
+Passuord:
+root@Tower :~#

@@ -1,0 +1,14 @@
+# OCR: 41941369c840a79f553b1f2eea54456e.webp
+# 来源: .\02-WriteUp\2024\41941369c840a79f553b1f2eea54456e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+a
+package arm;
+厂 Loaded from: G:\tmp\2024%il H'*A\apk\classes.dex */
+public class c {
+static f
+systen.loadLibrary("arm_classes4");
+)
+public static native byte @(int i, byte[] barr, int 42);
+public static native char @(int i, Object obj, int 42);

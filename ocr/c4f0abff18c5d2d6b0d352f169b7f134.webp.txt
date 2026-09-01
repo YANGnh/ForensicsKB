@@ -1,0 +1,11 @@
+# OCR: c4f0abff18c5d2d6b0d352f169b7f134.webp
+# 来源: .\02-WriteUp\2025\c4f0abff18c5d2d6b0d352f169b7f134.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+用 户 信 息 .zip
+文 作 f 置 D: ) 2025 山 东 联 赘 ) output
+文 件 粉 基 Zip 20 — Extraction Password, Default Encryption, 可 以 使 用 zip 明 文 攻 击
+复 朱 度 ee Brute-force - Fast
+MD5 99AB2D29FBD8EAA4AA2F26F725373A48
+密 码 为 : File-Open 16623019512

@@ -1,0 +1,26 @@
+# OCR: 30160f490b801082e2b88da23ba9a61a.jpg
+# 来源: .\02-WriteUp\2024\30160f490b801082e2b88da23ba9a61a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+WS “TF transactions @main (MoneyLoverS2)... 一
+@xe- Yeu (see Cs, 6 Si 助 命 ome
+id amount created date display date catid note longtitude latitude
+118820 2022-02-01 2022-02-01 36 [ 喜
+2 415 2023-07-17 2023-07-17
+3 800 2022-02-13 2022-02-13
+4 511 2023-04-16 2023-04-16
+5 331 2022-05-24 2022-05-24
+6 502 2023-10-21 2023-10-21
+7
+8
+9
+0
+3
+‘Gi categorie
+430 2022-05-14 2022-05-14 1
+405 2022-01-17 2022-01-17 19
+280 2022-06-07 2022-06-07 u
+15775 2022-03-01 2022-03-01 36
+Copmvymemiggggiponmyn 6
+。 。 。 c c c c c e e e

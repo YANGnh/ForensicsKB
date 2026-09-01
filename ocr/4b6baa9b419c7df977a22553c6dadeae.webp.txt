@@ -1,0 +1,104 @@
+# OCR: 4b6baa9b419c7df977a22553c6dadeae.webp
+# 来源: .\02-WriteUp\2024\4b6baa9b419c7df977a22553c6dadeae.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+5005
+90177
+90178
+90179
+90180
+90181
+90182
+90183
+90184
+90185
+90186
+90187
+90188
+90189
+90190
+90191
+90192
+30193
+90194
+90195
+90196
+30197
+90198
+90199
+90200
+90201
+90202
+90203
+90204
+90205
+90206
+90207
+90208
+90209
+90210
+90211
+90212
+90213
+90214
+90215
+90216
+“personalized-on-preboot” = 17
+“prepare-snapshot" = 1;
+“splat-enabled” = 17
+“suspended-update-path”
+“update-asset-attributes” t
+ActualMinimumsystemPartition = 447
+AssetType = "com.apple.MobileAsset
+Build = 208827
+cryptexsizeInfo = (
+t
+cryptexsize = 107
+CryptexTag = “cryptex-app”
+bh
+t
+CryptexSize = 2528;
+CryptexSizeDelta = 30;
+CryptexTag = “cryptex-syst:
+1
+)
+InstallationSize = 144363520;
+“InstallationSize-Snapsho' 1394
+MinimumsystemPartition = 07
+"16.1",
+osversion
+RSEPDigest
+Ramp = 0
+RescueMinimumsystemPartition = 478:
+SEPDigest = (length = 48, bytes
+sUConvReqd = 17
+sUDocumentationID = i0S161short;
+sUinstallTonightEnabled = 17
+SuMultipassEnabled = 1;
+SuProductSystemName = i08;
+sUPublisher = "Apple Inc.
+SupportedDeviceModels (
+D22aP
+ae
+SupportedDevices = (
+“iphonel0,3"
+ys
+"/private/var/MobileSoftwareUpdate/softwareupdate. 20113. 40Vgh2/";
+- SoftwareUpt =
+Eh gtk MAEM 44 e
+E 1 RR 一 0
+〉 【
+, snaang | RR
+Ome WMATA)
+Osisrmw E E
+量 Demxise 0
+-em-armé4e' E 】_′_
+E Disease
+wm i
+sssaun; OF R09 On Ws Ws, Wd Ome
+OERELO E c
+0xa3247044 8bcbsdc 223f047e d507446
+0xa8744ee9 a0451523 bS628£78 fblickbe 。
+ses 49accSed 62978374 止
+. £7493a7 92227969 )

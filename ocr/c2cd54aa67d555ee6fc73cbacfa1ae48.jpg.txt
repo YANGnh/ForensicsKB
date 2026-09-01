@@ -1,0 +1,49 @@
+# OCR: c2cd54aa67d555ee6fc73cbacfa1ae48.jpg
+# 来源: .\02-WriteUp\2024\c2cd54aa67d555ee6fc73cbacfa1ae48.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+> 2 h
+》 踹 2
+V Resi
+v & Re
+VL esxi£01
++ 心 EI0
++ 心 AEI2
++ B
+W core
+© downloads
++ Bi log
+var
++ 1 vmware
+= 15
+aks
+ams
++ 二 ESXi
+> 0 92
+> B esxi nfs
+142794
+164109
+312
+a
+309
+31876
+OG esxi£01 3814 /log
+Gess| san
+ue vmikemeliog
+oa lacp.iog
+口 2 basdias
+口 丁 fdmlog
+口 24 buiog
+E
+R hostd.log
+FRE: log
+BB: SUE
+Fh: 1.08 MB
+a 咏 ,2022.03-04 13:04:19
+沥 Bm 囹 ,2022.03-04 00:00:00
+‘BRAT: 2022-03-04 15:19:58
+MetaAddr: 16950
+8 esxi.£01/29K14/log/hostd.log
+MERE: AE
+cae: 5

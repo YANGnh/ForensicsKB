@@ -1,0 +1,16 @@
+# OCR: 1905c3b53c21ed80e56edd752ee7271a.webp
+# 来源: .\02-WriteUp\2024\1905c3b53c21ed80e56edd752ee7271a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+<true/>
+</aict>
+<key>CarrierEntitlements</key>
+<dict>
+<key>LastGoodImsi</key>
+<string>454000082644582</string>
+<string>454000082644582</string>
+<key>last-used-imsi</key>
+<string>454000082644582</string>
+</aict>
+Pranic nee for ees eer

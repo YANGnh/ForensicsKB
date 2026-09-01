@@ -1,0 +1,93 @@
+# OCR: 458ba8ac9addd525cbca57c6f62a1bc5.webp
+# 来源: .\02-WriteUp\2025\458ba8ac9addd525cbca57c6f62a1bc5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+人
+C 面 回
+&
+刹 新 “ 文 件 全 显 签 名 恢 复 详 情 / 预 览
+Vo 嫡 疑 人 安 卓 手 机 tar
+番 qihooCrash
+面 :p
+圆 comtmriapp.main -1 2
+疆 comunionpay -1 2
+国 comxiaomipass -1 2
+圆 comxiaomishop -1 2
+国 comymobd.uniapp -1 2
+十 十 十 十 十 十 十 十 十 十 十
+番 PhoneData
+国 sdcard
++ 国 .BADAM GAME
++ 国 .com.android.providers.d... 1
++ 国 360LiteBrowser
++ Android
++ 国 baidu
++ 国 BaiduMap
+— | dsm helper
+a
+面 IntsigLog
+面 Miul
+Pictures
+言 temp
++ tencent
+国 sdcard 1
++ 国 wangsswitchy hin2nstars .
+国 comxiaomimifisecurity -1 22
+国 comxiaomimimobilencti ... 2
+藏 comxiaomiscanner -1 2
+国 comxunleidownloadpr..
+国 comzipinsoftkeyboard..3010
+39
+103
+5733
+2165
+391
+文 件 “ 编 辑
+查 看
+连 接 特 定 的 DNS 后 缀
+描 述 : Intel(R) PRO/1000 MT Network Connection #2
+物 理 地 址 : 02-11-32-2F-4D-5C
+已 启 用 DHCP: 否
+IPv4 地 址 : 192,168.18
+IPv4 子 网 掩 码 : 255.255.255.0
+IPv4 默 认 网 关 : 192.168.1.1
+IPv4 DNS 服 务 器 : 61.128.114.166, 61.128.114.133
+IPv4 WINS 服 务 器 :
+已 启 用 NetBI0S over Tcpip: 是
+IPv6 地 址 : 240e:348:6f00:4710:b8a2:b148:7c9
+获 得 租 约 的 时 间 : 2024 年 8 月 22 日 , 星 期 四 1
+租 约 过 期 的 时 间 : 2024 年 8 月 23 日 , 星 期 五 23:12:50
+临 时 IPv6 地 址 : 240e:348:6f00:4710:c80c:ea43:8a15:a5f8
+连 接 - 本 地 IPv6 地 址 : fe80::b8a2:b148:7C91:36469614
+IPv6 默 认 网 关 : fe80::daad:49fffe23:e3859614
+IPv6 DNS 服 务 器 :fe80::daad:49fffe23:e3859614
+646, 240e:348:6f00:4710:d8ad:4923:e385:3
+行 5, 列 22 ,12 个 100%
+元 敦 据 地 址 : 15389467136
+全 路 佐 : 嫁 疑 人 安 卓 手 机 .tar/sdcard/dsm_helper/Download/ 新 建 文 本 文 档 -1.txt
+加 鹑 类 型 : 未 加 密
+已 脑 除 : 否
+4 意 高 级
+= 修 改 时 间 = 全 路 径
+起 始 结 束 , V wiz 设
+置
+2024-08-04 22:37:26 嫁 煌 人 安 卓 手 李 列
+2024-08-04 18:28:37 嫁 煌 人 安 卓 手
+2024-08-24 12:00:45 “ 嫁 煌 人 安 卓 手
+2024-08-24 11:59:02 嫌 煌 人 安 卓 手
+in|
+口
+Windows (CRLF)
+IPv4 @@: 192. 168. 1. 18
+IPv4 仁 人 人 人 仁 人 人 仁 : 055.255.255.0
+IPv4 19@OOO@: 192. 168.1.1
+IPv4 DNS @@OOOO: 61.128. 114.166, 61. 128. 114. 133
+IPv4 WIN 余 余 人 人 人 人 :
+©000O© NetBI0S over Tcpip: 人 人
+IPv6 @@: 240e:348:6f00:4710:b8a2:b148:7c91:3646,
+240e: 348: 6£00:4710: d8ad: 4923: e385:3
+9000010 0'OO: 202400802200, 9OOOO@ 15:28:28
+90909 5O'OO: 2024908902300, OOOOO@ 25:12:50
+OO! IPv6 余 人 : 240e:348:6500:4710:c80c:ea43:8a15:a5f8
+0000-000 IPv6 ©: £280: :b8a2:b148: 7091: 3646414 国

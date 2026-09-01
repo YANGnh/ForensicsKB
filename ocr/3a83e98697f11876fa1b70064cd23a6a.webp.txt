@@ -1,0 +1,7 @@
+# OCR: 3a83e98697f11876fa1b70064cd23a6a.webp
+# 来源: .\02-WriteUp\2025\3a83e98697f11876fa1b70064cd23a6a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+In [144]: words.indexC“ 以 口
+Out[146]: 17

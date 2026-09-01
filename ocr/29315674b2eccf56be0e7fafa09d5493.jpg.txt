@@ -1,0 +1,11 @@
+# OCR: 29315674b2eccf56be0e7fafa09d5493.jpg
+# 来源: .\02-WriteUp\2024\29315674b2eccf56be0e7fafa09d5493.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+server
+listen 8888;
+eT
+location /{
+root — /www/server/nginx/guanwang:
+index index_html;

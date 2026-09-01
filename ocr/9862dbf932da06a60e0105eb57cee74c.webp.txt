@@ -1,0 +1,36 @@
+# OCR: 9862dbf932da06a60e0105eb57cee74c.webp
+# 来源: .\02-WriteUp\2024\9862dbf932da06a60e0105eb57cee74c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+root@pc-server- /www/server/panel/data# netstat -tunpl
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address Foreia
+tcp 0.0.0.0:22
+tcp
+tcp.
+tcps
+tcp6
+udp
+ud
+8
+8
+8
+8
+8
+6
+soooeec
+State
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+PID/Progran nane
+911/sshd- /usr/sbir
+1986/python3
+821/systend-resolve
+1667 /nysald
+911/sshd- /usr/sbir
+821/systend-resolve
+3113/systend-networ

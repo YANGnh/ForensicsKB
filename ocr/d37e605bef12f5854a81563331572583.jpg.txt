@@ -1,0 +1,7 @@
+# OCR: d37e605bef12f5854a81563331572583.jpg
+# 来源: .\02-WriteUp\2024\d37e605bef12f5854a81563331572583.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+$condition['password’] = encrypt($condition| ‘password’ ]);
+$admin_info = M(‘admin')->join(PREFIX. ‘admin_role", PREFIX. "admin.role_id=".PREFIX. ‘admin_role.role_id’, "INNER’)->where($condition)->find();

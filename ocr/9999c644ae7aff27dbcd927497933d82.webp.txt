@@ -1,0 +1,27 @@
+# OCR: 9999c644ae7aff27dbcd927497933d82.webp
+# 来源: .\02-WriteUp\2025\9999c644ae7aff27dbcd927497933d82.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+Fs
+Configure Management Netuork
+Netuork Adapters
+VLAN (optional)
+Ipod Conf igura’
+IPy6 Conf igurat ion
+DNS Conf igurat ion
+Custon DNS Suft
+<Up/Doun> Select
+DNS Configuration
+Manual
+Primary DNS Server:
+192.168.18.99
+Alternate DNS Server:
+114,114,114, 114
+Hostnane
+esxil
+If this host is configured using DHCP, DNS server addresses
+and other DNS paraneters can be obtained automatically. If
+not. ask your network adninistrator for the appropriate
+settings.
+<Enter> Change <Esc> Exit

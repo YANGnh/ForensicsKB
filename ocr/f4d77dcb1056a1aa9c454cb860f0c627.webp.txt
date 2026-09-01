@@ -1,0 +1,55 @@
+# OCR: f4d77dcb1056a1aa9c454cb860f0c627.webp
+# 来源: .\02-WriteUp\2025\f4d77dcb1056a1aa9c454cb860f0c627.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+|
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+E
+245
+246
+2
+q
+quord_140@2acaa = “35;
+~-dword_140028CA05
+}
+s
+_Interlockedexchange(&dword_140028¢B0, 0)
+Sub_14001600(v23, lpAddress, @LL);
+goto LABEL 53;
+]
+))
+v42 = (void (*)(void)psub_140001820(IpAddress, "SDGHY3a9DK3t14Fg1hSGHS6U"
+if ( v )
+《
+坤 _nieigytrstert cavarigteiaril
+e
+rihorarrrirt
+“Os
+河n 140023720)
+]
+ue
+《
+sub _sa0001010("Fai1!\e\n")5
+) 蛇 公 众 号 . 小 谢 取 证
+Feturn sub_1400@1960(IpAddress)s

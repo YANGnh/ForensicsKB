@@ -1,0 +1,8 @@
+# OCR: 8a369ca42c3058b45dd84d0a6429377e.webp
+# 来源: .\02-WriteUp\2024\8a369ca42c3058b45dd84d0a6429377e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+Directory listing for /
+* bash_history
+-bash_logout

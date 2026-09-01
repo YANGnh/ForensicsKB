@@ -1,0 +1,43 @@
+# OCR: 4fd96df87b2b1c0cfa79ff2e9e518192.webp
+# 来源: .\02-WriteUp\2025\4fd96df87b2b1c0cfa79ff2e9e518192.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+qauruatatpyecan
+nginx proxy 骆
+面 logs 5 / BR
+、 19 router.post(‘/login’, login);
+园 nginx 20
+- 一 / B
+WG contd 22 router.post('/register', register);
+英 api-serverconf 2B
+2 / RARER AED
+怀 docker-compose.yml 竞 router.get(*/profile', authMiddleware, getProfile);
+26
+test 工 / FAH AeA - VA AAAI
+a 28 router.get(*/flag2", (rea, res) -
+Pi 加 | // Wlectflaead, BEAVERS RAE, CHRIS EER Aee
+1 =p 32 const flag = getflag2();
+> B® node_modules E L
+33 res.json({
+郭 吴 34 success: true,
+— 2 | ==
+« troll 36 result: WROTE)
+> I middleware 37° | Ds
+, 度 models 〔 tia X } + *
++ i routes ef00268cd1360797 1ee8b38F /d4cb231cae7 Fcef2c84d1418adb31450d37bc4bcef00268cd13607971ee8b3
+8f-json_ log",
+SENN 2 2--os-s%/ap06orep + flagz
+。 grep: tbJtamt_so: binary file matches
+JS productroutesjs src/utils/encryption.js: * 狡 耿 flag2, 〔能通辽调试获取
+src/utils/encryption.js-const get > {
+src/utils/encryption.js: / FEAsom Eset » RRBRKA SRO ASF lag
+src/utils/encryption.js: return TtbJtamt Qe,
+src/utils/encryption.js: 。consoteerror(「 ogee. » error);
+src/utils/encryption. js: Es ['string’. []]
+src/utils/encryption. js:
+Sumani wie eae ae: flea? DF
+Sre/routes/auth. routes. 3s:/) SESE cee
+src/routes/auth routes. js:route
+Seueuiss/euin routes.js: // iAFAgetflec2!
+fl B2Cflad

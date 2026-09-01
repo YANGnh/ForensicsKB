@@ -1,0 +1,8 @@
+# OCR: be2898e08783ce9e3397d652f05b8eee.webp
+# 来源: .\02-WriteUp\2025\be2898e08783ce9e3397d652f05b8eee.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+PS E:\Forensic Kits\HarmonyEmulator\toolchains> ./hdc file recv /data/app/el2/190/database/com. example. pgsdsj/entry/rdb
+FileTransfer finish, Size:41217, File count = 5, time:308ms rate:133.82kB/s
+PS E:\Forensic Kits\HarmonyEmulator\toolchains> |

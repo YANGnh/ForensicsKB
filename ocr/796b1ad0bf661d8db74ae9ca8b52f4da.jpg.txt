@@ -1,0 +1,10 @@
+# OCR: 796b1ad0bf661d8db74ae9ca8b52f4da.jpg
+# 来源: .\02-WriteUp\2024\796b1ad0bf661d8db74ae9ca8b52f4da.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+[ abRocDovizeSMisx 园nan 口 P B5 - 口 t Bg
+1 SELECT username,email FROM "User" WHERE id = ‘enfa6adplifi3ffos7bpduynny’
+G2 8= SRI
+username email
+Pont got@163.com

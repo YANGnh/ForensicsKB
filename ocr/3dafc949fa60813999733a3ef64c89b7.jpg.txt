@@ -1,0 +1,31 @@
+# OCR: 3dafc949fa60813999733a3ef64c89b7.jpg
+# 来源: .\02-WriteUp\2024\3dafc949fa60813999733a3ef64c89b7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+> PentestTools > framvuln > mimikatz trunk
+E
+[3] mimidrv.sys
+© mimikatzexe
+[3] mimi.
+[3] mimispoolall
+口 mmanp
+E
+E
+2013/1/22 9:07
+2021/8/10 23:22
+2021/8/10 23:22
+2021/8/10 23:22
+2021/8/10 23:22
+E
+x
+页 R
+E
+E
+DMP se
+E
+37 KB
+1,324 KB
+57 KB
+31 KB
+33,267 KB

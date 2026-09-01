@@ -1,0 +1,22 @@
+# OCR: 28e27751d7e5751ed008b6990f2baa1a.jpg
+# 来源: .\02-WriteUp\2024\28e27751d7e5751ed008b6990f2baa1a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+A see
+d POST /Login/ValidateLogin HTTP/1.1
+2Host: 112.124. 62.187:8680
+3 Content-Length: 29
+4 Accept: application/json, text/javescript, */*; q=0.61
+5 X-Requested-With: XMLHttpRequest
+6 User-Agent: Mozilla/S.@ (Windows NT 10.0; Win64; x64) AppleWebKit/S37.36 (KHTML, like Gecko) Chrome/112
+7 Content-Type: application/x-wwi-form-urlencoded; charset-UTF-8
+8 Origin: http://112.124, 62.187: 8080
+Referer: http://112. 124,62. 187 :8080/Login/ index
+18 Accept-Encoding: gzip, deflate
+11 Accept-Language: zh-CN,zh;q=0.9
+12 Cookie: Hm_lvt_See3ec23e73c6dcda2c7c9c489c151aa=1711684076; Hm_Ipvt_See3ec23e73c6dcda2c7c9c489C1 Sia:
+13 Connection: close
+14
+15 userName=admin&passuord=admin
+16

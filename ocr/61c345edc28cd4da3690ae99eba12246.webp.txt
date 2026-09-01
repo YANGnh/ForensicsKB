@@ -1,0 +1,34 @@
+# OCR: 61c345edc28cd4da3690ae99eba12246.webp
+# 来源: .\02-WriteUp\2025\61c345edc28cd4da3690ae99eba12246.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+5 件 编 辑 项 目 工 具 帮 助 (H)
+一
+项 目 文 件 夹
+CameraWebServer
+CameraWebServerino “app_htipd.cpp camera_indexh camera_pins.h c
+31
+32
+33
+34
+35
+36
+37
+38
+39
+46
+41
+42
+43
+//#define CAMERA_MODEL_ESP32S3_CAM_LCD
+//#define CAMERA_MODEL_DFRobot_FireBeetle2_ESP32S3 // 1
+//#define CAMERA_MODEL_DFRobot_Romeo_ESP32S3 // Has PSF
+#include “camera_pins.h"
+/
+// Enter your WiFi credentials
+/ =
+const char *ssid = "CMCC-702";
+const char *password = "88888889";
+void startCameraServer();
+void setupLedFlash(int pin);

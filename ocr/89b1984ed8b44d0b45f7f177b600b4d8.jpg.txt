@@ -1,0 +1,10 @@
+# OCR: 89b1984ed8b44d0b45f7f177b600b4d8.jpg
+# 来源: .\02-WriteUp\2024\89b1984ed8b44d0b45f7f177b600b4d8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+(ee 个 MSET 关 莲 tsqL () BR , 图 乡 # - 厂 sass oly eee
+口 Menetoesz |) fl main v] Da - Oat fame
+1 SELECT SUM(amount) FROM transactions WHERE cat_id = 19 AND created date >= '2022-03-01' AND created date <= '2023-12-@1'
+SUM(amount)
+0 6042

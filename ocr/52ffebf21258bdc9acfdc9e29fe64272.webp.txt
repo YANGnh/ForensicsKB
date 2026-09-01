@@ -1,0 +1,36 @@
+# OCR: 52ffebf21258bdc9acfdc9e29fe64272.webp
+# 来源: .\02-WriteUp\2024\52ffebf21258bdc9acfdc9e29fe64272.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+in
+一
+E
+国 secasent
+(0 System Volume Information
+圆 suns
+国 朱8
+巳 国 REM ER
+国 t
+<
+>
+BS imc _20231003_152832.jpg
+BS imc _20231003_174239.jpg
+BS imc _20231003_212941.jpg
+BS imc _20231004_100951.jpg
+BS imc _20231021_191545.jpg
+四 imc _20231102_183944,jog
+BS imc _20231102_184042.jpg
+BS imc _20231103_175608.jpg
+BS imc _20231105_214409.jpg
+3 imc _20231118_131558.jog
+四 imc _20231126_185924,jog
+BS imc _20231128_183039.jpg
+四 IMG _20231129_164835.jpg
+@ Selected Fe "IMG_20231123_164835.jpa" with own size 2314871 bytes.
+IMG_20231129_164835.jpg
+Picture
+Modified: 29,11,2023 23:51:44
+Size: 2B
+view @) sweas.
+eeceoeeeeeeoeece

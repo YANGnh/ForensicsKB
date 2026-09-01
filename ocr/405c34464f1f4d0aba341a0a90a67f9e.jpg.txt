@@ -1,0 +1,26 @@
+# OCR: 405c34464f1f4d0aba341a0a90a67f9e.jpg
+# 来源: .\02-WriteUp\2024\405c34464f1f4d0aba341a0a90a67f9e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a 农 symbol.
+#
+# For example:
+#
+# “102549497 ihinoacmecom # source server
+# 3825.63.10 x.acme.com # x client host
+# localhost name resolution is handled within DNS itself.
+# 127.0.0.1 localhost
+# localhost
+192.168.47.133 www.hl2023.cn

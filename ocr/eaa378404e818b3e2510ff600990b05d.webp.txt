@@ -1,0 +1,36 @@
+# OCR: eaa378404e818b3e2510ff600990b05d.webp
+# 来源: .\02-WriteUp\2026\eaa378404e818b3e2510ff600990b05d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:44
+
+[rootGmaster81 yum. repos.d]# kubectl get cm -o yamL -n kube-system kubeadm-config
+apiVersion: v1
+data:
+ClusterConfiguration: |
+apiServer:
+extraArgs:
+authorization-mode: Node ,RBAC
+timeoutForControlPlane: 4m0s
+apiVersion: kubeadm.K85. io/vibeta3
+certificatesDir: /etc/kubernetes/pkt
+cLusterName: kubernetes
+controllerManager: {}
+dns: {}
+etcd:
+local:
+dataDir: /var/lib/etcd
+imageRepository: registry.aliyuncs.com/google_containers
+kind: ClusterConfiguration
+kubernetesVersion: v1.22.2
+networking:
+dnsDomain: cluster.local
+podSubnet: 10.244.0.0/16
+serviceSubnet: 10.96.0.0/16
+scheduler: {}
+kind: ConfigMap
+metadata:
+creationTimestai
+name: kubeadm-co
+namespace: kube-syst
+resourceVersion: "198"
+uid: 6d8a4dd5-3856-4a87-ae17-2aldf4ebb96c

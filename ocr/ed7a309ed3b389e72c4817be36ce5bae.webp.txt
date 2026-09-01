@@ -1,0 +1,48 @@
+# OCR: ed7a309ed3b389e72c4817be36ce5bae.webp
+# 来源: .\02-WriteUp\2024\ed7a309ed3b389e72c4817be36ce5bae.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+{B getprop.txt
+(B ifconfig.txt
+2024/9/5 3:20 IXT 文 件 24 KB
+2024/9/5 3:20 TXT HE 2KB
+B lst 国 ifconfott - Notepad2
+B list File Edit View Settings 2
+ict 2S Ud
+list
+Bu 11o
+园 东
+9
+10 dummyO
+11
+12
+13
+14
+15
+16
+17
+18Wan0
+义 逊 | 的 生 | 国 | @ | 囡 鲁 | 职
+Link encap:UNSPEcC
+inet addr:127.0.0.1 Mask:255.0.0.0
+inet6 addr: ::1/128 Scope: Host
+UP LOOPBACK RUNNING MTU:65536 Metric:1
+RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+collision: txqueuelen: 1000
+RX bytes:0 TX bytes:0
+Link encap:UNSPEC
+inet6 addr: fe80::c0bd:5dff:fe45:9330/64 Scope: Link
+UP BROADCAST RUNNING NOARP MTU:1500 Metric:1
+RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+TX packets:22 errors:0 dropped:0 overruns:0 carrier:0
+collisions:0 Exqueuelen:1000
+RX bytes:0 TX bytes:1540
+iver cnss_pci
+Bcast:192.168.1.255 “Mask:255.255.255.0
+::f4df:dcff:fefl:68f1/64 Scope: Link
+UP BROADCAST RUNNING MULTICAST MTU:1500 Metric:1
+RX packets:2276427 errors:0 dropped:0 overruns:0 frame:0
+collisions:0 txqueuelen: 3000
+RX bytes: 3079399538 TX bytes:89522635

@@ -1,0 +1,75 @@
+# OCR: 5f0d2eeb79bd0b58b18a604520eb500d.jpg
+# 来源: .\02-WriteUp\2024\5f0d2eeb79bd0b58b18a604520eb500d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+@ UserInfocontroller
+E
+134
+143
+E
+145
+E
+147
+E
+152
+E
+161
+162
+163
+164
+166
+167
+E
+4
+172
+173
+175
+176
+E
+179
+E
+186
+187
+189
+e
+jetMapping({"/{id}"}
+eAuthorize("@ss.hasPermi('app:user_info
+ublic AjaxResult getInfo(@PathVariable("id") Long id) {
+return AjaxResult. success this .userInfoService. selectUserInfoById(id))
+(title - “RIABIR", businesstype - GusinessType. INSERT)
+‘Mapping
+8 ("@ss.hasPermi (' app:user_info:add’)”)
+public AjaxResult add(GRequestBody UserInfo userinfo) {
+userinfo. setPudupdateState(1);
+userInfo. setPassuord (EncryptionUtils.encryPasshord(userInfo.getPassword(), "!G#qaaxcfvghhj11j788+)_)(("))s
+int i = this.userInfoService. insertUserInfo(userInfo) ;
+if (2 > 0) {
+‘this.userlialletService.updatePassword(userInfo.getId(), userinfo. getPayPassword())
+return toAjax(i);
+@Log(title
+@PutMapping
+@Preauthorize("@ss.hasPermi(‘app:user_info:edit')")
+public AjaxResult edit(@RequestBody UserInfo userinfo) {
+UserInfo modify = new UserInfo();
+modify.setId(userInfo.getId()) 5
+if (userInfo.getHeadImage() |= null) {
+modify. setHeadImage(userInfo.getHeadImage()) 5
+FRAME", businesstype
+BusinessType.UPDATE)
+if (userInfo.getNickName() != null) {
+modify .setNickName(userInfo. getNickName()) 5
+UserInfo info = this.userInfoService. selectUserInfoById(userInfo.getId())+
+if (info.getPudupdateState() == null) {
+if (Stringutils.isNotempty (userInfo.getPassword())) {
+modify. setPassword(EncryptionUtils.md5(userInfo.getPassword())) 5
+1
+} else if (info.getPudupdatestate().equals(1)) {
+if (Stringutils.isNotempty (userInfo.getPassword())) {
+modify. setPassword(EncryptionUtils.encryPassiord(userInfo.getPassword(), "!@*qaaxcfvghhj11j788+)_)(("))5
+}
+} else if (info. getPudupdateState().equals(2) && StringUtils.isNotEmpty(userInfo.getPassword())) {
+modify. setPassword(AESUtil.encrypt(userInfo.getPassword())) 5
+Af (Steingutils.iswotempty (userinfo. getPayPassword())) 1
+‘this userlialletService.updatePassword(userInfo.getId(), userinfo. getPayPassword()) 5
+return toAjax(this.userInfoService.updateUserInfo(modify))

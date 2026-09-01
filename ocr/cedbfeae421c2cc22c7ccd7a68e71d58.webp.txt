@@ -1,0 +1,32 @@
+# OCR: cedbfeae421c2cc22c7ccd7a68e71d58.webp
+# 来源: .\02-WriteUp\2025\cedbfeae421c2cc22c7ccd7a68e71d58.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+E
+1903 64bit Office...
+怡 Win7
+64bit,Office2013
+E
+Time & API
+57325/10/20 12:52:23
+CopyFilew
+Time & API
+57326/05/16 12:26:10
+CopyFilew
+Arguments Status
+fail_if_exists: 0 1
+oldfilepath: C:AUsers\Administrator\Desktop\BwAcrexe
+oldfilepath r: CAUsers\Administrator\Desktop\BwAcrexe
+newfilepath: C:\Users\Administrator\AppData\Roaming\SubDir\BwAcrex
+newfilepath_r: C:\Users\Administrator\AppData\Roaming\SubDin\BwAcr.
+Arguments Status
+fail_if_exists: 0 1
+oldfilepath: CAUsers\Admin\Desktop\lupg.exe
+oldfilepath +: CAUsers\Admin\Desktop\lupg.exe
+newfilepath: C:Users\Admin\AppData\Roaming\SubDin\ BwAcrexe
+newfilepath_r: C:\Users\Admin\AppData\Roaming\SubDin\BwAcrexe
+2 RS
+Return
+Return
+A

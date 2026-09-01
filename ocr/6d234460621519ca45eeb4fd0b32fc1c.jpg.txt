@@ -1,0 +1,29 @@
+# OCR: 6d234460621519ca45eeb4fd0b32fc1c.jpg
+# 来源: .\02-WriteUp\2024\6d234460621519ca45eeb4fd0b32fc1c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+TB Attack Save Columns 3. Intruder attack of http://192.168.217,188:7788 - Temporary attack - Not saved to project file
+Results Positions 。Poyowds 。Recocepeal 。Setngt
+Status code Error Timeout Length Comment
+Request Response
+Pretty Raw Hex Render
+1 HITP/1. 1 200 OK
+2 Date: Sun, 09 Jun 2024 07:05:44 GMT
+3 Server: Apache
+4 Set-Cookie: ocKey=61697acVe82a044925208e152blbc4e3; expires=Sun, 09-Jun-2024 08:
+5 Upgrade: h2
+6 Connection: Upgrade, close
+T Vary: Accept-Encoding
+8 Content-Length: 1042
+3 Content-Type: text/html; charset=UIF-8
+10
+11 <{DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN” “hetp://wwr. w3. org/TR/xhtml1/D1D/xhtml1-transitional. ded”>
+12 html xmins="http://wmw. 93. org/1999/xhtml”>
+5 <head>
+HetpOnly,
+44 GMT; Max-Age=3600; patl
+14 <meta http-equiv="Content-Type” content="text/html; charset=utf-8" 广
+15 <title>
+E
+</title>

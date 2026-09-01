@@ -1,0 +1,39 @@
+# OCR: e5000080a0a0fed32c0bfebd9c7130e9.webp
+# 来源: .\02-WriteUp\2025\e5000080a0a0fed32c0bfebd9c7130e9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+noah@DESKTOP-8RM6690
+May
+May
+May
+May
+May
+May
+May
+15
+15
+15
+15
+15
+15
+15
+16:19:26
+16:19:26
+16:19:26
+16:19:26
+kal
+kali
+kali
+kali
+kali
+kali
+kali
+/m/d/j/daf7e906a0214e6c8e0a957ab4826c47 [SIGINT]> journalctl -0 . -r
+kernel: PM: hibernation: hibernation entry
+systemd-sleep[72046]: Performing sleep operation “hibernate 「 …
+systemd-sleep[72046]: Successfully froze unit 'user.slice'.
+systemd[1]: Starting systemd-hibernate.service - System Hibernate...
+systemd[1]: Reached target sleep.target - Sleep.
+NetworkManager|771]: <info> 1747297166 .0786] device (ethO): state ch
+NetworkManager[771]: <info> [1747297166.0747] device (etho): state ch

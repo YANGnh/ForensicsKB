@@ -1,0 +1,10 @@
+# OCR: e790d72b927653fb163cce61f5bb91fa.webp
+# 来源: .\02-WriteUp\2025\e790d72b927653fb163cce61f5bb91fa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+ee ee ence ea Se
+$2 = 0x595fa40 "Flag2{hong}"
+(gdb) call (char *)decrypt("dn3XwBR4qc+1V4WB6ZxROA=")
+$3 = OxSacbe00 "FICerisgood"
+(gdb) |

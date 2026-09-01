@@ -1,0 +1,19 @@
+# OCR: a48a8fbf0e8201192741223e683f3094.jpg
+# 来源: .\02-WriteUp\2024\a48a8fbf0e8201192741223e683f3094.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+奚 PROXMOXvnuasmonments14 ,
+XSL 立 | cais
+E
+日 DC8 Q BR
+BBs 1
+口 ein
+100 (Router)
+101 (nodet)
+102 (node2)
+103 (node3)
+111 (avaserver)
+112 (sqlserver)
+120 (luck)
+be

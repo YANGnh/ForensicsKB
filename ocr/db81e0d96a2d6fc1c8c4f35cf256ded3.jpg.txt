@@ -1,0 +1,19 @@
+# OCR: db81e0d96a2d6fc1c8c4f35cf256ded3.jpg
+# 来源: .\02-WriteUp\2024\db81e0d96a2d6fc1c8c4f35cf256ded3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+口 , 出 pxettar/ data / data / comhid.anzenbokusufake
+Bess san
+口 1 Wi app webview (21)
+口 2 — Bi cache (16)
+口 3 (Wi databases (6)
+口 4 酮 no backup (1)
+os Wi shared prefs (411)
+: com.hid.anzenbokusufake
+eB: MA
+Ad: OB
+MetaAddr: -1
+8 Pixel.tar/data/data/com-hid.anzenbokusufake
+州 R ANE
+E

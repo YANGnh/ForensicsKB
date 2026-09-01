@@ -1,0 +1,30 @@
+# OCR: 111a6ceee566ebfbec8ad8458b784a7c.jpg
+# 来源: .\02-WriteUp\2024\111a6ceee566ebfbec8ad8458b784a7c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+【rootelocalhost ~]# docker start
+3b
+a2
+[root@locathost -]# docker ps
+CONTAINER ID IMAGE
+NAMES
+abascbaeefe nysql:5-7
+3306/tcp _ mysql-web
+adaae89e3ac8 redts
+redis-web.
+[root@locathost ~]# D
+3b a2
+COMMAND
+"docker-entrypoint.s_”
+“docker-entrypoint.s_”
+CREATED.
+2 months ago
+2 months ago
+STATUS
+Up 5 seconds
+Up 2 seconds
+PORTS
+33060/tcp, ©.0.0.0:13306->
+0.0.0.
+:16379->6379/tcp

@@ -1,0 +1,26 @@
+# OCR: a0de216940b7e25be7b9b634d99ee515.jpg
+# 来源: .\02-WriteUp\2024\a0de216940b7e25be7b9b634d99ee515.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:37
+
+[i aHROcDovizeSMi4x [ 国 man v] Digs - 一 吴 Dame
+1 SELECT user_id message, create_at FROM “Post” WHERE channel,_id = 'yqSzq14ng7Fdpyagpxtscydtjw" ORDER BY create_at
+G2 8 SRI
+userid message create_at
+enfa63dp1ifi3fos7bpduynny gat joined the channel. 1713931168391
+enf863dp1ifi3fos7bpduynny maoxueliu added to the channel by gxyt. 1713931187950
+enfa63dp1ifi3ffos7bpduynny RIFLES 1713933142391
+aqceyadrxbrajq8bpuk89wrtuw AQEISBSRETiu BREE 1713933218354
+aqceyadrxbrajq8bpuk89wrtuw DERE ASW 1713933244266
+aqceyadrxbrajq8bpuk89wrtuw SRE ESR 1713933290693,
+enf863dp1ifi3fos7bpduynny 玲 BEREEIESHSIIAE LRBam— 1713933455479
+aqceyadrubrajq8bpuk89wrtuw TORR 1713933488803,
+aqceyadrxbrajq8bpuk89wrtuw RELATE NF S80208088- 1713943137725,
+aqceyadrxbrajq8bpuk89wruw ATT, EN HREERUS 1713943197656
+enfa63dp1ifi3ffos7bpduynny EEASORI& 1713943323189
+aqceyadrxbrajq8bpuk89wrtuw ADBESTT 30, BEDE 1713943477827
+aqceyadrxbrajq8bpuk89wrtuw BREBNARRDA 1714011353899
+aqceyadribrajq8bpuk89wrtuw REESE 1714011369772
+aqceyadrxbrajqSbpuk89wrtuw RENEE 1714011390454
+) enf863dp tifsHos7bpduynny FU, REARESS BHT, MEST
+aqceyadrxbrajq8bpuk89wrtuw 570 1774011899390

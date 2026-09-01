@@ -1,0 +1,16 @@
+# OCR: 4a825bf54c579d6ea43937aee95717ec.webp
+# 来源: .\01-取证技巧\04-隐写文件\4a825bf54c579d6ea43937aee95717ec.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:11
+
+Type: IHDR
+Size: 13
+CRC: 5412913F
+Pos: 33
+Type: IDAT
+Size: 10980
+CRC: 98F96EEB
+Pos: 11025
+Type: IEND
+Size: 0
+CRC: AE4

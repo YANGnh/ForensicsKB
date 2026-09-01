@@ -1,0 +1,10 @@
+# OCR: ea14d6a3d16d7fb164d27e7ca9dc7a94.webp
+# 来源: .\02-WriteUp\2024\ea14d6a3d16d7fb164d27e7ca9dc7a94.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+d
+app
+name: UGE
+user_name: 47892eff-bf47-430f-af4a-26d5992e2013
+password: 2957aad5-0F29-4575-86c0-6504e5154eF4

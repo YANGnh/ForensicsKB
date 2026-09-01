@@ -1,0 +1,11 @@
+# OCR: 9bed62fc9e2a7abab5b1cb211beea9ce.webp
+# 来源: .\02-WriteUp\2026\9bed62fc9e2a7abab5b1cb211beea9ce.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+NOQARN 7
+3
+序 一 , 姓 锋 相 性 死 , 年 8 身 份 证 号 “ 联 系 电 话 “ 地 址
+“ 职 务
+86 雷 宇 轩 男 32, 501114199109256000 13834567890 重 庆 市 江 津 区 几 江 街 道 大 同 路 123 号
+交 通 运 输 局 公 路 规 划 设 计 科 员

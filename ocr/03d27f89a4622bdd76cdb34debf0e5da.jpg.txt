@@ -1,0 +1,91 @@
+# OCR: 03d27f89a4622bdd76cdb34debf0e5da.jpg
+# 来源: .\02-WriteUp\2024\03d27f89a4622bdd76cdb34debf0e5da.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:21
+
+Rex +
+root@pve:~# qm list
+VMID NAME
+109 Router
+101 node1
+102 node2
+103 node3
+111 javaserver
+112 sqlserver
+120 luck
+root@pve:~# qm stop 102
+trying to acquire lock...
+OK
+root@pve:~# qm start 102
+WARN: no efidisk configured! Using temporary efivars disk.
+Task finished with 1 warning(s)!
+root@pve:~# qm list
+VMID NAME
+109 Router
+101 node1
+102 node2
+103 node3
+111 javaserver
+112 sqlserver
+128 luck
+root@pve:~# []
+STATUS
+running
+running
+running
+stopped
+stopped
+stopped
+stopped
+STATUS
+running
+running
+running
+stopped
+stopped
+stopped
+stopped
+MEM(MB)
+256
+4096
+4096
+4096
+2048
+4096
+4096
+MEM(MB)
+256
+4096
+4096
+4096
+2048
+4096
+4096
+8.50
+50.60
+50.00
+50.00
+20.00
+80.00
+60.00
+BOOTDISK(GB)
+0.58
+50.00
+50.00
+50.00
+20.00
+80.60
+60.00
+BOOTDISK(GB) PID
+1200
+1323
+2189
+6
+6
+6
+6
+PID
+1200
+1323
+2928
+20200

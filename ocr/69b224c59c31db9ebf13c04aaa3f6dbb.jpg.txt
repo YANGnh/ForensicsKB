@@ -1,0 +1,11 @@
+# OCR: 69b224c59c31db9ebf13c04aaa3f6dbb.jpg
+# 来源: .\02-WriteUp\2024\69b224c59c31db9ebf13c04aaa3f6dbb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+[ Clara_Smartphone.bin
+[1 David Laptop 64GB.c01
+[Hi David Smartphone_1.zip
+[7 David_usB_868.¢01
+[Hd Emma Mobile _Imagezip
+i] RAM Capture David Laptop.rar

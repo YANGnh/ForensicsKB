@@ -1,0 +1,107 @@
+# OCR: 70b916e85decf498f9109cf79bcbe348.jpg
+# 来源: .\02-WriteUp\2024\70b916e85decf498f9109cf79bcbe348.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+root@OpenWrt:/# netstat -anpt
+Active Internet connections (servers and established)
+Proto Recv-Q aend-
+tep 6
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep
+tep 0
+root@openwrt:/# []
+coooooooooo c o e co e e c
+c
+0
+coooooocooocoe co c e o e
+Local Address
+0.0.0.0:443
+0.0.0.0:8080
+127.0.0.1:53
+192.168.100.1:53
+0.0.0.0:22
+192.168.71.100:53
+192.168.71.100:8080
+192.168.71.100
+192.168.71.100:8080
+192.168.71-100:8080
+192.168.71.100
+192.168.71.100:8080
+£d24:2c£2:d6£B::1:53
+Foreign Address
+0.0.0.
+0.0.0.0:
+0.0.0.
+0.0.0.
+0.0.0.
+0.0.0.
+192.168.71.1:36098
+192.168.71.1:36088
+192.168.71.1:36100
+192.168.71.1:36092
+192.168.71.1:36095
+192.168.71.1:36099
+192.168.71.1:36091
+192.168.71.1:36089
+state
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+ESTABLISHED
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+LISTEN
+‘LISTEN
+PID/Program name
+1824/uhttpd
+1824/uhttpd
+2770/dnsmasq
+2770/dnsmasq
+1343/dropbear
+2770/dnsmasq
+1824/uhttpd
+1824/uhttpd
+1824/uhttpd
+1824/uhttpd
+1824/uhttpd
+1824/uhttpd
+1824/uhttpd
+1824/uhttpd
+2770/dnsmasq
+1824/uhttpd
+2770/dnsmasq
+1824/uhttpd
+2770/dnsmasq
+1343/dropbear
+2770/dnsmasq

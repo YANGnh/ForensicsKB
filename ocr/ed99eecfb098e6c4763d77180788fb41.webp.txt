@@ -1,0 +1,59 @@
+# OCR: ed99eecfb098e6c4763d77180788fb41.webp
+# 来源: .\02-WriteUp\2024\ed99eecfb098e6c4763d77180788fb41.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+Reswtcsaes
+> wae
+Uneweae
+nodmsees
+Naaseas
+203
+121
+203
+LocalAddr
+192.168.217.172
+127.001
+127.001
+00.00
+00.00
+LocalPort
+53000
+53001
+53002
+54257
+55030
+55030
+55075
+188593670106064
+188593670099664
+188593670102064
+188593671047040
+188593634693792
+188593625923072
+188593625923072
+188593658143088
+svchostexe
+svchostexe
+SunloginClient
+SunloginClient
+svchostexe
+svchostexe
+rustdeskexe
+PID
+8780
+8780
+8780
+5456
+5456
+1124
+1124
+4728
+Uopv6
+uopvi
+Uopvt
+upPv4
+uopvt
+uopvi
+Uopb
+Uope

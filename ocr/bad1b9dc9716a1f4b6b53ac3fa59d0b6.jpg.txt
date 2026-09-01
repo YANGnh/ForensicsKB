@@ -1,0 +1,36 @@
+# OCR: bad1b9dc9716a1f4b6b53ac3fa59d0b6.jpg
+# 来源: .\02-WriteUp\2024\bad1b9dc9716a1f4b6b53ac3fa59d0b6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+E
+历 6S 白
+口 口 口 口 口 口 智 暮 原 口 口 口 里 量 量 益 盗 量 命 命 量 量 国 深 量 量 薛
+libea
+mbr
+vmimages
+mtoolsre
+altbootbank
+bootbank
+bootpart.gz
+bootpartdkn.gz
+localtgz
+locker
+productLocker
+sbin
+scratch
+store
+vmupgrade
+2024 FIC BRSSSS
+x
+Bex +
+The time and date of this login have been sent to the system logs.
+WARNING-
+ALL commands run on the ESXi shell are logged and may be included in
+support bundles. Do not provide passwords directly on the command line.
+Most tools can prompt for secrets or accept them from standard input.
+VMware offers supported, powerful system administration tools. Please
+see wuw.vmware.con/go/sysadmintools for details.
+The ESXi Shell can be disabled by an administrative user. See the
+vSphere Security documentation for more information.
+[root@locathost :~] []

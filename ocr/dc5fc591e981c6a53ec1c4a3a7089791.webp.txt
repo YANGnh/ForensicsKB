@@ -1,0 +1,32 @@
+# OCR: dc5fc591e981c6a53ec1c4a3a7089791.webp
+# 来源: .\02-WriteUp\2025\dc5fc591e981c6a53ec1c4a3a7089791.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+界 docker-composeyml Edhlog X
+D: > heygem_data > face2face > log > = dhilog
+| unico haracters Di ghlig
+process.py[line:108]] [INFO] [>>> audio_transfer get message:103]
+215 》 任 务 最 终 合 成 结 果 Aa ab, 咛 |1of7 个 人 三 X
+216 process. py[line:1@8]] [INFO] [[193] -> chaofen cost:0.3582277297973633s]
+217 _internal.py[line:96]] [INFO] [172.18.0.1 - - [13/May/2025 14:53:24] "GET /easy/query?code=9aabbd22-b1ba-4339-8b@d-ce5b926c5d79 HTTP/1.1" 200 -] al
+218 _internal.py[line:96]] [INFO] [172.18.0.1 - - [13/May/2025 14:53:26] "GET /easy/query?code=9aabbd22-b1ba-4339-8b@d-ce5b926c5d79 HTTP/1.1" 200 -]
+219 process.py[line:108]] [INFO] [audio_transfer >>>>>>>>>>> AIRSERBGEA\:3, frameId:103, cost:4.644069671630859s ]
+226 process.py[1ine:168]] [INFO] [>>> audio_transfer get exception msg: -1]
+]
+]
+]
+]
+]
+]
+221 ] [process.py[1ine:168]] [INFO] 【[9aabbd22-blba-4339-8bed-ce5b926c5d79] 任 务 数 字 人 图 片 处 理 已 完 成 ]
+222 ] [process.py[line:108]] [INFO] 【[9aabbd22-blba-4339-8bed-ce5b926c5d79] 视 频 恭 队 列 处 理 已 结 束 ]
+223 ] [process.py[1ine:168]] [INFO] [command:ffmpeg -loglevel warning -y -i /code/data/temp/def3b8fe-867b-4c5d-9db3-2bbd9cd7a839.wav -i /code/data/temp/9aabbd22-blba-4339-8bed-ce
+224 ] [_internal.py[line:96]] [INFO] [172.18.8.1 - - [13/May/2@25 14:53:28] "GET /easy/query3code=9aabbd22-blba-4339-8bgd-ce5b926c5d79 HTTP/1.1" 200 -]
+225 J [_internal.py[line:96]] [INFO] [172.18.8.1 - - [13/May/2@25 14:53:30] "GET /easy/query?code=9aabbd22-b1ba-4339-8b@d-ce5b926c5d79 HTTP/1.1" 200 -]
+226 ] [process.py[line:108]] [INFO] [ 后 处 理 迹 程 结 束 ]
+227 ] [_internal.py[line:96]] [INFO] [172.18.8.1 - - [13/May/2@25 14:53:32] "GET /easy/query?code=9aabbd22-b1ba-4339-8b@d-ce5b926c5d79 HTTP/1.1" 200 -]
+228 ] [threading.py[1ine:870]] [INFO] [[9aabbd22-blba-4339-8bed-ce5b926c5d79 ] 信 驿 唐 姑 目 频 猬 醒 ,/oaabbd22-blba-4339-8bed-ce5b926c5d79-r.mp4]
+229 “ ] [threading.py[1ine:870]] [INFO] [>>> 任 务 :9aabbd22-blba-4339-8bed-ce5b926c5d79 耗 时 :157.81936693191528 ]
+238 ] [_internal.py[line:96]] [INFO] [172.18.8.1 - - [13/May/2@25 14:53:34] "GET /easy/query?code=9aabbd22-b1ba-4339-8b@d-ce5b926c5d79 HTTP/1.1" 200 -] 1
+231 ] [cv_logging.py[line:27]] [INFO] [Use default multi mode: multi-thread, or you can set env ‘'CV_MULTI_MODE' to multi-process/torch-process] ve

@@ -1,0 +1,20 @@
+# OCR: bd26c0a3eded60c1f3a448f8ba94cb86.jpg
+# 来源: .\02-WriteUp\2024\bd26c0a3eded60c1f3a448f8ba94cb86.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+WE 国 Fie @main (aHROcDovizESMi4xNigu...| TH Post @main (sHROcDovizESMi4xNig... 孙 “ 无 5 - Sa)
+(ee , 个 MSIT 欣 csqL () hme
+E
+v| Das Os Pome
+SELECT * FROM “Post” WHERE id IN (SELECT post_id FROM File WHERE name LIKE 'X.mp4')
+[1 abROcDovizeSMidx | main
+俊 gE SRI
+changed status channel id create_at deleteat edit at
+> hetcin&bnbd7meywjpmk3z9dhh
+1713945630693 6
+created ——_dpayctmaiffimjunikk3igi8h;
+6
+is pinned
+6
+message

@@ -1,0 +1,48 @@
+# OCR: 69d172ba4a50e0841af46925db37a622.jpg
+# 来源: .\02-WriteUp\2024\69d172ba4a50e0841af46925db37a622.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+2
+a
+public class MainActivity extends AppCompatactivity {
+public String bi;
+public Button btn;
+public String key;
+public EditText keyText;
+厂 a INFO: Access modifiers changed fron: protected */
+Govercide // androids. Fragment. app. Fragnentactivity, androidx. activity. Conponentactivity, androtds. core. app. Conponer
+public void oncreate(Bundle savedinstancestate) {
+super .onCreate(savedinstanceState);
+setcontentView(R. layout.activity. main);
+this.keyText = (EditText) findView8yTd(R.id.key text);
+Button button = (Button) findViewBytd(R.id.btn);
+this.btn = buttons
+button. setonClickListener(new View.OnClickListener() ( // from class:
+Govercide // android. view. View. OncLickListener
+public void onclick(View view) {
+Mainactivity mainactivity = MainActivity.this;
+mainActivity key = mainActivity.keyText.getText()-toString()s
+try {
+Nainactivity mainactivity2
+new end()3
+mainActivity2.bL = ent.encrypt(MainActivity.this.key);
+} catch (InvalidalgorithnParaneterexception e) {
+e.printstackTrace();
+} catch (Invalidkeyéxception 2) {
+e2.printstackTrace();
+} catch (NoSuchalgorithnéxception €3) {
+€3.printstackTrace();
+} catch (BadPaddingexception ©4) {
+ef. printstackTrace();
+} catch (TLlegalBlocksizeéxception e5) {
+e5.printstackTrace()3
+} catch (NoSuchPaddingexception e6) {
+e6.printstackTrace()3
+com. hl. verify.MainActivity.2
+Mainactivity.thiss
+if (Mainactivity this.bL.trim() .equals( *tPbni2acliaggpalleDzHudakyiseufsoasacbsldRoHs
+Toast makeText(Mainactivity this, “SEM 不 符 明 1 1).shou();
+} else {
+Toast.makeText tiainactivity.this, “EINE, SEI
+2 2) -show()s

@@ -1,0 +1,12 @@
+# OCR: cf7440e2087bc111be26aefa8a315cc2.webp
+# 来源: .\02-WriteUp\2024\cf7440e2087bc111be26aefa8a315cc2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+tLencrypt file.exe.exe extracted
+“| encrypt file.py
+encrypt flle;pye
+|| pyinstxtractor,py
+(A tLencrypt fileexe.exe
+( uncompyle6.exe
+BB C\Windows\System32\cmd.exe

@@ -1,0 +1,12 @@
+# OCR: cf1ab6003a9ef08af163601c6f8c34b5.webp
+# 来源: .\02-WriteUp\2024\cf1ab6003a9ef08af163601c6f8c34b5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+© selected File P with own size 10600 bytes.
+This is a Chi
+纳 纳 jpg
+Picture
+Modified: 21.08.2024 11:37:59
+Size: 10 KB
+© view @ sweas..

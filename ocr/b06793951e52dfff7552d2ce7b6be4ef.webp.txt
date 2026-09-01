@@ -1,0 +1,13 @@
+# OCR: b06793951e52dfff7552d2ce7b6be4ef.webp
+# 来源: .\02-WriteUp\2024\b06793951e52dfff7552d2ce7b6be4ef.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+明 a 东
+[ 2824-18-86T28:48:36188:98 ] 192.168.71.1 GET bl.dsnbbaj686.fit/
+[ error ] [e] 数 命 错 浦 : Class“\thinkvdbvconnectorWiongo“not found
+[ 2024-10-06120:48:46+08:00 ] 192.168.71.1 GET bl.dsnbbaj686.fit/
+[ error ] [e] 数 命 错 浦 : Class “\thinkvdbvconnectorWiongo“not found
+[ 2824-18-86T28:57:47488:98 ] 192.168.71.1 GET bl.dsnbbaj686.fit/
+appmanager /common/login. html
+[ error ] [e] 数 命 错 浦 : Class ‘\think\db\connector\Mongo’ not found

@@ -1,0 +1,7 @@
+# OCR: bec4bcf04652b7c490fb2e53e3b74fe1.webp
+# 来源: .\02-WriteUp\2025\bec4bcf04652b7c490fb2e53e3b74fe1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+static compareHash(hash: string, value: string) {
+return new Promise((resolve: (value: boolean) => void)

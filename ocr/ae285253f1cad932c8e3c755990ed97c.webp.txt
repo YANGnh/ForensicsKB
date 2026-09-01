@@ -1,0 +1,23 @@
+# OCR: ae285253f1cad932c8e3c755990ed97c.webp
+# 来源: .\02-WriteUp\2025\ae285253f1cad932c8e3c755990ed97c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+@b © CryptoConfig
+1 package com. facebook. crypto;
+2
+3 /* Loaded from: classes.dex */
+4 public enum Beisecein] 《
+5 KEY_128((byte) 1, 16, 12, 16),
+6 KEY_256((byte) 2, 32, 12, 16);
+8 public final byte cipherId;
+9 public final int ivLength;
+10 public final int keyLength;
+a public final int taglength;
+12
+13 GEYBESCORTIE(byte chiperId, int keylength, int ivLength, int taglength) {
+14 this.cipherId = chiperIdj
+15 this.keyLength = keyLength;
+16 this.ivLength = ivLength;
+17 this.tagLength = tagLength;
+18 )

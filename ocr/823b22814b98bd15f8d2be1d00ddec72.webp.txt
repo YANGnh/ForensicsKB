@@ -1,0 +1,11 @@
+# OCR: 823b22814b98bd15f8d2be1d00ddec72.webp
+# 来源: .\02-WriteUp\2024\823b22814b98bd15f8d2be1d00ddec72.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+R 。 玖
+< 个 [data/data/org.localsend.localsend_app
+Bie Be
+国 code_cache data/data/orglocalsend.localsend_app/code_cache
+files data/data/orglocalsend.localsend_app/files
+国 shared prefs data/data/orglocalsend.localsend_app/shared_prefs,

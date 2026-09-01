@@ -1,0 +1,16 @@
+# OCR: 942ceb2b5bc2a4a5bd6f8c34471710f3.webp
+# 来源: .\02-WriteUp\2024\942ceb2b5bc2a4a5bd6f8c34471710f3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+BP Johessic 木 , 团 s 李 侍 e , 目 玟
+G=ss =en = RRM 世 值
+过 滕 过 滁 了 ie v
+FIRMWARE Dell inc.
+FIRMWARE_VERSION 1313
+SYSTEM_PATH CAWNDows
+18 BES PATH_NAME CAWNDows
+口 19 eR ata LAST_LOGOUT_TIME
+口 20 savas NTFS_LAST_ACCESS_UPDA.. 未 知
+口 21 sempre REGISTER_OWNER John Killer
+22. tra PC_GROUP WORKGROUP

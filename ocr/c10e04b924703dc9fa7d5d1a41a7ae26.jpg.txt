@@ -1,0 +1,22 @@
+# OCR: c10e04b924703dc9fa7d5d1a41a7ae26.jpg
+# 来源: .\02-WriteUp\2024\c10e04b924703dc9fa7d5d1a41a7ae26.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+X@S(ES > _ centos(cQcBE5-616D-ljWK-6VFY-ebkQ-U2GW-znZmhA)/3R1 > SES 口
+>
+Gess , 万 Rs E
+E E VY 8 E
+口 5 root ping 114.114.114.114
+10 root yum -y install nfs-utils rpcbind
+口 M root vi /etc/exports
+口 12 root mkdir /nfs
+口 13 root chmod 777 /nfs
+口 14 root vi /etc/exports
+口 15 root epone-m
+O16 root exportfs
+口 17 root exportfs -1v
+口 18 root exportfs
+口 15 root systemctl start rpcbind.service
+口 20 root systemctl enable rpcbind.service
+口 21 root systemetl start nfs.service

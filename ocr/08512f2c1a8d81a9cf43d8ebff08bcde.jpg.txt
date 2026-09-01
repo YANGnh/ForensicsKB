@@ -1,0 +1,35 @@
+# OCR: 08512f2c1a8d81a9cf43d8ebff08bcde.jpg
+# 来源: .\02-WriteUp\2024\08512f2c1a8d81a9cf43d8ebff08bcde.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+回 _ 日 一 目 node2 x v
+* — fhome/droid mx +
+目 6 @ ©) Co ~ a Welcome to Ubuntu 22.04.4 LTS (GNU/Linux 5.15.6-169-genertc x86_64)
+团 * Documentation: https: //help. ubuntu.com
+Sa iene * Management: ht tps: // Landscape. canonical .com
+口 “
+T System information as of Mon May 20 03:21:50 AM UTC 2024
+al ,
+System Load: @.6167421875
+, Usage of /: 26.5% of 47.88GB
+Memory usage: 1%
+Swap usage: N
+磊 Processes: 147
+a Users logged in: 1
+IPv4 address for docker@: 172 17.0.1
+IPv4 address for enp6s18: 192 i68 100 102
+IPv6 address for enp6s18: fd24-2cf2-d6f8-0-be24-11ff:fe39-fd8a
+* Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+just raised the bar for easy, resiltent and secure K8s cluster deployment.
+R https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+media Expanded Security Maintenance for Applications is not enabled.
+6 updates can be applied immediately.
+opt To see these additional updates run: apt List --upgradable
+Enable ESM Apps to receive additional future security updates.
+See https-//ubuntu_com/esm or run: sudo pro status
+P The List of avatlable updates ts more than a week old.
+To check for new updates run: sudo apt update
+Last login: Mon May 20 63:19:35 2024
+E 里 里 野 明 1 BEEBE
+H

@@ -1,0 +1,44 @@
+# OCR: 3e71da7cca77f8fa88be613b7d570bb4.webp
+# 来源: .\02-WriteUp\2025\3e71da7cca77f8fa88be613b7d570bb4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+Recipe
+Delimiter
+Auto
+Input
+ex7a
+exes
+exel
+oxef
+=
+Output
+exes
+exel
+exef
+exes
+exel
+exf
+exee
+exf
+exef
+exes
+exf
+exee
+exes,
+exef
+exee
+0x67
+[zhaohongzhaohongzhaohongzhaohong
+exef
+exee
+ex670x7a
++08)
+exee
+@x670x7a
+exes
+ex670x7a
+exes
+exel
+E
+日 门 囚 :

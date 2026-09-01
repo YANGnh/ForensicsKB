@@ -1,0 +1,9 @@
+# OCR: c49dfbfae3714738495de15441a12d15.jpg
+# 来源: .\02-WriteUp\2024\c49dfbfae3714738495de15441a12d15.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+C:\Users\Administrator\Desktop\resource_hacker>certutil -hashfile Wechat.exe MD5
+MDS 的 Wechat.exe 睇 席
+f3ca69fa68bea348834a3274f49663f9
+CertUtil: -hashfile 命 令 成 功 完 成

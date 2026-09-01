@@ -1,0 +1,38 @@
+# OCR: 1894809eae6f92eadf44053e12b12f28.webp
+# 来源: .\02-WriteUp\2025\1894809eae6f92eadf44053e12b12f28.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+(Md Wireshark - i883 HTTP if (tep.stream eq 184) - EERE. pcap
+udp”, “target” -anonymous”:true,”.type":"rule”,”. 3, "name": "WEB", "src" ^
+re_port "in", “device”: "wg0"}, “docker "zone"
+sindex":14," “forward”: "ACCEPT", "name":"docker","
+"710\n"}]}, {"jsonrpc”:"2.0", "id
+id” :31, “result”: [0, {"dhcp_lease:
+8,"result”: [0, {"data’
+onlineusers”:4}]},{”
+'192,168.1.138"}, {"expires”:43171, "hostname": "kali", "macaddr" :"98:6E :E8:25:F9:34", "duid” :"01986ee825f934","ipaddr
+.{"expires”:17985, "hostname": "DESKTOP-R7SAHC2” ,"macaddr” :"D4: SD: 64: B8:6 luid” :"@1d45d64b86617" , "ipadd
+thcp6_leases” :[]}]},{"jsonrpc”:"2.0","id":32,"result”:[0, -anonymous” :true,”.type’
+index":0," ise_queries":"1","rebind_protection":"1","
+‘expandhost: 1600", "use_stale_cache”: "3600", "cachesize”
+easefile”:"/tmp/dhcp. leases”, "resolvfile™:
+cket_max":"1232"},"lan”:{"".anonymous”: false, ".type’
+“Leasetime”:"12h","“dhcpv4":"server","dhcpv6": "disabled",
+lifetime” :"2700" , "max_valid_lifetime” :
+-index":2, "interface": "wan", “ign :{".anonymous":false,
+»"leasefile":"/tmp/hosts/odhcpd" ‘usr/sbin/odhcpd-updat
+2[0, ("access": rue), {"jsonrpe’ access” :true}]},
+47c6d8" ,"ipaddr”
+":"192,168.1.244"
+92.168.1.184"}],"
+false,”.type
+ell_density”
+‘laozhaoWIFI_56", "encryption"
+:"radiol", “network”: "1a
+s"key": pone ee :"o" HH
+POST /ubus/?1758619081447 HTTP/1.1
+Host: 192,168.11
+an 23 PEE 2, 10S BA, ZO tu Be,
+“ENE (488) 、 、 8 [ASCH * No delta times
+822: [password1 110

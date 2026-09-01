@@ -1,0 +1,50 @@
+# OCR: 664611d63745f21b539a549ef71ad182.webp
+# 来源: .\02-WriteUp\2024\664611d63745f21b539a549ef71ad182.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+nn -
+E
+g
+Amport aye = -
+‘rom crypte.cipner import AES Comtemteematrenie x TE
+from Ceypte.Utit.Padding inport unpad C: Semen 202496 TEAR M>python decrypt.py secretExcel.encrypted
+Traceback (nost recent call last):
+File. *C:"smmp msmenmaesemmeer 202498 I FRED CE Hd
+decrypt fileCencrypted-path)
+ag
+srypt.py", Line 40, in <module>
+et aecrypt_tile(encrypted.path): en
+ss PE eric err volgen ha
+sith openCencrypted.peth, ‘rb) as fin: syed ata E
+Sv = fin.readCis) en File *D:\DevEnv\Python\Python311\Lib\site-packages\Crypto\Util\Padding.py", Line 92, in unpad
+cn raise ValueError("Padding is incorrect.")
+Valuetrror: Padding is incorrect.
+HERywyeee e 明 pyon decrypt.py secretExcel encrypted
+E Traceback (nost recent call last):
+File °C: ious aie liainew\20203610 GNA \decrypt.py*, Line 48, in <module>
+e decrypt_FileCencrypted_path)
+anoeehmanoe FAL
+decrypteddata = un
+ane 口
+File *D:\Devenv\pyt
+= ses.new(key, AE5.HO0E.C8C, iv) "raise Valuetrror(*Padding is incorrect.”
+jate = unped(cipner.decrypt(o| ValueError: Padding is incorrect.
+ey =
+n
+py", Line 92, in unpad
+C:\ ase tap 202496 WAFER HE >python decrypt.py secretExcel.
+back (nost recent call Last):
+File *C:\ttesiyeenseieimwemeup 262498 IU IRENA \decrypt.py", Line 48, in <nodule>
+decrypt_fileCencrypted_path)
+» omens Amin Zim r
+decrypteddata Cciph
+File *D:\DevEnv\Python\Python311\Lib\site-packages\Crypto\Util\Padding.py", Line 92, in unpad
+l Faise ValueError(*Padding is incorrect.")
+1 valueError: Padding is incorrect.
+C:\puphypememrrnrnrnPA 202UR6 BUFR PRAE>python decrypt.py secretExcel encrypted
+File decrypted successfully: secretéxcel
+print(usege: python decrypt.py <encrypted.fite.peth>*)
+E
+E
+‘cocrypt_file(encrypted.patn)

@@ -1,0 +1,29 @@
+# OCR: 2d040eedfffe6b7a5f61f93802c1651a.webp
+# 来源: .\02-WriteUp\2025\2d040eedfffe6b7a5f61f93802c1651a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+8263 口 root8832de68b9a2d:/# cat /etc/nginx/conf.d/api-server.conf
+9264 | server {
+8265
+8266
+8267
+8268 access_log /var/log/nginx/api-server-access. log
+8269 error_log  /var/log/nginx/api-server-error-log warn;
+8270
+8271 location / {
+8272 proxy_pass http: //172.16.10.254:3000;
+8273 proxy_http_version 1.1;
+8274 prowy-set_header Upgrade Shttp_upgrade;
+8275 proxy_set_header Connection “upgrade
+8276 proxy_set_header Host $host;
+8277 proxy_set_header 。X-Real-IP Sremote_addr;
+8278 proxy_set_header 。X-Forwarded-For $proxy_add_x_forwarded_for ;
+8279 proxy_set_header X-Forwarded-Proto $scheme;
+8280 proxy_connect_timeout 60s;
+8281 proxy_send_timeout 60s;
+8282 proxy_read_timeout 60s;
+8283 send_timeout 60s;
+8284 }
+8285 | }
+8286

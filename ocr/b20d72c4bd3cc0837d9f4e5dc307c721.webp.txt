@@ -1,0 +1,10 @@
+# OCR: b20d72c4bd3cc0837d9f4e5dc307c721.webp
+# 来源: .\02-WriteUp\2025\b20d72c4bd3cc0837d9f4e5dc307c721.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+J* loaded from: C:\Users\25046\Desktop \workspa
+public class 国 {
+public static String 1P = "92.67.33.56"5
+public static String port
+public static boolean icon

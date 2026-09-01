@@ -1,0 +1,44 @@
+# OCR: 7fea4ddeb399ed738e0e5e09cb8817a9.webp
+# 来源: .\02-WriteUp\2025\7fea4ddeb399ed738e0e5e09cb8817a9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+商 Cluster_Pguscup |: e
+摘 要 “ 监 控 RE 权 限 主 机 虚 抄 机 数 据 存 傅 网 络 更 新
+服 务 \ | D 无 洲 提 8 请 沥 的 数 据 。 有 关 详 细 信 息 , 请 查 看 vSphere Client 日 志 。
+Sph DRS
+ans vSAN ARS RARE 关 团 VSAN
+vSphere OR
+配 置 园 人 存 借 咤 > VSAN iSCSI 目 标 服 务 CER )
+‘RAT
+常 规 CSavha )
+密 钥 提 供 程 序 一 个 主 机 集 群 , 用 于 提 供 察 密 糊 台 的 存 储 和 计 算 资 源 , 并 集
+ea nie 成 到 Hypervisor 中 以 提 供 单 个 软 件 定 义 的 基 础 架 构 、 数 探 服 务
+虚 抑 机 主 机 组
+虚 抑 机 主 机 技 则 存 俊 羞 城 san) Sie 去 重 和 压 绮
+虚 拟 机 替 代 项
+VO 绘 河 嘴 vSAN VMware VSAN 是 一 个 分 布 式 软 件 层 , 作 为 ESX 静 态 数 据 加 密 己 禁 用
+主 机 选 项 Hypervisor 的 一 部 分 在 本 机 运 行 。vSAN 可 汇 总 主 机 集 羧 中 密 钢 提 供 程 序 国
+本 地 容 量 设 备 或 目 接 连 接 的 容 量 设 备 并 创 建 在 vSAN 集 群 中
+交 磁 盘 擦 除 Bam
+0 的 所 有 主 机 之 间 共 享 的 单 个 存 傅 池
+许 可 v
+- 传 输 中 数 据 加 密 已 獒 用
+VSAN 集 群 b 重 新 加 密 财 间 间 隔 =
+Trust Authority
+警 报 定 义 > Support Insight (GD) iad
+已 调 度 任 务
+vSphere 集 群 服 务 v 启 用 > 预 留 和 警 示
+常 规
+数 据 存 借 、 性 能 服 务
+VSAN v
+统 计 信 息 对 象 运 行 状 况 - > 高 级 选 顶
+MEE 统 计 信 息 对 象 UUID 心
+故 阮 域 统 计 信 息 对 象 存 储 策 略 - au
+数 据 存 储 管 理 台 规 性 状 怀 =
+所 需 状 怀 v , 详 绍 模 式 已 袱 用 人 历 史 运 行 狄 况 服 务 (GD
+胎 像 网 络 诊 断 模 式 已 袱 用
+_ 历 史 运 行 状 况 服 务 可 将 所 有 vSAN Skyline Health 数 据 最 长 保 留 30 天 , 具 体 取 决
+0 E 于 vCenter Server 氧a呸蔓重言I荸臼〈〕盲I)可喜容量【】
+ei
+> 文 作 服 务 Cm) “

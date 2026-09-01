@@ -1,0 +1,265 @@
+# OCR: b6b5a04ecf8b7226373ee07f22188c01.webp
+# 来源: .\02-WriteUp\2024\b6b5a04ecf8b7226373ee07f22188c01.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+′′′′′′′′′′′′′′′′′′′′十′′′′′′′′′′′′′′计一′′′′′′′′′暮一′′′
+29760 399.
+29761 399.
+29762 399.
+29763 399.
+29764 399.
+29765 399.
+29766 399.
+29767 399.
+29768 399.
+29769 399.
+29770 399.
+29771 399.
+29772 399.
+29773 399.
+29774 399.
+29775 399.
+29776 399.
+29777 399.
+29778 399.
+29779 399.
+666052
+666095
+666167
+666216
+666282
+666467
+666675
+666688
+666749
+666847
+695890
+695929
+695983
+696041
+696099
+696332
+696405
+696446
+696513
+696622
+ane
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+2
+75.
+Ba
+75.
+工 .
+75.
+75.
+75.
+75.
+Be
+Bes
+75.
+Be
+75.
+T
+75.
+工 .
+75.
+。
+75.
+132
+132
+132
+132
+132
+131
+131
+131
+131
+131
+132
+132
+132
+132
+132
+131
+131
+131
+131
+131
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+192.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+168.
+TS.
+a
+左 .
+75.
+工 .
+工 .
+Te,
+7d
+TB
+5.
+页 i
+Be
+工 .
+左 .
+TB,
+0
+E
+Td
+TB
+75.
+131
+131
+131
+131
+131
+132
+132
+132
+132
+132
+131
+131
+131
+131
+131
+132
+132
+132
+132
+132
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+HTTP
+196 GET /dwe HTTP/1.1
+204 GET /snmpcheck-1 HTTP/1.1
+206 GET /@411-exploits HTTP/1.1
+206 GET /6412-exploits HTTP/1.1
+206 GET /@501-exploits HTTP/1.1
+539 HTTP/1.1 404 Not Found
+541 HTTP/1.1 404 Not Found
+541 HTTP/1.1 404 Not Found
+541 HTTP/1.1 404 Not Found
+531 HTTP/1.1 404 Not Found
+199 GET /intnet HTTP/1.1
+199 GET /u_back HTTP/1.1
+200 GET /Updates HTTP/1.1
+199 GET /applet HTTP/1.1
+197 GET /enum HTTP/1.1
+534 HTTP/1.1 404 Not Found
+532 HTTP/1.1 404 Not Found
+534 HTTP/1.1 404 Not Found
+535 HTTP/1.1 404 Not Found
+534 HTTP/1.1 404 Not Found
+(text/html)
+(text/html)
+(text/html)
+(text/html)
+(text/html)
+(text/html)
+(text/html)
+(text/html)
+(text/html)
+(text/html)
+> [Expert Info (Chat/Sequence): GET /snmpcheck-1 HTTP/1.1\r\n]
+Request Method: GET
+Request URI: /snmpcheck-1
+Request Version: HTTP/1.1
+Host: 192.168.75.131\r\n
+Accept: */*\r\n
+Content-Type: application/x-www-form-urlencoded\r\n
+(User-Agent: Wfuzz/3.1.0\r\n
+A\r\n

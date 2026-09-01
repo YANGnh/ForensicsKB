@@ -1,0 +1,42 @@
+# OCR: 35e7bf8bf2d3755ed957359a989a53be.jpg
+# 来源: .\02-WriteUp\2024\35e7bf8bf2d3755ed957359a989a53be.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+®@URAB 8eosF
+<Cot/。
+Mi Wireshark - Conversations + tcpdump jcap
+Conversation Settings
+ea
+口 s
+OD sxe!
+Ethernet 25 IPv4-119 I6.io
+TCP: 1794 UDP - 486
+[220222 192-168 100,100 7.033 29 MB
+192.168.100.104 239,255.255.250
+eS pela Ria ae Ae
+192.168.100.100 192.168.100.254 3,409
+192.168.100.100 192.168.100.104 4,001
+192.168.100.254 192.168.100.104 3,888
+362
+3
+455 kB
+448 kB
+313 kB
+150 kB
+R
+Packets A+B BytesA—B Pi
+4,432
+2,422
+1,884
+3,123,
+1,944
+362
+3
+16 MB
+226 kB
+237 kB
+296 kB
+197 kB
+150 kB
+pay

@@ -1,0 +1,8 @@
+# OCR: c23b21a8bd66a0e7d7fc15014f188548.jpg
+# 来源: .\02-WriteUp\2024\c23b21a8bd66a0e7d7fc15014f188548.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+alist-encryption
+& admin
+8 password ne

@@ -1,0 +1,7 @@
+# OCR: c3b309e65eb3bd1adf76d710603fbcb6.jpg
+# 来源: .\02-WriteUp\2024\c3b309e65eb3bd1adf76d710603fbcb6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+Croot@localhost 8 mysq.
+mysql Ver 14.14 Distrib for Linux (x86_64) using EditLine wrapper

@@ -1,0 +1,19 @@
+# OCR: f67569259b1f7109da42e2700eae9b00.jpg
+# 来源: .\02-WriteUp\2024\f67569259b1f7109da42e2700eae9b00.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+[root@localhost “It ip a
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1688
+link/ loopback 68:88 88:88 brd 68:80:80:80:80:88
+inet 12?.8.8.1/8 scope host lo
+valid_Ift forever preferred_Ift forever
+inet6 ::1/128 scope host
+valid_Ift forever preferred_Ift forever
+2: ens33: <BROADCAST, MULTICAST, UP, LOWER_UP> mtu 1588 qdisc fq_codel state UP group default qlen 1008
+link/ether @8:0c:29:1d:fb:3a brd ff iff iff iff iff iff
+3: docker@: <NO-CARRIER, BROADCAST, MULTICAST, UP> mtu 1588 qdisc noqueue state DOW group default
+linkether @2:42:b2:39:2d:10 brd ff iff ff ff iff :ff
+inet 172.17.8.1/16 brd 122.17.255.255 scope global dockerg
+valid_Ift forever preferred_Ift forever
+[root@localhost -18 _

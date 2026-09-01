@@ -1,0 +1,62 @@
+# OCR: 9cf8da75aae6a016c254f3cf121b3d9d.webp
+# 来源: .\02-WriteUp\2025\9cf8da75aae6a016c254f3cf121b3d9d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+@ 2 38 IR me wm *modules - jadx-gui - @ x
+占 兵 口 ALY SD Q 发 GQ 吾 日 | < 3 | 路 口 总 | 日 | 一
+© Entryability © Loginpage (© NotepadPage © Databasetielper
+1 package poddentry/src/main/ets/utils;
+2
+modules. abc | 仁n 唐 命 reason: invalid class nome */
+be BOE 4 /* Loaded from: F:\PanguRun\ Zi - /K\ets\modules.abc */
+eee 5 public class 《
+@ 5 public Object pkglemegent
+defpackage 7 public Object isCommonjs;
+ohos a 5 public Object hasTopLevelawaits
+as iid 3 public Object isSharedodules
+@ @ohos. curves 10 public Object scopeNames;
+© @ohos .matrixd ua public Object moduleRecordzdx; (7
+@ @system.app 2 Ww
+B 户 : Type inference failed for: ig types: [int] */
+@ Gsystem.curves a | 朱 收 Y r
+@ @system.matrixd 1s 厂 Type tmjerence fabled foes riguz [int] 口
+@ @system.router 16 广 Type inference failed for: ri18v21, [int] Y
+i v 人 Type inference failed for: r18v24, [object, int] */
+@ _ESConcurrentModuleRequestsAnnotation 18 厂 : Type inference failed for: r18v27, types: [Object, java.lang.Class] */
+@ _£SSlotilumberAnnotation a9 public object func main @(dbject functionObject, Object newTarget, Dat@baseHelper this) (
+peeentry/src/main/ets 20 "DB_NAME", 1, "SQL_CREATE NOTES TABLE”, 2, "SQL_CREATE_NOTES UPDATE TRIGGER", 3], 4)3
+tryaoihit 7
+entryability =
+entrybackupability eS rrgoy y
+pages 因 Uintaarray(createarraywithbuffer([72, 117, 97, 119, 101, 105, 78, 111, 116, 101, 80, 97, 100, 49, 50, 51]));
+a 25 —lexenv_@_2_ = ("CREATE TABLE IF NOT EXISTS “ + module_1_ +" (\n id INTEGER PRIMARY KEY AUTOINCREMENT, \n title TEXT,\n content TEXT NOT NULL, -- Encrypted content\n creat:
+. 26 Tlexenv_@-3_ = ("\nCREATE TRIGGER IF NOT EXISTS update_notes_updated_at\nAFTER UPDATE ON “ + module i + "\nFOR EACH ROW\nBEGIN\n UPDATE “ + module l +" SET updated_at = s
+@ CryptoUtils 27 718 = hole.#-@0-#batabaseHelper(Object2, Object3, hole, ["initialize”, "Sentry/src/main/ets/utils/DBRBUSSEHEIBEES. #@0>#initialize”, 1, “getRdbStore", "Zentry/src/main/ets/util:
+@ DatabaseHelper 28 obj = r18.prototype;
+kgName@entry Object 29 ode 00
+isCommonjs Object [ e
+fe 0 31 )
+雯 hasfoplevelmait Object 32
+& isSharedModule Object 33 厂 p WARN: Type inference failed for: ri4v4, types: [Object, int] */ 、
+3a public Object #-@0>#initialize(object functiondbject, Object newTarget, DEEBbASEHEIPER this, object argo) {
+scopeNames Object 35 asyncfunctionenter = asyncfunctionenter()3
+{f moduleRecordIdx Object 36 try {
+8 #-@0-#DatabaseHelper(Object, Object, Object) Object 37 if (isfalse(this.rdbStore) == null) 《
+38 hilog = import { default as hilog } from "@chos:hilog";
+#-GO>#backupDatabase(Object, Object, Object) Object 39 hillog-info(_lexen 5 “ROB store already initialized.")
+#-@O>#closeRdbStore(Object, Object, Object) Object 40 return aeyncramcr anseca eee null, asyncfunctionenter) ;
+® #@O>r#deleteNoteByld(Object, Object, Object, Object) b 氙 )
+@>#getAlINotesRaw(Object, Object, Object) Object Pa Peace ita
+B #-@0>#getAlINotesRaw(Object, Object, Object) Objec 白 suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, this.getRdbStore()));
+#-@O>rtigetlloteByldRaw(Object, Object, Object, Object) Ob: as resumegenerator = resunegenerator (asyncfunctionenter) ;
+#e@O>rtigetRdbStore(Object, Object, Object) Object 45 if ((1 == getresumemode(asyncfunctionenter) ? 1: 0) != 0) {
+® #@Or#initialize(Object, Object, Object, Object) Object | 不 ) frepeoepenrh
+% #-@O>#initializeDatabaseTables(Object, Object, Object, C| 25 Feturn asyncfunctionresolve(null, asyncfunctionenter);
+#-@O>#insertNote(Object, Object, Object, Object) Object | 49 } catch (Exceptionto unused) { 、 、
+邹 exirestorepatabase(iject, Object, Object) Object 7 ) return asyncfunctionreject(asyncfunctionenter, asyncfunctionenter) 5
+i #-@O>#updateNoteContent (Object, Object, Object, Object, | <> )
+i func_main_@(Object, Object, Object) Object 33
+资 源 文 似 因 : r20v24, types: [int] */
+回 Somary 55 i t 20v32, types: [Object, int] */
+ag: © SiR B HSHIR Simple Fallback (split view

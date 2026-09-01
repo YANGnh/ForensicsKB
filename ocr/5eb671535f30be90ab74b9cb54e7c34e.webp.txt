@@ -1,0 +1,126 @@
+# OCR: 5eb671535f30be90ab74b9cb54e7c34e.webp
+# 来源: .\02-WriteUp\2024\5eb671535f30be90ab74b9cb54e7c34e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+庞 | AN=SBEH\Imagezip\data\data\com.vmos.pro\osimg\r\ot02\
+E
+data
+[Bstorage
+[system
+[dev
+[proc
+E
+Bs:
+Liinie
+[sepolicy
+[file contexts.bin
+圆 p
+R
+[J initusb.configfs.re
+[Jinitusb.re
+[vm property: comeas
+[Jueventd.re
+Li property contexts
+Lisystem.prop
+(Jinituphw7 tre
+(1 fstabvphw71
+[defant.prop
+W
+[i seapp contexts
+[jinitzygotes4 32.re
+(upgrade.
+[jinit.zygotea2.re
+[1 questosinfo
+5 fixsh
+@ init shellsh
+( selinux version
+(index
+52
+E
+3.239 701 970
+831 346 428,
+4662 723
+2.809 159
+1146 720
+26
+1.053 624
+171514
+77070
+25 842
+11175
+9 283
+5691
+5.032
+4853
+4676
+3.088
+3.076
+949,
+948,
+923
+758
+E
+642
+an
+404
+139
+138
+75
+F23
+9 966 488 134
+3.239 701 970
+831 346 428
+4 662 723
+2.809 159
+1146 720
+26
+1053 624
+1514
+77070
+25 842
+11175
+9 283
+5691
+5.032,
+4853
+4676
+3.088
+3076
+949
+948
+923
+758
+684
+642
+an
+404
+139
+138
+75
+xa
+2024-01-12 1
+2023-06-06 1.
+2023-06-06 1.
+2024-01-12 1
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2024-05-22 1.
+2023-06-06 1
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2023-06-06 1.
+2024-01-12 1
+2023-06-06 1.
+2024-05-22 1.
+2023-06-06 1.
+2023-06-06 1.
+【

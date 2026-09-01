@@ -1,0 +1,11 @@
+# OCR: 412dd00a544c22d6ad9400a7bfabb853.jpg
+# 来源: .\02-WriteUp\2024\412dd00a544c22d6ad9400a7bfabb853.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+lacAddress"
+NetworkID" =
+42:ac=12-00:02",
+3c16ce3e97803f 1eb08ded451760a
+"88a4922c99919e4db9683cb75360:
+72.18.0.1"

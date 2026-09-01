@@ -1,0 +1,21 @@
+# OCR: 4d772052426369dd1ad43360d887d4a4.webp
+# 来源: .\02-WriteUp\2025\4d772052426369dd1ad43360d887d4a4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+一 28 return $arr2;
+2}
+目 30 8
+, 0 气 function encrypt(sstr)}
+n 32 return ma5(C("AUTH_CODE").$str)
+口 htaccess 园
+34
+© command.php 芒 一
+心 5 = Mgt68R 刑
+E 工 | @paran type Sarr SiH
+on enti) 38 | + param type Skey_name FI
+一 “ 一 口 wax +
+admin/controLler/User .php:
+admin/logic/UsersLogic.php: Suser
+function. php: function encrypt ($str){
+RR

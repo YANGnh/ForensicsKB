@@ -1,0 +1,24 @@
+# OCR: 1f2c55445d348df841d3f4ec312ca6c0.webp
+# 来源: .\02-WriteUp\2024\1f2c55445d348df841d3f4ec312ca6c0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+iSCSI! 发 起 程 序 属 性
+目 标 “ 发 现 收 定 的 目 标 “ 卷 和 设 备 RADIUS 配 置
+‘RES
+FE RUS Pi REAP RERIBt 请 键 入 该 目 标 的 IP 地 址 或 N 名
+目 标 (): 快 途 连 接 (Q)
+己 发 现 的 目 标 (G)
+刹 新 ()
+名 称 RS
+ign. 2008-06. com. sysdevlabs: 7£0000010cbe:vdewO 不 活 助
+ign. 2008-06. com. sysdevlabs: 7£0000010cbe:vdevl 不 活 动
+ign. 2008-06. com. sysdevlabs: 7£0000010cbe:vdev2 。 不 活 助
+ign. 2008-06. com. sysdevlabs: 7£0000010cbe:vdev3 。 不 活 动
+ign. 2008-06. com. sysdevlabs: 7£0000010cbe:vdeva 。 不 活 动
+SERPEMUMNTCN WARE. Maes 吊 李
+SST ESHER, HERE. ee 3
+轼 辟 蛇 1 断 开 连 接 00)
+UESHRH aHSAishygt 吴 , 请 诉 择 诛 日 杆 并 单 出 BHO)...
+剧 髯 描 不 日 关 R 设 备 , HARKEN. et Be.
+E 2

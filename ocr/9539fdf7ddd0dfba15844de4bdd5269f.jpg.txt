@@ -1,0 +1,9 @@
+# OCR: 9539fdf7ddd0dfba15844de4bdd5269f.jpg
+# 来源: .\02-WriteUp\2024\9539fdf7ddd0dfba15844de4bdd5269f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+[root@server -]# mount /dev/sdb /data
+[root@server ~]# 1 /data
+2823.cn backup “lost+found
+[rooteserver ~]#

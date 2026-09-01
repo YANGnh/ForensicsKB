@@ -1,0 +1,38 @@
+# OCR: dbb9e7c5e44ac5f5cd46e68a86716e53.jpg
+# 来源: .\02-WriteUp\2024\dbb9e7c5e44ac5f5cd46e68a86716e53.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+wax +
+[root@localhost 192 168_217.219]4 netstat -anpt
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address Foreign Address State PID/Program name
+tcp 6 8 6.6.6.6-22 @.0.0.0:* LISTEN 1243/sshd
+tcp 6 8 127.0.0.1:1080 @.0.0.0:* LISTEN 1477/./sing-box
+tcp 6 8 6.6.6-6-32137 0.0.0.0:* LISTEN 2773/python
+tcp 6 @ 0.0.0.0:3306 0.0.0.0:* LISTEN 2555/mysqld
+tcp 8 @ 127.0.0.1:44306 127.0.0.1:1080 TIME MAIT 一
+tcp 6 8 127.0.0.1-40162 127.0.0.1:3306 ESTABLISHED 34382/sshd: root
+tcp 6 8 127.0.0.1:3306 127.0.0.1-40154 ESTABLISHED 2555/mysqld
+tcp 6 @ 127-6.6.1-46158 1270.0 .1-3306 ESTABLISHED 34382/sshd: root
+tcp 6 @ 127.0.0.1:44316 127.0.0.1:1080 TIME WAIT 一
+tcp 6 8 127.0.0.1:44310 127.0.0.1:1080 TIMEWAIT  -
+tcp 6 8 127-6.6.1-44314 127.0.0.1:1080 TIME MAIT 一
+tcp 6 36 192 .168-217.188-22 192.168 .217.1:5942 ESTABLISHED 7171/sshd: root [pr
+tcp 6 @ 127-6.6.1-3366 127.0.0.1-40158 ESTABLISHED 2555/mysqld
+tcp 6 8 127.0.0.1:3306 127.0.0.1:40162 ESTABLISHED 2555/mysqld
+tcp 6 8 127.0.0.1-40154 127 .0.0.1:3306 ESTABLISHED 34382/sshd: root
+tcp 6 @ 192-168-217-188-22 192.168 217.1:12139 ESTABLISHED 34380/sshd: root [p
+tcp 6 @ 127-6.6.1:44368 127.0.0.1:1080 TIME MAIT -
+tcp 6 8 127.0.0.1:44312 127.0.0.1:1080 TIME MAIT  -
+tcp6 6 6 829 LISTEN 1244/sut
+tep6 6 6 2 LISTEN 1243/sshd
+tep6 6 6 : LISTEN 1244/sut
+tep6 6 6 LISTEN 32032/httpd
+tcp 6 6 LISTEN 1477/-/stng-box
+tcp6 6 6 : LISTEN 32032/httpd
+tcp6 6 6 : LISTEN 32032/httpd
+tep6 6 6 LISTEN 32032/httpd
+tcp6 6 6 LISTEN 32032/httpd
+6
+[root@localhost 192.168.217.219]# |

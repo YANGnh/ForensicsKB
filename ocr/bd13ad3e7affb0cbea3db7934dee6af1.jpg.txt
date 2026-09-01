@@ -1,0 +1,12 @@
+# OCR: bd13ad3e7affb0cbea3db7934dee6af1.jpg
+# 来源: .\02-WriteUp\2024\bd13ad3e7affb0cbea3db7934dee6af1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+N “ 国 resut @test (localhost) - 了 X - aa
+ee T sala 关 芒 csqL ( fBR , 园 # - 口 S4ftR ily ee
+回 lecahe vii test 人 P E5 - 一 t eee
+1 SELECT COUNT(DISTINCT SYGHE) FROM “result” WHERE 日 证 Lne ‘310%
+62 8 S21 at ee
+COUNT(DISTINCT 8 吴
+0 109

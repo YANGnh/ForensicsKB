@@ -1,0 +1,13 @@
+# OCR: fac3a7e32c3721343eae0bbba60b31e4.webp
+# 来源: .\02-WriteUp\2024\fac3a7e32c3721343eae0bbba60b31e4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+a ee
+ES 详 绍 动 忘 益 河 源 团 分 析 教 怀 信 息
+级 别 (IES) E 究 SRBHi
+androidpermissionCAMERA androidpemissionNTERNET
+RASA {SATIS EAA
+android.permission.RECORD_AUDIO android.permission.WRITE_EXTERNAL STORAGE
+级 别 ( 其 他 ) com.example.gallery.DYNAMIC_RECEIVER_NOT_EXPORTED PERMISSION
+com.example.gallery.DYNAMIC_RECEIVER_NOT_EXPORTED_ PERMISSION

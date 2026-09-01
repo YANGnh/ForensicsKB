@@ -1,0 +1,10 @@
+# OCR: 11afeaeb55daacf5088454057b69d0ef.jpg
+# 来源: .\02-WriteUp\2024\11afeaeb55daacf5088454057b69d0ef.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+1:28 团 vai
+randum
+6L+Z6YeM5piv5LiA5Lig6YeN6KaB5pWw502u
+SEx7ZDBiMjA1 OGEtYWMyOSOxMWVkL
+TgwN2YtYWNkZTQ4MDAxMTlyfQ==

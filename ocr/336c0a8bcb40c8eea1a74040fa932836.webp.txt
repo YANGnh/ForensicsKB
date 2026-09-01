@@ -1,0 +1,12 @@
+# OCR: 336c0a8bcb40c8eea1a74040fa932836.webp
+# 来源: .\02-WriteUp\2024\336c0a8bcb40c8eea1a74040fa932836.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+李
+目 AN=B=E image zip\data\data\com.vmos.pro\rom\rom info\
+E
+[J android71_32 lite10179
+[j android71 lite10399
+[ androidg0_64_ude10069
+[J endroid90_prelinker10066 |

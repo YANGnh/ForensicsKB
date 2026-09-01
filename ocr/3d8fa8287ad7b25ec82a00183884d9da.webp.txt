@@ -1,0 +1,8 @@
+# OCR: 3d8fa8287ad7b25ec82a00183884d9da.webp
+# 来源: .\02-WriteUp\2024\3d8fa8287ad7b25ec82a00183884d9da.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+public void setEncodeHashAsBase64(boolean encodeHashAsBase64) {
+this.encodeHashasBase64 = encodeHashsBase64;
+]

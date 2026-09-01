@@ -1,0 +1,20 @@
+# OCR: 2391dc4f191e9b4a31e8fadc364cfb36.webp
+# 来源: .\02-WriteUp\2024\2391dc4f191e9b4a31e8fadc364cfb36.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+<div idz“container 2ddiv id="leftNav'><h1><a href="test_db.php'><span idz logo 2phpLiteAdaind/span> <span idz version 2v1.9.3k/span>k/a>
+</h><div id=“headerlinks「2ka href="javascript:void' onclick='openHelp("top"); '>Documentation</a> | <a href="http: //wmw.gnu.org/licenses
+/epl.html' target="_blank" >License</a> | <a href="http://code.google.com/p/phpliteadmin/' target="_blank’ >Project Site</a></div><fieldse
+t style='margin:15px; '><legend><b>Change Database</b></legend>[rw] <a href='test_db. php?switchdb-%2Fusr%2Fdatabases%2Fdemo.php' >/usr/dat
+abases/demo.php</a><br/>[rw] <a href='test_db.php?switchdb-%2Fusr%2Fdatabases%2Ftest_users' style='text-decoration:underline;'>/usr/data
+bases/test_users</a></fieldset><fieldset style='margin:15px;'><legend><a href='test_db.php’ style='text-decoration:underline;'>/usr/data
+bases/test_users</a></legend><span style="'font-size:11px; '>[table]</span> <a href='test_db.php?action=row_view&amp; table=info' >info</a><
+br/></fieldset><fieldset style='margin:15px;'><legend><b>Create New Database</b> <a href=" javascript: void’ onclick='openHelp("Creating a
+New Database");' class='helpq’ title='Help: Creating a New Database'>[?]</a></legend><form name='create_database’ method="post’ action="
+test_db.php'><input type="text’ name='new_dbname’ style='width:15@px;'/> <input type="submit’ value='Create’ class='btn'/></form></field
+set><div style='text-align:center;'><form action=「test_db.php“method=「post「2kinput type="submit’ value='Log Out’ name="logout' class="b
+tn' /></form></div></div><div id='content'><a href='test_db.php' >/usr/databases/test_users</a><br/><br/><div id='main'><h2>Creating new t
+able: 'test'</h2>You must specify the number of table fields.</div><br/><span style='font-size:11px;'>Powered by <a href="http://code.go
+ogle.com/p/phpliteadmin/' target="_blank’ style='font-size:11px;'>phpLiteAdmin</a> | Page generated in 0.001 seconds. </span></div></div>
+<lhodyv>< /htm]>

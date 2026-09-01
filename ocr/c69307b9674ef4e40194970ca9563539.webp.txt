@@ -1,0 +1,8 @@
+# OCR: c69307b9674ef4e40194970ca9563539.webp
+# 来源: .\02-WriteUp\2025\c69307b9674ef4e40194970ca9563539.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+= sr =
+口 BS 伟 品 D APS FPS PRT TB RIES
+口 2908 2908 13236474221 Em 技 限 行 上 j 古 行 2114313505182218

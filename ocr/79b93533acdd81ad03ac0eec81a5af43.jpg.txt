@@ -1,0 +1,6 @@
+# OCR: 79b93533acdd81ad03ac0eec81a5af43.jpg
+# 来源: .\02-WriteUp\2024\79b93533acdd81ad03ac0eec81a5af43.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 16:10
+
+# 结果: 无可用文本（tesseract 未识别到文字）

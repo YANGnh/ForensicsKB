@@ -1,0 +1,9 @@
+# OCR: ef4ef74578e86abe22d64d4fa3c675f7.webp
+# 来源: .\02-WriteUp\2025\ef4ef74578e86abe22d64d4fa3c675f7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+1990 12 A 30
+四 川 省 成 都 市 武 侯 区 益 州
+大 道 中 段 722 号 复 城 国 际
+51370119901230836x

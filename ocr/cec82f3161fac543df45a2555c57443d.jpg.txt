@@ -1,0 +1,25 @@
+# OCR: cec82f3161fac543df45a2555c57443d.jpg
+# 来源: .\02-WriteUp\2024\cec82f3161fac543df45a2555c57443d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+server4.£01
+ROM: ARATE RBS \serverd.£01
+RUAN: 1.85 GB
+BX: 7068
+RAID-5_2024-04-25 091338651.001
+AOE: EARIEASAT\RAID-5_2024-04-25 091338651.001
+RAN: 1.9968
+HBA: 1.9968
+分 区 信 息 ome
+servers.£01
+1024 KB
+E
+1024 MB
+URE: ods
+文 件 分 类 。 裘杨 随 片
+68.99 G8
+Geen Gren
+Essssssssssssalsss l
+lvm-pv0
+E

@@ -1,0 +1,14 @@
+# OCR: ad2085127e61aad4e4ac51411c04bf0b.jpg
+# 来源: .\02-WriteUp\2024\ad2085127e61aad4e4ac51411c04bf0b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+[root@localhost ~1# cat /etc/sysconf ig/netuork-scr ipts/ifefy-enp6s18
+TYPE-Ethernet
+PROXY_METHOD=none
+BROWSER_ONLY=no
+BOOTPROTO=none
+IPU4_FAILURE_FATAL=no
+IPUGINIT=yes
+GATEWAY=192 . 168 .100.1.
+[root@localhost 18 _

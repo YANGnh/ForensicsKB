@@ -1,0 +1,17 @@
+# OCR: 4c92ea986ed32f3e0d64b8ba2998b9c3.webp
+# 来源: .\02-WriteUp\2026\4c92ea986ed32f3e0d64b8ba2998b9c3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+醴 | 回 血 vt
+口 月 鲜 国 343 | @ @
+A
+al)
+ide extract -sf ‘/home/kali/Desktop/10. jpg"
+passphrase:
+steghide: could not extract any data with that passphrase!
+)-[-]
+steghide extract -sf ‘/home/kali/Desktop/10. jpg"
+——— Enter passphrase:
+wrote extracted data to "666.txt”.
+Gy )-C~]

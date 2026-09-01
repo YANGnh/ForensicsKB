@@ -1,0 +1,13 @@
+# OCR: 97fabc13aa972d2e6a090466ed62978c.webp
+# 来源: .\02-WriteUp\2025\97fabc13aa972d2e6a090466ed62978c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+卯 n aoissyeo , 懋 docter, 医 docker, %& SBE
+Gers
+a E SAUARNA =RUENETHSS = ABS
+wie Ye Y | le | iti 口 途
+口 1 4ff383cbb6attdet... ysqts7 mysql-con.... mysqld ExitCode0
+口 2 — décb23tcae7icef2...  web-apitlatest web ap sh,-culimit -cunlimi...  ExitCode:137
+口 3 832de60b9a2ddi2..._ nginx
+test nginx-proxy ngimt-gdsemonoft _ExitCode:0

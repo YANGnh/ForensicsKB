@@ -1,0 +1,9 @@
+# OCR: 76a1ad1a9db61c0dea63c610855ad2d1.webp
+# 来源: .\02-WriteUp\2025\76a1ad1a9db61c0dea63c610855ad2d1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+NoahTie@LAPTOP-H91IARRE C/h/1/#@ /d/u/0
+> adb push .\ru.meefik.linuxdeploy /storage/emulated/0/
+.\ru.meefik.linuxdeploy\: 598 files pushed, © skipped. 37.2 MB/s (681981774
+bytes in 17.466s)

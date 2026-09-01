@@ -1,0 +1,19 @@
+# OCR: 405e00bba4089dfc3e5b120c1ef47d55.webp
+# 来源: .\02-WriteUp\2024\405e00bba4089dfc3e5b120c1ef47d55.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+From Base64 ou
+Alphabet
+A-Za-20-0+/=
+{@ Remove non-alphabet chars
+O strict mode
+AES Decrypt ou
+key
+slercesoecoteece- “
+w
+Una-
+E1QADC3949BA59AB
+kbLBbvDvyghScP1Jy6bK7A=>
+=a 1 Om
+Output

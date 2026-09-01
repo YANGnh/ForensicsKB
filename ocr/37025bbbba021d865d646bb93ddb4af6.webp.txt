@@ -1,0 +1,108 @@
+# OCR: 37025bbbba021d865d646bb93ddb4af6.webp
+# 来源: .\02-WriteUp\2025\37025bbbba021d865d646bb93ddb4af6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+国 pwndbg /mnt/f/ficWP
+R13 6xTfffffffedf6 4 1
+Riu 6
+R15 6
+RBP 6x7fffffffed69 4 6
+RSP 6x7fffffffe3ce
+RIP 0x555555555523
+一 OXxTFFFFFFFe3e6 <- 0x17500000
+(maint273) « mov rdx, qword ptr [rbp - 0x10]
+“ @x555555555523
+6x555555555527
+Ox55555555552c
+6x55555555552e
+6x555555555532
+6x555555555536
+6x555555555539
+6x555555555546
+6x555555555545
+6x5555555555a
+6x55555555554f
+<main+273>
+<main+277>
+<main+282>
+<main+284>
+<main+288>
+<main+292>
+<main+295>
+<main+302>
+<main+307>
+<main+312>
+<main+317>
+mov
+lea
+mov
+call
+mov
+leave
+rdx, quord
+eax, 6
+xdx
+quord ptr
+quord
+rax
+[rip
+6
+printf@plt
+eax, 0
+[ DISASM / x86-64 / set emulate on ]
+ptr [rbp - 6x19] ROX, [Ox7FFFFFFFe3#0] => 6x7ffff7fc5056 (get_flag2) + push rbp
+EAX => 6
+<get_flag2>
+[rbp - 8], rax
+ptr [rbp - 8]
++ Oxbf6] RDI 8x555555556136 心 0x1b010900000007325 /* '%s' */
+EAX 6
+<printfeplt>
+EAX => 6
+一
+5
+69 pnintf(
+file: /mnt/f/ficWP/loader2.c:74
+= 通 过 偏 移 量 调 用 函 数 ===
+[ SOURCE (CODE) ]
+)…
+Tl getflag2-func getflag2 = (getflag2_func)((char*)base_addr + getflag2_offset);
+吉 Pnintf(“getfLag2 函 数 地 址 ; %p [ 基 地 迎 + Ox%lx)\n", (void*)getflag2, getflag2_offset);
+“ 7 voids result = getflag2();
+76 printf("%s", result);
+79 return 0;
+rsp BXfffffffe3ce —>
+-838 6xTfffffffe3c8 —>
+-838 6xTfffffffe3d6 —>
+-828 6xTfffffffe3d8 —>
+-829 6xTfffffffe3ee —>
+-818 6x7fffffffe3e8 <—
+-818 6x7fffffffe3f6 —>
+-888 6x7fffffffe3f8 <—
+6xTfffffffe3e6 <
+ex7ffff7fc4869 <—
+6x55555555665f <—
+Ox555555556078 <—
+0x5555555592d0 一
+6
+x1750
+Ox7#FFF7FC5750 (ge
+6
+[ STACK ]
+0x17500000
+0x10102U6UCUS7F
+*/mnt/f/ficWP/libJiami.so*
+‘LibJiami.so'
+Ox7FFFFTFCHOOOD 心 Ox10102U6UCUS7F
+t_fLag2] + push rbp
+9 6x555555555523 main+273
+1 Ox7FFFF7de8083 __Libc_start_main+2U3
+2
+0x55555555520e _start+46
+[BACKTRACE ]
+pundbg> c
+Continuing.
+lag2{hong}[Inferior 1 (process 28694) exited
+pwndbg> |
+T

@@ -1,0 +1,43 @@
+# OCR: 1b813c01c88f861a67e7e8efe2585139.webp
+# 来源: .\02-WriteUp\2024\1b813c01c88f861a67e7e8efe2585139.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+Key Type Value
+“©. WFWorkflowActionParameters 。 d
+WFWorkflowActionldentifier isworkflowactions.setvariable
+- WFWorkflowActionParameters
+/@-WFinput
+‘WVariableName
+WFWorkflowActionldentifier string isworkflow.actions.gettext
+“@-WFWorkflowActionParameters dict
+6 dict
+joo WFWorkflowActionidentifier string isworkflow.actions.base64encode
+@-WFWorkflowActionParameters d
+'WFWorkflowActionldentifier isworkflow.actions.setvariable
+\@- WFWorkflowActionParameters
+©: WFinput
+WFVariableName pwd
+joo WFWorkflowActionidentifier string isworkflow.actions.selectphoto
+@-WFWorkflowActionParameters dict
+e dict
+‘WFWorkflowActionldentifier string isworkflow.actions.hash
+“@-WFWorkflowActionParameters dict
+WFWorkflowActionldentifier isworkflow.actions.setvariable
+|: WFWorkflowActionParameters
+/-@-WFinput
+‘WVariableName
+WFWorkflowActionldentifier string isworkflow.actions.gettext
+“@-WFWorkflowActionParameters dict
+6 dict
+joo WFWorkflowActionidentifier string isworkflow.actions.base64encode
+@-WFWorkflowActionParameters dict
+'WFWorkflowActionldentifier isworkflow.actions.setvariable
+\@- WFWorkflowActionParameters
+©: WFinput
+‘WFVariableName
+'WFWorkflowActionldentifier string isworkflow.actions.gettext
+@-WFWorkflowActionParameters dict
+6 dict
+WFWorkflowActionldentifier string isworkflowactions.runsshscript
+--WFWorkflowActionParameters dict

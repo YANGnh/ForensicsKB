@@ -1,0 +1,59 @@
+# OCR: 7647959b6581217bb9c8313fd02f7242.webp
+# 来源: .\02-WriteUp\2025\7647959b6581217bb9c8313fd02f7242.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+QF IDA - libsiami.so.i64 (libliami.so) F:AficWP\libJiami.so.i64
+file Edit Jump Search View Debugger Lumina Options Windows Help
+白 回 东 “ 野 一 伯 人
++
+Library function [lj Regular function [fl Instruction
+@ @ Al- 四 @
+|
+门 Functions 口 8 x
+Function name Segme
+exe finalize plt.g
+E text
+setup text
+deregi ster_tm_olones text
+register_tm_clones text
+do global dtors_aux text
+Frane_dunmy text
+E text
+init_tls flag text
+free verult text
+compute flag? text
+is dabugger_present text
+E text
+get flat text
+encrypt text
+decrypt text
+term proc fini
+Pthread_getspecific extern
+[f] pthread setspecific extern
+eeet extern
+malloc extern
+闪 fopen extern
+闭 EVP _DeceyptTni t_ex extern
+[Ff] BIO_push extern
+闯 fects extern
+—inp_free extern
+strlen extern
+a x
+BRQs3-O04a No debugger v ee =}
+ii i | I E 2
+Data 国 aeslered | External symbol MJ Lumina function
+国 an i 国 rseudocode stack of e 目 , 国 reeudocode-s 国 。 国 strins 面 e types 图 In 团 w 。 白
+Name Address. Ordinal
+\f| setup ‘oooco00000001270
+才 n ‘000000000001 750
+\f encrypt ‘oood000000001 7c0
+E oooo000000001260 [main entry]
+月 v n 00oppoolss
+\f) is_debugger_present ‘opoooooD00001690
+fF decrypt ‘oooco00000001920
+\f| init_tls_flae2 Dnpl
+月 nd 00oopoooooalit
+\f free result ‘opooooDD00001540
+f) .init_proc ‘ooodo00000001000
+月 term_proc 0

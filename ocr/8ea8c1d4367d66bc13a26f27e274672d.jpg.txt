@@ -1,0 +1,59 @@
+# OCR: 8ea8c1d4367d66bc13a26f27e274672d.jpg
+# 来源: .\02-WriteUp\2024\8ea8c1d4367d66bc13a26f27e274672d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:35
+
+Domain
+Logon Server
+Logon Time
+SID
+msv :
+[eeeleeee]
+* NTLM
+* SHAL
+[66666ee3]
+* Username
+* Domain
+* NTLM
+* SHAL
+tspk :
+wdigest :
+* Username
+* Domain
+* Password
+kerberos :
+* Username
+* Domain
+ssp :
+credman :
+Authentication Id
+Session
+User Name
+Domain
+Logon Server
+OF ee: cawindows\systems; X
+* Password :
+ae
+: WIN-CQLIKMVQS5FI
+: WIN-CQLIKMVQ5FI
+: 202U/5/23 16:35:46
+: S-1-5-21-243781886-811191981-1898768579-566
+Credentialkeys
+: 825a8d985643ce875e6e2a6d6qba2lda
+: 8681df7bff7c83355afefaeb25acbaaadc7cbbda
+Primary
+: Administrator
+: WIN-CQTIKMVQSFI
+: 825a8d985643ce875e6e2a6d6qbazlda
+: 8681df7bff7c83355afefaeb25acbaaadc7cbbda
+: Administrator
+: WIN-CQTIKMVQSFI
+: uiLbntsrpQsC
+: Administrator
+: WIN-CQLIKMVQSFI
+(null)
+: © ; 997 (09990000: 000003e5)
+: Service from 0
+: LOCAL SERVICE
+: NT AUTHORITY
+: (null)

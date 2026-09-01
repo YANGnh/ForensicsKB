@@ -1,0 +1,6 @@
+# OCR: 66a19706700bdec6c5f581b3771833b0.jpg
+# 来源: .\02-WriteUp\2024\66a19706700bdec6c5f581b3771833b0.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+seouuosagt

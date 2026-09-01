@@ -1,0 +1,62 @@
+# OCR: 45b0ebfdbdc894e2c10acdef5663a9bb.webp
+# 来源: .\02-WriteUp\2025\45b0ebfdbdc894e2c10acdef5663a9bb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+el
+cuolluiuaalnt
+lulcacuuaolanllaciuaacicle
+Session #1 Ubuntu-Server 18
+Te — E BB CAUsers\ADMINI~1\AppData\Local\Temp\mdSsum 775.txt [4S] - Nd
+age Session #1 UE SH) ECE) BS) MEV) #BN) HA) BE TSE
+Jlboot 因 目 8 @ 心
+J dists
+J doc
+J Dinstal £a4248afb2ef£997£3e3 6b48b3291076
+ee i 36£7a30fe£42691694631a4792091440
+5 (let 865ae6258600ae1 6d2b35689db795873
+287d9d6Sbd1acad1197826d538celbbe
+6c88ece42f15£30b77d7a3ceae94423b
+3757eb7elbpd9ab13589ce43a80e1555
+924£13d10e5804216c3d0394£09debe0
+28755£05a77a66e09881c08e6172b8e3,
+6af826d82dc3454caf4add05e8bb92fc
+4abS7ecS4bled571ec993179£cébb2c4
+| Scb93d485ceal1613707d7c5c24336£6
+= xa | Dx Tee63 6c9bb9e506c2e7301d00c63e232
+E 〔〕 67955bac7cc887a0180a684766703ece
+000003s5 | 园 Sfb633b89321507427c836aaf58ae8d5
+宫宣g宫宫壹菖言 堑 e54949e1a374747ed34a645458219b93
+E 0052801ed00581342453a77clcdc22e7
+vr 锭 | ca02c2abf556d53ecbcp6c3fc9d9e144
+E 877432ee218deb26lpc6ce36bfe3fe7c
+00000432 136 4 fal 6e89a0cc3e8a88256255dcb0b0a78
+00000448 20 ec0278dcf££663ece9ce5203723£b5C7
+团 园 ThunderForensic. json 巳 月 AppData 2189. json £] (i DiacData 21894. json 日 (i packages 2008.list 日 (1 properties_conf
+S 腐 白 A 一 乡 , 白 皋
+颖 # NO OEE
+5 1
+TRO)
+© @_@ 郎 团 回 国 | 国 国 因 团 园
+四 目
+/pool/main/1/1vm2/libdevmapper-event1.02.1_1.02.145-4.lubuntu3.18.04.3_armé4.d
+/pool/main/1/1vm2/liblvm2app2 .2_2.02.176-4.1lubuntu3.18.04.3_arm64.deb
+/pool/main/1/1vm2/1iblvm2cmd2 .02_2.02.176-4.1ubuntu3.18.04.3_arm64.deb
+/pool/main/1/1vm2/1vm2_2.02.176-4.1ubuntu3.18.04.3_armé4.deb
+/pool/main/1/12z02/1ib1z02-2-udeb_2.08-1.2_armé4.udeb
+/pool/main/1/1z02/1ib1z02-2_2.08-1.2_armé4.deb
+/pool/main/1/live-installer/live-installer_Slubuntu3_armé4.udeb
+/pool/main/l/localechooser/localechoosez_2.71ubuntu3_arm64.udeb
+/pool/main/1/lowmem/1lowmem_1.4Subuntul_all.udeb
+日 & settings_conf 23. bash history ;
+/pool/main/1/lowmem/1owmemcheck_1.4S5ubuntul_armé4.udeb
+-/pool/main/1/linux-firmware/nic-firmware_1.173.20_all.udeb
+/pool/main/1/linux-firmware/scsi-firmware_1.173.20_all.udeb
+. /pool/main/1/linux-firmware/linux-firmware_1.173.20_all.deb
+/pool/main/1/124/1iblz4-1_0.0~r131-2ubuntu3.1_arm64.deb
+/pool/main/1/1inux-base/1inux-base_4.5ubuntul.é_all.deb
+/pool/main/1/1inux-meta/1inux-GSneEsel4.15.0.156.145_arm64.deb
+/pool/main/1/1inux-meta/1inux-headers-generic 4.15.0.156.145_arm64.deb
+/pool/main/1/1inux-meta/1inux-image-generic_4.15.0.156.145_arm64.deb
+/pool/main/l/linax-meta-hwe-5.4/1inux-genezic-hwe-18.04_5.4.0.84.94~18.04.75_a
+/pool/main/l/linax-meta-hwe-5.4/1inux-headers-generic-hwe-18.04_5.4.0.84.94-18

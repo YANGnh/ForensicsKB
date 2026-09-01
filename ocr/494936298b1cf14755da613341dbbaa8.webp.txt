@@ -1,0 +1,16 @@
+# OCR: 494936298b1cf14755da613341dbbaa8.webp
+# 来源: .\02-WriteUp\2025\494936298b1cf14755da613341dbbaa8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+详 细 信 息
+类 型
+大 h
+SCH
+修 改 日 期
+分 8 招
+JPG 文 件
+275 KB
+D:\test
+2025/5/15 13:59
+598 x 643

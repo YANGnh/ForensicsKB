@@ -1,0 +1,7 @@
+# OCR: dbc49e40f57c635ca2dca0fd585dc839.webp
+# 来源: .\02-WriteUp\2024\dbc49e40f57c635ca2dca0fd585dc839.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+40d32ec6a206cacS310b74bc1
+fm nem sen mn sures

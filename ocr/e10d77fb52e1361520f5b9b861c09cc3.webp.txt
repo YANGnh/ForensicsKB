@@ -1,0 +1,10 @@
+# OCR: e10d77fb52e1361520f5b9b861c09cc3.webp
+# 来源: .\02-WriteUp\2025\e10d77fb52e1361520f5b9b861c09cc3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+$ MATCH (p:person) WHERE p.name STARTS WITH “ 白 杰 “RETURN p.mobile
+S| peti
+大 "13218346813"
+Tes
+Started streaming 1 records after 2 ms and completed after 14 ms.

@@ -1,0 +1,20 @@
+# OCR: 3c81fae1d06387f337f8ade7256a77c5.webp
+# 来源: .\02-WriteUp\2024\3c81fae1d06387f337f8ade7256a77c5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+选 抱 碟 盘
+Eine 返 辐 驱 动 躁
+画 - 铨 逻 辐 驱 动 躁 无 盛 符
+巳 绍 牲 E 踹
+心 软 盘 0
+心 软 盘 1
+心 HDO: YMTC YMSS2ED08D25MC (954 GB, NVMe)
+心 HD1: ZHITAI TiPlus5000 2TB (1.9 TB, NVMe)
+心 HD2: StorLib Virtual Storage (8.0 GB, ATA)
+心 HD3: StorLib Virtual Storage (2.0 GB, ATA)
+心 HD4: StorLib Virtual Storage (288 GB, ATA)
+== HDS: StorLib Virtual Storage (8.0 GB, ATA)
+心 HD6: StorLib Virtual Storage (2.0 GB, ATA)
+团 列 i 汪 有 盅 符 的 卷
+不 确 定 (O) 取 消 () 仁 帮 助 (H)

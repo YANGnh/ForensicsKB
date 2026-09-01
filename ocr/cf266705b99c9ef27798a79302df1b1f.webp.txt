@@ -1,0 +1,13 @@
+# OCR: cf266705b99c9ef27798a79302df1b1f.webp
+# 来源: .\02-WriteUp\2025\cf266705b99c9ef27798a79302df1b1f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+NoahTie@LAPTOP-H91IARRE F/F/File
+> node .\crypto.js
+[+] First decryption: 1428444b93c31c069502e96b36e65d4de5556e4F3839bc68a7d47
+f985ec5faddc9b33f93999983c592633535af653a455d448949ded8bc5441cf268bba5c3ab83
+210F4b9a1F47555a653ae86ceab695598578c1a3ddd86719F708d58961629db7346465b748ae
+4ae20f9baal25cc38e4abcae296c7FF1fdb
+[+] Second decryption: 4c49414e484F4e475149414e5149414e
+[+] Final result: LIANHONSQIANQIAN

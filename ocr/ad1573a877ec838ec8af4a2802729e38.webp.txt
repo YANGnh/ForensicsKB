@@ -1,0 +1,35 @@
+# OCR: ad1573a877ec838ec8af4a2802729e38.webp
+# 来源: .\02-WriteUp\2025\ad1573a877ec838ec8af4a2802729e38.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+符 Indexciondassphp X
+App > Lib > Action > Admin 》 赖 IndexAction.class.php
+2 class IndexAction extends CommonAction {
+16 ]
+1
+12 public function login(){
+13 Ehis->titlen“ 登 录 系 统 “:
+14 if(IS_POsT)|()
+15 $_validate = array(
+16 array(「username ‘require’, 用 户 名 不 能 为 空 11)。
+17 array(‘password','require', 密 网 不 能 为 空 1.),
+18 3
+19 $Admin = D(“admin");
+20 $Admin-> setProperty("_validate", $validate) ;
+2a $result = $Admin->create();
+22 if ($result) {
+23 $this->error($Admin->getError());
+24 }
+25 $username = I( ‘username’
+26
+27
+28
+29 ->Find();
+38 if ($tmp){
+31 if($tmp['status"]){
+32 // 写 入 登 录 记 录
+33 $Admin_login = D("admin_login");
+34 $Admin_login->add(array(
+on Easag d
+> $username, ‘password’ => $password))

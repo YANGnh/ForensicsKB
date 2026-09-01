@@ -1,0 +1,8 @@
+# OCR: 266de4d4af188cbb9747fb01ae101488.jpg
+# 来源: .\02-WriteUp\2024\266de4d4af188cbb9747fb01ae101488.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+function fencrypt($str){
+| return md5(c(“AUTH_CODE") .$str);
+4

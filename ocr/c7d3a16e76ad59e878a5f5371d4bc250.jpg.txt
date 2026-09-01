@@ -1,0 +1,14 @@
+# OCR: c7d3a16e76ad59e878a5f5371d4bc250.jpg
+# 来源: .\02-WriteUp\2024\c7d3a16e76ad59e878a5f5371d4bc250.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+BS 自 口 | 团 soratnocpom x 气 192,168.11.188
+X @ 192.168.11.188:7788/index php?do=login
+嘲 … 无 法 访 问 此 页 面
+192.168.11.188 花 了 太 长 时 间 进 行 响 应
+E
++ 在 web HR 192 168 11 188
+: hee
+> REIS
+= «

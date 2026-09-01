@@ -1,0 +1,22 @@
+# OCR: c102e6056b045e0eddb0b94d2caf0bcd.jpg
+# 来源: .\02-WriteUp\2024\c102e6056b045e0eddb0b94d2caf0bcd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+root@javaserver:“# netplan apply
+WARNING:raot:Cannot call Open vSwitch: avsdb-server.service is not running.
+root@javaserver:“# ip a
+1: lo? <LOOPBACK,UP,LOWER_UP> mtu 65536 qdise noqueue state UNKNOWN group default qlen 1000
+Link/ Loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+inet 127.0.0.1/8 scope hast lo
+valid_lft forever preferred_Ift forever
+ineté ::1/128 scone host
+valid_lft forever preferred_lft forever
+2: ens33: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+link/ether 00:0c:23:55:e1:02 brd ffiff:ffiffiffiff
+altname enp2si
+inet 192.168.100.111/24 brd 192.168.100.255 scope global ens33
+valid_lft forever preferred_lft forever
+ineté fe80::20c:29ff:fe55:e102/64 scope Link
+valid_lft forever preferred_ift forever
+root@javaserver:"# _

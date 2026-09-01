@@ -1,0 +1,6 @@
+# OCR: 83d30b826c8a6018417c8687ea6ceb49.webp
+# 来源: .\02-WriteUp\2025\83d30b826c8a6018417c8687ea6ceb49.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+RAID 2R 5E H

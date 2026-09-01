@@ -1,0 +1,20 @@
+# OCR: 8886e018fbd1adb1da2d704a75468caa.webp
+# 来源: .\02-WriteUp\2025\8886e018fbd1adb1da2d704a75468caa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+@ linux.conf @ C:/hinet/1-1748241630/A244 1-FH1tar/data/user/0/ru.meefik linuxdeploy/files/config * - Kate
+S40 #80 B20 82M G Tem iweerey 280 ID BBO aH)
+gi Bee Ps. 9 ae
+D ae | LS
+> Bi linux.conf x
+SOURCE PATH="http://ftp.debian.org/debian/"
+SSH ANRGS 一 4
+SSH_PORT="22"
+"boo
+rm"
+LARGE TYFB 一
+USER_NAME="android"
+USER_PASSWORD="99c26da5"
+VNC_ARGS=""
+VNC_DEPTH="16"

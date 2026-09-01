@@ -1,0 +1,15 @@
+# OCR: 1d3f5fa4dff12c1ae839fb2fd5694278.webp
+# 来源: .\02-WriteUp\2025\1d3f5fa4dff12c1ae839fb2fd5694278.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+刚 买 到 的 一 会 处 理 .xlsx
+文 件 仪 置 “D: ) 检 材 题 目 2025 数 证 杯 决 赛 ) 个 人 赛 导 出
+文 件 粉 城 MS Office 2007 — Open Password, Hardware acceleration possible, Instant Memory attack possible
+Protection Microsoft Enhanced RSA and AES Cryptographic Provider, 128 bits
+BRE e@eee) Brute-force - Slow
+MDS: 31D2619A4862D1CBC8DB8BEBEFFE3D18
+Passwords: File-Open Doloris@0721 “ 已 移 除
+File-Modify RANWUYPGVEWPYBX hk 已 移 除
+Unprotected file: D: ) 检 材 题 目 ) 2025 数 证 杯 决 赛 ) 个 人 赛 导 出 ) 刚 买 到 的 一 会 处 理 -unprotected.xlsx
+MDS:528C22FF2F21EEB44880A84F70C99A32

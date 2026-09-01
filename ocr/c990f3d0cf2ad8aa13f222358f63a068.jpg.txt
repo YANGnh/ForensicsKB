@@ -1,0 +1,10 @@
+# OCR: c990f3d0cf2ad8aa13f222358f63a068.jpg
+# 来源: .\02-WriteUp\2024\c990f3d0cf2ad8aa13f222358f63a068.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+command standard output:
+\\ 的 用 户 忠 户
+admin1 administraotrl Administrator
+delete Guest
+APES, PRE-TASMAR.

@@ -1,0 +1,48 @@
+# OCR: 254bb56af7f8fcacef4e13cc5ff19bdb.webp
+# 来源: .\02-WriteUp\2025\254bb56af7f8fcacef4e13cc5ff19bdb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+BP a 李 8 务 跋 001 , 团 Linue& 本 信 恩 _ 集 胡 服 务 商 001.E01/ 分 区 4 , 国 一 纬 信 恩
+国 三 庆
+口 4
+口 5
+口 6
+口 7
+口
+口 10
+Sam
+E
+E
+捣 作 系 纬 八 型
+接 作 系 绕 本
+揉 作 系 统 名 称
+奶 发 行 本
+系 的 5 本 号 (NS)
+系 给
+王 页
+Bug 反 馆 地 圣
+cs
+= RNB
+ie
+hostname
+OS_TYPE
+OS_NAME
+MATERIALS_NAME
+ID_UKE
+VERSION_ID
+PRETTY NAME
+HOME_URL
+BUG_REPORT_URL
+Kernel
+=a
+ber
+k8s-master
+CentOS Linux
+centos
+helfedora
+7
+CentOS Linux 7 (Core)
+https//www.centos.org/
+https://bugs.centos.org/
+3.10.0-1160.el7.x86_64

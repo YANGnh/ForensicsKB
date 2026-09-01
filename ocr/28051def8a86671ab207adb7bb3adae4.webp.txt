@@ -1,0 +1,9 @@
+# OCR: 28051def8a86671ab207adb7bb3adae4.webp
+# 来源: .\02-WriteUp\2025\28051def8a86671ab207adb7bb3adae4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+D
+© arms nn
+D_—deepseek-et:70 -
+01 deepseek-r1:7b

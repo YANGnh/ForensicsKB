@@ -1,0 +1,47 @@
+# OCR: 6cf859780c52c3ac2065b9dc9c3387b6.webp
+# 来源: .\02-WriteUp\2025\6cf859780c52c3ac2065b9dc9c3387b6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+l File Edit Selection View Go - a 几 Search [Administrator]
+回
+鼎 oe 明 包 一 D
+皂 测 试 beacon_uripy 皂 解 密 key 文 件 py X
+C > Users > Administrator > Desktop > Cobalt Strike Tools work 》 皂 解 密 key 文 件 .py > ...
+1 import base64
+2 import javaobj.v2 as javaobj
+3
+4 file_path = r"C:\Users\Administrator\Desktop\Cobalt_Strike_Tools_work\keys”
+5
+6 with open(file_path,“rb“) as fd:
+7 pobj = javaobj.load(fd)
+8 privateKey = pobj.array.value.privateKey.encoded.data
+3 publicKey = pobj .array.value.publickKey.encoded .data
+16
+11 nrivatakav = (
+PROBLEMS OUTPUT DEBUG CONSOLE TERMINAL PORTS,
+对 256 取 余 的 结 果 为 : 92
+目 & C:\Users\Administrator\AppData\Local \Programs \Python\Python312\python.exe
+po
+c:/Users/Administrator/Desktop/Cobalt_Strike_Too
+目 & C:\Users\Administrator\AppData\Local \Programs \Python\Python312\python.exe c:/Users/Administrator/Desktop/Cobalt_Strike_Too
+MIICdwIBADANBgkqhkiGQw@BAQEFAASCAmEwggJdAgEAAOGBAL 1pPChVSiG12WN4Vv207IMLhajj
+iV43M76BvGaRBO+VcvTNVSIQQyfcFtoULYZWI5iDxRZGBcOKs5a8KYVhBPEnRVF6x/GCAIDSAPF
+weW2w2KvXYZZSbioLd/3H/k1ssJ2dG96ZEUKEG6LcdFV1GCFN6Re83yRRTNME/8UMbNntAgMBAAEC
+gYBa/MRzMSVq4CpPiclxnEitIsnQoYlxft8ScswIET3nwUj5o/FzbZB1Alr048C/DZf21dAcnDfg
+XaT6f+D+U/EDopIfaPNdsGlpGpxGz7UinlhKtYoz4DDW/SiNHyNAIcJUVakCt+XuBCFEqonmyXg
+p/JYBJLU+8LJDKUVs3Vo2QJBAPxQK1t8/16sL3UPNegviE1FAKDI3dPsNxDTIXhbl+UYGVQ4KuCt
+/cndnid+vJFzXUwRjMBOkityu8xS1Lvlen8CQQDALcRgGZGiQrzXTBmk9U1+nHH6SUOGEzS/USms
+L7ehamP7gGyZxZUu+CeYtBALLsBa6uCKXUUY6sXdsplImaP2TAKBQfpMMg05DdBc/1TZzyLVHUXg9
+eldRuMSgg7rtlvStil6pS7ICM///a2i8q6sD191QRbJfmeinH4xiRxqvRyqpAkEAv3UZHhB7GMdZ
+kTh8fgbStJ+Roj6D3fAGbc+jL6q+S+6d0zN/flbswEVz1VsWXL2v3yP+neHeSbKHe831p98TRnJB
+AIVnULlq4Yy06X478c1AUZHOrbnZlujdvTh2sYGkAnGk9tcUBdrXQuN36oyy7hoNDj5SDp8A2XMu
+YwRVbF9KOdE=
+END PRIVATE KEY-----
+BEGIN PUBLIC KEY-----
+MIGFMA@GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9aTWoVUchtd1jeFb9juyDC4Wo441leNz0+gbxm
+kQTv1XL@zVUiEEMn3BbaFCGGb1SOYg8UWREXNCrOhivCmL4QTxZeVX+sfxnAIg+QDxcH1tsNir12G
+WMUmdqC3f9x/5JbLCdnRvemRFChOi3HRb5RgnzekXvNSkUUSzBP/FDGzZ7QIDAQAB
+END PUBLIC KEY-
+@ Administrator on Friday at 3:26 PM
+回 【 目 home @ AppData 回 Local @ Programs 目 Microsoft VS Code } 日 相

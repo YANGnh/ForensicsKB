@@ -1,0 +1,26 @@
+# OCR: 1d0ebd49e3ea8e593b26e16c0a34ae49.jpg
+# 来源: .\02-WriteUp\2024\1d0ebd49e3ea8e593b26e16c0a34ae49.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+Mnemonic
+Mnemonic Language
+BIPS9 Mnemonic
+BIP39 Passphrase
+(optional)
+BIPS9 Seed
+Coin
+BIP92 Root Key
+You can enter an existing BIP39 mnemonic, or generate a new random one. Typing your own twelve words will probably not work how you expect, since
+the words require a particular structure (the last word is a checksum),
+For more info see the BIP39 spec.
+Generate a random mnemonic, or enter your own below: Generate 15 words.
+( Show entropy details
+Hice at private into
+English AEH Espafiol rfSHJ PXIR 国 Francais aiano t=O}
+Infant fragile garlic bracket stove blade stick dove aerobic spin term educate
+7b9ea7bcebd7090055b5116c70ed84dc7 15c5 13foc8cfc698TE8e7b3a3bdc7a08.4589ba64ebI649bd8483714235ee92e55965ca94 16cc95714187a47>
+E
+ETH-Ethereum
+‘xprv9s21ZrQH 143K3Fh7NOkwiuE6vtmTisKnNCDPIZAxky25AZymHZ4ofF LflpoT SGWvalxa2yvitreq2bJmurvigScaPZBVWiyryszMCzcE8u
+4

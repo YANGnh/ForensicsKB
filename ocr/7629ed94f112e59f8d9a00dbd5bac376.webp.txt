@@ -1,0 +1,12 @@
+# OCR: 7629ed94f112e59f8d9a00dbd5bac376.webp
+# 来源: .\02-WriteUp\2024\7629ed94f112e59f8d9a00dbd5bac376.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+<P te fi: #[6:\tmp\20242%
+iE # + A /NTUSER. DAT]>
+rs |
+| dh 1
+| \\192.168.188.1\Nas |
+| \\192.168.8.1\shares |
+1

@@ -1,0 +1,31 @@
+# OCR: 11ef68c4a9222d0168b826c5eba904b6.jpg
+# 来源: .\02-WriteUp\2024\11ef68c4a9222d0168b826c5eba904b6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+ae
+kes 。 的 M
+e
+e
+颂
+伟
+ame +
+Welcone to Ubuntu 22.64. LTS (GNU/Linux 5.15.6-100-generic x86_64)
+* Documentation: https: //help_ubuntu.com
+* Managenent- https: //landscape.canontcal.com
+* Support: https=//ubuntu-con/pro
+Syste information as of Mon May 20 9-19-00 AM UTC 2024
+System load: 0.0 Processes: 弛
+Usage of /: 55.7% of 9750 Users Logged tn:
+Menory usage: 14% Tvs’ address for ens33: 192.160.100.111
+Swap usage: 0%
+Expanded Security Matntenance for Applications is not enabled.
+4 updates can be applied immediately
+To see these additonal updates run: apt List --upgradable
+Enable ESM Apps to recetve addtttonal future securtty updates.
+See https://ubuntu-con/esn or run: sudo pro status
+The Uist of avatlable updates ts more than a week old.
+To check for new updates run: sudo apt update
+Fatled to connect to https://changelogs. ubuntu con/neta-release-Lts. Check your Internet connection or proxy settings
+Last login: Mon Nay 26 69:16:42 2624 from 192.168.100.108
+root@javaserver=~i |

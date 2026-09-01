@@ -1,0 +1,11 @@
+# OCR: 1599f267ff7f75f59318e44a25beaec3.webp
+# 来源: .\02-WriteUp\2025\1599f267ff7f75f59318e44a25beaec3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+Boot Maintenance Manager
+Configure boot options Boot the system
+Configure drivers inmediately fron a
+Boot a file selected file or device
+Configure screen size
+Exit the Boot Maintenance Manager

@@ -1,0 +1,11 @@
+# OCR: f308cba377d05cf52026e5bf7c815759.jpg
+# 来源: .\02-WriteUp\2024\f308cba377d05cf52026e5bf7c815759.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+CentOS Linux 7 (Core)
+Kernel 3.10.8-1160.118.1.e17.x86_64 on an x86_64
+jourcode| login: root
+assu
+Last login: Thu May 23 11:
+:83 from desktop-poobZal .mshome net

@@ -1,0 +1,75 @@
+# OCR: 1e9e6098a372264af1fb8bb4e4972424.webp
+# 来源: .\02-WriteUp\2025\1e9e6098a372264af1fb8bb4e4972424.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+EXPLORER
+v OPEN EDITORS
+x 巳 2sql
+v BINLOG
+不 2aql
+与 binlog000001
+与 binlog000002
+= only in newtet
+© order_ids_new.txt
+= 2sqi
+© 2sq1
+507413
+$e7414
+587415
+se74i6
+307417
+se7418
+567413
+507428
+567421
+507422
+$7423
+507424
+507425
+587425
+507427
+507428
+507429
+507430
+507431
+507432
+507433
+507434
+507435
+507436
+507437
+507438
+507439
+597440
+x
+#250918 20:58:54 server id 1 end_log_pos 6756776 CRC32 Bx8851182f Query thread_id=12 ex
+SET TIMESTAMP=1758200334/*!*/;
+SET @@session.foreign_key_checks=1/*!*/;
+BEGIN
+T1815
+# at 6756776
+#250918 20:58:54 server id 1 end_log_pos 6756898 CRC32 6x598f8d44 Table_map: “dujiaoka 。
+# at 6756899
+#250918 20:58:54 server id 1 end_log_pos 6757198 CRC32 @xcle28291 Delete_rows: table id .
+铨 8 DELETE FROM “dujiaoka’.”orders*
+8 WHERE
+@1=6924 /* LONGINT meta=@ nullablez8 is_null=@ */
+. SRUBXNREGS2MDSOAR' /* vaRsTRING(450) meta=450 nullable=@ is_nullce */
+/* INT meta=@ nullable=@ is_null=0 */
+ie /* INT meta=@ nullable=1 is_null=0 */
+S=* SFI RIM 22 FRR BAERS FT HEIRS ~ 8 RO SO AT FS BR HT CH HN A
+@6=1 /* TINYINT meta=@ nullable=@ is_null=8 */
+@7=7.0@ /* DECIMAL(10,2) meta=2562 nullable:
+@8=7 / INT meta=@ nullable=@ is_null=e */
+@9=0.0@ /* DECIMAL(10,2) meta=2562 nullable=@ is_nul.
+@1@=0.00 /* DECIMAL(10,2) net
+@11=49.0@ /* DECIMAL(1@,2) met _
+@12=49.0@ /* DECIMAL(1@,2) meta=2562 nullable=@ is_null=@ */
+@13='' /* VARSTRING(6@0) meta=60@ nullable=1 is_null=e */
+@14='frankmorrison3462@outlook.com’ /* VARSTRING(6@@) meta=6@@ nullable=0 is_null=@
+/* BLOB/TEXT meta=2 nullablesi is null=e_*/
+@16=14 /* INT meta=@ nullable=1 i! BRE - Sr OSE A
+@17="55.159.149.213" /* VARSTRING(15@) meta=15@ nullabli
+is_null=0 */
+Iipmshelcalas baal

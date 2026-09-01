@@ -1,0 +1,18 @@
+# OCR: bf15b93578ccccc1a04ca12f0b659830.jpg
+# 来源: .\02-WriteUp\2024\bf15b93578ccccc1a04ca12f0b659830.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+= (MySQL)
+MR 。 RR SSL SSH HTTP
+2
+Navicat
+ARE:
+2 回
+目
+SSH RSS
+nee
+| VPNERSSSE
+localhost
+3306
+root

@@ -1,0 +1,8 @@
+# OCR: 1a14c22e393a307930889474cc6b8b83.jpg
+# 来源: .\02-WriteUp\2024\1a14c22e393a307930889474cc6b8b83.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+192.168.100.100 demo.tjshop.com
+192.168.100.100 test!.tjshop.com
+192.168.100.100 www.tjshop.com

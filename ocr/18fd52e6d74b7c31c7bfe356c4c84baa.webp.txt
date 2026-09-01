@@ -1,0 +1,34 @@
+# OCR: 18fd52e6d74b7c31c7bfe356c4c84baa.webp
+# 来源: .\02-WriteUp\2024\18fd52e6d74b7c31c7bfe356c4c84baa.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+露 root @ ql-n117-45.117.10.203 in /opt/bl.dsnbbaj686.fit/ww/app [20:44:24]
+1s
+apt command-php config-php — index route_php
+sppranager common.php database.php Layuipaginate_php tags_php
+E root @ ql-n117-45.117.10.203 in /opt/bl.dsnbbaj6a6.fit/ww/app [20:44:24]
+> cat database.php
+<2php
+/ -
+/] | ThinkPHP [ WE CAN DO IT JUST THINK 1
+Be
+/] | Copyright (c) 2006-2016 http://thinkphp.cn ALL rights reserved.
+a
+J] | Licensed ¢ http://mm. apache. _org/Licenses/LICENSE-2.0 )
+1 - n
+/] | Author: ltu2ist <Liu2istegnatl com>
+ss
+return
+个
+“type! => 'mongo',
+1] 服 务 器 地 址
+"hostname' "127.0.0.1',
+仁
+“database「 = "hfe",
+I BP!
+‘username’ => 'mongoadmin',
+/ BB
+"password" => 'RvbwSG3dqgZQ' .
+W 竭 口
+“hostport「 "27017",

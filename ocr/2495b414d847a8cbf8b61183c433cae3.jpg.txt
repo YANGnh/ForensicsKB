@@ -1,0 +1,22 @@
+# OCR: 2495b414d847a8cbf8b61183c433cae3.jpg
+# 来源: .\02-WriteUp\2024\2495b414d847a8cbf8b61183c433cae3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+ems istory visits @main (History) -
+Fees (Cane 开 仪 & 招 8 Ha i seen 白 T -
+id history item visit time title
+# INTEGER # INTEGER # REAL sf TEXT
+| 167 卯 744794843.467143 ASBEAER HAA SEBKERS | Lendela la
+168 4 744956173.961882
+169 93  744956173.962494 _Intella X
+170 95  744956203.325213Intella X
+m 96  745080750.209608 _Intella X
+172 97  745080763.252757 _Intella X
+173 93 745148496.644679 _Intella X
+174 96  745148512.991609 _Intella X
+175 95 745148521.686923 | Intella X
+176 98  745148538.273197 Intella X
+7 99  745148546.435348._Intella X
+178 100 745148552.871186._Intella X
+179 101 745148559.879746 _Intella X

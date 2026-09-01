@@ -1,0 +1,32 @@
+# OCR: f7d7bb6b687f5764fe33f9f05749f8e4.webp
+# 来源: .\02-WriteUp\2024\f7d7bb6b687f5764fe33f9f05749f8e4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+(Md Wireshark» 188% TCP 3% (tep.stream eq 29-kpdunpep - ou XxX
+3 string var (default “bi
+-theead int
+‘thread
+time int
+tieeout
+cufile string
+> x
+-url string
+|] es
+adsinistrator -pfile Fast
+cd tt
+£:100.254 -mode rdp -user adninistrator -pfile Fast?
+[info]:: | 2022/03/04 15:45:33,
+[info}:: | 2022/03/08 15:45:33, emp.
+[success]:: | 2022/83/04 15:45:33 [icmp] 192.168.100.254
+[info}:: | 2022/03/08 15:45:33,
+[Success]:: | 2022/03/04 15:45:38 [PortInfo] Host:192.168.100.254:3389
+[info]: | 2022/03/04 15:45:38 dp.
+[success]:: | 2022/03/04 15:46:02 [ROP] 192.168.100.254:3389 ne
+[tnfo]:: e
+[rootlecalhost application]
+295
+PBT, EPR LE CREE NE 2 uml EER,
+东 M (11 kB) 、 ‘Show data as ASCII ‘i (1720 13]
+mt =)
+=e | sa || 酮

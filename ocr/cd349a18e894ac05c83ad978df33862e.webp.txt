@@ -1,0 +1,34 @@
+# OCR: cd349a18e894ac05c83ad978df33862e.webp
+# 来源: .\02-WriteUp\2025\cd349a18e894ac05c83ad978df33862e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+~ libcrypto-utils.so C:
+dit Jump Search View Debugger Lumina Options Windows Help
+9 0 王 自 里 丽 @ 2 M-i HC: 口 一 人 见 口 口 吊 余 ; > WW No debugger b
+brary function 国 Regular function Instruction Mf Data 国 Unexplored 国 External symbol 国 Lumina function
+tions 口 IDA View-A 白 睿 Pseudocode-& 厂 回 Hex View-1 国 oOo 1
+AES _a_; // [xsp+1@h] [xbp-4CBh] BYREF
+s _ int64 v18; // [xsp+488h] [xbp-48h]
+operator [illete (void *)
+- pthread_key_delete
+pryatlener canste ener acaleee || ° P
+n e v18 = *(_QWORD “) (_ReadStatusReg(TPIDR_EL6) + 40);
+AES: :DefEncryptBlock(char const*,cha-- © base64_decode(strSrc) ;
+AES: :DecryptBlock(char const*,char 切 © n = *(v15 - 3)3
+base64_encode (uchar consth uint) e in = operator new[](n + 1);
+operator 国 lete[] (oid!) 目 memcpy(in, vi5, n + 1);
+base64_decode(std: : string const&) 5 ger SepaRkar TELIA & Ws
+Decrypt (std::string const&) 5 Pens, 1s, ms Ds
+AES: :DefDecryptBlock (char const# cha Py\_S, viv. 8
+_cxa_allocate_dependent_exception 0 AES: :AES(&_a_); 、
+. oxa ngle e AES: :MakeKey(&_a_, "“e8lwolani2dfw31f", “gfdertfghjkuyrtg", 16, 16);
+AES: :DefEncryptBlock(char const*,cha-- © AES: :Decrypt(&_a_, (const char *)in, _s, n, @);
+AES: :DefDecryptBlock(char const*,cha-- , 白 v6 = (int)n -
+AES: :DecryptBlock(char const*,char 切 , Wan- fim = ais
+AES: :Decrypt (char const*, char *, ulon- i 一
+base64_encode(uchar const*, uint) 2 ahr (UH 2
+base64_decode (std::string const&) : :
+Decrypt (std::string const&) ie v8 = (unsigned _int8)_s[n - 1];
+Java_com_casual_libcrypto_JniCallNat-- © while ( (unsigned __int8)__s[v6] == v8 )
+operator delete(void *) {

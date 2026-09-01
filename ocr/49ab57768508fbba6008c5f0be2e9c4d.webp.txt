@@ -1,0 +1,20 @@
+# OCR: 49ab57768508fbba6008c5f0be2e9c4d.webp
+# 来源: .\02-WriteUp\2025\49ab57768508fbba6008c5f0be2e9c4d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+符 Smsspidassphp X
+App > Lib > Class 》 ® Smsapi.class.php
+<?php.
+厂
+ag
+* By:somnus
+Time: 2016-12-15 21:33
+1 个 结 昂 , 包合子1个〕忆{黜鲈中〉攀I薹_l熹′'
+打 异
+way
+仁 仁 Smsapiclass.php App\Lib\Class “ 国 class Smsapi{
+ps pmMInREO 8 x
+wavVaurune
+16
+protected $sendurl = "http: //api.smsbao.com/";

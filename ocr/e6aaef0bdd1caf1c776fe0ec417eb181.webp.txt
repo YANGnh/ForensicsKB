@@ -1,0 +1,19 @@
+# OCR: e6aaef0bdd1caf1c776fe0ec417eb181.webp
+# 来源: .\02-WriteUp\2025\e6aaef0bdd1caf1c776fe0ec417eb181.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+u
+3: br-69fa523476e9 <BROADCAST ,MULTICAST ,UP,LOWER_UP> mtu 1506
+roup default
+Link/ether 2e:5b:61:01:36:21 brd ff:ff-ff-ff-ff:ff
+inet 172.19.8-/16 brd 172.19.255.255 scope global br-69f
+valid_lft forever preferred lft forever
+inet6 fe80--2c5b-61ff -fe01-3621/64 scope Link
+vatid Ift forever preferred lft forever
+4: br-3b4688fabaf1- <BROADCAST ,MULTICAST ,UP,LOWER_UP> mtu 1506
+roup default
+Link/ether 4a:5f-e7:24:8b:53 brd ff-ff-ff-ff-ff:ff
+inet 172.18.0.1/16 brd 172.18.255.255 scope global br-3b4¢
+valid_lft forever preferred lft forever
+Papier ol iy "yh iglninge selbst

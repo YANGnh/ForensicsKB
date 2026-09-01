@@ -1,0 +1,6 @@
+# OCR: 357c2222392ede262eab342496e78327.webp
+# 来源: .\02-WriteUp\2024\357c2222392ede262eab342496e78327.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+welcome

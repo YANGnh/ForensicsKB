@@ -1,0 +1,11 @@
+# OCR: 37f49f1208f6c8269f3915cf3ec157fd.jpg
+# 来源: .\02-WriteUp\2024\37f49f1208f6c8269f3915cf3ec157fd.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+inl0x64 19041 pslist | grep navicat
+6 2024-04-25 14:16:01 UTC+0000
+pol ) [=/# i /Forensics/volatility|
+一 python2 vol.py - /mnt/Share With Win10/memdump.mem profi
+Volatility Foundation Volatility Framework 2.6.1
+Oxffffe6086dce6080 exe 9336 5272 11 6 1

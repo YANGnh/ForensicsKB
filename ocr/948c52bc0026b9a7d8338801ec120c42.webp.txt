@@ -1,0 +1,40 @@
+# OCR: 948c52bc0026b9a7d8338801ec120c42.webp
+# 来源: .\02-WriteUp\2025\948c52bc0026b9a7d8338801ec120c42.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+Cc 8
+ish 评 便 /
+| | 日 | - Se eee s 一
+= 8 三 gfto = See = Bue E BAX
+\ SH Duncan Japt... 11/93772 口 ‖‖
+SF vy 4624 口 ie 口 1552 日 |e Y ie 史 iz
+V HE LAM KH [apt 34376 2
+, Nines ‘ 口 1 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security 刹
+> 蒙 ISBRS 1 口 2 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security
+> Bre 327 口 5 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security
+E 244
+口 4 4624 ‘An account was successfully logge <EventDat.. 信 眼 Security
+> |) = 1118
+> © 856 4405
+*
+Vv % BARE 20169
+3 评 皓 x
+v 菲 WndoweB 9934
+protocols.Yen%st- Key length indicates the length of the generated session key. Ihis will be 0 if no session key was requested.
+x08: <EventData> <Data Name="SubjectUserSid" >S-1-5-18</Data> <Data Name="SubjectUserName">CEO-PC$</Data> <Data
+Name="SubjectDomainName”>WORKGROUP</Data> <Data Name="SubjectLogonld” >0x000003e7</Data> <Data Name="TargetUserSid” >$-1-5-21-
+3032 244795756-2605320691-3516395164-1000</Data> <Data Name="TargetUserName">CEO</Data> <Data Name="TargetDomainName">CEO-
+| eee | PC</Data> <Data Name="TargetLogonld” >0x00ae1cad</Data> <Data Name="LogonType">10</Data> <Data Name-“LogonprocessName>User32
+</Data> <Data Name="AuthenticationPackageName’ >Negotiate</Data> <Data Name="WorkstationName” >CEO-PC</Data> <Data
+10
+3629
+> 0 MRIESAD.. 10285 Name="LogonGuid">00000000-0000-0000-0000-000000000000</Data> <Data Name="TransmittedServices">-</Data> <Data
+〉 蛭 W6&3f — 1398 Name="LmPackageName">-</Data> <Data Name="KeyLength">0</Data> <Data Name="Processid”>0x00001228</Data> <Data
+[ 。 Name="ProcessName” >C:\Windows\System32\winlogon.exe</Data> <Data Name-“pAddress“> 医 2 命 -/Data> <Data
+> tzssta 国 Name="IpPort"> 32828</Data> </EventData>
+So 颖 R BB
+Berta 153 3 Security
+> ShimCache l we: CEO-PC
+56 BE: Microsoft-Windows-Security-Auditing
++ = cup: 54849625-5478-4994-A5BA-3E380328C30D

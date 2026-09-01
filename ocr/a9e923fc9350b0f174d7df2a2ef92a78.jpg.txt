@@ -1,0 +1,28 @@
+# OCR: a9e923fc9350b0f174d7df2a2ef92a78.jpg
+# 来源: .\02-WriteUp\2024\a9e923fc9350b0f174d7df2a2ef92a78.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+# Usage
+Start the program with arguments:
+python run.py [options]
+-h --help show this help message and exit
+-s SOURCE _PATH, --source SOURCE_PATH select an source image
+-t TARGET PATH, --target TARGET PATH select an target image or video
+-o OUTPUT PATH, --output OUTPUT PATH select output file or directory
+--frame-processor FRAME PROCESSOR [FRAME_PROCESSOR ..] frame processors (choices: face swapper face_enhancer, ...)
+keep target fps
+keep temporary frames
+skip target audio
+process every face
+-reference-face-position REFERENCE_FACE_POSITION position of the reference face
+-reference-frame-number REFERENCE_FRAME_NUMBER number of the reference frame
+-similar-face-distance SIMILAR_FACE_DISTANCE face distance used for recognition
+-temp-frame-format {jpg,png} image format used for frame extraction
+-temp-frame-quality [0-100] image quality used for frame extraction
+-output-video-encoder {libx264,libx265, libvpx-vp9,h264_nvenc,hevc_nvenc} encoder used for the output video
+-output-video-quality [0-100] quality used for the output video
+-max-memory MAX_MEMORY maximum amount of RAM in GB
+~execution-provider {cpu} [{cpu} ..] available execution provider (choices: cpu, ...)
+-execution-threads EXECUTION_THREADS number of execution threads
+--version show program's version number and exit

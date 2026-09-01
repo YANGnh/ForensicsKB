@@ -1,0 +1,24 @@
+# OCR: c697491fd3f4271d90b17a633781e600.webp
+# 来源: .\02-WriteUp\2025\c697491fd3f4271d90b17a633781e600.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+Recipe ^ 回 国 目 Input + 口 司 目 =
+z0GMcheaz1FiaVHB98b7yD1jd7x5I+oZdxnumnbA0Gv25AZPSrFskSuqyMijXT6vwwajnofUDPFjoad
+From Base64 0 〇 L
+Alphabet .
+A-Za-z8-9+/=
+国 Remove non-alphabet chars Strict mode
+AES Decrypt ^ Ou
+Key
+HEX
+888182838485868788998a8b8c8d8e8f
+e 7s = 1 Tr Raw Bytes + LF
+Vv Mode Beene
+0880686666068668.。 “ ECB/NoPadding Output aoa
+Input Output #8541211. 208.156.1018" Bai
+Raw Raw
+URL Decode ^ G 1
+T 团
+STEP a BAKE! Auto Bake
+sac 29 G ims Tr urr-8 <r

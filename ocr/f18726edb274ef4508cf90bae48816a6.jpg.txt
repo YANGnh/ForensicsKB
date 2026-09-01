@@ -1,0 +1,13 @@
+# OCR: f18726edb274ef4508cf90bae48816a6.jpg
+# 来源: .\02-WriteUp\2024\f18726edb274ef4508cf90bae48816a6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+ENN 2024 Fic - iss (MySQL)
+v 8 Sl R R SSL 。SSH 。HnP
+63 一 一 目
+Navicat cad
+[2024 FIC
+E H821688142
+E 3306
+APE: root

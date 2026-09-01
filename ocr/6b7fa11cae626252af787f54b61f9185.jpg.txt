@@ -1,0 +1,10 @@
+# OCR: 6b7fa11cae626252af787f54b61f9185.jpg
+# 来源: .\02-WriteUp\2024\6b7fa11cae626252af787f54b61f9185.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:31
+
+‘Toys job @ji-mei (2024 FIC) -
+sa Vesa [Eee GSA 口 Su 图 RRtt oli oem
+jobid —_ job_name job_group invoke target cron_expression misfire policy
+100 STE DEFAULT ~—redPacketask.redPacketl0 0/2***? 1
+» 105 fNBRB DEFAULT -—redPacketTaskredPacketi0001172023,2024 1

@@ -1,0 +1,60 @@
+# OCR: cc0e228d2b7f2f4aa35635c402ba57e8.webp
+# 来源: .\02-WriteUp\2024\cc0e228d2b7f2f4aa35635c402ba57e8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+日 回
+E
+#3 0000000140022038
+|B 0000000140022040
+| 8B 0000000140022048
+| 8B 0000000140022050
+| $B 0000000140022058
+| 8B} 0000000140022060
+E
+#3 0000000140022070
+|B 0000000140022078
+83 0000000140022080
+| 8B 0000000140022088
+| 8B 0000000140022090
+| 8B 0000000140022098
+E
+3 0000000140022088
+'§B 0000000140022080
+BB 00000001 4002295
+E
+|sProcecsorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessid
+GetCurrentThreadid
+GetsystemTimedsFileTime
+InitilzeSLictHead
+leDebuggerPresent
+GetstartupinfowW
+GetModuleHandlew
+RelUnwindé
+GetlastError
+IntilizeCriicalSectionAndSpinCount
+TisAlloc
+KERNELI2
+KERNELI2
+KERNELIZ
+KERNELI2
+KERNEL2
+E
+E
+KERNELI2
+KERNELI2
+KERNELI2
+KERNELI2
+e
+E
+KERNELS2
+日 国 sees 日 ee Bee ] 日 团 tee
+E a fos 二
+|S o000000140022000 ceptureContext crea?
+|) 0000000140022008 RtlLookupFunctionEntry 2
+| 8B 0000000140022010 RtlVirtualUnwind E
+国 zon UnhandledExceptionFitter E
+E SetUnhandledExceptionFiter E
+E GetCurrentProcess E

@@ -1,0 +1,30 @@
+# OCR: 42fc1e5f87125d4c8949e7cc9e27f3a2.jpg
+# 来源: .\02-WriteUp\2024\42fc1e5f87125d4c8949e7cc9e27f3a2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+[root@server ~]# rpm -qt mdadm-4.1-9_el7_9_x86_64
+Name : mdadm
+Version a
+Release 9.el7_9
+Architecture
+Install Date
+Group
+Size : 1075374
+License = GPLv2+
+Signature = RSA/SHA2S6, Thu 24 Feb 2022 09:53:37 PM CST. Key ID 24c6a8a7f4a8Geb5
+Source RPM : mdadm-4.1-9_el7_9.src.rpm
+Build Date : Thu 24 Feb 2622 01-09-53 AM CST
+Build Host = x86-02.bsys.centos org
+Relocations : (not relocatable)
+Packager = CentOS BuildSystem <http://bugs.centos.org>
+Vendor : Centos
+URL : http://www.kernel.org/pub/Linux/utils/ratd/mdadm/
+Summary : The mdadm program controls Linux md devices (software RAID arrays)
+Description -
+The ndadm program is used to create, manage, and monitor Linux MD (software
+RAID) devices. As such, tt provides similar functionality to the ratdtools
+package. However, mdadm is a single program, and it can perform
+almost all functions without a configuration file, though a configuration
+file can be used to help with some common tasks.
+[root@server ~]# []

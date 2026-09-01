@@ -1,0 +1,31 @@
+# OCR: e74a45a5aca73491cf03e26edbb5743b.jpg
+# 来源: .\02-WriteUp\2024\e74a45a5aca73491cf03e26edbb5743b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+P 吴 一 BptbtHWYL, 目 t § uoeeee
+Gess| =s%
+eee
+Vv |e Vv
+口 1 VMware Virtual USB Hub ‘EA{BEER: Generic USB Hub
+口 2 VMware Virtual USB Hub EE{BEPR: Generic USB Hub
+口 3 Bluetooth Device (Personal Area Net、 ##/B43#R: Bluetooth Device (Personal Ares Network)
+口 4 Samsung PSSD 17 USB Device EE{BEPR: Samsung PSSD T7 USB Device, HBB; Stine
+口 5 — @System32\drivers\usbxhcisys.#10..  BABEHR: @System32\drivers\usbxhci-sys,#1073807361;%...
+口 6 VMware Virtual USB Mouse 城 I 学 : USB Composite Device
+口 7 VMware Virtual USB Hub EA{BEER: Generic USB Hub
+评 皎
+,Samsung PSSD T7 USB Device
+[FR Ms: Samsung PSSD T7_0
+‘QR: 挂 称 : Samsung PSSD T7 USB Device, HBB; Sin: 931G
+BEERS: X12720BROSNWTES
+ERED: Storage
+BERABS: USBWID 04E8RPID_4001\SETWNSORBO2721X
+BEEN 2024-04-25 19:5.
+BENE: 2024-04-25 19:54:14
+i: USBSTOR
+REID: USB\VID_O4E8&PID_4001&REV_0100 USBWID_0468&PID 4001
+euid: {36fc9e60-c465-1 1cf-8056-444553540000}
+Bap: {36fc9e60-c465-1 1cf-8056-444553540000)\0010
+28: PC.E01/9R7/Windows/System32/config/SYSTEM
+cae: 3

@@ -1,0 +1,27 @@
+# OCR: a807f282b091feee01add33089149510.webp
+# 来源: .\02-WriteUp\2025\a807f282b091feee01add33089149510.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+& C,/Users/Administrator/AppData/Local/Programs/Python/Python313/python.exe
+/python/xiaoshuo.py
+python -m pip install -upgrade pip
+pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+pip install bs4
+pip install requests beautifulsoup4 tadm
+python --version
+pip --version
+python -m pip install -U pip -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install requests beautifulsoup4 tadm
+pip install --only-binary=sall --find-links https://pypi.org/simple requests
+beautifulsoup4 tadm
+pip install -i https://mirrors.aliyun.com/pypi/simple/ beautifulsoup4 tqdm
+& C,/Users/Administrator/AppData/Local/Programs/Python/Python313/python.exe
+f/python/db.py
+pip install -i https://mirrors.aliyun.com/pypi/simple/_ pymysql
+& C,/Users/Administrator/AppData/Local/Programs/Python/Python313/python.exe
+f/python/db.py
+SatiWindowst##t, PowerShell PbS SRURLBAL RAS)? [ 标 准 根 式 : 123]
+人 骗 O88 小 5
+(© cnsesqosonpermresernytonenanetceu
+0 c 6 _0 6

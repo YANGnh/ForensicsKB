@@ -1,0 +1,12 @@
+# OCR: 612965971c2ee03479b62a050f0ff2ef.webp
+# 来源: .\02-WriteUp\2024\612965971c2ee03479b62a050f0ff2ef.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+LocalSend
+安 Bk
+ws tm \
+ag ee \e;
+Mystic Apple
+#133
+饨 氓 开

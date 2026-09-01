@@ -1,0 +1,55 @@
+# OCR: 7eeabf50a8bbe45eb104f66e20835d5d.webp
+# 来源: .\02-WriteUp\2025\7eeabf50a8bbe45eb104f66e20835d5d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+D
+11 indent tirst Line
+AE (indent first > 0) |
+4$_paragzaph ~ str_repeat (Sindent_cha
+1 ae
+Sindent_first) . $ paragraph:
+)
+11 worderap sentences
+Ae (Smarty::5 MBSTRING) 1
+equire_ohee SMARTY_PLUGINS DIR . ‘shared.mb wordwrap-php")
+paragraph ~ snarty_nb vordvrap(5_paragraph, wrap ~ Sindent, Swrap_char,
+1
+3 paragraph = wordvrap($_paragraph, Swrap ~ Sindent, Swrap char, Swrap_cut
+)
+Myn Lines
+Af (Gingent 1
+paragraph = prog_replace(*!*Im', str_ropeat (Sindont_char, Sindent), $_pe
+1
+1
+$output
+{implode (Swrap_char . Swrap_char, $_paragraphs)
+Af (assign) (
+‘Stemplate->assign(Sassign, $_output)
+| etse
+Feturn $output;
+!
+E
+// indent first Line
+Af (Gindont_first > 1
+3 paragraph ~ str_repeat (Sindent_char, Sindent_first) . _parag
+al al
+)
+11 worderap sentences
+Af (Smarty::5_MBSTRING) 1
+equire_ofce SMARTY_PLUGINS_OIR . ‘shared.nb wordwrap.php*
+S_paragraph ~ smarty sb vordvrap(s_paragraph, rap ~ Findent,
+) ease |
+S_paragraph
+)
+11 Andont Lines
+Af (Gindent > 0)
+wordwrap(3_paragraph, Swrap - Sindent, Swrap_char
+3_paragraph ~ prog_replace(*!*tm', str_ropoat (Sindont_char, Sin
+1
+)
+E
+Af (Sassign) |
+‘Stonplate-rassign (Sassign, _output)
+) else |
+‘return § outputs

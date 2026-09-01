@@ -1,0 +1,10 @@
+# OCR: d49aae86d99d44e0b8a0a00a4418305e.jpg
+# 来源: .\02-WriteUp\2024\d49aae86d99d44e0b8a0a00a4418305e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+(i 192.168.100-100
+Sern swe eu ta E e
+| ee
+= eae eam, Heo 。 口 目 E
+应 E on ee E

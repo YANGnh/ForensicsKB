@@ -1,0 +1,17 @@
+# OCR: e80e653544d4923303c36dcdff1da33d.webp
+# 来源: .\02-WriteUp\2025\e80e653544d4923303c36dcdff1da33d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+heygem-gen-video:
+image: guiji2e25/heygem.ai
+container_name: heygem-gen-video
+restart: always
+runtime: nvidia
+privileged: true
+volumes:
+~ bi /heygem_data/face2face: /code/data
+environment:
+- PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:512
+deploy:
+resources:

@@ -1,0 +1,21 @@
+# OCR: 483d154a25bc96c81bd5f2a1f4f3baa7.webp
+# 来源: .\02-WriteUp\2025\483d154a25bc96c81bd5f2a1f4f3baa7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+代 码 如 下 :
+import re
+import pandas as pd
+numbers = re.findall(r"\d+", match[0])
+print(numbers)
+return numbers
+df = pd.read_excel(「 案 件 卡 串 号 数 据 ,xlsx,sheet_name=「sheet11)
+print(df)
+list_title = df.columns.tolist() # 获 取 标 题 栏
+new_imsi = [] # 设 置 一 个 空 的 卡 串 号 列 表
+new sy = df[list_title[3]] # 获 取 溯 源
+for vin new_sy:
+only_imsi = num_pattern(v)[0] # 把 第 四 个 字 段 中 的 卡 串 号 过 滤 出 来
+series_obj = pd.Series(new_imsi)
+grouped = series_obj.groupby(series_obj).count().sort_values()
+print(grouped)

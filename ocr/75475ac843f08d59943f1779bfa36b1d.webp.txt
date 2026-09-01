@@ -1,0 +1,39 @@
+# OCR: 75475ac843f08d59943f1779bfa36b1d.webp
+# 来源: .\02-WriteUp\2025\75475ac843f08d59943f1779bfa36b1d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+NoahTie@DESKTOP-8RM6690 C/h/7/P/3 /U/a/Desktop USAGE
+> sudo vssadmin.exe List Shadows
+vssadmin 1.1 - 卷 影 复 制 服 务 管 理 命 令 行 工 其
+(C) 版 权 所 有 2001-2013 Microsoft Corp.
+卷 影 副 本 集 ID: {b3f3b897-8655-4b5f-86a5-3efcd22895cb} 的 内 容
+在 创 建 时 间 : 2025/6/14 10:42:41 含 有 1 个 卷 影 副 本
+卷 影 副 本 ID: {45078d58-3132-4efb-ad45-333656eb57c4}
+原 始 卷 : (C:)\\?\Volume{bc335ddb-a89b-4291-aefb-ad814e822814}\
+卷 影 副 本 卷 : \\?\GLOBALROOT\Device\HarddiskVoLumeShadowCopy3
+源 起 机 器 : 0ESKTOP-8RH6690
+服 务 机 器 : 0ESKTOP-8RH6690
+提 供 程 序 : ‘Microsoft Software Shadow Copy provider 1.0'
+类 型 : ClientAccessibleWriters
+Bt: 持 续 , 客 户 端 可 访 问 , 无 自 动 释 放 , 差 异 , 自 动 还 原
+卷 影 副 本 集 ID: {a9787639-faaf-4183-971a-eb73aa4f845b} 的 内 容
+在 创 建 时 间 : 2625/6/18 11:41:25 含 有 1 个 卷 影 副 本
+卷 影 副 本 ID: {6d7236cf-agc4-4199-9f22-578798fccca7 二
+原 始 卷 : (C:)\\?\Volume{bc335ddb-a89b-4291-aefb-ad814e822814}\
+卷 影 副 本 卷 : \A\2N\6LOBALR00TXDevice\HarddiskVoLumeShadowCopy4
+源 起 机 器 : 0ESKTOP-8RH6690
+服 务 机 器 : 0ESKTOP-8RH6690
+提 供 程 序 : ‘Microsoft Software Shadow Copy provider 1.0'
+类 型 : ClientAccessibleWriters
+属 性 : 持 续 , 客 户 端 可 访 问 , 无 自 动 释 放 , 差 异 , 自 动 还 原
+卷 影 副 本 集 ID: {86dbc333-91b3-4f89-8529-77ee9b2672ec} 的 内 容
+在 创 建 时 间 : 2625/6/18 11:41:32 含 有 1 个 卷 影 副 本
+卷 影 副 本 ID: {d2745640-0742-4744-a446-4aa117b48002}
+原 始 卷 : (C:)\\?\Volume{bc335ddb-a89b-4291-aefb-ad814e822814}\
+卷 影 副 本 卷 : \\?\GLOBALROOT\Device\HarddiskVoLumeShadowCopy5
+源 起 机 器 : 0ESKTOP-8RH6690
+服 务 机 器 : 0ESKTOP-8RH6690
+提 供 程 序 : ‘Microsoft Software Shadow Copy provider 1.0'
+类 型 : ClientAccessibleWriters
+属 性 : 持 续 , 客 户 端 可 访 问 , 无 自 动 释 放 , 差 异 , 自 动 还 原

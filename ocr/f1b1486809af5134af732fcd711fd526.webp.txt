@@ -1,0 +1,30 @@
+# OCR: f1b1486809af5134af732fcd711fd526.webp
+# 来源: .\02-WriteUp\2025\f1b1486809af5134af732fcd711fd526.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+E
+几 心
+\ resources\base
+1 国
+i background,png
+[ foreground.png
+bos 0 layered_imagejson
+starticon.png
+一 profit
+0 backup_config,json
+0 main_pagesjson
+= .pagesinfo
+@___0 modutejson
+®
+n
+5
+0 pkgContextinfo,json
+= resources.index
+"app",
+"modules": [
+《
+"mainability
+EntryAbility",
+ntryAbility"
+Sstring:EntryAbility_label"

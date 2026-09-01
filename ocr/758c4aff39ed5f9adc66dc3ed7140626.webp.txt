@@ -1,0 +1,41 @@
+# OCR: 758c4aff39ed5f9adc66dc3ed7140626.webp
+# 来源: .\02-WriteUp\2025\758c4aff39ed5f9adc66dc3ed7140626.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+Cc 8
+ae 一 0
+ish 评 便 /
+| | 2 @ 目 口 Datainc "S-1-5-21-2447 > 人 | BBR
+= 8S 三 fto = p = Bue = fxa = AX
+\ HE Duncan apt... 11/93772 口
+李 才 v 逊 VY wie 口 1552 日 浩 Y wie Y
+v HE LAM KH lapt... 34376
+1 4624 ‘An account was successfully logge... | <EventDat.. 信 眼 Securit
+> 蒙 Hn 4 巳 “ “
+> 葛 I 1 口 2 4624 ‘An account was successfully logge... <EventDat.. 信 眼 Security
+> Bre 327 口 5 4624 ‘An account was successfully logge <EventDat.. | Security
+E 244
+口 4 4624 ‘An account was successfully logge... <EventDat.. | Security
+> | = 1118
+> © 8S6 4405
+v #6 SHES 20169
+v 8 WindowsEa 9934
+40 request.%n%t- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.%n%t- Transited services indicate which
+intermediate services have participated in this logon request.96n%t- Package name indicates which sub-protocol was used among the NTLM.
+protocols.%n%t- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+208: <EventData> <Data Name="SubjectUserSid" >$-1-5-18</Data> <Data Name="SubjectUserName”>WIN-8B6G32AADMC$ </Data> <Data
+J Beez | Name="SubjectDomainName”>WORKGROUP</Data> <Data Name="SubjectLogonid” >0x000003e7</Data> <Data Name="TargetUserSid >S-1-5-21-
+SH. 10235 244795756-2605320691-3516395164-1000</Data> <Data Name="TargetUserName”>CEO</Data> <Data Name TargetDomsinName「>CE-
+PC</Data> <Data Name="TargetLogonld” >0x0002d5ff</Data> <Data Name="LogonType">2</Data> <Data Name="LogonProcessName">User32
+</Data> <Data Name="AuthenticationPackageName” >Negotiate</Data> <Data Name="WorkstationName” >WIN-886G32AADMC</Data> <Data
+3629
+3022
+> QZ BABS 1398
+ese 8 Name="LogonGuid" > 00000000-0000-0000-0000-000000000000</Data> <Data Name="TransmittedServices">-</Data> <Data
+D esate) 图 Name="LmPackageName">-</Data> <Data Name="KeyLength">0</Data> <Data Name="Processid”>0x000001a0</Data> <Data
+国 - Name="ProcessName" >C:\Windows\System32\winlogon.exe</Data> <Data Name="IpAddress">127.0.0.1</Data> <Data Name="IpPort">0</Data>
+Geeta 153 </EventData>
+Xp ShimCache 1319 E
+36 3 Security
+一 = ez: CEO-PC

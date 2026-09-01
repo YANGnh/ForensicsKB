@@ -1,0 +1,94 @@
+# OCR: fab27b8bf22932568a09a9a57f5bb44f.jpg
+# 来源: .\02-WriteUp\2024\fab27b8bf22932568a09a9a57f5bb44f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+00021-957419847.png |
+Offset
+00000000
+00000010
+00000020
+00000030
+00000040
+00000050
+00000060
+00000070
+00000080
+00000090
+00000020
+00000080
+000000C0
+000000D0
+00000080
+000000F0
+00000100
+00000110
+00000120
+00000130
+00000140
+00000150
+00000160
+00000170
+00000180
+00000190
+000001A0
+000001B0
+000001C0
+0
+89
+00
+00 00 00 OD 49 48 44 52 %PNG
+74 70 6172 61 6D 6574 - tBxtparanmet
+20 77 61 79 2c 20 63 68 ers high way, ch
+61 6B 6B 65 72 20 74 72 ina, A tanker tr
+68 65 73 20 66 69 72 65 uck catches fire
+20 66 69 72 65 OA 4E 65 , car on fire Ne
+72 6F 6D 70 74 3A 20 6c gative prompt: 1
+6c 61 74 65 2C 20 63 6F icense plate, co
+20 70 65 6F 70 6C 65 OA nfusion, people
+30 2c 20 53 61 6D 70 6C Steps: 20, Sampl
+2B 20 53 44 45 20 4B 61 er: DEM++ SDE Ka
+47 20 73 63 61 6c 65 3A rras, CEG scale:
+3A 20 39 35 37 34 31 39 , 7 Seed: 957419
+65 3A 20 35 31 32 78 35 847, Size: 512x5
+6ce0161689, Mode
+1: v1-5-pruned-e
+maonly, Version:
+vreroi
+92 24 BB AD 2D OA OE 80 LATxeey0’S»-- €
+FF FF 6F 6D FD 01 FD D0 ySzd@l;Yyomy yD
+CO 85 64 44 96 A4 DD 31 [**2A G~A.dD-a¥1
+00 01 10 94 FF F7 FF EB ¥4, ,61 s
+10 90 04 40 11 01 00 12 D EB “ 6
+00 04 44 44 00 77 A7 53 DI 54 DD w§S
+2D 88 OA 98 8D 46 93 60 DO é¢ -* ~ P
+UTE-
+ia} D OOO IBDR
+DDDopDopoopoDfDc
+D “Dtgxtparanmet
+ersChigh way, ch
+ina, A tanker tr
+uck catches fire
+, car on fire Ne
+gative prompt: 1
+icense plate, co
+nfusion, people
+steps: 20, Sampl
+er: DEM++ SDE Ka
+rras, CFG scale:
+7, Seed: 957419
+847, Size: 512x5
+12, Model hash:
+6ce0161689, Mode
+1: yl-5-pruned-e
+maonly, Version:
+vi.8.00 “DDoDr
+IarxD D - oO
+yszo oO D
+[D oO apo
+D D oo ao
+D (vwouron
+poo. “0000 “co0
+DDicoDD 。 DpDuD
+ool 0 、
+Oo -a q o

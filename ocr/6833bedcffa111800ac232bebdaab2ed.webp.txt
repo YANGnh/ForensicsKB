@@ -1,0 +1,27 @@
+# OCR: 6833bedcffa111800ac232bebdaab2ed.webp
+# 来源: .\02-WriteUp\2025\6833bedcffa111800ac232bebdaab2ed.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+u
+c
+import net.sqlcipher.database.SQLiteOpenHelper;
+/* renamed from: i2.a */
+/* loaded from: classes3.dex */
+2| public class DBCipherHelper extends SQLiteOpenHelper {
+/* renamed from: a
+public static Strink f75576a = “dingtong.db";
+八 renamed from: 5 下 /
+public static Strink 国 固 2 煜 = "@1@#!aajsk1*JKI";
+/* renamed from: c
+[ 自 动 搜 索
+存 以 下 位 置 揉 索 : 揉 索 选 页
+Vass Vee E4] 字 段 名 E 代 码 | 资 源 | 注 释 [ 忽 略 大 小 写 【 正 则 表 达 式 _ 只 在 当 前 页 搜 索
+节 炎
+lication.onCreate() void f33514t = dBCipherHelper.getWritableDatabase(DBCipherHelper. 图
+Lication.onCreate() void this.f335330 = dBCipherHelper.getReadableDatabase(DBCipherHelper. )5
+lication.onCreate() void DataBaseEncrypt .m12058b() .m12059a(this, DBCipherHelper.f75576a, DBCipherHelper . #755776) ;
+lication.onCreate() void f33514t = dBCipherHelper.getWritableDatabase( |】BC1phe厂卜ie1pe′`′黜
+lication.onCreate() void this.f335330 = dBCipherHelper.getReadableDatabase(DBCipherHelper. )3
+public static String ff755776 - "@1@#!aajsk1*JKI";
+577b String

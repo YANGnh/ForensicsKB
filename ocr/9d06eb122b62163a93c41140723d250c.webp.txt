@@ -1,0 +1,17 @@
+# OCR: 9d06eb122b62163a93c41140723d250c.webp
+# 来源: .\02-WriteUp\2025\9d06eb122b62163a93c41140723d250c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+] Detect It Easy v3.10 [Windows 10 Version 2009] (x86_64)
+pe
+=| |G:\2025FI CRE \exports\recphrase
+H k Beit (BA) E
+Z - 43.07 MiB ‘00000000
+DES, Samm | ES Stl BSR
+MIME Sart | Swe me okies |
+DELF
+ia 节
+0003 > 0003 >
+E E
+E ARM

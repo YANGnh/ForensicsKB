@@ -1,0 +1,30 @@
+# OCR: c16e1b57a906137494f1fe04e4e804d8.webp
+# 来源: .\02-WriteUp\2024\c16e1b57a906137494f1fe04e4e804d8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+〖
+public void (String str, String str2) 0 目
+int indexOf
+int i = 05
+boolean z = false;
+while (i < this.f388a.size()) {
+a aVar = this.#3630.get(i);
+if (str. equalstgnoreCase(aVar.#367a))
+f (2) {
+‘this £388a.renove(i)
+} else t
+String str3 = aVar.#389b;
+aVar.f389b = (str3 == null ||
+z = trues
+ee
+BHD: my c.b.k.F.b(Steing, String) void
+i c.b-k.h.a(String, String) (str, ste2);
+m c.b-k.i.a(a) void ("Fron”, m.a(6, aVar.toString()))3
+im c.b.k.i.a(f$a, a[]) void (a2, 25
+m c.b-k.i.a(f$a, a[]) void "Newsgroups", stringBuffer);
+m c.b.k.i.a(String, String) v (str, ste2);
+m c.b-k.i.a(Date) void ("Date", i.format(date));
+m c.b-k.i.c(String) void "subject", sn mull, mull, fale
+E 0
+E 5

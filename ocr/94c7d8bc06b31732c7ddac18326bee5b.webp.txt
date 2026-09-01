@@ -1,0 +1,23 @@
+# OCR: 94c7d8bc06b31732c7ddac18326bee5b.webp
+# 来源: .\02-WriteUp\2025\94c7d8bc06b31732c7ddac18326bee5b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+在 分 区 1 中 口 乒
+口 一 #8 一 B 一 2 = B =
+an ae Ye docker vi
+口 4 — 2025-04-08 20... master group added to /etc/group: name=docker, GID-994 5
+口 5 — 2025-04-08 20:... maste group added to /etc/gshadow: name=docker 5
+口 6 20250408 20:... maste new group: name=docker, GID=994 9
+口 7 master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemct! enable docker --now s
+Os master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/yum install -y docker-ce dodkercediconai | s
+口 9 20250408 20:... master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/mkdir -p /etc/docker s
+口 10 — 2025-04-08 20-、 master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND =/bin/tee /etc/docker/daemon json s
+ou master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemct! enable docker --now s
+Or master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl status docker s
+口 1 2025-04-08 20:... master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemct! enable cri-docker service --now s
+口 14 — 2025-04-08 20:... maste root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemct! status cri-docker service s
+口 15 master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/kubeadm reset --cri-socket=unix:///var/run/c....
+口 16 master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/kubeadm init --kubernetes-version=V1.28.15..._
+口 17 20250408 20.、 maste root : TTY=pts/0 ; PWD=/root ; USER=root ; Ci Ape ahadn init AGERE s
+口 8 2025-04-08 2 master root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl status cri-docker service s

@@ -1,0 +1,16 @@
+# OCR: 3f8e1b015f3d0a859af0ddf70a8c6e56.webp
+# 来源: .\02-WriteUp\2024\3f8e1b015f3d0a859af0ddf70a8c6e56.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+vcirlinnl
+E
+ide // android. view. View.OnClickListener
+void onClick(View view2) {
+* (this. valSedit. getText() toString() -equals("anzhUS¥eSif’)) {
+system.exit(2);
+else {
+‘this. valSedi
+this. valSedi
+settine "EBT, TABI Rqqises4ssc02");
+setText(

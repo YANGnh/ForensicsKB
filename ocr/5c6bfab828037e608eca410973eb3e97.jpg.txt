@@ -1,0 +1,10 @@
+# OCR: 5c6bfab828037e608eca410973eb3e97.jpg
+# 来源: .\02-WriteUp\2024\5c6bfab828037e608eca410973eb3e97.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+Vituare ESXi 6.7.0 (VlKernel Release Build 8169922)
+Vituare, Inc. VMuare20,1
+AMD Ryzen 7 4800H
+18 GiB Menory
+h Radeon Graphics

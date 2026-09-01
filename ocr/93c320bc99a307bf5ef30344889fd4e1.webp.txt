@@ -1,0 +1,53 @@
+# OCR: 93c320bc99a307bf5ef30344889fd4e1.webp
+# 来源: .\02-WriteUp\2025\93c320bc99a307bf5ef30344889fd4e1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+阮 t 3 s 3 s c s 5 E c 5 c
+e 0 ws
+、 2025-09-17 10:35:00 “ 鲁 堪 安 卓 手 机 vmdk/ 分
+>| “ 原 类 型 视 图 文 本 视 图 十 六 进 制 视 图 host_scan_17092025.log 晒 久 一 口 义 一
+83
+| No [100% -y) 月 用 囹 日 目 乡 口 口 @
+4
+5
+2
+6
+6 02:34:27] [Info] checking https://a876. 5e9lecb3-c020-4919-bd5b-7c3de64f5eb4. com with proxy
+ss://oy4cl9pi0e. oioiok com: 28762
+| 02:34:27] [Info] checking https: //4b30. a2al9ffe-1587-4c30-b5e8-763560536494. com with proxy
+ss://oy4cl9pi0e. oioiok. com: 28762
+1 02:34:27] [Info] checking https: //4c6f. 8dad4642-11d4-4d0c-a999-12f329ad5f23. com with proxy
+ss://oy4cl9pi0e. oioiok. com: 28762
+| 02:34:27】 [Error] error on api access: Get “https://4e6f. 8dad4642-1144-4d0c-a999-
+4 12£329ad5£23. com/api/v1/guest/comm/config”: tls: failed to verify certificate: x509:
+certificate signed by unknown authority
+sal 02:34:27] [Info] https: //4c6f. 8dad4642-11d4-4d0c-a999-12f329ad5f23. com failed (-998) with
+| proxy ss://oy4cl9pi0e. oioiok. com:28762 (250ms)
+1] 02:34:28] [Info] 429 on fetching /api/v1/guest/comm/config
+02:34:28] [Info] https: //4b30. a2a19ffe-1587-4e30-b5e8-763560536494 com failed (429) with is
+185| proxy ss://oy4cl9pi0e. oioiok, com:28762_(570ms)
+| 02:34:28] [Info] https: //a876. 5e91ecb3-c020-4919-bdsb—Tc3de64f5eb4. com passed with proxy 盛 >
+34) ss://oy4cl9pi0e. oioiok com:28762 (609ms) 一
+02:34:28] [Info] https://a876. 5e91ecb3-c020-4919-bd5b-7c3de64f5eb4 com ACCEPTED with proxy
+cE: | 02:34:28] [Info] add https: //4b30, a2a19ffe-1587-4c30-b5e8-763560536494 com from DNS TXT r
+config 1
+国 02:34:28] [Info] add https://a876. 5e9lecb3-c020-4919-bd5b-7c3de64f5eb4 com from DNS TXT
+ag config @
+| 02:34:28] [Info] add https: //4c6f. 8dad4642-11d4-4d0c-a999-12f329ad5f23. com from DNS TXT
+0 config ]
+02:35:00] [Info] subscription DOWNLOADED with proxy (5819ms)
+‘|
+7
+]
+4 修 改 时 间 : 2025-09-17 10:35:00
+4g 元 敦 据 地 址 : 262405 [02:34:27] [Info] checking https://a876. 5e9lecb3-c020-4919-bd5b-7c3ded
+5 径 , 鲜 堪 安 卓 手 机 ,vmdl/ 分 区 4/dat sakura.app/files/clash/log/host 17092025.I ss://oy4c19pi0e. oioiok. com:28762
+Pees 1 7 tieymdk/ 7219 /data/com'sakuraapp/files/clashvlog/hostiscan® E [02:34:27] [Info] checking https://4b30. a2a19ffe-1587-4c30-b5e8-76356
+116 加 盟 类 型 : ANE ss://oy4cl9pile. oioiok. com:28762
+, 东 [02:34:27] [Info] checking https: //4c6f. 8dad4642-11 -a999-12f324
+3 巳 删 除 ; 吾 ss://oy4cl9pile. oioiok. com:28762
+[02:34:27] [Error] error on api access
+192290 AR L99 nam (mend [rt [errant [mamma
+Get “http: -.8dad4642-114
+ale

@@ -1,0 +1,37 @@
+# OCR: 5891bf50e0c2f56fe492900fb0d3652f.webp
+# 来源: .\02-WriteUp\2024\5891bf50e0c2f56fe492900fb0d3652f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+证 据 顶 No. 2 ( 商 一 D: 1)
+创 建 日 期 :2024/11/13d130009
+大 小 426 GB
+文 件 . 1952
+Seemed. a
+项 目 名 称 竭 号 分 区 2
+内 部 称 UFSXmeya_lest_2 [FBFE1BAD], P2
+注 释 (C)
+胺 帮 值 无
+胸 席 值 ; 无
+根 据 当 前 文 件 系 统 的 时 区 昱 示 画 间 - UTC
+of SEO) BURA) a
+Sethi
+7024 孙 节 =426 GB
+扇 E 6.386752
+每 户 区 字 节 敬 :512
+每 梁 字 节 敌 :4006
+109,214,136 = 98% 空 余
+熙 & 数 .111.673.344
+Number of Inodes: 27,918,336
+Number of free Inodes: 27,916,364
+Number of block groups: 3,408
+Blocks per group: 32,768
+Inodes per group: 8,192
+Inode size: 256
+Uses sparse superblocks: 是
+Uses Flexible Block Groups:
+Uses Meta Block Groups: 否
+FS creation time: 1970/01/19d11:35:02 +8
+Last mount time: 1970/01/01d08:01:05 +8
+计 算 哈 席 值 (m).
+仁 帮 助 (H)

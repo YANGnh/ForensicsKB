@@ -1,0 +1,13 @@
+# OCR: 8414f5718830629453ae33d1870f8b4e.jpg
+# 来源: .\02-WriteUp\2024\8414f5718830629453ae33d1870f8b4e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+Session settings
+国 国 “ 国 “ 国 _ 国 _ 国 @ _ 团 _ 炳 _ 国 _ 国 _ 团 “ “ 算 “ 国
+SSH Telnet. Rsh Xdmep RDP VNC FTP SFTP Serial File. 。Shal Browser Mosh Aws S3 WSL
+ES Basic SSH settings
+Remote host | ASpecify usemame [droid 、
+jetwork settings “ 肉 Bookmark settings
+ES Advanced SSH settings El Terminal settings
+Secure Shell (SSH) session w

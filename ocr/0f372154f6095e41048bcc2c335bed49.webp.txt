@@ -1,0 +1,34 @@
+# OCR: 0f372154f6095e41048bcc2c335bed49.webp
+# 来源: .\02-WriteUp\2025\0f372154f6095e41048bcc2c335bed49.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+2a 88 芸 RE
+“eSB 。
+[openssh sessions
+[shell sessions
+ml r#e49192.168.137.200
+m 192.168.217.11
+wm 192.168.31.159
+I admin:powershell 6|7
+s ke+#0192.168.217.12
+NoahServerBei jing
+© NoahServerchengdu
+© NoahServerHongkong
+厂 powershell 6|7
+reoserzi6s2m-s
+mi ree40192.168.217.6
+ml r4e49192.168.217.7
+E
+E
+et
+Ia gQ #9
+颜 1.powershell 6|7  ™ 2.192.168.137.200 x
+BusyBox v1.36.1 (2025-82-03 23:09:37 UTC) built-in shell (ash)
+OpenWrt 24.16.6,128427-6df6e3d82a
+root@0penWrt:~# fj
+HHEgK BL 33x90
+3 3 16
+Linux
+2025/5/27 21
+4, hn

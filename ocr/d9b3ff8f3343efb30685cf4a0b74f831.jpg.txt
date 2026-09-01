@@ -1,0 +1,9 @@
+# OCR: d9b3ff8f3343efb30685cf4a0b74f831.jpg
+# 来源: .\02-WriteUp\2024\d9b3ff8f3343efb30685cf4a0b74f831.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
++
+[root@localhost ~]# cat /etc/system-release
+CentOS Linux release _7.9.2009 (Core)
+[root@locathost ~]# []

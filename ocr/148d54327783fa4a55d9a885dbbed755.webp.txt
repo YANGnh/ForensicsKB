@@ -1,0 +1,28 @@
+# OCR: 148d54327783fa4a55d9a885dbbed755.webp
+# 来源: .\02-WriteUp\2025\148d54327783fa4a55d9a885dbbed755.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+仪 Loginphp 符 confgphp X
+application >  config.php
+26 // 缓 字 配 置
+59 ‘auth’ =>
+64 /7 用 户 组 数 据 不 带 前 缓 表 名
+65 “auth_group「 => ‘auth_group',
+66 // 用 户 - 用 户 组 关 系 不 带 前 缔 表
+67 “auth_group_access => ‘auth_group_access',
+68 11 权 限 规 则 不 带 前 缓 表
+69 “auth_rule「 => ‘auth_rule',
+76 // 用 户 信 息 不 带 前 缆 表
+71 *auth_user’ => ‘admin_user',
+72 15
+73
+74
+7s
+76
+7 // 验 证 网 配 罪
+78 ‘captcha’ => [
+79 // 验 证 罕 字 符 集 合
+80 “codeset「 => "0123456789",
+81 11 骏 证 吉 字 体 大 小 (px)
+82 “fontsize「 => 22,

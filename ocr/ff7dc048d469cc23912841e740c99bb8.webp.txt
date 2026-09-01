@@ -1,0 +1,13 @@
+# OCR: ff7dc048d469cc23912841e740c99bb8.webp
+# 来源: .\02-WriteUp\2025\ff7dc048d469cc23912841e740c99bb8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+In [32]: data = [0b11001111011, 6b109000000011, 6b11110101101, 6b11010100000, 6b10001101101,
+? 0b1010, 0b10010001, 6b10011110101, 0b11110008, 0b11000010, 0b110010, 6b10110111)
+In [33]: len(data)
+Out[33]: 12
+In [34]: data2 = [_ A 1988 for _ in data]
+In [35]: memeric = "".join([words[_] for - in data2])
+In [36]: memeric
+0ut[36 : 「 写 蕊 开 况 延 戈 陷 深 凸 颜 彭 铃 “

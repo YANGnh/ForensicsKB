@@ -1,0 +1,22 @@
+# OCR: b8a5250ba6b369831b65bc3a8975ac32.webp
+# 来源: .\02-WriteUp\2024\b8a5250ba6b369831b65bc3a8975ac32.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+[| hostapd.conf |
+interface-apl
+ssid-pan 的 iPhone
+hw_mode=g
+channel=6
+macaddr_acl-0
+auth_algs=1
+wme_enabled=1
+eapol_key index _workaround-0
+own_ip_addr=-127.0.0.1
+wpa _passphrase—-hellol2sgirl
+wpa_key_mgmt=-WPA-PSK WPAS—SAE
+wpa_pairwise=CCMP
+wpa_group_rekey-3600
+ieees021 11
+h2e-0
+tsn_disabled_flags-0

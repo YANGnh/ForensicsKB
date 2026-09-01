@@ -1,0 +1,24 @@
+# OCR: 9b6cc43d4a40a6473a926a5fd202245f.webp
+# 来源: .\02-WriteUp\2024\9b6cc43d4a40a6473a926a5fd202245f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+. Stripe component partition
+国 Drives: Faxed Stort,
+园 MS Reserved parti
+眉 ext2/3/4 partition
+Drives: Rxed Stort!
+@ Ms Reserved parti
+@ swap partition
+© Ms Reserved parti
+© vot-voume_1 (€xt2/3/4) partion
+1 Calculate hash
+Scan for lost data
+Load saved virtual file system
+Save disk image
+View hexadecimal contents
+Edit contents
+Decrypt encrypted storage 。
+国 Drve7: fxed Stor, Open partition as a virtual disk
+View properties
+1.44.1-69057

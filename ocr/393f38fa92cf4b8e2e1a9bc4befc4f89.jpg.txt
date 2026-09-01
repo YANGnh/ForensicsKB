@@ -1,0 +1,14 @@
+# OCR: 393f38fa92cf4b8e2e1a9bc4befc4f89.jpg
+# 来源: .\02-WriteUp\2024\393f38fa92cf4b8e2e1a9bc4befc4f89.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:26
+
+“MetworkSetttngs : {
+“Brtdge ""_
+"SandboxID’ £170576f931a83066cccdbb55cfede7baa2a86981aeca546d23bbdee31e6a6",
+"SandboxKey"- "/var/run/docker /netns/ef1f70576f93" ,
+"Ports": {
+5432/tcp": null,
+"g065/tcp": [
+"HostIp": "0.0.0.0",
+"HostPort": "8065"

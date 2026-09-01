@@ -1,0 +1,46 @@
+# OCR: c055badcd53ec4bab056d63cc9f8d0b7.jpg
+# 来源: .\02-WriteUp\2024\c055badcd53ec4bab056d63cc9f8d0b7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:40
+
+lountu 22.04.4 LTS node
+jocle2 login: droid
+assuord
+node? login:
+Password
+elcome to Ubuntu 22.04.4 LTS (GNU/Linux 5.15.0-100-generic x86_64)
+* Documentation: https://help .ubuntu.com
+x Managenent https:// landscape .canonical.com
+Support https://ubuntu.con/pra
+formation as of Mon May 20 03:19:34 aM UTC 2024
+Memory
+Swap us:
+Users logged in
+1 address for dockero: 1
+4 address for enpisi8: 192,168,100, 102
+IPv6 address for enposi8: fd24:2cf2-d6f8:0:be04: 11
+:fea9:fdBa
+earn how Micro!
+deployment
+* Strictly confined Kubernetes makes edge and IoT secure.
+just raised the bar for easy, resilient and secure KBs clus!
+t tps: //ubuntu.com/engage/secure-kubernetes-at-the-edge
+pani curity Maintenance for Applications is not
+abled.
+b uodates can be applied innedia’
+To see these additional updates
+ly.
+uni apt List ~-upgradab
+Enable ESM
+s https:/
+s to receive additional future sect
+ubuntu.com/esm or run: sudo pro statu:
+The list of
+he check for
+‘an a week old.
+update
+ailable updates is mor
+new updates run: Sudo apt
+bast login: Tue Mar
+iroidonodea:"$ -
+UTC 2024 on l

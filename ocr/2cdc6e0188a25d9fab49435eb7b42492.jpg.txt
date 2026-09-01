@@ -1,0 +1,7 @@
+# OCR: 2cdc6e0188a25d9fab49435eb7b42492.jpg
+# 来源: .\02-WriteUp\2024\2cdc6e0188a25d9fab49435eb7b42492.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+ss en
+FF

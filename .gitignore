@@ -1,0 +1,27 @@
+# ============================================================
+# 取证知识库 .gitignore
+# 原则：文本（md/json/ocr/脚本）普通入库；图片由 Git LFS 管理（见 .gitattributes）
+# ============================================================
+
+# --- 系统/编辑器杂项 ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.swp
+.obsidian/workspace*
+.obsidian/cache
+
+# --- Python 缓存 ---
+__pycache__/
+*.pyc
+
+# --- 本地临时产物（不入库）---
+.pip-tmp/
+.pylibs/
+.conv/
+*.recovered.md
+
+# --- 可再生瞬时文件（脚本每次运行重新生成）---
+_reports/integrity-report.txt
+ocr/_pending.txt

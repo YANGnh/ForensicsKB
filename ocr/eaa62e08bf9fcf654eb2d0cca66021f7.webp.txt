@@ -1,0 +1,44 @@
+# OCR: eaa62e08bf9fcf654eb2d0cca66021f7.webp
+# 来源: .\02-WriteUp\2025\eaa62e08bf9fcf654eb2d0cca66021f7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+符 confgphp X
+APP > Conf >  config.php
+1 k?php
+2 return array(
+3 // “ 配 置 项 ,=> 「 配 置 值
+4 “APP_6RouP_LTsT*
+5 “DEFAULT_GRoup「
+6 “TMPL_VAR_IDENTIFY「
+7 ZuRL 设 罪
+8 "URL_MODEL"
+9 // 设 罪 独 立 分 组
+16 “APP_6ROUP_MODE 「
+E “APP_6ROUP_MODE“ROUP_PATH「
+12 /* 数 据 库 设 置 */
+13 "DB_TYPE" =>
+14 *DB_HOST* =>
+1s *DB_NAME* =>
+16 "DB_USER* =>
+17 *DB_PWD' =>
+18 *DB_PORT* =>
+19 “08_PREFIX =>
+20 "SESSION_TYPE' =>
+21
+22 1) 缓 存 粉 型 为 File
+23 “type => ‘File’,
+‘Index, systemlogined',
+=> ‘Index’,
+=> ‘array’,
+= 1,
+=> iy / 启 用 独 立 分 组
+=> 'Modules',
+“mysql", I) 数 掇 库 娄 型
+*127.0.0.1', 1 服 务 嚣 地 坚
+"www_mtbtsdafda_c', 11 数 据 库 名
+*www_mtbtsdafda_c', /7 用 户 名
+*EalKMSRBNY2eB4pK' , ei)
+"3306", 1 端 口
+“ds_ 0 // 数 掇 库 表 前 级
+"Db", // 将 session 写 入 数 据 应

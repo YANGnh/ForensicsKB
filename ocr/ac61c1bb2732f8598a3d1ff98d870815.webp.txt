@@ -1,0 +1,41 @@
+# OCR: ac61c1bb2732f8598a3d1ff98d870815.webp
+# 来源: .\02-WriteUp\2025\ac61c1bb2732f8598a3d1ff98d870815.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+详 细 信 息 曹' 第 三 方 服 务 网 络 数 据 包
+android permission.CHANGE NETWORK STATE
+安 卓 前 台 服 务
+android.permission.FOREGROUND SERVICE
+检 索 后 台 进 程
+android permission.GET TASKS
+访 问 5D 卡 文 件 系 统
+androidhpermission.MOUNT UNMOUNT FLESYSTEMS
+该 友 敏 感 日 志 数 据
+android.permission.READ_LOGS
+读 职 图 片 文 件
+android.permission.READ MEDIA IMAGES.
+APR
+android.permission.RECEIVE USER PRESENT
+控 制 技 动
+android.permission.VIBRATE
+修 改 安 全 系 统 设 置
+android.permission.WRITE_SECURE_ SETTINGS
+动 态 监 控
+android permission
+在 设 备 上 标 找 帐 户
+android.permission
+完 全 网 络 沃 问
+android.permission
+读 友 SD 卡 中 的 内 容
+android.permission
+读 友 音 频 文 件
+android.permission
+诛 职 报 频 文 件
+android.permission
+允 许 在 其 他 应 用 的 上
+android.permission
+防 止 手 机 余 睐
+android.permission
+修 改 / 剂 除 内 部 媒 作
+android permission

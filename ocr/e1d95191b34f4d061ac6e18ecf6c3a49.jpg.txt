@@ -1,0 +1,18 @@
+# OCR: e1d95191b34f4d061ac6e18ecf6c3a49.jpg
+# 来源: .\02-WriteUp\2024\e1d95191b34f4d061ac6e18ecf6c3a49.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+3
+这 个 问 导 允 许 你 押 定 如 住 导 人 数 据 。 仵 要 选 择 嘱 种 敦 据 寺 格 式 ?
+E
+ODBase x## (dbf)
+OParadox 3## (".db)
+OX (bt)
+sv a
+OXML SH Com
+OUSON 324 ("json)
+OMS Access 2845 (*.mdb; *.accdb)
+Oopec
+Tee || >|
+te

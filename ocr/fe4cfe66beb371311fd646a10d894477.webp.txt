@@ -1,0 +1,265 @@
+# OCR: fe4cfe66beb371311fd646a10d894477.webp
+# 来源: .\02-WriteUp\2025\fe4cfe66beb371311fd646a10d894477.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+© action jog @main (media. 20240601) - $8 - Navicat Premium
+In so =
+心
+4 #8 BE 发 。
+E
+8%. 马 a
+g 。 E 表
+Ug teuraevewuyt
+YB main
+vane
+action log
+Bea
+ad list
+ad player_ref
+category
+cut task
+group
+group player ref
+group_user_ref
+led
+led_send
+play preset list
+play_preset list content
+play preset send history
+player
+player attribute
+player_update task
+program
+program _content
+program send
+reserve schedule
+reserve schedule item
+role
+role_permission
+role_user_ref
+scheduling
+scheduling content
+screen_group
+screen_group task
+screen_group task item
+2 VOU OOOO
+user_attr
+user_ defined
+> 吴 9
+A-Z
+E
+AP
+‘T action log @main (media.20240601)
+5 Ba
+as F
+0 。 EE 。 E
+‘TB player_attribute @main (media.2024.
+(QS, © Sat 图 RR oh E
++ Va
+7bf27660-da41-4050-b0
+1e92a0€2-26F1-4fa2-b01
+57061231-0287-4608-a3
+9675b9b6-25bb-4fb2-ae
+€23d4657-b825-4499-b¢
+4544c9139-cB7e-4798-92
+844040b-e7e4-4917-83
+2ababSea-804d-45c2-8¢
+30fad562-940e-4215-ab
+18300a9ba-3ab2-47b9-8t
+de204a11-88e1-4fe6-be
+‘Adal fdf7-Bbaf-47c0-9e0
+e6d2497b-aef7-44e0-be
+b80b9f46-700-4724-Bec
+ed1cBbSb-d5c1-4661-a1
+27652dbe-9652-4e51-b8
+bF1c0843-26b9-4cc4-b9!
+d92b951e-873e-425a-8¢
+914b2b1f-128d-42a8-95
+419062e7-0007-458c-96
+e4cBb2ff-a1c3-48bc-be3
+2ad30b0a-f42f-45a6-a8i
+b9e31e1d-84a1-440b-91
+] Sfaf9ced-1baf-4da6-85b
++= c
+type
+userld
+account
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+userName
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+SELECT *,rowid "NAVICAT_ROWID" FROM “main*."action log" LIMIT 0,100.
+datetime
+2025-04-29 17:21:40,267
+2025-04-29 17:21:46.271
+2025-04-29 17:21:52.26€
+2025-04-29 17:21:58,272
+2025-04-29 17:22:04,267
+2025-04-29 17:22:09,265
+2025-04-29 17:22:15,272
+2025-04-29 17:22:21,274
+2025-04-29 17:22:27,277
+2025-04-29 17:22:33,265
+2025-04-29 17:22:39,265
+2025-04-29 17:22:85,27C
+2025-04-29 17:22:51,268
+2025-04-29 17:22:57,272
+2025-04-29 17:23:03,271
+2025-04-29 17:23:09.27C
+2025-04-29 17:23:15,256
+2025-04-29 17:23:21,265
+2025-04-29 17:23:27,278
+2025-04-29 17:23:33,27C
+2025-04-29 17:23:39.27C
+2025-04-29 17:23:85,265
+2025-04-29 17:23:51.27C
+17:23:57.2
+ip
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+192.168.20.100
+userAgent
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+Mozilla/5.0 (Windows N
+不 是 nu
+content
+‘#8 : 192.168.20.15 002
+ae
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+ee
+192.168.20.15 002
+192.168.20.15 002 ae
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002,
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.20.15 002
+192.168.2015 002 |
+17409 Be
+#8 1000 218% (gt 10002) FH1D
+oad

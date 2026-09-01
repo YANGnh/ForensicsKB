@@ -1,0 +1,20 @@
+# OCR: d8339f97e006d7a294b07f4a41e1ba20.jpg
+# 来源: .\02-WriteUp\2024\d8339f97e006d7a294b07f4a41e1ba20.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+SETI No. 2 (1D: 4)
+E David_Laptop_64GB
+BSR: IA\David_Laptop_64GB.e01]
+380
+Spchels 64x 512541 = 320KB
+1,953,835 #8 expected, 1,953,835 #8 actually
+reerenced
+SEND. 64.003 257 00034-5968
+E
+FADER. 125 045,424
+SBA! CPT
+fink satu: 78996420
+E HER.
+E
+E =] 目 余 aay

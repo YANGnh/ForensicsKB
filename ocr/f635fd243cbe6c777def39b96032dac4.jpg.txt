@@ -1,0 +1,46 @@
+# OCR: f635fd243cbe6c777def39b96032dac4.jpg
+# 来源: .\02-WriteUp\2024\f635fd243cbe6c777def39b96032dac4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+Baws E
+SPAT ES
+驱 动 器 : A: \ 精 武 杯 检 材 \ 压 务 器 部 分 \aerverl.00^
+碌 阵 所 属 平 台 类 型 : Linux ndadn 辅 窄 阮
+版 本 : 1.2.0
+WPEUUID: bdof20a36b989b54631 9c3b30a06b965
+: 2023-02-17 15:05:04
+: vaid-5
+琪 防 亚 动 咤 数 量 。 3
+司 用 宇 间 大 小 : 1022.0 WB (1071644672 守 钦
+总 空 间 大 小 : 2.0 68 (2148289344 字 设
+ARMS Mat: 0 ( Aw
+起 姑 扇 区 : 4096 (ox1000 wR)
+超 级 埔 信 移 地 址 : 8 Coxe 月 E
+本 驳 动 霸 IITD: fsb64adpaa5fa71S9oansbdtbaed5
+更 新 时 间 : 2023-02-17 15:18:58
+枭 验 和 : baerdoc
+BRAG: BME
+桧 带 大 小 : 1024 (AW
+本 驱 动 霸 编 号 : 0
+E
+R
+E
+09 xnRES 。
+RAID-5 、 E
+E
+1NIEEITSHRSRSScerverlon|l lo
+2NIEEITSHRSRRSScererzonl|l lo
+23K \RRBEATIOE RES SERBS \server3.001 |0 0
+BX
+3
+(Si) 标 T
+RE)
+口 tng
+口 qng
+E
+E
+E
+FBR.
+Roche
+Copvricht@2023 Lgzegvoisegxg V1.3.12.1557

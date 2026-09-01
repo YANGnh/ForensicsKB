@@ -1,0 +1,9 @@
+# OCR: 58685ca4e22b13ef8406261b4aa8a005.jpg
+# 来源: .\02-WriteUp\2024\58685ca4e22b13ef8406261b4aa8a005.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+P 希 何 1 SRB > Gq Wi-Fi
+| Gess| 万 5 E
+|v | (ise
+口 1 Xiaomi Pad 65 Pro 12.4 12345678

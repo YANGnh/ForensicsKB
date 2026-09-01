@@ -1,0 +1,18 @@
+# OCR: 83fb271253542a56f305ae578deb06ab.jpg
+# 来源: .\02-WriteUp\2024\83fb271253542a56f305ae578deb06ab.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+=
+评 恩
+仪 20240821_121435jpg
+eRe: jpg
+aE:
+Ads 5.44 MB
+咏 ,2024.08-21121435
+SBT: 2024-08-21 12:14:35
+余 a 囹 ,2024.08-21121435
+MetaAddr: 7145242
+282: Clara_Smartphone.bin/#324/media/0/DCIM/Camera/20240821_121435,jpg
+MERE: ANE
+E

@@ -1,0 +1,30 @@
+# OCR: c031b19ec02e857f39a0db581e37aa01.webp
+# 来源: .\02-WriteUp\2025\c031b19ec02e857f39a0db581e37aa01.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+$2a$10$V/8GUI5aTNSnbFodPjP7Zu6évCFSXmvdd90KHGtWv/vbT3Q4LLTCcW: king110
+Session. : hashcat
+Status.. : Cracked
+Hash.Mode.... : 3200 (berypt $2*$, Blowfish (Unix))
+Hash. Target. .
+Time.Started....
+Time .Estimated
+Kernel. Feature
+: $2a$10$V/8GUIS5aTNSnbFodPjP7Zu6évCFSXmvdd9oKHGtWv/vbT … LLTCcW
+: Sun Jun 01 18:56:58 2025 (1 sec)
+Sun Jun 01 18:56:59 2025 (0 secs)
+Pure Kernel
+Guess.Mask... king?d?d?d [7]
+Guess .Queue 1/1 (100.00%)
+Speed.#1.. 2254 H/s (6.80ms) @ Accel:1 Loops:16 Thr:24 Vec:1
+Recovered. : 1/1 (100.00%) Digests (total), 1/1 (100.00%) Digests (new)
+Progress... : 1000/1000 (100.00%)
+Rejected .. : 0/1000 (0.00%)
+Restore.Point....: 0/1000 (0.00%)
+Restore.Sub.#1 : Salt:0 Amplifier:0-1 Iteration:1008-1024
+Candidate.Engine.: Device Generator
+Candidates.#1... king199 — king739
+Hardware .Mon.#1 Temp: 48c Util:100% Core:2707MHz Mem:14001MHz Bus:8
+Started: Sun Jun 01 18:56:55 2025
+Stopped: Sun Jun 01 18:57:00 2025

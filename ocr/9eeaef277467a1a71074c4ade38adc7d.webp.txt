@@ -1,0 +1,16 @@
+# OCR: 9eeaef277467a1a71074c4ade38adc7d.webp
+# 来源: .\02-WriteUp\2026\9eeaef277467a1a71074c4ade38adc7d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+横 拟 器 显 示 名 称 : 夜 神 横 拟 器 1
+横 拟 器 标 识 : Nox_1
+手 机 号 : 15808566464
+手 机 显 牌 : samsung
+手 机 型 号 : SM-G988N
+共 京 文 件 夹 : /Users/zy881/Nox_share
+已 安 装 应 用 列 表 : 民 生 财 富 汇
+操 作 系 统 : Linux
+UUID: (00000000-0baa-46fa-b357-000000000070}
+文 件 名 : Nox 1-disk2vmdk
+文 件 路 径 : /Program Files (x86)/Nox/bin/BignoxVMS/Nox_1/Nox_1-disk2.vmdk

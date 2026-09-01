@@ -1,0 +1,92 @@
+# OCR: 5a8df3057476b1a7c6c4d91519fd5c0a.webp
+# 来源: .\02-WriteUp\2026\5a8df3057476b1a7c6c4d91519fd5c0a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:42
+
+半 Fle Config View ‘Tools Help
+DBs 《 | 盛 5 _M _C F B | 目 中 吵 靥 四 王 | 洁
+4 index
+& @ Basicanalyzer
+a BaseInfo
+a Certificate
+a ALLAPIS.
+a Allstrings
+a AppStrings
+a Alluris
+@ AndroidManifest
+a Malscan
+@ w Resources
+g 82 DexClass
+@ mT
+© @ android. support.v4
+B app
+日 @ IotiticationsideChannel
+@ cancel(String, int, String): voir
+@ cancelAll (String) : void
+© notify (String, int String, Moti:
+日 @ IotiFicationSideChannelsstud
+日 @ INnotiFicationSideChannelsstubsPr
+@ @ RemoteActionCompatParcelizer
+@ @& graphics.drawable
+@ Bos
+图 androidtranscoder
+@ GB engine
+@ format
+@ @ utils
+日 @ Mediatranscoder
+申 @ Mediatranscoder$1
+申 @ MediaTranscoder$2
+申 @ Mediatranscoder$3
+日 @ Mediatranscoders4
+® @ Mediatranscoder$4$1
+由 @ Mediatranscoder$4$1$1
+@ @ Mediatranscoder$4$2
+国 @ Mediatranscoder$tistener
+用 @ VideoConpressor
+GDA4.02(Free Edition)
+package declare
+[Fite Base Info]
+File Name:
+s89ea806ed2318bccbbc2cba5198.
+Not Packed
+19
+28
+[Metadata]
+DCLOUD_APP_DEFAULT_LANGUAGE auto
+DCLOUD_OARK_MODE: — auto
+DCLOUD_STREAMAPP_CHANNEL: uni .owry|__UNI__7CB999B| 126691230302 common
+android.notch_support : true
+notch. config: portrait
+android.max_aspect: 2.5
+‘android. support .FILE_PROVIDER_PATHS:
+@resource
+[DEX Base Info]
+Dex File Name:
+File Size:
+classes .dex
+9329828 bytes
+#5d37adcf402de23808e8068b4293882
+7843
+: 65487
+String Size: 68846
+Dex File Name:
+File Size
+classes2.dex
+1001608 bytes
+2193362589F0da4c483addeFebd46cda
+659
+6167
+String Size: 9680
+[Permissions]
+android. permission. INTERNET
+android. permission. WRITE_EXTERNAL_STORAGE
+android. permission.ACCESS_NETWORK_STATE
+droid. permission.ACCESS_WIFI_STATE
+android. permission. INSTALL_PACKAGES
+android. permission. REQUEST_INSTALL_PACKAGES
+android. permission. CHANGE_NETWORK_STATE
+android. permission. MOUNT_UNMOUNT_FILESYSTEMS
+android. permission. VIBRATE
+android nermicssian.RFAN 10GS
+标 | 园 Se Boolowey 英 | 9 sxe
+CiusersVIEKOinesktopy 山 亮 \ 出 颜 \ 柳杨 周 孙 AWC 件 unicowryvapk

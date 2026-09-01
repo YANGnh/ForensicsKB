@@ -1,0 +1,58 @@
+# OCR: 9f8ac05b18299f35cb3e3f4e989e0140.webp
+# 来源: .\02-WriteUp\2025\9f8ac05b18299f35cb3e3f4e989e0140.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+3
+E
+0
+0
+0
+1
+63 00 00 00
+31 00 00 00
+12 34 56 78
+00 00 00 00
+‘FF D8 FF EO
+00 60 00 00
+00 2A 00 00
+00 01 00 00
+00
+00
+90
+00
+00
+FF
+00
+00
+00
+00
+00
+10
+El
+08
+00
+00
+00
+cD
+00
+aa
+00
+00
+00
+00
+00
+EF
+00
+46
+22
+o1
+00
+PanasonicOOOO000
+NR-E46CV10000000
+DyxD  O4vx0
+face 100000000000
+cooo) scog oof
+TFOOOOO*o*oo0
+Exi f00MMO*O00000
+od

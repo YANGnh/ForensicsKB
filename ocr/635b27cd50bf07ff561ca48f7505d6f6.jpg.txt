@@ -1,0 +1,12 @@
+# OCR: 635b27cd50bf07ff561ca48f7505d6f6.jpg
+# 来源: .\02-WriteUp\2024\635b27cd50bf07ff561ca48f7505d6f6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+v Q vm-111-disk-0.vmdk
+20
+日
+737
+177
+28
+〉 震UnuBdWWF 19736

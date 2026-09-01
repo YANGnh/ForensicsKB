@@ -1,0 +1,16 @@
+# OCR: 506e07b3a983ea813ce573f6a77b0b7a.jpg
+# 来源: .\02-WriteUp\2024\506e07b3a983ea813ce573f6a77b0b7a.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+E x
+[root@localhost ~]# docker ps
+CONTAINER ID IMAGE ‘COMMAND. CREATED. STATUS PORTS NAMES
+[root@localhost -] docker ps -
+CONTAINER ID IMAGE COMMAND, CREATED STATUS PORTS
+NAMES
+3bacbaeefe rysqL:5.7 “docker-entrypotnt.s-“ 2 months ago Exited (255) About an hour ago “33868/tcp,6-
+0.8.0:13306->3306/tcp __mysql-web
+a2aae89e3ac8 redts “docker-entrypotnt.s-“ 2 months ago Extted (255) About an hour ago 8.6.6.8-16379
+->6379/tcp redis-web
+[root@localhost ~]#

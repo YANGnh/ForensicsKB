@@ -1,0 +1,10 @@
+# OCR: 4d3986713add38b9cdcd34510cdf4691.webp
+# 来源: .\02-WriteUp\2025\4d3986713add38b9cdcd34510cdf4691.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+a - 近 1.240 000 ph pls 69.290% recovered
+Sh 38m 4920 pis 0 pfs 100.000% recovered
+@ HERS AE. xox -
+otal: 14, nnotstarted: 3, paused: 0, waiting: 0, recovered: 10, notrecovered: 1, not encrypted: 1, failed: 0
+Attacks Mutations «Result cooet

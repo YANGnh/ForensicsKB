@@ -1,0 +1,140 @@
+# OCR: 823c746dc8430481d390fc32bd0c3381.webp
+# 来源: .\02-WriteUp\2025\823c746dc8430481d390fc32bd0c3381.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+create table user
+(
+id
+phone
+nane
+deard
+auth
+password
+password2
+top
+qq
+member
+money
+frozenmoney
+value
+income
+Logintime
+clock
+giandao
+intearal
+int unsigned auto_increment comment 'fS*
+primary key,
+varchar (50)
+varchar(20)
+varchar(18)
+int
+varchar (32)
+varchar(32)
+int
+varchar(15)
+int
+decimal (10,
+decimal (10,
+int
+decimal (10,
+varchar(20)
+int
+varchar(20)
+ane
+default
+default
+default
+default
+default
+default
+default
+default
+default
+default
+default
+default
+default
+default
+default
+default
+P
+‘9
+Re
+亚
+6
++g
+‘9
+6
+6
+6.60
+6.60
+6.60
+河
+‘9°
+not null comment
+not
+not
+not
+not
+not
+not
+not
+not
+not
+not
+not
+not
+not
+not
+not
+H
+null
+null
+nutt
+nutt
+nutt
+null
+nutt
+nutt
+null
+null
+nutt
+null
+nutt
+Ault
+null
+7
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+comment
+P
+标 1
+"ee,
+‘SESS,
+‘SBME, 6 李 训 / 巳 证
+‘SREB,
+,
+‘HBA,
+“
+,
+a,
+Gem",
+“BRIE,
+‘Bikes Sah",
+‘SRA,
+‘BBE 08/12",
+,
+5

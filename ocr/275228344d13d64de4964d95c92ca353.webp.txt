@@ -1,0 +1,17 @@
+# OCR: 275228344d13d64de4964d95c92ca353.webp
+# 来源: .\02-WriteUp\2025\275228344d13d64de4964d95c92ca353.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+iv =hex_to_bytes("672394ef4cd52f76ffde7bb06a86625c")
+# decrypt
+f= open("6c051a72b91a1.1", "rb")
+ff = open("6c051a72b91.a1.png", "wb")
+j=0
+while True:
+dd =f.read(16)
+if len(dd) < 16:
+ff.write(dd)
+break
+p=aes che decrypt(dd, key, iv, j %11)
+ffwrite(p)

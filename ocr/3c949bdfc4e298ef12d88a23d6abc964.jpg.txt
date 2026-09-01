@@ -1,0 +1,9 @@
+# OCR: 3c949bdfc4e298ef12d88a23d6abc964.jpg
+# 来源: .\02-WriteUp\2024\3c949bdfc4e298ef12d88a23d6abc964.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+T AppName inc “i
+E ERASER | = RAS 口 9 关 | = ORE
+JV ae Y | (ee V , Vv Gv | Gy | i
+com.tencent.xin 8.0.50 URES SEGRE.

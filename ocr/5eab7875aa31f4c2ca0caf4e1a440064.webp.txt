@@ -1,0 +1,10 @@
+# OCR: 5eab7875aa31f4c2ca0caf4e1a440064.webp
+# 来源: .\02-WriteUp\2025\5eab7875aa31f4c2ca0caf4e1a440064.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+eee gee ee Ee oe eee ee ee eee ee
+73@0d7b8b9 80 80 G8 20 80 G8 G8 91 7e 89 00 G0 E8 00 A0 1c
+7300d7b8C9_ a1 @a G8 O8 G0 GO G8 91 7e 89 08 81 80 00 20 1c
+@x7300d76749, [object Object],0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+audiolv

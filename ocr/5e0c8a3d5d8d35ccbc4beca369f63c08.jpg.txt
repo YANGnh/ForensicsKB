@@ -1,0 +1,25 @@
+# OCR: 5e0c8a3d5d8d35ccbc4beca369f63c08.jpg
+# 来源: .\02-WriteUp\2024\5e0c8a3d5d8d35ccbc4beca369f63c08.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+BR: /ooeoonwooyousicicon~
+eR Char + ae Q we
+5 config.php
+9 db.php
+目 Indechtnl
+希 stephp
+Kee ener 。 幼 99F ABR
+认 广 N 。 工 学
+dbphp 关
+iphp
+return-array(
+“DB_TYPE’ -> ‘mysql’,
+"DB_HOST’ => '127.0.0.1",
+“DB_NAME’ => ‘2828",
+"DB_USER" =>. ‘root’,
+"DB_PWD’ -> ‘root’,
+"DB_PORT’ c 306
+“DB_PREFIX' =>. ‘think_*
+“DB_CHARSET"=>. “ut#8",
+“DB_DEBUG’ 一

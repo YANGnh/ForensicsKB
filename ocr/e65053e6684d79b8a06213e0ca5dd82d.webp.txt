@@ -1,0 +1,13 @@
+# OCR: e65053e6684d79b8a06213e0ca5dd82d.webp
+# 来源: .\02-WriteUp\2024\e65053e6684d79b8a06213e0ca5dd82d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+}
+ln
+weid_bmdgbk9b7v1929 仁 春
+weid_bmdgbk9b7v1929 大 年 人
+weid_bmdgbk9b7v1929 FIG PRA
+Se: 一
+weid_bmdgbk9b7v1929 莲 尘
+weid_bmdgbk9b7v1929 探 仁

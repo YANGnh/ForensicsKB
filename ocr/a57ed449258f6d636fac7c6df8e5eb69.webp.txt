@@ -1,0 +1,15 @@
+# OCR: a57ed449258f6d636fac7c6df8e5eb69.webp
+# 来源: .\02-WriteUp\2024\a57ed449258f6d636fac7c6df8e5eb69.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+历 粉 坦 沛 图 RSME
+carrdb
+E
+android metadata
+carts,
+products
+room master table
+toppings
+= payment provider
+= payment methods

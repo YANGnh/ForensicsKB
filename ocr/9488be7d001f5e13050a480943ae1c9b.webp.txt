@@ -1,0 +1,8 @@
+# OCR: 9488be7d001f5e13050a480943ae1c9b.webp
+# 来源: .\02-WriteUp\2025\9488be7d001f5e13050a480943ae1c9b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+BusyBox v1.36.1 (2025-02-03 23:09
+:37 UTC) built-in shell
+(ash)

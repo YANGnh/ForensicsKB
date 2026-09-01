@@ -1,0 +1,21 @@
+# OCR: 2675bb2319c9a042973be74158775f2f.webp
+# 来源: .\02-WriteUp\2024\2675bb2319c9a042973be74158775f2f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:12
+
+Cotter © PermissionController @ dict @ dictbata @ setting © RedisexceptionThrowsConfig ©, 2wzstringutils
+package cn.zwz.data.utils;
+import org. jasypt. encryption. StringEncryptor;
+import org. jasypt. encryption. pbe. StandardPBEByteEncryptor;
+import org. jasypt. encryption. pbe. StandardPBEStringEncryptor;
+import org. springframework .context .annotation.Bean;
+import org. springframework context .annotation. Configuration;
+@configuration
+厂 loaded from: s048-3.0.0. jar:BO0T-INF/classes/cn/zwz/data/utils/ZwzStringUtils.class */
+11 public class ZwzStringutils 目
+@Bean(name = {"jasyptStringencryptor"})
+12 public StringEncryptor stringEncryptor() 《
+13 StandardPBEStringEncryptor encryptor = new StandardPBEStringEncryptor();
+4 encryptor. setAlgorithm(StandardPBEByteEncryptor . DEFAULT_ALGORITHM) ;
+25 encryptor. setPassword("F*DZ-kZMsSqt"
+16 return encryptor;

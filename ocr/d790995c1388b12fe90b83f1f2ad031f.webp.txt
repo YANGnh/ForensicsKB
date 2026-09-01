@@ -1,0 +1,117 @@
+# OCR: d790995c1388b12fe90b83f1f2ad031f.webp
+# 来源: .\02-WriteUp\2025\d790995c1388b12fe90b83f1f2ad031f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+\home\haobei\.config\xfce4\xfconf\xfce-perchannel-xm|,
+VR
+TY XARA
+JO. = 2
+JG. =
+“IE displaysam!
+固 urscson
++1 2) xfce4-notifyd.aml
+|) xfced-power-manager.xml
+“1 2) xsettingsaml
+“| | xfced-desktopam|
+] 固 amtom
+“| | xfce4-panelxml
++1 f| xfce4-keyboard-shortcuts.xml
+E
+1 6s
+E
+home\haobei\.confighxfce4
+\home\haobeil.confighxfced\xfconf
+\home\haobei\.config\xiced\xfconf\xice-perc
+\home\haobei\.config\xice4\xfconf\xice-perc
+\home\haobei\.config\xice4\xfconf\xice-perc
+\home\haobei\.config\xiced\xfconf\xice-perc
+\home\haobei\.config\xice4\xfconf\xice-perc
+\home\haobei\.config\xice4\xfconf\xice-perc
+\home\haobei\.config\xice4\xfconf\xice-perc
+\home\haobei\.config\xice4\xfconf\xice-perc
+\home\haobei\.config\xice4\xfconf\xice-perc
+一 3 [Ox lms | 罗 M8 | 9 oem |
+Offset 0 12 3 4 5 6 7
+00000240 70 65 3D 22 65 6D 70 74
+00000256 20 3c 70 72 6F 70 65 72
+00000272 22 6C 6F 63 6B 2D 73 63
+00000288 70 65 6E 64 2D 68 69 62
+00000304 74 79 70 65 3D 22 62 6F
+00000320 65 3D 22 74 72 75 65 22
+00000336 70 72 6F 70 65 72 74 79
+00000352 68 6F 77 2D 74 72 61 79
+00000368 79 70 65 3D 22 62 6F 6F
+00000384 3D 22 66 61 6C 73 65 22
+00000400 72 6F 70 65 72 74 79 3E
+00000416 65 6C 3E OA 00 00 00 00
+8 5
+75
+74
+72
+65
+E
+2
+20
+2D
+6c
+E
+oa
+61
+20
+oa
+QE
+yal
+E
+5
+6E
+61
+20
+20
+6D
+E
+76
+20
+63
+61
+20
+68
+14
+20
+65
+15
+22
+6c
+20
+22
+20
+75
+E
+6E
+15
+20
+3D
+73
+20
+75
+3c
+73
+74
+65
+70
+6E
+Ur
+"empty"/>
+<property name=
+"lock-screen-sus
+pend-hibernate"
+type="bool" valu
+e="true"/> <
+property naffe="s
+how-tray-iconn t
+ype="bool" value
+="false"/> </p
+zoperty> </chann
+el>
+3c
+61

@@ -1,0 +1,38 @@
+# OCR: fbd581c022a396a09019338e2ba91cfc.webp
+# 来源: .\02-WriteUp\2024\fbd581c022a396a09019338e2ba91cfc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+List View
+<?xml version="1.0" encoding="UTF-8"?>
+!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" “http: //www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>rateDone</key>
+<true/>
+<key>rateTriggerCount</key>
+<integer>10</integer>
+<key>onboardingDone</key>
+<true/>
+<key>What sNewManager . lastVersion</key>
+<string>3.2</string>
+<key>conf</key>
+<string>{
+twitter" : "cloak_app",
+“CSYZH_BH3hDruGxj"_: 1
+}</string>
+<key>settings</key>
+: true,
+“biometric” false
+}</string>
+<key>totalGroupsCreated</key>
+<integer>2</integer>
+<key>appsConfiguration</key>
+<string
+“groups”
+Mm
+| "selection" : {
+“untokenizedapplicationIdentifiers" : 【
+【
+明
+| | "untokenizedCategoryIdentifiers" : 【

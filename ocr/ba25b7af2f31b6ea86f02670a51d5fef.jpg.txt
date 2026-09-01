@@ -1,0 +1,11 @@
+# OCR: ba25b7af2f31b6ea86f02670a51d5fef.jpg
+# 来源: .\02-WriteUp\2024\ba25b7af2f31b6ea86f02670a51d5fef.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+@ GO D OC #8 x ie
+人 〇 A Fee | 192.168.217.132:22
+抱 歉 , 您 没 有 访 问 权 限
+谍 俊 用 正 确 的 域 名 访 问
+查 睹 斤 可 域 各 : cat /www/server/panel/data/domain.conf
+关 闯 汪 问 限 刹 :rm -f /www/server/panel/data/domain.conf

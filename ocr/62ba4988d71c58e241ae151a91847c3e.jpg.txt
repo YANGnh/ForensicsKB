@@ -1,0 +1,14 @@
+# OCR: 62ba4988d71c58e241ae151a91847c3e.jpg
+# 来源: .\02-WriteUp\2024\62ba4988d71c58e241ae151a91847c3e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+APE:
+Navicat
+SSH REE nee
+Ged
+27.0.0
+3306
+root mi
+i) E
+匠 二 | 万

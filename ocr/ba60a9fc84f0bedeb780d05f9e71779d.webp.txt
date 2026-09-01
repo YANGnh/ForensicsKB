@@ -1,0 +1,9 @@
+# OCR: ba60a9fc84f0bedeb780d05f9e71779d.webp
+# 来源: .\02-WriteUp\2024\ba60a9fc84f0bedeb780d05f9e71779d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+OB cadsers\administratonDeskt X
+MART EE:
+1. 创 建 加 宿 容 霸 文 件
+fy 2. 加 轶 容 跟 文 件

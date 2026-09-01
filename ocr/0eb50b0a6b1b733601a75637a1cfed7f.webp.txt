@@ -1,0 +1,43 @@
+# OCR: 0eb50b0a6b1b733601a75637a1cfed7f.webp
+# 来源: .\02-WriteUp\2025\0eb50b0a6b1b733601a75637a1cfed7f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+EB esxi2
+晓 戚 W veenter server | 1H 刊 源 / 注 册 虚 掌 机 | OR 关 机 Of] 重 新 引 导 | C mi | 痉 tate 菖 8etoett
+6%
+esxi2 BA: 306 MHz BH: 5.2GHz
+版 本 8.0 Update 3 F 2
+状 况 正 常 未 连 接 到 任 何 vCenter Server) 25 sox
+正 常 运 行 时 间 OR BB:356B S668
+E aH: OB
+Nan%
+BR: 08 SE0B
+@ HAGE Leese x
++ y RS
+Shes VMware, Inc 育 像 卵 医 文 似 (Updated) ESXI-8.0U3e-24674464-standard (sysin.org)
+gs vMware7 vSphere HA 182 EE
+> @ cpu 2 CPUs x Intel(R) Core(TM) 7-9750H CPU @ 2.60GHz VY vMotion
+A 6GB BaF 是
+》 幼 应9 存 0 8 巳 门 . 0 8 家 春 用 于 vMotlon 的 序 披 网 卡 驯 vnmi2
+V @ R “ 系 统 信 息
+ams Xe 主 机 上 的 日 期 明 间 2025 年 6 月 09 日 星 朋 一 5331UTc
+0 E 安 装 日 期 2025 年 4 月 30 A BAR= 14:25:36 UTC
+2. vmk1: 192.168.25.202 aes
+3. vmk2: 192.168.30.202 b nee EL)
+序 刑 号 VMware-56 4d 3a ea a8 €2 Sb a-es bf b6 61 Oc 6162 2c
+ORE) [ BIOS Has VMW/71.00V.16722896.B64.2008100651
+2.14.14.14.14
+BIOs 发 布 日 期 2020 # 8 B 10 B B88 08:00:00 +0800
+BRAM 192.168.10.1
+~ BA 1 NS
+IPV6 BRB a
+EASA 1 余 巳 消 耗 的 主 机 CPU ORHHHTNAEH
+100
+me 名 称 庞 招 机
+相 Dswitch-Dvuplinks-1029 0 g Bo, a
+& Dswitch-vsAN 0 > =
+5 60 园
+@ v Network 0 怀 园
+5 =
+ee eh an a 名

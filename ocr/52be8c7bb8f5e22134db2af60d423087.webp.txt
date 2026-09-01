@@ -1,0 +1,224 @@
+# OCR: 52be8c7bb8f5e22134db2af60d423087.webp
+# 来源: .\02-WriteUp\2025\52be8c7bb8f5e22134db2af60d423087.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+© action log @main (media. 20240601) - $8 - Navicat Premium
+In so =
+心
+xt 88 BE kee
+-_
+姬 Tb r |
+= aa =
+arosoecoeweor
+YB main
+vane
+action log
+Bead
+ad list
+ad player_ref
+category
+cut task
+group
+group player ref
+group_user_ref
+led
+led_send
+play_preset list
+play_preset list content
+play preset send history
+player
+player attribute
+player_update task
+program
+program _content
+program send
+reserve schedule
+reserve schedule item
+role
+role_permission
+role_user_ref
+scheduling
+scheduling content
+screen_group
+screen_group task
+screen_group task item
+纳 尻 尼 尿 屋 屋 尿 居 尿尿 居 尿 居 居 屉 屉 居 居 屉 居 居 屉 居 固 屉 图 风 国 屈 凤 居 居
+user_attr
+user defined
+> 吴
+A-Z
+E
+BEE
+心
+AP
+‘T action log @main (media.20240601)
+we Ba
+一
+as F
+#0 SMEG 。 Be
+TB player attribute @main (media. 2024,
+(QS, © Sat 图 RR oly anes
+Gcontent #2 HH
+4 + VR
+id
+345c0Flb-c715-deba-a6l
+0f86dd6c-e188-4347-972
+66289df3-9992-4713-93
+4ef03744-4796-4568-afe
+263030ec-98eb-41¢2-86
+4ea46683-117F-4902-b81
+cGe63bdF-3dec-4c99-bd
+d0003dda-2249-4eb3-81
+5f9018ac-clfa-42€9-876
+07a7df59-a027-4639-bf
+4e9e6c2a-d0ad-4598-82
+62636e0d-8d44-46e2-9:
+4228668d-7b8a-4913-82
+E
+29003d02-5b47-4042-b1
+fffbfcb1-2c66-4b5d-955:
+d86c6eb5-9306-45ad-8¢
+#d5765a4-3cbd-4b44-85
+0c98e7ae-30c1-406b-87:
+d89171b1-f1a9-4286-98
+630b8288-ddea-4132-bt
+] 77a78de3-£455-4582-b0
++= c
+type
+userld
+account
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+userName
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+admin
+datetime
+2025-04-14 15:42:17,536
+2025-04-14 15:42:55,722
+2025-04-14 15:43:03,302
+2025-04-14 15:43:53,208
+2025-04-14 15:44:30.471
+2025-04-14 15:44:35,526
+2025-04-14 15:46:24,29C
+2025-04-14 15:49:16.815
+2025-04-14 15:49:21,013
+2025-04-14 15:49:44,870
+2025-04-14 15:50:54,877
+2025-04-14 15:52:55,444
+2025-04-14 15:53:14.03€
+2025-04-14 15:53:17,713
+2025-04-29 15:51:20,265
+2025-04-29 15:51:44,865
+2025-04-29 15:53:01,715
+2025-04-29 15:54:24,702
+2025-04-29 15:54:29,111
+2025-04-29 15:55:34,913
+2025-04-29 15:55:52.16€
+2025-04-29 15:57:37.06€
+ip
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168.20.100
+192.168,20.100
+192.168.20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168.20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+192.168,20.100
+SELECT *,rowid "NAVICAT_ROWID" FROM "main*."action_ log" WHERE “content” LIKE ‘%85E3%" LIMIT 0,1000
+userAgent content
+Mozilla/5.0 (Windows N #1808
+Mozilla/5.0 (Windows N i
+Mozilla/5.0 (Windows N B
+Mozilla/5.0 (Windows N 卯 W 日
+Mozilla/5.0 (Windows N ri
+Mozilla/5.0 (Windows N S805
+Mozilla/5.0 (Windows N 23805
+Mozilla/5.0 (Windows N 806
+Mozilla/5.0 (Windows N 86
+Mozilla/5.0 (Windows N #3808
+Mozilla/5.0 (Windows N 5806
+Mozilla/5.0 (Windows N #38805
+Mozilla/5.0 (Windows N i
+Mozilla/5.0 (Windows N 23805
+Mozilla/5.0 (Windows N #3808
+Mozilla/5.0 (Windows N 806
+Mozilla/5.0 (Windows N 卯 W 日
+Mozilla/5.0 (Windows N #20805
+Mozilla/5.0 (Windows N 23805
+Mozilla/5.0 (Windows N 5806
+Mozilla/5.0 (Windows N 23805
+Mozilla/5.0 (Windows N p
+eed
+mt
+mt
+mt 2025-04-1
+mw 2025-04-1
+a->192.168.2
+mi,
+mant
+mant
+man 2025-04
+promo
+promo,
+pl
+pl
+pl 2025-04-21
+[
+p 2025-04-21
+pl 2025-04-21
++ 0 , 团 固
+22 RGR 伟 双 鲁 FSI og

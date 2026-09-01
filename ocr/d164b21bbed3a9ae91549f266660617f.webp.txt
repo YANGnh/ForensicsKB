@@ -1,0 +1,8 @@
+# OCR: d164b21bbed3a9ae91549f266660617f.webp
+# 来源: .\02-WriteUp\2025\d164b21bbed3a9ae91549f266660617f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+[rootek8s-node2 conf]# netstat -anpt | grep memcached
+tcp 6 9 127.0.0.1:11211 0.0.0.0:* LISTEN 1001/memcached
+[root@k8s-node2 conf ]#

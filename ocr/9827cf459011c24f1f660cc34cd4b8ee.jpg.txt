@@ -1,0 +1,12 @@
+# OCR: 9827cf459011c24f1f660cc34cd4b8ee.jpg
+# 来源: .\02-WriteUp\2024\9827cf459011c24f1f660cc34cd4b8ee.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+s
+with open(‘result.txt’, utf-8") as result_file:
+for i in range(1, 4):
+file_name = £'12306i8F{i}.txt"
+with open(file_name, ‘r’, encoding='utf-8") as source file:
+result_file.write(source_file.read())
+result_file.writel(’\n‘f]

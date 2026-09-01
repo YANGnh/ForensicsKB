@@ -1,0 +1,8 @@
+# OCR: 09e45508795cb57d52e3d212a875819b.webp
+# 来源: .\02-WriteUp\2025\09e45508795cb57d52e3d212a875819b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+flag4{104864DF-C420-
+O4BB5F51F267}
+test test test

@@ -1,0 +1,25 @@
+# OCR: 480e6f694c921a7446930f7538c207b8.jpg
+# 来源: .\02-WriteUp\2024\480e6f694c921a7446930f7538c207b8.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+| & http/112.124.62.187:8080/shell.aspx
+URL: | hitp:/112.124.62.187:8080/shell aspx
+is AEE APIA feaeshel AEE BE PIS PR BER Bs
+1 eae h |
+6 Tesmere
+, LOCALAPPDATA:C:\Windows|system32\config\systemprofile\AppData\Local
+PSModulePath:C: \Program Files\ WindowsPowerShelll Modules;C:\ Windows\system32\WindowsPowerShell\v1.0\Modu
+Server\120\Tools\ PowerShell Modules\
+PROCESSOR_ARCHITECTURE-AMD64
+Path:C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\ Windows System32\WindowsPowerShell\vl
+Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools'Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Too
+Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ Management
+CommonProgramF iles(x86):C:\Program Files (x86)\Common Files
+ProgramFiles(x86)-C:\Program Files (x86)
+PROCESSOR_LEVEL:6
+windows_tracing_flags:3
+ProgramFiles:C:\Program Files
+PATHEXT:.COM; EXE; BAT:.CMD;.VBS;. VBE; JS; JSE;. WSF;. WSH; MSC
+USERPROFILE:C:\Windows\system32\config\systemprofile
+SystemRoot:C:\ Windows

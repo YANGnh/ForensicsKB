@@ -1,0 +1,8 @@
+# OCR: 1bf89565eb8e434fc90cf6bea0d1047f.jpg
+# 来源: .\02-WriteUp\2024\1bf89565eb8e434fc90cf6bea0d1047f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+[root@wns ~]# echo -n "2828" | openssl enc -aes-256-cbc -a -salt -pass pass:mysecretpasshord -nosalt
+IvPGP/8vfTLtzQFJTmQhYg==
+[root@wns ~]# []

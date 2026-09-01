@@ -1,0 +1,15 @@
+# OCR: f919df89a8cc3cc2de16909486f8cbf7.webp
+# 来源: .\02-WriteUp\2024\f919df89a8cc3cc2de16909486f8cbf7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+himi_score, Iz_score, ofd_xd_score, p ofd-repayn
+ent_tine, ofd.ds_third_nun, ofd.df_third_nun, od_end_tine FRO
+der_fron” ofd LEFT JOIN ( SELECT _detatl_id ) AS order_detatl_id, order_id,e
+nd_tine FROM order_detail WHERE ~status’ =
+rder_id ) ofd “status
+Expression #3 of SELECT
+"sxj_prod-order_detail_end_tine’ wh
+this is incompatible with sql_mod
+List is not in GROUP BY clause and contains nonaggregated column
+ich is not functionally dependent on columns in GROUP BY claus

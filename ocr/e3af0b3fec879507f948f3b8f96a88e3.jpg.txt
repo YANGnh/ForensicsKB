@@ -1,0 +1,26 @@
+# OCR: e3af0b3fec879507f948f3b8f96a88e3.jpg
+# 来源: .\02-WriteUp\2024\e3af0b3fec879507f948f3b8f96a88e3.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:44
+
+3
+Rs OE
+» ill cache
+> a ssh
+> bib rocketchet
+口 bash history
+口 bnve
+日 profile
+D siminto
+D vonciee
+E
+2024 FIC AMS x
+A x 十
+Linux debtan 6.1.0-18-amd64 #1 SMP PREEMPT_DYNAMIC Debtan 6.1.76-1 (2024-02-81) x86_64
+The programs included with the Debtan GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable Law-
+Last login: Sat Apr 27 12:13:00 2024
+root@debtan-~# D

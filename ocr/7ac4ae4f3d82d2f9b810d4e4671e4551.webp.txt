@@ -1,0 +1,15 @@
+# OCR: 7ac4ae4f3d82d2f9b810d4e4671e4551.webp
+# 来源: .\02-WriteUp\2025\7ac4ae4f3d82d2f9b810d4e4671e4551.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+[=| macJapan.enc enc apple\Desktop\X(#028%.app\Contents\Resources\lib\tcl8.6\encoding
+| E] macRoman.enc enc apple\Desktop\Sct1188.app\Contents\Resources\lib\tcl8.6\encoding
+| F] macRomania.enc enc apple\Desktop\Sct/188.app\Contents\Resources\lib\tcl8.6\encoding
+| 5] macThai.ene enc apple\Desktop\Sct#/188.app\Contents\Resources\lib\tcl8.6\encoding
+| E] macTurkishene enc apple\Desktop\ct/188.app\Contents\Resources\lib\tcl8.6\encoding
+| F] macUkraineenc enc apple\Desktop\3ct/188.app\Contents\Resources\lib\tcl8.6\encoding
+目 senc enc apple\Desktop\Sct1188.app\Contents\Resources\lib\tcl8.6\encoding
+目 ameelenc enc apple\Desktop\Scti188.app\Contents\Resources\lib\tcl8.6\encoding
+| tis-620.enc e\Desktop\S2tI0288.app\Contents\Resources\lib\tcl8.6\encoding
+口 5 Dea Ose 5 c B 门 根 三 @ 一

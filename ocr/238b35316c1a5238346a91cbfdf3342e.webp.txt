@@ -1,0 +1,12 @@
+# OCR: 238b35316c1a5238346a91cbfdf3342e.webp
+# 来源: .\02-WriteUp\2025\238b35316c1a5238346a91cbfdf3342e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+/ (get) Token: Ox0600011E RID: 286 RVA
+public override string J’
+1
+get
+0
+return “Opera”
+1

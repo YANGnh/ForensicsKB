@@ -1,0 +1,12 @@
+# OCR: affd6342a36141a36e2db99ae0f0856f.webp
+# 来源: .\02-WriteUp\2025\affd6342a36141a36e2db99ae0f0856f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+NoahTie@LAPTOP-H91IARRE F
+> node .\crypto.js
+[+] Password Cracked: chewhaoN@6087
+[+] Plaintext: 1428444b93c31c069502e96b36e65d4de5556e4F3839bc68a7d47F905ec5F
+addc9b339399998ac5926335a5af653a455d4489d9ded8bc5441cf260bbaSc3ab8a210F4b9a
+1f47555a653ae86ceab695598578c133ddd86719f768d58961629db7346465b748ae4ae26f9b
+aa125cc38e4abcae296c7ff1fdb

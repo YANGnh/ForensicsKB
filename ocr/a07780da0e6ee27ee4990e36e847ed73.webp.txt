@@ -1,0 +1,12 @@
+# OCR: a07780da0e6ee27ee4990e36e847ed73.webp
+# 来源: .\02-WriteUp\2025\a07780da0e6ee27ee4990e36e847ed73.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+Token giangianbi (giangian)
+Ro-20
+Overview
+MAX TOTAL SUPPLY
+1,000,000 qiangian
+HOLDERS
+2

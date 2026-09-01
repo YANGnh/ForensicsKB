@@ -1,0 +1,49 @@
+# OCR: c8b3fbd8e3b9109a2303180132f50168.jpg
+# 来源: .\02-WriteUp\2024\c8b3fbd8e3b9109a2303180132f50168.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:41
+
+E
+NB
+Fes mows
+回 口 心 目 javaserver x
+froot
+@|(@)[--|(e]! lclLe l
+afs
+boot
+dev
+home
+lost+found
+media
+mnt
+opt
+proc
+he
+口 bash history
+bash _logout
+bash profile
+cbashre
+e
+desshst
+口 口 口 回 回 因
+E
+英 anaconda-ks.cfg
+) 量 量 监 国 野 园
+菁
+bin
+口 et
+门 sbin
+sqiserver 9 Xv
+Authorized users only. ALL activities may be monitored and reported.
+Last login: Mon May 20 17:27:16 2024
+Welcome to 5.16.6-182 6.6.95oe2203sp3-x86_64
+System information as of time: Mon May 20 85:35:25 PM CST 2024
+System load: 0.01
+Processes: 210
+Memory used: 6. 5%
+Swap used: 0%
+Usage On: 41%
+IP address: 192.168.100.112
+IP address: 172.17.0.1
+Users online: 2
+[root@localhost ~]# |

@@ -1,0 +1,32 @@
+# OCR: d04cf6baf777e68f3ce9011e0e6d1f05.webp
+# 来源: .\02-WriteUp\2025\d04cf6baf777e68f3ce9011e0e6d1f05.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+自 cryptoconfig
+广 renamed from: c, reason: collision with root package name */
+public final FixedSecureRandom £2054c;
+/* renamed from: d, reason: collision with root package name */
+public byte[] f2855d;
+/* renamed from: e, reason: collision with root package name */
+public boolean f2056e;
+public b(Context context, CryptoConfig config) {
+String prefName = a(config);
+this.f2053b = context.getSharedPreferences(prefName, 0);
+this.f2054c = new FixedSecureRandom();
+this.f2052a = config;
+]
+public static String a(Cryptoconfig config) {
+if (config == CryptoConfig.KEY_128) {
+return "crypto";
+]
+return "crypto.
++ String. valueOf (config) ;
+]
+Eoverride // b.f.b.g.a
+public synchronized byte[] b() throws KeyChaingxception {
+if (Ithis.f2056e) {
+this.f2055d = b("EABHERUKEY", this. f2052e.keylength);
+]
+this.f2056e = true;
+return this.2055d;

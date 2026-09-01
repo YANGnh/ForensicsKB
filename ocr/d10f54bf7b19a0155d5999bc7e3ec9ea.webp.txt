@@ -1,0 +1,26 @@
+# OCR: d10f54bf7b19a0155d5999bc7e3ec9ea.webp
+# 来源: .\02-WriteUp\2024\d10f54bf7b19a0155d5999bc7e3ec9ea.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+1 65 HES E wWowete E
+e E E E B E
+faa 志 audiodg.exe 4344 2812 2024-05-23 03:16:52 a E
+121
+svchostexe 5640 704 2024-05-23 03:34:34 a E
+1
+svchostexe 8672 704 2024-05-23 03:34:34 a E
+> eB 203
+MiniSearchHostexe 8348 920 2024-05-23 04:09:23, a E
+Uneweae 0
++4oee 2872 5596 2024-05-23 06:37:47 a E
+nodemsees 0
+conhost.exe 5796 2872 2024-05-23 06:37:47 a E
+NOOSE 0
+‘OpenConsole-exe 11104 920 2024-05-23 06:37:47 a E
+WindowsTerminalexe 8476 920 2024-05-23 06:37:47 a E
+RuntimeBroker.exe 6388 920 2024-05-23 06:37:47 a E
+cmd.exe E 2872 2024-05-23 06:38:23, a E
+WeChatexe 9832 5596 2024-05-23 06:46:27 a E
+mmcrashpad handler64exe 2228 9832 2024-05-23 06:46:28 a E
+Weaueperee 3000 9832 2024-05-23 06:46:28 a E

@@ -1,0 +1,23 @@
+# OCR: 9caa000f92e33b49c4cd473a5b07d573.webp
+# 来源: .\02-WriteUp\2025\9caa000f92e33b49c4cd473a5b07d573.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+口
+口 3
+口 4
+口 15
+Ore
+ov
+Digital Signage
+Digital Signage
+mant
+Digital Signage
+p
+pl
+http://192.168.20.100:6101/
+http://192.168.20.100:6101/
+http://192.168.20.100:6101 /preview.htm?id=06d90abe-cOde...
+http://192.168.20.100:6101/
+http://192.168.20.100:6101 /preview.htm?content=a5b06f77-4...
+http://192.168.20.100:6101 /preview.htm?content=c9340f66-4...

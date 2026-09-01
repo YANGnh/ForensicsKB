@@ -1,0 +1,9 @@
+# OCR: bb564e01f529b104ce9bbe09984f4572.webp
+# 来源: .\02-WriteUp\2025\bb564e01f529b104ce9bbe09984f4572.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+BP 9g 202509222139.£01 > 蝉 winscp > ise
+Ozse| =P 三 端 口 号 三 用 户 名 三 宥 码 = 连 接 名 称 一 时 间
+过 滤 了 we V we V , 过 液 VY , 过 滤 Vita 结 束
+口 1 192.168.19.1 SShuser MySecret123@ sshuser@192....

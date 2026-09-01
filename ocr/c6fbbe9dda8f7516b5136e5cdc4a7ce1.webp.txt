@@ -1,0 +1,13 @@
+# OCR: c6fbbe9dda8f7516b5136e5cdc4a7ce1.webp
+# 来源: .\02-WriteUp\2024\c6fbbe9dda8f7516b5136e5cdc4a7ce1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+wax +
+[root@localhost home]# 1s
+arl-install CobaltStrike “CobaltStrtke4.4.ztp dirsearch-@.4.3 sqlmap www xray_Linux_amd64
+[root@localhost home]# cd sqlmap/
+[root@localhost sqlmap]# Ls
+i.txt doc lib plugins  sqlmapapi-py  sqlmap.conf tanper touzttc
+data extra LICENSE README.md sqlmapapi-yaml sqlmap_py thtrdparty
+[root@localhost sqlmap]# []

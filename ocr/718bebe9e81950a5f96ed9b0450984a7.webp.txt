@@ -1,0 +1,22 @@
+# OCR: 718bebe9e81950a5f96ed9b0450984a7.webp
+# 来源: .\02-WriteUp\2025\718bebe9e81950a5f96ed9b0450984a7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+t {
+// REF EBLE
+const fileKey = deriveKey(masterPassword, salt, 32);
+1 DEFRA
+const encryptedKeys = encryptWithKeyJSON.stringify(keys), fileKey);
+fs.writeFileSync(KEY_STORAGE FILE, JSON.stringify(encryptedKeys), utf8)
+console.log(##BAGLRHRS HE);
+return {
+aeskey: Buffer.from(keys.aeskey, ‘hex’),
+inter keysjwtkey
+) 〔akh (ern) (
+consoleerror( 保 孙 宿 铁 刺 文 件 击 「 err.message);
+// THREE RTE
+return {
+aeskey: Buffer.from(keys.aeskey, ‘hex’),
+jwtkey: keysjwtkey
+)

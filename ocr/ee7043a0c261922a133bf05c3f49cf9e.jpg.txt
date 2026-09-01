@@ -1,0 +1,14 @@
+# OCR: ee7043a0c261922a133bf05c3f49cf9e.jpg
+# 来源: .\02-WriteUp\2024\ee7043a0c261922a133bf05c3f49cf9e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+一 enbecpeftioul 0 3800KB InnoDB 25536 SAKES
+member deal 0 2576KB InnoDB 10472 Bue
+Tmember_account 0 2576kB InnoDB E
+Tmember message 6 31328 KB_ InnoDB E
+Smaintain message log D 16 KB_InnoDB 2RMes6
+"member update record 34359 2576 KB InnoDB 34400 SRESHAERIOR
+Tact member ticket log 6 16KB InnoDB 0 EE
+Tact member ticket 0 16KB InnoDB 0 2
+Tmember balance 0 2301952... InnoDB 8862915 SERB

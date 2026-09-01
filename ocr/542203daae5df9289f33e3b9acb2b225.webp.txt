@@ -1,0 +1,7 @@
+# OCR: 542203daae5df9289f33e3b9acb2b225.webp
+# 来源: .\02-WriteUp\2024\542203daae5df9289f33e3b9acb2b225.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+PL) BES 学 探 故 据 | 阮 人 圭 防 火 排 | 阜 坤
+MySQL 2 5:123456

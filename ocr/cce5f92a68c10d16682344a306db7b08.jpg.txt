@@ -1,0 +1,9 @@
+# OCR: cce5f92a68c10d16682344a306db7b08.jpg
+# 来源: .\02-WriteUp\2024\cce5f92a68c10d16682344a306db7b08.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:42
+
+E us co
+eva ne
+心
+X 一 -

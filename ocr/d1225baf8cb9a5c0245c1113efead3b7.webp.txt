@@ -1,0 +1,21 @@
+# OCR: d1225baf8cb9a5c0245c1113efead3b7.webp
+# 来源: .\02-WriteUp\2025\d1225baf8cb9a5c0245c1113efead3b7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+@ I 仪 扬 河 X
+Bir Aa esa EMER DHCP Fash
+VMnetO 。 林伟 式 。 自 语 - - -
+Mned 。 人 Bee BAB — 192.168.2.0
+VMnet8 NAT NAT Bae BEAM 。 192.168.137.0
+FEHOPAEE(E)... ‘#50 (O)
+E
+0 析 椿 吊 绍 林 招 切 部 防 16)
+E E
+OAT #826(5 sete EALAY IP 地 00 NAT i35(5).
+( 〇 RENEE S AAI)
+Go Ma am Se EIA (V)
+EARNER AL: VMware 网 许 薛 VMneti
+GB RFRA DHCP ARIF IP Hist 5) BES ENIAL(D) DHCP 38(P)...
+FIP (I): 192.168. 2 . 0 | — =FRAFB(M): | 255 .255 .255 0
+廷 WR 罚 0  FA(7)... FiO... WE ua E E

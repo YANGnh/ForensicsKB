@@ -1,0 +1,73 @@
+# OCR: e4d4b3544796f127e36b918bbc08c12b.webp
+# 来源: .\02-WriteUp\2025\e4d4b3544796f127e36b918bbc08c12b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+File Options
+Explore Windows Help
+NAVIGATOR
+el\a|o a 不 | 9
+@ Fie Information
+Security Records 百 国 xenet
+日 国 7
+Windows Instz ro
+SAM
+Hardware
+Startup Af
+Services and Drivers
+Network Configuration
+‘Windows Firewall Settings
+Environment
+eB
+ro
+ro
+ol
+ro
+ro
+「 日
+rol
+Shell Folders | 春
+| 明
+| 日
+| 日
+ro
+ro
+eo
+eo
+eo
+田 目 poloes
+目 pozer
+Outlook Express
+巳 Netsarang
+留 园 Common
+田 目 Registeredappiications
+怀 necnane
+Language
+Layout
+LiveUpdate
+Mainwindow
+PageSetup
+Personal
+ProfieDialog
+RecentCodeages
+TermColors
+Theme
+Typedcmds
+TypedCompose
+TypedComposePane
+TypedFinds
+TypedURLs
+windows
+‘Workspace
+XshelCore
+Data
+plulamx6QdiogZg2TPcc83L9Z8u18vHOR +aGucspYeWasxhaQQw/4almTeSrcOXTFXA2W}+hKIDOOTS}VvrJHON4SAKU...
+plulamx6QdiogZg2TPcc83L9Z8u18vHOR+aGucspYeWasxhaQQw4almTeSrcOXTFXA2W}+hKIDOOTS}VvrAJMUaLKU/...
+plulamx6QdiogZg2TPcc83L9Z8u18vHOR+aGuc8pYeWasxhaQQw/4almTeStcOXTFXA2W}+hKIDOOTS}VwrJIMtgHdOUg...
+plulamx6QdiogZg2TPcc83L9Z8u18vHOR +aGucspYeWasxhaQQw/4almTeSrcOXTFXA2W}+hKIDOOTS}VvrTTNM4SM/M.
+Result Panel
+search Log
+0 keys / 4 values
+Windows NT Registry 3805 keys loaded
+Key Pat ROOT\Software\NetSarang\Xshell\7\RecentSessions
+AnetdataWNTUSERDAT

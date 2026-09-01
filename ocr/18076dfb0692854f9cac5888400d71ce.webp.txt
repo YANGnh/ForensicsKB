@@ -1,0 +1,42 @@
+# OCR: 18076dfb0692854f9cac5888400d71ce.webp
+# 来源: .\02-WriteUp\2025\18076dfb0692854f9cac5888400d71ce.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+(gab) call (int *)getAeskey()
+$4 = (int *) 6x76224F894180 <aeskey>
+(gdb) x/32xb 0x76224F894180
+6x76224F894180 caeskey 8>: @x7a
+x67
+6x76224f894188 <aeskey.0+8>:  @x7a
+x67
+0x76224F894190 <aeskey.O+16>:  @x7a
+x67
+0x76224F894198 caeskey 424>:  @x7a
+x67
+(gdb)
+0x68
+0x68
+0x68
+0x68
+0x61
+0x61
+0x61
+0x61
+Oxo
+Oxo
+Oxo
+E
+0x68
+0x68
+0x68
+0x68
+Oxo
+Oxo
+E
+Ox6f
+E
+E
+E
+E
+a

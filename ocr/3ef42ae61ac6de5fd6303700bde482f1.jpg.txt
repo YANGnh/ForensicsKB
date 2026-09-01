@@ -1,0 +1,19 @@
+# OCR: 3ef42ae61ac6de5fd6303700bde482f1.jpg
+# 来源: .\02-WriteUp\2024\3ef42ae61ac6de5fd6303700bde482f1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+BERR:
+RSM:
+ARS
+ANAM:
+RRR:
+检 材 2- 服 务 器
+2024-04-27 19:47:49
+GO avcru | © 10GB
+已 面 4
+VMware ESXi 6.7.0
+=
+2
+检 2 颖 务 嘴
+A 指 2 朋 务 县 E01

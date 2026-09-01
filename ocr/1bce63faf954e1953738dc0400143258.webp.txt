@@ -1,0 +1,22 @@
+# OCR: 1bce63faf954e1953738dc0400143258.webp
+# 来源: .\02-WriteUp\2025\1bce63faf954e1953738dc0400143258.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+打 开 (0) Ctrl+0O
+打 开 最 近 的 文 件 (B) »
+AFM)...
+从 Hex 转 傅 导 入 口 .
+AO Ctrl+W
+RFS) Ctrl+5
+BAA)... Ctrl+Shift+S
+文 件 集 合 0
+eS
+导 出 分 组 解 析 结 果 0
+导 出 分 组 字 节 流 (8). Ctrl+Shift+X
+导 出 PDU 到 文 件 .、
+Strip Headers...
+SHH TLS 会 话 定 钥 .
+导 出 刑 象 0
+打 印 . Ctrl+P.
+退 出 Q) Ctrl+Q

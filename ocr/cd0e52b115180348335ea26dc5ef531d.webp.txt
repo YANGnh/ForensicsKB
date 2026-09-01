@@ -1,0 +1,10 @@
+# OCR: cd0e52b115180348335ea26dc5ef531d.webp
+# 来源: .\02-WriteUp\2025\cd0e52b115180348335ea26dc5ef531d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+Passuord: *
+PIM (Leave empty for default) :
+Author izing...
+Success
+Start 8 122683392 len 74274832384

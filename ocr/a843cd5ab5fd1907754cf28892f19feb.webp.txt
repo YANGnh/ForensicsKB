@@ -1,0 +1,16 @@
+# OCR: a843cd5ab5fd1907754cf28892f19feb.webp
+# 来源: .\02-WriteUp\2025\a843cd5ab5fd1907754cf28892f19feb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:34
+
+| 白 “ 巴 pcao/3gz /uess [ze vesa HIB
+; 团 ] 世 序 吊 , 世 名 疳 + 世 大 小 = ena) 世 惟 改 春 闰 = She
+5 过 源 Y SF “ 起 始 结 束 , 丫 te 结 束 , 丫 过 滢
+口 人 vmware一2__(:'g 14360 . 2025-U5-2U T3527 2U2Z5-U5-2U 3 HCEUi/ 刁 区 /NCSa/Wmwate-4log
+7 21 vmware-1og 179.49 ... 2025-05-20 15:57:56 2025-05-20 16:10:52 PCE01/ 分 区 7NcsaNmware-1og
+5 22 vmware-0.log 1.45 MB 2025-05-20 16:12:36 2025-05-20 16:12:37 PCE01/ 分 区 7NcsaNmware-0Jog
+喹蔓 23 vesa.vmxf 259B 2025-05-20 15:51:27 2025-04-30 21:15:58 PCE01/ 分 区 7Ncsavcsavmot
+5.66 KB 2025-05-20 16:21:31 2025-05-20 16:21:31 PCE01/ 分 区 7Ncsavcsavmwx
+25 vcsavmsd 68B 2025-05-20 15:51:27 2025-05-20 15:08:52 PCE01/ 分 区 7Ncsavcsavmsd
+1 26 vesa.scoreboard 7.46 KB 2025-05-20 16:13:12 2025-05-20 16:21:30 PCE01/ 分 区 Ncsavcsascoreboard
+27 vesa-disk17.vmdk 29.75... 2025-05-20 15:47:22 2025-05-20 16:13:41 PCE01/ 分 区 Ncsavcsa-disk17vmdk

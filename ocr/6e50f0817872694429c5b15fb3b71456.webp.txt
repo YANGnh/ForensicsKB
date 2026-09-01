@@ -1,0 +1,22 @@
+# OCR: 6e50f0817872694429c5b15fb3b71456.webp
+# 来源: .\02-WriteUp\2025\6e50f0817872694429c5b15fb3b71456.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+© importantpy *
+D:/@ importantpy 0 base64
+57 def analyzeHawk2(hawk2_path: str, key_text: str):
+38 2
+39 @hawk2_path: Hawk2. xmL3 PE AVF AER E
+40 Gkey_text: ZissibasesaleBTHR, ittEcrypto. KEY ane xm LTH
+41 are
+42 try:
+43 hawk2 = HawkTool(key_text)
+44 print (‘iE #28 Hawk2. xml. ..')
+45 result = hawk2.parseHawk2(hawk2_path)
+46 string_json = str(result).replace('"', '').replace("'", '"')
+47 print (string_json)
+48 except:
+的 print (‘Havk2iAM, ARESAOLAR EEE EW!)
+团 砺 公 众 咱 . 小 谢 取 证
+5 analyzeHawk2(r"D: \com.android.mxt\shared_prefs\Hawk2.xml", "VFgb2FX+xdFQBTxFBFBFdGFWTOmfOVLLQa+70Fx62+4=") 。 诊 示 刹

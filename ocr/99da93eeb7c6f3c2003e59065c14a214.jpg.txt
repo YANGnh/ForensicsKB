@@ -1,0 +1,10 @@
+# OCR: 99da93eeb7c6f3c2003e59065c14a214.jpg
+# 来源: .\02-WriteUp\2024\99da93eeb7c6f3c2003e59065c14a214.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+# start the team server.
+java -XX-ParallelGCThreads=4 -Dcobaltstrike.server_port: Deobaltstrike.server_bindto-8..0.6 -Djavax.net_ssl_keyStore=. /cobal
+tstrike.store -Djavax.net_ssl_keyStorePassword-Microsoft -server -XX-+AggressiveHeap -XX:+UseParallelGC -classpath -/cobattstrtke ]
+ar ~Javaagent -CSAgent . jar=5e98194a01c6b48F a582a6a9Fcbb92d6 -Duser. language=en server TeanServer $*
+[root@localhost CobaltStrike]# |

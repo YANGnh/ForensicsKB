@@ -1,0 +1,41 @@
+# OCR: bcefbde385106744e57b37739bce75ee.webp
+# 来源: .\02-WriteUp\2026\bcefbde385106744e57b37739bce75ee.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+e 2025.04.08 22-16-36+0800 iPhone-05 iPhone 21F90 > logs MobileLockdown 〇 口 在 MobileLockdown +48
+名 称 修 改 日 朝 ae 大 小
+〗 lockdownd.log 2025/4/8 22:17 文 本 文 桓 218 KB
+门 lockdowndlog. 2025/4/4 18:28 1 文 件 513 KB
+尘  tockdownd.log x + -
+文 件 “ 编 辑 查 看
+04/08/25 22:16:12.117508 pid=80 spawn xpc service: service com.apple.mobile.installation proxy started
+04/08/25 22:16:12.118140 pid=80 spawn xpc service block invoke: Received checkin acknowledgement from
+‘com.apple.mobile.installation proxy’
+04/08/25 22:16:12.118199 pid=80 spawn xpc service block invoke: X
+com.apple.mobile.installation proxy
+04/08/25 22:16:12.123587 pid=80 handle start service with socket: unknown attempting to spawn
+com.apple.mobile.installation proxy service.
+PC ERROR CONNECTION INVALID
+04/08/25 22:16:12.125940
+04/08/25 22:16:12.126518
+pid=80 spawn xpc service:
+pid=80 spawn xpc service
+‘com.apple.mobile.installation proxy’
+service com.apple.mobile.installation proxy started
+block invoke: Received checkin acknowledgement from
+04/08/25 22:16:12.126592 pid=80 spawn xpc service block invoke: XPC ERROR CONNECTION INVALID
+com.apple.mobile.installation proxy
+04/08/25 22:16:20.280544 pid=80 main block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+04/08/25 22:16:20.617772 pid=80 main block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+04/08/25 22:16:29.961153 pid=80 main block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+04/08/25 22:16:30.241813 block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+04/08/25 22:16:33.963940 pid=80 main block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+04/08/25 22:16:34.301907 block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+04/08/25 22:16:40.859138 block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+04/08/25 22:16:41.171246 pid=80 main block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+0 04/08/25 22:16:44.860928 block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+腐 抒 IP 地 刑 _04/08/25 22:16:45.187132 block invoke 2: com.apple.iokit.matching event: com.applelockdownUSBHost
+8 诙 区 块 链 别 04/08/25 22:17:14.960254 pid=80 main block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost
+月 59 副 04/08/25 22:17:15.252013 block invoke 2: com.apple.iokit.matching event: com.applelockdownUSBHost
+=" 04/08/25 22:17:20.113948 pid=80 main block invoke 2: com.apple.iokit.matching event: com.apple.lockdown.USBHost

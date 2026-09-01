@@ -1,0 +1,19 @@
+# OCR: 46cedc06fc3fe69ee3c7dd81a8e002ef.webp
+# 来源: .\02-WriteUp\2025\46cedc06fc3fe69ee3c7dd81a8e002ef.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:26
+
+“accountName“ “ 无 “
+“amount”: 2400,
+“category”: {
+“code”: "Custom2146848",
+“custom”: true,
+“icon”: "/DIY/icon sortc1.png",
+“title”: “ 接 单 “
+]
+“click”: false,
+“content”: “ 尿 款 “
+“creator”: {
+“avatar”: "https://storage.bestrie.com/avatar/anonymous.png",
+14951227,
+*: "authorized",

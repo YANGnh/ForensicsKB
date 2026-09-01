@@ -1,0 +1,45 @@
+# OCR: 6fd81dae8b5690359384424dad510251.webp
+# 来源: .\02-WriteUp\2025\6fd81dae8b5690359384424dad510251.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+2440
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+root@OpenWrt:~# 15
+chinadns-ng_2025 .@3 .27-r1_aarch64_generic.i
+dn28ock§_2.1-r2_aarch64_generic. ipk
+geoview_@.1.9-r1_aarch64_generic. ipk
+hySteria_2.6.1-r1_aarch64_generic. ipk
+ipt2SockS_1.1.4-r3_aarch64_generic.ipk
+microSocks_1.@.5-r1_aarch64_generic.ipk
+naiveproxy-135.8.7849.38-r1_aarch64_generic .ipk
+pa8§wall_package§_ipk_aarch64_cortex-a72.zip
+paSswall_packages_ipk_aarch64_generic.zip
+‘ShadowSock8-rust-Sslocal_1.23.2-r1_aarch64_generic.ipk
+shadowsocks-rust-ssserver_1.23.2-r1_aarch64_generic.ipk
+shadowSockSr-libev-ssr-local_2.5.6-r11_aarch64_generic.ipk
+shadowsocksr-libev-ssr-redir_2.5.6-r11_aarch64_generic. ipk
+shadowsocksr-libev-ssr-Server_2.5.6-r11_aarch64_generic.ipk
+simple-obfs_@.@.5-r1_aarch64_generic.ipk
+sing-box_1.11.9-r1_aarch64_generic. ipk
+teping_@.3-r1_aarch64_generic. ipk
+trojan-plu_18.8.3-r2_aarch64_generi
+tuic-client_1.8.8-r1_aarch64_generic.i
+v2ray-geoip-282584856136.1_all.ipk
+v2ray-geosite_20250430053132.1_all.ipk
+v2ray-plugin_5.25.@-r1_aarch64_generic.ipk
+xray-core_25.4.3@-r1_aarch64_generic.ipk
+xray-plugin_1.8.24-r1_aarch64_generic.ipk

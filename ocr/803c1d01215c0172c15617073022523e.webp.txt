@@ -1,0 +1,17 @@
+# OCR: 803c1d01215c0172c15617073022523e.webp
+# 来源: .\02-WriteUp\2025\803c1d01215c0172c15617073022523e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+符 confgphp X
+笃 confgphp
+1 k?php
+2
+3 $dbconfig=array(
+4 “host「 “kSs-nodel 「。 // 数 据 库 服 务 霸
+5 ‘port’ => 3306, // S/F iil
+6 ‘user’ => “G3XIMj「。 // 数 据 库 用 户 名
+7 "pwd' => 'YhxwznesRscGAXnH', //2(1 PS
+8 ‘dbname’ ‘g3xiwj', // 数 据 库 名
+9 “dbqz“ => anh,// 数 揪 表 前 绵
+11

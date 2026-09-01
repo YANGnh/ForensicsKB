@@ -1,0 +1,41 @@
+# OCR: 965ceffccdd645cb0cb0cf0551be42c5.jpg
+# 来源: .\02-WriteUp\2024\965ceffccdd645cb0cb0cf0551be42c5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:36
+
+1 jinyiweb.web.jar  800T-INF/ classes/application-prod.yal
+SB -
+bs aj.org.objectueb.asm Tee]
+[a ch. gos. logback n
+bance : sql ://192,268,200,212:13206/ nyt inyint rise itefolsedalowultiQueriesetrvetserverinezoneessie/Shanghat
+1 e root
+e © password: honglian7e01
+1 defpackage 7
+be eu. bitwalker.useragentutils © redis:
+ily 3 hosts 392.268.200.312
+。 port: 16379
+tm javassist ‘timeout: 50@0
+‘be javax
+me admin
+ca net E
+borg
+ba oshi
+ba reactor
+E
+a springfox
+.che_xmlbeans system
+a RE
+me BOOT-INF
+pe cae |26 position:
+im com 7 be
+E FA
+mapper Fi
+mu mybatis 5: warehouse codes 2022
+& application-dev.yml 22 owner code: yunmao
+“ application-prod.yal 93 eustomer Ad Czozzeessasisas
+server_url:
+‘app_Key: 33440833,
+app_secret: S6C15S623061E30F0FSA9S0897¢C380C
+application-test.yal
+i application. yal
+i banner. txt

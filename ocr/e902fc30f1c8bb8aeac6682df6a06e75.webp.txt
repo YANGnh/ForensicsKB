@@ -1,0 +1,13 @@
+# OCR: e902fc30f1c8bb8aeac6682df6a06e75.webp
+# 来源: .\02-WriteUp\2024\e902fc30f1c8bb8aeac6682df6a06e75.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+© Storage properties | © RAID [meiya_test:2) x | >
+8 689 日 G @ 出 白 @@ @
+Storage name Storage ID Start sector] - Virtual RAID configuration
+(© Drive?: Fixed StorLib ATA Virtual Storage [n/a] 67618 RAIDlevel [RAID 0 - ghipe set without redundar ¥
+648 *
+偶庸慵鲁槽_s颤矗…髓_擅_ va] 6F1E swipe size
+RAID alias meiya_test:2
+| asymctrenous 10 No *

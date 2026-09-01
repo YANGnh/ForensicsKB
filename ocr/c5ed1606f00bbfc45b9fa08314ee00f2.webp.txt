@@ -1,0 +1,75 @@
+# OCR: c5ed1606f00bbfc45b9fa08314ee00f2.webp
+# 来源: .\02-WriteUp\2026\c5ed1606f00bbfc45b9fa08314ee00f2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+引 * sysdiagnose 2025.04.08 22-16-36+0800 iPhone-05 iPhone_21F90|> logs MobileInstallation v G 石 “ 在 Mobileinstallation 中 搜 索
+名 称
+| mobile installation.log.0
+mobile_installation.log.1
+门 mobile installation helperlo
+mobile installation helperlo
+zip
+| 242 KB
+Ma RUA TY remeedl
+脑 , 其 电 脑 中 的 一 个 压 缩 文 件 也 记 录 了 相 同 的 8TC 交
+修 改 日 朝
+2025/4/8 22:12
+尘 。mobile installationlog.0
+文 件
+编 辑 AB
+淅
+el 大 小
+0 文 件 243 KB
+x +
+<MlLaunchServicesLnrenicsterOneratinn 1CR69AS1-F4AF-4502-A092-AAG179F05A17.13
+COm.a
+Thu A
+swallpaper.n
+pr 3 15:07:5)
+币 界 网 .app x 里 “ 个 SS X
+onQueue removePendingLaunchServicesOperationrForUUID:due I oLSSave:|: Removing operation after LS save:
+<MlLaunchServicesUnregisterOperation: 5900F855-26D4-4852-9C19-B8886B3007BB:14
+com.a
+Tue A
+Tue A
+equal
+Tue A
+registration: 501
+Tue A
+skippi
+Tue A
+instal
+Tue A
+pr 8 21:49:26 2025 [715
+pr 8 21:49:26 2025 [715
+to last version recorded
+pr 8 21:49:26 2025 [715
+pr 8 21:49:26 2025 [715
+ng reconcile
+pr 8 21:49:27 2025 [715
+pr 8 21:49:27 2025 [715
+dolnstallationForURL:identity:
+“private/var/containers/Share
+nation/PromiseStaging/78BOEE28-4CE7-425C-87BA-176B518353FD/ 币 舜 网 哈 P“ type Placeholder (LSInstallType
+= 1, Domain: MIInstallatio
+Tue A
+pr 8 21:49:27 2025 [715
+isiaisiring/MIlnstallationDomainSystemShared>
+<notice> (Ox1 付 973ec0) main: Reboot detected
+<notice> (Ox1 付 973ec0) MIlsBuildUpgrade: Current build version (21F90 / (null)
+(21F90 / (null); skipping upgrade
+<notice> (0x1f4973ec0) MIFetchUIDForRegistration block invoke: UID for
+<notice> (0x1f4973ec0) -[MlJournal reconcile]: Install journal is not enabled;
+<notice> (0x16f84b000) -[MIClientConnection
+IURL:identity:targetingDomain:options:completion:]: Running installation as QOS CLASS USER INITIATED
+<notice> (0x16f84b000) -[MIClientConnection
+domain:options:completion:]: Install of
+d/SystemGroup/systemgroup.com.apple.installcoordinationd/Library/InstallCoordi
+nDomainDefault) requested by installcoordinationd (pid 235 (501/501))
+<err> (0x16f84b000) CreateCFBundle: Failed to get Info.plist URL from
+CFBundle 0xd261dc540 </Applications/DisplayCal.app> (not loaded); falling back to assumed path
+pr 8 21:49:27 2025 [715
+ar ne ee na ee
+<err> (0x16f84b000) CreateCFBundle: 310: Info. plist missing at
+rae y eee

@@ -1,0 +1,6 @@
+# OCR: 1bb702b8e23086963b4565d83c9b5daf.webp
+# 来源: .\02-WriteUp\2025\1bb702b8e23086963b4565d83c9b5daf.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:23
+
+1 SELECT bankcard FROM “userinfo” WHERE name = “ 包 玉 建

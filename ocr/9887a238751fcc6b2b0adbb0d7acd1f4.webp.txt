@@ -1,0 +1,19 @@
+# OCR: 9887a238751fcc6b2b0adbb0d7acd1f4.webp
+# 来源: .\02-WriteUp\2025\9887a238751fcc6b2b0adbb0d7acd1f4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+详 细 信 息 & 团 x
+名 称 ; 1c63e3e1c766ddc3a935e95e7b893934a42e605ddcc79057b6a807051d5616f2.0 原 类 型 视 图 文 本 视 图 十 六 进 制 视 图
+扩 展 名 : 0
+类 型 : 文 件
+大 小 ; 29.72 KB
+创 建 时 间 : 2025-09-25 11:14:54
+访 问 时 间 : 2025-09-25 11:14:54
+修 改 时 间 : 2025-09-17 22:22:42
+元 数 据 地 址 : 0
+全 路 径 :
+data/data/com.kongyubao.mifa/cache/image_manager_ disk_ cache/1c63e3e1c766ddc3a935e9
+5e7b893934a42e605ddcc79057b6a807051d5616 仁 .0
+meee: 未 加 密
+已 脑 除 : 否

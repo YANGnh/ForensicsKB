@@ -1,0 +1,12 @@
+# OCR: 7448ca35fe49f3c28bb35b02fb364902.webp
+# 来源: .\02-WriteUp\2024\7448ca35fe49f3c28bb35b02fb364902.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+en
+cactivity
+android:name="com.changbo. pro.ui. home. HEEEEST
+android: 1aunchMiode="singleTop”
+android: screenOrientation="portrait™
+android: configChanges="screenSize|orientation| navigation |keyboardHidden | keyboard”,
+cactivity

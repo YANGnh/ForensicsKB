@@ -1,0 +1,19 @@
+# OCR: 3eef533fdb54f70888f8e3dca5bb3da4.jpg
+# 来源: .\02-WriteUp\2024\3eef533fdb54f70888f8e3dca5bb3da4.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+Site modification [website.com] -- Time added [2024-05-20 06:12:51]
+Domain Manager
+‘A domain per line, the default port is 80
+Subdirectory binding Wildcard domain format: *.domain.com | aaa |
+To add another port, the format is www.domain.com:88
+Site directory
+4
+Domain name Port opr
+Traffic control
+192.168.11.188 7788 Del
+URL rewrite
+website.com 80 Del
+Default indexes
+Please choose delete

@@ -1,0 +1,8 @@
+# OCR: 22c6aaf24ed9c0018ad62f397e25b95e.jpg
+# 来源: .\02-WriteUp\2024\22c6aaf24ed9c0018ad62f397e25b95e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+Centos, ? (Core)
+Kernel[ 3.18.6}514.e1?.x86_64 on an x86_64
+localhost login:

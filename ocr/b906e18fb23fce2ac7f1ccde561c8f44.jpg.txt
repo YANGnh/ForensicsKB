@@ -1,0 +1,18 @@
+# OCR: b906e18fb23fce2ac7f1ccde561c8f44.jpg
+# 来源: .\02-WriteUp\2024\b906e18fb23fce2ac7f1ccde561c8f44.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+s (MongoDB)
+Sl SR 。 RR ssl
+Navicat
+口 R ssH E
+E
+E
+ARE:
+P
+SSH
+ae
+'192.168.8.16
+22
+root

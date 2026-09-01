@@ -1,0 +1,84 @@
+# OCR: 28c31d4af6a905f3eaa86dc58f8ee589.webp
+# 来源: .\02-WriteUp\2025\28c31d4af6a905f3eaa86dc58f8ee589.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+史 e
+> api
+> common
+> deme
+> extra
+\ home command
+c
+cceetrcoee
+| AutoEmptyGoodstrash php
+e
+| Migrate20180810 php
+( UnireezeMoney php
+> index
+© manage
+controller
+te
+史 cn
+e
+a
+c
+史 a
+E
+| channelaccount php
+颂
+a1
+82
+83
+86
+8s
+86
+a
+89
+团
+a
+2
+3
+马
+95
+96
+98
+99
+108
+ae
+302
+303
+远
+aes
+196
+1
+)
+cenpty(Suser[status']) && $this-rerror( HEE, 1
+/ 8264
+$data = [‘login at" => ['exp', ‘now()"], “login_nun’ => [‘exp', ‘login numa "]]5
+Db: :name(‘SystenUser’)-ruhere([‘id" => Suser( i
+session(‘user’, $user);
+BERR E
+*]])->update(Sdata);
+‘Ada Chat. Quek Eat
+++1session( ‘user expire tine’ -time()-+:86400:*-7);
+empty (Suser[authorize’]) 8& NodeService: :applyauthvode()
+Logservice::write( "RES", R
+AF (Isession( google_auth") && sysconf(*is_google_auth')) (
+AF (I(Sthis-rrequest-rcontroller() == "Auth’ && $this-rrequest-raction() == “google")
+‘Ah 1 (Sthis-rrequest-rcontroller()
+AK | (Sthis-rrequest-rcontroller()
+14
+‘Login’ && $this-request-»action() == ‘out’)
+Login’ && $this->request-»action() == ‘verifycode")
+in HH 5 “admin/auth/google’);
+1
+1 else {
+Sthis-rsuccess(“HR, PERAK...
+)
+)
+厂
+阮
+”
+public function out()
+n

@@ -1,0 +1,67 @@
+# OCR: ea77485498a1af5e2cd942555f694fae.webp
+# 来源: .\02-WriteUp\2024\ea77485498a1af5e2cd942555f694fae.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+XML View List View
+Key Type
+Root array
+6 dict
+joo WFWorkflowActionidenti string
+©: WFWorkflowActionParan dict
+1 dict
+‘WFWorkflowActionldenti string
+“@- WFWorkflowActionParan dict
+6 dict
+joo WFWorkflowActionidenti string
+E:WFWorkflowActionParan dict
+/-@-WFinput dict
+WVariableName string
+1 dict
+‘WFWorkflowActionldenti string
+“@- WFWorkflowActionParan dict
+6 dict
+joo WFWorkflowActionidenti string
+©: WFWorkflowActionParan dict
+1 dict
+‘WFWorkflowActionldenti string
+“G- WFWorkflowActionParan dict
+©: WFinput dict
+WFVariableName string
+6 dict
+joo WFWorkflowActionidenti string
+-WFWorkflowActionParan dict
+oon WESSHScript string
+-WFSSHPassword ict.
+ssthea dict
+uup string
+oo WESSHPoort string
+WFSSHUser string
+a dict
+WFWorkflowActionldenti string
+“@- WFWorkflowActionParan dict
+-WFinput dict
+Vate dict
+OutputUUID string
+po Type string
+OutputName string
+WFSerializationTypestring
+Value
+isworklowactions.gettext
+is.workflow.actions.base64encode
+isworkflowactions.setvariable
+host
+isworkflowactions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable
+pwd
+isworkflowactions.runsshscript
+53
+0BA1F553-2085-4E4C-AECC-AADA6DO942CA,
+22852
+root
+isworkflow.actions.documentpicker.save
+‘0BA1F553-2085-4E4C-AECC-AADA6DO942CA,
+ActionOutput
+Shella
+WFTextTokenattachment

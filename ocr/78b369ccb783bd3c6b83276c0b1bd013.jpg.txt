@@ -1,0 +1,8 @@
+# OCR: 78b369ccb783bd3c6b83276c0b1bd013.jpg
+# 来源: .\02-WriteUp\2024\78b369ccb783bd3c6b83276c0b1bd013.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:33
+
+hostlocaldomain - VMware x
+222222
+OpenWrt

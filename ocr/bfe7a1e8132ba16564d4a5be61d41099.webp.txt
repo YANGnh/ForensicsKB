@@ -1,0 +1,44 @@
+# OCR: bfe7a1e8132ba16564d4a5be61d41099.webp
+# 来源: .\02-WriteUp\2025\bfe7a1e8132ba16564d4a5be61d41099.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+© player_attribute @main (media 20240601) - #8 - Navicat Premium - a x
+R+ 8 SE = wee IR so #8
+娆 Tb SB 咤 Az 5 “ 二 了 目 岑 吴 1
+g 。 HE 要 E | 月 P E =o EE 。 E
+b el 2 TPaction log @main (media.20240601)... TT player attribute @main (media.2024. @ 日
+ve B aciontag ae 团 X# - 吊 月 抵 F Ha Gs, © Sit 图 RRt oh me 8 ayer. attribute
+= i playerid name value =|
+| — » 7 44dda87b-6868-4b80-91 ip 192.168.2015
+ad player ref d8dda5c7-a34d-4396-br 44dda87b-6868-4b80-91 version 20241030.0800--UTC+08:00 0 meci.20040601
+d aleb52a8-9ef9-4412-85. 44dda87b-6868-4b80-91 os, windows & main
+cut task 077834aa-7d76-410d-b( 44dda87b-6868-4b80-91 osversion Microsoft Windows NT 6.2.9200.0
+group 983470db-1e0f-48f6-aat_44dda87b-6868-4b80-91 mac ssourauasefc E
+group player ref eTeed8c9-fabc-4c15-99( 44dda87b-6868-4b80-91 machinecode 60nzWADeAliafizpu main
+group_user_ref bOdd6e75-bb98-4e62-b 44dda87b-6868-4b80-91 storage [total:476.25 GBI/lavailable:391.91 GB]
+led (85423809-fa59-4604-89. 44dda87b-6868-4b80-91 registered true 目
+n 1f88de2d-7a27-4ce7-a4 44ddaB7b-6868-4b80-91 registercode chsQmlnaWipsdbHfmbtiaUiSdnilosQslbUialodegzsnotZizzanitoyrgdiahec
+play_preset list az!
+play_preset list content 昼
+play preset send history
+player 2
+player_update task 5
+program 39
+program content
+program send
+reserve schedule
+reserve schedule item
+role
+role_permission
+roleuser_ref
+scheduling
+scheduling content
+screen_group
+screen_group task
+screen_group task item
+user_attr
+user_defined
+5 so c w < 1 + 6 | 国 团
+| SELECT *,rowid "NAVICAT. ROWID" FROM “main’."player_attribute" LIMIT 0,1000 1 SGR G98) 于 振 1 页 og
+程 居 尿 尿 居 屋 居居 居居 居 屋 居居 居居 居居 屉 尿 春 居居 居 屉 居居 尿尿 尿尿 尿尿 尿

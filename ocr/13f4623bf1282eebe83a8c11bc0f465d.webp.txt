@@ -1,0 +1,27 @@
+# OCR: 13f4623bf1282eebe83a8c11bc0f465d.webp
+# 来源: .\02-WriteUp\2026\13f4623bf1282eebe83a8c11bc0f465d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:41
+
+| * 刘 福 荣 macOS 14-cl1.vmdk (34961) * 操 作 系 统 (1497) * Apple macOS (1484) * 已 安 装 软 件 列 表 ( *
+口 序 号 名 称
+点 此 过 滤
+口 1 Skypeapp
+口 2 Quarkapp
+口 3
+口 4
+ToDeskapp
+SunloginClientapp
+安 装 路 佐 版 本
+点 正 池 滤
+/Users/dafu/Application... 1.0
+/Applications/Quarkapp “2.5.0298
+/ApplicationsyToDeskapp 4.7.6.4
+/Applications/SunloginC.,15.6.2.13600
+Created by OrayUI
+安 装 时 间
+点 此 过 滤
+2025/04/02 1
+2025/04/02 1
+2025/03/13 1
+2024/07/26 1

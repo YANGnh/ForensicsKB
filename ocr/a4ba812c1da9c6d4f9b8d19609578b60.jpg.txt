@@ -1,0 +1,6 @@
+# OCR: a4ba812c1da9c6d4f9b8d19609578b60.jpg
+# 来源: .\02-WriteUp\2024\a4ba812c1da9c6d4f9b8d19609578b60.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 16:11
+
+# 结果: 无可用文本（tesseract 未识别到文字）

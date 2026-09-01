@@ -1,0 +1,9 @@
+# OCR: ad8c55c4daa55037ea7af12720ceeb01.webp
+# 来源: .\02-WriteUp\2024\ad8c55c4daa55037ea7af12720ceeb01.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+endpoint: oss-cn-hangzhou.aliyunes.com
+accesskeyId: LTAIStBt7rHrekjDEuZJybzD
+accesskeySecret: WaNGaqgazB7pkg191TEaBARODWac16
+bucketName: sxj-cal

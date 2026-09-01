@@ -1,0 +1,12 @@
+# OCR: 7873d88c9661c484db79487269473f7c.webp
+# 来源: .\02-WriteUp\2024\7873d88c9661c484db79487269473f7c.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:15
+
+E
+cnuulasmuaaruts
+ra |
+offset 0123 4 5 67 8
+90000000 Bo 50 4E 47 0D OA 1A OA 00 0
+90000010 00 00 09 BO 00 00 OD B4 08 0
+INNNNNZD On 00 01 00 00 49 44 41 54 7

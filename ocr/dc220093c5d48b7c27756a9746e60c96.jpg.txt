@@ -1,0 +1,22 @@
+# OCR: dc220093c5d48b7c27756a9746e60c96.jpg
+# 来源: .\02-WriteUp\2024\dc220093c5d48b7c27756a9746e60c96.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:43
+
+ndows [ 版 本 10.0.19045 4291]
+(c) Microsoft Corporation. 保 留 所 有 权 利 。
+D: \Rope~Opa|-03a>Rope. exe.
+狄 件 墓 合 万 易 , 欢 迥 兴 注 微 信 公 众 号 【 抹 袋 触 Al】 , RAM REHER PBA, Pac Sa ae
+gpu 不 可 用 , 仅 俭 用 cpu
+Traceback (most recent cal! last)
+File "Rope. py", line 8, in <module>
+File “Coordinator. py", line 159, in run
+File “Models. py line 40.
+File “torch\cuda\, A
+torch. _6._euda_init0
+ntineErrar: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver fro
+m http://www. nvidia. com/Down|oad/ index. aspx
+[2908] Failed to execute script ‘Rope’ due to unhandled exception!
+nit_
+Tine 247, in _lazy_init
+D: \Rope-Opa|-03a>

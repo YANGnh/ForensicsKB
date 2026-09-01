@@ -1,0 +1,36 @@
+# OCR: d35ad22330c430e517661960b7780959.webp
+# 来源: .\02-WriteUp\2025\d35ad22330c430e517661960b7780959.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+Genre
+接 作 系 统 类 型
+VERSA
+接 作 系 统 名 称
+系 统
+系 组 版 本 号 ( 当 )
+主 页
+版 本 代 砂
+内 林本
+与 葛 文 君 称
+过 滕
+hostname
+OS_TYPE
+OS_NAME
+MATERIALS_NAME
+PRETTY_NAME
+VERSION_ID
+HOME_URL
+VERSION.CODENAME
+Kernel
+=@
+er]
+admin-L
+openkylin
+2.0 SP1 (nile)
+openkylin
+openkylin 2.0 SP1
+20
+https://www.openkylin.top/
+nile
+6.6.0-15-generic

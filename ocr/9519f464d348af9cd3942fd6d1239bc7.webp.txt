@@ -1,0 +1,10 @@
+# OCR: 9519f464d348af9cd3942fd6d1239bc7.webp
+# 来源: .\02-WriteUp\2024\9519f464d348af9cd3942fd6d1239bc7.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+[rootgbplgnapofohvenbugndiz data}# cat /etcyhosts
+86 localhost locathost.localdonain Localhost4 Locathost4.1o
+localhost locathost.localdomain localhost6 localhosts. local
+192.168.71.146 (Zbpigna2uf9hvsnbu9ndkZ iZbpigna2uf9hvsnbudndkZ
+192. 168.71.155 rn-bp18td28bsh13f5jymysql_rds_aliyuncs.com

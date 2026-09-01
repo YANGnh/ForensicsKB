@@ -1,0 +1,6 @@
+# OCR: 28647d736601953b21bfffe3c6d57143.jpg
+# 来源: .\02-WriteUp\2024\28647d736601953b21bfffe3c6d57143.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+VmwWare“ESXi

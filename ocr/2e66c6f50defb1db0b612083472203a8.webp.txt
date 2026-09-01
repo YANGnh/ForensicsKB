@@ -1,0 +1,26 @@
+# OCR: 2e66c6f50defb1db0b612083472203a8.webp
+# 来源: .\02-WriteUp\2025\2e66c6f50defb1db0b612083472203a8.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+Skip to main content
+tration
+Django admi
+Welcome, root. View site / Change password /
+Log out
+Toggle theme (current theme: auto)
+Toggle theme (current theme: light)
+Toggle theme (current theme: dark)
+a a
+Site administration
+Authentication and
+Authorization
+Groups Add Change
+Users Add Change
+User_Info
+Add Change
+SMEs Add Change
+Recent actions
+My actions
+None available
+>

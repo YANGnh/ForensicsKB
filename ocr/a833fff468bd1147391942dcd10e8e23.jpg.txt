@@ -1,0 +1,25 @@
+# OCR: a833fff468bd1147391942dcd10e8e23.jpg
+# 来源: .\02-WriteUp\2024\a833fff468bd1147391942dcd10e8e23.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+Rank aha ayy empty (Sar Sager OY Tone Ga ala ces cent ta
+override // android. view. View. OnClickListener
+public void on¢lick(View view) (
+Stringluilder sb ~ new Stringbutlder()s
+E
+心 0
+林 enensen + str2 + ste3 + sted + str5).toLowercese()):
+E
+String result = sb-tostring()s
+Mainactivity mainActivity = MainActivity.this;
+smainactivity-key = aaindctivity.keyText.getText().tostring();
+Sf (lainactivity.this.kay.length() != 40)
+Toast makeText(tainactivity.this, ag
+AF ((ceault.substring(®, 11) + °° + result.substring(21, 15) + °-" + result substring(i5, 19) + °" + result.substring( 49, 28) 4 “—*  result.substring(23, 36)) -equals(Hiainsctivity.this.key)) {
+Toast makeText(Saindctivity.this, “ERIE! ", 1).show():
+) else (
+E
+)
+1
+D

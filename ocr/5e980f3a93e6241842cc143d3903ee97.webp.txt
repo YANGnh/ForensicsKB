@@ -1,0 +1,14 @@
+# OCR: 5e980f3a93e6241842cc143d3903ee97.webp
+# 来源: .\02-WriteUp\2025\5e980f3a93e6241842cc143d3903ee97.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+2025-05-12 19:34:34
+自 助 下 单 机 器 人 (laoli2Bot)(2025-05-12 19:34:34)
+欢 迎 使 用 自 主 下 单 机 器 人
+支 持 支 付 宝 支 付 。USDT 支 付
+a
+仪
+USDT 钱 包 地 址 ; TPNYhBjSLTLgtxwXYbdzkWQUaqg4z3i8
+点 击 查 看 商 品 列 表 : /products
+2025-05-12 19:34:34

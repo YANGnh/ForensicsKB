@@ -1,0 +1,18 @@
+# OCR: 7716b3e7a0346b0e4fa73882e90907f4.webp
+# 来源: .\02-WriteUp\2025\7716b3e7a0346b0e4fa73882e90907f4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:30
+
+root@lower:/boot/Logs# docker images
+REPOSITORY TAG IMAGE ID CREATED SIZE
+wor-web latest 9102471076 4 weeks ago 1.33@8
+web-web latest  €a406274d67f 4 weeks ago 工 67GB
+ghcr.to/ggerganov/llama.cpp server  3d8beaSd76aa_ 4 weeks ago 5558B
+php latest laa2981245b4 “5 weeks ago _548MB
+nginx latest 4cad7Sabc83d_ 3 months ago 1924B
+rysql 57 5107333e08a8 17 months ago 5@1MB
+btgrandave/doge-node latest 1932ecc8656 “2 years ago 1581B
+skanehira/docker.vin latest  aSa6e859276f 3 years ago —-1184B
+php 5.6 36c3c974e6ee 6 years ago 。 344MB
+0 20
+ii, SE

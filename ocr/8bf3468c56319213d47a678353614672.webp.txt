@@ -1,0 +1,18 @@
+# OCR: 8bf3468c56319213d47a678353614672.webp
+# 来源: .\02-WriteUp\2024\8bf3468c56319213d47a678353614672.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:16
+
+public static void sendReq() {
+try {
+if (f27b != null) {
+return;
+}
+b.a.b.e b2 = e.a() .b() ;
+f27b = b2;
+b2.e("ping", new b());
+#27b.e("order", new c());
+f27b .w() ;
+} catch (Exception e) 《
+Log.e("error", e.getMessage());
+]

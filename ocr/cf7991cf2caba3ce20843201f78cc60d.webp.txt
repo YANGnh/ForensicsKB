@@ -1,0 +1,15 @@
+# OCR: cf7991cf2caba3ce20843201f78cc60d.webp
+# 来源: .\02-WriteUp\2025\cf7991cf2caba3ce20843201f78cc60d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+E
+/ 河
+“bpe E
+/ t
+*hostname" => ‘localhost",
+1 SEES
+"database" => ‘tpshop2.0",
+1 APS
+=> ‘root's
+=> "12345678910",

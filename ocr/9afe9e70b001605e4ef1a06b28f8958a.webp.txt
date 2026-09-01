@@ -1,0 +1,24 @@
+# OCR: 9afe9e70b001605e4ef1a06b28f8958a.webp
+# 来源: .\02-WriteUp\2024\9afe9e70b001605e4ef1a06b28f8958a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+System Linux ubuntu 6.8.0-39-generic 39-Ubuntu SMP PREEMPT_DYNAMIC Fri Jul 5 21:49:14 UTC 2024 x86_64
+Build Date May 13 2024 01:20:40
+Build System Linux baota 6.8.0-31-generic #31-Ubuntu SMP PREEMPT_DYNAMIC Sat Apr 20 00:40:06 UTC 2024 x86_64
+x86_64 x86_64 GNU/Linux
+Configure Command
+wnwwservephp/32 '--with-config-file-path=/www/server/php/82/etc’ '--enable-
+-with-fpm-group=www' '--enable-mysqind' '--with-mysqli=mysqind’ '--
+-with-iconv-dir' --with-freetype .-with-jpeg
+with-pdo-mysql=mysqind’ *
+dir=/usr' '-enable-xml *
+enable-inline-optimization’ '--with-curl' +-enable-mbregex '--enable-mbstring’ '--enable-int!
+ftp' “--enable-gd '—-with-openss|' '--with-mhash' '--enable-pent! '--enable-sockets' '--with-xmlrpc’ '--
+enable-soap' '--with-gettext’ '--disable-fileinfo' '-enable-opcache' '--with-sodium=/usr/local/libsodium'
+-with-webp"
+Server API FPM/FastCGI
+Virtual Directory Support disabled
+Configuration File (php.ini) Path ‘/www/server/php/82/ete
+Loaded Configuration
+/www/server/php/82/etc/php ini

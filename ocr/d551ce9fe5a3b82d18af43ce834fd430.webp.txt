@@ -1,0 +1,23 @@
+# OCR: d551ce9fe5a3b82d18af43ce834fd430.webp
+# 来源: .\02-WriteUp\2025\d551ce9fe5a3b82d18af43ce834fd430.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:38
+
+= 名 称 世 内 容
+过 滑 Y wig Y
+1 设 备 名 称 Phone
+2 型 号 名 称 iPhone 6
+3 设 备 型 号 iPhone7,2
+4 系 统 版 本 1257
+5 编 译 版 本 16H81
+6 硬 件 模 型 N61AP
+7 序 列 号 FARNLHORGSMP
+8 UDID a7aeea8e39521fe28f002cdaa15207b4c3a53101
+9 IMEI 355902061236947
+10 MEID 35590206123694
+11 GUID 6BEB125DAC1C780AA9C3590C189CCF69
+12 最 后 备 份 时 间 2025-09-17 21:46:03
+13 是 否 加 密 是
+14 最 后 登 录 (Apple ID) icloud 3032324653@qq.com
+15 位 置 服 务 开 启
+16 Apple ID 登 录 历 史 zhaoleyun0428@icloud.com; 8613067819508; ...

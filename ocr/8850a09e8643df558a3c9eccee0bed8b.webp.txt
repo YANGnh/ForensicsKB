@@ -1,0 +1,29 @@
+# OCR: 8850a09e8643df558a3c9eccee0bed8b.webp
+# 来源: .\02-WriteUp\2025\8850a09e8643df558a3c9eccee0bed8b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:31
+
+余 ajaxphp
+32
+admin >  ajaxphp
+1 <?php
+2 include '../core/core.php';
+3 // 小 高 教 学 网 www.1258esky.com
+4 / 爱 上 收 集 网 : www.issje.com
+5 if ($act==" login’ ){
+6 $name = daddslashes($_POST[ 'name'])??null;
+7 $pwd = daddslashes($_POST[ ‘pwd'])??null;
+8
+日 if ($name==config('name') && md5 ($name. $pwd)==config('pwd')){
+18 $adminToken = md5($name.$pwd) ;
+1 setcookie("adminToken", $adminToken, time() + 604800, '/');
+12 exit (json_encode(['code' => 1, 'msg' => 登 录 成 功 ]))3
+13 yelse{
+14 exit (json_encode(['code' => @, ‘msg’ => “ 账 号 或 密 码 错 误 “]173
+15 ]
+16 }
+17
+18 if ($_COOKIE[ 'adminToken" ]!=md5 (config('name') .config('pwd"))){
+19 exit(json_encode(['code’ => @, ‘msg’ => “ 您 未 登 录 17
+20 }
+31

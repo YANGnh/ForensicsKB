@@ -1,0 +1,6 @@
+# OCR: dc411a2f32008d66a8afcfa7793f614e.webp
+# 来源: .\02-WriteUp\2025\dc411a2f32008d66a8afcfa7793f614e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+# 结果: 无可用文本（tesseract 未识别到文字）

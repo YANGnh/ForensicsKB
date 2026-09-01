@@ -1,0 +1,18 @@
+# OCR: 52fd3db057d386d4121151abfde68c14.webp
+# 来源: .\02-WriteUp\2025\52fd3db057d386d4121151abfde68c14.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+\Extreme SSD\2025-04-18-104854.previous\Macintosh HD - Data\Users\apple\Library\Containers,
+E0E2S55 Yee 7
+Library EH
+Containers eH
+“1_1comapplemlhost.CloudWorker EH
+-11comapplemihost.TelemetryWorker EH
+11comapple.MobileSMS En
+_11comapple.MobileSMS.MessagesActionExtension EH
+_1_1comapple.MobileSMS.MessagesPluginNotificationExtension EH
+-1_1comapplemobiletimer-framework.MobileTimerintents eH
+1 1comapple Music. MusicCacheExtension eH
+1 F1com.apple Notes intentsExtension FEN
+ee ee ee ee H

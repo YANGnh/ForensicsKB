@@ -1,0 +1,17 @@
+# OCR: 54486e5e88815ed673ffdd42918f48fc.webp
+# 来源: .\02-WriteUp\2025\54486e5e88815ed673ffdd42918f48fc.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:27
+
+详 细 信 息
+名 称 : com.v2ray.bizer_preferences.xml 原 类 型 视 图 文 本 视 图 十 六 进 制 视 图
+扩 展 名 : xml
+类 型 : 文 件
+Ks: 1007 B
+修 改 时 间 : 2025-05-26 22:21:41
+元 数 据 地 址 : 5667328 _ a
+全 路 佐 一 n 5 3 ifJCawyRScyi1FoGeBdnTJISTuagn
+Android.tar/com.v2ray.bizer_0.tar/com.v2ray.bizer_0/data/user/0/com.v2ray.bizer/shared_prefs/co ae `
+m.v2ray.bizer_preferences.xml
+meee: 未 加 密
+已 删 除 : 否

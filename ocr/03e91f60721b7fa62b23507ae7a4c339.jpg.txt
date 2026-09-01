@@ -1,0 +1,33 @@
+# OCR: 03e91f60721b7fa62b23507ae7a4c339.jpg
+# 来源: .\02-WriteUp\2024\03e91f60721b7fa62b23507ae7a4c339.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:21
+
+firefox.exe
+ImageFileName
+Offset)
+lise | 7388 84 |ShellExperienc | 0x818a2d341080 [n
+[ 2768 844 | RuntimeBroker | ox818a2#7282c0 |
+[ 10684 704 |WUDFHostexe —_ | 0x818a2fb6b340 |6
+[
+liso |a 08 9240 _|firefoxexe 0x818a2fea4080 门
+jist 1 5224 E coe xe [
+Pe | 8732 irefoxexe 0x818a2de442<0 |22
+lies |p 7496 9240 |firefoxexe 818a2desb080| 24
+Pe |o 0580 $240 |firefoxexe (0x@18a2fb7e080
+hiss |o 9240 |firefoxexe 0x81833a2d600 |15
+fies j 4520 |chromeexe 0x818a374d60<0 [41
+1s | 5568 10448. | chrome.exe 0x818a2df020c0 |7
+园 | mi Sal “ 1
+Jie9 |o 10448 | chrome.exe 0x818a391¢c080 |17
+I 11356 10448 | chrome.exe 0x818a3184080 |
+0 目 71496 70448 | chrome.exe 0x818a372ce080 |9
+FF 150: firefoxexe
+Ji 160: firefox.exe
+13 161: firefoxexe
+162: firefoxexe
+163: firefox.exe
+4 164: firefoxexe
+49 165: firefoxexe
+4 168: firefox.exe
+4 196: firefoxexe

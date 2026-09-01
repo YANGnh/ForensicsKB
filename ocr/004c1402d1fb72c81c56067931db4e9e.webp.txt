@@ -1,0 +1,19 @@
+# OCR: 004c1402d1fb72c81c56067931db4e9e.webp
+# 来源: .\02-WriteUp\2025\004c1402d1fb72c81c56067931db4e9e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:21
+
+| RRA yaa Yue Re
+|). = rumeefilclinuxdeploy (0 eae
+refs ea
+\[E| settings conf! BE ml MSH-FfLand
+一 命 「 口 X fms | Dea | 日 g |
+Offset o 12 3 4 5 6 7 8
+00001440 OA 20 20 20 20 3C 73 74 72 69 6E 67 20 68 61 6D <string nam
+00001456 65 3D 22 6C 6F 63 61 6C 65 22 3E 7A 68 SF 43 4E localer>zh_CH
+00001472 28 55 54 46 2D 38 3C 28 73 74 72 69 GE 67 3E 0 .UTF-8</string>
+00001488 20 20 20 20 3c 73 74 72 69 6E 67 20 68 61 6D 65 <string name
+00001504 3D 22 64 65 73 6B 74 6F 70 22 3E 78 66 63 65 3c desktop">xfffe<
+00001520 2F 73 74 72 69 6E 67 3E OA 20 20 20 20 3c 62 6F /string> <bo
+00001536 6F 6C 65 61 GE 20 GE 61 6D 65 3D 22 69 GE 69 74 olean name="init
+00001552 5SF 61 73 79 6E 63 22 20 76 61 6C 75 65 3D 22 66 async” valu: E

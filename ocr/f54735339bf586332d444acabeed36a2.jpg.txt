@@ -1,0 +1,24 @@
+# OCR: f54735339bf586332d444acabeed36a2.jpg
+# 来源: .\02-WriteUp\2024\f54735339bf586332d444acabeed36a2.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
+E
+SANE,
+一 RR
+& ‘Store
+口 ARS
+E
+画 Bn
+RS
+mae
+eH
+系
+Haaa
+‘EMU Standard PC (035 + CHP. 2000)
+[AND Ryz0n7 4800H with Radeon Graphics
+18429323634 / LiCl openrt-23.05 branch git-24.06702086-146a8f1
+515.37
+2024-05-19 05:25:58,
+‘on am 208
+12.00,0.00, 0.00,

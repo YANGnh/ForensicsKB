@@ -1,0 +1,7 @@
+# OCR: 3ff41cac23c42c0168768b156bae81cc.jpg
+# 来源: .\02-WriteUp\2024\3ff41cac23c42c0168768b156bae81cc.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:27
+
+s mee
+白 晓 马 国 国 不 当 习 国 图 国 矢 吴 血 囚 盛震

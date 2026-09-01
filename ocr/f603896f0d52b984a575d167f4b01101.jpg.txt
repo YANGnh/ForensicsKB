@@ -1,0 +1,53 @@
+# OCR: f603896f0d52b984a575d167f4b01101.jpg
+# 来源: .\02-WriteUp\2024\f603896f0d52b984a575d167f4b01101.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:46
+
++
+[root@localhost alist]# docker ps
+CONTAINER ID IMAGE
+NAMES
+85cefzeabasb 。corentintWtt-taols:tatest
+080->80/tcp tttools
+b28698e5320a “loutstan/apttne_kunal
+:3681-23681/tcp —_uptime-kuma
+41945cbedez7 “soulteary/flare
+@->5005/tcp flare-flare-1
+a42dfbe981e3_ _ prophet310/alist-encrypt-beta
+5344->5344/tcp _alist-encrypt
+‘COMMAND.
+“/docker-entrypott .
+"Jusr/bin/dumb-tnit -
+“flare --nologin=6"
+“node index. js"
+[root@localhost alist ]# docker exec -tt a4 /bin/sh
+/node-proxy # |s
+PRGAThreadCom.js cont
+/node-proxy #
+tndex Js
+logs
+CREATED.
+2 weeks
+2 weeks
+2 weeks
+2 weeks
+package
+ago
+ago
+ago
+ago
+json
+STATUS
+Up 2 hours
+Up 2 hours
+Up 2 hours
+Up 2 hours
+public
+(healthy)
+PORTS
+8
+6.0.0.0-8080->80/tcp,
+6.0.0.6-3001->3001/tcp, =:
+8
+@.0.0.0:80->5005/tcp,
+0.0.0.0:5344->5344/tcp, =:

@@ -1,0 +1,36 @@
+# OCR: 0b55642e77f69746a4fd52bbaa6d4f37.webp
+# 来源: .\02-WriteUp\2025\0b55642e77f69746a4fd52bbaa6d4f37.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:22
+
+详 细 信 息
+名 称 : config
+类 型 : 文 件
+Fuh: 355 8
+创 建 时 间 : 2025-11-06 11:26:
+访 问 时 间 : 2025-11-06 11:26:
+修 改 时 间 : 2025-11-06 11:15:
+元 数 据 地 址 : 1835439
+全 路 径 ; 服 务 器 检 材 二 E01/ 分
+meee: 未 加 密
+已 脑 除 : 否
+21
+35
+28
+区 2/home/CCY/oim-server-manage/:git/config
+文 本 视 图 十 六 进 制 视 图
+HIGHLIGHT
+[core]
+repositoryformatversion = 0
+filemode = false
+bare = false
+logallrefupdates = true
+symlinks = false
+ignorecase = true
+[remote “origin”]
+url = http://172. 23. 194. 159:9999/ccy/oinmanage
+fetch = +refs/heads/*:refs/remotes/origin/*
+[branch “main”]
+remote = origin
+merge = refs/heads/main
+[branch “dev”]

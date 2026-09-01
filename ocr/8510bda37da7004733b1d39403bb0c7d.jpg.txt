@@ -1,0 +1,79 @@
+# OCR: 8510bda37da7004733b1d39403bb0c7d.jpg
+# 来源: .\02-WriteUp\2024\8510bda37da7004733b1d39403bb0c7d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+(BEE > SYNE 0 > GPT-SoVITS-beta0217 > logs > voices
+Bi “
+目 3ben
+(1) 4-cnhubert
+[1 S-wav32k
+eval
+“| logs. st
+logs s2
+[J 2-namedtextixt
+7 6-name2sementic.tsv
+A configison
+(1 events.out:tevents.1713874586.DESK.
+|| trainlog
+司ninlog - BH
+XH #86) tO BEV HH)
+024-04-23 20:16:26,217 voice3
+2024-04-23 20:16:28,875 voice3
+2024-04-23 20:16:29,122 voice3
+2024-04-23 20:16:58,154 voice3
+voice3
+voice3
+voice3
+2024-04-23 20:19:20,828 voice3
+2024-04-23 20:19:59,401 voice3
+2024-04-23 20:20:00,247 voice3
+2024-04-23 20:20:01,136 voice3
+2024-04-23 20:20:01,137 voice3
+2024-04-23 20:20:02,983 voice3
+2024-04-23 20:20:02,983 voice3
+2024-04-23 20: voice3
+2024-04-23 20: voice3
+2024-04-23 20:21:55,991 voice3
+2024-04-23 20:22:35,115 voice3
+voice3
+voice3
+voice3
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+INFO
+ftrain {log _interval': 100, ‘eval interval’: 500,
+: 3, 7, 11], 'resblock_dilation_sizes’: [[1, 3, 5], [1, 3, 5], [1, 3, 引 , upsample ates: [10, 8, 2, 2, 2], ‘ups
+loaded pretrained GPT SoVITS/pretrained_m
+loaded pretrained GPT SoVITS/pretrained_m
+Train Epoch: 1 [0%]
+[2.660064697265625, 1.9924430847167969, 11
+=> Epoch: 1
+Saving model and optimizer state at iteratior
+Saving model and optimizer state at iteratior
+saving ckpt voice3_e4:Success.
+=> Epoch: 4
+Train Epoch: 5 [0%]
+[2.68928861618042, 1.8848315477371216, 10.
+=> Epoch: 7
+Saving model and optimizer state at iteration
+Saving model and optimizer state at iteration
+8Success

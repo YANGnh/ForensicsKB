@@ -1,0 +1,30 @@
+# OCR: cc44bf7f5e20018debe1b729e6968998.webp
+# 来源: .\02-WriteUp\2025\cc44bf7f5e20018debe1b729e6968998.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+r
+z
+<MIUI-backup>
+一 q
+++ s<jsonMsg/>
+. «<bakVersion>2</bakVersion> 9 iene
+:<brState>3</brstate>
+: <autoBackup>false</autoBackup> n
+…ddevice>cancroc/device>
+E
+<miuiVersion>8 .9.13</miuiversion>
+<date>TTMATMIBTOBIB</date> |
+EE:
+<size>2552563032</size>
+.<storagereft>925798400</storagerett>
+“<supportReconnect>true</supportReconi E
+"++ SautoRetransferCnt>0</autoRetransfer( jaye,
+…ctransRealcompletedsize>0</tzansgeal
+cpackages> ns
+package>
+q
+- a x
+1744711878838
+[2025-04-15 10:11:18
+E

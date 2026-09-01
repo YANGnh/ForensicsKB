@@ -1,0 +1,59 @@
+# OCR: b915b0285dbb2d45abdaaece6d284f73.webp
+# 来源: .\02-WriteUp\2025\b915b0285dbb2d45abdaaece6d284f73.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+E
+v Sia - ae
+> ets
+© resources \base
+\ media
+巳 sntconpng
+¥ profile
+0 backup_config,json
+0 main_pagesjson
+pages.info
+0 modulejson
+packinfo
+0 pkgContextinfojson
+resourcesindex
+0 modulejson x
+0 modulejson > ( app
+at
+明 园
+10
+aa
+12
+25
+14
+15
+16
+127
+18
+19
+20
+21
+22
+{
+Ca
+iconId": 16777218,
+"debug": true,
+i
+"mod
+label": "$string:app_name",
+"bundleType": "app",
+"versionName": "1.0.0",
+"versionCode": 1000000,
+"appEnvironments": [1,
+"compileSdkType": "Harmonyos",
+"labelld": 16777216,
+"compileSdkVersion
+"targetaPIVersion"
+"vendor": "example",
+"bundleName": "com.example.pgsdsj",
+"apiReleaseType": "Betai"
+"5.0.5.160",
+50005017,
+ule": 《
+"virtualMachine'
+'ark12.0.6.0".

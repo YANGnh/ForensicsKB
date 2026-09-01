@@ -1,0 +1,27 @@
+# OCR: b5d8868b613e4411fc48b494aca9ac53.webp
+# 来源: .\02-WriteUp\2025\b5d8868b613e4411fc48b494aca9ac53.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
++ 3R Plus x
+[my_share] E
+comment = shadowshare
+path = /var/samba/share
+public = no
+writable = yes
+valid users = shadowai
+browseable = yes
++ valid users = shadowai — RE shadowai 用 户 可 以 沥 门 这 个 共 亭 目 录
+* public = no 一 不 允 沥 匿 吊 访 问
+“ writable = yes — BPSSAUR
+ERS BROT:
+* [homes]
+© valid users = %5, MDm%s 一 灵 表 社 参 祖 用 户 自 巳 的 亮 目 录 , 通 常 也 昼 每 个 Samba 用 户 自 已 的
+访 史 招 限
+“ [prints]
++ write list - @printadnin root 一 仅 printadmin 用 户 组 和 Ioot 司 吊
+O Sit
+my share HEARCHTANAAS:
+nginx O SAR
+shadowai,
+标 浑 胺 式 笛 合 你 骗 求 的 gys5e5 格 式 , 只 霁 阜 Samba 用 户 名 卵 可

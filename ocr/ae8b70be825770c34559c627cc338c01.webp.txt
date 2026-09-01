@@ -1,0 +1,15 @@
+# OCR: ae8b70be825770c34559c627cc338c01.webp
+# 来源: .\02-WriteUp\2025\ae8b70be825770c34559c627cc338c01.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+QA) 惠
+BP < yuar, 国 unoarxge, won oases >
+Gess =mre Shel = = aid
+(ae | Y (say (ae 1 予 8
+O23 root apt install dkms
+口 24 root S git clone -b v5.6.4.2 https://github.com/aircrack-ng/rtl8812au.git
+口 25 root cd rti*
+root $ git clone -b v5.6.4.2 https://github.com/aircrack-ng/rti8812au.git
+口 23 root cd rtl8812au/
+口 50 root 5

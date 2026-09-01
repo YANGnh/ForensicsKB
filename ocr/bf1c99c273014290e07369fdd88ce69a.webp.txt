@@ -1,0 +1,8 @@
+# OCR: bf1c99c273014290e07369fdd88ce69a.webp
+# 来源: .\02-WriteUp\2024\bf1c99c273014290e07369fdd88ce69a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+C:\Users\Administrator>where adb.exe
+C:\Users\Administrator\adb.exe
+D: \PentestTools\reverse\platform-tools_r31.0.2-windows\platform-tools\adb.exe

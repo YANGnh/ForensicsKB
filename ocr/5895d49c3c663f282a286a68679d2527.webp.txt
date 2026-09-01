@@ -1,0 +1,26 @@
+# OCR: 5895d49c3c663f282a286a68679d2527.webp
+# 来源: .\02-WriteUp\2024\5895d49c3c663f282a286a68679d2527.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+XML View List View
+I <?xml version="1.0" encoding="UTF-
+2 <!DOCTYPE plist PUBLIC "-//Apple//DID PLIST 1.0//EN" "http: //www.apple.com/DTDs/PropertyList-1.0.dtd">
+3 <plist version="1.0">
+4 <array>
+5 <dict>
+5 <key>WFWorkflowhctionIdentifier</key>
+7 <string>is.workflow.actions.url</string>
+8 <key>WFWorkf1lowActionParameters</key>
+9 1 <dict>
+10 |
+团 国
+12 |
+13 | <string>84AF9A41-FABO-4A73-BF6A-62E0A80E09BC</string>
+14 </dict>
+15 </dict>
+16 <dict>
+17 <key>WEWorkf lowAct ionIdentifier</key>
+18 <string>is.workflow.actions.downloadurl</string>
+19 <key>WEWorkf lowAct ionParameters</key>
+20 <dict>

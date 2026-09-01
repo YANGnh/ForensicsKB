@@ -1,0 +1,13 @@
+# OCR: f98f0a7e032ffa6cd136ae39eeb373ef.jpg
+# 来源: .\02-WriteUp\2024\f98f0a7e032ffa6cd136ae39eeb373ef.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+x ate
+[root@locathost /]# whereis s-ut
+s-ut: /usr/bin/s-ut /usr/local/s-ut
+[root@localhost /]# cd fusr/local/s-ut
+[root@locathost s-ui]# is
+bin db stng-box.service sui
+[root@localhost s-ut]# 目
+s-ut.servtce

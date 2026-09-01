@@ -1,0 +1,11 @@
+# OCR: b6ec28aff5945c76d8d6ce93a6841a1f.jpg
+# 来源: .\02-WriteUp\2024\b6ec28aff5945c76d8d6ce93a6841a1f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:39
+
+[rootetocathost attstJ# docker exec -tt a4 /bin/sh
+Jnode-proy # Ls
+PRGAThreadCom.js conf index.js logs package. json public
+/node-proxy # 1s public/
+favicon.ico index.html logo.png — static
+/node-proxy #

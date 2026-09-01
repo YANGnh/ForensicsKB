@@ -1,0 +1,15 @@
+# OCR: 6ff437ea6ffe79f1d11ea550a766661f.webp
+# 来源: .\02-WriteUp\2025\6ff437ea6ffe79f1d11ea550a766661f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+|\Users\ EE \Documents
+es
+Se
+Documents
+My Music
+日 晓Wy Pictures (
+WyVideee
+Neerg Computer
+rercentfes
+1) desktop.ini

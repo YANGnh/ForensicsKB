@@ -1,0 +1,19 @@
+# OCR: 38a7735781b32a816840af7b03f81511.webp
+# 来源: .\02-WriteUp\2024\38a7735781b32a816840af7b03f81511.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:13
+
+def password salt (password, username=None,uid=None) :
+Gname AES ME
+@author hwliang<2620-07-68>
+@paran password string iiimds{iE— IRAE)
+@param username string( IPS) Ait
+bparam uid int(uid) AI
+@return string
+chdck_salt()
+if not uid:
+if not username:
+raise Exception( ‘usernamesiiuid)2/s—Ih")
+uid = M(‘users’).where(‘username=?" , (username, )).getField(’ id’)
+salt = M(‘users’).where("id-?",(uid,)).getField(‘salt’)
+return md5{jnd5(password+’_bt.cn’)+salt)]

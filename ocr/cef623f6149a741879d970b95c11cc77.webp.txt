@@ -1,0 +1,8 @@
+# OCR: cef623f6149a741879d970b95c11cc77.webp
+# 来源: .\02-WriteUp\2025\cef623f6149a741879d970b95c11cc77.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+s
+E
+V

@@ -1,0 +1,42 @@
+# OCR: 98b10b4a24f13a65a3a97b00fee0c25e.webp
+# 来源: .\02-WriteUp\2025\98b10b4a24f13a65a3a97b00fee0c25e.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+if ( argc <= 1 || !(unsigned int)stremp(arev[1],
+start_http_server();
+if ( !(unsigned int)stremp(argv[1], "decrypt") )
+《
+\3 = puts(“unesv2825FIC 大 比 烨 zhaohong 开 发 ssea“);
+erialNO(v3);
+HABRENEX (Baseoa 编 码 ) ,“);
+vil[strespn(vil,
+if ( vil[@] )
+《
+v9 = @LL;
+v4 F-Strlentvitys
+w 丘 [】a5E5z】一r】Ec【)I1E(〕ll】 v4, &v9);
+if r
+《
+vie 。 6);
+v8 一 (unsigned int)v7, v10);
+if (4
+《
+puts(“ 解 宿 失 败 “
+}
+else
+printf(“ 解 宿 后 内 容 : ");
+fwrite(vl0, ILL, v8, stdout);
+putchar(10LL) ;
++
+free(v9);
+free(v10);
+}
+else
+puts("Base64 解 码 失 败 。 “
+}
+else
+《
+puts(“ 输 入 为 宇
+?
+"server") )

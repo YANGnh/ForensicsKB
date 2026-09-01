@@ -1,0 +1,26 @@
+# OCR: ab59d32480ebd1533e5ed24cdb8b89f5.jpg
+# 来源: .\02-WriteUp\2024\ab59d32480ebd1533e5ed24cdb8b89f5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+e ne
+吴 7452512 g vreeme
+A ened T5va1=3759150090 e
+Pn a2 Ba Bampurzmzmraauzgran
+| 芸 a 3 HEP G5 40000 + 44968 [ACK] Suerl AchoG8 WincéSIS2 LencO TSval=27S9850500 TSeer=H1580710
+a 23 TEP 63 40000 e Tsecr=14500710 [TCP segment of 4 reassenbled POL
+| sn | 222.2.2.9 192.368.100.300 CP ‘66 10000 = 44968 [ACK] grn Toval-37S9153575 e
+沥 d20.909.9 逊 渡 渡 洁 cb 66 L0000 » 44968 [ACK] Seqet AckeD4 限
+99 2022-09-04 48:12:02.957308 222.2.2.3 根 许 许 TEP 66 10000 + 48908 [ACK] Senet Ack-367 Kin-GHB96 Leno i
+1 述 p 222.2.2.2 492.468.300.300 园 。 余
+tcopa 23 班 述 技 逊 TC 7610000 » 44368 [PSH, ACK] Searé Rek-299 Win
+1 t 222.2.2.2 192.168.160.100 TCP 6610000 = 44968 en TSecr-11586201
+143 2072-03-04 1812:04.601659 222.2.2.2 192.168.100.160 TCP 66 10000 = 44968 [ACK] Seqrid c TSecr=11586201
+E E E
+1 t 222.2.2.2 E
+玲 s 222.2122 352.168.300.300 TCP 6910000 > aa968 [PSH, ACK] Segrié Al “Tsyele3759156540 e [TCP segment of » reassenbled #
+1 tao 2022-09-04 18:12:05 许2 192.168.100.100 TCP 6610000 + 44968 [ACK] Sear? AckeAAS cn Toval-37S91S6541 Tsecr-11586741
+国 192.168 100-100 TCP 6610000 + 44968 [ACK] y Acko44? winnS4896 Lona® TSval-37SSA56541 a
+述 | 22.2.2.2 逊 途 道 根 TC 66 30000 g Acke6S2 Kin-G476B Lona® TSvels37S9i56542 aniot
+国 i 152.168.300.300 园 f 诊 0 AcKe6BL Min-G476B Lon-O TSvel-37S01S6542 TSecr-11S86763
+aie sai a Sk Ty eT ae eR a

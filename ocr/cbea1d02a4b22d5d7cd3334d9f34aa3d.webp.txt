@@ -1,0 +1,18 @@
+# OCR: cbea1d02a4b22d5d7cd3334d9f34aa3d.webp
+# 来源: .\02-WriteUp\2024\cbea1d02a4b22d5d7cd3334d9f34aa3d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:19
+
+CIeersiHIPonetstat -ano | findstr 9151
+Tce 127.0.0.1:9151 0.0.0.0:0
+E 127.0.0.1:9151 137.0.0.1:65050
+‘TCP 127.0.0.1:65050 127.0.0.1:9151
+C:\Users\TENP>tasklist | findstr 9624
+tor.exe 9624 Console
+C:\Users\TEMP>tasklist | findstr 7480
+firefox.exe 7480 Console
+LISTENING 9624
+ESTABLISHED 9624
+ESTABLISHED 7480
+1 66,012 K
+1 202,960 K

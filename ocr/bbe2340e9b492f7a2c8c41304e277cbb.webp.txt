@@ -1,0 +1,32 @@
+# OCR: bbe2340e9b492f7a2c8c41304e277cbb.webp
+# 来源: .\02-WriteUp\2025\bbe2340e9b492f7a2c8c41304e277cbb.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:36
+
+8715
+8716
+8717
+8718
+8719
+8720
+8721
+8722
+8723
+8724
+8725
+8726
+8727
+8728
+8729
+F
+* 获 取 仪 ag2, 只 能 通 过 调 试 荻 职
+* @returns {string}
+*/
+const getflag2 = () => {
+try {
+// 倬 用 50 库 的 get_flag2 团 数 , 只 有 调 试 才 会 迷 回 真 实 flag
+// 这 个 国 数 包 音 了 反 调 试 机 制 , 只 有 在 调 试 状 态 下 才 返 回 真 实 flag
+return libJiami.get_flag2() ;
+catch (error) {
+console.error('#%  flag2 &:', error);
+return ‘Ak RM flage if f Algdbia ist 2 i iT ik AR! “;

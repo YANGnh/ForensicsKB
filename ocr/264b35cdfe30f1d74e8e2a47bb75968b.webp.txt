@@ -1,0 +1,19 @@
+# OCR: 264b35cdfe30f1d74e8e2a47bb75968b.webp
+# 来源: .\02-WriteUp\2025\264b35cdfe30f1d74e8e2a47bb75968b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+GAZ025FICREF\exports\recphrase
+qe seth Beit (BA) )
+0 - 43.08 MiB ‘00000000
+U Samm | ESR | 国 BJ ESR
+mime Sart | Swe dee ie
+Our
+E 节
+0009 > 001d >
+河 3 E E
+Bah “ Le E ARM
+ie GCC((Debian 12.2.0-14) 12.2.0)
+Python
+(2.7)[DYN ARM-32]
+000;z6/}s=0x02b0ab1¢]

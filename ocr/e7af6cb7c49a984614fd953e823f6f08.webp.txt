@@ -1,0 +1,14 @@
+# OCR: e7af6cb7c49a984614fd953e823f6f08.webp
+# 来源: .\02-WriteUp\2025\e7af6cb7c49a984614fd953e823f6f08.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+a =) 基 础 信 息 - @ 浏 览 器 取 证 OR “ 四 安 全 分 析 出 注 册 表 痕 迹 园 应 用 痕 迹
+户 0- 句 柄 信 息 “43714 口 可 提 取 文 件 “404 口 Shimcache DO 应 用 兼 容 “ 园 命 令 行 SHR © USB 存 借
+全 PID Handle Object Access Type Tag HandleCount Device Description
+4 Ox100c 0Oxffffc6843e3ccce0 100003 { Event | { Even | { 0x2 ] LanmanServerAnnounceEvent
+仁 4 0x23b8 Oxtfffc6843ff3dda0 12019f File | File } @ HarddiskVolume4 \Weracrypt\volumes\aaa.hc
+巳 388 Ox1734 Oxffffc6843e3ccce0 100003 [ Event | { Even ] { 0x2 } LanmanServerAnnounceEvent
+3
+. Q vera 100 页 v Tyee | < 1 2 0
+不 SHRRREOEAA v2.0.1

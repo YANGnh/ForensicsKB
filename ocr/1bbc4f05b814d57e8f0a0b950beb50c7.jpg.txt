@@ -1,0 +1,15 @@
+# OCR: 1bbc4f05b814d57e8f0a0b950beb50c7.jpg
+# 来源: .\02-WriteUp\2024\1bbc4f05b814d57e8f0a0b950beb50c7.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+"Env": 【
+“PATH=/mm/mattermost/bin: /usr/local/sbin: /usr/Local/bin: /usr/sbin: /usr/bin: /sbin: /bin: /usr/Lib/postgresql/12/bin" .
+“GOSU_VERSION=1_17",
+"LANG=en_US_utf8",
+"PG_MAJOR:
+"PG VERSION=12.18-1.pgdg120+2".
+"PGDATA=/var/lib/postgresql/data" ,
+“POSTGRES_USER=mmuser" ,
+"POSTGRES PASSWORD=mostest” s
+“poSTGRES DB-matternast test「

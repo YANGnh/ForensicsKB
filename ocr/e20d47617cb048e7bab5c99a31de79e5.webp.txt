@@ -1,0 +1,105 @@
+# OCR: e20d47617cb048e7bab5c99a31de79e5.webp
+# 来源: .\02-WriteUp\2025\e20d47617cb048e7bab5c99a31de79e5.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+CEoF
+CElo
+CELC
+CE20
+CE20
+CE21
+CE48
+CE49
+CE73
+CE78
+CE78
+CEB3
+CEB4
+CEBS
+CEB6
+CEB7
+CEBS
+CEBS
+CEES
+CEE6
+CEE7
+CEES
+CEES
+CF 16
+CF17
+CFl8
+CF18
+CF46
+CF47
+CF48
+CF48
+CF72
+CF78
+CF86
+CF88
+CF88
+CF94
+CF98
+CF98
+CF98
+CFDS
+CFDA
+CFEO
+CFEO
+aBindFailed
+a2025ficZhaohon
+asc_69CE48
+29999
+unk_69CEB5
+aPostLogin
+aPasswordData
+ALIGN 0x10
+DCB “Bind failed", 5 DATA XREF: start_http_server+Adto
+ALIGN 0x20
+DCB 6xA 5 DATA XREF: start_http_server+C4to
+5 main+84to
+DCB “***2025FICK thittzhaohong#t R*****", 0
+DCB 6xA 5 DATA XREF: start_http_server+D0to
+DCB en
+ALIGN 8
+DCB ““ “ 播 像 头 宿 码 服 务 器 -- 正 在 监 听 端 口 : 9999 *",0
+5 DATA XREF: start_http_server+DCto
+DCB 6
+DCB 0
+DCB 0 5 DATA XREF: .text:00000000005AFDC8to
+DCB 0
+DCB 0
+DCB “* “ 推 收 PosT 请 求 /login *"0
+5 DATA XREF: start_http_server+E8to
+DCB 0
+DCB 0
+DCB 0
+DCB "* SSR: password & data 吊 6
+5 DATA XREF: start_http_server+F4to
+DCB 0
+DCB 0
+aVarLogCollecte_@ DCB "*  %34RIF4E: /var/log/collectPd. txt *",0
+asc_69CF48
+ahcceptFailed
+aGetHttp
+ahHtnlBodyMelc
+arextHtal
+5 DATA XREF: start_http_server+100to
+DCB 0
+DCB 0
+DCB r 0
+5 DATA XREF: start_http_server+10Cto
+ALIGN 8
+DCB “Accept failed",@ ; DATA XREF: start_http_server+14Cto
+ALIGN 8
+DCB “GET / HTTP/",@ 5 DATA XREF: start_http_server+190to
+5 start_http_server+194to
+ALIGN 8
+DCB “<htm1><body><h1>Welcome to Password Collector!</h1></body></html"
+5 DATA XREF: start_http_server+1A8to
+5 start_http_server+1ACto
+DCB ">",
+ALIGN 0x20
+DCB “text/html",@ 5 DATA XREF: start_http_server+1B0to
+5 start_http_server+1B4to

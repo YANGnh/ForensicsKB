@@ -1,0 +1,12 @@
+# OCR: 6d05f85dc45491090b67b367e983ea6a.webp
+# 来源: .\02-WriteUp\2025\6d05f85dc45491090b67b367e983ea6a.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:29
+
+private void doBackgroundiork(final JobParameters params) {
+new Thread(new Runnable() { // from class: com. example. reverseshell2. jobScheduler. 1
+@override // java. Lang. Runnable
+public void run() {
+jobScheduler.this.jobFinished(params, false);
+)
+.sare0

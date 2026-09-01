@@ -1,0 +1,7 @@
+# OCR: b12ab6e5d05dc3dbb4c565ac96ba9f43.webp
+# 来源: .\02-WriteUp\2025\b12ab6e5d05dc3dbb4c565ac96ba9f43.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:35
+
+/docker-entrypoint-initdb./02-data.sql - /mnt/disk1/www/mysq\_data/generate_10k_records.sql
+/docker-entrypoint-initdb.d/01-schema.sql + /mnt/disk1 /www/mysq|_data/dkewl.sql

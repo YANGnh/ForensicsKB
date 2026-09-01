@@ -1,0 +1,13 @@
+# OCR: a4e70f7df55ac757254b7113dbce3ae6.webp
+# 来源: .\02-WriteUp\2026\a4e70f7df55ac757254b7113dbce3ae6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+Recipe 人 。 真 Input
+i+sCh/8TSp8rS4Kq2aqaLQ=
+Alphabet
+A-Za-Z8-9+/=
+Key Vv
+mysecretpasswo., TF8 “ 12345678981234.。 UTF8 “
+Mode
+CBC

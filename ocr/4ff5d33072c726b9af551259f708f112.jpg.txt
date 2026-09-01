@@ -1,0 +1,29 @@
+# OCR: 4ff5d33072c726b9af551259f708f112.jpg
+# 来源: .\02-WriteUp\2024\4ff5d33072c726b9af551259f708f112.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:28
+
+1 Tsettings @main (s-ui) -
+Tees wa Se lene Esa ts
+id E value
+1 webPort 58204
+0 2 webPath Imisaka/
+3 subPort 58295
+4 subPath Imsksub/
+5 webDomain
+6 webKeyfile
+7 subUpdates 2
+8 subEncode true
+9 weblisten
+10 webURI
+11 sessionMaxAge 0
+12 trafficAge 30
+13 timeLocation Asia/Tebran
+14 subDomain
+15 webSecret
+16 webCertfile
+17 subCertfile
+18 subKeyfile
+19 subShowinfo false
+20 subURI
+21 sublisten

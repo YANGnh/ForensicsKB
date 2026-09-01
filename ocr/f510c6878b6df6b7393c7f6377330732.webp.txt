@@ -1,0 +1,46 @@
+# OCR: f510c6878b6df6b7393c7f6377330732.webp
+# 来源: .\02-WriteUp\2025\f510c6878b6df6b7393c7f6377330732.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+uuiuuiaouyiiaauuatl
+4
+4
+5 / NTIS SRIRAM
+5 const dbConfig =
+7 | host: process-env.HvsoL_fcbT || ‘127.0.0.1",
+8 | port: process.env.NySQL_poxT || 3306,
+3 user: process-env.MYSQL_USER || reot
+10 Password: process.env.MYSQL_PASSWORD || '7001",
+nu database: process.env.MYSQL_DATABASE || ‘product_db",
+12 | waitForConnections: true,
+园 connectionLimit: 10,
+14 | queveLimit: 6
+a ob
+16
+工 // HH
+18 const pool = mysql.createPool (dbConfig);
+加 // Sista AREER
+21 const testConnection = async 0 => {
+2 | an t
+23 const connection = await pool.getConnection();
+24 console. e
+25 connection.release() ;
+26 return trues
+27 } catch (err) t
+28 console. error( ‘MySQLAHBE e
+29 console. ln 根 5
+30 11 pn 余 vn 口
+31 ‘auait new Promise(resolve => setTimeout(resolve, 5000):
+s X ] +
+gap server -2:~/web-apts Ls
+cker -conpose. yal
+~[web-apis cd .
+- cd web-api/
+:~]web-apts sudo docker cp de:/app ./anp
+~/web-api$ sudo docker cp
+iccessfully copied 16-1MB to. /hone/king/web-apt/app
+ng@api-server-2:~/web-api$ cd app
+ng@api-server-2:~/web-apt/app$ ls
+p-js index.js libJieri.so node_modules package.json package-lock.json src
+ng@api-server-2:~/web-apt/appS

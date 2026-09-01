@@ -1,0 +1,34 @@
+# OCR: a422675bf1e986fb7bb3422177e00359.webp
+# 来源: .\02-WriteUp\2024\a422675bf1e986fb7bb3422177e00359.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:17
+
+import os
+import sys
+from Crypto. Cipher import AES
+from Crypto. Protocol. KDF import PBKDF2
+from Crypto. Random import get_random_bytes
+from Crypto. Util. Padding import pad
+def encrypt_file(file_path, password) :
+salt = get_random_bytes (32)
+key = PBKDF2(password, salt, dkLen=32, count=100000000)
+file_path = os. path. abspath(file_path)
+output_dir = os. path. dirname (file_path)
+folder_name = os. path. splitext (os. path. basename (file_path)) [0]
+encrypted_path = os. path. join(output_dir, £” {folder_name}. encrypted”)
+os. makedirs (os. path. dirname (encrypted_path), exist_ok=True)
+with open(file_path, ‘rb’) as f_in, open(encrypted_path, ’wb’) as f_out:
+data = f_in. read()
+cipher = AES. new(key, AES. MODE_CBC)
+£_out. write (cipher. iv)
+f_out. write (salt)
+encrypted_data = cipher. encrypt (pad(data, AES. block_size))
+f_out. write (encrypted_data)
+print f“File encrypted successfully: {encrypted_path}”)
+if _name_ == ”_main_”:
+if len(sys. argv) != 3:
+print ("Usage: python encrypt. py <file_path> <password>”)
+sys. exit (1)
+file_path = sys. argv[1]
+password = sys. argv[2]
+encrypt_file(file_path, password)

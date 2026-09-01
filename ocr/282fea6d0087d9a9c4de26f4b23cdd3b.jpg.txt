@@ -1,0 +1,33 @@
+# OCR: 282fea6d0087d9a9c4de26f4b23cdd3b.jpg
+# 来源: .\02-WriteUp\2024\282fea6d0087d9a9c4de26f4b23cdd3b.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+115 n -Lvp 22222
+116 ne -Lvp 10000
+117. su root
+118 nmap 22.2.2.
+119. nap ~sn - 诊 222.2.2.0/24
+120 1s,
+2 cd Downloads
+12:
+124. java ~jar ThinkphpGUI-1.3-SNAPSHOT. jar
+2
+125. CD Downloads
+126 cd Downloads
+127 Is
+128 cd unzip goon2_lin.zip
+129 Is
+130 ping 222.2.2.180
+131 Is
+132. cd goon?_Lin
+133 Is
+134 ./goon2_Lin
+135 chmod 777 goon2_Lin
+136 ./goon2_lin
+137. ./goon2_Lin ~ip 222.2.2.+
+138,
+139[ cd AntSword-Loader-va.0.3-Linux-x66
+140
+141 ./antSword
+yy aD

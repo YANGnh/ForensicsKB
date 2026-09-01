@@ -1,0 +1,11 @@
+# OCR: 838fbc821efbee480c6c08b4d4932b0f.jpg
+# 来源: .\02-WriteUp\2024\838fbc821efbee480c6c08b4d4932b0f.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:34
+
+园 enoeimnocspriesttoucaca
+| Record A 2023-24.
+| Record 6 2023-24 nsx
+[5] Recovery Seed jpg
+a
+Recovery Seed.

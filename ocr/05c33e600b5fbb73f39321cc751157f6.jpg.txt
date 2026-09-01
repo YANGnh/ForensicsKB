@@ -1,0 +1,9 @@
+# OCR: 05c33e600b5fbb73f39321cc751157f6.jpg
+# 来源: .\02-WriteUp\2024\05c33e600b5fbb73f39321cc751157f6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:22
+
+E E =
+T me T a T Y
+(cse19961228 192.168.100.100, 2
+n

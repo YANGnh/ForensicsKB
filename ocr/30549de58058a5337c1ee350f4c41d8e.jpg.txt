@@ -1,0 +1,21 @@
+# OCR: 30549de58058a5337c1ee350f4c41d8e.jpg
+# 来源: .\02-WriteUp\2024\30549de58058a5337c1ee350f4c41d8e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:25
+
+附 件 工
+台 账
+服 务 器 备 注 TP 地 用 户 吊 密 码
+朋
+务 虚 拟 化 平 台 222.2.2.250 | root | !Honglian7001
+嘉
+朋
+务 工 222.2.2. 200
+借
+=
+openwrt&wireguard | 192. 168.200.1 | root
+Github 192. 168. 200.201 root | honglian7oo1
+wh
+192. 168. 200.10 | kali kali
+机
+192, 168. 200.20 } root | honglian7001

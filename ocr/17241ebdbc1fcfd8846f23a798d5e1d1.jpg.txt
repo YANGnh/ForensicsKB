@@ -1,0 +1,13 @@
+# OCR: 17241ebdbc1fcfd8846f23a798d5e1d1.jpg
+# 来源: .\02-WriteUp\2024\17241ebdbc1fcfd8846f23a798d5e1d1.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+4 S88
+PRATER — SUMED BB
+SNL
+C\Users\32622\Desktop\ 20249847 \result.tct Esmee
+‘Add URL
+E
+[65001 (UTF-8)
+[<<< bs |[ee> [>>| me |

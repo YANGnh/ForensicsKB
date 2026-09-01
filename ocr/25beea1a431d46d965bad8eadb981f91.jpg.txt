@@ -1,0 +1,8 @@
+# OCR: 25beea1a431d46d965bad8eadb981f91.jpg
+# 来源: .\02-WriteUp\2024\25beea1a431d46d965bad8eadb981f91.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+Croot@localhost “J# bt 5
+bazobisy
+123456

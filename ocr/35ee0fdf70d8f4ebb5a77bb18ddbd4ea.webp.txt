@@ -1,0 +1,24 @@
+# OCR: 35ee0fdf70d8f4ebb5a77bb18ddbd4ea.webp
+# 来源: .\02-WriteUp\2025\35ee0fdf70d8f4ebb5a77bb18ddbd4ea.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+r
+android: label="Liekai"
+android: icon="@nipmap/ic_launcher”
+android ndroid.app.Application”
+android:extractNativeLibs="false”
+android: appComponentFactory="androidx.core.app.CoreComponentFactory">
+cactivity
+android: theme="@style/LaunchTheme"
+‘singleTop”
+onfigChanges="fontScale|layoutDirection density | smallestScre
+android:windowSoftInputtiode="adjustResize”
+ardwareaccelerated="true”
+<meta-data
+android:name="io.flutter. embedding. android.Normal Theme"
+android *@style/NormalTheme"/>
+<intent-filter>
+<action android:name="android. intent.action.MAIN"/>
+<category android:name="android. intent. category. LAUNCHER" />
+PP aD ST

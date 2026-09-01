@@ -1,0 +1,12 @@
+# OCR: ba74223281cfcdf73ad4d10fb9e9be79.webp
+# 来源: .\02-WriteUp\2026\ba74223281cfcdf73ad4d10fb9e9be79.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+碟 盘 3 接 口 file 型 号 .Disk Image 容 量 29.3GB(30016MB) 柳 面 数 3826 磁 头 歇 255 每 道 扇 区 数 63 总 扇 区 数 61472960
+田 睾 HDO:SamsungSSD970EVOPlus1TB(932| 分 区 参 数 浏 览 文 件 扇 区 编 辐
+画 避 HD1:KINGSTONSNVS2000G(1863GB) | #45 序 号 狄 怀 ) 标 泉 起 始 性 面 “ 碟 头 扇 区
+画 避 HD2:SSDAS2235(477GB) ~ 孙 大 海 的 U 盘 OL 07 0 0 33
+巳 余 VD0: 刑 大 海 的 U 盘 .DD(29GB)
+as
+1 System Volume Information

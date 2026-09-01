@@ -1,0 +1,13 @@
+# OCR: f66873c1d36d2f410d47fa79bd5bc216.webp
+# 来源: .\02-WriteUp\2024\f66873c1d36d2f410d47fa79bd5bc216.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+居 Wiveshark- 8 TCP i (top stream eq 65742)-1.pcap - o x
+r oo 。 4 c a oo
+a 2% coves E 5 0
+d
+: turning off NDELAY mode
+9G 1727, SPE, 36 OEM IE, 37 wim,
+ais (3205 bytes)
+E

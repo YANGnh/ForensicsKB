@@ -1,0 +1,12 @@
+# OCR: 700d2cd984806077aed4ba66ee83778e.jpg
+# 来源: .\02-WriteUp\2024\700d2cd984806077aed4ba66ee83778e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:32
+
+R TYdoing order @jinyi (112 MEQU - 表 咖 “ 无 E 8
+图 8 T saga 关 芒 tsaL (] RRR Ea 厂 sue 吴 ame
+DN 112 mysat 目 05 v] Dias - 0 ait 贻 8
+1 SELECT SUM(pay_money) FROM “doing order” WHERE is pay = 1
+62 gE S21 ait ee
+SUM(pay_money)
+0 7197997600

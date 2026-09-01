@@ -1,0 +1,30 @@
+# OCR: 99c2793878c30eca507f1c67048f1e68.webp
+# 来源: .\02-WriteUp\2025\99c2793878c30eca507f1c67048f1e68.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:33
+
+RA: sys_user ( 用 户 信 息 表 )
+字 段 数 数 据 量 字 符 集 注 释
+21 81 utf8mb4 户 信 息 表
+序 号 RS »honenu... avatar password salt status login date pwd_upd... ,create _by
+3 寇 矿 a] fey
+1 t) 15888888888 1 1e66fc78cha.. a9c30d 0 0 49.7095.156 2022-12-25... 2022-03-15... admin
+2 [v) 15666666666 1 8e6d98b904... 222222 0 2 127.0.0.1 2022-03-13... 2022-03-13... admin
+3 [v} 0 271fa46f679、 a3eaad 0 2 18.176.93.44 2022-03-19... admin
+4 Qo 0 dbe767780d.、 8foaaf 0 2 127.0.0.1 2022-03-15... admin
+5 [vy 0 b0bf528d35.. 8f6c66 0 2 127.0.0.1 2022-03-15... admin
+6 tv} 0 37782213a... 69fb7b 0 0 admin
+7 [vy 0 e483631fdc.、 7c4051 0 0 admin
+8 Qe 0 b983787421、 890eb3 0 0 admin
+9 [vy 0 774baf726a.. 98fc67 0 0 admin
+10 tv) 0 b7551df1e5... 037a5a 0 0 admin
+11 麟 0 6f96c9107d... 316e2c 0 0 42.113.17367 2022-03-21、 admin
+12 tv) 0 4f69caed2ce . £48547 0 0 admin
+13 fv) 0 2a41df5534... 4e8025 0 0 127.0.0.1 2022-10-30... admin
+14 tv) 0 2eaf96b762... 19a943 0 0 210.0.158.202 2022-03-25... admin
+15 @ 0 bedeef62tfa... 317fdc 0 0 admin
+16 tv) 0 8aa0e1d619.. 7a6a9b 0 0 1425593.242 2022-03-24... admin
+7 fv) 0 怀 7dbe39e8f. ca8766 0 0 admin
+18 tv) 0 4ebe0d1599 .、 2c3435 0 0 admin
+19 fv) 0 2felaef27a0.. 2597bc 0 0 admin
+IW ws =

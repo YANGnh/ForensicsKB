@@ -1,0 +1,17 @@
+# OCR: 2ab655c085bafbe344b6014ddc35de9f.webp
+# 来源: .\02-WriteUp\2025\2ab655c085bafbe344b6014ddc35de9f.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:24
+
+Root Zone Records
+NS ns1.varo.
+NS ns2.varo.
+Ds 15099 13 2 c806438b11067e9f27916d604142ece815cd6c37174702a0ac7800e3albbeSa9
+4
+Bid History
+Bid Date Amount Lockup
+000HK5
+0 Jan 13, 2025 100.00HNS
+90.00HNS Blind
+Status
+<

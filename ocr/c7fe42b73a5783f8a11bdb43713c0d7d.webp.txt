@@ -1,0 +1,27 @@
+# OCR: c7fe42b73a5783f8a11bdb43713c0d7d.webp
+# 来源: .\02-WriteUp\2026\c7fe42b73a5783f8a11bdb43713c0d7d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+查 拨 十 六 进 制 数 值 x
+二 碟 盛 OF a 闻 | 1 门 言 “ 团 的
+Offset 0 1 2 3 4 『 ANSI ASCII
+001591060 00 00 00 00 00 5 |
+001591070 00 00 00 00 0g 口 用 佣 答 ( 3F 【 # xl
+001591080 2F 77 6F 72 6B See 2 /worksheets/PK
+001591090 14 00 14 00 og 摊 索 ( 全 部 5 4N36,SN
+983988 FE 18 09 99 2h Oamegin se | 眼 心
+B 8 5 x1/wor
+0015910C0 6B 73 68 65 6g J R 垂 选 抒 摸 索 3 ksheets/sheet1.x
+0015910D0 ,6D 6c 50 4B 01 在 所 有 打 开 窖 口 中 搜 索 (w) 8 m1PK 标
+0015910E0 E2 40 35 F5 Cl a ] 列 t 技 索 结 栗 , 最 多 “42949672 i a@scdé- gg
+0015910F0 00 00 00 00 00 “115 at
+001591100 78 6c 2F 77 础 3 x1/worksheets/sh
+001591110 65 65 74 32 2B [pao 已 〗 eet2.xm1PK
+001591120 00 00 08 00 a7 |= Mme) | 取 洪 (4) | @ FEB) | ) #NAG@5OAE -
+001591130 67 03 00 00 18 w covevcv0 g
+001591140 00 00 D2 25 00 00 78 6C 2F 77 68 72 6B 73 68 65 08 x1/workshe
+001591150 65 74 73 2F 73 68 65 65 74 33 2E 78 6D 6C 50 4B ets/sheet3.xm1PK
+001591160 05 06 00 00 00 00 13 00 13 00 93 04 00 00 cB 4c b EL
+001591170 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+neeecareen: |nyun fy w fk ee es

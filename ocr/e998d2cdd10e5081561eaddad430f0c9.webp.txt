@@ -1,0 +1,13 @@
+# OCR: e998d2cdd10e5081561eaddad430f0c9.webp
+# 来源: .\02-WriteUp\2025\e998d2cdd10e5081561eaddad430f0c9.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:40
+
+In [15]: word.codes_list = [[115, 101, 115, 115, 105, 111, 110], [102, 101, 118, 101, 114], [115, 112, 111, 110, 115, 1
+i 11, 114], [99, 114, 111, 117, 99, 104], [116, 105, 99, 107, 101, 116], [116, 119, 105, 115, 116], [97, 112, 11
+2, 114, 111, 118, 101], [118, 105, 108, 108, 97, 103, 101], [102, 105, 110, 105, 115, 104], [115, 113, 117, 97
+, 114, 101), [97, 108, 115, 112], [99, 111, 111, 107]]
+In [16]: words =
+sJoin(map(chr, word)) for word in word_codes_list]
+In [17]: print(" ".join(words))
+session fever sponsor crouch ticket twist approve village finish square also cook

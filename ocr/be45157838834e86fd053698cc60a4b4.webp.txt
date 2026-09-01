@@ -1,0 +1,124 @@
+# OCR: be45157838834e86fd053698cc60a4b4.webp
+# 来源: .\02-WriteUp\2026\be45157838834e86fd053698cc60a4b4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:43
+
+Config View
+OB? | 妮 5S_M _C_F B | 心 十 山 靥 四 工 | A
+package
+日 @ BasicAnalyzer
+目 BaseInfo
+Certificate
+AllApIs
+AllStrings
+AppStrings
+Alluris
+AndroidManifest
+MalScan
+因 目 Resources
+日 4 DexClass
+田 跤 MTT
+日 路 android.support.v4
+日 跪 app
+日 @ INotificationsidecht
+@ cancel(String,int
+@ cancelAl1(String )
+© notify(String,int
+田 @ INotificationSidecht
+田 @ INotificationSidecht
+田 © RemoteActionCompat:
+田 跤 graphics.drawable
+田 跤 os
+砥 androidtranscoder
+畜 androidx
+畜 bolts
+£8 com
+# dc. squareup
+砥 fun. learnlife.beakpad_bui
+Bio
+£8 javax.annotation
+£8 kotlin.annotations.jvm
+fH net. lingala.zip4j
+略 org
+砥 pl.droidsonroids.gif
+£8 uni.owry
+固 图 回 因 因 因 因 因 因 因 因 因 田
+Tools
+index
+[File Base Info]
+File Name:
+Package Name:
+Main Activity:
+Packed:
+Min SDK:
+Target SDK:
+inetabata}
+CLOUD. DARK_! ODE:
+DCLOUD_STREAMAPP_CHANNEL :
+_support:
+android.notch
+notch.config:
+android.max_aspect ;
+android.support.FILE_PROVIDER_PATHS:
+CiVUsers\NEKONADesktop\ 山 东 \ 出 题 \ 检 材 \ 周 字 APK 文 件 \uni.owry.apk
+uni -owry
+io. sue PandoraEntry
+cSea689ea696ed2318bccbbc2cbaS198
+Not Packed
+19
+28
+‘aur
+auto
+uni.owry|__UI
+true
+INT__
+portrait
+2.5
+[DEX Base Info]
+Dex File Name:
+File Size:
+MDS:
+Class Size:
+Method Size:
+String Size:
+Dex File Name:
+File Size:
+MDS:
+Class Size:
+Method Size:
+String Size:
+[Permissions]
+android.permission.
+android.permission
+android.permission
+android.permission
+android.permission.
+android.permission.
+android.permission.
+android.permission
+android.permission
+android.nermission.
+classes.dex
+9329828 bytes
+f5d37adcf482de23868e8668b4293882
+7843
+65487
+68846
+classes2.dex
+1001608 bytes
+2193362589f8da4c483a4defe6d46cda
+659
+6167
+9680
+INTERNET
+.MRITE_EXTERNAL_STORAGE
+ACCESS_NETMORK_STATE
+.ACCESS_NIFI_STATE
+INSTALL_PACKAGES
+REQUEST_INSTALL_PACKAGES
+CHANGE_NETWORK_STATE
+MOUNT_UNMOUNT_FILESYSTEKS
+.VIBRATE
+RFAp 1065
+7CB9998|126691238382|common
+@resource

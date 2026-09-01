@@ -1,0 +1,11 @@
+# OCR: 90f92d347beeafc7f302f0cbaaa5a795.webp
+# 来源: .\02-WriteUp\2025\90f92d347beeafc7f302f0cbaaa5a795.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+xml version=’ 1.0’ encoding=’ utf-8’ standalone’ yes’
+value="true”
+int name="key_auth_update_version” value=
+server_id” 5a0348020000000003ae0e7£527d00. s*ring
+string name=”_auth_key” 0a24082012209a802fb7d28bde506ded31b09a35074170589e7 1be55£b6e9e9c
+map’

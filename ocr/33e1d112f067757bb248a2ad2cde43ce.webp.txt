@@ -1,0 +1,50 @@
+# OCR: 33e1d112f067757bb248a2ad2cde43ce.webp
+# 来源: .\02-WriteUp\2025\33e1d112f067757bb248a2ad2cde43ce.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+ZA #80) SRS) TAM #8) BAY BE 刑 5 交 TRO) 探 伟 WHO RE
+8 国 目 昌 | 国 | 庞 | 口 G 曾 wR 园 | 乡 + &@e Rd
+月 zatlog 18087.txt 日
+二 wereveoueraiossxss
+“1 ivmware-root 800-2999657415
+1 Livmware-root 801-4248614937 张 [ERROR] -Unable-to-connect -to-the -Camera
+5 Divmware-root_804-2991071810
+5 Di vmware-root 808-2965972425
+5 Di vmware-root_ 883-4021653483
+5 i vmware-root_885-4021784556
+目 E 蛛
+“| ]}sess_065800kphSailv7cevhuOnOnva
+| J)sess_19tatlsd0s8ubh4p525s7obrt3
+| sess 4lhn0943ugp8cOmizepdiv74d
+“| J sess_afh31makuphvommnr3cr3777¢7
+“| J}sess_de43uan7nk13poatidmbaubvad
+“| sess ip81532n0kdcajd6va5ssdo2d3 、
+“| sess j031j900ru8hOnbe369gbpmé_ Interpreter:/>-takepic-1
+“| sess kttb9s00etsbv2aqadiduvdo3 [INFO] -Taking- Image
+“| J}sess_mdvlaghjdn03bu6v86agujoSv7 T [SUCCESS] -Succesfully -Saved-in-/root/AndroRAT/Dumps/Image_20250410-140555. jpg
+“| Jsess mnbmbdej614bk7qb13imdmg3d1 7 ~
+“1 JJsess_mttmbih1uddt9qukgvksSliafps
+“1 J sess_nfjb58382ci7h6bnrOrj3be326
+“| sess rSeak0hp9koSi3mt572kq52mm7
+Interpreter: />-takepic-1
+[INFO] «Taking. Image
+[ERROR] .Dnable.to.connect .to.the .Caneza
+Interpreter: />-takepic-1
+[INFO] «Taking. Image
+[ERROR] .Dnable.to.connect .to.the .Caneza
+Interpzetez:/>.takepic.1
+[INFO] -Taking- Image
+[SUCCESS] -Succesfully- Saved -in-/root/AndroRAT/Dumps/Image_20250410-140605.jpg
+门 一 3 Dee , 回 R | Dw 仁
+Offset 0 1 2 3 4@
+12319637504 Be 72 6F 6F 74 40
+12319637520 41 6E 64 72 6F 52
+12319637536 6E 33 20 61 6E 64
+12319637552 2D 73 68 65 6C 6¢
+12319637568 30 20 2D 70 20 38
+Interpreter: />-takepic-1
+[INFO] -Taking- Image
+[SUCCESS] -Succesfully - Saved -in-/root/AndroRAT/Dumps/Image_20250410-140622.jpg
+Interpreter: />-getMACAddress +
+[ERROR] Unknown» Command +

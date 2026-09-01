@@ -1,0 +1,28 @@
+# OCR: 61ce485620f932cb1e5c5ea7b960ee5d.webp
+# 来源: .\02-WriteUp\2025\61ce485620f932cb1e5c5ea7b960ee5d.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:28
+
+har *_fastcall encrypt(char *s)
+ntea vi; // p
+unsigned int a // ebx
+_intsa Aeskey3/// 怡
+Tintsa vas // vax
+Int v53 // ebx
+unsigned int ve // ebx
+_int64 i 0 *ax
+w // rbp
+y // vax
+vies // r
+ntea vats // cbp
+Fize_t *vi23 / rox
+size t i // r13
+void a / r
+int vi63 // [esp+oh] [rbp-434h] BYR
+size_t h // [rsp+4h] [rop-a30h] BYRE
+_BYTE vi8[1064]; // [rsp+ch] [rbp-428h] BYREF
+if ( t )
+return striupGteyte zet):
+vi = EVP_CIPHER_CTX_new()5
+EvP_EncryptInit_ex(vi, v4, @LL, Aeskey, 8AES_IV);
+EvP_EncryptUpdate(vi, vis, a 5, v2)3

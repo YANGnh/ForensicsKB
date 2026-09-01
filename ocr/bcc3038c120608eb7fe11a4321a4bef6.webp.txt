@@ -1,0 +1,17 @@
+# OCR: bcc3038c120608eb7fe11a4321a4bef6.webp
+# 来源: .\01-取证技巧\02-网络取证\bcc3038c120608eb7fe11a4321a4bef6.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:10
+
+GET /ca HTTP/1.1
+Accept: */*
+Cookie: fzNFt/HiDaRFScnOwn2g5NB9q138fgylvodyANERT4RiGREeZVWQK174R1Y+dE98/nm28esITISLPxxrQlo1gtxs /yyVeuuYqm6PfWbPOOPx3CtmUyHz@WQEs+Sk2sw3vAEX/jZOcrqgUnRad
+53BVdHf+a8Y69+KS++c+XVSNU=
+User-Agent: Mozilla/5.@ (compatible; MSIE 9.8; Windows NT 6.1; WOW64; Trident/5.8; BOIE9;ENUS)
+Host: 192.168.27.132:12588
+Connection: Keep-Alive
+Cache-Control: no-cache
+HTTP/1.1 200 OK
+Date: Mon, 13 Jan 2025 07:28:16 GMT
+Content-Type: application/octet-stream
+Content-Length: @

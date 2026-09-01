@@ -1,0 +1,18 @@
+# OCR: c89bf173c69cb12e4a04c71b898704e2.webp
+# 来源: .\02-WriteUp\2025\c89bf173c69cb12e4a04c71b898704e2.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+12974 <key>CFBundlepackageType</key>
+12975 <string>APPL</string>
+12976 <key>UILaunchStoryboardName</key>
+12977 <string>LaunchScreen</string>
+12978 <key>DTXcode</key>
+12979 <string>1610</string>
+12980 <key>GroupContainers</key>
+12981 <dict>
+12982
+12983 <string>/pr: SHES le/Containers/Shared/AppGroup/
+D568C801-79BD-45@A -AC81-5B51F963BE57</string>
+12984 </dict>
+199085 4 F

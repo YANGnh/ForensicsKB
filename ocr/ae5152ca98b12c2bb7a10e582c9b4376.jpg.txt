@@ -1,0 +1,92 @@
+# OCR: ae5152ca98b12c2bb7a10e582c9b4376.jpg
+# 来源: .\02-WriteUp\2024\ae5152ca98b12c2bb7a10e582c9b4376.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:38
+
+$i s
+[root@localhost data]# docker ps
+CONTAINER ID IMAGE
+NAMES
+85c6F203baSb corenttntMtt-tools:latest
+p, :::8080->80/tcp tt-tools
+528698e5328a loutstan/upttne-_kuna:l
+tcp, =::3081->3681/tcp _uptime-kuma
+41945cbed027 soutteary/flare
+p =::80->5005/tcp flare-flare-1
+a42dfbe981e3 “prephet318/altst-encrypt:beta
+tcp, :::5344->5344/tcp _alist-encrypt
+COMMAND CREATED STATUS PORTS
+*/docker-entrypoint.." 2 weeks ago Up 25 minutes 96.6.8.8-8888->88/tc
+"Jusr/bin/dumb-init "2 weeks ago Up 25 minutes (healthy) @.0.0.0:3001->3001/
+"flare --nologin=6" 2 weeks ago Up 25 minutes @.0.0.6:80->5005/tc
+“node index. js" 2 weeks ago Up 14 minutes 0.0.0.0:5344->5344/
+[root@locathost data]# docker exec -it b2 /bin/bash
+root@b28698e5320a- /app# |<
+config data db dist docker
+root@b28698e5320a: /app# c4 data/
+root@b28698e5320a- /app/datat
+docker-tls kuma.db kuma.db-shn kuma.db-wal
+root@b28698e5320a:/app/data# <i __/
+root@b28698e5320a-/app# cd db/
+root@b28698e5320a-: /app/db# 1
+kuna. db
+patch-2fa-tnvaltdate-used-token.sql
+patch-2fa.sql
+patch-add-certiftcate-exptry-status-page-sql
+patch-add-clickable-status-page-link. sql
+patch-add-description-monitor sql
+patch-add-docker-colunns..sql
+patch-add-gamedig-given-portsql
+patch-add-gamedig-ronttor sql
+patch-add-google-analytics-status-page-tag-sql
+patch-add-tnvert-keyword. sql
+patch-add-other-auth sql
+patch-add-parent-monitor sql
+patch-add-radius-monitor sql
+patch-add-retry-tnterval-monttor_sql
+patch-add-sqlserver-monitor.sql
+patch-add-timeout-monitor sql
+patch-added-json-query sql
+patch-added-kafka-producer .sql
+patch-added-mqtt-monitor.sql
+patch-api-key-table.sql
+patch-ftx-kafka-producer-booleans. sql
+patch-group-table.sql
+patch-grpc-monitor sql
+patch-http-body-encoding.sqt
+patch-http-nonitor-method-body-and-headers sql
+patch-improve-performance.sql
+patch-tncident-table.sql
+root@b28698e5320a- /app/db#
+extra
+‘index.html node_modules package-lock.json package.json public
+screenshots
+server src
+upload
+patch-matntenance-cron. sql
+patch-maintenance-table2sql
+patch-monitor-add-resend-interval.sql
+patch-monitor-basic-auth.sql
+patch-monttor-exptry-nottftcatton. sql
+patch-monitor-oauth-cc.sql
+patch-monitor-push_token. sql
+patch-monttor-tls-info-add-fk.sql
+patch-monitor-tls.sql
+patch-nottftcatton-conftg.sqt
+patch-nettftcatton_sent_htstory.sqt
+patch-ptng-packet-size.sql
+patch-proxy.sql
+patch-setting-value-type.sql
+patch-status-page-foeter-css.sqt
+patch-status-page.sql
+patch-tineout.sql
+patch1_sql
+patch10.sql
+patch2.sql
+patch3.sql
+patch4.sql
+patch5.sqt
+patche.sql
+patch7.sql
+patche.sqt
+patch9. sql

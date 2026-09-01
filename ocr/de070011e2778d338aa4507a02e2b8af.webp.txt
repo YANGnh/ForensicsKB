@@ -1,0 +1,13 @@
+# OCR: de070011e2778d338aa4507a02e2b8af.webp
+# 来源: .\02-WriteUp\2025\de070011e2778d338aa4507a02e2b8af.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:39
+
+BS GA2025 tS BAERS export\Resources\lib\python38.zip\
+Be
+B random.pyc
+B tunctools.pyc
+B gettextpyc
+B fiplib.pyc
+B ssipyc
+complepyc

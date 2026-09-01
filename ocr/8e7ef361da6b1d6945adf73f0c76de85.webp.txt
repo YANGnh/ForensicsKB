@@ -1,0 +1,22 @@
+# OCR: 8e7ef361da6b1d6945adf73f0c76de85.webp
+# 来源: .\02-WriteUp\2025\8e7ef361da6b1d6945adf73f0c76de85.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+error disk nduuid/a 82£12978a6354a4c3bca8526" not found.
+grub rescue> Is
+(hd0)_(hd0,gpt2)_(hd0,gpt)_(cd0)
+grub rescue> Is T
+(hd0,gpt2) ; Filesystem is ext2.
+grub rescue> Is 0M6
+error: disk “ not found.
+grub rescue> Is (hd0)
+Unknown command “Is (hd0)’ .
+grub rescue> Is (hd0)
+(hd®) : Filesystem is unknown.
+grub rescue> Is (hd, gpt1) /boot/grub
+error: unknown filesusten.
+grub rescue> 1s (hd0, gpt2) /boot/grub
+A . thenes/ unicode.pf2 x8664-efi/ locale/ fonts/ grubenu grub.cfy
+grub rescue> set root=(hd0, gpt2)
+grub rescue> set_prefix= (hd0, gpt2) /boot/grub

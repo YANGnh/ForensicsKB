@@ -1,0 +1,29 @@
+# OCR: fa62a2bc18e50353217f85652d0ea5b5.jpg
+# 来源: .\02-WriteUp\2024\fa62a2bc18e50353217f85652d0ea5b5.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+罚 deplp X
+‘Application > Common > Cont > 9 db.php
+1 <?php
+/*#lag{uu7hPbw7dkTd1w8BFxsASLREVNGdOX}
+I
+/
+"DB_TYPE’ => ‘mysql’, / 招 埚
+2
+3
+4
+5
+5 return array(
+7
+8 “D8_MosT「 => 127.8.6.1 ,// 跋 探 庞 主 机
+9
+"DB_NAME’ => *2828°, //HRE RE
+16 "DB_USER’ => root //MRERPS
+0 "DB_PWD’ => ‘root’, / 肖 招
+12 "DB_PORT’ => 3366 ,// 路 招 庞 口
+13 "DB_PREFIX" => ‘think’, //SE E812
+14 "DB_CHARSET’=> ‘utf8", // 字 朐 瘦
+15 *DB_DEBUG* 1 // 助 招 应 浩 设 倩 吊 开 所 后 z 录50 日 志
+25 3
+7

@@ -1,0 +1,13 @@
+# OCR: 1aa4058973e6486254e7ed5693f0a00c.jpg
+# 来源: .\02-WriteUp\2024\1aa4058973e6486254e7ed5693f0a00c.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:24
+
+E
+E
+Source zone
+E
+E
+E
+E
+unoioesocngoece

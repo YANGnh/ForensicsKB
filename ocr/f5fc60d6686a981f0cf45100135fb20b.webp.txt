@@ -1,0 +1,7 @@
+# OCR: f5fc60d6686a981f0cf45100135fb20b.webp
+# 来源: .\02-WriteUp\2024\f5fc60d6686a981f0cf45100135fb20b.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:20
+
+FAS BBE ks "BB 20
+) 用 P 出 172.3016. 19th) B20

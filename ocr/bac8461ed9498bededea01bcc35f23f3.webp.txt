@@ -1,0 +1,35 @@
+# OCR: bac8461ed9498bededea01bcc35f23f3.webp
+# 来源: .\02-WriteUp\2024\bac8461ed9498bededea01bcc35f23f3.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:18
+
+[rooteyourcode -]# cat /root/bak.py
+#1 Jusr /bin/python
+import os
+import time
+import datetime
+import pipes
+import sys
+if len(sys.argv) < 2:
+print("Usage: python test.py 'password'")
+sys-extt()
+db_host = ,locathost「
+db_user = 'yourcode_xyz'
+db_user_password = ‘yTmeRFKFtLxymj8n'
+db_name = 'yourcode_xyz"
+backup_path = '/www/backup/database'
+now = datetime.datetime_now()
+time_stamp = now.strftime( 'SY%m¥dKHKMKS' )
+backup_folder = backup_path + '/* + time_stamp
+try:
+os.stat(backup_folder)
+excep
+os -mkdir(backup_folder)
+dumpcnd = "mysqldump -h " + db_host +" -u "+ db_user +" -p" + db_user_password +" " + db_name + " >" + pipes.quote(
+backup_folder) + "/" + db_name + ".sql"
+os. systen(dunpcnd)
+time_sleep(19)
+os .chdir (pipes .quote(backup_folder))
+zipend = "zip -q -m -r -P + sys.argv[1]-strip() + " " + db_name + "zip " + db_name + ".sql"
+os.system(zipcmd)
+[root@yourcode ~]#

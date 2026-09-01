@@ -1,0 +1,27 @@
+# OCR: f909c5bd71627b2bf7aebab14724bc2e.jpg
+# 来源: .\02-WriteUp\2024\f909c5bd71627b2bf7aebab14724bc2e.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:47
+
+Mnemonic
+‘Mnemonic Language
+BIP39 Mnemonic
+BIPS9 Passphrase
+(optional)
+BIP39 Seed
+Coin
+BIP32 Root Key
+Mnemonic Code Converter
+You can enter an existing BIP39 mnemonic, or generate a new random one. Typing your own twelve words will probably not work how you expect, since
+the words require a particular structure (the last word is a checksum),
+For more info see the BIP39 spec.
+Generate a random mnemonic, or enter your own below. Generate ,15 v words.
+© Show entropy details
+CO Hie alt private into
+English E488 Espafiol e3<(GCK) FEZCHEB) Francais Iaieno tO}
+stock avocado grab clay light sadness segment ancient toe talk elder oll
+(003999cdefdc2adefe8378b379paS06dd506848ea 1 d6e8c7.A23 18alscSea2bb7abscSeS4c1edBel 165 tfeeSe04a 113c57c7515053aa 1400915860948
+2abadd
+a
+ETH - Ethereum w
+xprv9s21ZrQH 143K2NIICVTAZJ5EXxPKDO}xNdyNGWdlyMWZ2XUm2cxCRaTchXQTPfSgUHEAK3V672KCV6V.J1w5qY XzWwUIRNZWUzgaZ7s7JHy

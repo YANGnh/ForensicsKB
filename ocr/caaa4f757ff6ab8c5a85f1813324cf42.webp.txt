@@ -1,0 +1,21 @@
+# OCR: caaa4f757ff6ab8c5a85f1813324cf42.webp
+# 来源: .\02-WriteUp\2025\caaa4f757ff6ab8c5a85f1813324cf42.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:37
+
+clo 巳 1 @php
+2 define(‘DB_TYPE', ‘mysql');
+3 define("DB_HOST", e
+1 download 4 define(*DB_USER', ‘www_dkewl_com");
+、 5 define(*DB_PND', n e _ceaJi
+mobile 5 define(*DB_NAME', ‘www_dkewl_com");
+7 define(*DB PREFIX", 1
+mp3 8 — define("DB_PORT', *3306");
+pc 3 define(*DB_CHARSET", ‘utfB");
+西 PHPexcel
+Wl UEditor
+国 uploads
+国 wdatepicker
+Ml wheel
+Ml Zxing
+@ docker-confia.cho

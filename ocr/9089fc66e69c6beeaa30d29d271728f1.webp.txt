@@ -1,0 +1,10 @@
+# OCR: 9089fc66e69c6beeaa30d29d271728f1.webp
+# 来源: .\02-WriteUp\2025\9089fc66e69c6beeaa30d29d271728f1.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:32
+
+File Analyse Help E
+ted plane 0
+人 B 国 55% E
+a ea] =
+1 QRCODE AeA 正 f

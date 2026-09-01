@@ -1,0 +1,47 @@
+# OCR: 1785bd86a3c724152e26a1ac53ddd22d.jpg
+# 来源: .\02-WriteUp\2024\1785bd86a3c724152e26a1ac53ddd22d.jpg
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-08-31 15:23
+
+丁 9 aoouawzyu, 国 xxte , gence
+ese
+口 1
+口 2
+口 3
+口 4
+口 5
+口 5
+口 7
+口 8
+口
+O10
+on
+Or
+口
+E
+E
+SiR
+ERS
+BERS
+Android ID
+Te
+Be
+E
+HMAC&it
+IMal
+E
+广 吴 I
+己 E 用 英
+E
+一 R
+史 we
+6d818c2840b29753
+LG8
+LG-H930
+Claraaaaaa
+08:d4:6a:7f1aed
+454000082753084
+Asia/Hong_Kong
+970bS7ce-46c7-4f55-b253-e5d4f30ddc82
+True
+False

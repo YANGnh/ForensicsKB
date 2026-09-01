@@ -1,0 +1,34 @@
+# OCR: 326e6432e870294552236f77d2f5c8b4.webp
+# 来源: .\02-WriteUp\2025\326e6432e870294552236f77d2f5c8b4.webp
+# 引擎: tesseract(chi_sim+eng)
+# 生成: 2026-09-01 22:25
+
+吊 | s i 李 , 团 # 佩 , Bx
+9 产 品 ID
+10 当 前 版 本 号
+口 11 当 前 Build 版 本 号
+12 “ 处 理 躁
+13 内 存
+14 “ 设 备 名 称
+息
+世 英 文 名 称
+过 滑
+TTA Evie
+PRODUCT_KEY
+RELEASE_ID
+OS_PRODUCT_ID
+C_VERSION
+VERSION
+CPU
+MEMORY
+COMPUTER_NAME
+世 值
+vite v
+LUE UU Te Zoziourouou「czn
+NNW6C-2QMPV-WD7KK-K3GKT-6VCFB-V..
+1909
+00328-10000-00001-AA494
+10
+Intel(R) Core(TM) i7-14700KF
+4G
+DESKTOP-SBTC549
