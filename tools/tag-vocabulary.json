@@ -1,0 +1,82 @@
+{
+  "_comment": "取证知识库受控标签词表。由 tools/check-integrity.ps1 做警告级校验：文档里出现未登记标签时会在体检报告中列出。新增标签请登记到对应分组后再使用。",
+  "_updated": "2026-09-10",
+
+  "scenarios": [
+    "服务器取证",
+    "内存取证",
+    "磁盘取证",
+    "手机取证",
+    "网络流量",
+    "数据库取证",
+    "APK分析",
+    "隐写术",
+    "加解密",
+    "云原生",
+    "日志分析",
+    "注册表",
+    "介质分析",
+    "程序功能分析",
+    "恶意程序",
+    "邮件取证",
+    "区块链"
+  ],
+
+  "competitions": [
+    "美亚杯",
+    "数证杯",
+    "FIC",
+    "盘古石杯",
+    "龙信杯",
+    "獬豸杯",
+    "精武杯",
+    "平航杯",
+    "山东联赛",
+    "陕西联赛",
+    "广西职业技能大赛",
+    "能力验证",
+    "国赛",
+    "南宁"
+  ],
+
+  "tools": [
+    "Volatility",
+    "Wireshark",
+    "hashcat",
+    "CyberChef",
+    "WinHex",
+    "X-ways",
+    "FTK Imager",
+    "010Editor",
+    "JADX",
+    "JEB",
+    "BurpSuite",
+    "exiftool",
+    "Foremost",
+    "VeraCrypt",
+    "Passware",
+    "SQLite",
+    "MySQL",
+    "Redis",
+    "Docker",
+    "K8s",
+    "kubectl",
+    "Telegram",
+    "IDA",
+    "blutter",
+    "Frida",
+    "phpMyAdmin",
+    "CobaltStrike",
+    "Laravel"
+  ],
+
+  "techniques": [
+    "webshell",
+    "thinkphp",
+    "SQL注入",
+    "弱口令",
+    "Windows日志",
+    "正则表达式",
+    "培训"
+  ]
+}

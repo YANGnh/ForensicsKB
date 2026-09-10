@@ -24,4 +24,5 @@ __pycache__/
 
 # --- 可再生瞬时文件（脚本每次运行重新生成）---
 _reports/integrity-report.txt
+_reports/frontmatter-backup-*.txt
 ocr/_pending.txt

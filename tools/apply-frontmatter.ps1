@@ -9,7 +9,8 @@
 param(
     [string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path,
     [switch]$Force,
-    [switch]$NoAutoTags
+    [switch]$NoAutoTags,
+    [switch]$DryRun
 )
 $ErrorActionPreference = 'Stop'
 $utf8 = [System.Text.UTF8Encoding]::new($false)
@@ -32,6 +33,26 @@ function Remove-ExistingFrontmatter([string]$content) {
         }
     }
     return $content
+}
+
+# 取出文档顶部已有的 frontmatter 原文块（含首尾 ---），无则返回空串
+function Get-FrontmatterBlock([string]$content) {
+    $lines = $content -split "`r?`n"
+    if ($lines.Count -lt 2 -or $lines[0].Trim() -ne '---') { return '' }
+    for ($i = 1; $i -lt $lines.Count; $i++) {
+        if ($lines[$i].Trim() -eq '---') { return (($lines[0..$i]) -join "`r`n") }
+    }
+    return ''
+}
+
+# 解析 frontmatter 块为 字段->值 表
+function Get-FrontmatterFields([string]$block) {
+    $f = @{}
+    foreach ($ln in ($block -split "`r?`n")) {
+        $m = [regex]::Match($ln, '^([A-Za-z_]+):\s*(.*)$')
+        if ($m.Success) { $f[$m.Groups[1].Value] = $m.Groups[2].Value.Trim().Trim('"') }
+    }
+    return $f
 }
 
 # 自动标签关键词表：关键词 -> 标签
@@ -87,12 +108,47 @@ function Get-YamlScalar([string]$v) {
 }
 
 $log = [System.Collections.Generic.List[string]]::new()
+$drift = [System.Collections.Generic.List[string]]::new()
+$backup = [System.Collections.Generic.List[string]]::new()
 $updated = 0
+
+# -Force 会整体重写 frontmatter，覆盖前把旧内容全量备份到 _reports/（可回滚）
+$reportsDir = Join-Path $Root '_reports'
+New-Item -ItemType Directory -Path $reportsDir -Force | Out-Null
+$backupPath = Join-Path $reportsDir ("frontmatter-backup-{0}.txt" -f (Get-Date -Format 'yyyyMMdd-HHmmss'))
 
 foreach ($doc in $docs) {
     $path = Join-Path $Root $doc.file
     if (-not (Test-Path -LiteralPath $path)) { $log.Add("跳过(不存在): $($doc.file)"); continue }
     $content = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
+
+    # ---- 覆盖前取证：备份旧 frontmatter + 检测手工改动漂移（避免静默回滚）----
+    $oldFm = Get-FrontmatterBlock $content
+    if ($oldFm -and $Force) {
+        $backup.Add("===== $($doc.file) =====")
+        $backup.Add($oldFm)
+        $backup.Add('')
+        $old = Get-FrontmatterFields $oldFm
+        foreach ($k in @('title', 'status', 'summary')) {
+            $newVal = [string]$doc.$k
+            # 还原 YAML 转义（\" → "）后再比较，避免把转义差异误报为漂移
+            $curVal = ([string]$old[$k]) -replace '\\"', '"'
+            if ($old.ContainsKey($k) -and $curVal -ne $newVal -and $newVal -ne '') {
+                $drift.Add("$($doc.file)  [$k] 文档现值=「$curVal」将被 JSON 值=「$newVal」覆盖")
+            }
+        }
+        $oldTags = @()
+        if ($old['tags']) {
+            # 与 build-index.ps1 一致：按逗号切分，保留含空格的多词标签
+            $oldTags = @($old['tags'].Trim().Trim('[', ']') -split ',' | ForEach-Object { $_.Trim() } | Where-Object { $_ -ne '' })
+        }
+        $jsonTags = @($doc.tags)
+        $onlyInDoc = @($oldTags | Where-Object { $jsonTags -notcontains $_ })
+        if ($onlyInDoc.Count -gt 0) {
+            $drift.Add("$($doc.file)  [tags] 仅存在于文档、将被丢弃: " + ($onlyInDoc -join ', '))
+        }
+    }
+
     if ($Force) { $content = Remove-ExistingFrontmatter $content }
     if ($content.TrimStart().StartsWith('---')) { $log.Add("跳过(已有frontmatter): $($doc.file)"); continue }
 
@@ -109,7 +165,11 @@ foreach ($doc in $docs) {
         }
     }
     if ($doc.competition -and $doc.competition -ne '未知' -and -not $tags.Contains($doc.competition)) { $tags.Insert(0, $doc.competition) }
-    $tagStr = '[' + (($tags | Select-Object -First 10) -join ', ') + ']'
+    # 不再静默截断为 10 个：全部写入，超阈值仅告警，便于发现标签膨胀
+    if ($tags.Count -gt 12) {
+        $log.Add("警告(标签 $($tags.Count) 个偏多，建议归并): $($doc.file)")
+    }
+    $tagStr = '[' + ($tags -join ', ') + ']'
 
     # ---- 摘要：JSON 精修字段优先，否则自动草稿（跳过代码块内容） ----
     $summary = $doc.summary
@@ -131,7 +191,7 @@ foreach ($doc in $docs) {
         if (-not $summary) { $summary = $doc.title }
     }
 
-    $fm = @(
+    $fmLines = @(
         '---'
         ('title: ' + (Get-YamlScalar $doc.title))
         ('type: ' + $doc.type)
@@ -149,12 +209,43 @@ foreach ($doc in $docs) {
         ('summary: ' + (Get-YamlScalar $summary))
         '---'
         ''
-    ) -join "`r`n"
+    )
 
-    [System.IO.File]::WriteAllText($path, $fm + $content, $utf8)
-    $log.Add("已生成: $($doc.file) [图片$imgCount 标签$($tags.Count)]")
+    # 除 updated 外完全一致时保留原 updated 日期，避免每次重跑都刷日期
+    $updatedVal = $today
+    if ($oldFm) {
+        $cmpNew = (($fmLines | Where-Object { $_ -notmatch '^updated:' -and $_.Trim() -ne '' }) -join "`n")
+        $cmpOld = ((($oldFm -split "`r?`n") | Where-Object { $_ -notmatch '^updated:' -and $_.Trim() -ne '' }) -join "`n")
+        $oldUpd = (Get-FrontmatterFields $oldFm)['updated']
+        if ($cmpNew -eq $cmpOld -and $oldUpd) { $updatedVal = $oldUpd }
+    }
+    $fm = (($fmLines | ForEach-Object { if ($_ -match '^updated:') { 'updated: ' + $updatedVal } else { $_ } }) -join "`r`n")
+
+    if ($DryRun) {
+        $log.Add("预览(未写入): $($doc.file) [图片$imgCount 标签$($tags.Count) updated=$updatedVal]")
+    } else {
+        [System.IO.File]::WriteAllText($path, $fm + $content, $utf8)
+        $log.Add("已生成: $($doc.file) [图片$imgCount 标签$($tags.Count) updated=$updatedVal]")
+    }
     $updated++
 }
 
-Write-Host "=== P2 完成：更新 $updated 篇 ==="
+if ($backup.Count -gt 0 -and -not $DryRun) {
+    [System.IO.File]::WriteAllLines($backupPath, $backup, $utf8)
+}
+
+Write-Host "=== P2 完成：处理 $updated 篇$(if ($DryRun) { '（DryRun，未写盘）' }) ==="
 $log | ForEach-Object { Write-Host "  $_" }
+
+if ($drift.Count -gt 0) {
+    Write-Host ""
+    $act = '已按 JSON 覆盖'
+    if ($DryRun) { $act = 'DryRun 未写盘，仅预览' }
+    Write-Host "⚠ 检测到 $($drift.Count) 处文档与 frontmatter-data.json 不一致（$act）：" -ForegroundColor Yellow
+    $drift | ForEach-Object { Write-Host "  $_" -ForegroundColor Yellow }
+    Write-Host "  若这些是手工精修内容，请回填到 tools/frontmatter-data.json，或从下方备份恢复。" -ForegroundColor Yellow
+}
+if ($backup.Count -gt 0 -and -not $DryRun) {
+    Write-Host ""
+    Write-Host "旧 frontmatter 已备份：$($backupPath.Replace($Root, '.'))" -ForegroundColor Cyan
+}

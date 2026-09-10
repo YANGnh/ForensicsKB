@@ -50,6 +50,31 @@ $imgExts = @('.png', '.jpg', '.jpeg', '.webp')
 $allImgs = Get-ChildItem $Root -Recurse -File | Where-Object { $_.Extension -in $imgExts -and $_.FullName -notlike "$ocrDir*" }
 $orphans = $allImgs | Where-Object { -not $referenced.ContainsKey($_.Name) }
 
+# ---- 受控词表校验（警告级，不阻断）----
+# 词表见 tools/tag-vocabulary.json；未登记的标签只报告，便于归并或补登记
+$vocabPath = Join-Path $PSScriptRoot 'tag-vocabulary.json'
+$offVocab = [ordered]@{}
+if (Test-Path -LiteralPath $vocabPath) {
+    $vocab = [System.IO.File]::ReadAllText($vocabPath, [System.Text.Encoding]::UTF8) | ConvertFrom-Json
+    $allowed = @{}
+    foreach ($grp in @('scenarios', 'competitions', 'tools', 'techniques')) {
+        foreach ($v in $vocab.$grp) { if ($v) { $allowed[[string]$v] = $true } }
+    }
+    foreach ($f in $mds) {
+        $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
+        $m = [regex]::Match($text, '(?m)^tags:\s*(.+)$')
+        if (-not $m.Success) { continue }
+        $raw = $m.Groups[1].Value.Trim().Trim('"').Trim('[', ']')
+        # 与 build-index.ps1 一致：按逗号切分，保留含空格的多词标签
+        foreach ($t in ($raw -split ',')) {
+            $t = $t.Trim()
+            if ($t -and -not $allowed.ContainsKey($t)) {
+                if ($offVocab.Contains($t)) { $offVocab[$t] = $offVocab[$t] + 1 } else { $offVocab[$t] = 1 }
+            }
+        }
+    }
+}
+
 $summary = @(
     "=== 取证知识库体检报告 $(Get-Date -Format 'yyyy-MM-dd HH:mm') ==="
     "文档数: $($mds.Count)"
@@ -59,9 +84,13 @@ $summary = @(
     "疑似乱码: $moji"
     "缺OCR(引用图无ocr文本): $noOcr"
     "孤儿图片: $($orphans.Count)"
+    "非受控标签(警告): $($offVocab.Keys.Count)"
     ""
 )
 foreach ($o in $orphans) { $report.Add("孤儿图片: $($o.FullName.Replace($Root,'.'))") }
+foreach ($k in $offVocab.Keys) {
+    $report.Add("非受控标签: $k（$($offVocab[$k]) 篇）—— 请归并到既有标签，或登记到 tools/tag-vocabulary.json")
+}
 $all = $summary + $report
 [System.IO.File]::WriteAllLines((Join-Path $reportDir 'integrity-report.txt'), $all, $utf8)
 $all | ForEach-Object { Write-Host $_ }

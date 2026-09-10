@@ -41,7 +41,8 @@ foreach ($doc in $data.docs) {
 
     $tags = @()
     if ($fm['tags']) {
-        $tags = [regex]::Matches($fm['tags'], '[\w\u4e00-\u9fff\-\.]+') | ForEach-Object { $_.Value } | Where-Object { $_ -notmatch '^\[|\]$' }
+        # 按逗号切分（标签内允许含空格，如 "FTK Imager"）；此前按空白分词会把多词标签拆散
+        $tags = @($fm['tags'].Trim().Trim('[', ']') -split ',' | ForEach-Object { $_.Trim() } | Where-Object { $_ -ne '' })
     }
     $docs.Add([pscustomobject]@{
         path = $doc.file
@@ -65,7 +66,10 @@ foreach ($doc in $data.docs) {
 }
 
 # ---- index.json ----
+# 注意：JSON 标准不支持注释行。生成说明写入 _comment 字段，
+# 以保证 index.json 可被 python/jq/各语言标准 JSON 解析器直接读取（此前以 '# ' 行前置会导致解析失败）。
 $json = [ordered]@{
+    _comment = '本文件由 tools/build-index.ps1 自动生成，禁止手改'
     generated_at = (Get-Date -Format 'yyyy-MM-ddTHH:mm:ssK')
     kb_name = '取证知识库'
     kb_root = '取证知识库/'
@@ -73,7 +77,6 @@ $json = [ordered]@{
     readme = 'README.md'
     docs = $docs
 } | ConvertTo-Json -Depth 6
-$json = '# 本文件由 tools/build-index.ps1 生成，禁止手改' + "`r`n" + $json
 [System.IO.File]::WriteAllText((Join-Path $Root 'index.json'), $json, $utf8)
 
 # ---- INDEX.md ----
@@ -89,10 +92,77 @@ $md = @(
     ''
     "> 由 tools/build-index.ps1 自动生成（$(Get-Date -Format 'yyyy-MM-dd HH:mm')），机器可读版本见 index.json，禁止手改。"
     ''
-    "共 $($docs.Count) 篇文档；图片总引用 $(($docs | Measure-Object images -Sum).Sum) 处，OCR 覆盖 $(($docs | Measure-Object ocr_covered -Sum).Sum) 处。"
+    "共 $($docs.Count) 篇文档；图片 $(($docs | Measure-Object images -Sum).Sum) 张（按文档去重），OCR 覆盖 $(($docs | Measure-Object ocr_covered -Sum).Sum) 处。"
     ''
 ) + $rows
 [System.IO.File]::WriteAllText((Join-Path $Root 'INDEX.md'), ($md -join "`r`n"), $utf8)
 
+# ---- 分区 README（随索引一并重建，避免手工维护过期）----
+$stamp = "> 由 tools/build-index.ps1 自动生成（$(Get-Date -Format 'yyyy-MM-dd HH:mm')），禁止手改。"
+
+function Format-Cell([string]$s) {
+    if ([string]::IsNullOrEmpty($s)) { return '' }
+    return ($s -replace '\|', '\|')
+}
+
+# 01-取证技巧/README.md
+$tech = @($docs | Where-Object { $_.path -like '01-*' } | Sort-Object path)
+$topicCounts = [ordered]@{}
+foreach ($d in $tech) {
+    $parts = $d.path -split '/'
+    if ($parts.Count -ge 3) {
+        $k = $parts[1]
+        if ($topicCounts.Contains($k)) { $topicCounts[$k] = $topicCounts[$k] + 1 } else { $topicCounts[$k] = 1 }
+    }
+}
+$t = [System.Collections.Generic.List[string]]::new()
+$t.Add('# 取证技巧 · 方法与工具速查')
+$t.Add('')
+$t.Add($stamp)
+$t.Add('')
+$t.Add("共 $($tech.Count) 篇，按 $($topicCounts.Count) 个主题目录组织。文档内图片为相对路径；截图内容可先查 ocr/ 同名文本（L1 检索层），再决定是否看图（L2 视觉层）。")
+$t.Add('')
+$t.Add('## 主题目录')
+$t.Add('')
+$t.Add('| 目录 | 篇数 |')
+$t.Add('|---|---|')
+foreach ($k in $topicCounts.Keys) { $t.Add("| $k | $($topicCounts[$k]) |") }
+$t.Add('')
+$t.Add('## 全部文档')
+$t.Add('')
+$t.Add('| 文档 | 类型 | 标签 | 图 | 状态 | 摘要 |')
+$t.Add('|---|---|---|---|---|---|')
+foreach ($d in $tech) {
+    $rel = $d.path -replace '^01-取证技巧/', ''
+    $tagStr = (($d.tags | Select-Object -First 5) -join ' ')
+    $t.Add("| [$rel]($rel) | $($d.type) | $tagStr | $($d.images) | $($d.status) | $(Format-Cell $d.summary) |")
+}
+[System.IO.File]::WriteAllText((Join-Path $Root '01-取证技巧\README.md'), ($t -join "`r`n"), $utf8)
+
+# 02-WriteUp/README.md
+$wu = @($docs | Where-Object { $_.path -like '02-*' })
+$years = @($wu | ForEach-Object { $_.year } | Sort-Object -Unique -Descending)
+$comps = @($wu | ForEach-Object { $_.competition } | Where-Object { $_ -and $_ -ne '未知' } | Sort-Object -Unique)
+$w = [System.Collections.Generic.List[string]]::new()
+$w.Add('# 比赛复盘总索引')
+$w.Add('')
+$w.Add($stamp)
+$w.Add('')
+$w.Add("共 $($wu.Count) 篇复盘，覆盖 $($years.Count) 个年份、$($comps.Count) 项赛事。正文结构为「题目 → 答案 → 思路/命令 → 截图」；答案以正文答案行为准，截图仅作证据与佐证。")
+$w.Add('')
+foreach ($y in $years) {
+    $inYear = @($wu | Where-Object { $_.year -eq $y } | Sort-Object competition, stage, path)
+    $w.Add("## $y（$($inYear.Count) 篇）")
+    $w.Add('')
+    $w.Add('| 比赛 | 阶段 | 标题 | 图 | 状态 | 文档 |')
+    $w.Add('|---|---|---|---|---|---|')
+    foreach ($d in $inYear) {
+        $rel = $d.path -replace '^02-WriteUp/', ''
+        $w.Add("| $($d.competition) | $($d.stage) | $(Format-Cell $d.title) | $($d.images) | $($d.status) | [$rel]($rel) |")
+    }
+    $w.Add('')
+}
+[System.IO.File]::WriteAllText((Join-Path $Root '02-WriteUp\README.md'), ($w -join "`r`n"), $utf8)
+
 Write-Host "=== P5 完成：$($docs.Count) 篇索引已生成 ==="
-Write-Host "  INDEX.md / index.json"
+Write-Host "  INDEX.md / index.json / 01-取证技巧/README.md / 02-WriteUp/README.md"
