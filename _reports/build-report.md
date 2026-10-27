@@ -50,7 +50,7 @@
 ## 五、遗留事项（需你参与）
 
 1. ~~**批量 OCR（3,282 张）**~~ ✅ **已完成（2026-08-31）**：tesseract v5.5.3（chi_sim+eng）从注册表 PATH 自动发现（`D:\Programs\Tesseract-OCR`）；3,286 张全部生成 OCR 文本（3,190 含文本 + 95 张"无文本"标记——照片/纯图/空白截图，tesseract 识别不到文字属正常）。注：95 张无文本图如需确认内容，可视觉抽查。
-2. **`2024-国赛-复盘.md`**：用户已决定**从知识库排除**（正文有损乱码，2026-08-31）；原始文件保留在 `取证笔记/WriteUp/2024WP/`，重录后可通过 `tools/new-writeup.ps1` 重新纳入。
+2. **`2024-国赛-复盘.md`**：用户已决定**从资料库排除**（正文有损乱码，2026-08-31）；原始文件保留在 `取证笔记/WriteUp/2024WP/`，重录后可通过 `tools/new-writeup.ps1` 重新纳入。
 3. **元数据精修**：frontmatter 的 summary 为自动草稿、tags 为关键词检测结果，建议按需精修（改 `tools/frontmatter-data.json` 后 `apply-frontmatter.ps1 -Force` 重生成）。
 4. **关键截图 caption/kind 标注**（设计方案 §7.2 L3/④）：对 evidence 图补一行说明与分级，属后续增强（tesseract 检索已就绪，此层是可选的精度增强）。
 5. **版本管理**：建议 `git init` + Git LFS（图片）或图片外置同步；md/json/ocr 文本务必入库。

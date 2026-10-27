@@ -1,7 +1,7 @@
 ﻿# ============================================================
 # 取证资料库：PNG → WebP 批量压缩工具（方案 A）
 # - 遍历全部 .png（排除 ocr/），ffmpeg libwebp 转 q90
-# - 新文件按内容 MD5 哈希命名（hash.webp），与知识库命名模型一致（自动去重）
+# - 新文件按内容 MD5 哈希命名（hash.webp），与资料库命名模型一致（自动去重）
 # - 生成映射表 tools/image-map-png2webp.json（供 md 引用改写）
 # - 转换失败的 PNG 保留原样（不进映射表）
 # 用法：pwsh -File tools/compress-png2webp.ps1 -Root <根目录> [-Quality 90]
