@@ -1,10 +1,10 @@
 ﻿# ============================================================
-# 取证知识库 P2：为 54 篇文档生成 YAML Frontmatter
+# 取证资料库 P2：为 54 篇文档生成 YAML Frontmatter
 # 读取 tools/frontmatter-data.json（单一事实源），自动：
 #   - 检测工具/场景标签（关键词扫描）
 #   - 统计图片引用数
 #   - 从正文首段生成摘要草稿
-# 用法：pwsh -File tools/apply-frontmatter.ps1 -Root <取证知识库根目录>
+# 用法：pwsh -File tools/apply-frontmatter.ps1 -Root <取证资料库根目录>
 # ============================================================
 param(
     [string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path,

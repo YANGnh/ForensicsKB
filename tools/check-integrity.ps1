@@ -1,8 +1,8 @@
 ﻿# ============================================================
-# 取证知识库：例行体检
+# 取证资料库：例行体检
 # 报告：图片断链 / 缺 frontmatter / 缺 H1 / 疑似乱码 / 缺 OCR / 孤儿图片
 # 输出：_reports/integrity-report.txt
-# 用法：pwsh -File tools/check-integrity.ps1 -Root <取证知识库根目录>
+# 用法：pwsh -File tools/check-integrity.ps1 -Root <取证资料库根目录>
 # ============================================================
 param([string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path)
 $ErrorActionPreference = 'Stop'
@@ -13,7 +13,12 @@ $ocrDir = Join-Path $Root 'ocr'
 $reportDir = Join-Path $Root '_reports'
 New-Item -ItemType Directory -Path $reportDir -Force | Out-Null
 
-$mds = Get-ChildItem $Root -Recurse -File -Filter *.md | Where-Object { $_.FullName -notmatch '\\templates\\|\\_reports\\' -and $_.Name -notin @('README.md', 'INDEX.md', '设计方案.md') }
+# 排除非语料文件：分区 README、根 INDEX、以及设计方案文档（后者含示例图片语法，不应计入断链）
+$mds = Get-ChildItem $Root -Recurse -File -Filter *.md | Where-Object {
+    $_.FullName -notmatch '\\templates\\|\\_reports\\' -and
+    $_.Name -notmatch '^(README|INDEX)\.md$' -and
+    $_.Name -notmatch '设计方案'
+}
 $broken = 0; $noFm = 0; $noH1 = 0; $moji = 0; $noOcr = 0
 $referenced = @{}
 
@@ -76,7 +81,7 @@ if (Test-Path -LiteralPath $vocabPath) {
 }
 
 $summary = @(
-    "=== 取证知识库体检报告 $(Get-Date -Format 'yyyy-MM-dd HH:mm') ==="
+    "=== 取证资料库体检报告 $(Get-Date -Format 'yyyy-MM-dd HH:mm') ==="
     "文档数: $($mds.Count)"
     "图片断链: $broken"
     "缺frontmatter: $noFm"

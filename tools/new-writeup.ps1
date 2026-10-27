@@ -1,5 +1,5 @@
 ﻿# ============================================================
-# 取证知识库：新建比赛复盘
+# 取证资料库：新建比赛复盘
 # 用法：pwsh -File tools/new-writeup.ps1 -Root <根目录> -Competition 美亚杯 -Year 2026 -Stage 决赛 [-Mode 个人赛]
 # 产出：02-WriteUp/{Year}/{Year}-{Competition}-{Stage}.md（模板 + frontmatter 预填）
 # ============================================================

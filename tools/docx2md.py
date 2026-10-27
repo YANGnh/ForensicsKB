@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-取证知识库转换工具：docx → markdown（纯 Python 标准库，零依赖）
+取证资料库转换工具：docx → markdown（纯 Python 标准库，零依赖）
 - 提取正文文本（含表格转 Markdown 表格）
 - 提取内嵌图片：统一按内容 MD5 哈希命名输出（自动去重），md 中以相对路径引用
 用法: python docx2md.py <input.docx> <output.md> <image_out_dir>

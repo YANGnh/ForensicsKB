@@ -1,7 +1,7 @@
 ﻿# ============================================================
-# 取证知识库 P5：生成 INDEX.md（人读）+ index.json（机器读）
+# 取证资料库 P5：生成 INDEX.md（人读）+ index.json（机器读）
 # 数据源：文档实际 frontmatter（单一事实源 tools/frontmatter-data.json 决定文件清单）
-# 用法：pwsh -File tools/build-index.ps1 -Root <取证知识库根目录>
+# 用法：pwsh -File tools/build-index.ps1 -Root <取证资料库根目录>
 # ============================================================
 param([string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path)
 $ErrorActionPreference = 'Stop'
@@ -71,8 +71,8 @@ foreach ($doc in $data.docs) {
 $json = [ordered]@{
     _comment = '本文件由 tools/build-index.ps1 自动生成，禁止手改'
     generated_at = (Get-Date -Format 'yyyy-MM-ddTHH:mm:ssK')
-    kb_name = '取证知识库'
-    kb_root = '取证知识库/'
+    kb_name = '取证资料库'
+    kb_root = '取证资料库/'
     doc_count = $docs.Count
     readme = 'README.md'
     docs = $docs
@@ -88,7 +88,7 @@ foreach ($d in ($docs | Sort-Object type, path)) {
     $rows.Add("| $($d.path) | $($d.type) | $($d.title) | $($d.competition) | $($d.year) | $($d.stage) | $tagStr | $($d.images) | $($d.ocr_covered) | $($d.status) |")
 }
 $md = @(
-    '# 取证知识库索引'
+    '# 取证资料库索引'
     ''
     "> 由 tools/build-index.ps1 自动生成（$(Get-Date -Format 'yyyy-MM-dd HH:mm')），机器可读版本见 index.json，禁止手改。"
     ''

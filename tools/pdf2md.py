@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-取证知识库转换工具：PDF → markdown（纯 Python 标准库，零依赖）
+取证资料库转换工具：PDF → markdown（纯 Python 标准库，零依赖）
 - 文本型 PDF（Chromium/Word 导出）：提取文本（ToUnicode CMap 映射）+ 内嵌图片
 - 图片统一按内容 MD5 哈希命名输出（自动去重），按内容流顺序插入 md
 - 扫描件/图片型 PDF：文本为空，仅能提取图片（需另行 OCR）

@@ -1,5 +1,5 @@
 {
-  "_说明": "取证知识库元数据单一事实源。apply-frontmatter.ps1 读取本文件生成 YAML；build-index.ps1 也读取本文件。tags 为人工种子，脚本会追加自动检测的工具/场景标签。",
+  "_说明": "取证资料库元数据单一事实源。apply-frontmatter.ps1 读取本文件生成 YAML；build-index.ps1 也读取本文件。tags 为人工种子，脚本会追加自动检测的工具/场景标签。",
   "docs": [
     {
       "file": "02-WriteUp/2024/2024-FIC-决赛.md",

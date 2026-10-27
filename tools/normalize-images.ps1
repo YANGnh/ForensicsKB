@@ -1,10 +1,10 @@
 ﻿# ============================================================
-# 取证知识库 P3：正文规范化
+# 取证资料库 P3：正文规范化
 # 1) <img src="x" ...> → ![](x)（统一图片语法）
 # 2) 断图引用（hash. 缺扩展名 / ../attachments/ 失效路径）→ <!-- 缺失图片: x -->
 # 3) 缺 H1 标题的文件补 # {title}（取自 frontmatter）
 # 4) 清理 <br/> 噪音
-# 用法：pwsh -File tools/normalize-images.ps1 -Root <取证知识库根目录>
+# 用法：pwsh -File tools/normalize-images.ps1 -Root <取证资料库根目录>
 # ============================================================
 param([string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path)
 $ErrorActionPreference = 'Stop'

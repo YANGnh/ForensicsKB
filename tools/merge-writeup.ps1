@@ -1,5 +1,5 @@
 ﻿# ============================================================
-# 取证知识库：多文件 WriteUp 合并工具
+# 取证资料库：多文件 WriteUp 合并工具
 # 把一个比赛阶段的多个来源文件（md / docx转换md / pdf转换md）合并为一篇 KB 文档
 # 用法：
 #   pwsh -File tools/merge-writeup.ps1 -Out <目标md> -SectionPrefix <节标题前缀> -Files @(f1,f2,...)

@@ -1,5 +1,5 @@
 ﻿# ============================================================
-# 取证知识库：应用 PNG→WebP 映射（在 compress-png2webp.ps1 之后运行）
+# 取证资料库：应用 PNG→WebP 映射（在 compress-png2webp.ps1 之后运行）
 # 1) 改写全部 md 中的图片引用：hash.png → hash.webp（按映射表，保留 alt 文本）
 # 2) 删除已转换的旧 PNG（映射表中的名字，任意目录）
 # 3) 清理失效的 OCR 文本（旧 hash.png.txt）
