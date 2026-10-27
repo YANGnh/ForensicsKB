@@ -49,7 +49,8 @@
 
 ## 维护（SOP）
 
-> 脚本按 Windows PowerShell 5.1+ 编写，**不需要 PowerShell 7**（本机未安装 `pwsh`）。下表用 `.\tools\xxx.ps1` 形式，在 PowerShell 中于本目录直接执行即可；若在 cmd / 资源管理器地址栏，请改用 `powershell -File tools\xxx.ps1`。
+> 脚本按 Windows PowerShell 5.1+ 编写，**Windows PowerShell 5.1 与 PowerShell 7 均可运行**（本机现为 PowerShell 7.6.9，`pwsh` 也可用）。下表用 `.\tools\xxx.ps1` 形式，在 PowerShell 中于本目录直接执行即可；若在 cmd / 资源管理器地址栏，请改用 `powershell -File tools\xxx.ps1`。
+> 注：`ConvertTo-Json` 在 5.1 下缩进 4 空格、在 7 下缩进 2 空格，切换 PowerShell 版本重建索引会让 `index.json` 整文件重排（内容不变，JSON 仍合法）。
 
 | 操作 | 命令 |
 |---|---|
