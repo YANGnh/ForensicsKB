@@ -10,7 +10,7 @@ tags: [FIC, 手机取证, 磁盘取证, 服务器取证, 网络流量, 加解密
 images: 144
 status: "参考"
 source: "参考WP"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "《2025 FIC决赛》完整题解：五类检材全流程复盘，含QEMU仿真、VeraCrypt隐藏卷、RAID重组、SO逆向与代码再工程（参考WP）"
 ---

@@ -10,7 +10,7 @@ tags: [APK分析, JADX, blutter, Frida, 手机取证, 加解密]
 images: 0
 status: "完整"
 source: "原创"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "APK/Flutter 逆向技巧集：blutter 分析 Flutter 应用、jadx 反编译、Frida 动态调用/改返回值，及按 Dex 头判断安卓版本"
 ---

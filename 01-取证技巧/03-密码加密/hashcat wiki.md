@@ -10,7 +10,7 @@ tags: [hashcat, 加解密, VeraCrypt, MySQL, Telegram]
 images: 0
 status: "参考"
 source: "转载(整站拷贝)"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "（转载）hashcat 官方 Example hashes 整站速查：哈希模式号与示例，覆盖 VeraCrypt/Telegram/MySQL 等类型"
 ---

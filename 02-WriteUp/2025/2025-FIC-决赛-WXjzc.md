@@ -7,10 +7,10 @@ year: "2025"
 stage: "决赛"
 mode: ""
 tags: [FIC, 手机取证, 磁盘取证, 服务器取证, 数据库取证, 加解密, Docker, APK分析]
-images: 110
+images: 109
 status: "参考"
 source: "参考WP"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "《2025 FIC决赛》题解：手机/加密系统与Kali磁盘、服务器与Docker容器、路由器、APP五类检材，含RAID重组与SO加密分析（参考WP）"
 ---

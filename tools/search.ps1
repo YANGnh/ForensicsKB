@@ -10,7 +10,7 @@
 #
 # 参数：
 #   -Pattern        关键词或正则（非法正则自动降级为纯文本匹配）
-#   -Type           按类型过滤：writeup / technique / reference / training
+#   -Type           按类型过滤：writeup / technique / reference / training / quiz
 #   -Competition    按比赛过滤（模糊匹配）
 #   -Year/-Stage    按年份/阶段过滤（Stage 模糊匹配）
 #   -Tags           按标签过滤（命中任一即可）
@@ -33,9 +33,12 @@ param(
     [switch]$CaseSensitive,
     [switch]$IncludeFrontmatter,
     [int]$Max = 200,
-    [string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
+    [string]$Root = ''
 )
 $ErrorActionPreference = 'Stop'
+
+# Windows PowerShell 5.1 在参数默认值阶段取不到 $PSScriptRoot，这里在脚本体里再解析
+if (-not $Root) { $Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path }
 
 $indexPath = Join-Path $Root 'index.json'
 if (-not (Test-Path -LiteralPath $indexPath)) {
@@ -44,15 +47,25 @@ if (-not (Test-Path -LiteralPath $indexPath)) {
 }
 $idx = [System.IO.File]::ReadAllText($indexPath, [System.Text.Encoding]::UTF8) | ConvertFrom-Json
 
-# ---- 索引新鲜度提示（索引早于任何"被索引文档"时告警，避免漏检）----
-# 只比较 index.json 中登记的语料文档，忽略 README/INDEX/设计方案等非语料文件
+# ---- 索引新鲜度提示（对比全库语料，含尚未入索引的新文档）----
+# 只统计三个语料目录下的 md（排除分区 README），避免把 README/INDEX/设计方案算进来
+$corpusMds = Get-ChildItem $Root -Recurse -File -Filter *.md -ErrorAction SilentlyContinue | Where-Object {
+    if ($_.Name -eq 'README.md') { return $false }
+    $rel = $_.FullName.Substring($Root.Length).TrimStart([char[]]@('\', '/')) -replace '\\', '/'
+    return ($rel -match '^(01-取证技巧|02-WriteUp|03-理论知识)/')
+}
 $indexed = @{}
 foreach ($d in $idx.docs) { $indexed[$d.path] = $true }
-$newest = Get-ChildItem $Root -Recurse -File -Filter *.md -ErrorAction SilentlyContinue |
-    Where-Object {
-        $rel = $_.FullName.Substring($Root.Length).TrimStart('\', '/') -replace '\\', '/'
-        $indexed.ContainsKey($rel)
-    } | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+$unindexed = @()
+foreach ($f in $corpusMds) {
+    $rel = $f.FullName.Substring($Root.Length).TrimStart([char[]]@('\', '/')) -replace '\\', '/'
+    if (-not $indexed.ContainsKey($rel)) { $unindexed += $rel }
+}
+if ($unindexed.Count -gt 0) {
+    Write-Host "[提示] 有 $($unindexed.Count) 篇语料未入索引（检索不到）：$($unindexed -join '、')" -ForegroundColor Yellow
+    Write-Host "       请运行 .\tools\build-index.ps1 重建索引。" -ForegroundColor Yellow
+}
+$newest = $corpusMds | Sort-Object LastWriteTime -Descending | Select-Object -First 1
 if ($newest -and (Get-Item -LiteralPath $indexPath).LastWriteTime -lt $newest.LastWriteTime) {
     Write-Host "[提示] index.json 早于最新文档（$($newest.Name)），可能漏检，建议先运行 .\tools\build-index.ps1" -ForegroundColor Yellow
 }

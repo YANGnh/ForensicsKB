@@ -10,7 +10,7 @@ tags: [K8s, kubectl, 云原生, 服务器取证]
 images: 0
 status: "完整"
 source: "原创"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "K8s 集群取证 kubectl 命令速查：查看 Pod/Service 详情与端口映射"
 ---

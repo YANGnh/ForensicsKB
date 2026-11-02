@@ -10,7 +10,7 @@ tags: [FIC, 手机取证, 磁盘取证, 数据库取证, 加解密, 日志分析
 images: 88
 status: "参考"
 source: "参考WP"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "《2025 FIC初赛》题解：覆盖远程取证录像、手机微信数据库、加密容器、电脑检材、互联网固证与webshell解密分析（参考WP）"
 ---

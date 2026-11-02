@@ -1,6 +1,7 @@
 ﻿# ============================================================
 # 取证资料库 P5：生成 INDEX.md（人读）+ index.json（机器读）
-# 数据源：文档实际 frontmatter（单一事实源 tools/frontmatter-data.json 决定文件清单）
+# 数据源：扫描 01-取证技巧 / 02-WriteUp / 03-理论知识 下的实际 md；frontmatter 提供元数据
+# 说明：tools/frontmatter-data.json 已不再决定文件清单（它只作为 apply-frontmatter.ps1 的输入）
 # 用法：pwsh -File tools/build-index.ps1 -Root <取证资料库根目录>
 # ============================================================
 param([string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path)
@@ -8,7 +9,6 @@ $ErrorActionPreference = 'Stop'
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 
 $ocrDir = Join-Path $Root 'ocr'
-$data = [System.IO.File]::ReadAllText((Join-Path $PSScriptRoot 'frontmatter-data.json'), [System.Text.Encoding]::UTF8) | ConvertFrom-Json
 
 function Get-Frontmatter([string]$path) {
     $text = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
@@ -23,13 +23,25 @@ function Get-Frontmatter([string]$path) {
     return $fm
 }
 
+# ---- 文档清单：扫描语料目录（不再依赖手工清单，避免新增文档被静默漏掉）----
+$corpusDirs = @('01-取证技巧', '02-WriteUp', '03-理论知识')
+$files = [System.Collections.Generic.List[object]]::new()
+foreach ($dir in $corpusDirs) {
+    $full = Join-Path $Root $dir
+    if (-not (Test-Path -LiteralPath $full)) { continue }
+    Get-ChildItem $full -Recurse -File -Filter *.md |
+        Where-Object { $_.Name -ne 'README.md' } |
+        ForEach-Object { [void]$files.Add($_) }
+}
+$files = @($files | Sort-Object FullName)
+
 $docs = [System.Collections.Generic.List[object]]::new()
-foreach ($doc in $data.docs) {
-    $path = Join-Path $Root $doc.file
-    if (-not (Test-Path -LiteralPath $path)) { continue }
-    $fm = Get-Frontmatter $path
-    if (-not $fm) { continue }
-    $text = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
+$missingFm = [System.Collections.Generic.List[string]]::new()
+foreach ($f in $files) {
+    $rel = $f.FullName.Substring($Root.Length).TrimStart([char[]]@('\', '/')) -replace '\\', '/'
+    $fm = Get-Frontmatter $f.FullName
+    if (-not $fm) { $missingFm.Add($rel); continue }
+    $text = [System.IO.File]::ReadAllText($f.FullName, [System.Text.Encoding]::UTF8)
 
     # 图片数与 OCR 覆盖
     $imgRefs = [regex]::Matches($text, '(?:<img[^>]*src="|!\[[^\]]*\]\()([^")]+)') | ForEach-Object { $_.Groups[1].Value.Trim() } | Where-Object { $_ -notmatch '^(https?://|data:|/)' } | Sort-Object -Unique
@@ -45,7 +57,7 @@ foreach ($doc in $data.docs) {
         $tags = @($fm['tags'].Trim().Trim('[', ']') -split ',' | ForEach-Object { $_.Trim() } | Where-Object { $_ -ne '' })
     }
     $docs.Add([pscustomobject]@{
-        path = $doc.file
+        path = $rel
         title = $fm['title']
         type = $fm['type']
         category = $fm['category']
@@ -64,6 +76,13 @@ foreach ($doc in $data.docs) {
         chars = $text.Length
     })
 }
+
+if ($missingFm.Count -gt 0) {
+    Write-Host "以下 $($missingFm.Count) 篇文档缺少 frontmatter，已终止（补全后重跑）：" -ForegroundColor Red
+    foreach ($m in $missingFm) { Write-Host "  - $m" -ForegroundColor Red }
+    throw "缺少 frontmatter，索引未生成"
+}
+if ($docs.Count -eq 0) { throw "未扫描到任何语料文档，请检查 -Root 路径" }
 
 # ---- index.json ----
 # 注意：JSON 标准不支持注释行。生成说明写入 _comment 字段，
@@ -148,7 +167,7 @@ $w.Add('# 比赛复盘总索引')
 $w.Add('')
 $w.Add($stamp)
 $w.Add('')
-$w.Add("共 $($wu.Count) 篇复盘，覆盖 $($years.Count) 个年份、$($comps.Count) 项赛事。正文结构为「题目 → 答案 → 思路/命令 → 截图」；答案以正文答案行为准，截图仅作证据与佐证。")
+$w.Add("共 $($wu.Count) 篇复盘，覆盖 $($years.Count) 个年份、$($comps.Count) 项赛事。正文结构为「题目 → 答案 → 思路/命令 → 截图」；答案形态因赛事而异（``**答案：**`` 行 / 题干后代码块 / ``## **N.[题型]`` 标题 / ``flag{...}``），以题干后紧邻内容为准，截图仅作证据与佐证。需要机器可读结果时跑 ``python tools/extract-answers.py --all --json``。")
 $w.Add('')
 foreach ($y in $years) {
     $inYear = @($wu | Where-Object { $_.year -eq $y } | Sort-Object competition, stage, path)
@@ -164,5 +183,23 @@ foreach ($y in $years) {
 }
 [System.IO.File]::WriteAllText((Join-Path $Root '02-WriteUp\README.md'), ($w -join "`r`n"), $utf8)
 
+# 03-理论知识/README.md
+$theory = @($docs | Where-Object { $_.path -like '03-*' } | Sort-Object path)
+$th = [System.Collections.Generic.List[string]]::new()
+$th.Add('# 理论知识 · 法规与题库')
+$th.Add('')
+$th.Add($stamp)
+$th.Add('')
+$th.Add("共 $($theory.Count) 篇：法律法规原文与客观题题库。法条按「章 → 条」组织，可直接按条号检索；题库按题号组织（题目 + 答案），适合问答式检索。")
+$th.Add('')
+$th.Add('| 文档 | 类型 | 标签 | 状态 | 摘要 |')
+$th.Add('|---|---|---|---|---|')
+foreach ($d in $theory) {
+    $rel = $d.path -replace '^03-理论知识/', ''
+    $tagStr = (($d.tags | Select-Object -First 5) -join ' ')
+    $th.Add("| [$rel]($rel) | $($d.type) | $tagStr | $($d.status) | $(Format-Cell $d.summary) |")
+}
+[System.IO.File]::WriteAllText((Join-Path $Root '03-理论知识\README.md'), ($th -join "`r`n"), $utf8)
+
 Write-Host "=== P5 完成：$($docs.Count) 篇索引已生成 ==="
-Write-Host "  INDEX.md / index.json / 01-取证技巧/README.md / 02-WriteUp/README.md"
+Write-Host "  INDEX.md / index.json / 01-取证技巧/README.md / 02-WriteUp/README.md / 03-理论知识/README.md"

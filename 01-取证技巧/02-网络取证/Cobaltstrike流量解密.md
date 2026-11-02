@@ -10,7 +10,7 @@ tags: [网络流量, 加解密, CobaltStrike]
 images: 14
 status: "完整"
 source: "原创"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "CobaltStrike Beacon 流量解密：无/有 beacon_keys 两场景，URI 校验和判架构、CSthing 解密配置、密钥解析解 cookie"
 ---

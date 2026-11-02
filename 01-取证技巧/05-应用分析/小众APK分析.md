@@ -6,11 +6,11 @@ competition: ""
 year: ""
 stage: ""
 mode: ""
-tags: [APK分析, 手机取证, 数据库取证, SQLite, 小众APP]
+tags: [APK分析, 手机取证, 数据库取证, SQLite]
 images: 0
 status: "待完善"
 source: "原创"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "小众 App 取证数据定位速查：米家、高德、鸽哒等 App 的数据库与数据文件存储路径"
 ---

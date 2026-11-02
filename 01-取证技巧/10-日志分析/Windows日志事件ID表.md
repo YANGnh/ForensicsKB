@@ -6,11 +6,11 @@ competition: ""
 year: ""
 stage: ""
 mode: ""
-tags: [日志分析, 注册表, Windows日志, 事件ID]
+tags: [日志分析, 注册表, Windows日志]
 images: 0
 status: "完整"
 source: "原创"
-created: 0000-00-00
+created: 2026-09-01
 updated: 2026-09-01
 summary: "Windows 安全审核日志事件 ID 对照表：按帐户管理、登录/注销、对象访问、策略更改等类别列出 ID 及含义"
 ---

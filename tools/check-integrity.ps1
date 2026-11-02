@@ -62,7 +62,7 @@ $offVocab = [ordered]@{}
 if (Test-Path -LiteralPath $vocabPath) {
     $vocab = [System.IO.File]::ReadAllText($vocabPath, [System.Text.Encoding]::UTF8) | ConvertFrom-Json
     $allowed = @{}
-    foreach ($grp in @('scenarios', 'competitions', 'tools', 'techniques')) {
+    foreach ($grp in @('scenarios', 'competitions', 'tools', 'techniques', 'topics')) {
         foreach ($v in $vocab.$grp) { if ($v) { $allowed[[string]$v] = $true } }
     }
     foreach ($f in $mds) {
