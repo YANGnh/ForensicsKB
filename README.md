@@ -89,7 +89,7 @@ git checkout -- <文件>                      # 误改后恢复该文件
 - ✅ 索引：INDEX.md + index.json（60 篇；图片 3,465 张 / 3,490 处引用；index.json 为标准 JSON，可直接被 python/jq 解析）
 - ✅ 目录：`02-WriteUp/` 已按「年份/文档名/」归档，36 篇 md 与 3,439 张图片各自独占目录，正文引用保持裸文件名、零改动
 - ✅ 分区导航：`02-WriteUp/README.md`（年份 × 文档名）+ `01-取证技巧/README.md`（主题 × 文档简介）+ `03-理论知识/README.md`（法规/题库），随索引自动重建
-- ✅ 图片 OCR：3,465 张分双索引：`ocr_tesseract/`（tesseract chi_sim+eng，代码/终端路由 614 张）+ `ocr_paddleocr/`（Umi/PaddleOCR 2,848 份；3 张无文本回退 tesseract）；检索优先 Paddle，未命中再查 tesseract，查询做 NFKC/中文空格归一化。
+- ✅ 图片 OCR：3,465 张分双索引：`ocr_tesseract/`（tesseract chi_sim+eng，代码/终端路由 614 张）+ `ocr_paddleocr/`（Umi/PaddleOCR 2,847 份；3 张无文本回退 tesseract）；检索优先 Paddle，未命中再查 tesseract，查询做 NFKC/中文空格归一化。
 - ✅ 工具链：`tools/search.ps1` 全文检索（正文 + 截图 OCR，支持元数据过滤；会提示未入索引的语料）；受控词表 `tools/tag-vocabulary.json` 由体检校验；`build-index.ps1` 改为扫描三个语料目录（不再依赖手工清单），缺 frontmatter 直接报错终止
 - ⚠️ 待办：`2024-国赛-复盘.md` 因正文有损乱码已从语料排除（原始文件随 `取证笔记/` 一并移出归档，重录后可通过 `tools/new-writeup.ps1` 重新纳入）；若干转载文缺失原图（已注释标记）；个别 `status=待完善` 文档答案留白待补；关键截图 caption/kind 标注（L3 增强，可选）
 - 📌 已完成：git 本地版本管理 + GitHub 私有远程（见上节"git 版本管理"）
