@@ -1,0 +1,16 @@
+# OCR: 035813e3d514d9f3fc60cba78f18227a.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/035813e3d514d9f3fc60cba78f18227a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+导入向导
+你必须选择一个文件作为数据源，导入从：
+C:\Users\32622\Desktop\2024精武杯顺丰1k.xlsx 表
+Sheetl
+上
+步
+一步
+口添加文件 AddURL 全选取消全选
+取消
+x

@@ -1,0 +1,20 @@
+# OCR: 7cd0dd4752a9022e7c0c819262d27e11.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/7cd0dd4752a9022e7c0c819262d27e11.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+■文件管理角色管理三菜单管理目日志管理数据字典兼测试菜单会员管理模块新闻管理
+序号 1 2 3 4 5 6 7 co 9
+操作名称会查询单个查询子部查询全部查询子部查询用户查询角色查询角色查询全部查询子部
+操作者会管理员管理员管理员管理员管理员管理员管理员管理员管理员
+秒时 16.039 16.035 16.034 1.056 16.032 16.188 12.035 1.018 16.006
+请求类型
+GET GET GET GET GET GET GET GET GET
+请求路径/zwz/dictDat.../zwz/depart.../zwz/role/ge.../zwz/depart.../zwz/user/g.../zwz/role/ge/zwz/role/ge.../zwz/role/ge../zwz/depart...
+请求参数 0 0 0 0
+I'nickname'..'pageNum..('pageNum..
+0 0
+操作者IP 172.19.0.8 172.19.0.8 172.19.0.8 172.19.0.8 172.19.0.8 172.19.0.8 172.19.0.8 172.19.0.8 172.19.0.8
+IP定位本地测试本地测试本地测试本地测试本地测试本地测试本地测试本地测试本地测试
+操作设备 PC端|Chrome13... PC端|Chrome13... PC端|Chrome13.. PC端Chrome13.. PC端|Chrome13... PC端|Chrome13... PC端|Chrome13... PC端|Chrome13... PC端|Chrome13.

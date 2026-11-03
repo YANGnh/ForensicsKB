@@ -1,0 +1,23 @@
+# OCR: 9f8ac05b18299f35cb3e3f4e989e0140.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/9f8ac05b18299f35cb3e3f4e989e0140.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+9 6 F 0 0 0 D 1
+63 31 12 00 FF 00 00 00
+00 00 34 00 D8 60 2A 01
+00 00 56 00 FF 00 00 00
+00 00 78 00 Eo 00 00 00
+00 00 90 00 00 FF 00 00
+00 00 AB 00 10 E1 08 00
+00 00 CD 00 4A 00 00 00
+00 00 EF 00 46 22 01 00
+Panasonic NR-E46CV1
+4Vx
+4Vx
+face100000000000
+0000)5000
+吕F
+F00000O000
+ExifOOMMO*

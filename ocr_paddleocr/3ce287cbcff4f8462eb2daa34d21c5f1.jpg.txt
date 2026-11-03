@@ -1,0 +1,41 @@
+# OCR: 3ce287cbcff4f8462eb2daa34d21c5f1.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/3ce287cbcff4f8462eb2daa34d21c5f1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+义言的计算机
+三序号 07 口8 口9 口10 口11 口12 口13 口14 口15 口16 口17 口18 口19 口20 口21 口22
+三名称过滤
+产品密钥发行ID 产品ID
+当前版本号
+基本信息>
+Y
+当前Build版本号
+处理器内存设备名称固件固件版本
+系统根路径路径名
+最后一次正常关机时间最后访问时间已肩用
+注册所有者工作组
+系统信息三英文名称过滤
+PRODUCTKEY RELEASEID
+OS_PRODUCT_ID
+C_VERSION VERSION CPU
+MEMORY
+COMPUTERNAME FIRMWARE
+FIRMWAREVERSION
+SYSTEM PATH PATH NAME
+LAST_LOGOUT_TIME
+Y
+NTFS LAST ACCESS UPDA..
+REGISTEROWNER PCGROUP
+维值过滤
+W269N-WFGWX-YVC9B-4J6C9-T83GX 2009
+00331-10000-00001-AA472 10
+19045.4291
+11thGenIntel(R)Core(TM)i7-1165G7@2.. 8G
+DESKTOP-3BDNVRB VMware,Inc.
+VMW71.00V.18452719.B64.2108091906
+C:WINDOWS C:Windows
+2024-04-2818:51:56
+未知 gaotao
+WORKGROUP

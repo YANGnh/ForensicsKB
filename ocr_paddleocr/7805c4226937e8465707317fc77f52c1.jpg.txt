@@ -1,0 +1,8 @@
+# OCR: 7805c4226937e8465707317fc77f52c1.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/7805c4226937e8465707317fc77f52c1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+Extract-记事本
+文件(F)编辑（E)格式(O)查看(V)帮助(H) RR%#CBSf7uYLO#28bVWT

@@ -1,0 +1,26 @@
+# OCR: 7fde80690b2ce13fa06d0f4d1a513125.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/7fde80690b2ce13fa06d0f4d1a513125.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+O
+<div class="col-3 hide-footer">
+<h4class="text-white">Connect</h4) </div>
+<!- accordionl ->
+<div class="col-3hide-footerr")
+<div class="accordion">
+<div class="accordion-item border-0 rounded-0")
+<h3 class='accordion-header">
+<button class-"accordion-button accordion-footer collapsed justify-content-center p-0 mb-3type-"button"data-bs-toggle"collapse"data
+Connect </button> </h3>
+id="panelsStayOpen-collapseFooterOne"class="accordion-collapsecollapse"> <divi
+<div class="accordion-body p-o">
+<ul class="p-0m-0")
+<li class-"1ist-group-iten text-white mb3">Revtel</1i>
+class="1ist-group-itenmy-2><ahref=""class="text-decoration-none>13170010703</a)
+i </1i>
+<li class="list-group-item"Xa href=""class="text-decoration-none>mailmechen.foren6</a)(/1i)
+</ul> </div>
+</div> </div)
+</div> </div>

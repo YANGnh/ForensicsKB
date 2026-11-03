@@ -1,0 +1,20 @@
+# OCR: 4d75d9c26ed786cbef2871dedfe27d31.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/4d75d9c26ed786cbef2871dedfe27d31.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+g
+集群服务器002>
+三序号口1 口2
+三网站名过滤
+网站
+宝塔面板》
+www.mtbtsdafda.com www.gsjksu2kig.com
+三根目录过滤
+/www/wwwroot/w.../www/wwwroot/w..
+三添加时间
+起始
+结束
+2024-06-2609:20.... 2024-06-2615:48...
+三状态过滤运行中运行中

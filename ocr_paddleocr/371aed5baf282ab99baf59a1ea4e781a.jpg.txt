@@ -1,0 +1,10 @@
+# OCR: 371aed5baf282ab99baf59a1ea4e781a.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/371aed5baf282ab99baf59a1ea4e781a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+CentoSLinux7(Core）
+Kerne1 3.10.0-1160.83.1.e17.x86_64 0n an x86_64
+serverlogin:root Passuword:
+Lastlogin:Thu Apr 25 09:23:56 ontty1[rooteserverl#

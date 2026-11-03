@@ -1,0 +1,28 @@
+# OCR: 111a6ceee566ebfbec8ad8458b784a7c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/111a6ceee566ebfbec8ad8458b784a7c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+[root@localhost~l#dockerstart3baz
+3b a2
+[root@localhost~]#dockerps
+CONTAINER ID
+NAMES
+IMAGE
+3ba5cba800fe
+mysql.5.7
+3306/tcp
+nysql-web
+a2aae89e3ac8
+redis-web
+redis
+[root@localhost]#
+COMMAND
+"docker-entrypoint.s.""docker-entrypoint.s_
+CREATED
+2months ago 2months ago
+STATUS
+Up 5 seconds Up 2 seconds
+PORTS
+33060/tcp,0.0.0.0:13306-> 0.0.@.0:16379->6379/tcp

@@ -1,0 +1,29 @@
+# OCR: 63519300d9a1da68f270d3414e447693.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/63519300d9a1da68f270d3414e447693.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+搜索节点
+Q
+Alice C(85269732840... 王磊（85294049926@...
+2
+8
+<840@s.whatsapp.net)>@好发消息>ZhangWei(447492024602@s.whatsapp.net) 回图片（4)
+中国银行（香港） BANK OF CHINAOOY
+中银卡 BOCCard
+Sample
+6212345678987654321
+VALO THRU 12202 ZHANG WEE
+01234583898765
+UnionPay
+银联
+2024-08-1310-56:46
+在ZhangWei(4474920
+Q
+5269732840@s.whatsapp.net)Alice0
+Noted
+5269732840s.whatsapp.net)Alice myhumanresourcesdepartment
+5269732840@s.whatsapp.net)AliceC
+will giveua replyASAP
+高级

@@ -1,0 +1,12 @@
+# OCR: 99da93eeb7c6f3c2003e59065c14a214.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/99da93eeb7c6f3c2003e59065c14a214.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+#starttheteanserver
+java-xx:ParallelGcThreads-4-Dcobaltstrike.server_port59837
+-Dcobaltstrike.serverbindto-.0.e.0-Djavax.net.ssl.keyStore=./cobal
+tstrike.store-Djavax.net.ssl_keyStorePassword=Microsoft
+-server-XX:+AggressiveHeap-XX:+UseParallelGc-classpath-/cobaltstrike-j
+ar-javaaqent:cSAqent.jar=5e98194a01c6b48fa582a6a9fcbb92d6-Duser.lanquage=enserver.TeanServers*[root@localhostCobaltstrikel#

@@ -1,0 +1,19 @@
+# OCR: bba78857eacfaaa4c4078bfa8c05532e.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/bba78857eacfaaa4c4078bfa8c05532e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+root@iavaservep:
+Cat:
+/etc/netplan/oo-installer-config.yaml
+#This is the network config writtenby'subiquity network：
+ethernets: enp6s18:
+addresses:
+192.168.100.111/24 nameservers:
+addresses:[]
+search: [ routes:
+to: default
+via:192.168.100.1
+version:2
+root@javaserver：~#

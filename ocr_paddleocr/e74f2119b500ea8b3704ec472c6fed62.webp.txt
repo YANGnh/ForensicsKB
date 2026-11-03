@@ -1,0 +1,10 @@
+# OCR: e74f2119b500ea8b3704ec472c6fed62.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/e74f2119b500ea8b3704ec472c6fed62.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+SZBJSJTM2025LV52
+cftprg
+国演义
+541079-719906-009438-610390-527406 567622-466598-347765

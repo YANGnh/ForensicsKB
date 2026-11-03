@@ -1,0 +1,10 @@
+# OCR: a8ec60f83bd47228723a08315bba348a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/a8ec60f83bd47228723a08315bba348a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+名称：BluetoothDevice(PersonalAreaNetwork
+适配器类型：虚拟网卡是否隐藏：否
+当前MAC地址：9C-B6-D0-04-C9-CC 物理MAC地址：
+9C-B6-D0-04-C9-CC

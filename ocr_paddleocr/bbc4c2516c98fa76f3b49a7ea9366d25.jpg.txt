@@ -1,0 +1,97 @@
+# OCR: bbc4c2516c98fa76f3b49a7ea9366d25.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/bbc4c2516c98fa76f3b49a7ea9366d25.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+公
+口=座号 3 四4 5 口6X
+详细信息
+检材1-手机.img/分区1/misc/wifi
+名称过速
+softap.conf
+WifiConfigStore.xml
+WifiConfigStore.xml.encrypted-checkst WifiConfigStore.xml.bak
+名称：WifiConfigStore.xml
+扩展名：xml 类型：文件大小：2.35KB
+创满时间：2024-03-1905:16:55 访问时间：2024-03-1905:16:55 修改时间：2024-03-1905:16:55 MetaAddr:180080
+服扩展名过滤 conf xml
+encrypted-checksum bak
+全路径：检材1-手机.img/分区1/misc/wifi/WifiConfigStore.xml
+加密类型：未加密已制除：否
+三类型
+y 文件文件文件文件
+“大小等于 46 B 2.35KB 290 B 4.51KB
+三创建时间
+起始
+结束
+2020-04-19 21:54:23 2024-03-1905:16:55 2020-04-19 21:54:34 2024-03-19 05:14:55
+原类型视图
+三访问时间
+起始
+给束
+2020-04-19 21:54:23 2024-03-1905:16:55 2020-04-19 21:54:34 2024-03-19 05:14:55
+文本视图
+pnta
+Ers
+heotea nul
+aE
+mul ll a
+nane a
+tboolaan booea
+booHear boolesn
+m
+ttn choola
+三修改时间
+起始
+结束
+2020-04-19 21:54:23 2024-03-1905:16:55 2024-03-19 05:16:55 2024-03-19 05:14:55
+十六进制视图
+PEPTxkerinder
+HiddensSID
+value
+RequirePMF"
+AllovedKeyMgnt
+"false
+在wifi 中搜素
+三链接过滤
+"talse
+1*02/59t
+SEaY
+AllovedProtocols AllovedAuthAlgos
+AlloedGroupCiphers
+"103(/byte-array) 101/t
+ma"l0f</byte
+AllowedPairviseCiphers
+valee
+Shared
+tue
+Status FQDN
+value
+ProviderFriendlyNane"LinkedNetworksList DefauitGwlacAddress
+ValidatedInternetAccess NoimternetccessExnected
+UserApproved
+ae
+MeteredHint feteredOverride
+asg
+UseExternalScores HunAsuociation
+Tako vae
+Sreatorld
+false
+arras
+nim"g"06/byte-atray
+true Valuefalse
+"falseb
+e
+1000
+Creatorlameandroid.uid.avsten.loo0at
+CreationTinetine-03-1416 55.57.2493-trine
+LastUpdateUid
+Vaee
+android.uid.systen:1000</string
+"LastUpdatelane"LastConnectUid”
+10014
+IsLegacyPasspointConfig"
+RoaningConsortiunOIs
+vaiue-false 0
+"Randonizedllac8ddress02.00:00.00:00:00tstrins

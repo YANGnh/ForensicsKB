@@ -1,0 +1,23 @@
+# OCR: 97fabc13aa972d2e6a090466ed62978c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/97fabc13aa972d2e6a090466ed62978c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+A检材3-服务器.E01>
+一三序号
+口1 口2 口3
+三容器ID 过滤
+品容器列表
+docker>docker>
+使用的镜像过滤
+4ff383cbb6a11de1... d4cb231cae7fcef2... 832de60b9a2ddf2...
+mysql:5.7
+web-apilatest nginx:latest
+自动分配的容过滤
+mysql-con. web_api nginx-proxy
+启动容器时运行的命令
+过滤 mysqld
+sh,-c,ulimit -c unlimi... nginx,-g.daemon off;
+三容器状态过滤
+ExitCode:0 ExitCode:137 ExitCode:0

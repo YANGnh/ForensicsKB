@@ -1,0 +1,32 @@
+# OCR: 329ada7507439e4eb85795001758dafc.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/329ada7507439e4eb85795001758dafc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+18719.311075
+10.213.45.11
+ Wireshark · Endpoints · CEO_Traffic.pcapng
+EndpointSettings 口解析名称
+?显示过滤器的限制
+Ethernet·2 地址
+10.213.45.11
+192.168.20.100
+IPv4·2
+Port分组
+445
+IPv6
+Bytes
+27kB
+158
+192.168.20.10049159
+15827ke
+TCP·2
+SMR2 UDP
+Total Packets
+158 158
+86FindRe
+Percent Filtered
+100.00% 100.00%
+TxPacket
+下 8

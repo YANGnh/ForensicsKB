@@ -1,0 +1,38 @@
+# OCR: ab755611b16ea72c8295f465f82b9783.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/ab755611b16ea72c8295f465f82b9783.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+Users\Admin/AppData\Roaming/Microsoft)Windows)Recent 口文件名称一
+Windows(46)
+口.
+Recent(7)
+AutomaticDestinations(3) CustomDestinations(2)
+desktop.ini 口自传小说.Ink
+分区
+文件
+Target attributes Target file size ShowWindow Target created Last written Last accessed DList
+Volumetype Volumeserial Volumename Localpath Relativepath
+回预览
+详细
+口缩略图
+时间轴
+描述存在的存在的存在的存在的存在的
+了文件类型 ini
+存在的，…
+Ink
+图例说明
+A
+行
+116720167
+文本
+SWNORMAI
+了路径
+NUsers\Admin\AppDat: Users\Admin\AppData/Users\Admin\AppData Users\Admin/AppData Users/Admin/AppData Users/Admin/AppDat
+养O
+Linkta
+2025/04/1114:44:50+8 2025/04/1110-28:09+8 2025/04/1114:44:59+8
+ea/a°-MP3 Fixed
+0x7E425448
+CAUsersAdminDesktoplxODEuMP3 A.......Desktop自传小说.MP3

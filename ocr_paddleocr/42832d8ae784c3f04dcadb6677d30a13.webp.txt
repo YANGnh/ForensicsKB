@@ -1,0 +1,21 @@
+# OCR: 42832d8ae784c3f04dcadb6677d30a13.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/42832d8ae784c3f04dcadb6677d30a13.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+A 序卡
+B
+姓名用
+c 性疗
+60余宇轩男
+D 年步 31
+E
+身份证号
+331013199207228000
+F
+联系电话
+G 地址
+13567890123浙江省台州市路桥区路桥街道卖芝桥东路234号
+H 职务
+住建局房产交易管理科员

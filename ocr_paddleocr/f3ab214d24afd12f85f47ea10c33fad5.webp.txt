@@ -1,0 +1,66 @@
+# OCR: f3ab214d24afd12f85f47ea10c33fad5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/f3ab214d24afd12f85f47ea10c33fad5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+A雷电APP智能分析
+5.1.0
+使用安卓模拟器
+安卓/iOS真机
+请任意选择一款安卓模拟器下载安装
+业雷电模拟器9.0版本（推荐雷电模拟器4.0版本
+业雷神模拟器 MuMu模拟器
+口
+云手机
+确保模拟器已安装完毕且正常运行并保持打开
+启动模拟器查看教程
+已连接，重新检测
+应用名称应用大小
+ForensixCam APK文件
+ForensixCam 3.4MB
+总览签名方案
+签名证书MD5 签名证书SHA1 签名证书SHA256
+签名算法公钥类型签名公钥
+签名类型签名序列号签名有效期始
+详细信息
+V2
+应用类型证据编号
+静态权限
+ficrun 其他
+20250603170818542
+第三方服务
+7b1963b70fbac57a50836e9a044d0029
+598e501c0c2cc8f39ae2o5ce4bc31940eb93458c
+网络数据包
+应用包名创建时
+com.forensix.cam
+2025-06-0317:08:19
+动态监控
+894b7dac152385f0245beeaf0caae9104d2590a65111122e4d72c8202a3b537f
+SHA256-RSA RSA
+-BEGINPUBLICKEY---
+MlIBIiANBqkghkiG9wOBAQEFAAOCAQ8AMlIBCqKCAQEAsb/3+SXD7BaTddXWavKQ
+cGt0nR2LvYgVSOu33YxBi/k1QSUXRE2EzzdQethjdOwUX9r76wrFduxR547133VJ 7a7SsCxADhgXr2/8uMPvpDPWucTF6gmA2P3zcjCd1i86wXDlivi+8MLNbeeukrn CYaoEmj4T+fvXVRQtICfoQLylti68lmtBWh/hbrji2BoTYL1R7OkGSXVepXR6pWp IsWASgwywafieUydgHvdx5WuOHkbiS3LEQNwimffZ/7oXXSfil6cshENoJ317eWP
+P5QnSh98nObMdlOUurhZ/nPwlpyNS16tLYUFUeAN1et65+WSfrKLbWQw4n62JPaT eWIDAOAB
+-ENDPUBLICKEY-
+X.509 0x1
+2025-05-1320:21:00
+源码分析
+图
++
+白
+添加应用版本
+网
+停
+自动分析 1.0
+敏感信息
+Frida脚本
++
+X
+导出报告
+安装文件哈希
+主Activity Activity列表签名方案
+签名证书MD5 签名证书SHA1 签名证书SHA256
+签名算法公钥类型签名公钥签名类型签名序列号签名有效期始签名有效期至
+证书版本证书使用者证书颁发者

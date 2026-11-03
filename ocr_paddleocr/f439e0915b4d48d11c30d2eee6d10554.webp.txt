@@ -1,0 +1,45 @@
+# OCR: f439e0915b4d48d11c30d2eee6d10554.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/f439e0915b4d48d11c30d2eee6d10554.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+Detect It Easy v3.08 [Windows 10 Version 2009] (x86_64) 文件名
+F:tficwPvlibJiami.so
+文件类型 ELF64
+文件信息 E
+ELF 程序
+0009
+扫描自动
+ELF64
+文件大小
+17.97 KiB
+内存映射 Visuslisation
+节
+001c
+反汇编搜素
+字节序 LE
+基址
+0000000000000000
+十六进制哈希
+模式 64位
+操作系统：DebianLinuxiAMD64.64位.DYN
+编译器：GCC(20210110) 语言：C/C++
+V递归扫描
+目录
+√启发式扫描
+首V详细
+V深度扫描所有类型
+字符串信息摘
+入口点
+0000000000001260
+签名提取器
+架构 AMM64
+4毫秒
+VirusTotal
+类型 DYH
+扫描
+口
+x
+高级选项符号重组
+快捷键选项关于退出

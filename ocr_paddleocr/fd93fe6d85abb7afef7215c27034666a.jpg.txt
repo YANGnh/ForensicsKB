@@ -1,0 +1,52 @@
+# OCR: fd93fe6d85abb7afef7215c27034666a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/fd93fe6d85abb7afef7215c27034666a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+p
+义言的手机
+口二席号
+口1 □2
+详细信息
+■名称过滤
+其他应用>Mattermost）
+文件分类
+aHROcDovLzE5Mi4xNjguMTM3Ljk3OjgwNjU=.db app.dh
+名称：aHROcDovLzE5Mi4xNjguMTM3Ljk3OigwNjU=.db
+扩展名：db 类型：文件大小：684KB 修改时间：
+2024-04-2521:19:32
+MetaAddr:7301991424 全路径：
+SQLite文件
+“大小等于 684KB 68KB
+最创建时间
+起始
+结束
+原类型视图
+4
+未删除记录 Category
+修改时间
+起始
+结束
+2024-04-2521:19:32 2024-04-2521:19:22
+文本视图
+3
+CategoryChannel Channel
+Pixel.tar/data/data/com.mattermost.rn/files/databases/aHROcDovLzESMi4xNiguMTM3Ljk3Ojgw
+NjU=.db
+加密类型：未加密已副除：否
+Channellnfo
+ChannelMembership Config
+4 4 4
+222
+在SQLite文件中搜索
+排全路径过滤
+Q
+高
+Pixel.tar/data/data/com.mattermost.rn/files/databases Pixel.tar/data/data/com.mattermost.rm/files/databases/
+十六进制视图
+三序号
+2 m
+id
+favorites jrmi9lox8pfg9drc7b9d.. channels_jrmi9lox8pfg9drc7b9d. direct_messages_jmigiox8pfg9.
+=_changed collapsed

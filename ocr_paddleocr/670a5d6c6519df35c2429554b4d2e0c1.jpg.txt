@@ -1,0 +1,9 @@
+# OCR: 670a5d6c6519df35c2429554b4d2e0c1.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/670a5d6c6519df35c2429554b4d2e0c1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+verify 请输入密钥：
+密钥验证器验证
+2:20

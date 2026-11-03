@@ -1,0 +1,27 @@
+# OCR: e1e97cc7169288e09a62a275ebf01bee.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/e1e97cc7169288e09a62a275ebf01bee.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+84090xab866311a240 84100xab866311a3d0 84110xab866311aa10 84120xab866311aba0 84130xab866311aec0 84140xab866311c180 84150xab866311c950
+n
+Lne FTK
+wps0fficel12.1.0.16929loffice6lwpsofficeicon.dll
+sDirectory
+216
+ProgramDataMicrosoftwindowslstartMenuldesktop.ini
+ProgramDataHuorongSysdiaguser.db
+216
+ProgramFilesAccessDataFTKImager/FTKImager.exe
+sDirectory
+216
+AdministratorKafanInputNamedPipe
+小n
+个
+区分大小写（C)
+216
+t.
+全字匹配（M）
+216 216 216
+正则表达式（X）35个匹配项

@@ -1,0 +1,47 @@
+# OCR: df9238e9bcf1c177afe0a4b8bee7ea5f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/df9238e9bcf1c177afe0a4b8bee7ea5f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+蓝易云面板
+备首页网站 FTP 数据库 Docker 网监控安全?
+WAF 白文件昆日志回终端
+留计划任务 8软件商店
+面板设置退出
+0
+软件商店应用搜案应用分类
+最近使用入口软件名称
+支持应用名称能糖率
+全部
+Redis
+NNginx1.24.0 MySQL5.7.44 FIP:Pure-Ftpd 1.0:49
+Redis7.24
+phpMyAdmin5.1 金塔SSH终端1.0 php:PHP-8.0.26
+已安装
+运行环境
+立即购读
+开发商营方富方方方官方富方富方
+说明
+安全应用专企业 95分钟
+轻量级，占有内存少、并发部 MySQL是一种关系数摇车管理 PureFTPd是一款专注于程 Redis是一个高性能的key-va 著名Web端MySQL管理工具完整功能的SSH客满，仅用 PHP是世界上最好的编程语
+Docker啦用
+Redis 服务
+版本切换性能调整配置文件负毁状态设置持久化 Redis管理
+Q 免费应用
+bind port
+timeout maxclients databases requirepass maxmemory
+专业版应用
+127.0.0.1
+6379 0
+10000 16
+0 保存
+企业版应用
+第三方应用
+绑定IP(修改绑定IP可能会存在安全隐患) 绑定端口
+空闲连接超时时间，0表示不断开
+最大连接数数据车数量
+redis密码留空代表没有设密 MB,最大使用内存，0表示不限制
+，修改配置后需要重启redis生效著您的数据需要持久化请先执行save操作，
+警告：请勿开启Redis外网访问权限，未限制访问IP的情况下极大概率导致服务器被入慢，
+条免需短

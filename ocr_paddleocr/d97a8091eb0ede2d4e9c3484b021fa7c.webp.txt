@@ -1,0 +1,14 @@
+# OCR: d97a8091eb0ede2d4e9c3484b021fa7c.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/d97a8091eb0ede2d4e9c3484b021fa7c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+V 10:00 中国
+N
+e
+ituzzop@gmail.com
+6-16位数字
+字舟
+联了么符号
+简体中文

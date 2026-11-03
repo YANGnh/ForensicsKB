@@ -1,0 +1,42 @@
+# OCR: 84ee055d4bf3485b977435cdf82df273.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/84ee055d4bf3485b977435cdf82df273.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+稻壳儿
+C 等线 (正文)
+B
+1
+S
+2024年09月全部详单[20251007
+开始
+五号
+会
+X2
+A+A Av
+婆
+A
+w
+A
+联系人.docx
+插入
+三
+三
+页面
+三
+引用
+0
+Ａ 1
+Vc密码：
+SHUZHENGBEIctZV2025
+审阅
++
+视图国
+工具
+正文
+会员专享
+AWPSAI
+标题１
+标题
+C

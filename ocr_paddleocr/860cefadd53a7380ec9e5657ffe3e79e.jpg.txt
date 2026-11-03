@@ -1,0 +1,34 @@
+# OCR: 860cefadd53a7380ec9e5657ffe3e79e.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/860cefadd53a7380ec9e5657ffe3e79e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+信息咨询关于ShopxO
+联系我们招聘英才合作及洽谈
+友情链接弘连网
+客户服务
+如何注册成为会员
+积分细则如何搜索
+ShopXO应用商店
+GitHub
+Gitee
+支付方式分期付款邮局汇款在线支付公司转账
+如何注册支付宝
+Shopxo
+Poweredbyshapxov2.3.2
+uniapp主题
+e沪ICP备xx号
+奔包的博客
+会员中心会员修改密码
+会员修改个人资料
+修改收货地址如问管理店铺
+ThinkPHP
+票公网安备xxx号
+AmazeUl
+宝塔面板
+电子营业执照亮照
+C4008003721 9
+上海市闵行区
+service@forensix.cn 西部数码
+增值电信业务经营许可证：沪B2-XXX

@@ -1,0 +1,18 @@
+# OCR: 24c24838ea802aade5f84da6202b7cad.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/24c24838ea802aade5f84da6202b7cad.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+图元数据
+ExifTool FileType
+FileTypeExtension
+MIMEType MachineType TimeStamp
+ImageFileCharacteristics PEType
+LinkerVersion CodeSize
+InitializedDataSize
+Win64EXE exe
+application/octet-stream AMD AMD64
+2025:04:08 09:59:40+08:00
+Executable, Large address aware
+PE32+ 14.35 164352 4242944

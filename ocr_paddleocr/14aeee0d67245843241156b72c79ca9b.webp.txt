@@ -1,0 +1,26 @@
+# OCR: 14aeee0d67245843241156b72c79ca9b.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/14aeee0d67245843241156b72c79ca9b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+dockerstart39d49f
+39 4 9f
+root@ql-n117-45.117.10.203 in/home[20:31:01 dockerps
+CONTAINER ID STATUS
+392e75f460f4 Jp7seconds J4967607b7dd Jp6seconds 9fc389257bb4 Jp4seconds
+IMAGE PORTS
+NAMES
+mcr.microsoft.com/mssgl/server:2o19-latest
+0.0.0.0:1433->1433/tcp mongo:latest
+0.0.0.0:27017->27017/tcp mysql:5.7
+0.0.0.0:3306->3306/tcp，33060/tcp
+COMMAND
+"/opt/mssql/bin/perm.."
+sglserver2o19
+"docker-entrypoint.s.."
+mongo
+mysql5.7
+"docker-entrypoint.s.."
+CREATED
+3monthsago 3monthsago 3months ago

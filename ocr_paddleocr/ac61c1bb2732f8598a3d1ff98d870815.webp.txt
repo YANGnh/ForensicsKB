@@ -1,0 +1,31 @@
+# OCR: ac61c1bb2732f8598a3d1ff98d870815.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/ac61c1bb2732f8598a3d1ff98d870815.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+总览
+详细信息
+静态权限
+第三方服务
+android.permission.CHANGENETWORKSTATE 安卓前台服务
+android.permission.FOREGROUNDSERVICE 检索后台进程
+android.permission.GETTASKS 访问SD卡文件系统
+android.permission.MOUNTUNMOUNTFILESYSTEMS 读取敏感日志数据
+android.permission.READLOGS 读取图片文件
+android.permission.READMEDIAIMAGES 接收用户现在
+android.permission.RECEIVEUSERPRESENT 控制振动
+android.permission.VIBRATE 修改或删除SD卡中的内容
+android.permission.WRITEEXTERNALSTORAGE 修改安全系统设置
+android.permission.WRITESECURESETTINGS
+网络数据包
+动态监控
+TIXAH
+android.permission
+在设备上查找帐户 android.permission
+完全网络访问
+android.permission 读取SD卡中的内容 android.permission 读取音频文件
+android.permission 读取视频文件
+android.permission 允许在其他应用的上 android.permission
+防止手机休眠
+android.permission 修改/删除内部媒体有 android.permission

@@ -1,0 +1,30 @@
+# OCR: 326e6432e870294552236f77d2f5c8b4.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/326e6432e870294552236f77d2f5c8b4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+g
+计算机检材>
+三序号口7 口8 ■9 口10 口11 □12 ■13 ■14
+三名称过滤
+文衣时可产品密钥发行ID 产品ID
+自基本信息胃系统信息
+三英文名称过滤
+TIVOTAEETIIE PRODUCTKEY RELEASEID
+OSPRODUCTID
+当前版本号
+当前Build版本号
+处理器内存
+设备名称
+CVERSION VERSION CPU
+MEMORY
+COMPUTER.NAME
+Y
+三值过滤 2024
+T.02U0TO0CS
+NNW6C-2OMPV-WD7KK-K3GKT-6VCEB-V. 1909
+00328-10000-00001-AA494 10
+18363.2274
+Intel(R)Core(TM)i7-14700KF 4G
+DESKTOP-SBTC549

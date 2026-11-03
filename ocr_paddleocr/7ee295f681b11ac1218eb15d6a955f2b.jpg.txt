@@ -1,0 +1,38 @@
+# OCR: 7ee295f681b11ac1218eb15d6a955f2b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7ee295f681b11ac1218eb15d6a955f2b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+XPROXMOXvitualEmvronment8.1.4技茶
+服劳概视器数据中心 opve
+集群日法
+开始时间！五月1913:43：53 五月1913:43:52 五月1913:43:51 五月1913:43:51 三月2511:08:19 三月2511:08:19 三月2511:08：19 三月2511:0819 三月2511:08:19 三月2511:08:19 三月2511:08:19
+结来封间
+xo
+五月1913.43:54 五月1913:43-53 五月1913.43-54 五191343:52 三月2511:09:27 三月25 11:09:27 三月2511:08:47 三月2511:08:37 三月2511:08:37 三月2511:08:27 三月2511:08:27
+节点 Q素
+节点 pve Pve pve pwe pve pve pve pve pve pve pve
+类+ 用户名 root@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam
+说用
+VM112层动
+能盘使用率
+VM101-自动
+Bulk start VMs and Containers VM100-自动
+BulkshautdownVMsandContainers
+VM102-关机 VM101-关机 VM111-关机 VM100·美机 VM112-关机 CT110-关机
+内存使用家
+CPU利用家
+遥行前询
+主CPU.
+主机内存使
+排记
+文销
+牌感机
+oiect
+摄露
+e帮
+欢市
+速：KVMvitualisationconf 错误：KVMvirtualisation.conf. oK
+销读：KVMvintualisation.cont
+OK oK ok oK OK ok ok

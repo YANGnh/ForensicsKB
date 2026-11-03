@@ -1,0 +1,46 @@
+# OCR: 35e7bf8bf2d3755ed957359a989a53be.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/35e7bf8bf2d3755ed957359a989a53be.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+tcpdump.tj.cap
+文件(F)
+编辑(E)
+OO
+视图V）
+区
+跳转（G
+应用显示过滤器.Ctrl-/>
+捕获(C) 价奶
+Wireshark·Conversations·tcpdump_tj.cap
+ConversationSettings ■解析名称
+口绝对开始时间
+口显示过滤器的限制
+分析(A) 价
+Ethernet·25 AddressA 222.2.2.2
+统计(S) IPv4.119 AddressB
+电话(Y)
+?
+@
+无线(W)@
+IPv6:10 分组
+192.168.100.1007,033
+192.168.100.100192.168.100.1
+4.737
+192.168.100.100192.168.100.254 3,409 192.168.100.100192.168.100.104 4.001 192.168.100.254192.168.100.104 3,888
+192.168.100.104 239.255.255.250
+19216
+8.10010422400251
+362 360
+工具
+TCP：1794
+帮助(H)
+UDP.486
+Bytes
+BytesA→B
+Packets A→B
+Pa
+29MB 476kB 455kB 448kB 313kB 150kB 45LR
+4,432 2.422 1,884 3,123 1,944 362 360
+16MB 226kB 237kB 296kB 197kB 150kB 45kR

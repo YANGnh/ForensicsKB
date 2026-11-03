@@ -1,0 +1,12 @@
+# OCR: a6785a9b1ecfaf01fc1a18ec9fd78d7e.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/a6785a9b1ecfaf01fc1a18ec9fd78d7e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+4 5 6
+"wx6618f1cfc6c132f8" sdkver="o">
+<title>
+滴滴滴.apk.1.1.1 </title>
+<type>6</type> <action>view
+</action>

@@ -1,0 +1,16 @@
+# OCR: 8d181a7ecfb06050d3281ca5324ea6e0.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/8d181a7ecfb06050d3281ca5324ea6e0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+1 2 3 4 5 6 7 8 9 10 11 12 13
+META-INF/MANIFEST.MF
+Manifest-Version: 1.0
+Created-By:MavenJARPlugin3.2.2 Build-Jdk-Spec:24
+Implementation-Title:newbee-mall
+Implementation-Version:1.o.0-SNApSHoT
+Main-class:org.springframework.boot.loader.JarLauncher
+Start-Class:ltd.newbee.mall.NewBeeMallApplication Spring-Boot-Version:2.7.5
+Spring-Boot-classes:BooT-INF/classes/ Spring-Boot-Lib:BooT-INF/lib/
+Spring-Boot-Classpath-Index:BooT-INF/classpath.idx Spring-Boot-Layers-Index:BooT-INF/layers.idx

@@ -1,0 +1,22 @@
+# OCR: f54735339bf586332d444acabeed36a2.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f54735339bf586332d444acabeed36a2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+OpenWrt
+状态概览路由防火墙系统日志系统进程实时信息
+o
+系统 iStore 服务
+玉网络退出
+A
+状态系统主机名称型号架构目标平台固件版本内核版本本地时间运行时间平均负载
+内存可用数
+OpenWrt
+QEMUStandardPC(Q35+ICH9,2009
+AMDRyzen7480OHwithRadeonGraphics x86/64
+Openwrt23.05.2 5.15.137
+23630-842932a63d/LuClopenwrt-23.05branchgit-24.067.02086-146a8f1
+2024-05-1906:25:58 Oh8m20s
+0.00.0.00,0.00
+2616

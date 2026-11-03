@@ -1,0 +1,16 @@
+# OCR: b0886b2cfcf5a05daf01a10e840e211b.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/b0886b2cfcf5a05daf01a10e840e211b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+周宇PC.E01（421205）操作系统（101223）Windows（101223）
+帐户密码哈希（3）
+）序号
+2 93
+帐户名点此过滤
+WDAGUtilityAccount zy881
+WsiAccount
+哈希类型点此过滤 NTLM NTLM NTLM
+哈希值点此过滤
+b6b7f3efe31e88806e8e2f599f8f1aa2 2c8b52dcc3af1307f868dd326535a763 eb41a09f7947d96c3e90c796316c5c51

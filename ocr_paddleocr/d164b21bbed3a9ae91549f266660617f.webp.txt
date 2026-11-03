@@ -1,0 +1,16 @@
+# OCR: d164b21bbed3a9ae91549f266660617f.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/d164b21bbed3a9ae91549f266660617f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+root@k8s-node2conf#netstat-anpt
+tcp
+@
+0127.0.0.111211
+root@k8s-node2conf#
+memcached
+grep
+0.0.0.0:*
+LISTEN
+1oo1/memcached

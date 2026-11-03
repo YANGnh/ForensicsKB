@@ -1,0 +1,18 @@
+# OCR: 54a6d31dc143b4f2814fdc97d22572b4.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/54a6d31dc143b4f2814fdc97d22572b4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+x
+233.xlsx
+文件位置文件类型 Protection
+复杂度 MD5:
+D：》检材题目》广西公安系统第二届职业技能竞赛电子数据取证分析赛项：镜像）导出
+MsOffice2oo7OpenPassword,Hardwareaccelerationpossible,InstantMemoryattackpossible
+MicrosoftEnhancedRSAandAESCryptographicProvider,128bits.....Brute-force-Slow
+EFB9819F700B6BD9EA80C1D0CCEAEBF9
+Passwords:File-Open
+File-Modify
+012345
+好像没有设置密码捏

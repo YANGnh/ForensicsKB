@@ -1,0 +1,16 @@
+# OCR: cc7c02e2782f865d3e99cf851c0ea9d9.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/cc7c02e2782f865d3e99cf851c0ea9d9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+--LOCAL MACHINE DATA--
+UserName:cN=PhillipGhent,cN=Users,DC=catbomber,DC=net
+ComputerName：cN=cAT-BoMB-w7-Pc,cN=Computers,DC=catbomber,DC=net Site Name:Default-First-site-Name
+DomainShortnameCATBOMBER DomainName:catbomber.net ForestName:catbomber.net
+DomainController:Catbomber-Dc.catbomber.net ForestTrees:
+1）catbomber.net
+Username:Administrator Username: Guest Username:krbtgtUsername:timothy.sizemore Username:phillip.ghent
+Domain:Catbomber-Dc.catbomber.net Name:Catbomber-DC.catbomber.net
+Name:CAT-BOMB-W1e-PC.catbomber.net Name:CAT-BOMB-W7-PC.catbomber.net
+Username:AdministratorUsername:Guest Username:krbtgtUsername:timothy.sizemore Username:phillip.ghent----WebKitFormBoundary7MA4YwxkTrZuogW--

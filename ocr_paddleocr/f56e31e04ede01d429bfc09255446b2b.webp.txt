@@ -1,0 +1,35 @@
+# OCR: f56e31e04ede01d429bfc09255446b2b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/f56e31e04ede01d429bfc09255446b2b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+7 2 3 4 5
+I 酒
+I【【】【【【】
+III【
+【【【【】【
+【
+IV【【【【】【】
+【【【
+【
+【
+【
+V【】
+【【【】
+VI【】【【
+【】阿 Q
+【【【【
+VIIIII
+食【
+【【【
+【】网
+【
+【
+IX【（
+【】【【
+【【
+X【【】
+【【【【
+【
+XI【

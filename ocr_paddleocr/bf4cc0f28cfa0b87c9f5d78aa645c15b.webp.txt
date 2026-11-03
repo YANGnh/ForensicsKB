@@ -1,0 +1,15 @@
+# OCR: bf4cc0f28cfa0b87c9f5d78aa645c15b.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/bf4cc0f28cfa0b87c9f5d78aa645c15b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+system.E01 大小：40.0GB
+主盘
+路径：H:\检材服务器\system.E01
+系统：AlibabaCloudLinux3(So..
+刷新
+卸载
+磁盘设置
+ da 大小：路径：
+卸秦

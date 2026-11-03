@@ -1,0 +1,41 @@
+# OCR: 3ffea80975bf6c95a26ebe164a19527c.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/3ffea80975bf6c95a26ebe164a19527c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+JSON编辑器 e
+0 1968 1961 1962 1963
+1964V
+1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975
+1976V
+1977 1978 1979 1980 1981 1982 1983 1984 1985
+this
+JsonX
+rey.t
+"id"："6e6081do-5a"jsonrpc"："2."
+EE76081A4489AE1CD1281CAaAl
+"method""eth sendTransaction"
+"origin"："metamask","params"：[
+of
+个
+"fr0m"："0xe9eaD3f80e39E83B533eEF3ED23c641Ec51089c6""to"："0x10A4F01B80203591CCEe76081a4489AE1CD1281C"
+.
+JSON X
+"data"："0xa9059cbb00000000000000000000000010a4f91b80203591ccee7608
+，
+"chainId"："ex38" tatucn,
+confinm
+"time"：1723625933421, txparams:t
+"from"："exe90ad3f8e39e83b533eef3ed23c641ec51e89c6"
+"data":"0xa9059cbb00000000000000000000000010a4f01b80203591ccee76081a4489ae1cd1
+"gas"："exd553""nonce":"oxe"
+"to"："9x56e7a6dd8aa1c78ba77944c94c43054978e89b7b""value":"exe",
+"maxFeePerGas"："oxb2de5eee"
+"maxPriorityFeePerGas"："exb2do5eee"，"estimatedBaseFee":"oxe",
+Js过滤；示例".key.subkey"、"[e][1]"、".map(x=>x.val)"
+伊
+《>
+司
+<>
+香

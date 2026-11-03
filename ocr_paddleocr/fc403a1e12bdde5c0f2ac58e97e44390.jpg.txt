@@ -1,0 +1,10 @@
+# OCR: fc403a1e12bdde5c0f2ac58e97e44390.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/fc403a1e12bdde5c0f2ac58e97e44390.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+此电脑>新加卷(D:)>Rope-Opal-03a>faces
+★ ★
+★ oad
+fc3d6cb14cod4 e52adcf8717f27 40b5c.jpeg

@@ -1,0 +1,17 @@
+# OCR: bbe2340e9b492f7a2c8c41304e277cbb.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/bbe2340e9b492f7a2c8c41304e277cbb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+8715 8716 8717 8718 8719 8720 8721 8722 8723 8724 8725 8726 8727 8728 8729
+大获取flag2，只能通过调试获取
++@returns(string)*
+constgetflag2=（）=>
+try
+//使用so库的get_flag2函数，只有调试才会返回真实flag
+//这个函数包含了反调试机制，只有在调试状态下才返回真实flag
+returniibJiami.get_flag2(O; catch(error)
+console.error（获取flag2失败：，
+error
+return无法获取flag。请使用gdb调试器进行调试获取！

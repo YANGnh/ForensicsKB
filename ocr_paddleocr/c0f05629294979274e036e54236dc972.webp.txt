@@ -1,0 +1,18 @@
+# OCR: c0f05629294979274e036e54236dc972.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/c0f05629294979274e036e54236dc972.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+This is
+the network config written by
+network:
+ethernets: etho:
+dhcp4:
+true
+ens33:
+dhcp4:
+version:
+2
+true
+'subiquity

@@ -1,0 +1,46 @@
+# OCR: 65201f14f50af62966de37d2a5507b14.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/65201f14f50af62966de37d2a5507b14.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+AppMessengerProv0.4.6bySULAB 软件文件工具帮助
+文件路径G：/2025盘古石杯1普级赛\export\liekai.
+应..．默以
+虎宽小队虎宽小队
+文件大小44415549字节（
+allowB... debugg...
+true false
+口窗口置顶
+liekai
+包名：com.example.liekai
+版本名1.0.0
+复制
+版本..1
+文件MD55B548C6AE9AF528D117480993F03221D
+文件SHAJFEC4420B4FA23CB099AE038FD82F2CDE5EA1
+DEXMD52472B648F98254C6F79D1FF37F983F08 加固类型没有加固或者木知加固
+打包时间1981年01月01日01时01分02秒
+高．．
+权限信息签名信息其他信息SDK信息敏感信息漏洞信息
+英文名
+权限名称
+唤醒锁定
+android.per...
+拍照权限
+android.per...
+禾知权限
+com.example... android.per...
+录音
+android.per... android.per...
+访可外部存储升机目动允评
+android.per...写入外部存储
+权限注释
+允许程序在手机屏幕关团后后台进程仍然运行允许访问摄像头进行拍照
+录制声音迪过于机或耳机的麦克
+访可外部存储的权限充许程序开机自动运行
+允许程序与入外部存储，如SD卡上与文件
+口
+浏览复制
+x
+复制复制复制复制复制复制

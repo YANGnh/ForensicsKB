@@ -1,0 +1,18 @@
+# OCR: d35342922f4f837f4f0aa690a1c44b00.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/d35342922f4f837f4f0aa690a1c44b00.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+究
+公
+序号
+PC.E01/分区6/Users/TTT/AppData/Local/Temp/vmware-TTT/VMwareDnD/98d9aafa
+三名称过滤
+base.apk
+三大小等于 80.06..
+三创建时间
+起始
+结束
+2025-02-1014:48:23
+超 2

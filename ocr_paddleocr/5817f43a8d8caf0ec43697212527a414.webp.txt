@@ -1,0 +1,22 @@
+# OCR: 5817f43a8d8caf0ec43697212527a414.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/5817f43a8d8caf0ec43697212527a414.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+medialOvAndroid,datalcom.autonavi.minimap/filesautonavilavatar 文件名称一
+autonavi(672) avatar(2
+34a474bb2d50baea3f32892db55c1a81 d645f00240810fcc5c63ebb7a341b4d6
+分区
+文件
+预览
+贝详细 x
+缩略图
+时间轴
+了描述存在的
+存在的，已查看存在的，已查看存在的，已查看
+看组文本
+图例说明
+?文件类型
+png png
+养

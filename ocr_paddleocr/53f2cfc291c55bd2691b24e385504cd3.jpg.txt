@@ -1,0 +1,18 @@
+# OCR: 53f2cfc291c55bd2691b24e385504cd3.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/53f2cfc291c55bd2691b24e385504cd3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+【行为检测
+MITREATT&CKTM矩阵（技术）检测到4条技术指标。
+高危行为（4）
+般行为
+file: file:
+释放了一个二进制文件并执行
+C:|Windows)Templevilrue.exe
+昆查看完整结果
+C:/Windows|Templflashcenterpp_ax_installcn.exe
+Win10(190364bit.Office2016)
+全部展开
+Win10(190364bit.Office2016)

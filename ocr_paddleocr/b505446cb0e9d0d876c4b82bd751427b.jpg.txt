@@ -1,0 +1,13 @@
+# OCR: b505446cb0e9d0d876c4b82bd751427b.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/b505446cb0e9d0d876c4b82bd751427b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+对象
+鼠开始事务 userid
+users@main(MoneyLoverS2)-表
+自文本筛选排序 user_syncid
+6629c9aa80b5506e997c2af3
+导入导出翻数据生成咖创建图美 email
+carleenloydlyis4o@gmail.com

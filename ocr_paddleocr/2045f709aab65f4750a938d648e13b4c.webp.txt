@@ -1,0 +1,31 @@
+# OCR: 2045f709aab65f4750a938d648e13b4c.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/2045f709aab65f4750a938d648e13b4c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+对象
+admin@motx5dw（2025搬善杯服务...
+表配置文件、
+id
+#int(11)
+3
+原开始事务
+username
+单元格编辑器筛选&排序用列
+password
+Bcvarchar(12Bc varchar(64)
+admin
+4yeguolili
+数据分析工具
+gid
+#int(11)
+4eab974df6379565897fe51ae56327648fd3f3c5 2176711577958a37913e9e1f5333932521824950
+一 1
+addtime#int(11)
+1481807439 1719407026
+lastlogin#int(11)
+1719406791
+0
+status#int(1)
+1 1

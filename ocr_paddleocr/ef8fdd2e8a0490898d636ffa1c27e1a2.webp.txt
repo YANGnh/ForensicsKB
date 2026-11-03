@@ -1,0 +1,20 @@
+# OCR: ef8fdd2e8a0490898d636ffa1c27e1a2.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/ef8fdd2e8a0490898d636ffa1c27e1a2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+g
+公
+三序号 □1X 口2
+详细信息
+计算机检材/文件分类/加密文件/TrueCrypt容器
+三名称过滤
+Beifen Beifen
+名称：Beifen 类型：文件
+大小：1024MB
+创建时间：2025-02-1014:42:54 访问时间：：
+2025-02-1016:13:35
+修改时间：2025-02-1014:42:58 MetaAddr:44
+全路径：PC.E01/新加卷(1)/jetbra/Beifen
+加密类型：TrueCrypt容器已删除：否

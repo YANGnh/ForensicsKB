@@ -1,0 +1,54 @@
+# OCR: 60f71e962ac84fcc5c6574bbd0ec1bd8.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/60f71e962ac84fcc5c6574bbd0ec1bd8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+O
+New Workspace (0)
+→
+o
+FloorpStart
+X密码
+?
+about:logins#%7B7286e6ee-ebfd-4d81-b8c7-634df71169c6%7D
+可将书签放在书签工具栏上，方便快速边间。，量理书签，
+Q搜索密码
+顺事：
+o
+名称 (A-Z)
+192.168.188.211:18480 10000@qq.com
++
+1个密码
+192.168.188.211:18480
+o 网址
+http:/192.168.188.211:18480 用户名
+10000qq.com
+密码 8123123
+o
+2025年10月22日
+创建
+复制复制
+X①baidu.com/
+Q
+O
+x
+e密码
+编辑
+2025年10月22日用于整票
+?
+白移除
+百
+P
+x x
+跨设备使用已保存的密码
+☆
+登录同步服务
+0
+一英。
+x ★? 也
+回回 +
+o
+× 自
+15:05 2025/11/9
+.

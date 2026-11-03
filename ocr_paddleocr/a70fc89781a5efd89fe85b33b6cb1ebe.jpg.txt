@@ -1,0 +1,23 @@
+# OCR: a70fc89781a5efd89fe85b33b6cb1ebe.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/a70fc89781a5efd89fe85b33b6cb1ebe.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+新建连接(PostgreSQL)
+常规连接名：主机：端口：
+高级
+初始数据库：
+用户名：密码：
+园
+数据库 Navicat
+测试连接
+SSL
+SSH 白
+HTTP 同 SSH服务器
+IM服务器 172.17.0.2 5432
+mattermosttest
+mmuser Q00000 保存密码
+数据库确定
+取消
+x

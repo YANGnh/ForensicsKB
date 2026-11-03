@@ -1,0 +1,18 @@
+# OCR: 8e7ef361da6b1d6945adf73f0c76de85.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/8e7ef361da6b1d6945adf73f0c76de85.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+errnr:disknduid/e040632a82f12078a6354a4c3bca8526not found grubrescue>ls
+(hd0)(hd,gpt2)(hdo,gpt1)(cd0) grub rescue>ls(hdo.gpt2)
+(hdo,9pt2)：Filesystemisext2 grubrescue>lsOhdo
+error:disk
+notfound
+grub rescue> ls(hd0)
+Unknown command1s (hd0) grubrescue>ls(hdo)
+(hdo)：Filesustemisunknown
+grubrescue>ls(hdo.gpt1)/boot/grub error: unknown filesustem
+grubrescue>ls(hdo,gpt2)/boot/grub
+./../themes/ unicode.pf2 x86_64-efi/ locale/fonts/ grubenugrub.cfg grub rescue> set root=(hdo, gpt2)
+grubrescue>setprefix=(hdo,gpt2)/boot/grub grubrescue>

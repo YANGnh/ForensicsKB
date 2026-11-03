@@ -1,0 +1,43 @@
+# OCR: ed7a309ed3b389e72c4817be36ce5bae.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/ed7a309ed3b389e72c4817be36ce5bae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+getprop.txt ifconfig.txt
+list list list
+ifconfig.txt-Notepad2
+Eile
+Edit
+110
+2 3 4 5 6 7 8 9
+10dummyo
+11 12 13 14 15 16 17
+18wlano
+19 20 21 22 23 24 25 26
+View
+Settings
+b
+2024/9/53:20 2024/9/53:20
+?0
+Linkencap:UNSPEC
+国证
+TXT文件 TXT文件
+inetaddr:127.0.0.1
+Mask:255.0.0.0
+inet6addr:::1/128Scope:Host UPLOOPBACKRUNNINGMTU:655361
+Metric:l
+Rxpackets:oerrors:odropped:ooverruns:oframe:o
+24KB 2KB
+Txpackets:oerrors:odropped:ooverruns:ocarrier:o co11isions:otxqueuelen:1ooo
+Rxbytes:oTxbytes:0 Linkencap:UNsPEc
+inet6addr:fe80::c0bd:5dff:fe45:9330/64Scope:Link UPBROADCASTRUNNINGNOARPMTU:15OOMetriC:1
+Rxpackets:oerrors:odropped:ooverruns:oframe:o
+Tx packets:22 errors:o dropped:o overruns:o carrier:0
+co11isions:otxqueuelen:1ooo Rxbytes:0Txbytes:1540
+Linkencap:uNSPEc
+Drivercnss_pci
+inetaddr:192.168.1.142Bcast:192.168.1.255Mask:255.255.255.0
+inet6addr:fe8o::f4df:dcff:fef1:68f1/64scope:Link UPBROADCASTRUNNINGMULTICASTMTU:15OOMetric:1
+Rxpackets:2276427errors:0dropped:0overruns:0frame:0 Txpackets:292345errors:odropped:ooverruns:ocarrier:0 co11isions:otxqueuelen:3ooo
+Rxbytes:3079399538Txbytes:89522635

@@ -1,0 +1,7 @@
+# OCR: 741a0799c677f9077cda754ba3c162e8.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/741a0799c677f9077cda754ba3c162e8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+ECRETKEY'.'from'.'createC log，error，加密处理异常，al qth'"131,"132,"133'

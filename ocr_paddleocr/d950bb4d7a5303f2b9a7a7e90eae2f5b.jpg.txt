@@ -1,0 +1,15 @@
+# OCR: d950bb4d7a5303f2b9a7a7e90eae2f5b.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/d950bb4d7a5303f2b9a7a7e90eae2f5b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+hl123 用户
+切换扫码登录
+宝塔Linux面板
+用户名或密码错误,您还可以尝试[4]次！
+请填写验证码
+请填写与4位验证码
+登录
+品
+记密码

@@ -1,0 +1,28 @@
+# OCR: 9ef28d172c2c07aae80bf430ff725f15.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/9ef28d172c2c07aae80bf430ff725f15.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+tower-diagnostics
+20250415-2101.zip
+root@Tower:/boot/logs#unziptower-diaqnostics-2025e416-148.zip
+tower-diagnostics-20250416-0148.zip
+Archive:
+creating:tower-diagnostics-20250416-0148
+tower-diagnostics-20250416-0148/unraid-7.e.1.txt
+inflating:
+tower-diagnostics-20250416-9148/xml/
+creating:
+creating:tower-diagnostics-20250416-0148/qemu/
+tower-diagnostics-2o25e416-8148/qemu/noqemulogfiles
+extracting:
+creating:tower-diagnostics-2025416-0148/smart inflating:
+tower-diaqnostics-2025o416-0148/smart/
+aiqoU2106005911262432474746-0-0-26
+flash（sda).txt
+250416-0148 inflating:
+tower-diaqnostics-20250416-0148/smart/vMware VirtualSATAHardDrive00000
+000
+0001
+20250416-0148disk1（sdb）

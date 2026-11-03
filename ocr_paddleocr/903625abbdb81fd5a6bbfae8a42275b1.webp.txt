@@ -1,0 +1,16 @@
+# OCR: 903625abbdb81fd5a6bbfae8a42275b1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/903625abbdb81fd5a6bbfae8a42275b1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+已隔离威肋
+2025/5/1310:35
+状态：已隔离
+隔离的文件在不会损害设备的受限区域内。系统将自动删除它们。
+已检测到威胁：Backdoor:MSIL/Quasar!atmn 警报级别：Severe
+日期：2025/5/1310:36 类别：Backdoor
+严重
+详细信息：:This program provides remote access to the computer it is installed on
+了解更多信息受影响的项目
+file:C:Users贾韦码\AppData\Roaming\SubDir/BwAcr.exe regkey:

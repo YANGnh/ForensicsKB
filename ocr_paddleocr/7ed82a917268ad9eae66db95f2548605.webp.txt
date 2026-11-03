@@ -1,0 +1,11 @@
+# OCR: 7ed82a917268ad9eae66db95f2548605.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/7ed82a917268ad9eae66db95f2548605.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+账号：user357密码：m8@cJ5#y 账号：winnie90密码：Pg7%rGf4 账号：alex.sky密码：6$dE*Nk9 账号：luna.star密码：hT2&mB3@ 账号：tom 198密码：eW5#sL7^
+账号：rose.aarden密码：Qz8!pY4@ 账号：iack.adventure密码：9saH*iM3 账号：amy.music密码：Rf6%nK2# 账号：leo.world密码：3@bT*fL7
+账号：sophiadance密码：yU4&mP9# 账号：david.sport 密码：Kp8%hN3$ 账号：emily.art密码：5$tG*rB2
+账号：william.travel密码：Lq7#ds4@
+账号：olivia.read密码：xM2&fK6# 账号：noah.cook密码：4@zT*pL8

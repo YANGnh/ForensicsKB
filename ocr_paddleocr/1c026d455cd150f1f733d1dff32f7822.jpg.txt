@@ -1,0 +1,35 @@
+# OCR: 1c026d455cd150f1f733d1dff32f7822.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/1c026d455cd150f1f733d1dff32f7822.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+节点数：52908边：52907
+Abc 会员ID
+sgl01
+Abe
+会员姓名孙
+已选择1条清空
+Abc
+邀请人ID sgl001
+#
+所在晨级 6
+#
+直接下游人数 7
+#
+下游人数 18,001
+#
+下游层数 34
+#
+最大展数 53
+数据筛选(1)
+会员ID Abc会员ID
+精确匹配 +添加筛选字段
+sglo1
+按条件过滤
+Aa 清空
+X
+确定
+导出
+x 回
+敲摄阳遗（）被营列

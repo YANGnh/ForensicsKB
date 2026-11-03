@@ -1,0 +1,62 @@
+# OCR: b504146960dafeb6f09c295eb40b396b.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/b504146960dafeb6f09c295eb40b396b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+No.
+Time
+124683.392828 127284.494361 1299 85.618285 132586.756798 1351 87.864265 137888.991579 140590.099844 1432 91.201806 145992.305288
+Source
+192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130
+1488123.407099
+192.168.85.130
+1607130.558342192.168.85.130
+1858143.768295192.168.85.130 1872157.766477192.168.85.130 1887164.625201192.168.85.130 1903176.405617192.168.85.130 1925188.298648192.168.85.130
+Destination
+192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250
+Protocol Lengtl Info HTTP
+396POST
+/phpmyadmin/HTTP/1.1
+HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP
+397POST
+391POST 394POST
+/phpmyadmin/HTTP/1.1
+/phpmyadmin/HTTP/1.1/phpmyadmin/HTTP/1.1
+393POST
+/phpmyadmin/HTTP/1.1
+393POST
+/phpmyadmin/HTTP/1.1
+393POST
+/phpmyadmin/HTTP/1.1
+396POST
+/phpmyadmin/HTTP/1.1
+400POST
+/phpmyadmin/HTTP/1.1
+786POST 839POST
+(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded）
+/phpmyadmin/index.phpHTTP/1.1/phpmyadmin/index.phpHTTP/1.1
+1107POST
+/phpmyadmin/import.phpHTTP/1.1
+1018POST/phpmyadmin/import.phpHTTP/1.1 1029POST
+/phpmyadmin/import.phpHTTP/1.1
+1e26POST/phpmyadmin/import.phpHTTP/1.1 1e19POST/phpmyadmin/import.phpHTTP/1.1
+(application/x-www-form-urlencoded）(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)（application/x-www-form-urlencoded)(application/x-www-form-urlencoded)
+Frame1607:839byteson wire (6712 bits),839bytes captured (6712 bits)oninterface|DevicelNPF(9F3E
+>
+Ethernet II,Src:VMwaref3:b8:de (00:0c:29:f3:b8:de),Dst:VMware_a3:c7:cf (00:0c:29:a3:c7:cf) InternetProtocolVersion4,Src192.168.85.13e,Dst:192.168.85.25e
+Transmission ControlProtocol,SrcPort:49858,DstPort:8o,Seq:1,Ack:1,Len:773 Hypertext Transfer Protocol
+HTML Form URL Encoded:application/x-www-form-urlencoded
+Form item:"pma username"="root" >
+Form item:"pma_password"="admin@12345"
+Form item"server"="i" >
+>Formitem:"token"="o0aa696fe7b68db6b04860b3d0a862a1"
+e1ao eibe eice eide eleo@1fe 0200 8218 e220 0230 e248 8250
+64 32 65 2d 6f 6e 3a 6d 79 55 4a 61
+62 61 3a 77 64 67 20 61 34 73 77 76
+36 31 20 77 65 74 70 5f 53 65 47 69
+62 ed 61 77 64 68 6d 6d 37 72 5a 5f
+30 Ga 70 2d ed 3a 61 63 49 2d 30 77
+34 43 70 66@a 20 5f 72 41 31 6f 69
+38 6f 6c 6f 43 39 6c 79 41 3d 25 64
+3 6 6 7 6 m 6 7 6 2 m

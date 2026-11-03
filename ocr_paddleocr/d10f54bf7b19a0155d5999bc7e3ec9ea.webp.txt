@@ -1,0 +1,35 @@
+# OCR: d10f54bf7b19a0155d5999bc7e3ec9ea.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/d10f54bf7b19a0155d5999bc7e3ec9ea.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+火眼内存分析工具v1.0.0.6015 M
+分析完成，
+总用时00:01:07
+基本信息
+进程列表信息
+网络连接状态信息
+微信密钥信息进程信息
+Line密钥信息
+Bitlocker密钥信息 NtQQ密钥信息
+203 121 1 203 0 0 0
+进程名
+tmgmd.exe audiodg.exe svchost.exe svchost.exe
+MiniSearchHost.exe
++.exe conhost.exe
+OpenConsole.exe
+WindowsTerminal.exe RuntimeBroker.exe
+cmd.exe WeChat.exe
+mmcrashpad handler64.exe WeChatAppEx.exe
+进程号 2U24
+4344 5640 8672 8348 2872 5796 11104 8476 6388 2444 9832 2228 3000
+父进程号
+5590 2812 704 704 920 5596 2872 920 920 920 2872 5596 9832 9832
+创建时间
+224-05-23:15:19 2024-05-23 03:16:52 2024-05-23 03:34:34 2024-05-23 03:34:34 2024-05-23 04:09:23 2024-05-2306:37:47 2024-05-23 06:37:47 2024-05-23 06:37:47 2024-05-23 06:37:47 2024-05-23 06:37:47 2024-05-23 06:38:23 2024-05-23 06:46:27 2024-05-23 06:46:28 2024-05-23 06:46:28
+Wow640
+否否否否否否香香否香否否否
+操作详确
+详情详情详情详情详情详情详情详情详情详情详情详情详情
+x 返回

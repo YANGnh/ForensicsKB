@@ -1,0 +1,20 @@
+# OCR: 53f06b75fcf2f8ade3b0a2e77d9bce52.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/53f06b75fcf2f8ade3b0a2e77d9bce52.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+PosT/login.jspHTTP/1.1 Host:192.168.8.30:8080 Content-Length:42
+Cache-Control:max-age=e
+Origin:http://192.168.8.30:808e
+Content-Type：application/x-www-form-urlencoded Jpgrade-Insecure-Reguests:
+User-Agent:Mozi1la/5.0（WindowsNT10.0;Win64;x64)AppleWebKit/537.36（KHTML，1ikeGecko）Chrome/129.0.0.0Safari/537.36Edg/129..8.0
+Accept:text/html,application/xhtml+xml,application/xml;g=o.9,image/avif,image/webp,image/apng,*/*;g=o.8,application/signed-exchange;v=b3;g=o.7
+Referer：http://192.168.8.3e:8e8e/login.jsp Accept-Encoding:gzip,deflatebr
+Accept-Language:zh-cN,zh;q=o.9,en;q=o.8,en-GBq=o.7,en-us;q=o.6 Connection:keep-alive
+username=root&password=secret&submit=Login HTTP/1.132Found
+Server:Apache-Coyote/1.1
+Set-Cookie:JSESSI0NID=14E2F70067777D8EC6447678EED88844;Path=/:Http0nly
+Set-Cookie:rememberMe=deleteMe;Path=/;Max-Age=o;Expires=Tue,13-May-2e25e8:24:51GMT
+Location:/：isessionid=14E2F70067777D8Ec6447678EED88844 Content-Length:0
+Date:Wed,14May202508:24:50GMT

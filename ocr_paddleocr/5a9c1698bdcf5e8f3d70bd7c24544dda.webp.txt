@@ -1,0 +1,18 @@
+# OCR: 5a9c1698bdcf5e8f3d70bd7c24544dda.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/5a9c1698bdcf5e8f3d70bd7c24544dda.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+g
+ PC.E01>目基本信息>目系统信息
+三序号口4 口5 口6 7 口8
+三名称过滤
+操作系统位数
+系统时区安装时间产品密钥发行ID
+三英文名称过滤
+OSBITNESS
+OSTIMEZONE INSTALLTIME PRODUCT_KEY RELEASEID
+三值过滤 64位
+（UTC+08:00）北京，重庆，香港特别行政区
+2025-05-1615:16:50+0800CST DX2WBTKRPV3KTOYPOY2V4CRXH 2009

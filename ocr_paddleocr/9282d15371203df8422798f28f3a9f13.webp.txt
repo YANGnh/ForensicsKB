@@ -1,0 +1,34 @@
+# OCR: 9282d15371203df8422798f28f3a9f13.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9282d15371203df8422798f28f3a9f13.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+linux「192.168.31.150】 >>> start
+15:57:46
+[15:57:46] Checking file systen
+[15 :57: 46]
+Mounting the container:
+[15:57:46] 115:57:461[15:57:46] T15:57:46[15:57:46][15:57:46] T15:57:461[15 :57: 46]
+done
+done
+/proc
+
+/sys...
+done
+/dev
+/dev/shn/dev/pts
+done
+... skip
+done
+:: Configuring core/nnt:: Configuring core/net
+[15:57:47]::9
+Starting desktop/dbus
+[15:57:47]
+Starting extra/ssh
+:: Starting graphics/x11
+[15:57:47][15:57:47]
+cse start
+done
+done done
+done

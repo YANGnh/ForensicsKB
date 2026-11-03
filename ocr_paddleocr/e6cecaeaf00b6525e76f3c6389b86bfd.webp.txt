@@ -1,0 +1,40 @@
+# OCR: e6cecaeaf00b6525e76f3c6389b86bfd.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/e6cecaeaf00b6525e76f3c6389b86bfd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+encrypt_file. Py×
+76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100
+L. L
+49 50
+58 60 62 64
+66 68 70 72 74 76 78 80 82 84 86 88 90 92 94 96
+980 981 982
+qo
+LOAD STR LOAD FAST COMPARE OE
+POPJUMPIFFALSE
+LOAD STR LOAD FAST COMPAREOP
+POPJUMPIFTRUE
+LOAD STR LOAD FAST COMPARE OF
+POP JUMP IF TRUE
+LOAD STR LOAD FAST COMPAREOP
+POP JUMP IF TRUE
+LOAD STR LOAD FAST COMPARE OP
+POP JUMP IF FALSE
+COME FROM COME FROM COME FROM
+38 98 98 98 38 88 80 72
+-encrypted''filename'
+not-in'to38'
+txt'
+filename' in
+ito98＇'doc
+'filename' in
+'to98' ipg'
+'filename'
+in ito
+981
+'png
+'filename' in
+ito38＇
+188-801 172′

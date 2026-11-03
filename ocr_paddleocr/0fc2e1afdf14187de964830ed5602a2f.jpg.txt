@@ -1,0 +1,22 @@
+# OCR: 0fc2e1afdf14187de964830ed5602a2f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/0fc2e1afdf14187de964830ed5602a2f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+2024年3月14日星期四
+口口口口口口口
+口
+20:41 20:40 20:33 20:33 20:33 20:33 20:32
+11:17
+@ o
+D
+192.168.8.17 MoneyMoney
+192.168.8.17 192.168.8.17
+用户-MoneyMoney 用户-MoneyMoney 用户-MoneyMoney 用户-MoneyMoney
+192.168.8.17
+192.168.8.17 192.168.8.17 192.168.8.17 192.168.8.17
+192.168.8.17
+新约佛论禅/佛日加密
+-PcMoe!
+hi.pcmoe.net

@@ -1,0 +1,77 @@
+# OCR: 51c1d4c0bd17a58c99121cacd2908100.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/51c1d4c0bd17a58c99121cacd2908100.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+e 圆案件
+文件工分析
+位置时间线 Q 搜素
+笔记自报告
+研判鸟工具箱
+画 AI助手
+刷新
+详情/预览
+请选择/输入持有人/检材编号/名
+服务器检材—.E01
+19/2358
+boards epic boardla...
+用用用用用
+用用用
+用
+containerrepositorys... geo event log
+vulnerability finding s... integrations
+vulnerability occurren.. vulnerabilities
+workitemdates sour...
+users
+0 0 0 0 0 0 0 0
+6/17
+virtual registries pack...
+environments deployments epics
+agent user access pr... cluster agent url conf... audit events instance.. audit eventsinstance... service desk settings design management ... analytics dashboards ...
+oauthapplications ai settings
+merge reguest diffs ai agent versions
+ ai agent version attac...
+abuse report notes
+开
+analytics cycle analyti... abuse report user me...
+品
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+g
+^服务器检材一,E01>甲PostgresSQL解析>
+表名：users
+字段数 78
+_att...
+序号 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+状态 × + X
++
+locked at
+username
+Mariy root Mia root root Lila root root Jake root root Leo Zara Kai Elio
+alert-bot support-bot
+分析结果搜索
+../gitlab/postgresql/data>gitlabhq_production>users
+数据量 17
+can creat...
+true true true true true true true true true true true true true true true true true
+前2000条预览数据，使用数据库取证工具查看完整数据
+can creat...
+false false false false false false false false false false false false false false false false false
+state active active active active active active active active active active active active active active active active active
+字符集
+color sch...
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+passwor...
+画Q
+created
+1 1
+1 1 1 1 1 1
+last cred...
+园注释 avatar
+alert-bot.png support-bot....
+confirma...
+包
+X
+“设置列
+eyZyi8skj512. eyZyi8skj512. DQylywpnD.
+DQyJywpnD. DQylywpnD.

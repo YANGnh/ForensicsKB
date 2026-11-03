@@ -1,0 +1,26 @@
+# OCR: a167c3f4768f1449fb543b6579ef673b.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/a167c3f4768f1449fb543b6579ef673b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+37 38 39
+70089b2c6e2e
+starrocks:1.e
+4f853b45dc35
+redis:6.2.1
+2275ccba46c7
+mysql:i.e
+"sh-c/opt/apache/.."
+12 days ago
+(healthy)
+Up8minutes
+root-starrocks-apache_hdfs_broker-1
+"docker-entrvpoint.s...
+12 daysago
+redis
+"docker-entrypoint.s.."
+2weeks ago
+Up 8 minutes up8minutes
+18000/tcp
+6379/tcp.@..0.0:16379->16379/tcp.:::16379->16379/tcp 33060/tcp,0.0.0.0:13306->3306/tcp,:::13306->3306/tcp

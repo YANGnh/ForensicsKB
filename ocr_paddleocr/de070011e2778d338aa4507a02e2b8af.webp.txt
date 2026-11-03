@@ -1,0 +1,11 @@
+# OCR: de070011e2778d338aa4507a02e2b8af.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/de070011e2778d338aa4507a02e2b8af.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+名称
+图G:2025盘古石杯管级赛lexport/Resources/lib/python38.zip
+random.pyc functools.pyc gettext.pyc Pftplib.pyc ssl.pyc
+py_compile.pyc
+Fencryptdeobfuscated.pyc

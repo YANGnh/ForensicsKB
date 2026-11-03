@@ -1,0 +1,18 @@
+# OCR: 72e9c2ead6fea4c749c0d884c32223cd.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/72e9c2ead6fea4c749c0d884c32223cd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+火绒安全
+病毒查杀
+共发现风险项目1个，建议立即处理扫描已完成
+风险项目
+图
+C:/Users)Administrator)Desktop/resource_hacker)Wechat.exe
+后门病毒
+Backdoor/CobaltStrike.d
+全部忽略
+状态待处理
+立即处理详情
+X

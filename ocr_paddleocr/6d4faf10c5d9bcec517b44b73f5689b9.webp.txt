@@ -1,0 +1,36 @@
+# OCR: 6d4faf10c5d9bcec517b44b73f5689b9.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/6d4faf10c5d9bcec517b44b73f5689b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+745762198.289407 745806706.02484 745828801.033399 745832562.093108 745925966.356129 745998589.29084 746352950.070264 746440526.738382 746692798.229586 746693298.839502 746694723.960979 746697721.060631 746698058.897805 746698245.618945 746698359.354313 746698408.191596 746698530.773488
+0
+.0943620204926
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+39534470 63791704
+(Null)(Null)
+29209822 46837134 38596094 31577118 63791704 63791704 63791704 63791704 63791704 63791704 63791704 63791704 63791704
+hk hk hk
+DCodev4.02a (Build:9306)
+DCODE ConvertDatatoDate/TimeValues
+Add Bias:
+Decode Format:
+Example:
+UTC+08:00
+(Null)(Null)(Null)
+MAC: Absolute Time 219216022
+746692798.229586
+Value to Decode:
+(Null)(Null)(Null)
+Windowontop
+Date&Time:Fri,30August202414:39:58+0800
+www.digital-detective.co.uk
+Cancel
+Clear
+com.apple.Telephc com.apple.Telepho com.apple.Telepho
+x tho
+ho ho ho Tho ho ho ho tho
+鸟 Decode
+ho ho ho ho pho

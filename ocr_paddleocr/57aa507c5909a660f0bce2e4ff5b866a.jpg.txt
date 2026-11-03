@@ -1,0 +1,10 @@
+# OCR: 57aa507c5909a660f0bce2e4ff5b866a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/57aa507c5909a660f0bce2e4ff5b866a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+root/data/app/~MNuVEe19NxyBJPIcjtvvTA==/com.baidu.input-wVcZtdgcE8GPweWb426qKA==/base.apk
+/root/data/app/-cMgovKAzgbyy-scu5z3kwQ-=/tw.nekomimi.nekogram--C-5Tr6cbInhwDAIiTavDw==/base.apk/root/data/app/-oMLDQItjJ7YaLD8Gyop2UQ--/org.telegranm.messenger-SycLDSg6aMczcqx3lvOGQ--/base.apk
+/root/data/app/~~BolGm9b5gsI8FHxk8DzSwA==/com_android.chrome-BC1VynjsWsawWh_mo3FSw=-/base.apk/root/data/app/~~MpHN3PzKGmFKiK6ubzL5uw==/com.tencent.tim-rlTJMR2xtPR-3fcUezcTQ-=/base.apk
+/root/data/app/~3vs-ozAwo-7fNUHelo9iKg==/com.ss.android.ugc.aweme-Wi_qpnjmCeMC4LU1LtGoQ-=/base.apk droid@nodel-s

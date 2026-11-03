@@ -1,0 +1,31 @@
+# OCR: 7943a9c5a0f43dcd99b61584e98c04cf.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/7943a9c5a0f43dcd99b61584e98c04cf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+laoka>config>
+<?php
+2?
+5 8 9
+4 S
+8 9
+**
+dujiaoka.php
+The file was created by Assimon.
+@author
+@copyright@link
+return
+'dujiaoka
+assimon<ashang@utf8.hk> assimon<ashang@utf8.hk) http://utf8.hk/
+version
+//模板集合
+'templates'=>[
+=>2.0.5
+unicorn=》官方【unicorn-独角兽]'
+"luna'=>Luna[Julyssn]'"hyper'=>"hyper[Bimoe]
+语言
+"language'=>[
+"zh_CN'=》‘简体中文' zh_TW'=>‘繁体中文'
+1
+公众号·金星路406取证人

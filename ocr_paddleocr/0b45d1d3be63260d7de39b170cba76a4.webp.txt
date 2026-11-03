@@ -1,0 +1,17 @@
+# OCR: 0b45d1d3be63260d7de39b170cba76a4.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/0b45d1d3be63260d7de39b170cba76a4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+详细信息
+名称：8C6A8092-FC3D-4483-98A7-55E4842D56EC@3x.ktx
+扩展名：ktx 类型：文件
+大小：272.04KB
+修改时间：2025-05-2007:30:50
+MetaAddr：4546466304 全路径：
+X
+Image.tar/private/var/mobile/Containers/Data/Application/60 1CD070-48D0-4FD9-8F13-
+A654331E0946/Library/SplashBoard/Snapshots/scenelDcom.
+apple.mobilesafari-B072C594-9344-4451-93E1-5378F67EB55E/8C6A8092-FC3D-4483-98A7-55E4842D56EC@3x.ktx
+加密类型：未加密已删除：否

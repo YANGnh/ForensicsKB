@@ -1,0 +1,38 @@
+# OCR: 1b813c01c88f861a67e7e8efe2585139.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/1b813c01c88f861a67e7e8efe2585139.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+Key
+I.....WFWorkflowActionParameters 日
+WFWorkflowActionldentifier..WFWorkflowActionParameters
+由·WFInput
+WFVariableName
+WFWorkflowActionldentifier WFWorkflowActionParameters 日
+WFWorkflowActionldentifier..WFWorkflowActionParameters 中
+WFWorkflowActionldentifier WFWorkflowActionParameters
+④WFInput
+WFVariableName
+WFWorkflowActionldentifier..WFWorkflowActionParameters 中
+WFWorkflowActionldentifier +..WFWorkflowActionParameters
+WFWorkflowActionldentifier WFWorkflowActionParameters·WFInput
+WFVariableName
+WFWorkflowActionldentifier.+..WFWorkflowActionParameters 日
+WFWorkflowActionldentifier WFWorkflowActionParameters WFWorkflowActionldentifier·WFWorkflowActionParameters +WEInput
+WFVariableName
+WFWorkflowActionldentifier WFWorkflowActionParameters E
+WFWorkflowActionldentifier WFWorkflowActionParameters
+Type dict dict string dict dict string cict string dict dict string dict dict string dict dict string aict string dict dict string dict dict string dict dict string aict string dict dict string dict dict string dict dict string cict string dict dict string dict
+Value
+is.workflow.actions.setvariable host
+is.workflow.actions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable pwd
+is.workflow.actions.selectphoto is.workflow.actions.hash
+is.workflow.actions.setvariable cmd2
+is.workflow.actions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable cmd1
+is.workflow.actions.gettext
+is.workflow.actions.runsshscript

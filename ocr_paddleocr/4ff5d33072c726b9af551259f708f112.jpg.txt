@@ -1,0 +1,21 @@
+# OCR: 4ff5d33072c726b9af551259f708f112.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/4ff5d33072c726b9af551259f708f112.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+对象
+开始事务 id
+settings@main(s-ui)-表
+文本、简选排序
+key
+1webPort 2webPath 3subPort 4subPath
+5webDomain 6webKeyFile 7subUpdates 8subEncode 9webListen 10webURI
+11 sessionMaxAge
+12trafficAge 13timeLocation 14subDomain 15webSecret 16webCertFile 17subCertFile 18subKeyFile 19subShowlnfo
+20subURI 21subListen
+value 58294/misaka/ 58295/msksub/
+12 true
+0 30
+Asia/Tehran false
+C导入C导

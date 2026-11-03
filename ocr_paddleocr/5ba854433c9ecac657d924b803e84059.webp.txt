@@ -1,0 +1,39 @@
+# OCR: 5ba854433c9ecac657d924b803e84059.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/5ba854433c9ecac657d924b803e84059.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+g
+1.计算机检材.E01>
+三序号 1 2/3 A 5 口6 口7 8 ■9
+三名称过滤
+6to4Adapter 本地连接*1 本地连接*3
+以太网(内核调试器） Etherneto2
+基本信息>网络配置>网络连接
+三描述过滤
+Microsoft6to4Ada. WAN Miniport (SSTP) WANMiniport (L2TP) MicrosoftKernel De... Intel(R)PRO/1000..
+MicrosoftIP-HTTPS...
+Etherneto 本地连接*4 本地连接*2
+Microsoft IP-HTTPS .. Intel(R) 82574L Giga.. WANMiniport (PPTP) WAN Miniport (IKEv2)
+三IP地址过滤
+三Mac地址过滤
+00-0C-29-AC-5C-F8 00-0C-29-30-DE-E2
+三DHCP地址过滤
+192.168.237.128 192.168.22.128
+三DHCP网关Ma 过滤
+00-50-56-..
+租期获得时间
+起始
+结束
+在网络连接中搜索
+三重新绑定时间
+起始
+2025-11-1017:02:49 1970-01-0108:00:59
+结束
+Q
+高级
+三过期时间
+起始
+结设置列
+2025-11-10 1970-01-01

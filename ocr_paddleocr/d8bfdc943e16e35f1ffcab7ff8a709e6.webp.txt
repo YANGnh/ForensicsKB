@@ -1,0 +1,28 @@
+# OCR: d8bfdc943e16e35f1ffcab7ff8a709e6.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/d8bfdc943e16e35f1ffcab7ff8a709e6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+Mount ImageToDrive
+AddImage ImageFile:
+B:|Group/John_NAS_2.E01
+Mount Iype:Physical & Logical Drive Letter: Next Available (L:)
+Mount Method:Block Device/ Writable WriteCacheFolder
+E:取证检材\2024美亚杯\团体赛
+MappedImageList Mapped Images:
+驱动器...
+Method
+PhysicalD...Block Device...
+I: J: K:
+Block Device... Block Device... Block Device...
+PhysicalD...Block Device...
+F: G: H:
+Block Device... BlockDevice... Block Device...
+分区 Image
+分区1[81.. 分区2[20... 分区3[14.. Image
+分区1[81.. 分区2[20.. 分区3[29...
+Image
+B:\GroupJohn_NAS_2.E01 B:GroupJohn_NAS_2.E01 B:GrouplJohn_NAS2.E01 B:GroupJohnNAS2.E01 B:GroupJohnNAS1.Eo1 B:GroupJohn_NAS_1.E01 B:GroupJohnNAS1.Eo1 B:IGrouplJohnNAS1.Eo1
+Mount Unmount 关闭(C)
+x

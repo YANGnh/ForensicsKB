@@ -1,0 +1,29 @@
+# OCR: d9615c5e7d78ec509ff40b9bc64ee6c1.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/d9615c5e7d78ec509ff40b9bc64ee6c1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+口
+PC.E01>
+国序号口G1 口G2 53
+详细信息
+文件
+邮名称
+Wechat.exe WeChat.exe WeChat.exe
+名称：Wechat.exe
+扩屏名：exe 类型：文件大小27.5KB
+创谨时间：2024-05-2309:25:00 请问时间：2024-05-2316:13:52 修改时间：2024-05-2215:23:00 MetaAddr:82796
+扩展名 exe exe exe
+全路径：PC.E01/System/Users/Administrator/Desktop/resource_hacker/Wechat.exe
+加密类型：未加密已制除：香
+三类型文件文件文件
+大小 27.5KB 644.60KB 644.60KB
+Wechat.exe 三创理时间
+2024-05-23 09:25:00 2024-03-26 18:43:44 2024-03-26 18:43:44
+邮访问时间
+x画Q
+2024-05-23 16:13:52 2024-05-24 11:29:58 2024-05-22 09:59:10
+? 三修改时间
+4
+2024-05-22 15:23:00 2024-03-26 18:43:44 2024-03-26 18:43:44

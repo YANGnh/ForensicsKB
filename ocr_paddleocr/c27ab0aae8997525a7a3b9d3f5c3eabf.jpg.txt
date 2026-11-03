@@ -1,0 +1,40 @@
+# OCR: c27ab0aae8997525a7a3b9d3f5c3eabf.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c27ab0aae8997525a7a3b9d3f5c3eabf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+对象
+鼠开始事务 user_id
+2 101 102 103 114 115
+116 117 118 119 120 121 122 123 124 125 126 127 128 129 130
+sys_user@jinyi(112MysQL)-表
+筛选国文本
+deptid
+排序
+user_name
+103admin 1zhangjie 1zt
+1zhangrunshuai 1yuankaizeng 2zhanxiaofei(Null)zhangjunjie
+(Null)zcd
+(Null)wangfei(Null)tan
+(Null)CSL0639(Nultydjy2023(Null)wu2023(NullyIfy888 Nullqqw(Nul) zxf 1qy2023(Null)
+CZ2023(Null)
+CZ2301
+(Null)wl(Nuft)FYX(Null)MY
+G导入C导出
+数据生成
+咖创建圆表
+nick_name admin 张杰 zt 张润师袁凯增詹晓菲张俊杰清源老汪檀少嘉 YU 吴总富友倩情晓菲青玉 YU CHAI wl
+MY
+user.type
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+email
+x@163.com x@qq.com
+phonenumber 15888888888 15666666666 18612312312 18560628096
+sex 0 0 0 1 0 0 0 1 0 0 0 0 0
+1 0 o 0 0 0
+avatar
+password
+status
+$2aS10SSRsFLq98oRNaa1Ap2LcBn.lEMw $2a$10$1kD9BHNWLcRqyn7V/gO8Ze4rn0 $2a$10SAEDOdPhvAW2QgOFJzclKsuySyl1 $2a$10SxNZKIRVU0XdTq.EiHfbhyeFGOV1 $2a$10Su5.ZelMz/iAHEdl/5kKKFuYPZtm81 $2a$10$DySa/d36AceTgOMvugJBSuV.d90 $2a$10$jhDa4PXUyFvydMf66/YBtOdmzh:0 $2a$10SgvgYC9stN/MGun6pz2R8EucBQ:1 $2a$10$1WNPfVzntA0rsM79GGyJZuWpC0 $2a$10$/gsl1yWPz1fa2CzT1Rih/eVEPukg0 $2a$10SeUhEoX7FCBAL6CJbiY1vwONfG+0 $2a$10SCe/h.rOv6EezyQYHFsy/ZOJIhGJ01 $2as10SboeailKQuoQsrbdZVZnSMeC6b/1 $2a$10SA9pJPv1tUyRXrgVG64alRemOwu0 $2a$10$9aj72PbrPYgjz4wiEhyzde.c/NOvFt0 $2a$10$J5csKkMGXKuHSkvW5aowweZF0 $2a$10$11lQ6Hii/vgNwwrdirU1lurgVXfiZ(0 $2a$10$8fhwlhGFrEEA/i2z737n0OSLL/UN1 $2a$10$XXqTy01PllKARpZrSnoYMOxfm30 $2a$10SjuOelB6WXRclHxcBoUmmp.xbZN0 $2a$10$QOUcumZWPpoeeq2VAP50w.4y.0 $2a$10$7D3j4dlrj0Cf8FQtdQ1pdOZQHU1
+te al al al al al al al al al al al al al al al al al al al al al al

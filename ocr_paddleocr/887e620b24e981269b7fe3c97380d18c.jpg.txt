@@ -1,0 +1,19 @@
+# OCR: 887e620b24e981269b7fe3c97380d18c.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/887e620b24e981269b7fe3c97380d18c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+检材1>图Linux基本信息>cl(8v4k2J-1aFd-ZRXS-hKwE-30qd-b8Fi-iDqWyR)/分区1>历史命令>
+www
+三序号 □25 26 口27 口28 口29 30 31 口32 口33 口34 口35 口36
+三用户名过滤 www www www www www www www www www www www www
+=Shell类型过滤
+三命令过滤 s Is
+cdPwnKit-Exploit-main./exploit
+cd application/ Is
+cdPwnKit-Exploit-main
+LS/E LS Is
+-/exploit
+推时间起始
+结束

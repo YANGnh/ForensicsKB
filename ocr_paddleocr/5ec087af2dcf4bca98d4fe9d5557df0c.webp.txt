@@ -1,0 +1,15 @@
+# OCR: 5ec087af2dcf4bca98d4fe9d5557df0c.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/5ec087af2dcf4bca98d4fe9d5557df0c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+详细信息
+文件名：result.txt 偏移：Oh
+内容：192.168.0.110rootqwe123 命中编码：utf8
+命中关键词：192.168.0.110
+创建时间：2025-05-2214:37:53 修改时间：2025-05-2214:37:53 访问时间：2025-05-2214:37:53
+MD5:fa7b6a271252ea8ccd99208823d9e25a
+SHA1:db740488e3cc4cfddafcdc7057997ed932adeb0a
+SHA256:3c9a522883f2136436528f7996127496ca6dfca67238a3ce10aed85e67b22de6
+源文件：kali-linux-2025.1c-vmware-amd64.vmdk/分区2/home/kali/Desktop/openipchack/result.txt 已删除：否

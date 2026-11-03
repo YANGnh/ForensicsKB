@@ -1,0 +1,32 @@
+# OCR: d799df7dce07d0a33f5f32dd44189ae1.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/d799df7dce07d0a33f5f32dd44189ae1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+网站服务器
+*FROM
+SELECT
+信息 id
+摘要
+结果1
+2828
+thinkuserlog
+剖析
+状态
+username
+D运行口停止昆昌解释
+username =
+"zhiwanjing!
+NHERE
+nickname
+521 zhiwanjing 525zhiwanjing 526zhiwanjing 527zhiwanjing 528zhiwanjing 529zhiwanjing
+zhiwanjing zhiwanjing zhiwanjing zhiwanjing zhiwanjing zhiwanjing
+type
+content
+ORDERBYaddtime
+用户[zhiwanjing]登录系统，登录时间2024-04-2509:49:38 5用户[zhiwanjing]登录系统，登录时间2024-04-2510:30:16 3用户上分，上分金额10000，上分后余额10000.00
+5用户[zhiwanjing]登录系统，登录时间2024-04-2514:48:29
+3用户上分，上分金额5000，上分后余额15000.00 3用户上分，上分金额20000上分后余额35000.00
+addtime
+1714009778 1714012216 1714012295 1714027709 1714029240 1714029570

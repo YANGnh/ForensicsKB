@@ -1,0 +1,17 @@
+# OCR: 4c4720527b02896aa6547bc91bf5a5cd.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/4c4720527b02896aa6547bc91bf5a5cd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+g
+集群服务器001>octeredocker>docker>
+三序号口1 口2 3 4 口5 口6
+三仓库过滤
+镜像列表
+Y
+registry.aliyuncs.com/google_containers/kube-controller-manager
+registry.aliyuncs.com/google_containers/kube-scheduler kubernetesui/metrics-scraper
+rancher/mirrored-flannelcni-flannel-cni-plugin registry.aliyuncs.com/google_containers/coredns
+registry.aliyuncs.com/google_containers/kube-apiserver
+三标签过滤 v1.18.0 v1.18.0 v1.0.6 v1.0.0 1.6.7 v1.18.0

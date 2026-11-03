@@ -1,0 +1,14 @@
+# OCR: affda2974032317b7d5a012621dcdc40.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/affda2974032317b7d5a012621dcdc40.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+天
+SELECTcoUNT(DISTINCTa.证件号码）AStarget_persons
+FROMldzsa JoiN ldzsb
+ONa.证件号码=b.证件号码
+ANDDATEDIFF(b.入住时间,a.入住时间)=1--后一条记录比前一条晚1
+ANDa.旅店编码<>b.旅店编码--入住不同酒店 WHEREYEAR(a.入住时间）IN（2024，2025)
+ANDYEAR(b.入住时间）IN（2024，2025)；--确保两条记录都在目标年份内
+公众号：小谢取证

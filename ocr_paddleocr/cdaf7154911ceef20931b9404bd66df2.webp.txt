@@ -1,0 +1,35 @@
+# OCR: cdaf7154911ceef20931b9404bd66df2.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/cdaf7154911ceef20931b9404bd66df2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+ForensicsTool GUI WorkBench
+模式任务 file
+password
+imei token uid
+[提示]-—[成功]--
+【1】表示解密数据库，支持的type值为12、4-7、15【1】微信的EnMicroMsg.db
+(F/BaiduNetdiskDownload/2024龙信杯exports/EnMicroMsg.db)
+d5d90f2
+微信获取到的IMEI或MEID，在shared_prefs/DENGTA 野火iM系应用的用户token，sharedprefs/config.xml白默往（通常在sharedprefs/im.xml中的userld的值）、
+Run
+>
+->正在计算微信数据库EnmicroMsg.db密钥->获取到数据库密钥<d5d90f2>
+uin wxid device
+口
+x v
+微信用户的uin，可能是负值，在sharedprefs/authinfo 数据库所属的wxid，一般情况下在解密EnMicroMsg.db 钉钉解密需要的内容，通常在sharedprefs/com.alibab
+Author:Wxjzc
+Python C:UsersvAdministratorvDesktoplworkspace\ForensicsTool\ForensicsTool.py -m 1 -t 1 -f
+b--passwordd5d90f2
+F：/BaiduNetdiskDowmload/2024龙信杯\exports/EnMicroMsg.db
+3
+《微信数据库解密>
+Author:WXjzc
+>定解密微信数据库Enlicromsg.db，
+解密密为<d5d90f2
+[提宗]
+[綫动j---->Eniicromsg.db解密成功，解密后数据库程源安祥首录下EnMicroMsg_dec.db
+[成功]-
+->提取到wxia为<wxid_5g23d5g40ck022>

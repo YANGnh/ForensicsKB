@@ -1,0 +1,10 @@
+# OCR: 2efc69f711f52e01beeddb78757413c1.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/2efc69f711f52e01beeddb78757413c1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+<stringname="zhifubao_nick_hint">请输入支付宝昵称</string <stringname="zhifubao_number">支付宝账号*</string>
+<stringname="zhifubaonumberhint">请输入支付宝账号</string> <stringname="zx">注销账户</string>
+<stringname="zx_tips1">删除所有数据，永久注销账号</string> <stringname="app_orders">4</string>
+<string name="apP_s[>nCTC3EZ+i17D3P/0HglgduhUq1JikQwk</string>/resources>

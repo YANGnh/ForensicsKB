@@ -1,0 +1,31 @@
+# OCR: fce45d2a9f923e67fcc02648588884ac.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/fce45d2a9f923e67fcc02648588884ac.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+PROXMOXVirtualEnvironment8.1.4接素
+服务器视图量数据中心
+opve
+110(nginx) 100(Router) 101 (node1) 102(node2) 103 (node3) 111 (javaserver) 112 (sqiserver) 120 (luck)
+ localnetwork (pve)
+local (pve) local-ivm(pve）
+节点'pve Q搜素概要口备注 Shell og系统三网络·先证 QDNS 主机
+建名称下 ens160 ens36 vmbro vmbr1
+还源类别
+编辑
+网络设备网络设备
+LinuxBridge LinuxBridge
+移陈
+应角配置
+运行中是香是是
+自动启动
+百香是是
+VLAN..
+否香香
+端口从属 ens160
+Bond摸式
+CIDR
+192.168.71.133/24 192.168.100.0/24
+网关
+192.168.71.2

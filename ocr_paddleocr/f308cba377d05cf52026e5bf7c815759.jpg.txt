@@ -1,0 +1,20 @@
+# OCR: f308cba377d05cf52026e5bf7c815759.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f308cba377d05cf52026e5bf7c815759.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+CentosLinux（Core）
+Kernel
+3.10.0-1160.118.1.e17.x86_64 on an x86_64
+yourcode Passuord
+Last
+login:root
+login:
+Mau23
+11:56:03
+Thu
+fromdesktnn
+0002a
+Mshome
+met

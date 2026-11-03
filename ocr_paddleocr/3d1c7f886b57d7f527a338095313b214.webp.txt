@@ -1,0 +1,21 @@
+# OCR: 3d1c7f886b57d7f527a338095313b214.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/3d1c7f886b57d7f527a338095313b214.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+SELECTc.传感器ID,COUNT(DISTINCTc.证件号码）aSZsFROM（SELECTb.传感器IDb.证件号码FROMsdgkajoinrxkkbona.证件号码=b.证件号码 wheresubstr(b.感知时间‘,12,8)>="00:00:00"andsubstr(b.感知时间,12,8<="06:00:00")cGROUPBYc.传感器IDHAVINGzS>1
+SELECT
+c.传感器ID，
+COUNT(DISTINCTc.证件号码）ASzS
+FROM（
+SELECT
+b.传感器ID b.证件号码
+FROM sdka
+JoINrxkkboNa.证件号码=b.证件号码 WHERE
+substr(b.感知时间，12,8)>="00:00:00"
+ANDsubstr(b.感知时间，12,8)<="o6:00:00") c
+GROUPBY
+c.传感器ID HAVING
+zs>1
+公众号。小谢取证

@@ -1,0 +1,15 @@
+# OCR: fbc0de64f3daadc3feaf98411ef3dcb1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/fbc0de64f3daadc3feaf98411ef3dcb1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+终端X
+[root@locaLhost#dockerinspect9b
+"Id"："9bf1cecec3957a5cd23c24c0915b7d3dd9be5238322ca5646e3d9e708371b765""Created"-."2024-03-13T12.15:23.02589108Z"
+"Path":"docker-entrypoint.sh""Args":［
+"mysqld""state":{
+"status""running"Running"- true,"Paused":false,
+"Restarting"：false,"ooMKilled":false,
+"Dead"false,"pid"：1880,"ExitCode"e"Error"...
+"StartedAt":"2024-04-27T12:54:39.15754211z""FinishedAt":"2024-03-18T06:51:52.240973754Z"

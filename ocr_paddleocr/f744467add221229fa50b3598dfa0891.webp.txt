@@ -1,0 +1,50 @@
+# OCR: f744467add221229fa50b3598dfa0891.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/f744467add221229fa50b3598dfa0891.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+119/12659
+原类型视图未删除记录 AdRule
+文本视图
+androidmetadata
+App Email Link Media Mxt Note
+PassWord Remind
+RemindMain
+sqlite sequence
+文件录类市场
+E01
+5 8
+3721
+7 3714 247
+143/88122
+188
+十六进制视图
+2 41 5
+NAME
+mxt.db
+身份证_f33.mxt important1.xlsx
+类型：文件大小：60KB
+三ALIAS
+创建时间：2025-11-0708:27:14 访问时间：2025-11-0708:27:14 修改时间：2025-09-2516:14:29 元数据地址：0
+全路径：data/data/com.android.mxt/databases/mxt.db
+加密类型：未加密已删除：否
+O
+三PASSWORD
+bwX2ZEfE9 3;s=]-
+X
+设置列
+未删除记录 AdRule
+结束
+5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14 5-11-0708:27:14
+文本视图 0
+android metad..
+App Email Link Media Mxt
+起始
+结束
+2025-09-2516:14:30 2025-09-2516:14:28 2025-09-2516:14:29 2025-09-2516:14:29 2025-09-2516:14:30 2025-09-2516:14:30 2025-09-25 16:14:29 2025-09-2516:14:29 2025-09-2516:14:29 2025-09-2516:14:29 2025-09-2516:14:29
+十六进制视图
+三序号
+_id
+过滤
+data/data/com data/data/com data/data/com data/data/com data/data/com data/data/com data/data/com data/data/com data/data/com data/data/com data/data/com

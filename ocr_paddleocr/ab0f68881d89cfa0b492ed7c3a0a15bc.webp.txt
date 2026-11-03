@@ -1,0 +1,32 @@
+# OCR: ab0f68881d89cfa0b492ed7c3a0a15bc.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/ab0f68881d89cfa0b492ed7c3a0a15bc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+仓
+用户自定义短语
+添加用户定义的短语
+添加
+导入、导出或清除用户自定义短语
+导入
+拼音：chapter
+导出位置：3
+清除
+短语：chapter
+·拼音：exchange位置：6
+短语：exchange
+编辑
+拼音：firstsixmnemonicphrase
+位置：2先
+：拼音：oak
+短语：oak
+·拼音：retreat
+·拼音：term 拼音：tissue
+位置：5
+位置：4 位置：1
+位置：9
+短语：retreat
+短语：term 短语：tissue
+删除
+短语：firstsixmnemonic..

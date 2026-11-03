@@ -1,0 +1,11 @@
+# OCR: 5e980f3a93e6241842cc143d3903ee97.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/5e980f3a93e6241842cc143d3903ee97.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+2025-05-1219:34:34
+自助下单机器人(laoli2Bot)(2025-05-1219:34:34) 欢迎使用自主下单机器人
+支持支付宝支付。USDT支付
+USDT钱包地址：TPNYhBjSLTLgtxwXYbdzkWQUagg4z3rJi8 点击查看商品列表：/products
+2025-05-1219·34·34

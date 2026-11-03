@@ -1,0 +1,22 @@
+# OCR: 883f6fd7f78a8d6091aaf3f92e627f56.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/883f6fd7f78a8d6091aaf3f92e627f56.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+资首页！
+网站管理
+使用宝塔Linux面板创建站点时会自动创建权限配置，
+添加站点
+网站名
+修改默认页
+www.hl2023.cn
+默认站点
+分类管理
+统一使用www用户。 PHP命令行版本
+建站成功后：
+状态运行中
+请在计划任务贝面添加定时备份任务
+备份无备份
+根目录
+/data/2023.cn

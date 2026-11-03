@@ -1,0 +1,31 @@
+# OCR: aa19350024d8995b689d14464cab9371.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/aa19350024d8995b689d14464cab9371.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+个
+台 C
+口
+localhost.localdomain-VMware
+A
+不安全
+Openwrt
+状态
+览防火墙路由表系统日志内核日志系统进程实时信息
+WireGuard数据包
+系统服务 Docker
+玉网络退出
+222.2.2.2/cgi-bin/luci
+未设置密码！
+0
+OpenWrt-概览-Lucl
++
+尚未设置率码。请为root用户设置密码以保护主机并启用，
+状态系统主机名型号架构固件版本内核版本本地时间运行时间平均负载
+OpenWrt
+VMware.Inc.VMwareVirtualPlatform
+AMDRyzen74800HwithRadeonGraphics
+OpenWrtStableVersioncompiledbyeSir/LuCIopenwrt-21.02branc 5.4.154
+2024-08-3106:51:34 Oh2m17s
+0.08.0.03,0.00

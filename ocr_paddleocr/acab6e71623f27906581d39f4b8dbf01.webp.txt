@@ -1,0 +1,19 @@
+# OCR: acab6e71623f27906581d39f4b8dbf01.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/acab6e71623f27906581d39f4b8dbf01.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+Users贾韦码PicturesSavedPictures
+口了文件名称一
+.=Pictures(10)
+.=Saved Pictures(4) 20210330144252(1).png 20210330144252.png desktop.ini
+dsf2wecasdcqwed12434
+描述存在的存在的存在的，… 存在的，. 存在的存在的
+?文件类型
+png png ini
+了路径
+NUsers贾韦码
+Users贾韦码\Pictures
+Users贾韦码\PicturesSavedPictures Users贾韦码\Pictures/SavedPictures Users贾韦码PicturesSavedPictures Users贾韦码\PicturesSavedPictures
+文件大小 4.0GB20 4.0GB20 78.2KB20 78.2KB20 190B20 4.0GB20

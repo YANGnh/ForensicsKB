@@ -1,0 +1,28 @@
+# OCR: 87d143166c6d21da2b2f708542364aa2.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/87d143166c6d21da2b2f708542364aa2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+对象
+dsmember@wwwmtbtsdafdac.
+表配置文件、
+id
+#int(11)
+2310 2309
+昆开始事务
+level
+#int(10)
+单元格编辑器筛选&排序用列
+username
+Bcvarchar(255) 13067137585
+0
+17629291271
+1800
+password Bcvarchar(64)
+7c4a8d09ca3762af61e5
+品数据分析工具
+password2 Bcvarchar(64)
+7c4a8d09ca3762af61e5
+e3b6b4dfb3bc89c14bde3b6b4dfb3bc89c14bd
+reg#i

@@ -1,0 +1,25 @@
+# OCR: c6280984af1e378b54cf99e572d8d2f2.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/c6280984af1e378b54cf99e572d8d2f2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+1.44.1-69057(Ext2/3/4at25728onmeiya_tes..X
+@userpreference
+admin
+1.44.1-69057(Ext2/3/4filesystem) 3
+@s2s
+@SynoFinder-etc-volume
+@SynoFinder-log@database
+田田日
+@eaDir
+@synoconfd@tmp
+@userpreference@administrators SYSTEM_ADMIN
+admin johnkaller system
+Johnkiller
+Name
+appnotify.lock appnotify
+Date
+13.11.203716:57:50 04.01.197018:47:07
+Type File File
+Size Obytes 207bytes

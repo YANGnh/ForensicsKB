@@ -1,0 +1,31 @@
+# OCR: 1f10301f76e86ccfa6b452bc9edac51e.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/1f10301f76e86ccfa6b452bc9edac51e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+用户
++ o 设
+媒体库播放
+设备
+活动电视直据回
+电视直播数字录像机
+插件
+插件高级
+网络 OAPI密钥 0
+备份
+目?
+日志
+计划任务
+API密钥
+外部应用程序需要API密钥才能与服务器进行通信。
++新APL密期 API密
+81d910127daf47b9ad52d48fcc9f4305
+密钥会在使用普通账户登录时自动生成，
+皮用程序1 芯龙短片
+或是手动为应用分配
+发布日期11
+25-10-21下年6:49
+Q
+Rows perpage 10
+1-1of1

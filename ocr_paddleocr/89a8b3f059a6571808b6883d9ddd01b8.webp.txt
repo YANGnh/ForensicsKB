@@ -1,0 +1,26 @@
+# OCR: 89a8b3f059a6571808b6883d9ddd01b8.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/89a8b3f059a6571808b6883d9ddd01b8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+搜狗翻 S
+A翻文字
+检测为英语、
+查词好，翻译快！
+秒翻PDF 翻文档
+1
+中文、
+P翻图片
+民改英文
+UDPsendexception:send:Anoperationonasocket couldnotbeperformedbecausethesystemlacked sufficientbufferspaceorbecauseaqueuewasfull
+包句法分析
+152/5000
+通用领域
+生物医学
+金融财经
+图
+UDP发送异常：发送：由于系统缺少足够的缓冲区空间或队列已满，无法执行套接字上的操作。
+可复制
+回反馈
+回

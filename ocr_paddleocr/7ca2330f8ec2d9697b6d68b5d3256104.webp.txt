@@ -1,0 +1,27 @@
+# OCR: 7ca2330f8ec2d9697b6d68b5d3256104.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/7ca2330f8ec2d9697b6d68b5d3256104.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+g
+PC.E01
+三序号口1 □2 口3 4 口5 口6 口7 口8 口9 □10 口11 口12 口13 口14 口15 口16 口17
+三名称过滤 vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa vcsa
+?
+嵌套证据识别>
+三操作系统过滤
+aVMware
+other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64 other3xlinux-64
+三磁盘文件名过滤
+vcsa-disk5.vmdk vcsa-disk4.vmdk vcsa-disk12.vmdk vcsa-disk2.vmdk vcsa-disk14.vmdk vcsa-disk7.vmdk vcsa-disk16.vmdk vcsa-disk11.vmdk vcsa-disk8.vmdk vcsa-disk15.vmdk vcsa-disk3.vmdk vcsa-disk9.vmdk vcsa-disk10.vmdk vcsa-disk13.vmdk vcsa-disk17.vmdk vcsa-disk1.vmdk vcsa-disk6.vmdk
+三磁盘文件路径过滤
+PC.E01/分区7/vcsa/vcsa-disk5.vmdk PC.E01/分区7/vcsa/vcsa-disk4.vmdk PC.E01/分区7/vcsa/vcsa-disk12.vmdk PC.E01/分区7/vcsa/vcsa-disk2.vmdk PC.E01/分区7/vcsa/vcsa-disk14.ymdk PC.E01/分区7/vcsa/vcsa-disk7.vmdk PC.E01/分区7/vcsa/vcsa-disk16.vmdk PC.E01/分区7/vcsa/vcsa-disk11.vmdk PC.E01/分区7/vcsa/vcsa-disk8.vmdk PC.E01/分区7/vcsa/vcsa-disk15.vmdk PC.E01/分区7/vcsa/vcsa-disk3.vmdk PC.E01/分区7/vcsa/vcsa-disk9.vmdk PC.E01/分区7/vcsa/vcsa-disk10.vmdk PC.E01/分区7/vcsa/vcsa-disk13.vmdk PC.E01/分区7/vcsa/vcsa-disk17.vmdk PC.E01/分区7/vcsa/vcsa-disk1.vmdk PC.E01/分区7/vcsa/vcsa-disk6.vmdk
+在VMware中搜索
+三虚拟机软件过滤
+VMware VMware VMware VMware VMware VMware VMware VMware VMware vMware VMware VMware VMware VMware vMware VMware VMware
+三磁盘等于 OB OB OB OB OB OB OB OB OB OB OB OB OB OB OB OB OB
+Q 三类型
+虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机虚拟机
+Q高级
+设多

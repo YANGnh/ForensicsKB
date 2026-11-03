@@ -1,0 +1,27 @@
+# OCR: 56aacc11b0e5852f31d3c676ede6f538.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/56aacc11b0e5852f31d3c676ede6f538.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+mwareEsxi
+导航器国主机
+管理监控
+品虚拟机存储网络
+目localhost.localdomain-存储
+数据存储
+适配器
+扫新建数据存储名称
+datastore1
+设备
+全增加容量
+datastore1
+类型：位置： UUID: 主机：虚拟机：
+永久内存
+母注册虚拟机
+高数据存储浏览器
+VMFS6
+刷新
+孕操作驱动器类型非SSD
+/vmfs/volumes/65efb8a8-ddd817f6-04ff-000c297bd0e6 65efb8a8-ddd817f6-04ff-000c297bd0e6
+1 4

@@ -1,0 +1,11 @@
+# OCR: b6e5ffa02c32c968b6c1f724809e6ec8.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/b6e5ffa02c32c968b6c1f724809e6ec8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+弘连大比武木马演示程序
+弘连比武专用(赵弘开发)
+HOOK注入成功,当前系统64位
+确定
+X

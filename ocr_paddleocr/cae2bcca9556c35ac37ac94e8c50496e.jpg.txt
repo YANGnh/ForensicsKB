@@ -1,0 +1,20 @@
+# OCR: cae2bcca9556c35ac37ac94e8c50496e.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/cae2bcca9556c35ac37ac94e8c50496e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+[rootelocalhost
+tcp
+E
+1#
+netstat
+-napt
+0 0.0.0.0:80
+80
+grep
+*
+LISTEN
+1657
+nginx:
+master

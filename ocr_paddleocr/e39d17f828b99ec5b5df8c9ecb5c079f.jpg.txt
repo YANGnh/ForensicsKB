@@ -1,0 +1,9 @@
+# OCR: e39d17f828b99ec5b5df8c9ecb5c079f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e39d17f828b99ec5b5df8c9ecb5c079f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+Language Language:
+中文（简体）-Chinese
+Apply

@@ -1,0 +1,21 @@
+# OCR: aea998abf2f42031415ec7e2ae506904.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/aea998abf2f42031415ec7e2ae506904.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+NoahTie@LAPToP-H9iIARRED/F/Reverse
+.lupx422.exe-dF:lFIc_FinallFilel检材1lrecphrase-oF:lFIc_FinalFilel检材1lrecphrase_unpack
+Ultimate Packer for eXecutables
+Copyright（c)1996-2024
+UPX4.2.2
+Markusoberhumer.LaszLoMoLnar&JohnReiser
+FiLe size
+45175552 Unpacked
+45158344
+file
+Ratio 99.96%
+Format Linux/arm
+Name
+Jan3rd.2024
+recphrase_unpack

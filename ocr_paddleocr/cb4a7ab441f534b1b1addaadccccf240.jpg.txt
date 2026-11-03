@@ -1,0 +1,29 @@
+# OCR: cb4a7ab441f534b1b1addaadccccf240.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/cb4a7ab441f534b1b1addaadccccf240.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+member_money_total member_update_record wmsinvoice
+member.type_log member_profit_total member_purchase
+member_current_month maintain_member_log
+esign_order esianuser memberdeal pay_notify_log cart
+member_account purchase_sequence
+sys_role_menu tossfile
+0 34359
+0 0 0 0 0 0 0 0 0 0
+66632
+0 0 o 1466
+6672KB 2576KB 8768KB 4624KB 3600KB 3600KB 3600KB 1552KB 8752KB 2576KB 2576KB 2576KB 1552KB 2576KB 1536KB 80KB 272KB
+InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB
+38772 34400 31105 28854 25536 24316 16719 14513 13286 11867 10472 10307 7597 6523 1734 1469 1465
+会员余额总表
+会员信息自助修改记录发货单
+会员级别变动日志表会员收益总表
+会员拼券订单总业绩表
+会员月度业绩表用户维护日志
+e签宝合同签约情况
+e签宝用户实名认证信息表会员提现表
+第三方支付退款日志购物车
+会员提现账号拼券活动表
+角色和菜单关联表文件存储记录

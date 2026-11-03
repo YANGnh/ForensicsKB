@@ -1,0 +1,28 @@
+# OCR: c857e7915a28e608e637244c170950c1.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/c857e7915a28e608e637244c170950c1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+设备视图
+V
+Ret.Recognizedo -> B:
+BeRecognizedo-B: vRoot
+SRECYCLE.BIN
+SystemVolumeInformation 额外找到的文件
+口
+元文件
+SRECYCLE.BIN
+名称
+SystemVolumeInformation
+晶12306裤子1.txt
+惊大小，字节
+已创建
+已修改
+2023-02-.
+2023-02-
+2023-02-...2023-02-...
+187,5362023-02-...2023-02-.
+12306裤子2.txt[RecognizedO\RootlsRECYCLE 12306裤子2.txt[RecognizedO\Rootl$RECYCLE
+100.8912023-02-..2023-02-... 100,8912023-02-...2023-02-.
+已访问 2023-02-.. 2023-02-.. 2023-02-... 2023-02-.. 2023-02-.

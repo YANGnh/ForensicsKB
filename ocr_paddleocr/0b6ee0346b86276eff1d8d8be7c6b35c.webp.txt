@@ -1,0 +1,37 @@
+# OCR: 0b6ee0346b86276eff1d8d8be7c6b35c.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/0b6ee0346b86276eff1d8d8be7c6b35c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Abc
+registersource
+3 4 4 3 4 2 4 2 4 4 2
+Abc
+loginSourcelmpl
+<nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>
+已筛选，未去重，共11条，16列
+Abc
+registerTime 165625243... 170638660... 166993690... 166772000... 166771557... 166918924... 166872126... 166922372... 166771991... 170878447... 166772063...
+Abc
+leverName 一层
+(新）默认层级（新）默认层级（新）默认层级(新）线上充值（新）默认层级(新）默认层级(新）默认层级(新）默认层级(新）默认层级(新）默认层级
+Abc
+vipName VIP12 VIPg VIP2 VIP2 VIP6 VIP4 VIP1 VIP1 VIP1 VIP1 VIP1
+Abc
+areaCode <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>
+Abc
+birthday <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>
+#
+parentld 89378 89378 89378 89378 89378 89378 89378 89378 89378 89378 89378
+数据筛选(1)
+parentld parentld
+# 等于
++添加筛选字段
+89378
+按条件过滤
+重置
+确定
+× 回
+筛选(1) 去重设置列由助手
+山数据统计

@@ -1,0 +1,10 @@
+# OCR: a94b88ec75f61cdb91748d94ec31aea6.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/a94b88ec75f61cdb91748d94ec31aea6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+(Users)Administrator/Documents 丫文件名称一
+..=Administrator(12.455).=Documents (2)
+KingsoftData（0) MyMusic（0) MyPictures (0) MyVideos(0)
+WPSDrive（0)） backup.npbk

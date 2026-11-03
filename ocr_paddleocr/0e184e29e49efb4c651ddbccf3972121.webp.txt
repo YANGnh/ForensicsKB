@@ -1,0 +1,17 @@
+# OCR: 0e184e29e49efb4c651ddbccf3972121.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/0e184e29e49efb4c651ddbccf3972121.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+文件名：DefeatedJoyousHightingale.pdf 文件扩展名：df
+逻辑大小（字节）：4.521
+访问时间：2024-11-0917:27:22 创建时间：2024-11-0917:27:22 修改时间：2024-11-0917:01:48 文件类型：AdobeAcrobat文档
+文件分类：办公文档描述：文件.存档
+物理大小（字节)：8，192
+物理位置：46,215,446,528 物理扇区：90.264.544
+MM5值：A2718E01D514848D78CA01820E1D55C5
+SHA-1值：60D4169DA10F4BE3A950418FF26255DAC86F5964
+SHA-256值:B4380011D8C1E4AB6CCCA1380CE81F9B9144EA8D06E9814210D63A959B74E6E3
+原始路径：Z：检材_计算机.001分区4_新加卷[F]：法律法规全套资料iefeatedJoyousHightingale.pdf
+完整路径：Case01-20241128-224810/z：检材_计算机.001分区4_新加卷[F]：法律法规全套资料DefeatedToyousHightingale.pdf

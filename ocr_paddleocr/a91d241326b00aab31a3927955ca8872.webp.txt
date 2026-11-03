@@ -1,0 +1,33 @@
+# OCR: a91d241326b00aab31a3927955ca8872.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/a91d241326b00aab31a3927955ca8872.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+口
+区
+口=序号 1 2 口3 口4
+详细信息
+检材2.tar/data/com.tencent.mm/MicroMsg/f6781d69b1866c72a087d67dd3b05189/image2/8f/bb
+服名称过滤
+四Bf30be70b3da139bd134c37dd374aae2.ng Bfbb6ee5aadcc41568fd75aeaa554217.png th 8fbb6ee5aadcc41568fd75aeaa554217 四th8tbb6ee5aadcc41568fd75aeaa554217hd
+名称：th_8fbb6ee5aadcc41568fd75aeaa554217hd
+扩展名：jpg 类型：文件大小：23.70KB
+修改时间：2025-04-1114:04:40 MetaAddr:4292719104
+图哈希集过滤
+全路径：检材
+2.tar/data/com.tencent.mm/MicroMsg/f6781d69b1866c72a087d67dd3b05189/image2/8f/bb/ th_8fbb6ee5aadcc41568fd75aeaa554217hd
+加密类型：未加密已制除：否
+SM3 过滤
+原类型视图
+ESHA256 过滤
+文本视图
+十六进制视图
+在bb中搜索
+SHA1 过滤
+Q
+高级 EMDS
+过滤
+口
+设置列
+X

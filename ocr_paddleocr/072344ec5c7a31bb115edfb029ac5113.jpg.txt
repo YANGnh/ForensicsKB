@@ -1,0 +1,37 @@
+# OCR: 072344ec5c7a31bb115edfb029ac5113.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/072344ec5c7a31bb115edfb029ac5113.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+192.168.100.100
+首页
+假园圆
+网站 FTP 数据库监控安全
+文件口
+国终端
+自计划任务品软件商店
+面板设置
+G
+退出
+上传口
+口口口口口
+根目录
+www>
+远程下载文件名
+server）nginx>
+新建y
+client_body_temp conf
+fastcgi_temp
+html logs
+proxy_cache_dir proxy_temp_dir sbin
+scgi_temp uwsgi_temp waf
+收藏夹V
+分享列表
+团终端
+/根目录）(42G)
+权限/所有者 700/www 755/root 700/ww 755/root 755/root 700/www 700/ww 755/root 700/www 700/www 755/root
+大小计算计算计算计算计算计算计算计算计算计算计算
+修改时间
+2022/03/0418:22:42 2022/02/2315:00:26 2022/02/2314:57:22 2022/02/2314:57:22 2024/07/04 21:03:07 2022/02/2314:57:22 2022/02/2314:57:22 2022/02/2314:57:22 2022/02/2314:57:22 2022/02/2314:57:22 2022/02/2314:57:22
+C 备注

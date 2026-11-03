@@ -1,0 +1,56 @@
+# OCR: 0deb5ad45e91f5c9759bec0131a20248.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/0deb5ad45e91f5c9759bec0131a20248.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+vcsa.pgs.cup
+摘要
+虚拟机
+快速筛选
+监控
+配置
+虚拟机模板
+V
+名称即
+即即即品
+输入值
+权限 vApp
+操作
+数据中心
+市场PC（已断开连接）
+财务（已断开连接） AD（已断开连接） bocai（已断开连接）
+meeting（已断开连接）
+vCLS-0dab4d56-fda8-57f6-3b52-a5798ec033bc（已断开连接）
+vCLS-93d84d56-d77d-2e50-9c2f-3dO3553acc8f（已断开连接）
+主机和集群状况
+已关闭电源
+已关闭电源
+已关闭电源
+已关闭电源
+已关闭电源
+已关闭电源
+已打开电源
+虚拟机状态
+???
+未知未知未知
+未知？
+未知？
+未知？
+未知？
+数据存储
+网络
+置备的空间 100.77GB
+124.34GB 184.69GB 102.4GB 124.36GB
+OB OB
+链接的vCenterServer系统
+已用空间 57.22GB
+29.92GB 19.19GB 30.35GB 20.42GB
+OB OB
+主机CPU OHz OHz OHz OHz Hz OHz
+OHz
+扩展插件
+主机内存
+OB OB OB OB OB OB
+OB
+更新

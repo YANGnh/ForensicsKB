@@ -1,0 +1,26 @@
+# OCR: cedbfeae421c2cc22c7ccd7a68e71d58.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/cedbfeae421c2cc22c7ccd7a68e71d58.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+系统敏感操作 Win10
+190364bit,Office... Win7
+64bit.Office2013
+将自身拷贝到其他目录下 Time&API
+57325/10/2012:52:23
+CopyFile Time&API
+57326/05/1612:26:10 CopyFileW
+Arguments
+fail if exists: 0
+oldfilepath:C:/Users)Administrator/Desktop/BwAcr.exe oldfilepathr:C:Users)Administrator/Desktop/BwAcr.exe
+newfilepath:C:/Users\Administrator/AppData)Roaming/SubDir/BwAcr.ex newfilepathr:C:/Users)Administrator/AppDatalRoaminglSubDir,BwAcr. exe
+Arguments
+fail if exists: o
+oldfilepath:C:Users\Admin/Desktop/lupg.exe oldfilepath_r:C:/Users\Admin/Desktop/lupg.exe
+newfilepath:C:/Users)Admin)AppDatalRoaming)SubDir/BwAcr.exe newfilepath_r:C:/Users)Admin\AppData\Roaming)SubDir/BwAcr.exe
+2个分析环境
+Status 1
+Status 1
+Return 1
+Return 1

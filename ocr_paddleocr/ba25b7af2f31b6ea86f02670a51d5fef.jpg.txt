@@ -1,0 +1,15 @@
+# OCR: ba25b7af2f31b6ea86f02670a51d5fef.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ba25b7af2f31b6ea86f02670a51d5fef.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+后 C
+口
+拒绝访问
+A不安全
+×
++
+192.168.217.132:22352/40899057
+抱款您没有访问权限请使用正确的域名访问！
+查看许可域名：cat/www/server/panel/data/domain.conf 关闭访问限制：rm-f/www/server/panel/data/domain.conf

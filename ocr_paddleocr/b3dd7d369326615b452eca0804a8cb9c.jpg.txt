@@ -1,0 +1,31 @@
+# OCR: b3dd7d369326615b452eca0804a8cb9c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/b3dd7d369326615b452eca0804a8cb9c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+[root@locaihost~]#dockerps
+Cannot connect to the Docker daemon at unix:/I/varrun/docker.sockIs the docker daemon running?
+[root@localhost~|# systemctl docker start Unknownoperation'docker!
+[root@localhost~# systemctl start docker[root@localhost~]#systenctlstatusdocker
+docker.serviceDockerApplicationContainerEngine
+Loaded:loaded(/usr/lib/systemd/systen/docker.servicedisabled;vendorpreset:disabled) Active:active(running)sinceSat2e24-e4-27.e8:53:4eEDT:7sago
+Docs:http://docs.docker.com
+MainPID:1692(dockerd-current)
+cGroup:/system.slice/docker.service
+-1692/usr/bin/dockerd-current--add-runtimedocker-runc=/usr/libexec/docker/docker-runc-current--default-runtime=d. 1697/usr/bin/docker-containerd-current-lunix:///var/run/docker/libcontainerd/docker-containerd.sock--metrics-in.
+Apr Apr Apr
+08:53:39localhost.localdomain dockerd-current[16921:time="2024-04-27T08:53:39.117623027-04:0e"level=info msq="1ibc...697" 27
+08:53:4e localhost.localdomain dockerd-current[1692]:time="2024-04-27T88:53:40.280278401-04:0e"level=info msg="Grap...nds" 27
+08:53:40 Localhost.localdomain dockerd-current[1692]:ttme-"2024-04-27T08:53:40.281188438-04:0o"level=info msg-"Load..rt. 27
+27 e8:53:40 Localhost.localdomain dockerd-current[1692]:time="2024-64-27T08:53:40.306232454-04.0o"level-info msg-"Fire.-.rue"
+Apr
+27 08:53:4e localhost.localdomaindockerd-current[1692]:time="2024-4-27Te8:53:40.641545e19-04:ee"level=infomsg-"Defa...ess" Apr
+27 08:53:40 localhost.Localdomain dockerd-current[1692]:time="2024-04-27T08:53:40.759948316-040o"level=info msg-"Load..-ne." Apr
+2708:53:4e Localhost.localdomain dockerd-current[1692]:time-"2024-04-27T08:53:40.911745425-04:0e"level=infomsg-"Daen...ion" Apr
+27 08:53:4e localhost.localdomain dockerd-current[1692j:ttme="2024-04-27T08:53:40.911771633-04:oe"level=tnfo nsg-"Dock...13.1 Apr
+27 o8.53:4e localhost.localdomain systemdr1l:Started DockerApplication Container Engine Apr
+Apr27e8:53:4e localhost.localdomain dockerd-current[1692]:time="224-84-27Te8:53:4o.933374496-04:0e"level=info msg-"API Hint:
+Sopelineswereellipsizeduse-ltoshowtnfull
+[root@localhost#
+.ock

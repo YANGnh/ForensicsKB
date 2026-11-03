@@ -1,0 +1,16 @@
+# OCR: 34b375576c715011ea1cc726747e4829.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/34b375576c715011ea1cc726747e4829.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+David的苹果手机
+三序号口1 口2 口3 4 口5 口6
+三名称过滤
+ErrorError5G ErrorError5G MTRFreeWi-Fi
+ErrorError5G MTRFreeWi-Fi
+基本信息>
+Wi-Fi连接记录
+三密码过滤
+f12345+f12345 f12345+f12345
+三最起好

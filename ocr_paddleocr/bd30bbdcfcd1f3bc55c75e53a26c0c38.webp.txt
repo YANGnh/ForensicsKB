@@ -1,0 +1,28 @@
+# OCR: bd30bbdcfcd1f3bc55c75e53a26c0c38.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/bd30bbdcfcd1f3bc55c75e53a26c0c38.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+g
+2
+基本信息》
+PC.E01>
+温USB最近使用记录
+三序号口1 □2 3 口4
+三操作弹出弹出弹出弹出弹出
+三操作时间
+起始
+结束
+2025-05-20 17:01:42 2025-05-2016:55:41 2025-05-2015:07:22 2025-05-1917:52:14
+三设备名过滤
+Extreme55AE Extreme55AE
+VMware Virtual NVMe Disk U335
+三厂商过滤 SanDisk SanDisk NULL aigo
+三序列号过滤
+2204BR400680 2204BR400680
+VMWareNVME0000 352C81E0E030
+三版本过滤 3001 3001 1.0 PMAP
+三容量等于
+465.73GB 100GB
+过派

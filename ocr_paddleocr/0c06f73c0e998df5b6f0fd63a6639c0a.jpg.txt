@@ -1,0 +1,23 @@
+# OCR: 0c06f73c0e998df5b6f0fd63a6639c0a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/0c06f73c0e998df5b6f0fd63a6639c0a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+30投资
+31OtherExpense
+32Outgoingtransfer
+33借贷 34还款
+35PayInterest
+36工资 37负债
+38债务催收
+39OtherIncome
+40 Incomingtransfer 41 Collect Interest
+2ic_category_invest
+2 ic_category_other_expens 2icon142
+2 ic_category_loan
+2icon141 2icon4
+1ic_category_salary 1 ic_category_debt 1icon_140
+1ic_category_other income 1icon_143
+1ic_category_interestmone
+1 1 1 1 1 1 1 1 1 1 1 1

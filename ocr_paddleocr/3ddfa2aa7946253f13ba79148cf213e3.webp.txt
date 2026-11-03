@@ -1,0 +1,38 @@
+# OCR: 3ddfa2aa7946253f13ba79148cf213e3.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/3ddfa2aa7946253f13ba79148cf213e3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Bookmarks
+Bookmarks.bak
+So
+DashTrackerDatabase
+DashTrackerDatabase-journal
+defaultcloud_config.json DIPS
+DIPS-journal Edge Profile.ico ExtensionCookies
+Extension Cookies-journal ExtensionActivityComp
+一分区
+文件"id"："13"
+国预览
+回详细
+"meta_info":
+"power_bookmark_meta"：
+ww
+，
+"name"：“宝塔Linux面板”
+"show_icon":false,"source":"user_add"
+口缩略图
+时间轴
+"type":"url",
+"ur1":"https://172.22.4.253:16724/c38b336a""visit_count"：1
+"date_added"："13374336669150062"，"date_last_used":"o",
+"guid"："536f8f9a-c945-46c9-9792-6765bd9528f0","id"："16"
+"nae"：“环球商贸官方网站"，
+"show_icon":false,"source":
+"unknown"
+"type"：
+"url
+"http://39.108.126.128/default.asp",
+"url"：
+"visit_count"：

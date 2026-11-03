@@ -1,0 +1,26 @@
+# OCR: af00b0c888843a6e1a5f965f7b41e234.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/af00b0c888843a6e1a5f965f7b41e234.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+名称 data
+A:/三星手机/mage.zip/dataldata|com.vmos.prolosimg/rloto1
+storage system vendor
+dev proc sbin acct sys init init.rc
+init.usb.configfs.rc
+init.usb.rc ueventd.rc 国fix.sh
+system.prop
+boottime_statistics
+init.environ.rc init.zygote64.rc guestosInfo  init shell.sh default.prop
+大小
+3248594285 1525816586 954870180 20168911 12678748 6754411 1452632
+10.019
+26
+1879768 29577 7690 5646 5272 5105 3325 3289 1064 535 401 138 23
+修改时间
+压缩后大小 3248594285 1525816586 954870180 20168911 12678748 6754411 1452632 10.019
+26
+1879768 29 577 7690 5646 5272 5105 3325 3289 1064 535 401 138 23
+2024-01-17 1... 2024-01-17 1... 2024-01-17 1... 2024-01-17 1... 2024-01-17 1... 2024-01-17 1... 2024-05-22 1... 2024-05-22 1... 2024-01-17 1... 2024-01-17 1... 2024-01-19 1... 2024-05-22 1... 2024-01-17 1...
+创建电

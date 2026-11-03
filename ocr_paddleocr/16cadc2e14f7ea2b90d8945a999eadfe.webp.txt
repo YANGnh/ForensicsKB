@@ -1,0 +1,15 @@
+# OCR: 16cadc2e14f7ea2b90d8945a999eadfe.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/16cadc2e14f7ea2b90d8945a999eadfe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+c:
+服务器： Address:
+>nslookup-type=Ansl.varo
+dns1.hnsdns.com 139.144.68.241
+非权威应答：
+名称：
+Address:
+nsl.varo
+45.79.133.98

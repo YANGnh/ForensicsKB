@@ -1,0 +1,21 @@
+# OCR: 517770bfcb179a95b129e9db58435f84.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/517770bfcb179a95b129e9db58435f84.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+FromBase64 Alphabet
+A-Za-z0-9+/=
+Removenon-alphabetchars
+Strictmode AESDecrypt Key
+e45e329feb5d925b IV
+000000000000000000000..
+Mode
+Input
+??
+二
+UTF8 HEX
+QFHGM76qzKT56sCvMvggWa4K+ZIu6ZolLr02sosjDcnUerSd1shg yw9Ba18novfpchKckJgDiNPmbi2IsTepKEHuvGAggFDy9LJP50bs N+sL8nNGYSLigEyXxAmwgBEgFE6URIzj6kvyizU1bzulWnBz1DWi uVRxIGL3Ycip7aUFqZzYTE9aV3P127t1ou81H68WaTeRSnLh/Hf QRiXPBe4W54rXUMdDCWGiKcicXf+iLSxJ5RCvGPqznD8v25ogQh4 ddr+XnDlwuBe+cVpGjgxATo8NKKhi/y9Lt1gtGmxJsPZC5qNDQuU TPG9DPyyhjahh+ih17cX5GILncf1JZ91PAkIAjZLYbx8oNXeT0qf TKmAWzrpMk22nlsY2hEHZmo7m9iPyqUD97op6jfprETRgumxu8Q6 FyGD8ryt11xbtUSJJ1KzvRYdpPd1c2sYBS5TfnUPXUDPT0VrQ711 KZIWBHQ3H82LiB7HzVV6EutZ2a6cnqSYD9t1HvcCML1BuiNQzYry Cfbdof4ZCx3dQTpYocvhgboEoj3hyb8pTVKJmoxof1N8xQoja5PH jq/Yp
+Ae198976 Output
+TTRawBy a
+"status":"c3VjY2Vzcw=-","msg":"eyJiYXNpYoluZm8ioiJQ

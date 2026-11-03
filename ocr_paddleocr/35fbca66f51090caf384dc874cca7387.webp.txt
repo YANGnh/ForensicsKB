@@ -1,0 +1,242 @@
+# OCR: 35fbca66f51090caf384dc874cca7387.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/35fbca66f51090caf384dc874cca7387.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+0
+A
+确费件两件智强口实性解
+界联分券分件
+Q 现烈也来
+内容家示
+新建高件_20251009234207 x
+入 >
+@应用分析  timidity(1)
+G文洋恢据
+tmpfiles.d (0) ■udev(4) udisks2(2) ufw(1)
+update-motd.d (2) UPower(1)
+ usb_modeswitch.d(0)
+vim (2) 副wulkan (3)
+wipa_supplicant(3)
+■X11 (15) xdg (9) xml(10) home (1)  lost+found (0) media(2) mnt (0) opt (0) proc(0)  root (6) run (0)  sr (0) gys (0) tmp(0) usr (9) bin (1206) games (0)  include （6) b (85) libexec(182)  local (10) bin (1)  etc (0) games(0)  include (0)
+售暖R8.1.1.5更摄处理器：4网CPU
+品内容胰素
+导出报售
+ printer.801(文得系) (151855)
+Q
+型国
+巴造中0案数据 16 Offset
+8464 8488
+0528 8576 8624 8672
+8768 0784 8809 8816
+0864
+内季：31.7168
+格 cups-helper
+扩展名
+646972
+746F72 26563
+12
+5350
+746F
+ea eD
+69
+23 S8
+47 4A
+44
+20
+54
+32 62 544A
+4A 825 93
+OD
+22 61
+67 69
+7920
+6F 66
+20 62
+65666F
+67
+74 69
+5220
+6F 6
+3D
+63 47 OD OA 6E 20 72 65
+go
+53
+22
+7
+6D 4C 47
+4A5u4A
+7731
+ODOA 0A
+2320
+67
+C 6F
+2675 72
+766C
+6573
+60 0A
+69
+40
+3D
+30 47 4A
+61 64
+F
+47
+6D
+5A
+78
+77
+76
+54 4A 6c
+4A
+2的9 68 4E
+32 62
+73
+3569
+47 4A
+0A ep 22
+7260
+2074
+20
+73
+656E
+7369
+74
+69
+76
+8 74
+6861
+72
+48455957
+48454u5F
+5 6D63
+7054 4364
+6A56
+2D 20 2D
+20.45
+6E
+64 20
+要香
+6F
+ac
+4F 4F
+SF
+5 64
+4A
+12
+创建的
+2025/10/09 23:04:51 +08:00
+共1确数端 UTF-8
+13
+6D6F
+15 6E
+49 52
+228 46 60
+6B
+6064 47
+6566
+2320
+696E
+65
+69 72
+64
+6F
+20 65
+65 63
+6E
+6669
+72
+78
+6C
+7
+66
+49 68
+47
+SF 5968
+47 64 47 4A
+54 4A22 00
+20 66
+69 6c
+6F
+20 66
+28 61
+69 63
+69
+74
+SF 46
+49 4c
+45
+203D28
+68
+32 46
+4E 6E
+73
+42 79 55
+58 43
+52 79
+55 43 64 76 39 6D
+20 0A
+77 79
+7469
+79 20 66
+65 28
+646F63
+756D65
+3
+63 68
+6c
+69 61
+8 G0 GA
+4154 43
+4F 52
+44 26
+3D20223D 52
+45 4D
+43 6F
+GA2328
+6E6669
+67.75
+72
+directory.to.non itor..SPOOL_DIR."GJT3zBXdjZkMt w2bvB3cGJT3yFndG JT3*....".Define staging.directo ry.for.processin g.before.exfiltr ation..STAGING_D IR..
+."GJTJth2YhM =LGJTJ=1GdGJT3*...Log.file.fo r.upload.activit ies..LOG_FILE.. uZvxmLkF2bsBX dGJTJLJXYolinRyUC bhN2bs5iRyUCdv9n CGT3"
+..Keyw
+ord.to.identify. sensitive.docune nts.for,"special.handLing*..MATC HED_KEYWORD...". UncpZebvdwYyREMy UCdjVnavJHU"..#..End.ConiFigur
+送只读
+GBx
+修改的病
+7
+2025/10/09 23:19:11: +08:00
+directory.to.non itor..SPOOL_DIR.-,"G3TJzBXdjZkMt a2bvB3cGJTJyFndG JTJ*....".Define.staging-directo ry.for.processin g.before.exfiltr ation..STAGING_D IR..."GJTJUh2YhM mLGJTJw1GdGJTJ*...s.Log.file.fo r.upload.activit jes.,LOG_FILE....wZvxmLkF2bsBX dGJTJLJXYolinRyUC bhN2bs5:RyUCdv9m CGJT3"....#.Keyw ord.to.identify. sensitive.docume nts.for."special--handting".-wATC HED_KEYHORD..." UncpZmbvdYyREy ucdjviavJHUu".."-.End.Configur
+口正则墨是瑞动问谢据
+9
+2025/10/09 23:19:14 +08:00
+大小
+4
+2.14 KB
+8位每行号报数：35
+任务管理
+曲工具箱
+解新语巢
+C清过s MD5
+8位无等号起数：35
+16位有得号理标致：8483 16位无特号超款：8483
+32位有际导服数：1966022947
+洋情 e 扩服名：服描退创建的修政时牌
+V
+囊级
+素 Cups-helper
+只读
+o
+2025/10/09 23:04:51 +08:00 2025/10/09 23:19:11 +08:00
+最后访同时：2025/10/09 23:19:14+08:00 大小
+2.14 x8
+MD5: SHA1: SHA256: SM3: 可服名：完性加能状志：特证
+开始器区：绪来瘤区：状述： EFStDE：摄
+32位无特号报款：1966022947
+64位码号长报数：707499937983516701 64总无将号长盟数款：707499937983516701
+586305 586305
+普
+x
+printer.E01/分区03/usr/local/bin/ cups-helper
+公众号·小谢取证

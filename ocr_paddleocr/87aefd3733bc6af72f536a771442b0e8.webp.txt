@@ -1,0 +1,9 @@
+# OCR: 87aefd3733bc6af72f536a771442b0e8.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/87aefd3733bc6af72f536a771442b0e8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+22REE
+REFERRH
+131IoctlResponse,Error:STATUsNoT_FoUND 131IoctlResponse,Error:STATUsNOTFOUND

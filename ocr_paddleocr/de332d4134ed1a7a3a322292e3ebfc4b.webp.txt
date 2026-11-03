@@ -1,0 +1,61 @@
+# OCR: de332d4134ed1a7a3a322292e3ebfc4b.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/de332d4134ed1a7a3a322292e3ebfc4b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+wireguard(0)
+disk.cfg docker.cfg
+?docker.cfg1673835017
+domain.cfg drift
+一分区 offset
+■文件
+0
+0742985776 0742985792 0742985808 0742985824 0742985840 0742985856 0742985872
+6E 75 68 39 3D OD 73
+1 44 70 75 30 22 0A 3D
+回预览
+2 65 47 74 22 2F 70 22
+3 6c 72 64 OD 72 6F 33
+回详细
+4 61 6F 6F 0A 6F 6c 30
+5 79 75 77 6c 6F 6c 22
+口缩略图
+6 3D 70 6E 75 74 5F OD
+7
+22 73 54 6B 2F 61 0A
+8
+30
+3D 69 73 6B 74 64
+存在的
+存在的，…
+cfg cfg
+存在的曾.
+icontig Aconfig Aconfig
+cfg1673835017lconfig cfg
+Nconfig
+存在的
+存在的
+时间轴
+9 22
+22 6D 4B 65 74 65
+10 OD 6E 65 65 79 72 66
+图例说明
+11 0A 6F 6F 79 66 69 61
+12 73 22 75 66 69 62 75
+13 70 OD 74 69 6c 75 6c
+14 69 0A 3D 6c 65 74 74
+15 6E 73 22 65 22 65 46
+Nconfig 同步
+美
+UTF-8
+V
+nDelay="o"spin
+upGroups="no"
+S
+hutdownTimeout="
+90
+luksKeyfile
+="/root/keyfile" poll_attribute
+s="30"
+defaultF

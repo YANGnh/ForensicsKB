@@ -1,0 +1,28 @@
+# OCR: 5ff5023ee947efb59ade5a4f828036f3.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/5ff5023ee947efb59ade5a4f828036f3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+应用名称应用大小
+总览
+威尼斯 APK文件
+威尼斯 5.69MB
+打包服务商
+?
+服务商名称
+详细信息
+数字天堂（北京）网络技术有限公司
+应用类型证据编号
+静态权限
+其他
+20240511152044908
+第三方服务
+调证值
+W2A h5.jsgjz fx.org.cn
+打包网址
+应用包名创建时间
+网络数据包
+w2a.W2Ah5.jsgizfx.org.cn 2024-05-1115:20:51
+动态监控
+http://192.168.137.125/Home/Run/index

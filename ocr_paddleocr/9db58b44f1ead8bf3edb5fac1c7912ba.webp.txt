@@ -1,0 +1,26 @@
+# OCR: 9db58b44f1ead8bf3edb5fac1c7912ba.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9db58b44f1ead8bf3edb5fac1c7912ba.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+NoahTie@LAPTOP-H91IARRED/F/Reverse
+pyinstxtractor-ngF：lFIc_FinallFilel检材1lrecphrase_unpack[+]ProcessingF:\FIc_Finaz\FiLe\检材1\recphrase_unpack
+[+Pyinstallerversion:2.1+[+Pythonversion:3.11
+[+]Lengthofpackage:45134537.bytes
+Found414filesinCArchive
+[+ +
+Beginningextraction...pleasestandby
+Possibleentry point:pyibootol_bootstrap.pyc
+[+]Possible entrypoint:pyi_rth_inspect.pyc
++
+Possibleentrypoint:pyi_rthpkgutil.pyc
+[+]Possibleentrypoint:pyi_rth_multiprocessing.pyc
++ +
+Possible entry point:pyi_rth_pkgres.pyc Possibleentrypoint:pyi_rth_glib.pyc
+[+]Possible entry point:pyi_rth_gi.pyc
++ + +[+
+Possibleentrypoint:pyi_rth_mplconfig.pyc
+Possibleentrypoint:reco.pyc Found689filesinPYZarchive
+Successfullyextractedpyinstallerarchive:F:lFIc_FinallFilel检材1lrecphrase_unpack
+cannowuseapythondecompileronthepycfileswithintheextracteddirectory You

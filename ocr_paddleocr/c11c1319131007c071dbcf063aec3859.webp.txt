@@ -1,0 +1,10 @@
+# OCR: c11c1319131007c071dbcf063aec3859.webp
+# 来源: ./01-取证技巧/02-网络取证/c11c1319131007c071dbcf063aec3859.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:06
+
+TJvl.vir
+2025/7/2716:50
+VIR文件
+290KB

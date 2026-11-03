@@ -1,0 +1,47 @@
+# OCR: 5f6de9fc390be873d6bc154ffe26456e.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/5f6de9fc390be873d6bc154ffe26456e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+Windows Ip Configuration
+Host Name NodeType
+IP Routing Enabled WINS Proxy Enabled.
+DNsSuffixSearchList
+Cat-Bomb-w7-PC catbombep.net Hybrid
+No No
+catbomber.net localdomain
+EthernetadapterLocalAreaConnection:
+Connection-specific DNsSuffix Description
+PhysicalAddress DHCPEnabled
+Autocontigurationnabled
+IPv4 Address. SubnetMask
+Lease Obtained. Lease Expires Default Gateway
+DHCPServer DNS Servers
+NetBIos over Tcpip
+Tunneladapterisatap.localdomain:
+Media State
+Connection-specific DNs Suffix Description
+PhvsicalAddress DHCP Enabled
+AutoconfigurationEnabled
+netconfigworkstation
+Computer name
+Full Computer name Username
+Workstationactiveon
+localdomain
+Intel(R）PRo/ieeeMTNetworkConnection 00-08-02-1C-47-AE
+Yes Yes
+10.5.68.154(Preferred) 255.255.255.6
+Thursday,May28,20209:50:47AM Friday,June05,20209:50:47AM
+10.5.28.1 10.5.28.8 10.5.28.8 Enabled
+Mediadisconnected
+MicrosoftIsATAPAdapter 00-00-00-00-00-00-00-E0
+No Yes
+IICAT-BOMB-W7-PC
+Cat-Bomb-w7-PC.catbomber.net phillip.ghent
+NetBTTcpip{AD1371BC-0945-813B-7C48-EA36C6F104A3)（0008021C47AE）
+Softwareversion
+Workstationdomain
+WorkstationDomainDNsName Logondomain
+Windows7Professional CATBOMBER
+catbomber.net CATBOMBER

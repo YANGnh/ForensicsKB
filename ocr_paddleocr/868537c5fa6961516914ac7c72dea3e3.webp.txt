@@ -1,0 +1,9 @@
+# OCR: 868537c5fa6961516914ac7c72dea3e3.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/868537c5fa6961516914ac7c72dea3e3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+后台管理系统
+ 13761669531 admin123
+登录

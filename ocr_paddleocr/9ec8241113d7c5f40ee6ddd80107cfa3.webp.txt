@@ -1,0 +1,48 @@
+# OCR: 9ec8241113d7c5f40ee6ddd80107cfa3.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9ec8241113d7c5f40ee6ddd80107cfa3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+A雷电APP智能分析
+使用安卓模拟器
+5.1.0
+安卓/iOS真机
+请任意选择一款安卓模拟器下载安装
+业雷电模拟器9.0版本（推荐）业雷电模拟器4.0版本
+雷神模拟器 MuMu模拟器
+云手机
+确保模拟器已安装完毕且正常运行并保持打开
+启动模拟器查看教程
+已连接，重新检测
+应用名称应用大小
+ForensixCam APK文件
+ForensixCam 3.4MB
+总览
+详细信息
+ficrun 开始重新检测
+应用类型证据编号
+静态权限
+其他
+20250603170818542
+第三方服务
+开启代理模式抓包
+网络数据包
+应用包名创建时间
+暂无数据
+com.forensix.cam
+2025-06-0317:08:19
+动态监控
+开启TCPDump抓包查看教程
+开启通用抓包
+源码分析
+图
++
+添应用版本
+四
+@自动分析 1.0
+敏感信息
+Frida脚本
++
+X
+导出报告

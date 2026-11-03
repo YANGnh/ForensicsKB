@@ -1,0 +1,17 @@
+# OCR: d9fa53c30f9cc9c604c56a611c3172cf.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/d9fa53c30f9cc9c604c56a611c3172cf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+67:26:22:6d:a1:bf 61:50:50:d6:8d:9d 61:50:50:d6:8d:9d 61:50:50:d6:8d:9d 26:29:94:00:5b:f1 26:29:94:00:5b:f1 26:29:94:00:5b:f1 80:e1:26:33:32:31 80:e1:26:33:32:31 80:e1:26:33:32:31
+SamsungElect_40:65:cf
+34:51:6d:89:93:1f 34:51:6d:89:93:1f Anonymous
+27:9d:30:70:a7:d1 27:9d:30:70:a7:d1 27:9d:30:70:a7:d1 05:47:78:7b:fb:bb 05:47:78:7b:fb:bb 05:47:78:7b:fb:bb 1d:7f:0f:67:6d:a7 1d:7f:0f:67:6d:a7 14.7F.0F.67.64.-7
+tes captured(392bits)on
+interface
+DIOULAS Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Dnadaar+
+COM3-3.6
+ido
+0000 0010 0020
+03 2a 00 79d6be odff4c

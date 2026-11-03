@@ -1,0 +1,33 @@
+# OCR: 9feb0c954a9600c55fb4ef4438585b8d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/9feb0c954a9600c55fb4ef4438585b8d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+187:6080/shel-asp
+http:0112.124.62.187:8080/shel.8spx
+URL
+基车信单 金令执行虚拟线编文管理 内网穿透 医课中数指军管理 自宗义代码 平行幸间 扩图功能 鲁志票 更新信息
+目果细特 ac
+SRecydle.Bin
+BaiduNetdiskDownioad 国 Boot
+Documents and Setings
+国inetpab Micresoft PerfLogs
+ProgramFiles
+ Program Files (x86)
+ProgramDats Recovery sbdtsb Server database D8 Debug Release WebSits aadmin
+App_Dsta aspnet_dlient bin
+国bootstrap Content fonts iscripts Views agent
+36
+文伴路径：C:/ServerWebsits/adminWeb.config
+>>ASP.ET>>, http:
+alue
+(LocaIDb)vi1.9:AttachooFi1
+t/oayate.cdsL
+a9312ea5814ea92a2-
+Ealte
+oatabinectorylaspne
+na6::8-8.Cultut
+tralPublic
+28170621095808.mdf:Init1a1Ceta1oe-8
+Poolingstrue"/

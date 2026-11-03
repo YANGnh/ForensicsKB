@@ -1,0 +1,28 @@
+# OCR: 024dcbc3d9288e46f5e003f101773169.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/024dcbc3d9288e46f5e003f101773169.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+s03 5
+常规主页搜索
+Tor浏览器
+隐私与安全连接
+扩展和主题
+Tor浏览器帮助
+about:preferences#connection
+快速启动
+O在设置中查找
+快速启动会根据上次使用的连接设置，在Tor浏览器启动时自动连接Tor网络
+始终自动连接网桥
+网桥帮助您在Tor被屏蔽的地方安全访问Tor网络。根据您所在的位置，了解更多
+使用网桥您的网桥
+obfs4网桥： obfs4网桥：
+帮助他人连接
+与可信联系人分享网桥。
+某些网桥可能对您更有效
+向Tor请求
+obfs498.177.0.149:22223F34AC0CDBC06918E54292A4 obfs499.107.126.131:632091257F40C09C54DF9338FFB
+复制地址
+★
+连接

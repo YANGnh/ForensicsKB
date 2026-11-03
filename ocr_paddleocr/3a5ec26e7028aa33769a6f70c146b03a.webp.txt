@@ -1,0 +1,35 @@
+# OCR: 3a5ec26e7028aa33769a6f70c146b03a.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/3a5ec26e7028aa33769a6f70c146b03a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+XMLView
+8236 8237 8238 8239 8240 8241 8242 8243 8244 8245 8246 8247 8248 8249 8250 8251 8252 8253 8254 8255 8256 8257 8258 8259 8260 8261 8262 8263
+ListView
+</dict>
+<key>com.apple.MLKit.MLPackagePreview</key> <dict>
+<key>CFBundleIdentifier</key>
+<string>com.apple.MLKit.MLPackagePreview</strina> <key>Path</key>
+Find
+<string>/System/Library/PrivateErameworks/Ml
+<key>ContainerContentClass</key>
+<string>Data/pluginKitpiugin</string> </dict>
+<key>com.tencent.xin</key> <dict>
+<key>CFBundleVersion</key> <string>8.0.56</string>
+<key>ContainerContentclass</key> <string>Data/Application</string> <key>CFBundleIdentifier</key>
+<string>com.tencent.xin</string> <key>Path</key>
+查找内客（N)：
+com.tencent.xin
+口全字匹配(W) 口区分大小写（C)
+方向
+0向上(U)
+O向下(D)
+×
+查找下一个(日）
+取消
+<string>/var/containers/Bundle/Application/C4F639FD-C408-4784-88C3-1E34FE337C17/WeChat.app</string> </dict>
+<key>com.apple.FinanceuIService</key> <dict>
+<key>CFBundleVersion</key> <string>l.0</string>
+<key>ContainerContentclass</key> <string>Data/Application</string> <kev>CFBundleIdentifier</kev>
+/string>

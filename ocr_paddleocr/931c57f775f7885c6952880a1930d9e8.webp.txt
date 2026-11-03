@@ -1,0 +1,17 @@
+# OCR: 931c57f775f7885c6952880a1930d9e8.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/931c57f775f7885c6952880a1930d9e8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+s.C:/Windows|System32)cmd.exe
+Ticrosoftwindows[版本10.0.19045.5854(c）licrosoftCorporation。保留所有权利。
+E:>pythondecryptexe.py
+[+]Usage:pyinstxtractor.py<filename> E:>pythondecryptexe.pyencryptjpg.exe
+Processingencryptjpg.exe Pyinstaller version:2.l+ Python version:3.7
+Lengthofpackage:5229212bytes Found59filesinCArchive
+Beginning extraction...please standby
+Possible entry point:pyibootol_bootstrap.pyc
+Possible entry point: encryptjpg.pyc Found76files inPYZarchive
+Successfullyextractedpyinstallerarchive:encryptjpg.exe
+You can now use a python decompiler on the pyc files within the extracted directory E：

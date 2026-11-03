@@ -1,0 +1,12 @@
+# OCR: 4b42230b255c6f590efe815e6511a0dd.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/4b42230b255c6f590efe815e6511a0dd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+2024-08-1311:48:35
+李静(85294048161@s.whatsapp.net)(2024-08-1311:48:35)
+2024-08-1311:49:31
+(2024-08-1311:48:11)(85269732840@s.whatsapp.net)AliceC
+youhavebeen hiredo
+(2024-08-1311:49:31)(85269732840@s.whatsapp.net)AliceC

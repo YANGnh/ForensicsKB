@@ -1,0 +1,14 @@
+# OCR: 58685ca4e22b13ef8406261b4aa8a005.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/58685ca4e22b13ef8406261b4aa8a005.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+·检材1-手机
+口三序号口1
+三名称过滤
+基本信息》
+XiaomiPad6SPro12.4
+Wi-Fi连接记录
+邮密码过滤
+12345678

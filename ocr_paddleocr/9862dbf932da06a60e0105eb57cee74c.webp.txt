@@ -1,0 +1,29 @@
+# OCR: 9862dbf932da06a60e0105eb57cee74c.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/9862dbf932da06a60e0105eb57cee74c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+rootdpc-server:/www/server/panel/data#netstat-tunpl
+connections（onlyservers）
+ActiveTnternet
+ProtoRecv-oSend-oLocalAddress
+tcp tcp tcp tcp6 tcp6 udp udp
+e 的
+® 0
+0.0.0.0:22
+0.0.0.0:16724 0
+127.0.0.53:53
+:3306:::22
+A A
+127.0.0.53:53
+192.168.71.144:68
+ForeianAddress
+0.0.0.0:* 0.0.0.0: 0000-1
+:*: :*
+0.0.0.0: 0000-*
+State LISTEN LISTEN LISTEN LISTEN LISTEN
+PID/Programname
+911/sshd:/usr/sbir 1980/python3
+821/systemd-resolve 1607/mysgld
+911/sshd:/usr/sbir 821/systemd-resolve 3113/systemd-networ

@@ -1,0 +1,21 @@
+# OCR: 13f4623bf1282eebe83a8c11bc0f465d.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/13f4623bf1282eebe83a8c11bc0f465d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+刘福荣macOS14-cl1.vmdk（34961）¥操作系统（1497）ApplemacOs（1484）已安装软件列表（4）
+序号 3 4
+名称
+点此过滤 Skype.app Quark.app ToDesk.app
+SunloginClient.app
+安装路径点此过滤
+/Users/dafu/Application../Applications/Quark.app/Applications/ToDesk.app/Applications/SunloginC...
+版本点此过滤 1.0
+2.5.0.298 4.7.6.4
+15.6.2.13600
+简介
+点此过滤
+Created by OrayUl
+安装时间点此过滤
+2025/04/0213 2025/04/0216 2025/03/131 2024/07/2610

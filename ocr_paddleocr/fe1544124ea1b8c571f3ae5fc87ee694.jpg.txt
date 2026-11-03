@@ -1,0 +1,7 @@
+# OCR: fe1544124ea1b8c571f3ae5fc87ee694.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/fe1544124ea1b8c571f3ae5fc87ee694.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+电

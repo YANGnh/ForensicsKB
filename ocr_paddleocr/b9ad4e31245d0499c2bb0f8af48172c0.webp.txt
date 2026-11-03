@@ -1,0 +1,8 @@
+# OCR: b9ad4e31245d0499c2bb0f8af48172c0.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/b9ad4e31245d0499c2bb0f8af48172c0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+NTLM哈希明文密码
+1699741e90e0be37532c22fe84baefe8 990528

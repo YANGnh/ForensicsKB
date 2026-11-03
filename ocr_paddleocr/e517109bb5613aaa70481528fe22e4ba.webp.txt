@@ -1,0 +1,13 @@
+# OCR: e517109bb5613aaa70481528fe22e4ba.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/e517109bb5613aaa70481528fe22e4ba.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+详细信息
+名称：IMG0110.HEIC 大小：4.31MB
+创建时间：2025-05-1918:50:13 修改时间：2025-05-2002:50:13 缩略图路径：
+Image.tar/private/var/mobile/Media/PhotoData/Thumbnails/V2/DCIM/100APPLE/ MG0110.HEIC/5005.JPG
+本地路径：Image.tar/private/var/mobile/Media/DCIM/100APPLE/IMG0110.HEIC
+目录名称：DCIM/1OOAPPLE 经度：104.07005283333334 纬度：30.577041666666666
+源文件：Image.tar/private/var/mobile/Media/PhotoData/Photos.sqlite 已删除：否

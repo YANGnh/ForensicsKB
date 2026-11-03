@@ -1,0 +1,17 @@
+# OCR: 54eb38c8ce9c1749921b8d459d5e139b.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/54eb38c8ce9c1749921b8d459d5e139b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+图
+URL：路径：
+信息
+http://www.tjshop.com/ 命令执行
+[+]http://www.tjshop.com//peiqi.phpPass:peiqi
+ThinkphpGUIBy莲花
+版本：导入
+ThinkPHP5.0.22/5.1.29RCE 批量检测
+GetSehll
+o
+x

@@ -1,0 +1,12 @@
+# OCR: 972421fc891e994e2c4bc3ac2af80412.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/972421fc891e994e2c4bc3ac2af80412.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+6628日 6629 6630 6631 6632 6633 663
+root@openwrt:/etc/config#ucishownetwork.myvpn network.myvpn=interface
+network.myvpn.proto='wireguard
+network.myvpn.private_key='SLkCLyRhrkWIFgJWfEdoB7s99FYWJf9PUV+scj3Vw3U= network.myvpn.1isten_port='51820
+1114.122.133.144
+network.myvpn.addresses=

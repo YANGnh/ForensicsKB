@@ -1,0 +1,8 @@
+# OCR: 51884f73c8299f4b56f54acd11c463c4.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/51884f73c8299f4b56f54acd11c463c4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+(2024-06-1915:55:03)(y225192259)何健明
+有余

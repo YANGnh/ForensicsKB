@@ -1,0 +1,22 @@
+# OCR: 1d3f5fa4dff12c1ae839fb2fd5694278.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/1d3f5fa4dff12c1ae839fb2fd5694278.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+x目
+刚买到的一会处理.xlsx
+文件位置文件类型 Protection
+复杂度 MD5:
+D:检材题目》2025数证杯决赛）个人赛导出
+MsOffice2oo7OpenPassword,Hardwareacceleration possible, InstantMemoryattack possible
+Microsoft Enhanced RSA and AES Cryptographic Provider,128bits....·Brute-force-Slow
+31D2619A4862D1CBC8DB8BEBEFFE3D18
+Passwords:File-Open
+File-Modify
+Unprotected file:
+Doloris@0721
+已移除
+RANWUYPGVEWPYBX
+生成已移除
+D：》检材题目》2025数证杯决赛》个人赛导出》刚买到的一会处理-unprotected.xlsx MD5:528C22FF2F21EEB448B0A84F70C99A32

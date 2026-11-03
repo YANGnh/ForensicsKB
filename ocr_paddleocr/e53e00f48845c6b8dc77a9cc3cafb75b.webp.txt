@@ -1,0 +1,46 @@
+# OCR: e53e00f48845c6b8dc77a9cc3cafb75b.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/e53e00f48845c6b8dc77a9cc3cafb75b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+ARCHPR4.66-41% 文件(F)恢复(R)帮助(H)
+?. 打开开始！
+停止基准测试
+加密的ZIP/RAR/ACE/ARJ/7ZP文件 F:12025longxingbei账单数据.zip
+字典
+范围长度字典选项字典文件路径：
+明文
+F:2025longxingbei密码本，txt 智能变化
+尝试所有可能的大小写组合
+转换为OEM编码状态窗口
+自动保存
+升级
+攻击类型字典
+选项
+高
+?
+口令已成功恢复！
+总计口令总计时间
+x
+AdvancedArchivePasswordRecovery统计信息
+419,453 56ms
+平均速度(口令/秒) 这个文件的口令十六进制口令
+日保存.
+2025/11/914:47:08-文件F：2025longxingbei\账单数据.zip已打开。
+2025/11/914:47:08-开始字典攻击.. 2025/11/914:47:08-召零包成炭复
+2025/11/914:47:08-"VteGEILDQu是这个文件的一个有效口令
+当前口令：已用时间：
+VteGEILDQu
+字典攻击正在进行，已处理419,453口令
+平均速度：剩余时简：
+41%
+7.767.648p/s
+ARCHPR version 4.66 -Cracked by yoza[UnPacKcN] (C) 1997-2023 ElcomSoft Co. Ltd.
+7,490,232 VteGEILDQu
+56 74 65 47 45 6c 4c 44 51 75
+V确定
+桌面业下载
+x 凸凸
+2025long 新建文件卖门计算机镜像
+■此电脑"oS(C)

@@ -1,0 +1,18 @@
+# OCR: 78b369ccb783bd3c6b83276c0b1bd013.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/78b369ccb783bd3c6b83276c0b1bd013.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+后 G
+口
+localhost.localdomain-VMwareX
+A不安全
+Openwrt
+222.2.2.2/cqi-bin/luci/ OpenWrt
+root 6
+登录
+o
+OpenWrt-概览-LuCl
++
++

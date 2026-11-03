@@ -1,0 +1,39 @@
+# OCR: 279109268516b6fef5f14dad30d7cb9e.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/279109268516b6fef5f14dad30d7cb9e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+[回同
+vSphere Client
+圆
+目
+vcsa.pgs.cup
+?
+Datacenter_Pgscup
+?
+VMNetwork DSwitch
+在所有环境中搜索
+DSwitch-DVUplinks-1029 温DSwitch-vSAN
+温DSwitch-vSAN
+摘要
+监控》》》》》》》》
+配置端口ID
+12 13 14 15 16 17 18 19
+权限
+：操作端口
+名称
+主机
+虚拟机
+连接对象
+esxi2.pgs.cup-vmk1 esxi3.pgs.cup-vmk1 esxi1.pgs.cup-vmk1 esxi2.pgs.cup-vmk2 esxi1.pgs.cup-vmk2 esxi3.pgs.cup-vmk2
+运行时MAC地址
+00:50:56:68:a2:de 00:50:56:63:9b:ab 00:50:56:65:b5:26 Q0:50:56:6e:1e:c9 00:50:56:6a:74:58 Q0Q:5Q:56:65:6a:88
+端口组
+DSwitch-vSAN DSwitch-vSAN DSwitch-vSAN DSwitch-vSAN DSwitch-vSAN DSwitch-vSAN DSwitch-vSAN DSwitch-vSAN
+状况
+已连接已连接已连接已连接已连接已连接
+VLANID
+C
+VLAN访问权限：O VLAN访问权限：O VLAN访问权限：O VLAN访问权限：O VLAN访问权限：O VLAN访问权限：O VLAN访问权限：O VLAN访问权限：O
+0

@@ -1,0 +1,26 @@
+# OCR: 3a87fb0f22af9421a1f350e4cb07bb7a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/3a87fb0f22af9421a1f350e4cb07bb7a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+重组RAID
+添加磁盘或镜像
+1：[检材2-计算机.E01].分区9 2：[检材2-计算机.E01].分区
+3: 4 5 6 7:
+10: 11: 12 13 14: 15: 16
+老确定(O)
+取消(A
+扇区偏移：
+JBOD/Linear Level0
+Level 5: backward parity (Adaptec) Level5:backwarddynamic (AMI) Level5:backward delayed (HP)
+Level5:forwardparity Level5:forwarddynamic Level5:forward delayed
+Level 5:forward dyn.del.(CRU-DP) Level5EE:backwardparity(Adaptec Level 5EE:forward parity
+Level 6:backward parity (Adaptec)
+Level 6:backwarddynamic Level 6:forward delayed Level 6:forward parity
+条带大小：
+磁盘或镜像数量
+1024
+2
+金韩助H
+x

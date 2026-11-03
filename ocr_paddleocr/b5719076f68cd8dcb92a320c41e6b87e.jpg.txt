@@ -1,0 +1,18 @@
+# OCR: b5719076f68cd8dcb92a320c41e6b87e.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/b5719076f68cd8dcb92a320c41e6b87e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+检材3-计算机
+Chrome浏览器>品保存的密码
+二序号
+口1 口2
+無登录URL 过滤
+http://192.168.8.5:18888/
+http://192.168.8.5/cgi-bin/luci/
+三账号过滤
+root
+A
+理密码过滤
+hl@7001

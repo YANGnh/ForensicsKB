@@ -1,0 +1,19 @@
+# OCR: ee12f21226de4776345d5f0d2b63fe5c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ee12f21226de4776345d5f0d2b63fe5c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+初始化配置连接到服务器配置连接协议认证用户信息
+Hostacceptedbydetault (no veritication) Host accepted (verified)
+Outbound:SendingNEWKEYS
+Inbound:NEWKEYS Verifying signature.. Verified signature Handshakecompleted
+Outbound:SendingSERVICEREQUEST(ssh-userauth) Inbound:ReceivedEXTINFO
+Inbound:ReceivedSERVICEACCEPT(ssh-userauth) Outbound:SendingUSERAUTH_REQUEST(none)
+Inbound:Received USERAUTH_FAILURE (publickey.password) Client: none auth failed
+Outbound:SendingUSERAUTHREQUEST(password)
+Inbound:ReceivedUSERAUTH_FAILURE(publickey.password) Client:passwordauthfailed
+Outbound:SendingUSERAUTHREQUEST(keyboard-interactive)
+Inbound:ReceivedUSERAUTH_FAILURE(publickey.password) Client:keyboard-interactive auth failed
+All configured authenticationmethodsfailed
+关闭

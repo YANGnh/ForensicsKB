@@ -1,0 +1,66 @@
+# OCR: e20d47617cb048e7bab5c99a31de79e5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/e20d47617cb048e7bab5c99a31de79e5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+CEOF
+CE1oaBindFailed CE1C
+ALIGN0x10
+DCB"Bindfailed".o ALIGN0x20
+CE20a2025ficZhaohonDCB0xA
+CE20 CE21
+CE48a5c69CE48
+CE49 CE73
+CE78a9999
+CE78 CEB3 CEB4
+CEB5unk69CEB5
+CEB6 CEB7
+CEB8aPostLogin
+CEB8 CEE5 CEE6 CEE7
+CEE8aPasswordData
+CEE8 CF16 CF17
+;DATAXREF:starthttpserver+A4to;DATAXREF:starthttpserver+C4fo
+;main+84to
+DCB"***2025FIC大比武zhaohong开发*****"0
+DCBOxA DCB
+ALIGN 8 DCB
+DCB DCB DCB DCB DCB DCB
+DCB DCB DCB DCB
+DCB DCB
+CF18aVarLogCollecte0DCB CF18
+CF46 CF47
+CF48asc 69CF48
+CF48 CF72
+CF78aAcceptFailed CF86
+CF88aGetHttp
+CF88 ICF94
+DCB DCB DCB
+0 0 0 0 0
+?? 0
+? 0“*
+? 0
+ALIGN8
+;DATAXREF:starthttp_server+Dofo
+*
+*",0
+摄像头密码服务器--正在监听端口：9999
+：DATAXREF:starthttpserver+Dco;DATAXREF：.text:0000000005AFDC8To
+接收POST请求/login
+*",0
+;DATA XREF:start_http_server+E8↑o
+需包含字段：password&data
+*",0
+：DATAXREF:starthttpserver+F4to
+密码保存在：/var/log/collected.txt*",o
+：DATAxREE:starthttpseryer+1ooto;DATAXREF:start_http_server+10Cto
+DCB"Accept failed",0 ALIGN8
+DCB"GET/HTTP/",0 ALIGN8
+;DATAXREF:start_http_server+14Cto;DATAXREF:starthttpserver+190to;start_http_server+194to
+CF98aHtmlBodyH1WelcDCB"<html><body><h1>WelcometoPasswordCollector!</h1></body></html"
+CF98 CF98 CFD8 CFDA
+CFE0aTextHtml CFEO
+DCB">",0 ALIGN 0x20
+DCB"text/html",0
+;DATAXREF:start_http_server+1A8↑o;start_http_server+1Acto
+;DATAXREF:start_http_server+1Boto;start_http_server+1B4↑o

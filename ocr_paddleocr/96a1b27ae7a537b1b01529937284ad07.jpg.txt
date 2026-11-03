@@ -1,0 +1,14 @@
+# OCR: 96a1b27ae7a537b1b01529937284ad07.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/96a1b27ae7a537b1b01529937284ad07.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+详细信息
+名称：.shop1.zip
+扩展名：zip 类型：文件
+大小：247.56KB
+创建时间：2023-02-1715:17:28 访问时间：2023-02-1715:17:28 修改时间：2023-02-1715:17:28 MetaAddr:5335
+全路径：RA/D-52024-04-25091338651.001/分区1/backup/.shop1.zip
+SHA256:9DEDE75E455A7C4C5CC4B61E41570ADF82AF25251C5FD8456A637ADD864B0AF0
+加密类型：未加密已删除：否

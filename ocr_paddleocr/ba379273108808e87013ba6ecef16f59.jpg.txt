@@ -1,0 +1,29 @@
+# OCR: ba379273108808e87013ba6ecef16f59.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/ba379273108808e87013ba6ecef16f59.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+g
+伏季雅的手机》
+三序号口51 口52 口53 口54 口55 口56 口57 口58 口59 ■60
+图标过滤
+国 0
+品App分析APK列表
+■名称过滤
+SEIOAgent MoneyLover ARDoodle
+小红书通话
+PrivateComputeS... AlwaysOnDisplay QuickShareAgent
+包名 book
+com.google.android.apps.docs com.google.android.apps.docs com.skp.seio
+com.bookmark.money
+com.samsung.android.ardrawing com.xingin.xhs
+com.samsung.android.incallui com.qgooqle.android.as.oss
+com.samsung.android.app.aodservice com.samsuna.android.aware.service
+Y
+三版本号过滤
+3.8.1 8.14.0.6 4.1.11.0 8.32.0 13.3.01.1 1.0.release...
+7.1.98.4 3.5.14.38
+無大小等于 1.84MB 532.39KB 32.90KB 70.89MB 34.39MB 162.99MB 29.26MB 32.33MB 26.11MB 3.52MB
+=SDK详情过滤
+[SDKProvider""北京百度网讯科技有限公司”“Servi

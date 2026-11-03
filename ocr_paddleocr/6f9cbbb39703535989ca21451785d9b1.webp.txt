@@ -1,0 +1,52 @@
+# OCR: 6f9cbbb39703535989ca21451785d9b1.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/6f9cbbb39703535989ca21451785d9b1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+0 0 10 o 20 o 40 o 50 0
+50 BB 59 5D 7C
+EC 76
+AO
+0049454E 003E00
+03
+00
+00
+00
+00
+A
+23 5E
+44
+AE
+2E
+00
+FE
+FF
+00
+01
+00
+BB b 09 00
+41 DB
+E4 82 00
+6E BL
+7C
+DOCF
+00
+00
+06
+00
+01
+00 00 00
+BA 二 00 00 00
+F5 EO 00 00 00
+EB
+10 AB BF
+0000 B
+00
+000000
+00
+00
+00
+Puz#.Anoeu ex;*Ace.>Uf>-aFn
+>o·awby2XB34w Y/oQg#ui-.ioY jAyko._=_.Em3162 v.y?[zEaZF
+.IENDB',DI.ait

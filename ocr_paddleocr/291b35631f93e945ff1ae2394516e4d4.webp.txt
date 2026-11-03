@@ -1,0 +1,24 @@
+# OCR: 291b35631f93e945ff1ae2394516e4d4.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/291b35631f93e945ff1ae2394516e4d4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+↓Latest1ERC-2oTokenTransferEvent
+??
+Transaction Hash Ox7fea01ac15c...
+Method?
+Transfer
+Block
+7967897
+Age
+28daysago
+From
+0x341a00B3...4eda0e5e0
+To
+0xd8786a13...1066482e9
+Amount 521
+DownloadPageData Token
+OERC-20:qia...nbi
+[Download:cSVEx
+nn

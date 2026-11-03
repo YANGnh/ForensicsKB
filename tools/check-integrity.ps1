@@ -9,7 +9,8 @@ $ErrorActionPreference = 'Stop'
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 
 $report = [System.Collections.Generic.List[string]]::new()
-$ocrDir = Join-Path $Root 'ocr'
+$ocrDir = Join-Path $Root 'ocr_tesseract'
+$paddleDir = Join-Path $Root 'ocr_paddleocr'
 $reportDir = Join-Path $Root '_reports'
 New-Item -ItemType Directory -Path $reportDir -Force | Out-Null
 
@@ -47,12 +48,12 @@ foreach ($f in $mds) {
         if (-not (Test-Path (Join-Path $dir $name))) { $broken++; $report.Add("图片断链: $rel → $name") }
         $base = [System.IO.Path]::GetFileName($name)
         $referenced[$base] = $true
-        if (-not (Test-Path (Join-Path $ocrDir ($base + '.txt')))) { $noOcr++; }
+        if (-not ((Test-Path (Join-Path $paddleDir ($base + '.txt'))) -or (Test-Path (Join-Path $ocrDir ($base + '.txt'))))) { $noOcr++; }
     }
 }
 # 孤儿图片（被引用集合之外）
 $imgExts = @('.png', '.jpg', '.jpeg', '.webp')
-$allImgs = Get-ChildItem $Root -Recurse -File | Where-Object { $_.Extension -in $imgExts -and $_.FullName -notlike "$ocrDir*" }
+$allImgs = Get-ChildItem $Root -Recurse -File | Where-Object { $_.Extension -in $imgExts -and $_.FullName -notlike "$ocrDir*" -and $_.FullName -notlike "$paddleDir*" }
 $orphans = $allImgs | Where-Object { -not $referenced.ContainsKey($_.Name) }
 
 # ---- 受控词表校验（警告级，不阻断）----

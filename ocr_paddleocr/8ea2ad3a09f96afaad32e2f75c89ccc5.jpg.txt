@@ -1,0 +1,17 @@
+# OCR: 8ea2ad3a09f96afaad32e2f75c89ccc5.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/8ea2ad3a09f96afaad32e2f75c89ccc5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+此电脑
+名称
+新加卷(D:)
+pgm
+★ ★ ★
+voice1 voice2 voice3
+GPT-SoVITS-beta0217>logs
+修改日期
+2024/4/2516:32 2024/4/2516:32 2024/4/2516:32 2024/4/2516:32
+类型文件夹文件夹文件夹文件夹
+大小

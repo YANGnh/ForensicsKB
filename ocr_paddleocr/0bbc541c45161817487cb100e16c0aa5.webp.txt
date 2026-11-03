@@ -1,0 +1,32 @@
+# OCR: 0bbc541c45161817487cb100e16c0aa5.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/0bbc541c45161817487cb100e16c0aa5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+数据库结构
+表(T)： uid
+user 过滤
+1Admin
+2
+浏览数据 name
+我是老六 2
+编辑杂注
+执行
+SQL
+password
+过滤
+Wangwww@www.com LLLLLLLL@LLL. Com
+8 过滤
+围
+email
+wangwww@www.com 1lllll1@lll.com
+画
+在所有列中过滤
+gender 过滤
+language 过滤
+o en-US o en-US
+is admin 过滤
+create 过滤
+1
+passwor opasswon

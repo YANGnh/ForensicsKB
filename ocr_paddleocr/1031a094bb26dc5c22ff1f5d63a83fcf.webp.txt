@@ -1,0 +1,19 @@
+# OCR: 1031a094bb26dc5c22ff1f5d63a83fcf.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/1031a094bb26dc5c22ff1f5d63a83fcf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+2367a4:stur
+x2.「fp,#-8
+2367a8:ArrayStore:r2o1=r0;List4
+0x2367a8：stur
+wo，[x2,#0x17]
+2367ac:ro=InstanceCenter
+Qx2367ac:add 0x2367b0:1dr
+x0,PP,#0xd,1sl #12;[pp+0xd30o]Obj!Centen
+44e251
+x0，[x0，#0x300]
+2367b4:StoreField:r2->field_b=r0
+0x2367b4:stur
+w，[x2，#0xb]

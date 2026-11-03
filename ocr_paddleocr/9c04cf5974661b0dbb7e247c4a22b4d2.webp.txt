@@ -1,0 +1,10 @@
+# OCR: 9c04cf5974661b0dbb7e247c4a22b4d2.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/9c04cf5974661b0dbb7e247c4a22b4d2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+4:15
+二次验证二次验证.bfly
+我是二只小因
+急

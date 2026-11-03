@@ -1,0 +1,55 @@
+# OCR: 02ce2d35a9851c9b432b7a26894ea269.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/02ce2d35a9851c9b432b7a26894ea269.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+DSwitch-DVUplinks-1029
+摘要
+监控》》》》》》》》》》》》
+配置端口ID
+o 1 2 3 4 5 6 7 8 9 10 11
+权限 Y
+端口
+名称 uplinki uplink2 uplink3 uplink4 uplinki uplink2 uplink3 uplink4 uplinki uplink2 uplink3 uplink4
+Y
+：主机
+操作
+虚拟机
+连接对象
+esxi1.pgs.cup-vmni c1
+esxi1.pgs.cup-vmni c2
+esxi2.pgs.cup-vmni c1
+esxi2.pgs.cup-vmni c2
+运行时MAC地址
+Y
+端口组
+Y
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-10 29
+DSwitch-DVUplinks-1d 29
+DSwitch-DVUplinks-1C 29
+DSwitch-DVUplinks-10 29
+状况
+已连接已连接
+已连接已连接
+VLANID
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：0-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94
+VLAN中继：O-40 94

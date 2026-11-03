@@ -1,0 +1,15 @@
+# OCR: 7426b2f3abcb458773022b69a08332a0.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/7426b2f3abcb458773022b69a08332a0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+检材1-手机
+序号口1
+三头像过滤
+微信（官方版）>（wxidwnigmud8aj6j12）>账户信息
+三用户ID 过滤
+三内部D 过滤
+wxid_wnigmud8aj6j12
+Y
+三昵称过滤马调

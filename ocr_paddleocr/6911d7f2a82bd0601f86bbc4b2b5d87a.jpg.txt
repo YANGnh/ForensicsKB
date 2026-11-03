@@ -1,0 +1,17 @@
+# OCR: 6911d7f2a82bd0601f86bbc4b2b5d87a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/6911d7f2a82bd0601f86bbc4b2b5d87a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+终端×
+root@nginx:~#ping192.168.1oo111-c3
+PING192.168.100.111（192.168.100_111)56(84)bytesofdata 64 bytesfrom192.168.10o.111:icmp_seq=1 tti=64 time=0.753ms 64bytes from 192.168.100.111:icmp_seq=2ttl=64time=0.321ms 64 bytes from 192.168 100.111:icmp_seq=3ttl=64 time=0.252ms
+-192.168.1oo.111pingstatistics
+3packetstransmitted.3received.e%packetloss.time2o29ms
+rttmin/avg/max/mdev=0.252/e.442/e.753/e.221ms root@nginx:~#ping 192.168.1oo.112 -c3
+PING192.168.100.112(192.168100.112)56(84)bvtesofdata
+64bytesfrom192.168.10o.112:icmpseq=1ttl=64time=.928ms 64 bytes from 192.168.10o.112:icmp_seq=2 ttl=64 time=0.419ms 64 bytes from192.168.100.112:icmp_seq-3 ttl=64 time-0.294 ms
+-192168.1oo.112pingstatistics
+3packetstransmitted,3received,e%packetloss,time2o27ms
+rttmin/avg/max/mdev=e.294/e.547/e.928/e.274ms root@nginx:~#

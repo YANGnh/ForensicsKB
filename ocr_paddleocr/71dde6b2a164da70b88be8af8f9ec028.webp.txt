@@ -1,0 +1,20 @@
+# OCR: 71dde6b2a164da70b88be8af8f9ec028.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/71dde6b2a164da70b88be8af8f9ec028.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+新一贷
+最高借款额度（元）
+300.000
+纯线上审批
+产品详情最低日息借款额度
+仓颠
+钱包
+最长借三年
+客服
+秒级放款
+0.02%
+0.05%
+￥20000-300000
+8 我

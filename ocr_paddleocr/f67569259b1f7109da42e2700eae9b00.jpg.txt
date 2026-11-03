@@ -1,0 +1,19 @@
+# OCR: f67569259b1f7109da42e2700eae9b00.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f67569259b1f7109da42e2700eae9b00.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+[rootqlocalhost l# ip a
+1:lo:<L00PBACK,UP,LOWER_UP>mtu 65536qdisc noqueue stateUNKNOWNgroup default glen 1000
+1ink/oopback::::brd::0::: inet 127.0.0.1/8 scope host lo
+valid_lftforever preferred_lft forever inet6::1/128scopehost
+valid lft forever preferred_lftforever
+groupdefaultglen10
+2:ens33:<BROADCAST,MULTICAST,UP,LOWERUP>mtu1500qdiscfg_codelstateUP
+1ink/ether 00:c:29:1d:fb:3a brd ff:ff:ff:ff:ff:ff
+3:dockerO:<NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 15O0 gdisc noqueue state DOWN group default
+1ink/ether 02:42:b2:39:2d:10 brd ff:ff:ff:ff:ff:ff inet 172.17.0.1/16 brd 172.17.255.255 scope global
+dockere
+valid_lftforeverpreferred_lftforever
+[rootelocalhost]#

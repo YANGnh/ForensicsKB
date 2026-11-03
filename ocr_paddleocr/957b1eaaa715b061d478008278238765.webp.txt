@@ -1,0 +1,24 @@
+# OCR: 957b1eaaa715b061d478008278238765.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/957b1eaaa715b061d478008278238765.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+G
+名称
+>
+Kali.vmx.lck
+kali.vmdk 国Kali.vmsd Kali.vmx 国Kali.vmxf
+文档
+kali-pt.vmdk ■我的手机号
+> 人
+Virtual Machines
+血
+A
+排序
+Kali
+>
+三查看修改日期
+2025/5/717:03 2025/5/89:57 2025/5/711:57 2025/5/711:57
+2025/5/711:57 2025/5/89:57 2025/5/1611:07
+类型文件夹 Virtua VMwa VMwa VMwa Virtua 文件

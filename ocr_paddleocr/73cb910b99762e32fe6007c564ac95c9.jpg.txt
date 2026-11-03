@@ -1,0 +1,48 @@
+# OCR: 73cb910b99762e32fe6007c564ac95c9.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/73cb910b99762e32fe6007c564ac95c9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+能号密好不证
+于
+a
+编用器中开
+ama(tauss>msg->Bea不
+oppi##社保训牌品装店
+2Atninphp）tsadmin>@logr
+admin2con
+dn
+extendsBase 理进
+ubue f(ser
+Jonn
+seseto
+tde
+1F(IS_POST)
+fyf
+eeavstat
+Ers
+SconditionuserraseICpost.usermame/s);
+ySconaltlont
+Ete
+sord
+otle
+o
+Satasn Enfe
+rolePREFIX,adsin,rolee-",PREFDX."adxA_role.role_td"ImER")->where(Sconditton)->find()
+PREFIXO
+tray(sdelinlete
+sne ifo
+Satein_lofoladesn_ld)->save(erray(astlogin->tine,tast_Ip-ygetP()))
+lastlogia
+gin ipsadaindnfotlastp
+台胜量
+uc.adwin/Lrdes/indox
+rsessionc
+exit(Json_e
+ode(array(status>i,r>spl)))
+Jelse
+xitGjsonencode(arraystatus->e,es)
+bese
+iteiso
+returnSthis:>fetch()

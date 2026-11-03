@@ -1,0 +1,13 @@
+# OCR: d0ae074aa2eb5b1a633ada130207b155.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/d0ae074aa2eb5b1a633ada130207b155.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+manghevip
+name pwd
+sitename sitetime
+1
+admin
+55aca9d246badda00d458ac241d913ba59593e8a
+小飞机交友盲盒系统 2021-10-20

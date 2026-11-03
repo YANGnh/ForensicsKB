@@ -1,0 +1,14 @@
+# OCR: 52b41f7ac7f3ac5f380820ac122a2016.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/52b41f7ac7f3ac5f380820ac122a2016.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+已保存的密码
+网站
+?
+192.168.200.1 192.168.200.201
+用户名 root
+密码
+honglian7001
+&

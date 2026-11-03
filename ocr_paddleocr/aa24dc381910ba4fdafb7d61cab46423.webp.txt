@@ -1,0 +1,22 @@
+# OCR: aa24dc381910ba4fdafb7d61cab46423.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/aa24dc381910ba4fdafb7d61cab46423.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+g
+图Alice的Macbook>围基本信息（分区5）>四系统信息
+三序号口1 口2 口3 口4 口5 口6 口7 口8 口9 口10
+三名称过滤
+操作系统类型操作系统版本版本序列号产品版权
+完整计算机名
+主机名平台
+最后登录用户语言
+硬件UUID
+三英文名称过滤
+Y
+三值过滤 macos 12.7.6
+320
+1983-2024AppleInc Alice'sMacBookPro Alices-MacBook-Pro MacBookPro12.1
+alice_c en-HK
+B4B99592-7A67-5A64-8288-5B2503075AEE

@@ -1,0 +1,9 @@
+# OCR: 2fce6fdec149c70b54caedbd9eaffec2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/2fce6fdec149c70b54caedbd9eaffec2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+249 250 251 252
+[persist.sys.country]：[
+[persist.sys.dalvik.vm.lib.2]:[libart.so][persist.sys.device_name]: [Redmi 6 Pro][persist.sys.enable_inputopts]:[true]

@@ -1,0 +1,29 @@
+# OCR: c8b3fbd8e3b9109a2303180132f50168.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c8b3fbd8e3b9109a2303180132f50168.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+宴胎
+回
+国 froot
+afs boot dev etc home
+lost+found
+media mnt opt proc root
+bashhistory.bashlogout.bashprofile
+.bashrc.cshrc Jesshst.tcshrc
+anaconda-ks.cfg
+run srv sys tmp usr var bin lib lib64 sbin
+javaserver
+X
+终端
+sqlserver
+Authorized users only. All activities may be monitored and reported Lastlogin:MonMay201727-162024
+Welcometo5.10.0-182.0.0.95.oe2203sp3.x8664
+System information as of time:
+Systemload: Processes: Memory used: Swap used: Usage On: Ip address: Ip address: Usersonline
+01 210 6.5% e% 41%
+192.168.100.112
+172.17.0.1 2
+Froot@localhost#
+MonMay2005:35:25PMCST2024

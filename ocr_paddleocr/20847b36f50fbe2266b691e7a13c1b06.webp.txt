@@ -1,0 +1,34 @@
+# OCR: 20847b36f50fbe2266b691e7a13c1b06.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/20847b36f50fbe2266b691e7a13c1b06.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+田田
+田田日
+S
+JohnKiller
+C
+1.44.1-69057(Ext2/3/4filesystem
+@s2s
+@SynoFinder-etc-volume@SynoFinder-og
+@database@eaDir
+@synoconfd@tmp
+@userpreference JohnKiller
+#recyde@eaDir Newfolder
+beauty
+田
+jpn
+田
+V
+奥逼
+志田千隔
+SelectedFile"-10.jpg"withownsize31081bytes
+Thisischild PRoNphoto
+-10.jpg Picture
+Name
+@eaDir-10.jpg 16+.jpg Thumbs.db 幻幻.jpg 幼幼.pg
+Modified:02.09.202416:43:37 Size:30KB
+View
+Saveas...
+Date 04.0 02.0 21.0 02.0 21.0 21.0

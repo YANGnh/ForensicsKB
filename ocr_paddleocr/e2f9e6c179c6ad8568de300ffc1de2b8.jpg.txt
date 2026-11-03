@@ -1,0 +1,17 @@
+# OCR: e2f9e6c179c6ad8568de300ffc1de2b8.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e2f9e6c179c6ad8568de300ffc1de2b8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+istoreos
+拽索菜单颠
+网络向导
+状态 0系统 aistore Docker 配置概览容器镜像网络卷标
+Docker-概述
+在此展示与LuCldocker客户端相连接的相关数捆的概宽
+信息 Docker版本 Api版本线程数量总内存 Docker根目录索引服务器地址注册表镜像
+20.10.22 141
+988.21MB
+loverlaylupperiopt/docker(321,81MB可用)
+https:/index.docker.iov/

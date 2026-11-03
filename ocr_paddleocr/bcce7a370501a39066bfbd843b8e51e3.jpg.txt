@@ -1,0 +1,15 @@
+# OCR: bcce7a370501a39066bfbd843b8e51e3.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/bcce7a370501a39066bfbd843b8e51e3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+PRemoteM
+全部协议 RDP
+书
+名称 asd
+搜索 (Ctrl+F)
+《Note目标
+口
+206.238.220.147:3389(Administrator)
+X 十

@@ -1,0 +1,18 @@
+# OCR: f4f0c8ea9a57125e1fe8397b27a07b1d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/f4f0c8ea9a57125e1fe8397b27a07b1d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+WHEREreg_time<=‘1714029184"
+chinkuser
+析 id
+状态
+t_add 0
+qrcode
+ORDER BYregtimeDESC LIMIT1
+status
+0.00/Uploads/grcode/2021-0
+is_robot 0
+dl_rate 00
+remarl

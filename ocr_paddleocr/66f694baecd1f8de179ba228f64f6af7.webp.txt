@@ -1,0 +1,15 @@
+# OCR: 66f694baecd1f8de179ba228f64f6af7.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/66f694baecd1f8de179ba228f64f6af7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+Recipe MD5
+入
+a
+Input
+1234567890ABCDEF1864810197
+Re 26
+F1
+output
+31ad809d9a24ad6c07354222f4574485

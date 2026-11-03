@@ -1,0 +1,144 @@
+# OCR: e9492a252d998e60b3ed24181df750f7.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e9492a252d998e60b3ed24181df750f7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+终端×
++
+[root@localhost webapp]# jar uf ruoyi-admin.jar BooT-INF/classes/application-druid.yml[root@localhostwebapp]#
+ls-al
+total 1903260
+drwxr-xr-x.
+14 root root
+dr-xr-xr-x. drXF-XF-X drwxr-xr-x drwxr-xr-x. drwxr-xr-x drXr-xr-X drwxF-xr-x
+FW-FF-W---5-
+drXF-XF-X drwxr-xr-x-FW
+drwxr-xr-x drwxr-xr-x drwxF-xr-x
+Fw-I W Fw-r
+W FW Fw FW w W w
+w-w FW Fw FW-FWs w
+TWXF-XF-X drwxr-xr-x
+21
+root root
+root root
+3 4
+root root
+4 4 2 4
+2 5 1 3 4 4
+1 1
+root root root root root Foot Foot
+root
+root
+root
+root root oot Foot root root root
+root
+root root Foot Foot root root
+root
+root
+root root Foot Foot root root root root
+4096
+Apr
+4096
+21 108 108 108 101 4096 2467 194
+Mar Apr Sep Jul Aug Jun Jul Sep Jun
+161
+Mar
+75
+Jun
+Mar
+53441
+112 4096 87 211 12288
+Jun Jul Jul Jun Aua
+121814726 Apr
+Aug
+121797835
+121795070
+121798478
+rootroot
+root Foot root root root root root root Foot Foot root root
+121800107 121802495 121808284 121808386 121812077
+Aug Aug Aug Aug Aug Sep Sep
+Jul
+121792171
+121792564
+1
+root root
+Jul
+root root 121793065
+ul Aug
+root Foot root root
+1 1 1
+3
+121794517 121796302
+Aug
+rootroot121797ee8
+Aug Aug
+root root
+121797010
+Foot
+Foot
+root Foot
+root root
+Mar 5
+Aug
+627
+Sep 41
+2721-32 1416-40
+27 7 4 26 26 12 19 8 15 8
+21-27
+BOOTINE
+2023 dist
+2023 dist0826 2023 dist9906
+2023down 2023 group 2023
+index.htnl
+2023 kill.sh
+10-04 2023
+Logs
+luckprize
+1416-41
+nohup.out
+8 11 4 8 14
+2023
+profile
+2023qz
+9z7.11
+2023
+2023 2923
+27
+21-32
+restart.sh
+restart sh swn Fuoyi-adminjar
+ruoyt-admunaro818
+2023
+22 27 27 28 29 4
+17 19 26
+15 15 16 16
+2023
+ruoyi-admin.jar0826
+2023
+ruoyi-admin.jar0827
+2023
+ruoyi-admin.jar0828
+ruoyi-admin.jar08281
+2023
+2023
+ruoyi-admin.jar0904
+ruoyi-admin.jaro907
+2023
+ruoyi-admin.jaro915
+2023
+ruoyi-admin.jar 7.19
+2023 2023
+ruoyi-admin.jar 7.26
+2023
+ruoyi-admin.jar8.14
+2023ruoyi-admin.jar8.15 2023
+ruoyi-admin.jar8.151 ruoyi-admin.jar8.16
+2023 2023
+ruoyi-admin.jarbak
+1416-41
+14 13
+2023 2023
+ruoyi-admin.pid
+start.sh test

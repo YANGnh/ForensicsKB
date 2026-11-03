@@ -1,0 +1,34 @@
+# OCR: 5f3328aacaeb5cf5cb217071007bd5d9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/5f3328aacaeb5cf5cb217071007bd5d9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+猫E
+56.0 告南-最
+，44100H2 浮点
+独奏
+间@
+视图
+8k 6k 5h 4k 3k 2k ok 8k 6k 5k 4k 3k 2k
+播录(R) 57.0
+轨道
+生成G
+58.0
+效果(C
+59.0
+分析(A
+帮助(H)
+远程音频
+1:00.0
+-45-42-39-点击开始监视4
+4-21-182 7-24-21
+1:01.0
+1:02.0
+编解码与加解密
+UnicodeX 摩斯电码
+空格
+114514191
+摩斯电码×
+解码√
+编码入

@@ -1,0 +1,39 @@
+# OCR: b312ac8b19afa1e92bd45fd1b360d31f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/b312ac8b19afa1e92bd45fd1b360d31f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+刷新
+图
+&
+文件全显签名恢复详情/预览
+请选择/输入持有人/检材编号/
+静检材2
+文件系统》文件分类自特征不符
+VA检材3
+文件系统 >检材3.E01》文件分类
+20064 20053
+8 3
+205061 205053
+205052
+8
+公
+序号 1X 2 3 M4 5 6 7 8 M9 10 11
+检材3/文件系统/检材3.E01
+三名称过滤
+JCE-unix X11-unix XIM-unix
+default(13) build-id(2)
+Cache
+cache(3 ache（27 sache
+43(62
+cache
+计算哈希
+MD5
+SHA1
+三哈希集过滤
+SHA256
+口SM3
+=SM3 过滤
+取消
+确定

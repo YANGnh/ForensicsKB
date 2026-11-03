@@ -1,0 +1,12 @@
+# OCR: 22fca8480610a7128708462238b3c331.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/22fca8480610a7128708462238b3c331.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+详细信息
+名称：2024.fic
+扩展名：fic 类型：文件大小：50MB
+创建时间：2024-03-1416:49:15 访问时间：2024-03-1815:52:49 修改时间：2024-03-1417:20:07 MetaAddr：276882
+全路径：检材3-计算机.E01/分区6/Users/L/Documents/2024.fic SHA1:B25E2804B586394778C800D410ED7BCDC05A19C8
+加密类型：TrueCrypt容器已删除：否

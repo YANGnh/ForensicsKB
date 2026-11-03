@@ -1,0 +1,47 @@
+# OCR: 19e8f60bcc689e8dfce2b479fc7745b1.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/19e8f60bcc689e8dfce2b479fc7745b1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+a
+Drive2:FixedStorLibATAVirtualStorage
+MS Reserved partition B
+Ext2/3/4partition
+Drive3:Fixed StorLibATAVirtual Storage
+MSReservedpartition SWAPpartition
+a
+Drive4:Fixed StorLib ATA Virtual Storage
+MS Reserved partition
+Stripe component partition 雕
+回
+Drive5:Fixed StorLibATAVirtualStorage
+MS Reserved partition Ext2/3/4partition
+回
+Drive6:Fixed StorLib ATAVirtual Storage
+MSReservedpartition SWAPpartition
+回
+Drive7:FixedStorLibATAVirtual Storage
+MS Reserved partition
+Stripecomponentpartition meiya_test:2
+vg1-syno_vg_reserved_area partition vg1-volume_1 (Ext2/3/4) partition
+[n/]
+Microsoft reserved partition
+1.44.1-69057[n/a]
+Microsoftreservedpartition
+Basic data partition[n/]
+Microsoft reserved partition[n/a]
+Microsoft reserved partition
+1.44.1-69057[n/a]
+Microsoft reserved partition
+Basic data partition[n/]
+Microsoft reserved partition
+F2680701684F19624EDF44FD0.. 1.44.1-69057
+34 65570
+34 65570
+34 67618
+34 65570
+34 65570
+34 67618
+1152 25728
+8.03GB 32.00MB 8.00 GB 2.03GB 32.00MB 2.00 GB 287.90GB 32.00MB 287.86GB 8.03GB 32.00MB 8.00 GB 2.03GB 32.00 MB 2.00 GB 138.86GB 32.00 MB 138.82GB 426.69GB 12.00MB 426.00GB

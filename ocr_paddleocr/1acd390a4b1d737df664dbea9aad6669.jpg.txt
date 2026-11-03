@@ -1,0 +1,20 @@
+# OCR: 1acd390a4b1d737df664dbea9aad6669.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1acd390a4b1d737df664dbea9aad6669.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+对象连接：
+main（History)-在数据库中查找
+History 数据库：
+main 查找字符串： bet365
+查找范围：数据
+搜素模式：包含
+V
+“}"作为转义字符
+查找
+main（SafariTabs）-在数据库中查找
+"bet365"的查找结果：
+名称
+main（Bookmarks）-在数据库中查找
+匹配记录的数目

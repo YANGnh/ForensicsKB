@@ -1,0 +1,9 @@
+# OCR: fe90c428875308c32ed1fe5523c2dc40.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/fe90c428875308c32ed1fe5523c2dc40.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+受害人手机检材.taridatalcom.vmos.pro)osimg/r/ot02)dataapp 了文件名称一
+. =data (1,464) =app (222)
+Icom.tencent.mobileqq-WngGxiHn_lvi4i32oKVPTg== (171) com.zenmen.palmchat-7ud3ga38j0OeDUg9Y4NT9Q==(51)

@@ -1,0 +1,56 @@
+# OCR: 5ba5f2cbb88721f0a5d42f59343df9a8.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/5ba5f2cbb88721f0a5d42f59343df9a8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+window
+wnoow.
+区
+Users起早王wifewifeldataldefault-userlchatsy小情了文件名称一
+..=chats(4)
+=小情（）
+?描述存在的存在的
+小-2025-3-10@20h15m48s186msimportedjsonl存在的，..
+?文件类型 jsonl
+了路径 NUsers... Users.. NUsers...
+文件大小了创建时间
+12.3KB2025/03/1018:44:58+8 9.1KB2025/03/1019:20:13+8
+9.1KB2025/03/1020:15:48
+C:\Users\ADMINI~1VAppData\Local\TempV小倩-2025-3-10@20h15m48s186m140813.jsonl [文本模式]-Ndd
+文件(E)
+编辑(E) 门
+查找(S) 唱
+command.txtx
+2 3
+正
+视图
+编码(N)
+c
+语法(L)
+器
+设置
+2025-03 67145.txt×
+亚
+列与宏图
+工具(O)
+插件
+对比(C) C
+settings 160168.json
+反馈注册
+事
+?
+?
+日小情－2025-3-10@..．
++8 GO
+￥修改时间
+2025/03/1020:22:34 2025/03/1020:16:07 2025/03/1020:15:48
+用
+面
+国
+己早王说吧·芝麻开门，我要武功秘籍！或者芝麻开门，我要当主角！nn哎呀，想想都开心死了，真是好看的小美女呢？知道我最
+5
+6 8 9 10 11
+o 1582 1582 1582
+12 13 14 15
+52:05.436z","extra":{"api":"kobold""model":"koboldcpp/Tifa-Deepsexv2-7b-Cot-0222-Q8","reaso 11:52:05.436z","extra":{"api":"kobold","model":"koboldcpp/Tifa-Deepsexv2-7b-Cot-0222-Q8","re 52:05.436z","extra":("api":"kobold","model""koboldcpp/Tifa-Deepsexv2-7b-Cot-0222-Q8","reaso T11:52:05.436z","extra":{"api":"kobold","model":"koboldcpp/Tifa-Deepsexv2-7b-Cot-0222-Q8","r a":("api":"kobold","model""koboldcpp/Tifa-Deepsexv2-7b-Cot-0222-Q8","reasoning":"","reasonir

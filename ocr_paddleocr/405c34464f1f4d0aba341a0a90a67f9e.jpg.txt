@@ -1,0 +1,23 @@
+# OCR: 405c34464f1f4d0aba341a0a90a67f9e.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/405c34464f1f4d0aba341a0a90a67f9e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+#Copyright(c)1993-2009MicrosoftCorp#
+#ThisisasampeHOsTSfileusedbyMicrosoftTCP/iPforWindows#
+# This file contains the mappings of IP addresses to host names. Each#entryshouldbekeptonanindividual line.TheIPaddressshould
+# beplaced inthefirst column followed bythe corresponding host name#TheIP address andthehostnameshouldbeseparatedbyat leastone
+#space.#
+#Additionally,comments(suchasthese)maybeinsertedonindividual
+#linesorfollowingthemachinenamedenotedbya#'symbol#
+#Forexample:#
+##
+102.54.94.97 38.25.63.10
+rhino.acme.com x.acme.com
+#sourceserver#x clienthost
+#localhostnameresolutionishandledwithinDNSitself
+##
+127.0.0.1：:1
+localhost localhost
+192.168.47.133www.hl2023.cn

@@ -1,0 +1,8 @@
+# OCR: ed358609e1da1c793b67f54aeca0f093.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/ed358609e1da1c793b67f54aeca0f093.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+[root@wns~]# ls/root/backup 2828.sql.gz
+[root@wns~]#

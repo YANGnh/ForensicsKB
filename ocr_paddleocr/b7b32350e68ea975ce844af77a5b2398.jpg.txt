@@ -1,0 +1,31 @@
+# OCR: b7b32350e68ea975ce844af77a5b2398.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/b7b32350e68ea975ce844af77a5b2398.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+更新你的Rocket.Chat新版本可用（6.7.1）
+管理
+Community
+日Subscription 国Engagement
+? 曲
+Moderation Federation
+#聊天室用户 8Invites
+0
+Userstatus
+权限
+Devicemanagement 回电子邮件收件箱
+回发件人 F
+Third-partylogin
+集成山导入 Reports 目
+Sounds 表情符号设置
+x Beta
+Alpha
+设置上传
+文件上传
+Configure file upload and storage.
+打开 SMS
+EnableandconfigureSMSgatewaysonyourworkspace. 打开
+Omnichannel
+SetupOmnichanneltocommunicatewithcust
+regardlessofhowtheyconnectwithyou. 打开

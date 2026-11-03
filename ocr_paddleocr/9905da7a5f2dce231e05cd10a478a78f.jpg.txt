@@ -1,0 +1,11 @@
+# OCR: 9905da7a5f2dce231e05cd10a478a78f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/9905da7a5f2dce231e05cd10a478a78f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+置
+序号口1 □2
+Pixel.tar/data/media/o/.privacysafe/document
+名称过滤
+e-283a934b-7821-4af3-9301-2cd6bba15782+c1 e-52cdbbba-ceea-4155-bd7a-309ad3e6bbd4+u

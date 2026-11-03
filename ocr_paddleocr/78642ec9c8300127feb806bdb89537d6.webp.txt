@@ -1,0 +1,20 @@
+# OCR: 78642ec9c8300127feb806bdb89537d6.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/78642ec9c8300127feb806bdb89537d6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+BREHCH
+向日葵远程控制
+登录/注册
+desktop.agent.20250408-135356.log
+文件
+编辑
+查看
+2025-04-0813:53:56 2025-04-0814:16:13 2025-04-0814:23:18 2025-04-0817:03:44
+k8s详细教程.md
+TJ***04开始桌面控制识别码方式）
+history.log
+0
+TJ***04桌面控制（识别码方式）传入Android逆向分析基础知识.docx（Android逆向分析基础知识.docx）
+T***04结束桌面控制(识别码方式) 大**04结束桌面控制(识别码方式)

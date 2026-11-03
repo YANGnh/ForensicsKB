@@ -1,0 +1,21 @@
+# OCR: dc5b311507d6691b686a2519e2926646.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/dc5b311507d6691b686a2519e2926646.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+1 eo 5
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+port:7890
+socks-port:7891 redir-port:7892 allow-lan:true mode: rule
+log-level: silent
+OpenClash修改后用于启动的配置文件
+external-controller:.0.0.0.0:9090
+secret:.MCoYZFwg proxies:
+nane:香港501 中继动态 type:vmess
+server:ndb.amrthnode.com nort:42001
+luid:cdd3b1de-4a38-38e2-8682-49fbe2d65d0a
+alterid:0 cipher: auto udp: true network:ws ws=opts:
+path:"/th" headers:
+Host:10.5.96.3
+name:香港506中继动态

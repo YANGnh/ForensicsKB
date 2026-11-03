@@ -1,0 +1,20 @@
+# OCR: ed8041c4bd58ab6a804cf7778fe6292b.webp
+# 来源: ./01-取证技巧/02-网络取证/ed8041c4bd58ab6a804cf7778fe6292b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:06
+
+名称
+1768.json
+PC
+1768.py keys
+stage(CeKi).bin
+TJvl.vir
+修改日期
+2025/7/2716:43 2025/7/27 16:43 2025/7/2716:43 2025/7/2716:43 2025/7/2716:50
+类型
+JSON源文件
+JetBrains PyCharm... 文件
+BIN文件 VIR文件
+大小
+15KB 92KB 2KB 205KB 290KB

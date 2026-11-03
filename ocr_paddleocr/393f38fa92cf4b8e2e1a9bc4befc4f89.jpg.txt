@@ -1,0 +1,14 @@
+# OCR: 393f38fa92cf4b8e2e1a9bc4befc4f89.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/393f38fa92cf4b8e2e1a9bc4befc4f89.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+NetworkSettings
+"Bridqe"
+"SandboxID":"ef1f70576f931a83066cccdbb55cfede7baa2a86981aeca546d23bbdee31e6a6"
+"SandboxKey"："/var/run/docker/netns/ef1f70576f93"，"Ports"-
+"5432/tcp"：nuul,"8065/tcp"：［
+"HostIp"："o..o.o""HostPort":"8065"
+"HostIp":".
+"HostPort"："8e65"

@@ -1,0 +1,24 @@
+# OCR: 2495b414d847a8cbf8b61183c433cae3.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/2495b414d847a8cbf8b61183c433cae3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+对象
+historyitems@main（History)-表
+表配置文件 id
+#INTEGER
+167 168 169 170 171 172 173 174 175 176 177 178 179
+开始事务 history_item#INTEGER
+92 94 93 95 96 97 93 96 95 98 99 100 101
+historyvisits@main(History)-表
+[单元格编辑器筛选&排序用列
+visittime#REAL
+title
+ABCTEXT
+数据分析工具
+744794843.467143
+箐罩快捷私人食款申|Lendela借得la
+744956173.961882
+744956173.962494 744956203.325213 745080750.209608 745080763.252757 745148496.644679 745148512.991609 745148521.686923 745148538.273197 745148546.435348 745148552.871186 745148559.879746
+IntellaX Intellax IntellaX IntellaX Intellax Intellax IntellaX IntellaX IntellaX Intellax IntellaX

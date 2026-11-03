@@ -1,0 +1,22 @@
+# OCR: 48748aa3209f30267153d56db61b62a9.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/48748aa3209f30267153d56db61b62a9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+详细信息
+名称：version
+类型：文件大小：129B
+创建时间：2025-09-2511:15:10 访问时间：2025-09-2511:15:10 修改时间：2025-09-1810:13:12 元数据地址：0
+全路径：data/misc/recovery/proc/version
+加密类型：未加密已删除：否
+原类型视图
+PAGE
+文本视图
+ZooM
+HIGHLIGHT
+十六进制视图
+1
+Linuxversion4.4.146(build@ubuntu)(gccversion4.9.x20150123(prer PREEMPTFriMay915:58:31CST2025
+117:02
+?

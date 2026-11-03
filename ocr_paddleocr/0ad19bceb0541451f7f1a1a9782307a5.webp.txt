@@ -1,0 +1,44 @@
+# OCR: 0ad19bceb0541451f7f1a1a9782307a5.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/0ad19bceb0541451f7f1a1a9782307a5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+应用列表（194/0）×
+私密
+区四
+# 21
+Q
+来源应用应用列表
+图来源应用
+删除
+标签
+剩除恢复
+圈标?
+清除过滤器
+应用标识
+com.nq.vault
+：应用名称私密空间
+版本 4.6.15
+应用安装包
+标然
+导出
+C重新载入
+权阴数
+private/var/containers/Bundle/Application/42D2EE98-D032-4154-9C.
+权限
+概要图标
+应用标识应用名称版本
+应用安装包
+权限数权限安装时间更新时间程序类型档密路径
+共享群组来源应用来源文件
+* com.nq-vault 私密空间 4.6.15
+private/var/containers/Bundle/ Application/42D2EE98-
+D032-4154-9CF8-997D5F4D8319/
+Vault.app User
+private/var/mobile/Containers/Data/ Application/9C8EA98E-2553-4DFC-AC6D-D0BBB4157998
+[group.com.nq.vault.extension, / private/var/mobile/Containers/ Shared/
+AppGroup/6D308AB4-9CFC-4D1D-
+A1DA-2AFB7BBE865A) 应用列表
+private/var/containers/Bundle/ Application/42D2EE98-
+D032-4154-9CF8-997D5F4D831 Vault.app

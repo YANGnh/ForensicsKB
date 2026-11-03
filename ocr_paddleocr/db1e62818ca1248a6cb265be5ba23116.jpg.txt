@@ -1,0 +1,15 @@
+# OCR: db1e62818ca1248a6cb265be5ba23116.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/db1e62818ca1248a6cb265be5ba23116.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+Stdinonce Env"
+false
+"ALLOWEMPTYPASSWORD-VeS"
+"MONGODBREPLICASETMODE=Primary
+"MONGODB REPLICA SET NAME=rSO""MONGODBPORTNUMBER=27017"
+"MONGODB INITIAL PRIMARYHOST=MOngOdb"
+"MONGODB INITIAL PRIMARY PORT NUMBER-27017"
+"MONGODB ADVERTISEDHOSTNAME=HOngodb""MONGODB ENABLE JOURNAL=trUe"
+"PATH=/opt/bitnami/common/bin:/opt/bitnami/m(

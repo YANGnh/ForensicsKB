@@ -1,0 +1,57 @@
+# OCR: d444821bcea45904e5f0b7b6ca0fe015.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/d444821bcea45904e5f0b7b6ca0fe015.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+内置脚本
+自定义脚本
+自动生成 hookjs 导入期本 testjs 导入脚本
+geturl.js 导入脚本
+内存漫游手动导入
+?
+geturljs 指定进程 16.2.1
+socket opened
+Using networkeddevice@'127.0.0.1:27045 Agent iniected and responds ok!
+Running a startup command...stack off
+androidbypass
+Runninga startup command...
+[2025-11-01 11:57:26]delayjobadd..
+显示时间
+[2025-11-0111:57:26]环境检测绕过任务开始，任务ID：
+044357
+[2025-11-01 11:57:26] delay job add...
+[2025-11-0111:57:26]安卓脚本任务开始：任务ID：953896 delayresume
+[2025-11-01 11:57:26]
+run customscript.
+[*]Frida本已加载，正在等待目标类加载，.·
+[+][+][+] +
+net.net.MainActivity已加载
+?类
+net.net.MainActivity已加载
+类
+正在主动调用关健方法以获取所有参数，
+堆栈信息
+[+】主动调用获取加密路径：KOpQvBZ38ykL260zfshqYTHC2f7RUJYIgrmIF6GcORU= forcommandsuggestions
+[tab]
+[+][+]
+[+】主动调用获取应用版本（ver)：4.56.23
+[+]
+获取到APK哈希（apkHash)：983f8a605d1653019eco9be884d7cef1
+获取到时间截（ts)：1727899789
++]【+]
+[+]恭喜！已成功捕获所有必要信息！[+】完整后门URL:
+宽清空
+上导出
+搜索
+停止运行
+Q个
+http://LocaLhost:60723/K0pQvBZ38ykL260zfshqYTHC2f7RUJYIgrmIF6Gc0RU%3D?hash=983f8a605d16530190c09b0884d7cef1&ver=4.56.23&ts-1727899789
+[+】[*］已设置MainActivity·getVer的Hook（备用）
+[+][+][+][+]
+[*]已Hook MainActivity.onCreate
+类net.net.crypto.MultiLayerEncryption已加载类net.net.crypto.MultiLayerEncryption已加载
+[*]已HookMultiLayerEncryption.multiLayerEncrypt（备用）
+[2025-11-0111:57:27]Registeringjob044357.Type:android-bypass-
+ob公众号：金星路406取证人
+[2025-11-0111:57:27]job953896nohooksload.notinclude

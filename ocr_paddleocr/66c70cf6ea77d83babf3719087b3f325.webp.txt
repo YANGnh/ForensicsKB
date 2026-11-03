@@ -1,0 +1,18 @@
+# OCR: 66c70cf6ea77d83babf3719087b3f325.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/66c70cf6ea77d83babf3719087b3f325.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+g
+嚼检材1-手机.tar
+口三序号口1
+三名称过滤
+基本信息增应用列表 P
+三包名 linux
+ru.meefik.linuxdeploy
+三最后使用时间
+起始
+结束
+y
+2025-05-13 16:18:40

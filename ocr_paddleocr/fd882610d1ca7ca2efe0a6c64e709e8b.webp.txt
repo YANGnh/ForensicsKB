@@ -1,0 +1,36 @@
+# OCR: fd882610d1ca7ca2efe0a6c64e709e8b.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/fd882610d1ca7ca2efe0a6c64e709e8b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+Securlty1
+事午数：4.596
+已筛选：日志：file://G：1tmp2024数证杯个人tSecurity.evtx：来源：：事件ID：4634。事件数：27
+级别?信息 ①信息 ①信息 ①信息 ①信息 ①信息 ①信息 ①信息片自
+事件4634，MicrosoftWindowssecurityauditing
+常规
+详细信息
+O友好视图(N)
+OXML视图(X)
+日期和时间
+2024/10/25/周五22:57:32 2024/10/25/周五21:55:55 2024/10/24/周四15:33:09 2024/10/24/周四15:32:50 2024/10/24/周四11:53:59 2024/10/24/周四11:00:38 2024/10/24/周四9:08:08 2024/9/20/周五23:33:10
+0040.
+ar
+<Eventxmlns="http://schemas.microsoft.com/win/2004/08/events/event":
+<System>
+来源
+Microsoft Windows security auditing Microsoft Windows security auditing Microsoft Windows security auditing Microsoft Windows security auditing Microsoft Windows security auditing+ Microsoft Windows security auditing Microsoft Windows security auditing Microsoft Windows security auditing
+<ProviderName="Micro5oft-windows-Security-Auditing"Guid="{54849625-5478-4994-a5ba-3e3b0328c30d}"/> <EventID>4634</EventID>
+<Version>0</Version> <Level>0</Level>
+<Task>12545</Task> <Opcode>0</Opcode>
+<Keywords>0x8020000000000000/Keywords>
+<TimeCreatedSystemTime="2024-10-25T14:57:32.9124006z"/:
+<EventRecordID>4595</EventRecordID> <Correlation/>
+<ExecutionProcessID="684"ThreadID="4088"/> <Channel>Security</Channel>
+<Computer>DESKToP-SPoVDST</Computer> <Security/>
+</system> <EventData>
+<DataName="TargetUserSid">S-1-5-83-1-80731952-1085508924-2743030975-2462606190</Data>
+<DataName="TargetUserName">04CFDF30-8D3C-40B3-BF54-7FA36E63C892</Data> <DataName="TargetDomainName">NTVIRTUALMACHINE</Data>
+<DataName="TargetLogonId">0x293b3</Data> <DataName="LogonType">5</Data>
+事件ID任务类别 4634Logoff 4634Logoff 4634Logoff 4634Logoff 4634Logoff 4634Logoff 4634Logoff 4634Logoff

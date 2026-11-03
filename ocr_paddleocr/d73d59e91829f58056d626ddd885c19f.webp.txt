@@ -1,0 +1,10 @@
+# OCR: d73d59e91829f58056d626ddd885c19f.webp
+# 来源: ./01-取证技巧/04-隐写文件/d73d59e91829f58056d626ddd885c19f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+Color(Green)
+Base10 238 235 232
+Binary 11101110
+11101011 1111400

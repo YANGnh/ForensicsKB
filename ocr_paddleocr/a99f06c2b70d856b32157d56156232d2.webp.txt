@@ -1,0 +1,24 @@
+# OCR: a99f06c2b70d856b32157d56156232d2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/a99f06c2b70d856b32157d56156232d2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+Google
+HNS DNS
+全部
+图片
+购物
+视频
+新闻
+短视频
+图书
+小提示：限制此搜索仅展示简体中文搜索结果。 HNSDNS
+https:/hnsdns.com·翻译此页
+HNSDNS-HandshakeDNS
+：更多
+详细了解如何按语言过滤搜索结果
+HNSDNS is an easy-to-setup Handshake DNS resolver, which allows you to securely browse Handshake domainswithoutneedingtoinstallanysoftware
+×
+宝
+Q 工具

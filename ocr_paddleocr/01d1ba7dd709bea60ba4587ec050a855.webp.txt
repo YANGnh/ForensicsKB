@@ -1,0 +1,13 @@
+# OCR: 01d1ba7dd709bea60ba4587ec050a855.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/01d1ba7dd709bea60ba4587ec050a855.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+182
+PID 12052
+PPID 6460
+State 0
+ShortName HeyGem.exe
+Name
+HeyGem.exe

@@ -1,0 +1,12 @@
+# OCR: 95f1bd89a7ac3a1d38fe3bedec2a52e2.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/95f1bd89a7ac3a1d38fe3bedec2a52e2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+179
+179
+礼金红包
+0
+1701
+1

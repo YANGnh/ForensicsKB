@@ -1,0 +1,25 @@
+# OCR: 7cfe120c116cd838aa5c06d40eb09f97.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/7cfe120c116cd838aa5c06d40eb09f97.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+face3.jpg
+一卷扩展名文件类型签名状态文件分类分类描述证据项路径
+绝对路径上级目录文件大小内部标识ID
+文件
+内部上级目录号唯—ID
+唯—ID-GUID
+分辨率 D5
+预览
+ipg ipg 匹配 JPEG
+Pictures
+回详细
+SmartFridge.bin ASmartFridge.bin
+口缩略图
+SmartFridge.bin\face3.jpg
+SmartFridge.bin 59.0KB(60,465) 6
+15-6
+时间车
+00000006-000F4000B2F0E0C62FBA3BAB 0.3JP
+8A596B07D7751B57ADEB8B9339882564

@@ -1,0 +1,11 @@
+# OCR: d4d33b8bc42beb3589ea50788a89f89c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/d4d33b8bc42beb3589ea50788a89f89c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+king@api-server-2:~$sudodockerinspect4flqrep172
+"Gateway"："172.17.0.1
+"172.17.0.2"
+TpAddress:
+"Gateway"："172.17.o.1"IPAddress"："172.17.0.2'

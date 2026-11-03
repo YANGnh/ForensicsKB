@@ -1,0 +1,34 @@
+# OCR: 76fecfcfd6544c6b4dbe3dafb7e9bf8e.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/76fecfcfd6544c6b4dbe3dafb7e9bf8e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+对象
+historyitems@main(History)-表
+表配置文件 id
+#INTEGER
+89 90 91 92 93 94 95 96 97 98 99 100 101
+自开始事务 url
+ABCTEXT
+historyvisits@main(History)-表
+单元格编辑器受筛选&排序用列
+数据分析工具
+domain expansion ABCTEXT
+https://www.google.com/search?q=%E5%egoogle
+https:/hk.lendela.com/personal-loan
+hk.lendela
+https://hk.lendela.com/personal-loan-guid,hk.lendela https:/hk.lendela.com/apply-for-a-person:hk.lendela
+https://intellax.io/ http://intellax.io/
+https:/intellax.io/wallet/
+https:/intellax.io/about-us/
+https://intellax.io/grant-program/ https:/intellax.io/dex/
+https:/intellax.io/nft/marketplace/
+https://intellax.io/games/ https://intellax.io/adventure/
+(Null)(Null)(Null)(Null)(Null)(Null)(Null)(Null)(Null)
+visit count#INTEGER
+4 1 1 2 8 1 4 2 2 1 1 1 1
+daily visit BLOB
+d d d
+d d d Q d d d d d d
+d d d

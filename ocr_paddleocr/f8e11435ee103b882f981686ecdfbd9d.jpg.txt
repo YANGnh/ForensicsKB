@@ -1,0 +1,21 @@
+# OCR: f8e11435ee103b882f981686ecdfbd9d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f8e11435ee103b882f981686ecdfbd9d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+@中国蚁剑
+AntSword
+编辑
+商
+绕过disablefunction
+三数据管理（13） URL地址
+调试
+重肩启应用开发者工具
+Ctrl+Shift+R Alt+Ctrl+J
+IP地址
+http://36.23.21.18/shell.php
+17.91.21.18
+灰复
+all查看网约
+物理位置美国Apple

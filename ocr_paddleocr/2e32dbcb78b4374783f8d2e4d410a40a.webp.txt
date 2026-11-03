@@ -1,0 +1,54 @@
+# OCR: 2e32dbcb78b4374783f8d2e4d410a40a.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/2e32dbcb78b4374783f8d2e4d410a40a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+我的身份证电子信息.png
+一分区 offset
+口文件
+0
+0608174080 0608174096 0608174112 0608174128 0608174144 0608174160
+00 00 OD 4B 31 F8
+1 00 00 00 82 92 D7
+预览
+国 2
+3
+00 09 01 1E 61 12
+00 BO 00 E6 4B F2
+回详细 4
+5
+00 00 00 BD 7F OF
+00 00 49 11 80 20
+6
+00 OD 44 99 84 78
+缩略图 7
+00 B4 41 B5 OD 21
+8
+00 08 54 D6 03 43
+时间轴 10 9
+00 06 78 3E 82 BC
+00 00 9c DF 2D 22
+图例说明 11
+12
+13
+OD 00 E A7 CA 35
+49 00 FD 9B 17 00
+48 2E 5D D4 94 07
+十
+14 44 BC AF 8c 2F 96
+15 52 F9 2c F8 6D 08
+存在的，已查看
+同步
+o
+养中 ANSIASCII
+IHDR.
+IDATxciy]
+O>Bs>Og
+a K
+"/m-
+1'ak
+E.
+ex
+0
+x!c"5

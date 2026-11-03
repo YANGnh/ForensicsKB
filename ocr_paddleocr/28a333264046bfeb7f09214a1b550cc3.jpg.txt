@@ -1,0 +1,58 @@
+# OCR: 28a333264046bfeb7f09214a1b550cc3.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/28a333264046bfeb7f09214a1b550cc3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+圆空件
+口文件
+烟分析? 位置
+州时间线 Q
+自笔记
+自报告
+贸研判
+刷新
+&
+口
+自
+导出报告
+详情/预览预览位置
+文件
+瑞检材2 ■文件
+ShimCache 用户瘾选
+应用程序运行记录事件日志
+应用程序和服务@Chrome浏览器
+?下载记录 Cache
+V良文件系统日志
+检材2.E01-分区7
+esxi Desxi_nfs
+37 18
+2 1 1 14 14
+口
+检材2.
+国三序号 G1
+详细信息
+文件排名称
+ti_encypt_file.exe.exe
+tj.encryptfileexe.exe
+客称：
+扩展名：exe 美型：文件大小：5.65MB
+2022-03-04 15:58:50
+创建时间：
+2022-05-30 17:35:09
+透问时间：修改时间：
+2022-04-04 02:32:46
+MetaAddr:113355
+全路径：检材2.E01/分区7/财务/tj_encrypt_file.exe.exe
+三扩展名 exe
+SHA256：
+F0D861EBA9ADBBE87F46AAE549506A2D781FF8DC6D94A7158C0B83A5EABC7795
+加密类型：来加密已带除：香
+非美型文件
+三大小 5.65MB
+encryptfile.exe 三创理时间
+2022-03-04 15:58:50
+三访间时间
+xQ
+2022-05-3017:35:09
+20

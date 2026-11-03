@@ -1,0 +1,14 @@
+# OCR: 51da65fdc1b509091d1689bfeddf8df8.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/51da65fdc1b509091d1689bfeddf8df8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+HTTP/1.1200OK Server：nginx
+Date：Mon,e5Aug2o24e8:22:0eGMT
+Content-Type：text/htmlcharset=UTF-8 ransfer-Encoding：chunked
+Connection:keep-alive/ary:Accept-Encoding
+set-Cookie:PHPSESsID=pp6vu8e0g2ln4ighotbf2stoc9:path=/ Expires:Thu,19Nov1981e8:52:eeGMT
+Cache-Control:no-store,no-cache,must-revalidate ragma:no-cache
+Content-Encoding:gzip
+nAUYLzmn5PDkyI5lvSp0fiiBu1e7047YifczwY6j6KFEhvrp17gK2rZFTxRF9BW1 +oNEowEGteXX89Zt4RgBi/KVKyCoauLnPXEQPHgWeFhc2XwlSmXRksTecpm8V91+ih KudxnwfdQtXsfI6EHrsrXXwts95f1XAZZdJuZUNs+U2zJUOtPMXI1LiHanv3dt1mzX A+aekFBsom75LwSHwd63bzGIbENtf19JSrtgyhealcRkQCt5Fdfj3Qod5rEFoZGyUt JI8CTNkuuNzWEd8fsLPB14KN/1tkYeAgP6QJZuZSQgT08AHlKyS33rRie+H/4XPRsn IAwSr/2aZt+uk7BolFyBPKF+AANisPoxBe/Oni/Kyom4i6rr03pXtoWJodelJWH6

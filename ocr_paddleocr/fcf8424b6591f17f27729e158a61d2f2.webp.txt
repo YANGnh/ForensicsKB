@@ -1,0 +1,61 @@
+# OCR: fcf8424b6591f17f27729e158a61d2f2.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/fcf8424b6591f17f27729e158a61d2f2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+数据目录 Q搜索全部数据
+已星标
+数据导入
+三t
+amemberst-副本11
+blindDate blind date2 amemberst
+:a member st
+withdraw(提现明细表)-.. withdraw(提现明细表)-.. 50检材数据分析
+34 1000 25948 214788
+a member st-blinddate2 amember st
+Abcaddress正则拆分
+甘肃省内蒙古青海省江西省黑龙江广西壮台湾省陕西省福建省
+共34条，2列
+address正则拆分=内蒙古
+Abc id 852 870 383 898 504
+1
+Abc create_by
+admin admin admin admin admin
++
+:a memberst-a memberst
+create_time
+2024-11-2520... 2024-11-2520... 2024-11-25 20... 2024-11-2520... 2024-11-2520...
+#del_flag
+0 0 0 0 0
+←
+:amemberst-blinddate2
+显示行数
+#income
+25,530.823529411766 24,693.46875
+24,687.88888888889 24,525.931034482757 24.494.814814814814 24,403.1
+24,360.82608695652 24,323.947368421053 24.254.914285714287
+Abc update_by↑
+null null null null null
+update_time
+null null null null null
+x Q1000
+amemberst-副本11
+另存为
+另存为
+Abc address↑ 内蒙古自治.. 内蒙古自治. 内蒙古自治. 内蒙古自治. 内蒙古自治..．
+导出
+安设置列
+导出
+Abc address 正
+内蒙古内蒙古内蒙古内蒙古内蒙古
+安设置列
+x
+★表名
+a memberst 选择维度
+类别轴/维度
+Abcaddress正则拆分× 选择度量
+★值轴/度量#income
+*数据过滤
+保留全部数据 +添加度量
+*聚合方式平均值

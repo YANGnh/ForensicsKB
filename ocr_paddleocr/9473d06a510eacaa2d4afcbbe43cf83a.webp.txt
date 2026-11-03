@@ -1,0 +1,7 @@
+# OCR: 9473d06a510eacaa2d4afcbbe43cf83a.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/9473d06a510eacaa2d4afcbbe43cf83a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+g(b.b.a.a.a((this.ve+this.xo).getBytes(),"E10ADC3949BA59ABBE56E057F20F883E"

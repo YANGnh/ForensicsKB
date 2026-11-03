@@ -1,0 +1,38 @@
+# OCR: ba450c85f95e04acd060c2ffedcc3583.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ba450c85f95e04acd060c2ffedcc3583.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+PortForwards
+名称 ESXI
+ESXI
+hack_22222_22222 hack333322 hack_3389_3389
+tan
+danganMySQL 新增
+益正在等待配置镀应用88s
+IncomingIPy4 Fromwan
+Tothis device
+.port8080
+IncomingIPv4 Fromwan
+Tothis device.port 9090
+Incoming IPv4 Fromwan
+Tothisdevice.port22222
+IncomingIPv4 Fromwan
+thisdevice.port33333 To
+Incoming IPy4 Fromwan
+Tothis device.port 3389
+Incoming IPv4 Fromwan thisdevice
+portoo00
+To
+Incoming IPv4 Fromwan
+Tothis device
+.port330g
+FowargtolaniP192.168.200.1port80 FonwaratolanIp192.168.200.254port80 ForwardtolaniP192.168.200.10port22222 ForwardtolanIP192.168.200.10port22 ForwardtolaniP192.108.200.10port3389
+IP192.168.200.10port10000
+Fonwardtolan Forwurdtolan
+IP192168.200.20port3300
+启用
+保存并应用
+除
+复

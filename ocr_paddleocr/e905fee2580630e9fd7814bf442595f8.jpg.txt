@@ -1,0 +1,16 @@
+# OCR: e905fee2580630e9fd7814bf442595f8.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e905fee2580630e9fd7814bf442595f8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+虚拟机102（node2）在节点'pve上
+没有标记。
+概要 >控制台中硬件
+Cloud-Init 选项
+任务历史
+监视器百备份好复制
+XQEMU(node2)-noVNC-用户配置1-MicrosoftEdge
+?
+不安全1htps://192.168.71.133:8006/?console=kvm&no
+Ubuntu 22.04.4 LTs node2 tty1 node2login:

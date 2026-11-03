@@ -1,0 +1,13 @@
+# OCR: f1fe06f315d0c98a2cd180f1af5cff7a.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/f1fe06f315d0c98a2cd180f1af5cff7a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+内市
+13503429521 名称十
+颜色型计数+
+√（全选反选）
+（4809）
+Y数
+■将当前所选内容添加到筛选器 V13503429521（60)

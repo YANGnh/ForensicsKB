@@ -1,0 +1,106 @@
+# OCR: ab4b7ec0d0023c1ba152ba8d9baa2923.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/ab4b7ec0d0023c1ba152ba8d9baa2923.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+e 圆案件
+文件工分析
+位置时间线 Q 搜素
+笔记自报告
+研判白工具箱
+画 AI助手
+C 刷新
+详情/预览
+请选择/输入持有人/检材编号/名称
+服务器检材二.E01
+mysql
+performanceschema
+sys ry
+gentable（代码生成业务表）
+用
+36/6866
+19/126
+87 1/22 8
+2
+gentablecolumn（代码生成...
+sysconfig（参数配置表） sysdept(部门表）
+sysdictdata（字典数据表）
+sysdicttype（字典类型表）
+sysjob(定时任务调度表）
+2 2
+21/13/12 29 10 3
+sysjoblog（定时任务调度日志表）
+syslogininfor（系统访...
+用用
+sysmenu（菜单权限表） sysnotice(通知公告表) sysoperlog（操作日.. syspost（岗位信息表） sysrole（角色信息表）
+0
+/503 82
+97 2
+21
+/443
+4 1/3
+sysroledept（角色和部门关联表）
+sysrolemenu（角色和.. sysuser（用户信息表）
+89 33
+sysuseronline（在线用户记录）
+用用用
+sysuserpost（用户与岗位...
+sysuserrole（用户和角色关联.. userusedlog（用户调用记录表） usercmd（用户指令表）
+3/92/81 2
+1
+/2 39 0 0
+9/114
+.../root/mvsgl-slave/data
+可
+Office文件元信息
+★ +
+4
+g
+>服务器检材二.E01>musMySQL解析>
+表名：sys user（用户信息表）
+字段数 21
+userid
+序号 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+状态
+用户ID
+1 2 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116
+dept id 部门ID
+103 105 107 107 107 107
+../root/mysql-master/data>
+数据量 81
+login_na...
+user name
+登录账号 admin ry
+maomao maomao1 maomao2
+AA01 AA02 AA03 AA04 AA05 AA06 AA07 AA08 AA09 AA10 AA11 AA12 AA13 AA14
+前2000条预览数据，使用数据库取证工具查看完整数据
+用户昵称
+风若依
+maomao maomao1 maomao2
+AA01 AA02 AA03 AA04 AA05 AA06 AA07 AA08 AA09 AA10 AA11 AA12 AA13 AA14
+分析结果搜索
+ry>sys_user(用户信息表)
+字符集
+utf8mb4
+email
+user_type
+用户类型（..
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+用户邮箱
+ry@163.com ry@qq.com
+phonenu... 手机号码
+15888888888 15666666666
+sex
+画Q
+用户性别（..
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+avatar 头像路径
+园注释
+用户信息表 password 密码
+1e66fc78cba... 8e6d98b904... 271fa46f679... dbe767780d... bobf528d35... 37f782213a... e483631fdc... b983787421... 774baf726a... b7551df1e5... 6f96c9107d... 4f69caed2ce... 2a41df5534... 2eaf96b762... bcdcef621fa... 8aa0e1d619... f87dbe39e8f.. 4ebe0d1599... 2fe1aef27a0...
+salt 盐加密
+a9c30d 222222 a3eaad 8fbaaf 8f6c66 69fb7b 7c4051 890eb3 98fc67 037a5a 316e2c f48547 4e8025 19a943 317fdc 7a6a9b ca8766 2c3435 2597bc
+包
+X
+设置列

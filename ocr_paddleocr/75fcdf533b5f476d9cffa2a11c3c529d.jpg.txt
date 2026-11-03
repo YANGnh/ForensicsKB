@@ -1,0 +1,17 @@
+# OCR: 75fcdf533b5f476d9cffa2a11c3c529d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/75fcdf533b5f476d9cffa2a11c3c529d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+root@openwrt:/#
+cat
+/etc/openwrt release
+DISTRIB ID='OpenWrt
+DISTRIBRELEASE='23.05.2! DISTRIBREVISIONE
+r23630-842932a63dl
+DISTRIBTARGET='X86/64 DISTRIB ARCH='x8664'
+DISTRIB DESCRIPTION='OpenWrt
+DISTRIBTAINTS= root@openwrt:/#
+r23630-842932a63d'
+23.05.2

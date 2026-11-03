@@ -1,0 +1,16 @@
+# OCR: ce05812d028c2771ba6eb8582859698c.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/ce05812d028c2771ba6eb8582859698c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+图片隐写术加密解密工具上传图片：
+选择文件加密内容：
+何晨光的枪.png
+请输入需要加密隐藏的文字信息，解密操作时此项为空即可(加密、解密）密码：
+请输入（加密、解密）
+加密隐藏信息
+密码，可为空
+解密隐藏信息
+清空输入框
+图片中隐藏的信息为：BitLocker：L:9;AVfyf25blcVar6'Sq"[SBDo/x/&{UggoPSNIAvle[u

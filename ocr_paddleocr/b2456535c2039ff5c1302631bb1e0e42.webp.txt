@@ -1,0 +1,19 @@
+# OCR: b2456535c2039ff5c1302631bb1e0e42.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b2456535c2039ff5c1302631bb1e0e42.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+设置
+雷电模拟器-2
+性能设置机型设置游戏设置音频设置网络设置快捷键其他设置
+手机品牌：手机型号：
+手机号码： IMEI编码：
+安卓9.0(64位ID:2
+nubia NX629J
+常规机型列表
+867632022190336
+未启动
+120顿机型列表
+启动随机
+X

@@ -1,0 +1,39 @@
+# OCR: b7510bb1c522c9fc42f55c19f9f79ff8.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/b7510bb1c522c9fc42f55c19f9f79ff8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+EDBBrowserforSQLite-C:\hlnet/1-1748241630\检材1-手机.tar/dataluser/0\com.estrongs.android.pop)databases920-text-editor.db
+文件(E)
+编辑(B)
+新建数据库(N) 数据库结构(D
+查看(V)
+工具(T)
+打开数据库(0)
+浏览数据(B)
+表()：国recent_files 过滤
+V
+帮助(H)
+品写入更改（W）
+编辑杂注(R)
+6 path
+执行SQL(X) 厨心
+倒退更改(R)
+A
+品
+l/data/data/ru.meefik.linuxdeploy/files/config/linux.conf
+撤销(u）
+过滤任何列
+打开项目(P)
+open_time 过滤
+1746690278468
+2/data/data/ru.meefik.linuxdeploy/files/include/core/deploy.conf
+3/data/data/ru.meefik.linuxdeplov/files/include/init/deploy.sh 4/storage/emulated/o/output.log
+1746690293986 1746690318782 1747119601381
+日保存项目(S)
+encoding
+过滤 UTF-8 UTF-8 UTF-8 UTF-8
+line 过滤 1 1 1 1
+column 过滤
+0 0 0 0

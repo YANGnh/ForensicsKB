@@ -1,0 +1,16 @@
+# OCR: 3b6738eb66fe429a340011eeee272fbc.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/3b6738eb66fe429a340011eeee272fbc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+觉
+回
+YMd5inc"48A97DDE4F78...
+三序号 □1
+三名称过滤
+自
+number.xml
+三 MD5
+48A97DDE4F789B832511D1C49467807A 48A97DDE4E789B832511D1C49467807A
+三大小等于 119B

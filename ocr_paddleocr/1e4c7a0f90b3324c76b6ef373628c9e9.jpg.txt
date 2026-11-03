@@ -1,0 +1,24 @@
+# OCR: 1e4c7a0f90b3324c76b6ef373628c9e9.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/1e4c7a0f90b3324c76b6ef373628c9e9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+国内版
+realm
+网页
+国际版
+图片
+realm安卓
+视频
+学术
+realm教程
+RealmAcademy
+词典 realm用法
+地图
+！更多
+realm转发
+https.//academy.realm.io/cn/posts/realm-object-centric..
+工具
+realm使用
+Realm是为移动端开发而设计的新型数据库 Realm是一种新型的移动数据库，它能使得当令的移动开发如虎添翼。它不是个ORM，不是一个键-值存储，不是一个SQL数据库，而是直接存储对象在磁盘上，并提供高性能的主线程访问。本文介绍了Realm..展开

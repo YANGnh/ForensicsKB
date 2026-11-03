@@ -1,0 +1,25 @@
+# OCR: 9b1689a7519ced85dd901e050339dd5d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/9b1689a7519ced85dd901e050339dd5d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+信息
+SELECT user id,message,create at FROM "Post"WHERE channel id=yq5zq14mg7fdpyagpxtscydtjwORDER BY createat
+摘要
+userid
+结果1
+message
+enf863dp1ifi3ffos7bpduynny enf863dp1ifi3ffos7bpduynny enf863dp1ifi3ffos7bpduynny aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw enf863dp1ifi3ffos7bpduynny aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw enf863dp1ifi3ffos7bpduynny aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajg8bpuk89wrtuw aqceyadrxbrajg8bpuk89wrtuw enf863dp1ifi3ffos7bpduynny aqceyadrxbrajq8bpuk89wrtuw
+gxyt joined the channel.
+maoxueliu added to thechannel by gxyt. 我们手上还有多少钱啊
+公司场地租赁花了3W，差不多15万把
+你那边准备怎么考核他们业绩我这边要核算下目前经费的情况
+我觉得按照提成给他们发吧，让他们更有动力一些确认了比例你再告诉我
+技术边说可以先购买个两于多的2080显卡也评估了一下，这个显卡能满足基本的业务现在还有多少流动资金
+公司场地租赁花了3W，差不多15万把
+技术搭建的AI效果还可以就是生成的速度有点慢
+技术建议换一个好一点的显卡
+可以，我看大群已经有人注册了，抓紧时间好的
+create_at
+1713931168391 1713931187950 1713933142391 1713933218354 1713933244266 1713933290693 1713933455479 1713933488803 1713943137725 1713943197656 1713943323189 1713943477827 1714011353899 1714011369772 1714011390454 1714011890182 1714011899390

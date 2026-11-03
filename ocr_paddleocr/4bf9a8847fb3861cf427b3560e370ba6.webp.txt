@@ -1,0 +1,20 @@
+# OCR: 4bf9a8847fb3861cf427b3560e370ba6.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/4bf9a8847fb3861cf427b3560e370ba6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+ABCDecoder
+F:\PanguRun\笔记.hap
+>STRING(4)
+MEDIA(4) COLOR(1) FLOAT(1) PROF(2)
+id(DEC) 16777216 16777220 16777221 16777222
+F:PanguRun\笔记.hap/resources.index
+name
+app_name
+EntryAbility_desc EntryAbility_labeu module_desc
+base PGSDBW
+description PGSDBW
+moduledescription
+口
+x

@@ -1,0 +1,9 @@
+# OCR: 873113f7250b0420d4c69ef0ec916777.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/873113f7250b0420d4c69ef0ec916777.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+2@127.0.0.11/5  atrain2023 V口表3
+田人员开户信息
+》西卡号分组西资金总表

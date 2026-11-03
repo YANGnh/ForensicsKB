@@ -1,0 +1,17 @@
+# OCR: 3021b8e89479d0d0badc3d56135bb50b.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/3021b8e89479d0d0badc3d56135bb50b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+三序号 □1 □2 3
+三连接名过滤
+192.168.60.173 111.92.242.44 192.168.60.157
+三登录用户
+过滤 root root root
+三登录密码过滤
+EaDgMi4itJs=#lo0... VhFC3aMQ6b8=#I... VhFC3aMQ6b8=#l...
+三密钥过滤
+三主机过滤
+192.168.60.173 111.92.242.44 192.168.60.157
+三端口过滤 22 22 5122

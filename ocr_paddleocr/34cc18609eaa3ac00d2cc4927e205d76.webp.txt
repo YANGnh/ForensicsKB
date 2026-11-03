@@ -1,0 +1,60 @@
+# OCR: 34cc18609eaa3ac00d2cc4927e205d76.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/34cc18609eaa3ac00d2cc4927e205d76.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+mtoken助记词1.PNG
+000 010 020 030 040 050 060 070 080 090 OAO OBO Oco ODO OEO OFO 100 110 120 130 140 150 160 170 180 190 1A0 1B0 Ico 1DO 1E0 1F0
+89 00 18 00 00
+50 00 00 04 09
+4E 07 00 67 70
+6F
+A864
+76 B4 BB 00 00 12 00 00 90 00 00 06 00 04 80 00 11 00 00 49 00 00 40 00 00 18
+EAB8
+OD 7D BC 00
+00
+00 44 00 00 24 00 00 01 00 01
+24 12 90 00 00 06
+00 04 80 00 11 00 00 49 00 00
+60
+40 00
+00
+4400 0018 0000 12 11 00
+00
+00 90
+00 44
+47 00 41 AO
+OD 00 01 4D EA
+imtoken助记词1-副本.pngx
+8
+OA 00 73 41 75
+编辑
+A 00 52 00
+OA DE 4 00
+00 08 42 B1
+9 00 06 00 8F
+回
+00 00 AE OB no
+B
+OD 00 CE FC
+49 00
+61 AF
+图
+D 48 F2 E9 05
+44
+52 E8FE
+00
+00
+0000 回
+助记词1：
+0123456789ABCDEE
+PNG
+IHDR oeb
+SRGB.?I.é
+.gAMA..t..ua
+imtoken助记词1-副本.png
+movie unlock
+boost
+segment

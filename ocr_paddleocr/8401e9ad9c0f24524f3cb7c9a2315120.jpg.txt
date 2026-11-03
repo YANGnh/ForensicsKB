@@ -1,0 +1,13 @@
+# OCR: 8401e9ad9c0f24524f3cb7c9a2315120.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/8401e9ad9c0f24524f3cb7c9a2315120.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+2024-08-2809:12:44
+David(wxidrni3m2o8ngxe22)(2024-08-2809:12:44) 大件事
+2024-08-2809:14:36
+David(wxidrni3m2o8ngxe22)(2024-08-2809:14:36)
+有個我管理的IDFC钱包好似被人偷佐钱[發怒][發怒[發怒][發怒]
+2024-08-2809:16:27
+David(wxidrni3m2o8ngxe22)(2024-08-2809:16:27) 入面有等消失了

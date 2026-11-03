@@ -1,0 +1,21 @@
+# OCR: de5e5d2c52e4ca8f5ff4daab8787ff99.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/de5e5d2c52e4ca8f5ff4daab8787ff99.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+FromBase64 Alphabet
+A-Za-zo-9+/= M
+Removenon-alphabet chars
+Strictmode AESDecrypt Key
+E10ADC3949BA59ABBE56. IV
+E1ADC3949BA59AB
+?
+UTF8-UTF8-
+sdEHP/sn3FM3JsJpwoPjf8kVHSloexlf5yCiI1byZ4Y=
+RIE44
+Output
+1
+·
+44
+13e4567895@gmai1.com

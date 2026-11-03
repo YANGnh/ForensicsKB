@@ -1,0 +1,49 @@
+# OCR: 965ceffccdd645cb0cb0cf0551be42c5.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/965ceffccdd645cb0cb0cf0551be42c5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+jinyi.web.web.jar
+源代码
+Dlaj.org.objectweb.asm ch.qos.logback
+cn.hutool bicom
+bdefpackage
+Beu.bitwalker.useragentutils io
+bjavassist
+bjavax lombok anet org Bioshi reactor
+Dschemaorg_apache_xmlbeans.system Dispringfox
+资源文件 BOOT-INF
+classes com i18n
+>
+mapper mybatis
+application-dev.yml application-prod.yml application-test.yml
+application.yml banner.txt
+BOOT-INF/classes/application-prod.yml server
+9e32
+port: database:
+url:jdbc:mysql://192.168.100.112:13306/jinyi?tinyInt1isBit=false&allowMultiQueries=true&serverTimezone=Asia/Shanghai
+4
+5 7 8 9 10 11 12 13 14 15 16 17 18 19 26 21 22 23 24 25 26 27 28 29 36 31 32 33 34 35 36 37
+username:root
+honglian7eei
+password: redis:
+host:192.168.10e.112
+port：16379 timeout:5eee
+druid:
+username:
+admin
+zhangjie.123
+password:
+#swagger knife4j:
+开启生产环境屏蔽 production:true
+jinyi: api: url:
+http://localhost:9931
+position:
+5e8667a439c68f5145dd2fcbecfe2209
+sign_key: wmsnotify: item_code:
+warehouse_code:Ne1 owner_code:
+yunmao
+customer_id:C20220816151515
+server_url:http://data.sisicn.com/ms/api/gm/dicect app_key:33448833
+apP_secret:56C155623D81E38FDF5A95DB97CC38DC

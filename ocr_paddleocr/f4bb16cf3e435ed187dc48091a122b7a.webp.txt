@@ -1,0 +1,92 @@
+# OCR: f4bb16cf3e435ed187dc48091a122b7a.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/f4bb16cf3e435ed187dc48091a122b7a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+o1oEditor-D:\test/1(2)jpg(只读）
+文件(E) 起始页 3:F790 3:F7A0 3:F7B0 3:F7CO 3:F7D0 3:F7E0 3:F7F0 3:F800 3:F810 3:F820 3:F830 3:F840 3:F850 3:F860 3:F870 3:F880 3:F890 3:F8A0 3:F8B0 3:F8CO 3F8D0
+编辑(E)
+选择(S)
+1 (2)jpg×
+2
+AE A7 E4 3A B4 EC FE 8E 51 FF C4 49 00 1c 5D A6 F4 88 20 11
+AD F2 F1 E7 61 9E AF BB EF 00 78 48 BE E9 47 E5 ZD 40 02 88
+2002
+OE C 73 5A cc 3F FC 35 F9 ED FF 44 66 00 92 OE 79 04
+40 11
+3 6D BF
+EC D7 4 4F
+E2 7F D9 52 98 00 2C 56 7D 22 88 04 88
+模板结果 - JPG.bt
+名称
+vjpgfile
+SoIMarker
+app1 appo app2 dqt[o] dqt[1] sofo dht[o] dht[1] dht[2] dht[3]
+scanStart
+scanData259126] EOIMarker
+4 F
+E 3A FD 00 00 DC 20 4B Ao ZD 80 40 22
+查找(D）
+5 4
+AE 00 00 00
+EC FC
+04 00
+6 人
+B9 00 02
+C ED X 3
+7 FA
+OB 99 0 D5
+D7 00 58 00
+D6 F9 09 E8
+视图V
+8 F5
+.6 AF FD ED 3A OD 00
+63 74 co
+9 CE
+04 EE 8F 9F 39 FF E7 OA 00 73 54 oc 47
+60 82
+格式(Q) 口
+A B9
+BB 00 E9 EE D 00 41
+02 52 78 Ao A 81 58 55 81
+B D4 C 24 3 E9 F5
+B8 AF OA 58 47 5E 48 44 08 26 84 26
+c E7 48 B FA F4 CE 29 AE 63 E6 00 08 42 ED B4 D6 44 14 08 17
+脚本()
+D E6 3C 7E 53 DE B9 FE 74 71 3E 00 06 00 BD 34 4A 20 81 44 81
+043AB0EA4004221081 40
+值
+MSOI(FFD8h) M EOI (FFD9h)
+unknownPadding[21609
+Oh Oh 2h
+开始
+86h 98h 272h 2B7h 2FCh 30Fh 330h 386h 3A5h 3EEh 3FCh 3F832h 3F834h
+选定：2个字节（范围：260146[3F832hl到260147[3F833h]）
+E 3F OF 51 FF 94 D4 C7 62 8F DF 00 00 AE D1 92 6D 02 08 20 08 08
+模板(L)
+E F8 DB D7 00 06 69 2B 3E E7 90 OD 00 CE 72 51 E8
+44 02 44 44
+调试(G）
+项目(P)
+Hex
+0123456789ABCDEF-.mnt.uo110cae?0 S0A:V.U.Ea3eH<.0 ans-el?&G..$..Qx:czi"i-}E.》?usy aix>|.Yuy.uop" i2?L...u.'.uo110i b-uoé,1 TM-YbA)pC+ Z>5AAaA.y9.sRtb> Qiua:zooiy.,cq.9 y.i.y@1×:cA a>B. Axyu
+IHDR...X...X.
+.4f~U....SRGB.@1.é...IDATxAiNr 1G',KuyGC. H'4'Q!a.V u>OGGzDOJme o)y111yoy...D..@."E.XeAAX&...D..'@.p.t'U..D ..@."..eA..&...D."@.:'e@."...D
+大小
+44C9Dh
+2h 84h 12h 1DAh 45h 45h 13h 21h 56h 1Fh 49h Eh
+3F436h 2h
+5469h
+类型
+struct JPGFILE enumMID structAPP1 struct APPo struct APP2 struct DQT struct DQT struct SOFx struct DHT struct DHT struct DHT struct DHT struct sos char
+enumMID char
+工具(T)
+CT 颜色
+窗口W
+帮助(H)
+2 注释
+芝
+mov
+16
+开始：260

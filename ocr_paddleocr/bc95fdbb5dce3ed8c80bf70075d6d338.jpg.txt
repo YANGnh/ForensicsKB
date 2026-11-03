@@ -1,0 +1,12 @@
+# OCR: bc95fdbb5dce3ed8c80bf70075d6d338.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/bc95fdbb5dce3ed8c80bf70075d6d338.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+DATE
+ZLATITUDE
+22.4517216666667
+ZLONGITUDE
+114.171853333333
+ZMe

@@ -1,0 +1,13 @@
+# OCR: ee6427b15822936568af4baa93c7586c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/ee6427b15822936568af4baa93c7586c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+In[62]:data=[0b01111001111,0b01110000000,0b10111110101,0b00011010100,0b10110001101,
+0b01000000001.0b00100010010.0b10110011110.0b00000011110.0b01000011000.0b0100 0000110.0b11100010110
+In [63]:data2=[_^ 1988 for_in data]
+In64l:memeric=uu.ioin(words-for-indata2D In【65]：
+memeric
+0ut[65]:
+'彻丁言毅兵螺番范莲碧遵求'

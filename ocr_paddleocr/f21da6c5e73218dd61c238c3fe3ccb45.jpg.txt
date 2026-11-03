@@ -1,0 +1,67 @@
+# OCR: f21da6c5e73218dd61c238c3fe3ccb45.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f21da6c5e73218dd61c238c3fe3ccb45.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+@中国取 AntSword
+确罐
+原口调试
+绿过disable_functions
+服数据管理（13） URL地址
+http:/36.23.21.18/shell.php http://65.91.21.18/shell.php
+QEnvScan插件
+IP地址
+17.91.21.18 17.91.21.18
+http:/61.108.99.58:7999/shellph 10.0.0.10
+工乱码恢算
+查看网络连揽
+物理位置美国Apple 美国Apple 马城网P
+http://82.99.103.231/upload/2.ph43.136.168.11
+https://143.92.57.165/zzz.php http://49.65.205.115/con.php http://423.12.23.84/ass-php
+143.92.57.165 192.165.5.15 172.19.0.79
+http://95.52.95.124/m/m_config-t172.19.0.124 http://89.17.220.136/m/m_config192.168.200.136 http://106:195.12.152/m/m_confi172.19.1:152
+http://105.782.123.15/aa.php
+172.19.0.159
+http://46.213.50.239/.antproxy.pt192.166.50.239
+http:/188.19.51.239/bak.php
+192.168.50.239
+日本CZ88.NET 香港rackip.com 瑞典CZ88.NET 瑞典CZ88.NET 英国ipinfoup 美国Apple 微罗斯C88.NET 日本CZ88.NET 香港.rackip.com 巴黎CZ88.NET
+x免杀Shell生成
+心爱制She配置
+网站备注
+0设置
+品
+· Filter
+Name
+Elements
+Q
+10 mm
+Bdhxtabbar_cell_pro..
+Console
+Sources
+View
+Network
+Performaince
+BGroupbyframe
+Memery
+Application
+Preserve tog Disable cache
+Security
+Audits
+BOfene
+Online
+ Hide data URLs AI
+XHR JSCSS ImgMedia FontDoc WS Manifest Other 30 ma
+20 ma
+xHeaders General
+Preview
+≥ Response Headers (1) Request Headers
+Response
+Provisional headers are shown
+40 s Timing
+50 ma
+User-Agent: Mozi1la/5.e (Windows NT 18.e; Win64; x64) 4.0.3 5afari/537.36
+60 mas
+70 ma
+ippleebKit/537.36 (KHTNL, 1ike Gecko)

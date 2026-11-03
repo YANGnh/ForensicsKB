@@ -1,0 +1,18 @@
+# OCR: 08a36f7eeebff66ecec7604e2b8e69d7.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/08a36f7eeebff66ecec7604e2b8e69d7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+10:24
+记事本
+备份笔记笔记标题
+在这里输入笔记.
+保存笔记
+新建
+100 返回
+恢复笔记
+已保存的笔记
+X = 不
+@ +
+4 O 0

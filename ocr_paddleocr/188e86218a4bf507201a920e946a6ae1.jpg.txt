@@ -1,0 +1,17 @@
+# OCR: 188e86218a4bf507201a920e946a6ae1.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/188e86218a4bf507201a920e946a6ae1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+root
+.cache-pip-pki
+bashhistory bashlogout
+.bashprofile
+.bashrc.cshrc
+图.DPINST.LOG.Dtclnstall.log
+pearrc PFRO.log.readme.txt rnd
+图setupact.log setuperr.log
+atcshrc 目word.txt
+.WindowsUpdate.log
+#anaconda-ks.cfg install.sh

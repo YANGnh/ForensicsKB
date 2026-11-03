@@ -1,0 +1,14 @@
+# OCR: e5e5a5364e4aa6488bf95324c26b18c8.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/e5e5a5364e4aa6488bf95324c26b18c8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+res/layout/activity_main.xml
+ttp://schemas.android.com/apk/res-auto"android:orientation-"vertical"android:layoutwidth-"match_parent"android:layoutheight-"match_parent", 2
+leor/teal 7ee"android:layout width-"match_parent"android:layout height-"wrap_content"
+android：text-备忘录/>
+18"match parent"android:layout height="wrap_content"android:text="6L+z6YeM5piv5LiA5Liq6YeN6KaB5pww5o2u"android:1ayout weight="e.1"android:inputType="textPersonName"/>
+27
+xt_data"android:layout_width-"match_parent"android:layout_height="wrap_content"android:text-SExvzDBiMjAIoGEtYwMyoSexMmVkLTgwi2YtYWNkzTQ4NDAxMTIyfQ=="
+android:layoutweight

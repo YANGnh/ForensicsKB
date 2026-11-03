@@ -1,0 +1,38 @@
+# OCR: bbc4d25bae5aac4524bde5f96e34d52e.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/bbc4d25bae5aac4524bde5f96e34d52e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+加卷
+名称
+pangle meta data sp.xml qm_global sp.xml
+QV1com.android.gdt.gone.sdk.QonesDKfb... sp first.xml
+turingfdconf105498au.xml
+um policy grant.xml UM PROBE DATA.xml
+um session id.xml um umcrash.xml
+umeng_commonconfig.xml umeng general config.xm umeng sp oaid.xml
+umzidgeneralconfig.xml
+WebViewChromiumPrefs.xml
+Y29uZmlnXzViZWEzZDVmZjFmNTU2NjY2..
+修改日期
+2025/4/2210:34 2025/4/2210:27 2025/4/2210:27 2025/4/2210:27 2025/4/22 10:27 2025/4/2210:27 2025/4/2210:27 2025/4/2210:27 2025/4/22 10:27 2025/4/2210:27 2025/4/2210:57 2025/4/2210:50 2025/4/2210:50 2025/4/2210:27 2025/4/2210:27
+类型
+>com.ifeimo.audiorecord>sharedprefs
+大小
+Microsoft Edge HT.. Microsoft Edge HT... Microsoft Edge HT.. Microsoft Edge HT.. Microsoft Edge HT.. Microsoft Edge HT.. Microsoft Edge HT... Microsoft Edge HT.. Microsoft Edge HT.. MicrosoftEdgeHT.. Microsoft Edge HT... Microsoft Edge HT.. Microsoft Edge HT... Microsoft Edge HT... SP文件
+口 +
+2KB 错误
+G
+文件
+C
+0
+在sharedprefs中搜索
+光临
+This XML file does not appear to have any style information as <map>
+<string name="channel">xiaomi</string
+<string name="ek_id">1234567890</string>
+<stringname="appkey">5bea3d5ff1f5566661000192</string>
+<stringname="ekkey">TJjXE2M16KIGKzxsvtvqgw=
+</string
+<string name="1ast_appkey">5bea3d5ff1f5566661000192</string> </map）

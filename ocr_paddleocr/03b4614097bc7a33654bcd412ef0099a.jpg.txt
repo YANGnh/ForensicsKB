@@ -1,0 +1,16 @@
+# OCR: 03b4614097bc7a33654bcd412ef0099a.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/03b4614097bc7a33654bcd412ef0099a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+[root@server]#lastb
+root btmp
+ssh:notty
+beains
+oct
+192.168.157.1
+916-47-20
+2020
+Fri0ct916:47-16:47
+（00:00）

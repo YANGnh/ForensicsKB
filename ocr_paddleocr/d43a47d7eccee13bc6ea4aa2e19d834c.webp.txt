@@ -1,0 +1,15 @@
+# OCR: d43a47d7eccee13bc6ea4aa2e19d834c.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/d43a47d7eccee13bc6ea4aa2e19d834c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+LOVE2.exe 比武团队赛题目
+s.love
+用 PNG107.png
+比武团队赛题目s 副本(2).love
+比武团队赛题目s-副本(3).love
+JPG
+比武团队赛题目s-副本(4).jpg
+PNG
+比武团队赛题目-副本.png

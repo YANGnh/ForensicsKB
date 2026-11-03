@@ -1,0 +1,22 @@
+# OCR: 55f121d673488ed492d7182a1fff7699.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/55f121d673488ed492d7182a1fff7699.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+图Alice的Macbook>目基本信息（分区5）网络接
+口三序号
+口1 口2 口3 口4
+三接口名称
+过滤 Wi-Fi
+Thunderbolt1 Thunderbolt 2
+ThunderboltEthernet
+三Mac地址过滤
+F4-5C-89-A1-C0-07 82-13-13-12-B9-C0 82-13-13-12-B9-C1 OC-4D-E9-CA-0A-0B
+三BSD套接字名称
+过滤 eno en1 en2 en3
+三网络类型过滤
+IEEE80211 Ethernet Ethernet Ethernet
+三IO路径过滤
+IOService... IoService... IOService... IOService...

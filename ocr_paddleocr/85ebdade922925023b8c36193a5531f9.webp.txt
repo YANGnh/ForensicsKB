@@ -1,0 +1,48 @@
+# OCR: 85ebdade922925023b8c36193a5531f9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/85ebdade922925023b8c36193a5531f9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+De Detect It Easy v3.10 [Windows 10 Version 2009] (x86_64) 文件名
+G:/2025FIC决赛\exports/libJiami.so
+文件类型 ELF64
+0文件信息每MIME OELF 程序
+0009
+扫描自动 ELF64
+文件大小
+17.97KiB 党内存映射图可视化
+节
+001c
+反汇编 0搜索
+字节序
+LE
+操作系统：DebianLinux[AMD64,64位，DYN 编译器：GCC((Debian10.2.1-6)10.2.120210110) 语言：C
+库：GLIBC(2.7)[DYNAMD64-64]
+附加：Binary[偏移=0x4000,大小=0x07e0]
+签名目录
+标志
+日志
+数据库
+基址（BA)
+0000000000000000
+四十六进制
+#哈希模式
+64位
+國字符串来信息摘
+架构
+入口点
+0000000000001260
+国签名 Y提取器
+类型
+AMD64
+252毫秒
+VirusTotal
+YARA DYN S
+sss
+??
+扫描
+口
+x
+?高级选项 <T>符号重组
+·快捷键变选项 0关于 X退出

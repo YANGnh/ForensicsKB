@@ -1,0 +1,57 @@
+# OCR: aa5807c3e86ba7312c85315060825999.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/aa5807c3e86ba7312c85315060825999.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+需伏季理的手机文件系统 Samsung.tan +脚Basic + data 文性分类
+伏季性的计靠机鲁文件系统文件分类
+120307 120507
+9 97446 642589
+口
+区
+国求会口2 03 口4 详细信息
+Samsung.tar/Basic
+名称过速
+Adiackdwnjsan dayiceinfo.jsan arpindfe calendar(1]
+名：deviceinfojson
+扩服名：json 美量：文件大小897B
+修改时调：2024-04-2605：45:08 MetaAddr:2916864
+“大小等于 89.74KB 897 B 0.8 OB
+全强：Samsung.tar/Basic/deviceinfojson
+加用美：来加密它制除：香
+#创的园
+超始
+结束
+美修改时病
+超始
+结束
+2024-04-26 05:45:08 2024-04-26 05:45:08
+华全路径过
+Samsung.tar/Basic/Adlockdown.json Samsung.tar/Basic/deviceinfojson
+Samsung.tar/Basic/appinfo Samsung.tar/Basic/calendar
+原类型视圆
+PAGE
+文本视图
+ZOOM
+十六进制视图
+HIGHLIGHY
+在Basikc中国索
+Q
+口
+t"devicelase""t2s'."pboneIEI"."pboneliaber"""phoneOperator"."phoneMSI":"."serial
+pboneBluetoothmull.phoneBluetooths
+Nunber""mknom.aacaddress".""baseBandVeraion"
+tate1,bluetootiacaddressmull，bluetoothane?i?s21+
+Phonelodel
+S
+C99en","phoneSyetendluaber":"12"batteryPover":0,cpu_abi":["arab,-v8a
+arbeabi-
+"cpuBita"32."bra
+v7aarneabij."boardexymoa2100.hardvare
+a0s2100""device""t2s"
+nd"sanrmgadkversion31,sdeize["242017611776"].sdavailsi2e["214360031232"1,exter nalStorageInfo":(,"dictionaryInfoList':[l,"tinezone":"Asia/Shanghai'."androidId"."a728o9b9fd 529158","allowlockLocation":0"gps0penState";1,"rprsIp":"fe80:890:d4ff.fe8c:a698%dmy0,"wi tiIp192.168.137.246","bootF1ow:0,spsPositicm("Longitude:104.0594830"
+"Latitude""30.
+"iceid”"iceid2”“
+5826804"l,"wifiNane.wlanlacddress
+""phoneMEID*

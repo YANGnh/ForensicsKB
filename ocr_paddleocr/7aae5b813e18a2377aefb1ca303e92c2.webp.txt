@@ -1,0 +1,18 @@
+# OCR: 7aae5b813e18a2377aefb1ca303e92c2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/7aae5b813e18a2377aefb1ca303e92c2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+检材2-计算机检材2-计算机，分区9 检材2-计算机.E01
+分区类型：GPT ■了文件名称
+分区01 分区02 分区03 分区04 分区05 分区06 华分区07 分区08
+口口
+分区09 年分区09 分区10 车分区10 起始扇区分区间隙未分区空间
+检材2-计算机，分区10
+RAID
+检材2-计算机.E01分区9
+文件名称一（根目录）
+MDRAIDContainer 检材2-计算机.E01,分区10
+文件名称根目录）
+DRAIDContainer

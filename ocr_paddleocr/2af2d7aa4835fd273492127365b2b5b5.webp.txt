@@ -1,0 +1,11 @@
+# OCR: 2af2d7aa4835fd273492127365b2b5b5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/2af2d7aa4835fd273492127365b2b5b5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+rootphishing 口文件名称一
+root(2,888).=phishing (105) 口.git(32）
+phishing（13) UserInfo (42) vximages(14) db.sqlite3
+Xdb.sqlite3-journal
+manage.py README.md

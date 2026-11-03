@@ -1,0 +1,53 @@
+# OCR: 07285ef607420cacafd2d37c5e70e0c5.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/07285ef607420cacafd2d37c5e70e0c5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+导航器一国主机
+管理监控
+与虚拟机
+Openwrt&wireGuard
+监控
+品github&密钥服务器
+渗透测试机品病毒研发机
+更多虚拟机.
+一目存储
+→目datastore2
+监控
+datastore1
+更多存储.
+@网络
+4 2
+Openwrt&wireGuard
+控制台
+图监控
+打开电源
+this casate
+TREL
+TE
+RetStahleve1.z.2m2yyosir Plagtro
+一般信息@网络
+主机名称 IP地址
+VMwareTools
+目存储自备注
+关机
+挂起
+G重新启动
+编辑
+Openwrt&wireGuard
+客户机操作系统兼容性
+VMwareTools
+CPU 内存
+主机名称@
+OpenWrt 1.222.2.2.2
+2.fe80:20c:29ff.feb9:6f76 3.192.168.200.1
+4.fe80:20c:29ff.feb9:6f80
+已安装月正在运行 1磁盘
+C刷新
+其他(64位）
+操作
+ESXi6.7及更高版本（虚拟机版本14)
+是 1
+512MB OpenWrt
+编辑备注

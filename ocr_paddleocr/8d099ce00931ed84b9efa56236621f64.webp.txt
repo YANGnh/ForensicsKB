@@ -1,0 +1,12 @@
+# OCR: 8d099ce00931ed84b9efa56236621f64.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/8d099ce00931ed84b9efa56236621f64.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+详细信息
+名称：external.db
+扩展名：db 类型：文件大小：880KB
+创建时间：2017-01-0100:03:04 访问时间：2017-01-0100:03:04 修改时间：2024-08-3017:28:29 MetaAddr:328242
+全路径：AliceMobile.bin/1/data/com.android.providers.media/databases/external.db
+加密类型：未加密已删除：否

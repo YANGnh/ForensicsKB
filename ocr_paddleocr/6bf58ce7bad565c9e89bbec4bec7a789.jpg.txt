@@ -1,0 +1,30 @@
+# OCR: 6bf58ce7bad565c9e89bbec4bec7a789.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/6bf58ce7bad565c9e89bbec4bec7a789.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+g
+Clara的安卓手机
+三序号口84 口85 口86 口87 口88 口89 口90 口91 口92 口93 口94 口95
+三发送者
+过滤 Emma
+Emma Emma Clara Clara Clara Emma Clara Clara Emma Emma Clara
+微信>Clara(wxidt7zgo57j9moj22)>
+三发送者ID 过滤
+wxid Itrpgdh... wxid_itrpgdh... wxid_Itrpgdh... wxid_t7zgo57... wxidt7zqo57... wxid_t7zgo57... wxid_itrpgdh... wxid_.t7zqo57... wxid_t7zgo57... wxid_itrpgdh.... wxid_itrpgdh... wxid_t7zgo57...
+扭接收者过滤 Clara Clara Clara Emma Emma Emma Clara Emma Emma Clara Clara Emma
+好友消息>Emma（wxidItrpgdhvilso22）
+三接收者ID 过滤
+wxidt7zqo57... wxid_t7zgo57... wxid_t7zgo57... wxid_itrpgdh... wxid_Itrpgdh... wxid_itrpgdh... wxid_t7zgo57... wxid_Itrpgdh... wxid_Itrpgdh... wxid_t7zgo57... wxid_t7zgo57... wxid_itrpgdh...
+三发送时间起始
+结束
+2024-08-0521:34:43 2024-08-0521:34:44 2024-08-0521:35:11 2024-08-0608:15:28 2024-08-0608:15:34 2024-08-0608:15:44 2024-08-0608:25:40 2024-08-0608:31:56 2024-08-0608:32:00 2024-08-0620:30:10 2024-08-0620:33:45 2024-08-0708:13:12
+消息内容过滤
+[图片消息][图片消息]
+今天逛街，見到很漂亮的饰物好呀
+見到又想實
+不调我比较喜款chane 很想實，但没有露我圖姐姐送给你啦
+[除[烩险烩险] 这個主意不错
+就掌是妹妹向姐姐撒嫣無周題啦
+在Emma

@@ -1,0 +1,16 @@
+# OCR: a9ba38c21754fea11e821ab1006c9d37.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/a9ba38c21754fea11e821ab1006c9d37.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+白ProgramFiles(19,461)
+CommonFiles（448）
+由Crashpad (2) 由Google(111)
+由InternetExplorer(13) 由MicrosoftOffice（4,181）由MicrosoftOffice15(2)
+ModifiableWindowsApps(O 由Mozilla Thunderbird (63)
+由Notepad++（113) 由Tencent（1,586)
+Uninstall Information(O) UNP（78)
+VeraCrypt(464)：
+VMware（128)
+WindowsDefender(40)

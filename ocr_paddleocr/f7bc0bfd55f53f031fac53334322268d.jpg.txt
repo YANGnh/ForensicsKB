@@ -1,0 +1,28 @@
+# OCR: f7bc0bfd55f53f031fac53334322268d.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/f7bc0bfd55f53f031fac53334322268d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+g
+目基本信息
+检材2>
+自启动程序
+序号 1 2 口3 口4
+详细信息名称：t
+名称过滤
+VMwareUserProcess
+Eraser EXE t
+命令行：Ci财务itj.exe 本地路径：C.财务\tj.exe
+指命令行过速
+"C:(ProgramFiles]VMwarelVMwareToolslvmtoolsd.exe"-nvmusr"C:/ProqramFiles\ErasenEraser.exe"-atRestart
+C:财务\EXE.exe C财务\tj-exe
+源文件：检材2.E01/分区7/Windows/System32/config/SOFTWARE 已剩除：
+否
+推修改时间
+起始
+结束
+本地路径过速
+在自启动程序中接索
+C:/ProgramFiles)VMwarelVMwareToolslvmtoolsd.exe C:ProgramFilesEraser/Eraser.exe
+C\财务\EXE.exe C:财务\tj-exe

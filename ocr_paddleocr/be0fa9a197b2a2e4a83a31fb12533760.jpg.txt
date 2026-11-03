@@ -1,0 +1,27 @@
+# OCR: be0fa9a197b2a2e4a83a31fb12533760.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/be0fa9a197b2a2e4a83a31fb12533760.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+alist-encryption 首页
+0配置alist
+基他webdav 本地加解密在线加解密文件转存
+川首页
+首页/配置alist 配置alistx
+Alist服务配置服务地址
+服务器端口 https
+密码设置配置1
+算法密码文件名备注路径子密码：
+192.168.200.131 5244
+默认http
+添加
+AES-CTR
+rNj39YiR*MV
+加密 files
+sourcecode/源码/*
+RC4 o
+根据文件夹的名字自动识别文件夹的秘钥保存
+alist的ip或者域名地址
+example:encrypt/*
+获取

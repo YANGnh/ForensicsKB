@@ -1,0 +1,16 @@
+# OCR: f33fd20bfa3552adcd28a07a91ae75d1.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/f33fd20bfa3552adcd28a07a91ae75d1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+毛雪柳的手机
+国三序号
+口65 66 口67
+三名称过滤
+基本信息》
+应用列表
+iCost记账-快速简洁好用的理财助手
+三包名过滤
+com.apple.SharingVie.. com.gostraight.smallA... com.apple.FaceTimeLi...
+三版本名过滤

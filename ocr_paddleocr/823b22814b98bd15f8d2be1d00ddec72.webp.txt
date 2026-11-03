@@ -1,0 +1,15 @@
+# OCR: 823b22814b98bd15f8d2be1d00ddec72.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/823b22814b98bd15f8d2be1d00ddec72.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+图形视图
+表格视图个
+名称
+code_cache files
+shared_prefs
+/data/data/org.localsend.localsend_app
+路径
+data/data/org.localsend.localsend app/code cache data/data/org.localsend.localsend app/files
+data/data/org.localsend.localsend app/shared prefs

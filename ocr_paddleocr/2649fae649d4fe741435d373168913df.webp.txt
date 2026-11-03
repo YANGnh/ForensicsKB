@@ -1,0 +1,12 @@
+# OCR: 2649fae649d4fe741435d373168913df.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/2649fae649d4fe741435d373168913df.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+Spawned
+com.example.1iekai
+.Resumingmainthread
+[meizu17::com.example.liekail->videoKeyByte=) 0x73007c3879
+0x73007c3879,object0bject1,60,143,38,39,57,191,227,183188,8,38,153,26,208,80,77 videoKey=x
+Q123456789ABCDEE

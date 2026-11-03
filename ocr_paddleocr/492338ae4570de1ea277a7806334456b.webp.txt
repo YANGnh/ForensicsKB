@@ -1,0 +1,14 @@
+# OCR: 492338ae4570de1ea277a7806334456b.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/492338ae4570de1ea277a7806334456b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+Odictionary Omask
+Obruteforce minimal length 5
+maximal length 5
+charactergroup?o
+abcdefahijkimnopgrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 9123456789
+_@#$&+=%*A*~1?.+0<>0W/
+Ospace Ocustom

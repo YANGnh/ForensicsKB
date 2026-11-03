@@ -1,0 +1,22 @@
+# OCR: cce9a511eac04773fc7b8e3800d1c0b5.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cce9a511eac04773fc7b8e3800d1c0b5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+火眼内存分析工具v1.0.0.6015 M
+分析完成，！
+总用时00:01:07
+基本信息
+进程列表信息
+网络连接状态信息
+微信密钥信息进程信息
+Line密钥信良
+Bitlocker密钥信息 NtQQ密钥信息
+203 121
+203 0
+微信密钥信息
+微信号：手机号：备份密钥：数据库密钥： PID:
+wxid_2vlgmnpjsou712
+d3725593110248a581ed14312b5e39024acc4c8d93eb439ba4a4731ceca2f83 9832
+返回

@@ -1,0 +1,9 @@
+# OCR: 959de270761cda49462162b5a15d31ab.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/959de270761cda49462162b5a15d31ab.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+账单类型借款金额打款金额服务费展期费用
+总笔数 2044 2044 2044 1245
+总金额 11,576,900 7524,985 4.051,915 1363.088

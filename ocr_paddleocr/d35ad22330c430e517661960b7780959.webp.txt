@@ -1,0 +1,25 @@
+# OCR: d35ad22330c430e517661960b7780959.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/d35ad22330c430e517661960b7780959.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+g
+>检材3>
+三序号口1 口2 口3 口4 口5 口6 口7 口8 口9
+Linux基本信息>■检材3.E01/分区6
+三名称过滤主机名
+操作系统类型操作系统版本操作系统名称系统
+系统版本号（小写）主页
+版本代码内核版本
+三英文名称过滤
+hostname OS_TYPE OS_NAME
+MATERIALS NAME
+PRETTY_NAME VERSION_ID HOME_URL
+系统信息
+VERSION_CODENAME Kernel
+三值过滤
+adm1n-L openKylin 2.0SP1(nile) openkylin
+openKylin2.0SP1 2.0
+https://www.openkylin.top/ nile
+6.6.0-15-generic

@@ -1,0 +1,17 @@
+# OCR: 4804d1da80118a276d0a230619d8ed5e.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/4804d1da80118a276d0a230619d8ed5e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+throw new IllegalstateException("Multipart body must have at least one part."):
+y1.p pVar = newyl.p(g,nVar7,z1.b.w(arrayList3)): H.h hVar =new H.hO):
+Stringstr2="https://biwuzhuanyongurl.com/upload";
+if(xl.k.D("https://biwuzhuanyongurl.com/upload","ws:",true)){
+str2="http:".concat("ps://biwuzhuanyongurl.com/upload");
+}elseif(xl.k.D("https://biwuzhuanyongurl.com/upload","wss:",true))[
+str2="https:".concat("s://biwuzhuanyongurl.com/upload"):
+r1.c.e(str2,"<this>"); y1.k kVar - new y1.k(): kVar.c(null, str2):
+hVar.f571a.kVar.a(): hVar.n("post",pVar); 00 a2 -hVar.a();
+c1.j jVar4 =newci.j(qVar,a2); bl.eeVar
+new bl.e(3):

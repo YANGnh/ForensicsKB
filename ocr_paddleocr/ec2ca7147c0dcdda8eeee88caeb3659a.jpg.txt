@@ -1,0 +1,43 @@
+# OCR: ec2ca7147c0dcdda8eeee88caeb3659a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/ec2ca7147c0dcdda8eeee88caeb3659a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+XPROXMOXVirtual Emvironment8.1.4Seerch
+SernverView
+Datacenter Bopve
+a
+Chuster log
+Start Time May1913:43:53 May 19 13:43:52 May 1913:43:51 May1913:43:51 Mar2511:08:19 Mar2511:08:19 Mar 25 11:06:19 Mar2511:08:19 Mar2511:06:19 Mar2511:08:19 Mar 25 11:08:19
+EndTime
+o
+May1913:43:54 May 19 13:43:53 May1913:43:54 May1913:43:52 Mar2511:09:27 Mar2511:09:27 Mar2511:08:47 Mar2511:08:37 Mar2511:08:37 Mar 25 11:08:27 Mar25 11:08:27
+Datacenter QSearch Summary DNotes Cluster@Ceph oOptions storage BBackup aReplication Permissions  Users BAPITokens&TwoFactor 普Groups Pools + Roles 国Realhns
+Node pve pve pve pve pve pve pve pve pve pve pye
+User name roo@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam root@pam
+Type etoe Ebnode qemu qemu eeme qemo qem qemu me son  slorage aoage storage
+Description 110 (ngima) pve
+100 (Router) 101 (nodet) 102 (node2) 103(node3) 111 (javaserver) 112 (sqiserver) 120 (uck)
+localnetwork (pve)
+local (pve) local-lvm (pve) local2 (pve)
+Description VM112-Stat VM101-Start
+Bulk starnt VMs and Containers VM100-Stant
+Bulk shutdown VMs and Containers
+VM102-Shutdown VM 101 -Shutdown VM 111-Shutdown VM100-Shutdown VM112-Shutdowm CT 110 -Shutdowm
+Disk usage. 20.9%
+20.9% 0.0% 80.9%
+Memory us. 14.1%
+CPU usage 1.1%of4
+Uptime 00:02:31
+Host CPU
+Host Mem.
+Tags
+量Documentation
+DCreate w Search
+PCreateCT
+Statys
+OHep
+Eror.KVMvitualsationcon Error.KVM virtualsation con oK
+Error.KVMvitualisationcon
+oK oK ok oK oK oK ok

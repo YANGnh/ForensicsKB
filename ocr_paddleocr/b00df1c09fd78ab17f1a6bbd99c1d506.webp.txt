@@ -1,0 +1,35 @@
+# OCR: b00df1c09fd78ab17f1a6bbd99c1d506.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/b00df1c09fd78ab17f1a6bbd99c1d506.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+keywidgetmulti deviceorigindata':
+"booiTrue, int32':669, uint32':669, int64：669, uint64：669
+f1oat：5.024002886510476e+175
+"bytes：b[("did""1057099622","mode1""chuangmi.camera.069ao1""name""|xe5|xbo|x8f|xe7|xb1|xb3|xe6|x99|xba|xe
+81x831xbd1xe61x911x841xe51x831x8f1xe61x9c1xba31xe41xbalx911xe51x8f1xb01xe7lx891x88""uid:"2968704175"mac":"94:F8:27 E4:9E:ED,"is0nline":true,"pid":o,permitLeve1":16"resetF1ag:0"rssi":-33,token":"794c355667384d6f634551314a785753 localip:"192.168.110.106""1ongitude":0,"1atitude":0,"ssid:"lxe5lxbolx8flxe7xb1lxb34c-wifi",bssid"22:28:F7:2F:96:1
+"parent_model""",owner":(,"desc_new"."","spec_type"."urn.miot-spec-v2:d
+"showmode":1,"hidemode":o,"parentid":
+evice:camera:o00Ao1c:chuangmi-069ao1:2","voice_ctr1":o,"freqFlag":true,"comFlag":129,"orderTime""1726731554","eth_type
+"carPicInfo""了]
+"access_type":o,"lastonline:o,"carconfig":!
+：0.
+sn
+"string:
+[did：1057099622
+75""mac:"94:F8:276E4:9EED"
+，name"："小米智能摄像机3云台版"，uid"："29687041
+"mode1":"chuangmi.camera.069ao1"
+"isonline"true.
+f634551314a785753
+1oca1ip":192.168.110.106"
+bid":o,"permitLeve1:16,"resetFlag":o,"rssi":-33,token""794c355667384d6 longitude:o"latitude:o"ssid"小米4c-wifi"bssid"."22:28:F7:2F:96:1
+"owner"(,"desc_new"."","spec_type"."urn:miot-spec-v2:d
+Parentmodel":.
+"showmode":1.
+Re
+mooe
+Daret
+evice:camera:00ooAo1c:chuangmi-069a01:2",voice_ctr1:o,"freqFlag":true,"comF1ag":129,"orderTime":"1726731554",eth_type.o,"sn"..
+"access_type"o,"last_online"o,"carConfig""","carPicInfo"""]

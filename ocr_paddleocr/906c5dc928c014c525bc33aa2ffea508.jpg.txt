@@ -1,0 +1,16 @@
+# OCR: 906c5dc928c014c525bc33aa2ffea508.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/906c5dc928c014c525bc33aa2ffea508.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+Recipe
+FromBase64 Alphabet
+A-Za-z0-9+/= Strictmode
+a
+?
+Removenon-alphabetchars
+Input
+L3d3dy93d3dyb290L2R1ZmF1bHOvZmxhZ3M
+Ra36=1 Output
+/www/wwwroot/default/flags/

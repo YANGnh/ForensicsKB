@@ -1,0 +1,18 @@
+# OCR: fe893d68282f6fc9a510fe05de068d8e.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/fe893d68282f6fc9a510fe05de068d8e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+"Mounts"［
+y
+"Type":"bind"
+"Source"："/data/mongo""Destination"："/data/db""Mode"：
+"RW"：true,
+"Propagation："rprivate""Type":"volume"
+"Name":"b4367d574ca38d4a2f528a9f4"Source":"/var/lib/docker/volumes
+78f1a9c7724070c/data"
+"Destination"："/data/configdb"
+"Driver":"local""Mode":
+"RW"：true
+"Propagation"："

@@ -1,0 +1,25 @@
+# OCR: c6e6f3037f37b4fbec85f30b168d33de.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/c6e6f3037f37b4fbec85f30b168d33de.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+高保存
+宁查询创建工具淡美化SQL
+）代码段
+小谢取证-2025数证杯初赛
+1 2 3 4
+信息
+lott
+SELECTCOUNT(*)AStotal bet
+FRoMttradebetrecord WHEREKeeper='188'
+ANDDATE(CreateTime)='2021-05-10':
+摘要
+total bet
+2299
+结果1
+部析
+状态
+文本、导出结果咖创建图表
+运行、停止：吕解释
+公众号·小谢取证

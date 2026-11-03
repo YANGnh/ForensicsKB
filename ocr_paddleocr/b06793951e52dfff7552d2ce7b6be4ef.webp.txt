@@ -1,0 +1,11 @@
+# OCR: b06793951e52dfff7552d2ce7b6be4ef.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/b06793951e52dfff7552d2ce7b6be4ef.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+8
+2024-10-06T20:48:36+08:001192.168.71.1GETbl.dsnbbaj686.fit error1[o致命错误：classlthinkldblconnectorlMongo'notfound
+2024-10-06T20:48:46+08:001192.168.71.1GETbl.dsnbbaj686.fit/ error］[o]致命错误：classlthinkldblconnectorlMongo'notfound
+2024-10-06T20:57:47+08:001192.168.71.1GETbl.dsnbbaj686.fit/ appmanager/common/login.html
+［【error］【o]致命错误：classthinkldblconnector\Mongo'notfound

@@ -1,0 +1,12 @@
+# OCR: ff7dc048d469cc23912841e740c99bb8.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/ff7dc048d469cc23912841e740c99bb8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+In[32l:data=[0b11001111011,0b10000000011,0b111101011010b11010100000,0b10001101101
+0b1010.0b10010001.0b10011110101.0b11110000.0b11000010.0b110010.0b101101111
+In[33]：len(data） Out[33]：12
+In[34]:data2 =[-A1988for-in data]
+In [35]: memeric = "".join([words[_] for -in data2]) In【36]：memeric
+Out[36]：写蒸开况延戈陪渐凸赖彭铃

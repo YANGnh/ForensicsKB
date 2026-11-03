@@ -1,0 +1,23 @@
+# OCR: 0dd38a0891a367e7318d48bb91f3b8f2.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/0dd38a0891a367e7318d48bb91f3b8f2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+蓝易云面板
+赛首页网站通FTP 目数据库 Docker
+o
+PHP项目添加站点
+Java项目高级设置
+网站名
+请选择批量操作
+Node项目漏洞扫描
+批量操作
+o
+Go项目
+Python项目
+NNginx1.24.0 状态
+其他项目
+首需求反馈
+备份
+根目录

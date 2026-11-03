@@ -1,0 +1,31 @@
+# OCR: d1626f858a92e2f13e4de4786694a077.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/d1626f858a92e2f13e4de4786694a077.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+资源管理器 JFFS2-ROOT
+Vroot Vetc
+Vdropbear
+dropbear_ecdsa_host_key Edropbear_rsa_host_key =known_hosts
+Vnetworklinterfaces.d
+etho vwebui
+# backup.conf#fw_env.config
+s passwd spasswd-Eshadow 三shadow-vroot
+三.ash_history
+三重要password.txt
+frpc =frpc.ini
+=password.txt Vvar libIseedrng  seed.credit Ecrond.reboot work
+三frpc.ini
+×
+root>root>frpc.ini
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+[common]
+server addr =120.24.195.227 server_port = 7000
+privilege_token = jklasdmnl23[ssh]
+type = tcp
+local ip =127.0.0.1 local port = 22
+remote_port = 6000[rtsp]
+type = udp
+localip=127.0.0.1 local_port = 554
+remote_port=3ooo

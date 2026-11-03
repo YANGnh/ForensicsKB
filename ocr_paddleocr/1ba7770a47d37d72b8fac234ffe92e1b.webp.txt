@@ -1,0 +1,16 @@
+# OCR: 1ba7770a47d37d72b8fac234ffe92e1b.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/1ba7770a47d37d72b8fac234ffe92e1b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+原始数据搜索
+周宇PC.E01（421205）应用软件（1069）浏览器（968）Edqe（949）登录信息（1）
+门序号
+URL
+点此过滤
+https://account.aliyun.com/login/login.htm
+登录名称点此过滤
+17314951234
+提交URL 点此过滤
+创建时间点此过滤 2025/04

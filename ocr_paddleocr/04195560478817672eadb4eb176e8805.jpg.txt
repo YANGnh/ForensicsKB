@@ -1,0 +1,18 @@
+# OCR: 04195560478817672eadb4eb176e8805.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/04195560478817672eadb4eb176e8805.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+AVPN服务器
+口三序号口1 口2
+三服务名称过滤
+宝塔面板>
+BTE
+网站
+服务端口
+过滤
+platform.com website.com
+Y
+三根目录过滤
+/www/wwwroot/platform.com/www/wwwroot/website.com

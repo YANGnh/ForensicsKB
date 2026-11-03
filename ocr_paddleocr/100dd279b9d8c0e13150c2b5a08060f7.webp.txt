@@ -1,0 +1,32 @@
+# OCR: 100dd279b9d8c0e13150c2b5a08060f7.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/100dd279b9d8c0e13150c2b5a08060f7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+ForensicsToolGulWorkBench
+模式任务 file
+password
+imei token uid
+【1】表示解密数据库，支持的tyPe值为1、2、4-7、15【7】SQLCipher3加密的数据库
+(F:/BaiduNetdiskDownload/2024龙信杯lexports/msg.db) 019019
+微信获取到的IMEI或MEID，在sharedprefs/DENGTA 野火iM系应用的用户token，sharedprefs/config.xml白默往（通常在sharedprefs/im.xml中的userld的值）
+Run
+uin wxid device
+口
+×
+微信用户的uin，可能是负值，在sharedprefs/authinfo 数据库所属的wxid，一般情况下在解密EnMicroMsg.db 钉钉解密需要的内客，通常在sharedprefs/com.alibab
+>python C:/Users\Adninistrator/Desktoplworkspace\ForensicsTool\ForensicsTool.py -m 0 t 13 --uid 1836042078413393920
+> RX
+[提示]-[成功]-
+->正在计算默往数据库msg.db密钥->获取到数据库密钥<019019>
+Author:wXjzc
+->请送择SQLCipher3进行解密！
+[注意]-
+>python C:\UsersVAdninistrator\Desktopworkspace\ForensicsTool\ForensicsTool.py-m1-t7-f F:/BaiduNetdiskDowmload/2024龙信杯1exports/msg.db--password019019
+eRS3 x <SQLCipher3版本数据库解密>
+-->正在解密数据库msg：db，解密密钥为<019019>
+【提示]-
+[成功j-
+Author:WXjzc
+->msg.db解密成功，解密后数据库在源文件同目录下msg_dec.db

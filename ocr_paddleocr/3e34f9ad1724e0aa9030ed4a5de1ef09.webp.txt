@@ -1,0 +1,20 @@
+# OCR: 3e34f9ad1724e0aa9030ed4a5de1ef09.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/3e34f9ad1724e0aa9030ed4a5de1ef09.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+原类型视图未删除记录
+文本视图
+android metadata carts
+十六进制视图
+O
+净号
+ id xkm
+cart-db
+ last_updated_at 224-08-30 17:3001
+= is_selected
+ vendor,jd 24224
+ vendor_code xkm
+= vendor_name
+Mlk Cafe (Fainview Pari)

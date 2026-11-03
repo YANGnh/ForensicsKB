@@ -1,0 +1,40 @@
+# OCR: c46b2ef1e5f4a9d5598d319ab51dc7c8.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/c46b2ef1e5f4a9d5598d319ab51dc7c8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+244e0c:1=
+NU
+0x244e0c:1dr
+ox1,
+x1,
+244e1o:r2=Instance
+Duratior
+0x244e10:1dr
+244e14:r4=const
+o，
+0x3
+ox244e14:1dr
+X2.
+［PP，
+#0x7d0
+『PP，
+#0x4e81
+ox3,nulij
+TPP，
+#0xa701
+X4
+244e18:ro=Future.
+delayed
+0x244e18:bl
+Co=Nul1
+244e1c:
+#Qx215294
+;[pp+ox7do]TypeArguments:
+<Nul1?>
+Duration@453341
+;[pp+0x4e8]0bj!
+[pp+0xa70]List(5)[00x3,
+;[dart:async] Future::Future.delayed
+0x1,0x3

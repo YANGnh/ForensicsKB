@@ -1,0 +1,52 @@
+# OCR: a67463f8601f2995758ba8851169a63f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/a67463f8601f2995758ba8851169a63f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+茸文件(E) eapol
+pcap 编辑(E)?
+分组列表 Options:
+estination
+视图(V
+区
+跳转(G)
+Q
+字符串
+宽窄
+Protocol
+:39:bd:31:2e:1d:75:f4:65:f9:6a:39:bd:31:2e:1d:75:f4:65:f9:6a
+reenGroup5:f9:34:75:f4:65:f9:6a reenGroup5:f9:34:75:f4:65:f9:6a:39:bd:31:2e:1d:75:f4:65:f9:6a:39:bd:31:2e:1d:75:f4:65:f9:6a:eb:5d:cd:f3:31:eb:5d:cd:f3:31:eb:5d:cd:f3:31:39:bd:31:2e:1d:75:f4:65:f9:6a:39:bd:31:2e:1d:75:f4:65:f9:6a
+EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL
+捕获(C)
+分析(A)
+输入显示过滤器口区分大小写
+统计(S)
+电话Y)
+无线(W
+?eal品
+Backwards
+Length
+工具(I)
+帮助(H)
+Multipleoccurrences
+InTo
+166Key（Message1of4) 235Key(Message2of4) 190Key（Message3of4) 209Key(Messape4of4) 166Key(Message1of4)
+(Message 2 of 4)
+233Key 190Key
+(Message 3 of 4)
+209Key
+(Message4of4)
+166Key
+(Message1of4)
+235Key
+(Message2of4)
+190Key
+(Message3of4)
+209Key
+(Message4of4)
+265Key（Message3of4） 265Key(Message3of4) 265Key(Message3of4) 166Key（Message1of4) 235Key（Message2of4） 190Key(Message3of4) 209Key(Message4of4)
+Frame25420:166byteson wire(1328bits),166bytes captured(1328bits)
+Encapsulationtype:Linuxcooked-modecapturev2(2io)
+ArrivalTime：Sep23，202509:16:01.236883000中国标准时间 UTCArrivalTime:Sep23,202501:16:01.236883000UTC
+公众号：金星路406取证人

@@ -1,0 +1,12 @@
+# OCR: 53c54d4706ba1eea65b7dd3c79ec37db.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/53c54d4706ba1eea65b7dd3c79ec37db.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+查询结果： 88888888
+密文：类型：
+8ddcff3a80f4189ca1c9d4d902c3c909 自动
+查询
+加
+［帮助]

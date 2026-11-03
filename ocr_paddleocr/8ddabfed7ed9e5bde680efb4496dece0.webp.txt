@@ -1,0 +1,13 @@
+# OCR: 8ddabfed7ed9e5bde680efb4496dece0.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/8ddabfed7ed9e5bde680efb4496dece0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+名称：BTC.png 标签：
+大小：247.83KB
+创建时间：2025/04/2215:25:12 修改时间：2025/04/0512：11：14 访时间：2025/04/2215:25:53
+MD5:d669b1c10cc49a2c2bec7f07a8045bab
+SHA1：1565a2b483ba4a485b66dae6705daa722ef83712
+SHA256:f24244c0133b1689e2a64767587bf1479e83ebefc80a568e7db1962d0f277c36 SM3:3502fb1dddfae48e6cee41c03ac821139e0cdfab07c1202b23948bbba274f13a
+加密类型：隐藏文件：已删除：

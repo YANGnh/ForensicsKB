@@ -1,0 +1,35 @@
+# OCR: 2a01eabfb8ab84b15d9333c38dd5ba54.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/2a01eabfb8ab84b15d9333c38dd5ba54.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+VeraCrypt
+加密卷M
+系统(Y
+盘符加密卷
+收藏(D)
+工具(O)
+设置(G
+A：E：取证检材精武杯
+B:C:Users/32622)Desktop/2...lstorage
+F: G: H::
+K: L: M： N:
+创建加密卷(C) 加密卷
+帮助(H)
+大小、加密算法
+50.0GBAES 99MBAES
+加密卷属性)..
+C:\Users|32622\Desktop)2024精武杯）storage
+VeraCrypt
+从不保留历史记录R）
+卸载D
+自动加载设备(A)
+加密卷工具の).
+全部卸载(S)
+口
+x
+主页 (联网）(P)
+类型常规常规
+擦除缓存W 选择文件). 选择设备(E).
+退出区

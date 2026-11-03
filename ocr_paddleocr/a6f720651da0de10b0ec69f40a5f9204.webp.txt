@@ -1,0 +1,12 @@
+# OCR: a6f720651da0de10b0ec69f40a5f9204.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/a6f720651da0de10b0ec69f40a5f9204.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+密码
+?
+“财务部合想培凱記表.xlsx有密码保护密码(P)：
+确定
+取消
+x

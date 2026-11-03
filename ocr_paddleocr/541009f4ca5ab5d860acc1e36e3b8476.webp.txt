@@ -1,0 +1,38 @@
+# OCR: 541009f4ca5ab5d860acc1e36e3b8476.webp
+# 来源: ./01-取证技巧/07-服务器云/541009f4ca5ab5d860acc1e36e3b8476.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+SF7M7HWIH-34V
+序池 bin by ca cb
+dow dr
+res f
+筛选：
+card主页
+bin
+ASP.HET
+组织
+.HET编译
+dllogin.aspx-记事本
+计算机本地磁盘(C:)inetpub wwwrootvwbin
+包含到库中
+★收藏夹下载 ■桌面
+文件(F）编辑(E）格式(）查看(W）帮助(H)
+共享
+新建文件夹
+名称
+App_Web_ajborder.aspx.bda264a.dll App_Web_ajborder2.aspx.bdoa264a.dll
+修改日期
+2019/6/1 18:11 2019/6/1 18:11
+类型
+应用程序扩展应用程序扩展
+大小
+5B 5 KB
+<%@ page language="cC#" autoeventwireup="true" inherits="dr_login_dllogin, App Web dllogin.aspx.7d7c2f33"
+%
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC
+-//W3C//DTD XHTML 1.0Transitional//EN"
+<htmlxmlns="http://www.w3.org/1999/xhtml" <head>
+搜

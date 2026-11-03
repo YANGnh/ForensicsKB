@@ -1,0 +1,42 @@
+# OCR: cd8adfcd34d71c2b408ea328e64d8357.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cd8adfcd34d71c2b408ea328e64d8357.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+三星手机检材信息
+路径信息
+检材路径数据路径
+检材名称提取时间机主姓名手机型号备注
+三星手机
+EMFAICases/2024盘古石杯决赛三星手机
+Ai三星手机mage.zip 设备信息
+品牌运营商系统名称 MEID
+空闲的磁费空间蓝牙物理地址
+IMSI 内核版本存确
+samsung Android 146.34GB
+78:46:D4:8F:38:2E 5.4.129
+/data/media/0
+型号补丁时间系统版本是否Root 日志文件系统 Boardld 序列号
+WLANMac址
+检材编号解析时间证件类型 IMEI1
+SM-G996N 2022-01-01
+12 是 f2fs
+exynos2100 R3CR30FE23Y 9E:61:0E:A8:CE:03
+2024/6/5下午8:49:10 111居民身份证
+Mtp序列号设备名称 CPU架构
+时区加密设备ID sdk服本 ICCID
+检材平台手机号码1 证件号码 IMEI2
+Android
+R3CR30FE23Y t2s
+["arm64-vBa',"armeabi-v7a",'armeabi"] Asia/Shanghai
+FBE t2s 31
+提取类型手机号码2 设备性质 MEID
+本地化代码手机号 IMEI
+总的碰盘空间基带版本硬件平台安卓ID ICCID2
+步导出检材设备信息从文件导入
+zh-Hans-CN
+353561332327554,
+225.40 GB exynos2100
+9e6c9838dafe7ba0
+编缓检材

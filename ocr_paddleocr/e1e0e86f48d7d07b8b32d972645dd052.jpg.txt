@@ -1,0 +1,21 @@
+# OCR: e1e0e86f48d7d07b8b32d972645dd052.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/e1e0e86f48d7d07b8b32d972645dd052.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+G
+口
+登录到储物灵戒
+A
+不安全
+x
++
+192.168.217.131:5244/@login?redirect=%2F
+登录到储物灵戒
+输入您的用户名输入您的密码
+鲁记住账号
+清除
+以游客身份浏览
+文
+忘记密码？登录

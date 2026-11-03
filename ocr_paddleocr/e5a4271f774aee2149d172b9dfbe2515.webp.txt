@@ -1,0 +1,15 @@
+# OCR: e5a4271f774aee2149d172b9dfbe2515.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/e5a4271f774aee2149d172b9dfbe2515.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+AdvertisingData
+Device Name:Cracked
+Length:8
+Type:Device Name（0x09） Device Name: Cracked
+Manufacturer Specific
+Length:11
+Type:Manufacturer Specific (oxff)
+CompanyID:Unknown（oxab57） Data:0701434839313430
+v Tx Power Level

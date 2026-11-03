@@ -1,0 +1,12 @@
+# OCR: fde7f85ca73066a4c940520972b2c534.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/fde7f85ca73066a4c940520972b2c534.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+基本信息
+检材编号：20251122094111LTX0EQ 保存位置：Z:1.计算机检材.EO1
+检材时区：（UTC+08:0O）北京，重庆，香港特别行政区，乌鲁木齐创建时间：2025-11-2209：41:18
+检材大小：16.30GB 检材平台：Windows 源盘大小：40GB
+源盘SHA256:4DB6F775FF1B31065F214147479302DEBBA44A88387A4E81FD9F9A3FA88C69E8 预填密码：
+?admin| [空密码]

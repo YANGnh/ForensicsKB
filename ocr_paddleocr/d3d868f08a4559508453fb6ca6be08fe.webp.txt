@@ -1,0 +1,25 @@
+# OCR: d3d868f08a4559508453fb6ca6be08fe.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/d3d868f08a4559508453fb6ca6be08fe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+Docker容器
+应用程序 docker.vim
+已停止 Doge-Node 已停止 llama.cpp 已停止
+www-db-1 已停止
+www-web-1
+已停止
+版本
+√最新不可用 √最新第三方 ●第三方
+网络 bridge
+bridge bridge
+www_default www_default
+睿器IP
+容器端口 22556:TCP 8000:TCP 3306:TCP 80:TCP
+LANIP:PORT
+192.168.71.29:22556 192.168.71.29:8000 192.168.71.29:3306 192.168.71.29:8080
+卷映射（应用到主机）
+/var/run/docker.sock+/var/run/docker.sock/etc/doge//mnt/user/appdata/doge-node//models→/mnt/user/appdata/llama_cpp/model
+/docker-entrypoint-initdb.d/02-data.sql/mnt/disk1/www/mysql_data/generate_10k_records.sql
+/docker-entrypoint-initdb.d/o1-schema.sql→/mnt/disk1/www/mysql_data/dkewl.sql/var/www/html/mnt/disk1/www

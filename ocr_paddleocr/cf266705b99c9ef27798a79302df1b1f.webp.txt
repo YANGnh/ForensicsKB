@@ -1,0 +1,11 @@
+# OCR: cf266705b99c9ef27798a79302df1b1f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/cf266705b99c9ef27798a79302df1b1f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+NoahTie@LAPTOP-H91IARREF/F/FiLe >node.lcrypto.is
+【+]Firstdecryption：1428444b93c31c069502e96b36e65d4de5556e4f3839bc68a7d47 f905ec5faddc9b33f9399998ac5926335a5af653a455d4489d9ded8bc5441cf260bba5c3ab8a 210f4b9a1f47555a653ae86ceab695598578c1a3ddd86719f708d58961629db7346465b748ae
+4ae20f9baa125cc38e4abcae296c7ff1fdb［+]Seconddecryption:
+4c49414e484f4e475149414e5149414e
+[+iFinaLresuLt:LIANHONGOIANOIAN

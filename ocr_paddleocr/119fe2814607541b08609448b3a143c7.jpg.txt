@@ -1,0 +1,33 @@
+# OCR: 119fe2814607541b08609448b3a143c7.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/119fe2814607541b08609448b3a143c7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+VeraCrypt 加密卷()
+系统Y
+盘符加密卷
+收藏(0)
+工具（O)
+A:D:Googledownload)Google.mp3
+OB: OF: OG: H: I:: K L: OM ON:
+创建加密卷(C) 加密卷
+设置(G)
+帮助(H)
+大小加密算法 2.0GBAES
+加密卷属性(α).
+D:IGoogledownload)Google.mp3
+VeraCrypt
+?从不保留历史记录(R）
+卸载(D)
+自动加载设备(A)
+加密卷工具T)..
+全部卸载(S)
+V
+口
+x
+主页 (联网)
+(P)
+类型常规
+擦除缓存(W) 选择文件(F).. 选择设备(E)..
+退出(

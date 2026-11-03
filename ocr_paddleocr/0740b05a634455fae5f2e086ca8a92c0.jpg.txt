@@ -1,0 +1,28 @@
+# OCR: 0740b05a634455fae5f2e086ca8a92c0.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/0740b05a634455fae5f2e086ca8a92c0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+基本信息
+快速分析：vm-101-disk-0.gcow2
+口全选
+口
+Android
+ios
+wWindows macos Linux
+口口口口
+口口
+基本信息浏览器
+即时通讯境外通讯邮箱工具网络云盘视频音频办公软件位置出行网络购物其它工具
+华为保密柜
+基本信息
+快速搜索彩信
+C
+Q
+重新分析
+暂无任务描述
+选中任一任务，可以查看该任务描述
+取消
+确认
+文件全

@@ -1,0 +1,60 @@
+# OCR: 37a512515c46f1936657bbea964d612c.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/37a512515c46f1936657bbea964d612c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+(Users/贾韦码\AppData\Local/Google\ChromeUserData 丫文件名称一
+=Chrome(4.424)
+=UserData(4,424)
+Isegmentationplatform(2) ShaderCache(5)
+SSLErrorAssistant (4) SubresourceFilter (6)
+ThirdPartyModuleList64(4) ITpcdMetadata (4)
+ITrustTokenKeyCommitments(5) IWebstoreDownloads(O)
+WidevineCdm(0) ZxcvbnData(10)
+CrashpadMetrics-active.pma
+en-US-10-1.bdic FirstRun
+first_party sets.db
+first party_sets.db-journal
+LastBrowser LastVersion LocalState Variations
+一分区 offset
+02D1147120 02D1147130 02D1147140 02D1147150 02D1147160 02D1147170 02D1147180 02D1147190 02D11471A0
+文件 0
+39 22 74 74 5F 35 61 31 22
+1
+31 62 5F 72 6E 2c 74 33 68
+回预览
+2 37 72 72 75 65 22 69 35 61
+3 33 6F 75 65 77 73 6F 2E 72
+详细
+4 39 77 6E 2c 5F 68 6E 30 64
+5
+35 73 5F 22 76 6F 5F 2E 77
+缩略图
+6
+34 65 66 6c 65 72 76 37 61
+7
+33 72 69 61 72 74 65 30 72
+时间轴
+8
+30 22 6E 73 73 63 72 34 65
+9 36 3A 69 74 69 75 73 39 5F
+A 32 7B 73 5F 6F 74 69 2E 61
+了描述存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的，… 存在的，… 存在的存在的存在的存在的，存在的存在的，存在的存在的存在的存在的
+图例说明
+B 37 22 68 77 6E 5F 6F 38 63
+38 66 65 68 22 6D 6E 35 63
+D 22 69 64 61 3A 69 22 22 65
+?文件类型
+pma bdic
+db
+db-journal
+F E
+7D 72 22 74 31 67 3A 7D 6c
+2c 73 3A 73 33 72 22 2c 65
+同步
+了路径
+Users\贾韦码\AppData\\Users\贾韦码\AppData\ Users贾韦码AppData\ Users\贾韦码\AppData\ Users\贾韦码\AppData\ Users\贾韦码AppDatal\Users\贾韦码\AppData\\Users\贾韦码\AppData\ Users\贾韦码\AppDatal\Users贾韦码\AppData\\Users\贾韦码\AppData\ Users\贾韦码\AppData\ Users\贾韦码\AppData\\Users\贾韦码\AppData\ Users\贾韦码\AppData\ Users\贾韦码\AppData\\Users\贾韦码\AppData\ Users\贾韦码\AppData\ Users贾韦码AppData\ Users\贾韦码\AppData\ Users\贾韦码\AppData\
+养
+UTF-8
+9173954306278"},"browser":("firs t_run_finished": true,"last_whats newversion":13 5,"shortcut migr ation version":" 135.0.7049.85","hardware accele

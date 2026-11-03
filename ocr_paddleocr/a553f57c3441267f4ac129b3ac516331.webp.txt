@@ -1,0 +1,9 @@
+# OCR: a553f57c3441267f4ac129b3ac516331.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/a553f57c3441267f4ac129b3ac516331.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+1.png
+欠条
+图片密码.png

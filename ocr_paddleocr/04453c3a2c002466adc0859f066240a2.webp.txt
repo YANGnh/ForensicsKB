@@ -1,0 +1,38 @@
+# OCR: 04453c3a2c002466adc0859f066240a2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/04453c3a2c002466adc0859f066240a2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+test.pcap
+文件(E)
+编辑(E)
+?
+视图M
+跳转(G) 区
+捕获(C)
+分析(A)
+统计(S)
+电话(Y)
+无线(W)
+0
+工具(D帮助(H)@
+nothttpcontains"Mozilla/4.o(compatibleWin32;WinHttp.WinHttpRequest.5)"andhttp.request
+No.
+Time
+Source
+Destination
+Protocol
+1594139.791281172.16.10.1172.16.10.254HTTP/JS0N 1601140.686560172.16.10.1172.16.10.254HTTP/JS0N 1611143.557098172.16.10.1172.16.10.254HTTP/JS0N
+1644154.859211172.16.10.1172.16.10.254HTTP 1653156.441354172.16.10.1172.16.10.254HTTP 1662157.480833172.16.10.1172.16.10.254HTTP 1684 162.813243 172.16.10.1
+172.16.10.254HTTP
+1699167.248409172.16.10.1172.16.10.254HTTP 1718173.606330172.16.10.1172.16.10.254HTTP 1722174.471210172.16.10.1172.16.10.254HTTP 1725175.373200172.16.10.1172.16.10.254HTTP
+Length
+Info
+576POST 576POST 576P0ST
+/api/auth/loginHTTP/1.1，JSON（application/json)/api/auth/loginHTTP/1.1，JSON(application/json)/api/auth/loginHTTP/1.1
+JSoN（application/ison)
+457GET/api/products/17HTTP/1.1 457GET/api/products/17HTTP/1.1 457GET/api/products/17HTTP/1.1 457GET/api/products/19HTTP/1.1 457GET/api/products/21HTTP/1.1 269GET/api/auth/flag2HTTP/1.1 269GET/api/auth/flag2HTTP/1.1 269GET/api/auth/flag2HTTP/1.1
+口
+区
+X

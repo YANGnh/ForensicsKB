@@ -1,0 +1,13 @@
+# OCR: 48ef116e39ab131a867c327340feae8f.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/48ef116e39ab131a867c327340feae8f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+4.09
+aCI6Ik5qUT0iLCJsb2NhbElwIjoiTVRJMOxqQXVNUzR4SURFNU1pNHhOamd1TWpBNUxqRTBOc
+Base64
+解码
+编码入
+码
+f"basicInfo"："PCFEToNUWVBFIGhobWwgUFVCTElDICItLy9XMoMvLoRURCBYSFRNTCAxLjAgVHJhbr bnNpdGlvbmFsLmRoZCI+CjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj48 4KYm9keSB7YmFja2dyb3VuZC1jb2xvcjogI2ZmzjsgY29sb3I6ICMyMjI7IGZvbnQtZmFtawx50iBzYw bnQtZmFtaWx50iBtb25vc3BhY2U7fQphOmxpbmSge2NvbG9yOiAjMDA5OyB0ZXhoLWR1Y29yYXRpb246 Y7fQphOmhvdmVyIHt0ZXhoLWR1Y29yYXRpb246IHVuZGVybGluZTt9CnRhYmx1IHtib3JkZXItY29sbG ZHRoOiA5MzRweDsgYm94LXNoYWRvdzogMXB4IDJweCAzcHggcmdiYSgwLCAwLCAwLCAwLjIpO3oKLmN NlbnRlciBoYWJsZSB7bWFyZ2luOiAxZWOgYXVobzsgdGV4dC1hbGlnbjogbGVmdDt9Ci5jZW5oZXIgdG

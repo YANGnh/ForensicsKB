@@ -1,0 +1,85 @@
+# OCR: 50ca9a0eed1659b38d2a4406f9883116.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/50ca9a0eed1659b38d2a4406f9883116.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+文件（F）
+编辑(E)
+新建数据库() 数据库结构(D)
+查看(V)
+工直(T)
+帮助（H）
+打开数据库（O），白写入更改（W)
+浏览数据(B)
+表(T)：audio_recordinv
+id
+10 11 12 13 14 15 16 17 18 19 20 21 22
+10 11 12 13 14 15 16 17 18 19 20 21 22
+过滤
+编辑杂注(R)
+6
+file_path
+民
+Lgi1C0ebj8st3VKygQALNMphb6DJTsXyial.. LqilC0ebj8st3VKygQALNMphb6DJTsXyial... LqilC0ebj8st3VKygQALNMphb6DJTsXyial..
+6.ob
+倒退更改（R）
+执行 SQL()
+》过滤任何列
+created_at 过滤
+1744957650177 1744957664452 1744957699960
+LqilCoebj8st3VKygQALNMphb6DJTsXyial... LqilC0ebj8st3VKygQALNMphb6DJTsXyial... Lqiloebj8st3VKygQALNMphb6DJTsXyial...
+1744957713320 1744957741906 1744957762445
+1744957797391
+LqilC0ebj8st3VKygQALNMphb6DJTsXyial...
+1744957858107
+LqilCoebj8st3VKygQALNMphb6DJTsXyial...
+LqilC0ebj8st3VKygQALNMphb6DJTsXyial... LqilC0ebj8st3VKygQALNMphb6DJTsXyial... LgilC0ebj8st3VKygQALNMphb6DJTsXyial... LqilC0ebj8st3VKygQALNMphb6DJTsXyial... LqilC0ebj8st3VKygQALNMphb6DJTsXyial... LqilCoebj8st3VKygQALNMphb6DJTsXyial... LqilC0ebj8st3VKygQALNMphb6DJTsXyial... LqilC0ebj8st3VKygQALNMphb6DJTsXyial...
+1744957876452 1744957884237 1744957916717 1744957928569 1744957939584 1744957947527 1744957963785 1744957974957
+撤销
+维模
+森数
+Cyber
+CyberChef × Utools
+Operations sal
+Salsa20 XSalsa20
+BSON serialise
+Syntax BSON SplitCo Scanfo Disasse PHPDe
+时间截转换器
+时间戳：时间载类型：时间截的时区：
+目标时区：转换结果：作者：WXjzc
+440
+Recipe
+FromBase64 Alphabet
+A-Za-z0-9+/=
+Remove non-alphabet chars 口
+1744957928569 UNIX
+Asia/Shanghai
+f4c8cd1937a...
+Asia/Shanghai
+2627
+2025-04-18 14:32:08
+转换
+Rounds 20
+Lastbuild:6monthsago
+Input
+R
+HEX-HEX-
+口
+x
+文件大小了创建时间 304KB
+?
+?
+@ Options
+·
+修改时间
+口
+About/Support
+X
+Lqi1coebj8st3VKygQALNMphb6DJTsXyia15LL7XMRGe7B+afzzNCthxcZUqEt2m7E1 It/biofDgmZNYi4rQcVHSf8eE4u/+wTUNwoc=
+RIE184
+一
+Output
+TTRawBytes
+LF 审
+/storage/emulated/o/Android/data/com.example.liekai/files/video/175 3597920412

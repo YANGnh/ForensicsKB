@@ -1,0 +1,23 @@
+# OCR: b5a09a3d76d4e0ea15e6d1e3688841b5.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/b5a09a3d76d4e0ea15e6d1e3688841b5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+对象
+鱼表配置文件 c13Prefix
+ABC-(Null)(Null)
+ABPersonFullTextSearchcontent@m..
+自开始事务
+c14Suffix
+B-(Null)(Null
+单元格编辑器简选&排序开列
+c15DisplayName
+ABC -(Null)(Null)
+c16Phone ABC
+类
+c1 ABC
+63791704+852637917(
+N
+18861886
+N

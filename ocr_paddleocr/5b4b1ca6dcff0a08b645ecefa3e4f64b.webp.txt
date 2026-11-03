@@ -1,0 +1,31 @@
+# OCR: 5b4b1ca6dcff0a08b645ecefa3e4f64b.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/5b4b1ca6dcff0a08b645ecefa3e4f64b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+详细信息
+名称：maomi.db
+扩展名：db 类型：文件大小：40KB
+ua.db
+创建时间：2025-09-2511:14:55 访问时间：2025-09-2511:14:55 修改时间：2
+2025-09-1813:47:28
+元数据地址：0
+data/data/com.kongyubao.mifa/databases/maomi.db
+全路径：。
+加密类型：未加密已删除：否
+原类型视图未删除记录
+文本视图
+android metadata
+bjmodel iconmodel imgmodel password
+passwordmodel sqlite sequence table schema
+0 0 40 0
+3 5
+4UND
+2025-09-25
+十六进制视图
+11.14.33
+2025-09-17
+三password 8127
+77:36
+X 设置列

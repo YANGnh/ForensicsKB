@@ -1,0 +1,19 @@
+# OCR: bfde348816ca0c6a8c9689c290913aef.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/bfde348816ca0c6a8c9689c290913aef.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+g
+Image.zip
+三序号 1 2 口3 口4
+三名称过滤
+设备名称型号名称设备型号系统版本
+0
+基本信息>
+圆设备信息
+三内容
+Y
+过滤 iPhone
+iPhone13Pro
+iPhone14,2 16.3.1

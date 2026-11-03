@@ -1,0 +1,12 @@
+# OCR: 741e13d48257c5cefae158f81f02a02a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/741e13d48257c5cefae158f81f02a02a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+msg
+：15.758Zhao:08.045Laoli：47.609laosu
+：22.755以后兄弟们就在这里聊网站了
+：34.075按照之前电话里聊的，我们的利润分配就是我和老李35%，老赵30%，这个没问题吧
+：57.969没问题的：36.954没问题
+：42.415工作分配就是为我和老李负责推广拉人，老赵就是负责技术维护

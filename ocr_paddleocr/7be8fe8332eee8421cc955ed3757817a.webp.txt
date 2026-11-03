@@ -1,0 +1,18 @@
+# OCR: 7be8fe8332eee8421cc955ed3757817a.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/7be8fe8332eee8421cc955ed3757817a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+三序号 1
+Ben的JumpStation>
+三头像过滤
+Y
+三用户ID 过滤
+eamViewer>
+687062512
+（687062512)
+三内部ID 过滤
+Q账户信息
+三昵科过滤

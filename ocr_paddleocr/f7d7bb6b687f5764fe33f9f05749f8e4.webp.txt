@@ -1,0 +1,60 @@
+# OCR: f7d7bb6b687f5764fe33f9f05749f8e4.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/f7d7bb6b687f5764fe33f9f05749f8e4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+Wireshark·追踪TCP流(tcp.streameq1720)·tcpdump_tj.cap
+a string var (default "bar")
+-thread int
+thread
+-time int
+timeout
+-ufile string
+............
+-url string
+url
+-user-web
+string
+b++ntL/137001:80
+f
+[root@localhost application]#./goon2_lin -ip 192.168.1ee.254-moderdp-user administrator-pfileFastPwds.txt
+-/Boonz_111
+92108.160.24
+use
+<]#./goon2_lin-ip192.168.1ee.254-moderdp-user <.100.254
+-user administrator -pfile Fastp
+-moderdp
+海流
+goonv3
+by:iiiusery
+[Info][Info]:
+2022/03/0415:45:33
+.............................
+2022/03/0415:45:33......icmp............
+[5uccess]:：2022/03/e415:45:33[icmp]192.168.100.254
+[Info]::
+/2022/03/041545:33
+[Success]::2e22/e3/e415:45:38[PortInfo]Host:192.168.1ee.254:3389
+[Info]:
+2022/03/e415:45:38......rdp...........
+[Succe5s]:：2022/03/e415:46:02[RDP]192.168.100.254:3389
+[Info]:
+2022/03/8415:46:02
+2........................295
+[root@localhostapplication]#
+分想27986，179客户端分起，16股务器分起，32turms人点击选择
+整个对话（11kB）查找：
+ShowdataasAscll
+.........................administrator -pfile Fast
+............wds.txt
+Service:rdp
+administrator:Aa123456@
+掉此流
+打印
+另存为..
+返回
+关闭
+x A
+流1720 查找下一个（ND
+帮助

@@ -1,0 +1,12 @@
+# OCR: 8c22df90fc18687398e0cbc49f261bbc.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/8c22df90fc18687398e0cbc49f261bbc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+GZIP
+Base64URL编码OUnicodeJWT解码Hex/StringHtml编码
+编码
+解码
+SET+GLOBAL+generallogfile%3D'C%3A%5C%5CphpStudy%5C%5CPHPTutorial%5C%5Cwww%5C%5C06b8dcf11e2f 7adf7ea2999d235b8d84.php
+SETGLOBALqenerallogfile='C:llphpStudy\PHPTutorial\www/06b8dcf11e2f7adf7ea2999d235b8d84.php

@@ -1,0 +1,25 @@
+# OCR: de9b379fd2c8fe92d373079392e1ea0a.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/de9b379fd2c8fe92d373079392e1ea0a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+E_BEAN
+TOKEH
+V
+00e7-46a0-9b83-806bd525e13c 0fb6-4e27-ab07-0b2bc5e3b392
+会
+御
+TASKTYPE
+过滤
+过滤
+A
+品
+过滤任何列 TITLE
+米家登录密码：H135790246
+NULL
+NULL
+中奖规则
+过滤
+CONTENT
+https://www.lottery.gov.cn/dlt/..

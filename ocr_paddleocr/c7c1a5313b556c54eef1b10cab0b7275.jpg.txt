@@ -1,0 +1,36 @@
+# OCR: c7c1a5313b556c54eef1b10cab0b7275.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c7c1a5313b556c54eef1b10cab0b7275.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+OpenWrt
+状态中系统 istore 中服务
+OpenClash 品网络退出
+运行状态
+描件设置
+OpenClash
+疆写设置
+—健生成
+规则附加
+配圈订阀
+配置管理
+运行日惠
+一个运行在OpeniWrt上的Ciash嗨户遇，兼容Shadowsocks(R)、Vme*，TrojanSnell等协议，根据更活的规则配通实现策路代理
+New Releasevn.46.o11-bela
+wai
+WTutorials
+osur
+OTelegram
+Sponaor
+Tp：不会输写配置文件？?试试在[服务器与靠略组管理】更面一健创建
+主程净适行概式代理模式
+未运行
+未运行！守护程字来运行
+未通行未运行
+未运行
+控制面板总录P 控制医板登录口控制面极登录密期
+上传：0KB/S下载：0KB/S上传总量：0KB
+下载急量0KB活动连报：0内存点用：0KBCPU点用：0%
+192.168.100.1 9090
+MCOYZFwg 未通行

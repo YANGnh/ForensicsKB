@@ -1,0 +1,17 @@
+# OCR: 300ebf4af6c65090aae51f9236f22872.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/300ebf4af6c65090aae51f9236f22872.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+区
+口三序号口1
+详细信息
+义言的计算机/文件分类/加密文件/TrueCrypt容器
+名称过滤
+Google.mp3
+名称：Google.mp3
+扩展名：mp3 类型：文件大小：2GB
+创建时间：2024-04-2521:00:21 访问时间：2024-04-2818:43:09 修改时间：2024-04-2519:57:01 MetaAddr：85597
+全路径：PC.001/新加卷（分区11)/Googledownload/Google.mp3
+加密类型：TrueCrypt容器已删除：否

@@ -1,0 +1,24 @@
+# OCR: 63159fa6e3ed74f0ee159e67e82ddd3a.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/63159fa6e3ed74f0ee159e67e82ddd3a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+资首页网站管理
+使用宝塔Linux面板创建站点时会自动创建权限配置，
+统
+添加站点
+修改默认页
+网站名
+demo.tjshop.com test1.tjshop.com www.tjshop.com 192.168.100.100 清选择批量操作
+默认站点批量操作
+PHP命令行版本
+状态运行中心运行中心运行中国运行中心
+审田
+站点修改[192.168.100.1001--添加时间[2022-02-2315:06:58] 域名管理
+每行填写一个域名，默认为80端口
+子目录绑定网站目录访问限制流量限制伪静态默认文档
+泛解析添加方法*.domain.com
+如另加端口格式为www.domain.com：88
+域名
+www.mine.com 批量删除

@@ -1,0 +1,24 @@
+# OCR: ff53d7c15a58d03570ac89f2ed46dfaf.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ff53d7c15a58d03570ac89f2ed46dfaf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+用户
+AppData>Local>sqlmap>output>gg.aigua666.com>dump>gg_aigua666_com
+Administrator>
+名称
+回dn.csy 国dn_wx.csv
++
+国dongtai_gcjl.csv dongtai_ggjl.csv.1 国gongdan.csy gongdan.csv.1 manager.csv manager.csv.1 manager_tdbl.csv manager_zzh.csv 国tongzhi ydjl.csv user.csv
+user_fenhong.csv userjiangli.csv user_wx_shouru.csv
+user_zjls.csv 回vip1_qs_30.csv 国vip1h_ss.csv
+修改日期
+2024/2/2921:50 2024/2/2922:05 2024/2/2921:52 2024/2/2921:52 2024/2/2921:40 2024/2/29 21:40 2024/2/2921:44 2024/2/2921:44 2024/2/292151 2024/2/2921:40 2024/2/2921:37 2024/2/2922:06 2024/2/2921:54 2024/2/2921:38 2024/2/2921:40 2024/2/2921:44 2024/2/2921:49 2024/2/2922:08
+类型
+XLS工作表 XLS工作表 XLS工作表 1文件
+XLS工作表 1文件
+XLS工作表 1文件
+XLS工作表 XLS工作表 XLS工作表 XLS工作表 XLS工作表 XLS工作表 XLS工作表 XLS工作表 XLS工作表 XLS工作表
+大小
+2.KB 23KB 59KB 54KB 10KB 10KB 1KB 1KB 1KB 1KB 1KB 1KB 3KB 1KB 2KB 3.KB 5KB 1KB

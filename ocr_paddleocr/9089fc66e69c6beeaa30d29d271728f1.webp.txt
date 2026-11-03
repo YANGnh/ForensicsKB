@@ -1,0 +1,20 @@
+# OCR: 9089fc66e69c6beeaa30d29d271728f1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/9089fc66e69c6beeaa30d29d271728f1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+StegSolve1.4by Caesum(Mod byGiotino)
+File Analyse Help Redplane0
+Zoom:
+兔子二维码
+状态解码成功
+序号
+二维码识别>
+【支持识别条码】：条形码（EAN、ISBN、UPC等），二维码（QrCode等）
+条码类型 QRCODE
+解码结果
+位移加密正向位移操作
+操作
+复制
+美食

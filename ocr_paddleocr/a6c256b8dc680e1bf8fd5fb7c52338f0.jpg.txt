@@ -1,0 +1,63 @@
+# OCR: a6c256b8dc680e1bf8fd5fb7c52338f0.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/a6c256b8dc680e1bf8fd5fb7c52338f0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+文件
+视图
+日
+导航区
+工具
+jinyi.web.web.jar
+源代码
+帮助
+Q
+Daj.org.objectweb.asm bch.qos.logback
+cn.hutool com
+bdefpackage
+leu.bitwalker.useragentutils bio
+javassist
+Djavax lombok
+Binet borg Boshi
+reactor
+schemaorg_apache_xmlbeans.system
+springfox 资源文件
+BOOT-INF classes >com）i18n >mapper mybatis
+application-dev.yml?application-prod.yml application-test.yml application.yml
+banner.txt logback.xml
+>lib META-INF
+org 国Summary
+限
+卷
+目
+BOOT-INF/classes/application.yml
+187 188 189 198 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 228 221 222 223 224 225 226 227 228 229 230
+#swagger knife4j:
+#启用Knife4的增强功能
+enable: true setting:
+*jinyi.web.web-jadx
+#开启界面中对某接口的版本控制，如果开启，后端变化后Ui界面会存在小蓝点 enableVersion: true
+防止xss攻击
+# xss:
+#过滤开关
+enabled: true
+#排除链接（多个用逗号分隔） excludes:/system/notice#匹配链接
+urlPatterns:/system/*,/monitor/*,/tool/*
+阿里云对象存储配置#
+把下面配置直接追加到配置文件中，修改对应的值即可#
+aliyun: oss:
+# 地域节点
+endpoint:http://oss-accelerate.aliyuncs.com#AccessKey
+accessKeyId：[REDACTED_ALIYUN_ACCESS_KEY_ID]#AccessKey秘钥
+accessKeySecret：[REDACTED_ALIYUN_ACCESS_KEY_SECRET]
+开bucket百机 bucketName：
+jinyiyun
+#bucket下文件夹的路径
+folder: web#访问域名
+url:https://img.iy.jshcloud.cn/ wmsnotify:
+sign_method_md5:md5 sign_method hmac: hmac charset utfs: utf-8
+content_encoding_gzip:gzip
+format:xml v:3.0
+post：POsT get:GET
+stock out create: stockout.create

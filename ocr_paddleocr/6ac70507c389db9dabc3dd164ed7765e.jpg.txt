@@ -1,0 +1,18 @@
+# OCR: 6ac70507c389db9dabc3dd164ed7765e.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/6ac70507c389db9dabc3dd164ed7765e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+g
+Clara的安卓手机>
+谷歌地图>clara.ccc0807@gmail.com
+三序号口1
+三头像过滤了
+三用户ID 过滤
+三内部ID 过滤
+100359151043377021868
+昵称过滤
+显示名过滤
+clara.ccc0807@gmail.com
+三真过减

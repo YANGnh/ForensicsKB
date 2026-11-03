@@ -1,0 +1,19 @@
+# OCR: bc1e810d82f7e5a0a09bb61e7e12c73d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/bc1e810d82f7e5a0a09bb61e7e12c73d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+"note":[
+"format":
+HEADING"
+"text":
+“接头暗号”
+"IMAGE"
+"format":
+"text":"ub690tlmq9kelnah.png" C
+"CHECKLISTUNCHECKED"
+"format":
+"text"：“说上述暗号”
+C
+"format":"CHECKLIST_CHECKED""text"："地点：香格里拉大酒店大堂"

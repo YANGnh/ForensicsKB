@@ -1,0 +1,19 @@
+# OCR: a6faee0af0a80ce9b4d604b02a397418.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/a6faee0af0a80ce9b4d604b02a397418.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+激加
+启用
+设置SOCKS5/HTTP(S)认证信息
+启用
+Clash
+添加
+保存配置
+配置文件用户名
+避无性何配盟 WAMqti9
+第三方规
+密码
+应用配者
+备注

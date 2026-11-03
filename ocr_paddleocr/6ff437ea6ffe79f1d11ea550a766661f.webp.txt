@@ -1,0 +1,13 @@
+# OCR: 6ff437ea6ffe79f1d11ea550a766661f.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/6ff437ea6ffe79f1d11ea550a766661f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+Users贾韦码Documents 口了文件名称一
+=贾韦码(21,594)
+Documents(5,084)
+lupg(1)
+MyMusic（O) MyPictures(O） My Videos (0)
+NetSarangComputer(40)
+TencentFiles(4,975) Windows10x64(41) desktop.ini

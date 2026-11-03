@@ -1,0 +1,21 @@
+# OCR: cbea1d02a4b22d5d7cd3334d9f34aa3d.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/cbea1d02a4b22d5d7cd3334d9f34aa3d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+:iUsersiTEMP>netstat -ano1 findstr 915 TCP
+127.0.0.1:915
+TCP TCP
+127.0.0.1:9151 127.0.0.1:65050
+0.0.0.0:0
+127.0.0.1:65050 127.0.0.1:9151
+C:iUsersiTEMP>tasklist1findstr9624
+tor.exe
+9624 Console
+C:iUsersiTEMP>tasklist1findstr7480
+firefox.exe
+7480Console
+LISTENING ESTABLISHED ESTABLISHEL
+9624 9624 7480
+66,012K 202,960K

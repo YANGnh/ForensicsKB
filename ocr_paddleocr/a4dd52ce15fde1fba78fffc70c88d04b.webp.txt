@@ -1,0 +1,39 @@
+# OCR: a4dd52ce15fde1fba78fffc70c88d04b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/a4dd52ce15fde1fba78fffc70c88d04b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+linux.conf@C:/hlnet/1-1748241630/检材1-手机.tar/data/user/0/ru.meefik.linuxdeploy/files/config-Kate
+文件(日
+编辑(E)
+新建国
+2
+6 7 8 9
+10 11 12 13
+选择(C)
+B打开.
+视图
+转到(G)
+日 保存
+linux.conf
+X
+工程（P）
+B另存为.
+ARCH=-"armhf"
+LSP客户端(L)
+撤销
+DESKTOP="xfce"
+DTSKSTZE=25OOO! DISTRIB-"debian" DNS=
+会话(0) 重做
+工具口
+设置(S)
+帮助(H)
+svto"
+FBARGS="-dpi1oo-sharevts FBDEV="/dev/graphics/fbo FB DISPLAY="O"
+FREEZE="none"
+FB
+FBINPUT="/dev/input/evento" FBREFREsH=true
+FSTYPE="ext4" GRAPHICS="nc"
+口
+品

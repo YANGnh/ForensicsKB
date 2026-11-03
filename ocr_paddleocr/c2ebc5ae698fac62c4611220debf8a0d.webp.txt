@@ -1,0 +1,41 @@
+# OCR: c2ebc5ae698fac62c4611220debf8a0d.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/c2ebc5ae698fac62c4611220debf8a0d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+.e0f7b3a0ca64bf411f297ff23eda438c.jpeg(1)
+u盾jpeg 无标题.jpg 无标题2.jpg
+一分区 offset 00356320 00356336 00356352 00356368 00356384 00356400 00356416
+文件 0
+73 c9 oc F2 00 07 00
+1
+B9 37 C7 26 00 00 00
+预览
+2 2c 87 15 C3 00 00 00
+3 45 EA 28 CE 49 00 00
+贝详细
+4 19 78 59 OE 45 00 00
+5 41 64 FF FF 4E 00 00
+6 49 19 7B 1F 44 00 00
+缩略图
+7 99 25 31 75 AE 00 00
+8 83 FB 42 D8 42 00 00
+时间轴
+9 52 54 6D 06 60 00 00
+10 c1 A0 OF EA 82 00 00
+图例说明
+11 DO 64 94 DC C4 00 00
+12 BO 3A B3 58 3D 00 00
+13 4F 91 c9 5E 7B 00 00
+14 05 04 97 6D 00 00 00
+15 4B 65 74 00 40 00 00
+存在的
+存在的，已查看存在的，已查看存在的，已查看
+同步
+pr jp ip jp
+美 ANSIASCII
+s1,EAIWfRADoK E7exd%uTd:e
+(YY(Em"E-t C
+o&atyugux"m
+IENDGBA=@

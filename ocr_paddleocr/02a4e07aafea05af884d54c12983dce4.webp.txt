@@ -1,0 +1,13 @@
+# OCR: 02a4e07aafea05af884d54c12983dce4.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/02a4e07aafea05af884d54c12983dce4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+201
+J811468527287267
+八爷资源网18888888888
+99.00
+2020-08-1119:54:12
+支付成功
+支付vip费用

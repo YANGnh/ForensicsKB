@@ -1,0 +1,36 @@
+# OCR: ac405a3b5a35861083e0c987b4da5b22.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/ac405a3b5a35861083e0c987b4da5b22.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+检材：检材2-计算机.E01 基本信息
+检材编号：20250527150019DV51CV 保存位置：Z:\检材2-计算机.E01
+检材时区：（UTC+08:0O）北京，重庆，香港特别行政区，乌鲁木齐
+创建时间：2025-05-2715:00:25 检材大小：
+124.20GB
+检材平台：
+Windows
+源盘大小：400GB 预填密码：
+adminladmin
+分区信息
+分区详情
+参分区10(C:） 130.00GB
+文件系统：ntfs
+#计算哈希卷影解析
+NONAME(1) 190.99MB
+文件系统：fat32
+#计算哈希
+分区12 3.72GB
+文件分类
+检材照片网页
+视频 SQLite
+图片
+#计算哈希
+分区13 46.56GB
+#计算哈希
+Y
+音频压缩文档
+已使用分区14 46.56GB
+③快速分析 √未分配
+#

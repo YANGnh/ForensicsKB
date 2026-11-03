@@ -1,0 +1,23 @@
+# OCR: 1a614c3461acc9974e10e4dc8564c93c.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/1a614c3461acc9974e10e4dc8564c93c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+Ethernet.17
+地址 0.0.0.0
+10.213.45.11 169.254.69.122 169.254.255.255 182.239.117.11 192.168.20.100 192.168.20.255
+224.0.0.22 224.0.0.252
+IPv4·11
+分组 18 162 70 33 4,547 4.902 84
+IPv6·9
+Bytes 6kB 28kB 6kB 3kB 5MB 5MB 11kB
+6362字节
+36
+2kp
+TCP·78
+Tx Packets
+18 73 70 0
+1,653 3,176
+0 0 0
+Tx

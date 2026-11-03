@@ -1,0 +1,20 @@
+# OCR: dc220093c5d48b7c27756a9746e60c96.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/dc220093c5d48b7c27756a9746e60c96.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+cC:Windows)System32)cmd.exe
+MicrosoftWindowsL版本10.0.19045.4291(c）MicrosoftCorporation。保留所有权利。
+D:lRope-Opal-03a>Rope.exe
+软件整合米易，欢迎关注微信公众号【树袋熊AI】，我会帮助你解决软件使用中遇到的问题，也会实时更新最新版 gpu不可用，仅使用cpu
+Traceback(most recent call last)
+File"Rope.py".line 8.in <module>
+File "Coordinator.py",line 159,in run File "Models.py",Iine 40,in init.
+File"torchlcudainitpy",line 247,in _lazy_init torch.C.cuda initO
+X
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver fro mhttp://www.nvidia.com/Download/index.aspx
+[2908] Failed to execute script
+"Rope
+D:LRope-Opal-03a>
+due to unhandled exception!

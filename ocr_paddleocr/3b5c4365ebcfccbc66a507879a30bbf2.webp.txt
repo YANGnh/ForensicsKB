@@ -1,0 +1,36 @@
+# OCR: 3b5c4365ebcfccbc66a507879a30bbf2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/3b5c4365ebcfccbc66a507879a30bbf2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+sunlogin
+X
+file://ivar/log/sunlogin
+sunlogin_servic
+e.log.9
+sunlogin_servic
+e.log
+sunlogin_servic
+e.log.8 shell.log.2
+sunlogin_servic
+e.log.7 shell.log.1
+sunlogin_servic
+e.log.6
+sunlogin_servic
+e.log.5
+sunlogin_servic
+e.log.4
+首首首
+shellLlog
+desktop.agent.1
+og.1
+desktop.agent.1
+og
+sunlogin_servic
+e.log.3
+sunlogin_servic
+e.log.2
+按文件名
+sunlogin_servic
+e.log.1

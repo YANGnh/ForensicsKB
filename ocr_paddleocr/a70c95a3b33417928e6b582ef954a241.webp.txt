@@ -1,0 +1,57 @@
+# OCR: a70c95a3b33417928e6b582ef954a241.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/a70c95a3b33417928e6b582ef954a241.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+逆向工程逆向工程
+01 02 03 04 05 06 07 o8 9 10 11 3 13 14 15 16 17 18 19 20 21 22 23 24 25. 26 27
+@
+下载代码
+以下为反腺译代码（反编译结果可能不完整） Source Generated with Decopyle+
+File:
+test-pye
+import itertools import hashlih import string import sys
+fron Frn
+(Python 3.11)
+math import gcd Crypto.Util.1
+importgapy2 import smtplih
+Fron From tron Fron
+email.mime.text
+inport MmeText
+mi1.mim
+.maltipart
+import MIMEaltipart
+email.mime.application
+email.headet
+oort
+det
+MmEApplication
+mDOrt
+import Header
+send_enail(sender, 发送带附件的邮件
+iparan sender:
+Password
+发件人邮箱
+zecelver,
+subject, body,attachnent path,
+发件人邮箱授权码（不是登录密码）
+parampassword:
+PaEa
+Feceive:
+收件人邮箱（字符串或列表
+邮件主题
+paran subject:
+parambody邮件正文
+:paramattachment_path:
+附件文件路径（可选）
+paran
+smtp_server:
+SNTP 服务器地址
+smtp_port:SHTP端口（认465SSL）
+param
+源代码配置信息e
+swtp server.
+satp_port = (None,
+"smtp.qq.com",
+465)):

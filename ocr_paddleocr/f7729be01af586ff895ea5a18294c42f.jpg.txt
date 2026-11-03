@@ -1,0 +1,21 @@
+# OCR: f7729be01af586ff895ea5a18294c42f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/f7729be01af586ff895ea5a18294c42f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+g
+伏季雅的手机》
+三序号 98 口99 口100 口101 口102
+三名称过滤
+应用列表
+基本信息》
+Jamsung Lapenenceox
+QQ 威尼斯
+声音挑选程序三星结账台
+SamsungCoreServices
+三包名过滤
+CUTSaSug-HUTOIU.UUHCSCFVTCc
+com.tencent.mobileqq w2a.W2Ah5jsgjzfx.org.cn
+com.samsung.android.app.soundpicker
+com.sec.android.app.billing com.samsung.android.scs

@@ -1,0 +1,28 @@
+# OCR: abcd013d1461b6a2dea970e8ae4d2cf4.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/abcd013d1461b6a2dea970e8ae4d2cf4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+root@server#fdisk-1
+Disk/dev/sda:75.2GB.75161927680bytes.146800640sectors Units=sectorsof1 *512=512bytes
+Sector size(logical/physical):512 bytes/512 bytes
+I/0size(minimum/optimal)=512bvtes/512bvtes Disklabeltvpe:dos
+Disk identifier:0x00099847
+Device Boot
+/dev/sda1/devsda2
+Start 2048
+2099200
+End 2099199 146800639
+Blocks 1048576 72350720
+Id 83 8e
+Systen Linux
+LinuxLvM
+Disk/dev/sdb:2143MB,2143289344bytes,4186112sectors Units=sectorsof1 *512=512bytes
+Sector size (logical/physical):512bytes/ 512 bytes I/osize(minimum/optimal):512bytes512bytes
+Disk/dev/mapper/centos-root:48.3GB,48335159296bytes,94404608sectors Units=sectors of 1* 512=512bytes
+Sector size (logical/physical): 512 bytes/ 512 bytes I/osize (minimum/optimal):5i2bytes/512bytes
+Diskdev/mapper/centos-swap:2147MB.2147483648bytes.4194304sectors Units =sectors of 1 * 512- 512 bytes
+Sector size(logical/physical):512 bytes/ 512 bytes I/osize(minimun/optimal):512bytes512bytes
+Disk/dev/mapper/centos-home:23.6GB,23597154304bytes46e88192sectors Units = sectors of 1 *512=.512bytes
+Sectorsize(loaical/phvsical)-512bytes/512bvtes I/o size(minimum/optimal):512 bytes/512 bytes

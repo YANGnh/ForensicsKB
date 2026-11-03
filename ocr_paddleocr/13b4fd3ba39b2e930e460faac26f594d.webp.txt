@@ -1,0 +1,124 @@
+# OCR: 13b4fd3ba39b2e930e460faac26f594d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/13b4fd3ba39b2e930e460faac26f594d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+L10
+10 14 16 21 25 26 31 32 42 51 52 55 56 64 66 74 85 87 90 92 93 94 97 99 112 119 124 129 134
+A
+id
+25
+B namee H66PR:
+X< c
+descrip
+D
+1591.78
+priceel
+E
+stocke
+21
+29k73ChnyXzbl+O12z4jbxnEnegNd 31/Fv+AtWzbl+Ol2z4RxGR
+F
+G
+categoladditiol
+hmiaMp7hJ6RA/tDEPOL6a
+psSKeJwMp7hJ6RA6h+vO+g NEHpNMp7hJ6RALaiMgodb
+36iJ66PRixZ6zbl+O/2z4mZaxseRHiy
+7pdmAMp7hJ6RALaiMgodb
+40I/Ev+AtW3nhIHbMtfeF6zaGY4WGGrUH7Mp7hJ6RALaiMgodb 42k73ChnyX3nhlHbMbwhlJGpN7L5nGkOPGMp7hJ6R/LaiMgodb 471F/IFkkuCiN3vUnK5O/kW/tOV3eJ1ha9tAMp7hJ6R/LaiMgodb
+48VvH2IZRY
+nE
+b3EbuMp7hJ6RA/tDEP0L6a
+58YvH2ZRYizb/+O/2z4bUa3OvTinVsgK23ElMp7hJ6R/6h+vO+g 671F/IFkkuC3nhIHbMbaOPfuzUiRPVeNzLs8Mp7hJ6RA/tDEP0L6a 68k73ChnyX3nhlHbMbuC+cXp2z1s0mbiNwMp7hJ6R/LaiMgodb 711F/IFkkuC3nhlHbMbVTA64NCn14Tevx0zMp7hJ6R/LaiMgodb 721F/IFkkuC3nhIHbMbBS0e4Jg4BTmYHxvwMp7hJ6R/6h+yO+g 80iJ66PRixZ6zbl+O12z4eT/G5gM0tTgmjW/4/Mp7hJ6R/6h+yO+g
+821F/IFkku0
+zbl+02z4Dirn0tx/
+r
+et2hPCMp7hJ6R/6h+vO+g
+90k73ChnvXiN3vUnK5V2pSGKullTBPLaOzhMp7hJ6R/6h+vO+g 101i66PRixZezbl+O12z4XaPRnXUwY3UVN00Mp7hJ6R/LaiMgodb 103YyH2IZRY/zbl+Q12z4OHGYJI+IQUotqXT/Mp7hJ6R/6h+yO+g 106k73ChnvXiN3vUnK5GB6D9P9sIRaUmWr2Mp7hJ6RA/tDEP0L6a 108YvH2/ZRYizbl+O/2z4uRaDilE5owOnCDXVMp7hJ6R/A/tDEP0L6a 109iJ66PRixZ6iN3vUnK54oau4s8ZhfzXE2hAgMp7hJ6RA/tDEP0L6a
+110VvH2Z
+RCX
+P
+JolJ:Mp7hJ6R/6h+vO+g
+113YyH2ZRYliN3yUnK5u4jgk6sc8xoOkThKWMp7hJ6R/LaiMgodb 115/Ey+AtiN3vUnK5WVA7PxZ5huoetZGFlMp7hJ6R/6h+vO+g
+128/Fv+AtW
+3nhlHbMtYUbNSCOv6uiFe2kNMp7hJ6RALaiMgodb
+135/Ev+AtWiN3yUnK5/yWJs040BHB9GbKrcMp7hJ6R/LaiMgodb
+H
+created at
+2025/4/7 21:17 2025/4/7 21:17 2025/4/7 21:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/7.21:17 2025/4/7 21:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/7 21:17 2025/4/721:18 2025/4/721:18 2025/4/721:18 2025/4/721:18 2025/4/721:18 2025/4/721:18 2025/4/721:18 2025/4/7 21:18 2025/4/721:18
+140//Ev+AtW/3nhlHbMbJZSJweQe4pk2ngPlraMp7hJ6R//tDEP0L6a2025/4/721:18 145/Ev+AtWzbl+Q12z4uWfEWmFBEnTwlwj5Mp7hJ6R/LaiMgodb
+2025/4/721:18
+150iJ66PRixZ63nhlHbMbJOiUAc3KS/IY2eggF7Mp7hJ6R/LaiMgodb
+products decrypted
+就绪
+在334条记录中找到66个
++
+辅助功能：不可用
+2025/4/721:18
+updated at
+2025/4/721:22
+name zk-102
+2025/4/7 21:22
+zk-103 zk-104
+2025/4/721:22
+2025/4/721:22zk-102 2025/4/721:22zk-104 2025/4/721:22zk-103 2025/4/721:22zk-105
+2025/4/7 21:22
+zk-101
+zk-101
+2025/4/721:22
+2025/4/7 21:22 zk-105 2025/4/721:22zk-103 2025/4/721:22zk-105 2025/4/721:22zk-105 2025/4/7 21:22 zk-102
+2025/4/721:22
+zk-105
+zk-103
+2025/4/721:22
+2025/4/7 21:22zk-102 2025/4/721:22zk-101 2025/4/721:22zk-103 2025/4/721:22zk-101 2025/4/7 21:22zk-102
+2025/4/721:22
+zk-101
+2025/4/7 21:22 zk-101 2025/4/7 21:22 zk-104 2025/4/7 21:22zk-104 2025/4/721:22zk-104 2025/4/721:22zk-104 2025/4/7 21:22 zk-104 2025/4/721:22zk-102
+K
+description
+隐蔽针孔监控摄像头超清微型针孔摄像头超清微型针孔摄像头超清微型针孔摄像头
+袖珍针孔摄像头袖珍针孔摄像头
+隐蔽针孔监控摄像头袖珍针孔摄像头
+超清微型针孔摄像头
+袖珍针孔摄像头袖珍针孔摄像头袖珍针孔摄像头袖珍针孔摄像头
+超清微型针孔摄像头超清微型针孔摄像头隐蔽针孔监控摄像头超清微型针孔摄像头超清微型针孔摄像头隐蔽针孔监控摄像头超清微型针孔摄像头隐蔽针孔监控摄像头袖珍针孔摄像头
+隐蔽针孔监控摄像头隐蔽针孔监控摄像头袖珍针孔摄像头
+隐蔽针孔监控摄像头袖珍针孔摄像头
+超清微型针孔摄像头袖珍针孔摄像头
+Y
+price
+1591.78 1257.64 1851.27 1293.34 1627.18 1362.76 1886.88 1485.58 1735.48 1546.37 1349.8 1650.16 1602.66 1226.1 1535.07 1828.47 1386.68 1952 1670.08 1517.51 1667.43 1736.28 1201.97 1431.93 1898.96 1354.38 1519.25 1310.17 1699.16
+M
+atego
+益控直控金控控控控控#控控直控直控
+控益控益控控控直控控控控直控控控控控控
+平均值：1612.884242
+additional data
+N
+""color""黑色""weight""90g""""color""银色""weight""210g"""color""灰色""weight""180g""color""灰色""weight""210g""color""灰色""weight":"180g""color""灰色""weight""30g""color""灰色""weight""270g""color""黑色""weight""60g""color""银色""weight""90g""color""黑色""weight""210g""color""灰色""weight""270g""color""灰色""weight":"60g"}"color""银色""weight""180g""color""银色""weight""300g""color"."银色""weight""180g""color""银色""weight""240g""color""灰色""weight""180g""color""银色""weight"："300g""color""黑色""weight""180g""color""黑色""weight""270g"""color""黑色""weight""210g""color""银色""weight":"30g""color""灰色""weight""150g""color""银色""weight""120g""color""灰色""weight""180g""color""灰色""weight"："240g"}"color""黑色""weight""240g"""color""灰色""weight""150g""color""灰色""weight":"270g"
+计数：66
+求和：106450.36
+用
+回
+O
+category
+zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk zk
+巴
+P
+is.grey#VALUE!#VALUE!
+11 11 11 11 11
+#VALUE!#VALUE!#VALUE!
+11 11
+#VALUE!#VALUE!#VALUE!#VALUE!
+11
+#VALUE!#VALUE!#VALUE!#VALUE!#VALUE!
+11
+#VALUE!
+11 11
+#VALUE！
+11 11
+Q
+>
+100%

@@ -1,0 +1,20 @@
+# OCR: d8f04fb537e9a1728ec2ab50b2ef7400.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/d8f04fb537e9a1728ec2ab50b2ef7400.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+数据导入
+固定业务场景按照实际业务场景导入所需的文件并自动分析
+品模板数据
+公民个人信息统计
+按固定数据模板类型导入组织架构
+自定义数据
+支持自定义导入文件的格式和类型
+首
+文本文件
+品
+网站日志文件分析
+资金流水 Excel表格
+图 BCP
+反诈资金快通话详单取证BCP

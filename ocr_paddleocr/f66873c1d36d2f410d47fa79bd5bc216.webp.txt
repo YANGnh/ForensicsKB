@@ -1,0 +1,45 @@
+# OCR: f66873c1d36d2f410d47fa79bd5bc216.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/f66873c1d36d2f410d47fa79bd5bc216.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+[Wireshark·追踪TCP流(tcp.streameq65742)-1.pcap
+PSMBE
+园
+SMBa
+图
+e/rNYsTtdy#4SMB90
+echoDND55vUPru7ol1Yu
+DND55vUPru7011Yu echo Ihgfmheqf1 Thgfmheqf1
+whoami root pwd/tmp
+园图
+so
+Ce> 3>9
+dnd
+品
+sh:turning off NDELAY mode
+1s
+echo3538925174;echopRypIvGIIXbjIKTnRESyJCNUPJhofJxl 3538925174
+pRypIvGIIXbjIKTnRESyJCNUPJhOfJx1
+echoZKkfLDJzKIKiPihwObXRrSKrluvtUfKe;command-V command;echoZKkfLDJzKIKiPihwObXRrSKrluvtUfKe
+ZKkfLDJzKIKiPihwObXRrSKrluvtUfKe command
+ZKkfLDJzKIKiPihwObXRrSKrluvtUfKe
+分组134727.26客户端分组，36服务器分组，37tum(s)点击进择，
+整个对话（3205bytes）查找：
+显示为UTF-8
+Nodelta times 潮掉此流
+打印
+国
+国
+另存为
+x
+返回
+0
+/ho.e/shar
+x
+流65742
+口区分大小写
+关闭
+查找下一个(N）
+帮助

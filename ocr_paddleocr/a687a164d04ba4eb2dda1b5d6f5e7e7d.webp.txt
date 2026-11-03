@@ -1,0 +1,16 @@
+# OCR: a687a164d04ba4eb2dda1b5d6f5e7e7d.webp
+# 来源: ./01-取证技巧/07-服务器云/a687a164d04ba4eb2dda1b5d6f5e7e7d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+C:>Users>ABC>AppData>Local>Temp>7zO8BF37B49>！
+applieation.yml
+35 36 4e 41 42 43 44 45 46 47 48 49
+logging： level:
+Spring配置 spring:
+#资源信息 messages:
+#国际化资源文件路径
+basename：i18n/messages profiles:
+active:#文件上传
+dev

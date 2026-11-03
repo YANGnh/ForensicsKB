@@ -1,0 +1,15 @@
+# OCR: 83fb271253542a56f305ae578deb06ab.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/83fb271253542a56f305ae578deb06ab.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+V22 详细信息
+20240821121435jpg
+名称：20240821_121435jpg
+扩展名：jpg 类型：文件
+大小：5.44MB
+创建时间：2024-08-2112:14:35 访问时间：2024-08-2112:14:35 修改时间：2024-08-2112:14:35 MetaAddr:7145242
+全路径：ClaraSmartphone.bin/分区24/mecia/0/DCIM/Camera/20240821_121435.jpg
+加密类型：未加密已删除：否
+5.4

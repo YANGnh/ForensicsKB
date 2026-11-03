@@ -1,0 +1,51 @@
+# OCR: 62fa8654c040221b4d149e5a7e32f62b.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/62fa8654c040221b4d149e5a7e32f62b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+o 名称
+司?
+元素 A
+5ms
+控制台
+o
+源代码/来源
+口保留日志 10ms
+Dajax.php?act=login
+15ms
+网络
+停用暖存
+性能
+内存
+应用
+已停用节流模式
+20ms
+25ms
+安全 30 ms
+x
+Lighthouse
+35ms
+标头
+一常规请求网址：请求方法：状态代码：远程地址：
+记录器
+40 ms
+毁荷
+引荐来源网址政第策：
+预觉
+响应
+45ms 启动器
+后台登录
+admin.....
+立即登录
+Copyright2021后台管理中心
+50 ms 时间
+Cookie
+55ms
+60 ms
+65ms
+http://wwwjiaoyoumfoup.com/admin/ajax.php?act=login POST
+·200OK
+192.168.2.201:80
+strict-oriqin-when-cross-origin
+70 ms

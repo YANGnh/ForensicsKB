@@ -1,0 +1,26 @@
+# OCR: 7873d88c9661c484db79487269473f7c.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/7873d88c9661c484db79487269473f7c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+用
+的身份证电子信息.png offset
+00000000 00000010 00000020
+0
+1
+8950
+00
+00
+2 4E 09
+图回010
+3 47 BO 00
+4 OD 00 00
+5 OA 00 49
+6 1A OD 44
+7 OA B4 41
+HEX
+BH
+8
+00 08 54
+0 0 7

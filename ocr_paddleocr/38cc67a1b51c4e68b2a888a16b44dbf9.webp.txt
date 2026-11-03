@@ -1,0 +1,72 @@
+# OCR: 38cc67a1b51c4e68b2a888a16b44dbf9.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/38cc67a1b51c4e68b2a888a16b44dbf9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+Tuojie
+案例阅读器（M8000V4.88)
+--南京拓界信息技术有限公司
+目故据声看
+应用菜单口设备信息
+B 内容筛查
++日已安装应用列表（57）
++基本应用一自其它应用
+录音大师（279）自json(1)
+白sqlitedb(13) 白xml(61)
+其它文件（204）
+经济行为分析搜索结果
+数
+文档内容检索
+地理检置分析
+虚拟即天室
+人员关系分析
+囍高级分析
+合个→
+其它文件(204)
+请输入关键字进行过减
+序号 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100
+文件名 Dunique Dver
+ elp_msg.db-journal
+fmaudiodb.db-joumal
+特定行为分析
+导出报告
+的导出查看限
+导出BCP
+导出EFP
+请输入搜索关键字(1分隔符可多词搜索&"分隔符可组合搜索）
+修改时间
+2025-04-22 10:27:41 2025-04-22 10:27:41 2025-04-22 10:27:42 2025-04-22 10:28:15
+ pangle com.byted.pangle_..2025-04-22 10:27:42  pangle com.byted.pangle_..2025-04-22 10:27:41 pangle_com.byted.pangle_..2025-04-22 10:27:42  pangle_com.byted.pangle t... 2025-04-22 10:27:42
+ sonic.db-journal  ua.db-journal
+2025-04-22 10:27:41 2025-04-22 10:27:41
+ umeng_zero_cache.db-jour...
+2025-04-22 10:27:42
+networkkit.db-journal 20250422_105241.mp3
+D.dk.bak
+ .dmpvedpogjhejs.cfg jimprint
+D.cl D jig.ac D jg.ic 口jg.pk jg.pkh Djg.rd Djigri
+ jg.store.report_cf  jg.store.report_pid
+DJog10 DJog3
+2025-04-22 10:27:41 2025-04-22 10:52:59 2025-04-22 10:27:41 2025-04-2210:27:43 2025-04-22 10:27:47 2025-04-22 10:50:52 2025-04-22 10:29:53 2025-04-22 10:51:00 2025-04-22 10:51:00 2025-04-22 10:29:53 2025-04-22 10:29:53 2025-04-22 10:27:50 2025-04-22 10:50:47 2025-04-22 10:34:00 2025-04-22 10:51:00 2025-04-22 10:51:00 2025-04-22 10:51:00
+大小 36.00B 24.00B 512.00B 512.00B 512.00B 512.00B 512.00B 512.00B 512.00B 512.00B 512.00B 512.00B 60.00KB 107.00B
+OKB 1.08KB 399.00B 186.00B 40.00B 40.00B 100.28KB 64.00B 32.00B 315.00B 54.00B 101.00B OKB OKB
+文件路径
+w 检查第示
+D:/PhoneForensics)23132/M2101K9C_2025042210573.8VApplcom.ifeimo.a.. D:APhoneForensics)23132/M2101K9C_20250422105738/VApplcom.ifeimo.a. D:APhoneforensics/23132/M2101K9C_20250422105738/Applcom.ifeimo.a.m DAPhoneForensicsl231324M2101K9C_20250422105738Applcom.ifeimo.a.m D:/PhoneForensics/23132/M2101K9C_20250422105738VApplcom.ifeimo.a.. D:/PhoneForensics)23132/M2101K9C_20250422105738VApplcom.ifeimo.a.. DAPhoneForensicsl23132M2101K9C_20250422105738/Applcom.ifeimo.a.. D:APhoneForensics/23132/M2101K9C_20250422105738/Applcom.ifeimo.a.m D:/PhoneForensics/23132/M2101K9C_20250422105738VApplcom.ifeimo.a.mm D:/PhoneForensics/23132/M2101K9C_20250422105738VApplcom.ifeimo.a... D:/Phoneorensics)23132/M2101K9c_2025042210573.8VApplcom.ifeimo.a.. DAPhoneforensics123132/M2101K9C_20250422105738VApplcom.ifeimo... DAPhoneForensics/23132/M2101k9C_20250422105738VApplcom.ifeimo.a.m D/PhoneEorensicsi23132/M2101K9c_2025042210573.8VApplcom.ifeimo.a.. D:/Ph0neF0re0sics/23132M2101K9C20250422105738vA0p/c0mifeim0.a. D:APhoneorensics)23132/M2101K9c_2025042210573.8/Applcom.ifeimo.a.. DAPhoneforensicsi23132M2101k9C_20250422105738vApplcom.ifeimo.a.m D:APhoneForensics/23132/M2101K9C_20250422105738/VApplcom.ifeimo.a.m D:PhoneForensics/23132/M2101K9C_2025042210573.8VApplcom.ifeim0.a. D:PhoneForensicsi23132/M2101K9C_2025042210573.8/Applcom.ifeimo.a. DAPhoneForensics/23132/M2101K9C_20250422105738/VApp)com.ifeimo.a. DAPhoneforensics123132/M2101K9C_20250422105738VApplcom.ifeimo.a. DAPhoneForensics)23132/M2101K9C_20250422105738VApplcom.ifeimo.a. D:/PhoneForensics/23132/M2101K9C_20250422105738VApplcom.ifeimo.a. D:/PhoneForensics)23132/M2101K9C_20250422105738VApplcom.ifeimo.a. DAPhoneForensics/23132/M2101K9C_20250422105738VApplcom.ifeimo.a. DAPhoneforensics123132/M2101K9C_20250422105738VApplcom.ifeimo.a D:APhoneForensics/23132/M2101K9C_20250422105738VApplcom.ifeimo.a.
+页/预
+>
+戏转
+搜索详情
+口正则搜素
+?x
+语音转文字团自动转换
+高级搜索
+荣单
+00:00:12/00:00:15
+品
+x 区
+宝龙王哥这次事情就拜托你的了，行没问题，这是设成之后我打算5月份去美国带一段时间。最近管控的越来越严格了，我专心出事情，（字幕：JChong）
+文件名称：20250422105241.mp3
+文件来源：录音大师文件时间：
+系统打开文件打开文件位置

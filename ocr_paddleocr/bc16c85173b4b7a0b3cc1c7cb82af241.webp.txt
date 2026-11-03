@@ -1,0 +1,14 @@
+# OCR: bc16c85173b4b7a0b3cc1c7cb82af241.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/bc16c85173b4b7a0b3cc1c7cb82af241.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+[root@ks-node1~]#systemctlstatuskubelet
+kubelet.service - kubelet: The Kubernetes Node Agent
+Loaded:loaded(/usr/lib/systemd/system/kubelet.service;enabled;vendorpreset:disabled） Drop-In:/usr/lib/systemd/system/kubelet.service.d
+L1e-kubeadm.conf
+Active:activating（auto-restart)(Result:exit-code)sinceMon2025-02-24 11:56:30 CsT;2s ago Docs:https://kubernetes.io/docs
+Process:7664ExecStart=/usr/bin/kubelet$KUBELET_KUBECONFIGARGSSKUBELET_CONFIGARGS$KUBELETKUBE
+ADM_ARGSsKUBELET_EXTRA_ARGS（code=exited，status=255 MainPID7664（code=exitedstatus=255）
+Feb2411:56:3ok8s-node1systemd[1l:Unitkubelet.serviceenteredfailedstate. Feb2411:56:3ok8s-node1systemd[1j:kubelet.servicefailed.

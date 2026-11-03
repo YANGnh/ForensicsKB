@@ -1,0 +1,16 @@
+# OCR: 199f8318f80dc59e3bcef64a97128166.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/199f8318f80dc59e3bcef64a97128166.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+IDFA
+应用大小 AirDroplD
+E477D4C7-BD02-4979-BC9D-...
+语音备忘录大小
+7.34GB
+9ff25fc13d35
+日志所占空间
+OB
+239.65M
+E477D4C7-BD02-4979-BC9D-5C5DE7BD1E17

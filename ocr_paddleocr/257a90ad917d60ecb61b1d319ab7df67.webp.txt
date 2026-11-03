@@ -1,0 +1,41 @@
+# OCR: 257a90ad917d60ecb61b1d319ab7df67.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/257a90ad917d60ecb61b1d319ab7df67.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+□3 ■4 口5 6
+详细信息
+RKStorage-wal profiles
+profiles-shm profiles-wal
+名称：RKStorage
+MD5：F2B4B0190B9F384CA885F0C8C9B14700
+类型：文件大小：4KB
+创建时间：2025-09-1710:34:27 访问时间：2025-09-1710:34:27 修改时间：2025-09-1710:34:27 元数据地址：262401
+1BF6229F9F2880262AB377EACDA1091E F2B4B0190B9F384CA885F0C8C9B14700
+原类型视图未删除记录
+文本视图
+androidmetadata catalystLocalStorage
+全路径：鲁堪安卓手机.vmdk/分区4/data/com.sakura.app/databases/RKStorage
+加密类型：未加密已删除：否
+十六进制视图
+277.64... 4KB
+RKStorage
+三value 0
+7897
+2025-09-1710:34:27 2025-09-1712.2628
+2025-09-1710:36:24 2025-09-1712:26:28
+x 设置列
+"device":"[HUAWE]BRQ-AN00","os":"Android 9","ip""113.13.146.207"}
+rule 0
+proxy_port Fystem_info
+expiration_warned
+quota_warned Droxymode
+8 8
+ue
+7897
+鲁堪安卓手机.vmdk/分鲁堪安卓手机.vmdk/分鲁堪安卓手机.vmdk/分鲁堪安卓手机.vmdk/分
+X 设置列
+r"device"."rHUAWEllBRQ-ANOO..
+30:57
+rule

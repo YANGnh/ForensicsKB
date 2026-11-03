@@ -1,0 +1,20 @@
+# OCR: 45027a04f938b49439c6ddb6b98e97cd.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/45027a04f938b49439c6ddb6b98e97cd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+mForensicsTool
+密钥计算数据库解密数据提取注册表分析关于
+请选择任务
+uin wxid uid
+微信的EnMicroMsg.db 1864810197
+数据库所属的wxid，一般情况下在解密EnM. 默往（通常在shared_prefs/im.xml中的user
+imei token
+[V成功获取到安卓微信EnMicroMsg.db数据库密钥【31ad809】
+口
+微信获取到的IMEI或MEID，在shared_pref
+x
+野火IM系应用的用户token：shared_prefs/
+开始
+清空输出

@@ -1,0 +1,12 @@
+# OCR: b29f6d5d366c07fd8b4017ddfee25e43.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/b29f6d5d366c07fd8b4017ddfee25e43.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+详细信息
+名称：序列号
+内客：FK3XDN2UKPJ5
+源文件：检材手机（备份密码6666）.tar/00008020-000974C61428002E/lnfo.plist
+香
+已删除：

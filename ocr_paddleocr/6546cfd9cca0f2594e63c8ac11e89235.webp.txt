@@ -1,0 +1,8 @@
+# OCR: 6546cfd9cca0f2594e63c8ac11e89235.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/6546cfd9cca0f2594e63c8ac11e89235.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+Froot@localhost~#uname-a
+Linuxlocalhost.localdomain3.10.0-1160.119.1.el7.x8664#1 SMP TueJun414:43:51UTC 2024x8664x8664x8664GNU/LinuX

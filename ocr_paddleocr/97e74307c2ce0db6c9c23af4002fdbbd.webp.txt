@@ -1,0 +1,13 @@
+# OCR: 97e74307c2ce0db6c9c23af4002fdbbd.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/97e74307c2ce0db6c9c23af4002fdbbd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+<divclass
+"accordion-body p-o">
+<ul class="p-0 m-0">
+<li class="list-group-item text-whitemb-3">Revtel</li>
+><li class="list-group-item my-2">@</li> <li class="list-group-item">
+<a href="#"class="text-decoration-none">mailme@chen.foren6</a>=$o
+<i> </al> divaccore

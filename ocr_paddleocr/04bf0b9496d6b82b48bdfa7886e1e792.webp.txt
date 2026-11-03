@@ -1,0 +1,26 @@
+# OCR: 04bf0b9496d6b82b48bdfa7886e1e792.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/04bf0b9496d6b82b48bdfa7886e1e792.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+详细信息
+TCGG(tcggvip)(2025-03-18 10:23:57)
+接收者：木子弓么
+接收者ID：wxid_3zbo78gjsqqf22 发送时间：2025-03-1810:23:57 消息内容：[图片消息]
+消息类型：围片缩略图路径：检材
+2025-03-1810:23:57 2025-03-1810:28:00 002503-1810-28-0
+跳转到
+原类型视图
+2.tar/data/com.tencent.mm/MicroMsg/f6781d69b1866c72a087d67dd3b05
+189/image2/8f/bb/th_8fbb6ee5aadcc41568fd75aeaa554217hd 文件大小：OB
+来源账号：wxid_3zbo78gjsqqf22 源文件：检材
+2.tar/data/com.tencent.mm/MicroMsg/f6781d69b1866c72a087d67dd3b05
+189/EnMicroMsg.db 已删除：否
+怎么联系呢
+(2025-03-1810:28:00)(wxid3zbo78gjsqqf22)木子号么
+[握手]我打你
+文本视图
+十六进制视图
+0
++

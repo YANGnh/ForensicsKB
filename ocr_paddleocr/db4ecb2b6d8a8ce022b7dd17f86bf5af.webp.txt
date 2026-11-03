@@ -1,0 +1,36 @@
+# OCR: db4ecb2b6d8a8ce022b7dd17f86bf5af.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/db4ecb2b6d8a8ce022b7dd17f86bf5af.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+·Root
+WFWorkflowActionldentifier
+-WFWorkflowActionParameters
+UUID
+WFTextActionText
+WFWorkflowActionldentifier WFWorkflowActionParameters
+WFWorkflowActionldentifier WFWorkflowActionParameters 由·WFInput
+·WFVariableName
+WFWorkflowActionldentifier WFWorkflowActionParameters WFWorkflowActionldentifier WFWorkflowActionParameters
+WFWorkflowActionldentifier WFWorkflowActionParameters·WFlnput
+WFVariableName
+WFWorkflowActionldentifier.-WFWorkflowActionParameters
+Type array dict string dict string string dict string dict dict string dict dict string dict string dict dict string dict dict string dict dict string dict string dict
+vaiue
+is.workflow.actions.gettext
+1A56D08B-06B9-4179-82FA-077BEE728704 MTkyLjE20C4xMzcuMjl=
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable host
+is.workflow.actions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable pwd
+is.workflow.actions.selectphoto
+Ctool 四
+base64X
+Ctool1,397
+常用
+QBase64OURL编码
+加解密
+OUnicode
+MTkyLjE20C4xMzcuMjl= 192.168.137.22

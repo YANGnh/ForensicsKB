@@ -1,0 +1,14 @@
+# OCR: d88c6ba4f816471704f5d3d5861cf5e9.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/d88c6ba4f816471704f5d3d5861cf5e9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+NET属性
+当前逻辑驱动器数量：1 逻辑驱动器列表：C:
+计算机的名称为：IZTYOTRFU2ODWUZ
+系统目录的完全限定路径：C-IWindowslsystem32
+当前目录：c:lwindowslsystem32linetsrv 当前计算机上的处理器数为：2
+系统启动后经过的膏秒数：283058390 当前登录操作系统的用户名为：aa
+当即操作系统版本：MicrosoftWindowsNT6.1.7601ServicePack1 NET版本：4.0.30319.42000
+发现新版本：Behinderv4.1【tools专版】，点击下载

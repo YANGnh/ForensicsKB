@@ -1,0 +1,74 @@
+# OCR: c18dd45bd8cfb128798a29daa097f29b.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/c18dd45bd8cfb128798a29daa097f29b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+audiobean @main (fm_audio_db_1) - 表 - Navicat Premium
+文件
+编辑
+连接
+查看新建查询
+表
+account_book_work3 Daccount_book_work_4 account_book_work_5 account_book_work_6 account_TreeStruct Daccs
+AnalysisData DAnalysisData_1 Danythink
+AppBrandComm awss3transfertable
+DCaseData DCaseData_1 CaseData2  config_params Ddownloader Delp_msg EnMicroMsg DEnResDown
+Devent Pevent1
+Dfm_audio_db fm_audio_db_1
+vmain v表
+android_metadata
+audiobean calendarmark
+A >
+7
+contactsinfo Tabero
+localphoneinfo musicinfo
+收赢夹表
+musicinfo_wavedatas noisedata
+tableschema
+>视图 >A-Z索引触发器》查询 >②备份
+ google_app_measurement
+gs-ido Dgtc3 DManifest
+DMaterillnfo DMaterillnfo_1
+工具 80 视图
+窗口
+帮助
+A-Z 索引对象息开始事务
+触发器
+用户
+查询
+? 备份
+audiobean@main(fmaudiodb_1)
+三排序田列
+文本，筛选
+playprogress
+0
+playable
+1
+qn_key(Null)
+Vxc
+SELECT*rowid"NAVICATROWID'
+9 自动运行
+模型
+山图表
+导入导出题数据生成咖创建图表
+realtimepath(Null)
+audiohean
+recordtype 0
+LIMIT0.1000
+size 61440
+state(Null)
+tagtype
+time_length
+15360 0
+tippath(Null)
+title 王·录音
+toptag nor
+tranpath(Noll)
+trarslate 0
+t
+gid 类型 integer 不是null 否
+默认值注释
+国日
+画画
+第1条记录（共1条）于第1币

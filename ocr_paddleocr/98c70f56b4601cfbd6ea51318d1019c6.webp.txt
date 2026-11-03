@@ -1,0 +1,53 @@
+# OCR: 98c70f56b4601cfbd6ea51318d1019c6.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/98c70f56b4601cfbd6ea51318d1019c6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+sso-user@vcsa［/var/ogJ$sbk
+NAME sda
+-sda1-sda2-sda3 sda4
+Lvg_root_o-lv_root_0
+sdb sdc
+swap_vg-swap1 sdd
+core_vg-core sde
+Llog_vg-log sdf
+db_vg-db sdg
+dblog_vg-dbog sdh
+-seat_vg-seat sdi
+netdump_vg-netdump sdj
+-autodepoy_vg-autodepoy sdk
+imagebuilder_vg-imagebuilder sdz
+-updatemgr_vg-updatemgr sdm
+archive_vg-archive sdn
+vtsdb_vg-vtsdb sdo
+Lvtsdblog_vg-vtsdblog sdp
+lifecycle_vg-lifecycle
+sre sdg
+MAJ:MIN 8:0 8:1 8:2 8:3 8:4 254:0 8:16 8:32 254:10 8:48 254:11 8:64 254:14 8:80 254:4 8:96 254:8 8:112 254:13 8:128 254:5 8:144 254:12 8:160 254:6 8:176 254:7 8:192 254:1 8:208 254:9 8:224 254:15 8:240 254:2 11:0 65:0
+vg_Lvm_snapshot-lv_vm_snapshot 254:3
+RM 0
+0 0
+0 0 0
+0 0 0
+0 0
+0 0 0 0 0 0
+0 0 0
+SIZE 48.6G
+4M 10M 512M 48G 48G 7.1G 25G 25G 25G 25G 10G 10G 10G 10G 15G 15G 10G 10G 1G
+1016M
+10G 10G 10G 10G 100G 100G 50G 50G 10G 10G 5G 5G 100G 100G 1024M 150G 150G
+RO 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0 0 0 0 0
+TYPE disk part part part part lvm disk disk vm disk vm disk lvm disk ivm disk vm disk lvm disk lvm disk vm disk lvm disk ivm disk lvm disk lvm disk ivm disk lvm rom disk lvm
+MOUNTPOINTS/boot/efi
+/boot[SWAP]
+/storage/core/storage/og/storage/db
+/storage/dblog/storage/seat
+/storage/netdump
+/storage/autodeploy
+/storage/imagebuilder
+/storage/updatemgr/storage/archive/storage/vtsdb
+/storage/vtsdblog/storage/ifecycle
+/storage/Lvm_snapshot

@@ -1,0 +1,8 @@
+# OCR: 652a00039a64c9058859c6edb7a3b1a5.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/652a00039a64c9058859c6edb7a3b1a5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+收支金额求和：53976460
+流水金额求和（不计方向）：120630660

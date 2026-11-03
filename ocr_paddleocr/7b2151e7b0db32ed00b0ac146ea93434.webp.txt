@@ -1,0 +1,74 @@
+# OCR: 7b2151e7b0db32ed00b0ac146ea93434.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/7b2151e7b0db32ed00b0ac146ea93434.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+@ 圆案件口文件网分析? 位置
+师时间线
+Q 搜素
+笔记自报告
+研判白工具箱
+刷新
+详情/预览
+请选择/输入持有人/检
+用
+Duncan lapt...
+·
+嵌套证据识别
+11/93772
+42
+回
+Office文件元信息吕打印机
+LAM KH lapt.... BNginx服务器
+IIS服务器用户痕迹缩略图画
+基本信息系统信息 ①用户列表
+四? 0? o 出
+账户操作记录
+本地凭据登录信息开关机时间自肩动程序默认打开方式
+嘉系统服务
+安装软件
+19 4
+34376
+4 1 327 244 1118 18 8 40 1 39 18 7 247 348 31 88
+g
+ LAM_KH laptop.e01 >
+拦序号口1 口2 口3 口4 口5 口6 口7 口8 口9 口10 口11 口12 口13 口14 口15 口16
+拦名称过滤
+操作系统名称操作系统类型操作系统版本操作系统位数
+系统时区安装时间产品密钥产品ID
+当前版本号
+当前Build版本号设备名称
+基本信息>
+系统信息
+英文名称过滤
+MATERIALS NAME
+OS_TYPE OS_NAME OSBITNESS
+OS_TIME_ZONE INSTALL TIME PRODUCTKEY OS_PRODUCT_ID
+C_VERSION VERSION
+COMPUTER NAME
+自动校准系统时间的服务..
+系统根路径路径名
+最后一次正常关机时间最后访问时间已肩用
+NTP_SERVER SYSTEMPATH PATH_NAME
+LAST_LOGOUT_TIME
+分析结果搜索
+值过滤
+Windows7Enterprise
+Windows Enterprise 64位
+Q 画
+在系统信息中搜索
+(UTC+08:00)北京，重度，香港特别行政... 2025-04-1215:32:37+0800CST
+HRHW9-GH6P8-3J8WH-FWGNP-HHXGV
+00392-918-5000002-85249 6.1
+7600.0 CEO-PC
+time.windows.com
+C:/Windows C: Windows
+2025-05-1516:22:51
+NTFS LAST ACCESS UPDA...
+否
+Q
+口
+x
+高级
+I 设置列

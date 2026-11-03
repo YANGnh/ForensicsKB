@@ -1,0 +1,10 @@
+# OCR: 237d5b060534fb119269a6521a98ed47.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/237d5b060534fb119269a6521a98ed47.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+应用命名空间 app_namespace/应用调试模式
+appdebug//应用Trace apptrace'
+=> =>
+app true false,

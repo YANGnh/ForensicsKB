@@ -1,0 +1,27 @@
+# OCR: e9eb803606b8e569ca19ea8bc3021f3d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/e9eb803606b8e569ca19ea8bc3021f3d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+V
+0x10,0x11,0x12,0x13,0x1..
+Mode CBC
+Output Raw
+Salsa20 Key
+Input Raw
+0x4d,0x90.0x37,0x38.0x4.. Nonce
+0x20,0x21,x22,0x23,0x2.
+Counter Input Raw
+Rounds 20 Output Raw
+人
+HEX-HEX-HEX-
+Lqi1Ceebj8st3VKygQALNMphb6DJTsXyia15LL7XMRG07B+afzzNCthxcZUqEt2m7E1 It/biofDgmZdUjIDNOgmLLduA7o3exjwOxYak/Klb
+Bc1e8
+1 Output
+ LF
+TrRaw Bytes
+a石
+司
+电
+//storage/emulated/e/Android/data/com.example.liekai/files/recording/1753597638259

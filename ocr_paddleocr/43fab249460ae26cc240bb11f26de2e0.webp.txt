@@ -1,0 +1,62 @@
+# OCR: 43fab249460ae26cc240bb11f26de2e0.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/43fab249460ae26cc240bb11f26de2e0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+www/server/panel/data 文件名称～
+panel (35,195)
+门
+data (188) =
+db(3)
+firewall(53) session(1) sessfiles(1) warning(86)
+warning_report (2)
+404.html 502.html
+admin_path.pl
+breaking_through.json default.db
+defaultDoc.html dingding.json download.p empty.html
+filepermissions.db homejson
+install_pycountry.pl install_pyroute2.pl 自iplist.txt
+jsrandom.pl last login.p 自libList.conf list.json
+logintoken.pl
+卷 offset
+文件
+0
+07250280448 070500O046A
+2F Oo
+1 61 o0
+预览
+2 32 0
+3 64 o0
+详细
+4 33 0
+5
+65 o0
+口缩略图
+6
+31 0
+7
+36 00
+8
+31 00
+时间轴
+9 0A 00
+10 00 0
+11 00 o
+图例说明
+12 00 o
+?描述存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+门
+13 00 00
+14 00 00
+15 00 0
+?文件类型
+html html pl json db html json pl html db json p/ p/ txt pl pl conf json pl
+同步 V
+路径
+/www/server
+/www/server/pa www/serverlpa www/server/pa www/serverlpa www/server/pa(www/server/pa(www/server/pa www/serverlpa www/server/pa/www/serverlpa(www/server/pa(www/server/pa(www/server/pa/www/serverpa/www/server/pa www/server/pa/www/server/pa(www/serverlpa(www/server/pa www/serverlpa www/server/pa www/server/pa www/server/pa/www/server/pa www/serverlpa/www/server/pa
+M
+UTF-8
+/a2d3e161
+000000

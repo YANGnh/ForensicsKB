@@ -1,0 +1,21 @@
+# OCR: ba3e877edbfa6781391bbd9be3acf493.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/ba3e877edbfa6781391bbd9be3acf493.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+g
+三序号口1 口2 □3 口4 口5
+Ben的JumpStation>
+三头像过滤了
+三用户ID 过滤
+TeamViewer>
+548484365 705716888 701659933 702954756 548484365
+Y
+（687062512)
+三内部ID 过滤
+远程过我的用户
+三昵称
+Y
+过滤 Ben
+AliceCutter AliceCutter AliceCutter Ben

@@ -1,0 +1,38 @@
+# OCR: 6c64de9343047ef2a4aabdf96a5c58ac.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/6c64de9343047ef2a4aabdf96a5c58ac.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+更新你的Rocket.Chat新版本可用（6.7.1）
+管理
+Community
+Workspace Subscription 日
+国Engagement?
+Moderation Federation
+# 聊天室 9用户 Invites
+0
+Userstatus
+权限
+Devicemanagement 口
+?电子邮件收件箱发件人
+E Third-party login
+》集成山导入 BReports Sounds?表情符号
+X Beta
+Alpha
+Workspace Community
+Workspacenot registered Operatingwithinplanlimits
+VersionsupporteduntilSeptember1,2024
+Registerworkspace Deployment
+版本 6.6.3
+部署ID
+64bc8c39-ad4b-44a3-92f3-a70f91a6d841
+应用程序引擎版本 1.41.0
+Node版本 v14.21.3
+数据库迁移
+304(April27,202411:38PM) MongoDB
+5.0.24/wiredTiger(oplog已启用) 提交细节
+HEAD:(6098bc556)
+分支：HEAD Release 6.6.3
+PID 1
+实例

@@ -1,0 +1,13 @@
+# OCR: 8be61ca0b27162af2b2376d2b7ae3b38.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/8be61ca0b27162af2b2376d2b7ae3b38.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+c:
+服务器： Address:
+>nslookup-type=Mxchen.foren6
+dns1.hnsdns.com 139.144.68.241
+非权威应答：
+chen.foren6
+Mxpreference= 0,mailexchanger=mail.163.com

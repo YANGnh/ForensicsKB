@@ -1,0 +1,13 @@
+# OCR: a6745fcb7d0972482fe89b0eaa9e3a19.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/a6745fcb7d0972482fe89b0eaa9e3a19.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+检材5>企业微信>王开心（1688856484511900）>账号信息
+三序号口1
+三头像过滤囍
+用户ID 过滤
+三内部ID 过滤
+1688856484511900
+三昵称过滤王开心

@@ -1,0 +1,20 @@
+# OCR: 47ed0dd8890b03a7bba6a11cd7bd46ed.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/47ed0dd8890b03a7bba6a11cd7bd46ed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+三序号口17
+三名称过滤 58同城
+Y
+三包名过滤
+com.wuba
+三版本名称过滤
+三应用分类*
+其他
+三应用类型*
+非系统(非预装)
+三安装时间起始
+结束
+2025-06-1315:58:29
+起

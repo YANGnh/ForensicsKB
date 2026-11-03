@@ -1,0 +1,22 @@
+# OCR: 432e86803c1f00db4f48826dd41d01ac.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/432e86803c1f00db4f48826dd41d01ac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+持有人：Alice
+Alice的安卓手机 Alice的Macbook 基本信息（分区5）
+四?
+系统信息安装记录开关机时间已安装软件系统软件其它软件
+?时区信息
+450/25089 1/663987
+990 10 22 8 73 54 19 1
+回
+SoftNameincteamv"
+三序号 1 口2 口3
+三软件名称 teamv
+TeamViewer_Desktop
+TeamViewerNote TeamViewer
+三版本名称
+过滤 15.55.3 1.0 15.55.3
+三公司名过滤 Copyrig Copyrig Copyrig

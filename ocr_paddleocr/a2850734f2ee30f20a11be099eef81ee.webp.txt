@@ -1,0 +1,19 @@
+# OCR: a2850734f2ee30f20a11be099eef81ee.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/a2850734f2ee30f20a11be099eef81ee.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+1
+三序号 □1
+Macinc14:F2:87:6C:1C.
+三名称过滤 Zozly
++
+三Mac地址
+14:F2:87:6C:1C:3A 14:F2:87:6C:1C:3A
+三状态*
+Y
+三最近连接时间
+起始
+结束
+Y

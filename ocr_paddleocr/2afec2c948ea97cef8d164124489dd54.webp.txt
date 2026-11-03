@@ -1,0 +1,11 @@
+# OCR: 2afec2c948ea97cef8d164124489dd54.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/2afec2c948ea97cef8d164124489dd54.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+GET/reV.txtHTTP/1.1
+User-Agent:Wget/1.13.4(1inux-gnu） Accept：
+Ho5t:192.168.75.132:2000
+Connection:Keep-Alive HTTP/1.0200OK
+Server:SimpleHTTP/0.6Python/3.11.8 Date:Wed31Jul202406:44:32GMT Content-tvpe:text/plain

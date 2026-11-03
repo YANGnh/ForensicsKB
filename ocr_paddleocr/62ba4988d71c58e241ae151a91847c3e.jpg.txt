@@ -1,0 +1,24 @@
+# OCR: 62ba4988d71c58e241ae151a91847c3e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/62ba4988d71c58e241ae151a91847c3e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+新建连接（MySQL)
+常规连接名：主机：端口：用户名：密码：
+园
+高级
+数据库 Navicat
+测试连接
+SSL
+SSH 白
+HTTP
+SSH服务器
+网站服务器 127.0.0.1
+3306 lroot
+连接成功
+确定
+x
+数据库确定
+取消
+X

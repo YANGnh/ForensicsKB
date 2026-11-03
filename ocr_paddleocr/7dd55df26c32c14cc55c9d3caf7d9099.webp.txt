@@ -1,0 +1,41 @@
+# OCR: 7dd55df26c32c14cc55c9d3caf7d9099.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/7dd55df26c32c14cc55c9d3caf7d9099.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+Recipe RC4
+Passphrase
+1Njc2NTQ2M.
+UTF8
+Inputformat Latin1
+A
+a
+AOH
+Outputformat Latin1
+Input
+rs~yNkIWUxcsR%u.$o7uEA0-haD,b4*QV-99.?0.[g+uJ!uA^JeartorJsus2.10%"10E.Pes*eOora1)0-{A 6hyGBEca+*+@caxGE+aweiSAOBAeJiLk+csUiDAes+AC/i^is+&+Sf
+@B;a+POfj++;ne.Y°00fjO+0(_XLciwx+B4u<EAip·)?QXswuAYuSxl·|0·e%se;0sowxDxs+y-μj%·gLdmqwh+ =Ji"te-3.V-rsous*OSaDSM..Ue+F*<RsaCu^u00A40uEICoc*sQJaROH2ewLw->**3**.c UEXp0/Hz08c_&A+soO.Dk@s-%s#.&reou%h0c00U**tsco
+.*acxaxAsBca-,pV*+uCras·i4-eP9+gNE5-/?sueSsuksgx?ocae*+Jyh-Fh8PUnEVo-UJAi.**o001A*p"g\5ey#cYN+4c(.A.pXcN+?[Ci+p.bia..iacE*K$ccakaeex6e[0he*e%..%p<e)Q*aH!Q-0s*ueCALOeS06Ba,-ase(&u0500."0b>-ee.(QZ
+ela<i[.fcUriaeBD<yayIsei\dhkAMHBIaj0+x>CeWEvxeoieNunUcwySr9Ece+*aK i%.8"T+wL@o]T".A<YA2KScaCusEA<se.5#-yAcssT[DDV%asSe?""a.W-?..-AsKUC-locJ]spU)! Or%YR3N+ur+ei*s*-a/"Oy~muceor+l.Y+0)1@XEg4C%si,X%so<_PaiS4K4esAcmSc X&EgouOK.e*y(a\bf)o-UacaeorWew*aD*s"cwi8uZ·n*pusH8wup?0ax!*7y+ew+X
+P.80-@-YnEn+imSM"E.*snX%ic6-OF"m+EOMyak:*cinE&0-?en-0QeymDa2"h·Ieo"IAcsUex.q u*GC.".O.;Y-[+(Og0.I-SazA<*<En"-00AA0D5Y--/.I5ycusd-/K..tc/RDXcs*
+aAEa
++m+EA.rO0as2fIEft5>jXeusi..NXs"CE,0a+.KYDD:9[Xp
+,?;HUu?
+$..Dys;nesjY<besc'fs++^x%mx#UsunEu[7Q\d(.*0YEkf|cw+Qso*+.X-Og+nx$+mtorU;*-yBUaA!agw-Xg >XAo_EXU"srfa8R..IT+X++su+8@&xEswp?D+.**acO-|.%aAUc.kpOAnd%$KMIes+ePc'UQ*km+]-y
+"a*s+EEtcU1UcEac%PQ(5.**sGg?f0~UW60AY.ae~Esw-+esA'BgFa.0?kiB60L<a(+A.0~.JiW+A0: 159232
+三598 Output
+MZSILETENULNULNULEOTNULULSULyyNULNUENULSULNULNULNLAULIULNULNILMLAULULNULSUL
+f!.sowLf!ThisprogramcannotberuninDosmode.cwcwShumwwLwuwuLnJcas
+sos
++口田
+Filedetails
+Name: Size:
+RnRGaWxlcy5l 159.232bytes
+Type:
+unknown
+Loaded:100%
+Tr Raw Bytes a石团
+RNULNULSO
+soyseasoysodsyzbesonayabeswu.
+OEsonLpUtoryso Ousyce UieLyso Ousyur Uiwuyse Qusyri-yse OEsonus (sryse Esow srUyse O soysr Doyso yauirrysoOyso Useyso O+yhd ssyso -y

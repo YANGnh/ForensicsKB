@@ -1,0 +1,11 @@
+# OCR: 1eab0da71f7e359f28082ccfc977ab51.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/1eab0da71f7e359f28082ccfc977ab51.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+examples
+clientjson-example（）config.json
+forward.json-example
+nat.json-example serverjson-example trojan.service-example
+config.json

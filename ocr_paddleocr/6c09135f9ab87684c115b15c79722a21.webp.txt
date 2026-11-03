@@ -1,0 +1,17 @@
+# OCR: 6c09135f9ab87684c115b15c79722a21.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/6c09135f9ab87684c115b15c79722a21.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+Connect </button> </h3>
+<divid="panelsStayOpen-collapseFooterOne"class="accordion-collapsecollapse>
+<divclass="accordion-bodyp-o"）
+<ulclass="p-om-0">
+<li class="list-group-item text-white mb-3">Revtel</li>
+<liclass="list-group-itemmy-2"ahref="#”class="text-decoration-n
+ne>13170010703</a）
+</1i>
+<li class="list-group-item">Ka href="#"class="text-decoration-none">mailme@chen.foren6</a>
+</1i> </ul>
+</div> </diy>

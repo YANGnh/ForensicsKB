@@ -1,0 +1,65 @@
+# OCR: 774936f129c911581f98602ed20914b1.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/774936f129c911581f98602ed20914b1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+品
+Detect It Easy v3.10 [Windows 10 Version 2009] (xB6_ 64 文件名
+Isigned_xz.exe
+文件类型 PE32
+文件信息 MIME
+PE 节
+0005 PE
+重新加载
+文件大小
+53.71MiB
+内存映射 Visualization
+导出时间载
+> >
+OVirusTotal
+·
+Visualization
+四十六进制集反汇编·品制·字符串·签名
+.
+内存映射
+·信息摘·提取器.
+携素 O工具集
+OIMAGE_DOS_HEADER O IMAGE_NT_HEADERS
+反汇编糖带导入
+2020-08-2613:03:11
+基址
+00400000
+十六进制哈希资源镜像大小
+035becc8
+#名称 o text 1 rdata 2 .data 3 .rsrc 4 .reloc
+O IMAGE_FILE,HEADER
+O IMAGE_OPTIONAL_HEAD..-
+OIMAGE_DIRECTORY_E
+Q节
+Q信息 O导出 0导入信息 O资源-
+O版本 0显示 o证书 O重新定位
+字符串信息 NET
+入口点
+0046f486
+签名提取器 TLS
+资源
+显示
+相对地址(RA)
+00000000 00001000 0008d000 000a5000 0nabo0 03565000
+虚拟大小 00001000 0008c000 00018000 00006000 0350a000 0009cc8
+VirusTotal YARA 附加
+版本
+文件偏移 00000000 00000200 0008c000 000a3a00 000a5c00 035af400
+口
+x
+V高级选顶符号重组
+大小标志奇存器
+00000200 0008bd5aRE 00017827R 000021ecRW 03509800R 00007594R
+信息文件头
+口
+x
+区只读保存
+(Compiler) Code Section
+(Compiler) Read-only initialized Data Section (MS and Borla.(Compiler) Data Section
+(Compiler)Resourcesection(Compiler) Relocations Section

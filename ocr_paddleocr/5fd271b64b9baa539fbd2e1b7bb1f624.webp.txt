@@ -1,0 +1,23 @@
+# OCR: 5fd271b64b9baa539fbd2e1b7bb1f624.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/5fd271b64b9baa539fbd2e1b7bb1f624.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+15
+融虫
+360借条
+身份证贷
+2522
+5000 200000
+365
+0.1
+¥100
+￥10.00
+￥0.00
+月结
+10
+1
+申清地址
+2018/10/09
+编辑| 除

@@ -1,0 +1,19 @@
+# OCR: dded02dd0672c18f6061cb3ee5b94b0b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/dded02dd0672c18f6061cb3ee5b94b0b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+口
+公
+三序号口1 2 口3 4 口5 6 7 口8
+data.E01/分区4/images
+名称过滤
+100 101 120
+(1)(1)
+110 (1) 102
+(2)
+112 103
+(1)
+111(1)
+大小等于 4KB 4KB 4.KB 4KB 4KB 4KB 4B 4KB

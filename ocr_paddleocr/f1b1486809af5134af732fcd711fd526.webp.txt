@@ -1,0 +1,39 @@
+# OCR: f1b1486809af5134af732fcd711fd526.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/f1b1486809af5134af732fcd711fd526.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+X go o 昭? 6
+文件(E)
+编辑(E)
+资源管理器 V笔记-副本 >ets
+选择(S)
+管看V
+转到（G
+vresources base vmedia
+background.png aforeground.png layered_imagejson
+starticon.png vprofile
+backup_config.json main_pagesjson
+E.pages.info module.json pack.info
+pkgContextinfo.json resources.index
+运行(R)
+终端(T
+帮助(H)
+pack.info pack.info
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+X
+"summary":{
+"app"：{
+8笔记-副本
+"bundleName":"com.example.pgsdsj"
+"bundleType"："app","version":{
+"code"：1000000"name""1.0.o"
+"modules":[
+"mainAbility":"EntryAbility""deviceType"：［
+"phone"
+"abilities":[
+"name":"EntrvAbility"
+"labei":"sstring:EntryAbitity_label"
+」，
+8

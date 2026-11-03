@@ -1,0 +1,9 @@
+# OCR: 399f51752570095ec89566d581620067.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/399f51752570095ec89566d581620067.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+文件名称：1【】0.jpg
+文件大小：6.92MB(7,265,287字节）
+MD5:C2A8300C87F86BD04B4AEA42E7D6B83C

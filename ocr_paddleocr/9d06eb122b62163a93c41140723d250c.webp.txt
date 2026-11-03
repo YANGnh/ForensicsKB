@@ -1,0 +1,36 @@
+# OCR: 9d06eb122b62163a93c41140723d250c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/9d06eb122b62163a93c41140723d250c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Detect It Easy v3.10 [Windows 10 Version 2009] (x86_64) 件名
+G:/2025FIC决赛\exports/recphrase
+件类型 ELF32
+D文件信息 MIME
+DELF 序
+0003
+描自动 ELF32
++
+文件大小
+43.07 MiB 常内存映射图可视化
+节
+0003
+强反汇编 0搜索
+字节序
+LE
+操作系统：Linux[ARM,32位，DYN] 打包工具：UPX（4.22)[NRV.brute
+附加：Binary[偏移=0x6000,大小=0x02b0afc8]
+未知：未知
+签名
+标志
+数据库
+基址（BA）
+00000000
+回十六进制#哈希
+模式
+32位
+国字符串来信息摘
+架构
+入口
+ARM

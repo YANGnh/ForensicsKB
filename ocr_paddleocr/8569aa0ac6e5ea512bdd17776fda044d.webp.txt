@@ -1,0 +1,28 @@
+# OCR: 8569aa0ac6e5ea512bdd17776fda044d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/8569aa0ac6e5ea512bdd17776fda044d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+原类型视图未删除记录
+文本视图
+androidmetadata
+folder note
+roommastertable sqlite sequence tag
+widget
+0 0 0
+十六进制视图
+=description
+"note":[{"format":"HEADING"."text":"接头暗号".""format":"IMAGE""tex.."note":[{"format"："HEADING""text""我的博客地址")."format""TEXT"".("note":I"format""HEADING"."text":"pc密码"."format":"TEXT"."text":"..
+JSON编辑器
+Json×
+3 2 3 4 5 6
+> 8 9 18 11 12
+V
+V
+V
+"note"：［
+note-database =displayTimestamp
+"format"："HEADING"
+"text"："pc密码”"format"："TEXT""text"："1qaz2wsx"
+1

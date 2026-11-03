@@ -1,0 +1,15 @@
+# OCR: 402b4d9df713f76b02164c59be2233ff.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/402b4d9df713f76b02164c59be2233ff.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+新增磁硅區(D:)
+名桶
+export-token-0x56E7A6dd8aA1c78ba77944C94c43054978E89b7b.csv
+★ ★
+RecordA2023-24.xlsx Record_B_2023-24.xlsx RecoverySeed jpg
+修改日期
+9/9/202416:29 30/8/202417:03 30/8/202417:03 30/8/202417:12
+型
+CSV榴案 XLSX榴案 XLSX榨案 JPG榴案

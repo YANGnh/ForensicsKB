@@ -1,0 +1,37 @@
+# OCR: 6f5317d54636cb223d2da47f454b5daf.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/6f5317d54636cb223d2da47f454b5daf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+droid@node1:sudodockerps-a CONTAINER ID
+IMAGE
+NAMES
+451a0978d664
+redroid/redroid:12.e.e-latest
+5555/tcp:::5555->5555/tcploving_shtern
+054c638ab04f
+redroid/redroid-12.e.e-latest
+5555/tcp.:::4444->5555/tcpagitatedgauss
+e00c2808fc54
+redroid/redroid:12.0.0-latest
+5555/tcp，：::3333->5555/tcp
+qoofy euclid
+bd3fe2e57421
+redroid/redroid:12.0.0-latest
+5555/tcp,::.2222->5555/tcp
+sweet pare
+380e5b2c8b98
+redroid/redroid:12.e.e-latest
+COMMAND
+"Jinit androidboot.h_""/init androidboot.h_""/init androidboot.h.""/init androidboot.h.""/initandroidboot.h."
+5555/tcp，:..1111->5555/tcp.
+priceless knuth
+droid@node1: sudo docker start priceless_knuth priceless knuth
+CREATED
+2months ago 2 months ago 2 months ago 2months ago 2months ago
+STATUS
+Exited (255)8 weeksago Exited(255)8weeksaqo Exited (255)8weeksaqo
+Exited (255)22minutes ago Exited(255)22minutesago
+PORTS
+0.0.0.0:5555-> 0.0.0.0:4444-> 0.0.0.0:3333-> 0.0.0.0.2222-> 0.0.0.0:1111->

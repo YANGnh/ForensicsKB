@@ -1,0 +1,25 @@
+# OCR: 14328e65fe1562cf3e67a3499c70cfb0.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/14328e65fe1562cf3e67a3499c70cfb0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+合
+个
+RecoverFilePassword
+recoveryPagetabs_files
+x国
+名单.xlsx
+文件位置文件类型 Protection 复杂度 MD5:
+recoveryPage_tabs_report
+C:)Users)32622>Desktop>2024FIC
+recoveryPagetabs_resources
+工具
+recoveryPagetabsperform
+MsOffice2oo7-OpenPassword,Hardwareaccelerationpossible,InstantMemoryattackpossible
+Microsoft Enhanced RSA and AEs Cryptographic Provider,128 bits.0.0-Brute-force-Slow
+00C53564ABA0692990A17DE11514D7DA
+Passwords:File-Open
+File-Modify
+aa123456
+好像没有设置密码捏

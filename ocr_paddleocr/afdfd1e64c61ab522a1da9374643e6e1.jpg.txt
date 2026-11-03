@@ -1,0 +1,21 @@
+# OCR: afdfd1e64c61ab522a1da9374643e6e1.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/afdfd1e64c61ab522a1da9374643e6e1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+向 G
+口
+BT宝塔纯净版
+不安全
+X
+源码交易·后台管理中心
+yourcode.xyz/admin/auth/login
++
++
+源码交易欢迎回来，请登录您的账号。
+用户名密码
+口记住我
+登录
+A
+★

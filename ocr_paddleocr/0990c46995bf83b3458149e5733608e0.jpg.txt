@@ -1,0 +1,14 @@
+# OCR: 0990c46995bf83b3458149e5733608e0.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/0990c46995bf83b3458149e5733608e0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+智EB服务启动程序exe
+弘连比式-EB专用启动器赵弘开发
+EB
+mysql启动完成 mysql启动完成
+FS启动完成 java启动完成 nginx启动完成 nginx启动完成
+启动服务
+停止服务
+回区

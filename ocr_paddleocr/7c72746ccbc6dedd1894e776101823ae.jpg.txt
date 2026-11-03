@@ -1,0 +1,21 @@
+# OCR: 7c72746ccbc6dedd1894e776101823ae.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/7c72746ccbc6dedd1894e776101823ae.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+三序号口1
+计算机/文件分类/加密文件/TrueCrypt容器
+名称过滤
+storage
+■大小等于 100MB
+三创建时间
+起始
+结束
+2023-02-1716:18:07
+修改时间
+起始
+结束
+2023-02-1616:48:34
+全路径过滤
+计算机.E01/分区2/Users/admin/Documents/新建文件夹/storage

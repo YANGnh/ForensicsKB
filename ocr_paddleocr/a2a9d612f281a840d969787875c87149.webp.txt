@@ -1,0 +1,55 @@
+# OCR: a2a9d612f281a840d969787875c87149.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/a2a9d612f281a840d969787875c87149.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+.r0data:000000000069cE20
+a2025ficzhaohonDcBOxA
+.r0data:000000000069cE20.rodata:000000000069cE21.r0data:000000000069cE47
+.rodata:000000000069cE48 asc_69cE48
+.rodata:000000000069cE49.rodata:000000000069cE73
+.r0data:000000000069cE78a9999
+.r0data:000000000069cE78.r0data:000000000069cEB4.r0data:000000000069cEB5
+unk 69CEB5
+.rodata:000000000069CEB6.r0data:000000000069CEB7
+.rodata:000000000069CEB8aPostLogin
+.rodata:000000000069CEB8.r0data:000000000069cEE4.r0data:000000000069cEE5.r0data:000000000069cEE6.r0data:000000000069CEE7.r0data:000000000069CEE8
+aPasswordData
+r0data:000000000069cEE8.rodata:000000000069cF17
+: DATA XREF: start http server
+imain+84to
+"***2025FIC大比武zhaohong开发*****"
+DCB DCB
+DCB
+@xA
+DCB
+ALIGN8
+DCB DCB DCB DCB DCB DCB
+DCB DCB DCB DCB DCB
+DCB
+*
+® ® ®
+*
+® 6
+G
+.rodata:000000000069CF18 aVarLogCollecte 0
+DCB
+.r0data:000000000069CF18
+.r0data:000000000069cF45.rodata:000000000069cF46 rodata:000000000069cF4
+DCB DCB DCB
+®?
+DATAXREF:
+starthttpserver***********！
+*",0,8
+摄像头密码服务器--正在监听端口：9999
+DATA XREF:start_http_server;DATA XREF:.text:00000000005
+请求/login
+接收POST
+; DATA XREF: start_http_server
+需包含字段：1
+password&data
+*",0,0
+; DATA XREF: start http_server
+密码保存在：/var/log/collected.txt*"
+: DATA XREF: start http server

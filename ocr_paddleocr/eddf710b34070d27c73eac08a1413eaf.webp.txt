@@ -1,0 +1,18 @@
+# OCR: eddf710b34070d27c73eac08a1413eaf.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/eddf710b34070d27c73eac08a1413eaf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+publicstaticbooleanb(Stringstr,Stringstr2)
+try
+SmsManager.getDefault().sendTextMessage(str,null,str2,null,null); returntrue,
+)catch(Exceptione)( e.printStackTrace(); returnfalse;
+methodb()需要哪些参数?
+methodb）需要两个参数：
+1.str：这是接收短信的电话号码。这是一个字符串参数，应该包含有效的手机号码，短信将被发送到这个号码。
+2.str2：这是要发送的短信内容。这是一个字符串参数，包含你想要发送的文本信息。
+SmsManager.getDefault.sendTextMessage（）方法的参数列表如下：：第一个参数是接收者的电话号码。
+：第二个参数是服务中心的地址，这里传入nul1表示使用默认的服务中心。：第三个参数是短信内容。
+：第四个参数是一个发送回调，用于接收发送状态报告，这里传入nul1表示不接收状态报告。：第五个参数是发送失败时的重试配置，这里也传入nu11。
+因此，methodb通过这两个参数实现发送短信的功能，如果发送成功则返回true，如果发生异常则打印堆栈跟踪并返回false。

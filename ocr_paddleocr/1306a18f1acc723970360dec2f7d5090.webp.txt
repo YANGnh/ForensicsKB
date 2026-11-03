@@ -1,0 +1,23 @@
+# OCR: 1306a18f1acc723970360dec2f7d5090.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/1306a18f1acc723970360dec2f7d5090.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+1.计算机检材.E01：
+三序号 □1X □2X □3X
+三发送时间
+起始
+结束
+win10通知>
+Windows.Defender.SecurityCenter
+三消息内容过滤
+2025-10-0919:45:41 2025-10-0919:41:53 2025-10-0919:45:26
+威胁扫描信息WindowsDefender防病毒无法完全消除潜在威胁发现威胁WindowsDefender防病毒发现威胁。获取详细信息。发现威胁WindowsDefender防病毒发现威胁。获取详细信息。
+在Windows.Defender.S
+Q
+三源应用程序过滤
+EQ高级
+设置
+Windows.Defender... Windows.Defender... Windows.Defender....
+列

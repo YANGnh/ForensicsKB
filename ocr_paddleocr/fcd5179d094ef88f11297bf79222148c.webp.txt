@@ -1,0 +1,28 @@
+# OCR: fcd5179d094ef88f11297bf79222148c.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/fcd5179d094ef88f11297bf79222148c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+仪表板
+主界面
+Docker
+共享
+用户
+设置
+插件
+DOCKER
+应用
+工具
+启用Docker:
+启用容器页面的readmore-js
+Docker停止超时（秒）限制Docker进程数
+Docker版本
+Docker虚拟硬盘位置
+Docker存储驱动
+默认应用数据存储位置
+是是 10 2048 27.0.3
+/mnt/disk1/docker.img native
+/mnt/disk1/
+应用
+完成

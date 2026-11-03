@@ -1,0 +1,22 @@
+# OCR: 4a0ce11ca4853c814b380189482823f2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4a0ce11ca4853c814b380189482823f2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+HashMyFiles
+File
+Edit
+View
+口国区
+Filename*1jpg
+Options
+Help
+曾图
+MD5
+c2a8300c87f86bd04b4aea42e7d6b83c
+Full Path
+FAFIcFinalFilel1.jpg
+口
+x
+Modified Time 2025/5/1611:26:

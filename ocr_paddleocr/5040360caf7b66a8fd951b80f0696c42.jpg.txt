@@ -1,0 +1,36 @@
+# OCR: 5040360caf7b66a8fd951b80f0696c42.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/5040360caf7b66a8fd951b80f0696c42.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+应用多称应用大小
+总览全部信息全部
+威尼斯 APK文件
+威尼斯 5.69MB
+URL 序号 m
+详细信息学符串
+添加标记分析结果
+应用关型证据编号
+静态权限
+其他
+20240511152044908
+第三方服务
+来源文件
+http://192.168.137.125/Home/Run/index http://192.168.137.125/Home/Run/index http://192.168.137.125/Home/Run/index http://192.168.137.125/Home/Run/index
+应用包各创建时间
+网络数据包
+w2a.W2Ah5.jsgizfx.org.cn 2024-05-1115:20:51
+动态监控
+assets/apps/W2Ah5.jsgjzfx.org.cn/www/manife st.json
+assets/apps/W2Ah5.jsgjzfx.org.cn/www/manife stjson
+assets/apps/W2Ah5.jsgjzfx.org.cn/www/manife stjson
+assets/apps/W2Ah5.jsgjzfx.org.cn/www/manife st.json
++ 添加
+应用版本
+源码分析
+Q搜索
+来源代码文件
+@自动分析 12
+敏感信息
+出导出报告 Frida脚本 C重新分析

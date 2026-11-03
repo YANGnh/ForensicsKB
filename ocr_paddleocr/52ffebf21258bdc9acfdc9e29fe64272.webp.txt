@@ -1,0 +1,22 @@
+# OCR: 52ffebf21258bdc9acfdc9e29fe64272.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/52ffebf21258bdc9acfdc9e29fe64272.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+导出照片
+Scan result (FATflesystem;95.17MB in244 fle
+Name
+SRECYCLE.BIN
+System Volume Information
+导出照片航母
++
+象棋旅风6.2正版飞机
+IMG_20231003_152832.jpg IMG_20231003_174239.jpg IMG_20231003_212941.jpg IMG_20231004_100951.jpg IMG20231021_191545.jpg IMG_20231102_183944.jpg IMG_20231102_184042.jpg IMG_20231103_175608.jpg IMG_20231105_214409.jpg IMG20231118_131558.jpg IMG_20231126_185924.jpg IMG_20231128_183039.jpg IMG_20231129_164835.jpg
+Selected File"IMG20231129_164835.jpg"withownsize2314871bytes
+IMG_20231129_164835.jpg Picture
+Modified: 29.11.2023 23:51:44 Size:2MB
+View
+Saveas...
+··
+.

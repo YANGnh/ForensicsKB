@@ -1,0 +1,9 @@
+# OCR: ad8c55c4daa55037ea7af12720ceeb01.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/ad8c55c4daa55037ea7af12720ceeb01.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+oss:
+endpoint:oss-cn-hangzhou.aliyuncs.com accessKeyId：[REDACTED_ALIYUN_ACCESS_KEY_ID]
+accessKeySecret:[REDACTED_ALIYUN_ACCESS_KEY_SECRET] bucketName:sxj-cal

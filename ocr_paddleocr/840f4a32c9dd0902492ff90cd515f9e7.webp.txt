@@ -1,0 +1,10 @@
+# OCR: 840f4a32c9dd0902492ff90cd515f9e7.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/840f4a32c9dd0902492ff90cd515f9e7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+.env-记事本
+文件(F)编辑(E)格式(O)查看(V)帮助(H) PORT=3000
+MONGODBURl=mongodb://localhost:27017/crm AESSECRETKEV=OxK8s4PiZ9LmRVT6BnE3F5
+WTSECRET=SJWt7HnX2MdP5KaLz8B+R9CyA3eG6

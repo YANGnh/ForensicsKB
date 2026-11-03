@@ -1,0 +1,18 @@
+# OCR: bda211fadadbcb151551a5e407d35b9a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/bda211fadadbcb151551a5e407d35b9a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+g
+爵：检材1-手机.tar
+一拦序号口1
+三名称过滤
+基本信息>
+应用列表
+三包名 magisk
+com.topjohnwu.magisk
+三最后使用时间
+起始
+结束
+2025-05-13 12:48:07

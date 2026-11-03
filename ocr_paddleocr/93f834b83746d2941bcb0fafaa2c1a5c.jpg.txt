@@ -1,0 +1,24 @@
+# OCR: 93f834b83746d2941bcb0fafaa2c1a5c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/93f834b83746d2941bcb0fafaa2c1a5c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+vm-112-disk-0.qcow2>图Linux基本信息>vm-112-disk-0.qcow2/分区7>系统信息
+口三序号口1 □2 3 口4 口5 口6 口7
+三名称过滤主机名
+操作系统类型操作系统版本操作系统名称
+系统版本号（小写）系统
+内核版本
+Y
+三英文名称过滤
+hostname OS_TYPE OS_NAME
+MATERIALSNAME
+VERSION_ID PRETTY_NAME Kernel
+Y
+值过滤
+openEuler
+22.03(LTS-SP3)
+openEuler 22.03
+openEuler22.03 (LTS-SP3)
+5.10.0-182.0.0.95.0e2203sp3.x8664

@@ -1,0 +1,39 @@
+# OCR: 037cc0ef47f320e5c7b8cfe8256938ce.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/037cc0ef47f320e5c7b8cfe8256938ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+linux.conf@C:/hlnet/1-1748241630/检材1-手机.tar/data/user/0/ru.meefik.linuxdeploy/files/config*-Kate
+文件(E
+编辑(E)
+口新建了
+选择(C)
+B打开..
+视图M
+转到(G)
+日保存
+ linux.conf×
+32
+国
+33 34 35 36 37 38 39 40 41 42 43 44 45 46
+工程(P)
+B》另存为
+LSP客户端(L) 5撤销
+SUITE="bookworm
+会话() 重做
+工具口
+设置(S)
+帮助（(H)
+TARGETPATH="SEXTERNALSTORAGE/UUID"
+TARGETTYPE="file" USERNAME="android"
+USERPASSWORD="99c26da5" VNC ARGS-"I
+VNCDEPTH="16" VNC DISPLAY-"O" VNCDPI="75"
+HEIGHT="1080"
+VNC
+VNC X11 X11
+WIDTH="2320″ DISPLAY-"O"
+HOST=″127.0.0.1"
+Xl1 SDL="false"
+X11SDLDELAY="15"
++ 品

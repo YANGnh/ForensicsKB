@@ -1,0 +1,27 @@
+# OCR: deaed485965cbca2a1d7815116ec566c.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/deaed485965cbca2a1d7815116ec566c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+root@Tower:/boot/Logs#dockerstartfe fe
+root@Tower:/boot/Logs#AC
+root@Tower:/boot/Logs#dockerstart18 18
+root@Tower：/boot/Logs#dockerps
+CONTAINERID
+IMAGE
+COMMAND
+CREATED
+NAMES
+"docker-php-entrypoi.."
+www-web
+feec46efa566
+0:8080->80/tcp，:::8080->80/tcp
+mysql:5.7"docker-entrypoint.s..
+182b0d619b1a
+0:3306->3306/tcp，:::3306->3306/tcp，33060/tcp
+4 weeks aqo www-web-1
+4 weeks ago www-db-1
+STATUS
+Up 9 seconds Up 4seconds
+PORTS 0.0.0 0.0.0

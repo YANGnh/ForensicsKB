@@ -1,0 +1,15 @@
+# OCR: 542203daae5df9289f33e3b9acb2b225.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/542203daae5df9289f33e3b9acb2b225.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+配置
+计划任多数据
+WEB容器 nginx
+远程数据」防火坛防火墙-防火墙
+备份路径/www/backup
+配置
+WEB容器：nginx
+备份路怪：/www/backup 网站路怪：/www/wwwroot MVSQL管理员密码：123456
+OK

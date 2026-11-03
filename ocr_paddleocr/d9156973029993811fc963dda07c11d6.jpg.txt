@@ -1,0 +1,20 @@
+# OCR: d9156973029993811fc963dda07c11d6.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/d9156973029993811fc963dda07c11d6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+49872→80[ACK1Seq=398Ack=88117Win=208000Len=0TSval=3813617066TSecr=820230
+Wireshark·导出·HTTP对象列表
+5 V 6
+4 h
+文本过滤器：分组主机名
+06b8dcf11e2f7adf7ea2999d235b8d84.php
+内容类型 text/html
+2018192.168.85.250
+大小 87kB
+文件名
+口
+x
+Content Type:All Content-TypesV
+06b8dcf11e2f7adf7ea2999d235b8d84.php

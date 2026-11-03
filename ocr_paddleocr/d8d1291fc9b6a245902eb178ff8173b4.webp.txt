@@ -1,0 +1,10 @@
+# OCR: d8d1291fc9b6a245902eb178ff8173b4.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/d8d1291fc9b6a245902eb178ff8173b4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+■mm.bt-记事本
+文件(F)编辑(E)格式(O)查香(V)
+帮助(H)
+新建文本文档.txt是容器密码

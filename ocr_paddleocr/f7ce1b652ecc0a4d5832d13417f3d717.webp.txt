@@ -1,0 +1,10 @@
+# OCR: f7ce1b652ecc0a4d5832d13417f3d717.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/f7ce1b652ecc0a4d5832d13417f3d717.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Manifest.plist
+total: 10, not started:2,
+Attacks 75966
+Mutations

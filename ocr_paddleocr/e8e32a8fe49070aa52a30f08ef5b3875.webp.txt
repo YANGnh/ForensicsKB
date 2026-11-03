@@ -1,0 +1,26 @@
+# OCR: e8e32a8fe49070aa52a30f08ef5b3875.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/e8e32a8fe49070aa52a30f08ef5b3875.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+T
+111.txt-文本编辑器
+文件、 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+编辑
+搜素、
+偏好设置
+账号：user_357密码：m8@cJ5#y 账号：winnie9o密码：Pq7%rGf4 账号：alex_sky密码：6$dF*Nk9 账号：1una_star密码：hT2&mB3@ 账号：tom198密码：eW5#sL7^
+账号：rose_garden密码：Qz8!pY4@
+账号：jack_adventure密码：9sgH*jM3
+账号：amy_music密码：Rf6%nkK2# 账号：leoworld密码：3@bT*fL7
+账号：sophia_dance密码：yu4&mP9# 账号：david_sport密码：Kp8%hN3$ 账号：emily_art密码：5stG*rB2
+账号：williamtravel密码：Lq7#ds4@
+账号：olivia_read密码：xM2&fK6# 账号：noah_cook密码：4@zT*pL8
+状态：读取/写入
+编码：Unicode（UTF-8）
+行：10，栏：27
+?
+Text
+口
+x

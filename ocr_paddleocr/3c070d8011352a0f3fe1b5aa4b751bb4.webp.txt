@@ -1,0 +1,46 @@
+# OCR: 3c070d8011352a0f3fe1b5aa4b751bb4.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/3c070d8011352a0f3fe1b5aa4b751bb4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+1个文件模找测-挑素：市在EA顾正胜助,2024盘吉石杯第二赠典吉石杯-决爽\private(var(mobile)Containers)Shared/AppGroup/76D24375-B4D6-42D6-B0A1-4EDDFD417FEB)
+文撑(D
+确娠(E)
+D Q市
+著M
+日 x
+主界面
+选项文样客编N) 包含文本(C) 查投位置() 大小 (kB)
+日期
+率(S)
+工AD
+国日
+0)
+E:A联证检材)2024盘吉石邦)篇二量盘吉石杯-决赛/privatelvarymobileContai
+iners)Shared/AppGroup/76D24375-B4D6-42D6-80A1-4EDDFD417FEB
+修改日期
+名称
+20240521-11162
+检置
+E联证检，2024册-capel
+大
+携要
+匹配
+蒙于：今天按
+单于：
+今天
+四子文件奕(U)
+Aa Aa
+? 国
+o 专家开始
+E:i证检H/2024石托二盘占石纤-决塞grivatelwarmobile/Comtainers1Shared/AppGroup:76D24375-84D6-4206-80A1.4E00FD417FEBicape/20240521-11627Cloak.Jog_(9 KB,2024-05-22 18-27:59)
+2024-05-21 19:16:30.496000+0800 [CloakkitZonesView.swift:429:iocafionManager_:didUpdateLocations:)I locations:[+30.58276664,+104.05978973> +)- 51.00m (speed-1.00 mps /course -1.00) @ 2024/5/21 中(国标:i) 19:16:07]2024-05-21
+x v
+停止
+000+0800 [CloakknZonesVlew.swit:429:locationManager_didUpdateLocatlons: locations:[+30.5B275554,+104.05978973> +-51.00m (speed-1.00 mps /course-1.00)@2024/5/21中国I:准时间19:16:30j2024-05-2119:15:33.055000+0800
+19:16:30.500 JCioalscnenon
+gp00-0800[CicakKZonesManager.swift:106:isOnMars(coordinate:JreverseGeocodeLocafion:coordinate=CLLocationCoordinate2D(attude:30.58276663508925,longitude: 104.05978972986394)
+n07dd7aem09405a10te4o
+placemarks州大道.中国四l省E市格区达道8@+30.58276664,+104.05978973>+y-100.00m,regionCLCiroularRegion (identifer.+30.58763300,+104.05925900>radus 2356.18,center.+30.58763300,+104.05925900>,
+radius z356.18m)/2024-05-21 19.16:43.8/5000+0800 [CloakKnizonesManager.swift:453:append(zone:) zone=Zone(id: CF6917D9-0A19-4D20-AAB9-B60CFBC2020E, groupID: nil, centerLat 30.58276663508925, centerLon: 104.05978972986394, radius: 100.0 restoreOnEnty: Optionaltrue),restoreOnEet Optionalfalse),targetID: Optional(58D14634-BEE1-4D77-8340-EEB2D38B42FB) isDangerZone: Optional(false).isOnMars: Optional(true)2024-05-2118:16:43.8810000800 [Nitrogen/Serialization.swit467) saving key= zonesConfiguration' value=t

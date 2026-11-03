@@ -1,0 +1,70 @@
+# OCR: 62e55b13dd728f40f84a5efd6dfc12d7.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/62e55b13dd728f40f84a5efd6dfc12d7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+口
+区
+口三序号口1 口2 口3
+详细信息
+Xiaomi_2309112201-1694430677.img/1/app/demo.honglian-mpZYIliXkYv8zw0q2rqA5Q==
+三名称过滤
+baseapk b
+oat (3)
+名称：
+base.apk 扩展名：apk 类型：文件
+大小：114.37KB
+2023-09-1119:07:22
+创建时间：
+2023-09-11 19:07:22
+访问时间：
+2023-09-11 19:07:23
+修改时间：
+MetaAddr:
+840587
+Xiaomi_2309112201-1694430677.img/1/app/demo.honglian
+全路径：
+mpZYliiXkYv8zw0q2rqA5Q==/base.apk
+SHA256: 加密类型：
+三大小等于
+114.37..
+4KB 4KB
+三创建时间
+起始
+结束
+2023-09-11 19:07:22 2023-09-11 19:07:26 2023-09-11 19:07:26
+AB70C58C24F8FFD8A9D6322216C7FD3F185373365C11FF3BF4D2543E2253CE7F 未加密
+已删除：
+否
+三修改时间
+起始
+结束
+Y
+2023-09-11 19:07:23 2023-09-11 19:07:26 2023-09-11 19:07:26
+原类型视图
+PAGE Name
+三全路径过滤
+在demo.hongl
+Xiaomi_2309112201-1694430677.img/1/app/demo.honglia Xiaomi_2309112201-1694430677.img/1/app/demo.honglial Xiaomi_2309112201-1694430677.img/1/app/demo.honglian
+文本视图
+META-INF
+MANIFEST.MF VANDROID.SF VANDROID.RSA
+Vres
+drawable
+bg7.png bjt.xml cs.png nej-png
+layout
+rg_n.xml
+十六进制视图
+SizeModified
+708 829 1,370
+81,349 1,440 6,553 631
+3,124
+rg_n21.xml
+AndroidManifest.xml
+resources.arsc classes.dex
+1,004 2,372 1,968 47,668
+2023-9-11 1:59 下午 2023-9-11 1:59 下午 2023-9-11 1:59 下午
+80-1-2 8:00上午 2023-9-11 1:59 下午 80-1-2 8:00上午 80-1-2 8:00上午
+2023-9-11 1:59 下午 2023-9-11 1:59 下午 2023-9-11 1:59 下午 80-1-2 8:00上午
+2023-9-111:59下午

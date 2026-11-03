@@ -1,0 +1,30 @@
+# OCR: c2f3461e365914660c008972f9e74c0b.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/c2f3461e365914660c008972f9e74c0b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+力
+子，
+"to":"0x64d079c7Ace663Bbe1D2C201072D63b036D16CcD"
+"data"："8xa9859cbb68060666808080800080680004de79c7ace663bbe1d2c281872d63b636d16ccde08008000600080006608080686800080608060668d3c21bcecced
+"chainId""ex38"
+"status":"failed","time":1723626245593,"txParams"：{
+"from"："exe90ad3f80e39e83b533eef3ed23c641ec51e89c6"
+"data："8xa9859cbb80000880000808080000008004d079c7ace663bbe1d2c201872d63b036d16ccde80000008000000808008800088880008000080000d3c21bcecceda1808080
+"gas":"@xd547","nonce"："exi",
+"to"："ex56e7a6dd8aa1c78ba77944c94c43054978e89b7b""value":"exe",
+"maxFeePerGas"："exb2de5eee"
+"maxPriorityFeeperGas"："exb2de5eee""estimatedBaseFee":"exe"
+"userEditedGasLimit":false,"verifiedonBlockchain"：false"type":"transfer",
+"originalGasEstimate":"d547","gasFeeEstimatesLoaded":true,
+"p"："ex268d6a82f275e222a81fb7edf3f489ddffb72234d9c762ea1a5bb25ff5e936d5"s"："ex3eo36fee6e9fa6958a4b49ed39ed6c9aaaba1945ecf16debca8dd9fdee5cd972"
+"rawTx："ex02f8af380184b2d05e0084b2de5e0082d5479456e7a6dd8aa1c78ba77944c94c43054978e89b7b80b844a9059cbbe000e00000e000008e0000084d079c7ace663bbe1d2c201072"error"
+"code":
+-32603
+"data":f
+"code
+-32086
+"message":"insufficientfundsforgasprice+value:balance36167eeeeeeeee,txcost1637978eeee00e,overshot 12763e0eee0eee",
+子
+"insertImportTime":false"chainId":"ex38",

@@ -1,0 +1,29 @@
+# OCR: 82bc78fb6673ce86bd9fe6815b623576.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/82bc78fb6673ce86bd9fe6815b623576.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+754017F80 754017F90 754017FA0 754017FB0 754017FC0 754017FD0 754017FE0 754017FF0
+B4 OA 44 00 00
+OE 50 65 00 00
+BB 6 0 00
+扇区61472959/61472960
+07 00
+00
+6 00
+8A
+E2 A
+偏移量：754017F8E
+01
+BE
+00
+b 00
+64 4 25
+69 2 A 00 AA
+.》..f.eoA..A di sk read error oc. curred... BOOTMGR is compressed.. PressCtrl+Alt+
+Del
+复制"31474155406"（十进制）
+十车
+to restart.
+100选块754017F8E-7540

@@ -1,0 +1,36 @@
+# OCR: e0e8b58913865cdd89a708f061dc235b.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/e0e8b58913865cdd89a708f061dc235b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Heartbeat.ini Keylnfo.bin MMStarted
+profileinstaller_profileWrittenForlastUpdateTime.dat
+一卷 offset 00000000 00000016
+文件 0
+22 F8
+1
+18
+国预览
+2 11
+3 2D
+贝详细 5 4
+2B
+55
+缩略图 6
+7
+F5
+FB
+时间轴 8
+9
+7B
+39
+10 c3
+11
+CD
+图例说明
+12
+44
+13 A2
+14 C9
+15 66

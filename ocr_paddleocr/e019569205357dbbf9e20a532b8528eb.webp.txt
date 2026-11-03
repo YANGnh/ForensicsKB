@@ -1,0 +1,28 @@
+# OCR: e019569205357dbbf9e20a532b8528eb.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/e019569205357dbbf9e20a532b8528eb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+FromBase64 Alphabet
+A-Za-zo-9+/
+Removenon-alphabetchars
+Strictmode AESDecrypt Key
+E1ADC3949BA59ABBE5.. IV
+E10ADC3949BA59AB
+Mode CBC
+Input Raw
+?
+=
+UTF8-UTF8-
+iSkr0/5a0pJ6AAFQN14t/9ke13k52gh6U+124eDe1DEVJaQJ7ByaJExZmcg kz92RANgwCqZ/T6prig6uqoFA==
+RE88
+Output
+1
+Recipe(click to load)
+Result snippet 软件有问题，请联系
+boss电话： 40085222666
+Tr Raw Bytes a石
+用
+Properties ValidUTF8
+Entropy:4.92

@@ -1,0 +1,17 @@
+# OCR: 276c03435b09caf63374dea3b6c17be8.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/276c03435b09caf63374dea3b6c17be8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+@rocket.chat
+Welcome to MoneyMoney workspace PoweredbyRocketChat
+登录
+电子邮件或用户名：
+example@example.com
+This field is required 密码*
+登录
+@ 忘记密码
+Newhere?Createanaccount
+Byproceedingyou areagreeingto our Terms of Senvice Privasy Polisy andLegal Notice
+Changeto English

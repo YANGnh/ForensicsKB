@@ -1,0 +1,16 @@
+# OCR: 91ba48fa9c4018a1e08f412493532312.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/91ba48fa9c4018a1e08f412493532312.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+详细信息
+DBA484D2EBD5C8550AB537C4295AC54EBB130707
+名称：
+类型：文件大小：709B
+修改时间：2025-05-2006:47:27
+MetaAddr：4406143488 全路径：
+Image.tar/private/var/mobile/Containers/Data/Application/601CD070+ 48D0-4FD9-8E13-
+A654331E0946/Library/Caches/WebKit/NetworkCache/Version
+16/ReC0rds/61031B9D5F9A3FB40FB2FA61B70EDB3C9C8BBFEF/ReSOU Ce/DBA484D2EBD5C8550AB537C4295AC54EBB130707
+加密类型：未加密已删除：否

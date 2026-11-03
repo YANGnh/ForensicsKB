@@ -1,0 +1,33 @@
+# OCR: ed99eecfb098e6c4763d77180788fb41.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ed99eecfb098e6c4763d77180788fb41.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+火眼内存分析工具v1.0.0.6015 M
+分析完成，
+总用时00:01:07
+基本信息
+进程列表信息
+网络连接状态信息
+微信密钥信息进程信息
+Line密钥信良
+Bitlocker密钥信息 NtQQ密钥信息
+203 121 1 203 0 0 0
+LocalAddr
+5a =1
+192.168.217.172
+127.0.0.1 127.0.0.1
+192.168.217.172
+0.0.0.0 0.0.0.0
+LocalPort
+53000 53001 53002 54051 54257 55030 55030 55075
+offset
+188593670106064 188593670099664 188593670102064 188593671047040 188593634693792 188593625923072 188593625923072 188593658143088
+Owner
+svchost.exe svchost.exe svchost.exe
+SunloginClient SunloginClient
+svchost.exe svchost.exe rustdesk.exe
+PID 8780 8780 8780 5456 5456 1124 1124 4728
+Proto UDPv6 UDPv4 UDPv4 UDPv4 UDPv4 UDPv4 UDPV6 UDPv4
+x 返回

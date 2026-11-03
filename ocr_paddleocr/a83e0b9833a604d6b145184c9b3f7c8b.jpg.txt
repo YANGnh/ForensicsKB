@@ -1,0 +1,41 @@
+# OCR: a83e0b9833a604d6b145184c9b3f7c8b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/a83e0b9833a604d6b145184c9b3f7c8b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+#docker
+Footdlocalhost
+CONTAINERID
+IMAGE
+ps
+[root@localhost~]#dockerps-a
+CONTAINERID AMES
+9bf1cecec395 ysql
+IMAGE
+eclipse/mysql
+root@localhost# dockerstart 9b 9b
+[root@localhost~]#dockerps
+CONTAINER ID AMES
+9bf1cecec395
+IMAGE
+eclipse/ysql
+ysqu
+[root@localhost]#
+COMMAND COMMAND
+"docker-entrypoint COMMAND
+"docker-entrypoint
+CREATED
+CREATED
+6weeksago CREATED
+6 weeks ago
+STATUS
+STATUS
+PORTS
+Exited(e)5weeksago
+STATUS
+Up4seconds
+PORTS
+PORTS
+NAMES
+0.0.0.0-3306->3306/tcp

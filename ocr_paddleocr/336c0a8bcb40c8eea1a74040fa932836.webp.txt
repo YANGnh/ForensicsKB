@@ -1,0 +1,9 @@
+# OCR: 336c0a8bcb40c8eea1a74040fa932836.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/336c0a8bcb40c8eea1a74040fa932836.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+名称
+A:三星手机lmage.zip)data\data\com.vmos.pro\rom/rominfo
+android7132lite10179 android71 lite10399 android90_64_udc10069 android90_prelinker10066

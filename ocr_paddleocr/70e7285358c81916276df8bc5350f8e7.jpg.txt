@@ -1,0 +1,19 @@
+# OCR: 70e7285358c81916276df8bc5350f8e7.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/70e7285358c81916276df8bc5350f8e7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+root@iStoreoS:/#
+cat/etc/os-release
+NAME="iStoreoS" UERSI0N="22.03.6" ID="istoreos"
+ID_LIKE="lede openwrt"
+PRETTY_NAME="iStore0S22.3.6" UERSI0NID="22.03.6"
+HOME_URL="https://github.coM/istoreos"
+BUG_URL-"https://github.com/istoreos/istoreos/issues" SUPPORT_URL="https://foruM.openwrt.org<"
+BUILDID="202403011211 0PENHRTB0ARD="×86/64" OPENRTARCH="x86 64"
+OPENURT_TAINTS="buSybox"
+DPENURTDEUICE_MANUFACTURER-"OpenHrt"
+DPENWRT_DEUICE_MANUFACTURER_URL="https://openrt.org"
+DPENWRT_DEUICE_PRODUCT="Generic" DPENHRTDEUICEREUISION="VO"
+DPENWRT_RELEASE="iStore0S 22.03.6 2024030112" root@istoreos:/#

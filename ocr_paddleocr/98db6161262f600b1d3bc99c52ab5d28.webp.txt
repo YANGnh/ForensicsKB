@@ -1,0 +1,53 @@
+# OCR: 98db6161262f600b1d3bc99c52ab5d28.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/98db6161262f600b1d3bc99c52ab5d28.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+[间同
+vSphere Client
+厨
+目
+vcsa.pgs.cup
+③
+Datacenter_Pgscup[ Cluster_Pguscup
+在所有环境中搜索素
+[ Cluster_Pguscup
+摘要服务
+监控
+vSphereDRS
+esxi1.pgs.cup（未响应） esxi2.pgs.cup（未响应）
+esxi3.pgs.cup（已断开连接
+即即即包
+市场PC（已断开连接）财务（已断开连接） AD（已断开连接） bocai（已断开连接）
+meeting（已断开连接）即
+近期任务
+警报
+配置
+vSphere可用性配置
+快速入门常规
+密钥提供程序 VMwareEVC 虚拟机/主机组虚拟机/主机规则虚拟机替代项
+/O筛选器主机选项
+主机配置文件许可
+VSAN集群 Trust Authority
+警报定义已调度任务
+权限
+操作主机
+虚拟机
+VSAN集群许可许可证
+许可证密钥产品
+使用情况
+许可证到期日期已获许可的功能
+数据存储
+网络
+许可证3
+更新
+0
+Administrator@PGS.CUP
+MG292-08L9K-48078-KJ372-27K20 vSANEnterprisePlus
+4CPU?从不 iscsi 全闪存延伸集群
+RAID5/RAID6支持
+通过去重和压缩实现存储节约 vSAN加密
+VSAN文件服务 HCI网格
+传输中数据加密 VSAN无共享存储
+分配许可证

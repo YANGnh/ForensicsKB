@@ -1,0 +1,27 @@
+# OCR: 81b291c327f6276cecf987e25a0240ba.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/81b291c327f6276cecf987e25a0240ba.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+nano sudo trojan
+.bash_history.bash logout.bash profile
+.bashrc.cshrc
+.mysql_history-python_history
+.md.tcshrc
+anaconda-ks.cfg install.sh
+kscan sfzjpg
+44444444445
+root
+刘晓倩名
+女
+民旅汉
+性
+2001
+8月11日
+佳推
+浙江省杭州市滨江，
+公民身份号码
+trojan
+小孩子不可以看
+310104200108110624

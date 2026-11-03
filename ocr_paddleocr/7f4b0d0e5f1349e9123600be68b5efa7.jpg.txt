@@ -1,0 +1,41 @@
+# OCR: 7f4b0d0e5f1349e9123600be68b5efa7.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/7f4b0d0e5f1349e9123600be68b5efa7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+http://112.124.62.187:8080/shell.aspx
+URL:
+http://112.124.62.187:8080/shell.aspx
+基本信息命令执行虚拟终端文件管理内网穿透反弹shel数据库管理自定义代码平行空间 扩展功能 备忘录更新信息
+目录结构 c:/
+sRecycle.Bin
+EBaiduNetdiskDownload 自Boot
+DocumentsandSettings
+inetpub Microsoft PerfLogs
+ProgramFiles
+ProgramFiles(x86)
+ProgramData Recovery 国sbdfsb PServer
+database
+国DB Debug Release Websits admin
+国App_Data Easpnet client 国bin
+bootstrap Content
+国fonts scripts Views Eagent afront
+路径：
+wwTavicon.ico
+C:/Server/WebSits/admin/
+名称
+packages.config App_Data
+aspnet client bin
+bootstrap Content
+fonts scripts Views
+国Web.config web.aspx
+■1.txt 12.aspx P.exe
+GodPotato.exe ms15-051.exe
+司shell.aspx 6666.exe 6666-1.exe goto.exe 目gotohttp.ist gotohttp.ini
+AntSword
+大小 32038 3929 4096 4096 4096 4096 4096 4096 4096 4096 4096 6877 74 9 77 23040 57344 55296 444 73802 7168 3028056
+2 74 4096 512000
+修改时间
+2018/7/117:15.38 2019/3/1523:23:59 2023/4/815:09:00 2023/4/815:09:00 2023/4/815:09:00 2023/4/815:09:00 2023/4/815:09:01 2023/4/815:09:01 2023/4/815:09:02 2023/4/815:09:02 2023/4/815:09:05 2024/1/3023:01:26 2024/3/1417:13:06 2024/3/1418:16:36 2024/5/21:34:50 2024/5/21:36:23 2024/5/21:44:18 2024/5/21:52:07 2024/5/22:05:00 2024/5/2313:44:01 2024/5/2313:48:19 2024/5/2422:16:49 2024/5/2422:17:41 2024/5/2422:17:43 2024/6/20:01:45 2024/6/20:01:45
+权限 R/-IE RI-IE R/-/E R/-IE R/-/E R/-IE R/-IE RI-/E R/-/E R/-IE R/-IE R/-IE R/-/E RW/E R/-IE R/W/E RW/E RAWE RW/E RW/E R/W/E RW/E RAW/E RW/E R/-IE RW/E

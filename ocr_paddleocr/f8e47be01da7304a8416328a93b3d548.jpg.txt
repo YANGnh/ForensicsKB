@@ -1,0 +1,41 @@
+# OCR: f8e47be01da7304a8416328a93b3d548.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f8e47be01da7304a8416328a93b3d548.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+sudodockerps-a
+droiddnode2:S
+CONTAINER ID
+IMAGE
+NAMES
+451a0978d664redroid/redroid:12.0.e-latest
+lovingshtern
+5555/tcp，:5555->5555/tcp
+054c638ab04fredroid/redroid:12.0.@-latest 5555/tcp.:::4444->5555/tcp.agitated_gauss e00c2808fc54redroid/redroid:12.0.0-latest
+5555/tcp,::3333->5555/tcpqoofyeuclid bd3fe2e57421redroid/redroid:12.e.e-latest 5555/tcp,::.2222->5555/tcpsweetpare
+380e5b2c8b98redroid/redroid:12.e.0-latest 5555/tcp，::1111->5555/tcp
+pricelessknuth
+droid@node2:-$ sudo docker start 45 45
+droid@node2: sudo docker ps
+CONTAINERID 451a0978d664 55->5555/tcp
+IMAGE NAMES
+redroid/redroid:12.ee-latest Loving_shtern
+drotd@node2:$
+COMMAND
+"/init androidboot.h""/init androidboot.h.""Jinit androidboot.h.""/init androidboot.h_""/init androidboot.h."
+COMMAND
+"/initandroidboot.h.
+CREATED
+2months ago 2 months ago 2months ago 2months ago 2months ago
+CREATED
+2 months ago
+STATUS
+Exited（255)11minutesago Exited(255)11minutesago Exited (255)11minutesago Exited (255)11minutes ago Exited (255)11minutes ago
+STATUS
+Up2 seconds
+PORTS
+PORTS
+e.0.0.0:5555-> 0.0.0.0:4444-> 0.0.0.0:3333->.0.0.0-2222-> 0.0.0.0:1111->
+e.e.e.0:5555->5555/tcp
+：:55

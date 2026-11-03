@@ -1,0 +1,60 @@
+# OCR: 2603504b9af8f77430c1d6714690ae13.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/2603504b9af8f77430c1d6714690ae13.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+流量包.pcap
+文件(E) eapol No
+编辑(E)
+图必
+Time
+胱转(G) Q
+捕获() 金
+25428 2825-09-23 e9:16:e1.236883 25421 2e25-e9-23 e9:16:01.238873 25423 2025-09-23 09:16:01.239315 25424 2025-e9-23 e9:16:01,239856 47162 2025-09-23 09:17:16.434595 47163 2025-89-23 09:17:16.457188 47165 2825-89-23 89:17:16.468636 47166 2025-09-23 09:17:16.464974 85552 2e25-09-23 e9:19:19.e3e958 85553 2025-09-23 09:19:19.044078 85555 2025-09-23 e9:19:19.045878 85556 2e25-e9-23 e9:19;19.e48847 146348 2025-09-23 09:22:13.279484 146349 2025-09-23 e9:22:13.283477 146352 2025-09-23 09:22:13,311726 307876 2025-09-23 09:31:52.023539 3e7878 2e25-e9-23 e9:31:52.e27632 307888 2025-09-23 09:31:52.e28851 307881 2025-09-23 e9:31:52.029203
+分析(A)
+统(S)
+无规0
+电话
+aa正品
+Source
+ca:75:f4:65:f9:6a Se:39:bd:31:2e:1d ca:75:f4:65:f9:6a 8e:39:bd:31:2e:1d ca:75:f4:65:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a 8e:39:bd:31:2e:1d ca:75:4:65:f9:6a 8e:39:bd:31:2e:1d
+TpLinkTechno_f1:bd:bf TpLinkTechno_f1:bd:bf TpLinkTechno_f1:bd:bf
+ca:75:f4:65:f9:6a 8e:39:bd:31:2e:1d ca:75:f4:65:f9:6a 8e:39:bd:31:2e:1d
+工具
+整助(E)
+Destination
+8e:39:bd:31:2e:1d ca:75:f4:65:f9:6a 8e:39:bd:31:2e:1d ca:75:f465:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65: f9:6a UgreenGroup_5:f9:34 ca:75:f4:65: f9:6a 8e:39:bd:31:2e:1d ca:75:f4:65:f9:6a 8e:39:bd:31:2e:1d ca:75:f4:65:f9:6a 66:eb:5d:cd:f3:31 66;eb:5d:cd:f3:31 66:eb:5d:cd:f3:31 8e:39:bd:31:2e:1d ca:75:f4:65: f9:6a 8e:39:bd:31:2e:1d ca:75:f4:65:f9:6a
+Protocol EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL EAPOL
+Length
+Info
+166 Key (Message 1 of 4) 235Key
+(Message 2 of 4)
+19e Key (Message 3 of 4) 209 Key (Message 4 of 4) 166Key
+y (Message 1 of 4)(Message 2 of 4)
+233 key 19e key
+(Message 3 of 4)
+209 Key
+(Message 4 of 4)
+166Key
+(Message 1 of 4)(Message 2 of 4)
+235Key 19e Key
+(Message 3 of 4)
+2e9key
+(Message 4 of 4)
+265Key
+(Message 3 of 4)
+265Key
+(Message 3 of 4)
+265Key
+(Message 3 of 4)(Hessage 1 of 4)
+166Key
+(Message2of 4)
+235Key
+(Hessage 3 of a)
+19e Key 2e9Key
+(Message 4 of 4)
+o
+x
+区+
+公众号·小谢取证

@@ -1,0 +1,33 @@
+# OCR: 8b8fe1fcb9a59d85f2004e4e0aa63402.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/8b8fe1fcb9a59d85f2004e4e0aa63402.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+data
+控制台
+监控
+一般信息@网络
+主机名称 IP地址
+VMwareTools
+目存储自备注
+打开电源
+■关机
+挂起
+重新启动
+data
+客户机操作系统兼容性
+VMwareTools
+CPU 内存
+主机名称
+localhost.localdomain 1.192.168.8.142
+2.fe80:b0a8:bc9d.559:45f8
+已安装且正在运行 1磁盘
+编辑
+C刷新
+CentoS7(64位）
+查操作
+ESXi6.7及更高版本（虚拟机版本14）
+是 1 1GB
+localhost.localdomain
+编辑备注

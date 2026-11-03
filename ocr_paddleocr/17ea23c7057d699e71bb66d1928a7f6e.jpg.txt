@@ -1,0 +1,21 @@
+# OCR: 17ea23c7057d699e71bb66d1928a7f6e.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/17ea23c7057d699e71bb66d1928a7f6e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+SandboxKey""/var/run/docker/netns/96b54763eb2c"
+"SecondaryIPAddresses"：null,"SecondaryIPv6Addresses"：null
+"EndpointID""375f8ec92c918f1090f2029d615d6c96b695da3bb3b9f0do5646b1baec6977bd"
+"Gateway"-"172.17_0.1""GlobalIPv6Address""."GlobalIPv6PrefixLen"："IPAddress":"172.17.0.2
+"IPPrefixLen"：16,"IPv6Gateway"："”
+"MacAddress""2:42:ac:11:0o-02""Networks":{
+"bridge"-
+"IPAMConfig":null,
+"Links":null"Aliases"null
+"NetworkID""0ab041a6632e4f53d9c5ee716e8d48cc0297f485d3dffa5ff0fb3f15cd0d60ba""EndpointID""375f8ec92c918f1090f2029d615d6c96b695da3bb3b9f0do5646b1baec6977bd"
+"Gateway"."172.17_0.1"IPAddress":"172.17.0.2"
+"IPPrefixLen"：16"IPv6Gateway":"
+"GlobalIPv6Address"
+"GlobalIPv6PrefixLen":e
+"MacAddress""02:42:ac:11.00:02"

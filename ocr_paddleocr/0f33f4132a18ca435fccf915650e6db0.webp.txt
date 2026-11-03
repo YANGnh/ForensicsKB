@@ -1,0 +1,19 @@
+# OCR: 0f33f4132a18ca435fccf915650e6db0.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/0f33f4132a18ca435fccf915650e6db0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+弘连网络 HongLiar
+应用名称应用大小
+t
+APK文件 ti
+114.37KB
+应用类型证据编号
+其他
+20240706214110352
+应用包名创建时间
+demo.honglian
+2024-07-0621:41:17
++ 添加
+应用版本

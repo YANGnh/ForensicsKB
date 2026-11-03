@@ -1,0 +1,10 @@
+# OCR: e790d72b927653fb163cce61f5bb91fa.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/e790d72b927653fb163cce61f5bb91fa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+Jqetdqz(
+s2=x595fa4e"flaq2(hong]
+(qdb)Call(char*)decrypt("dnJXwBR4qc+1Y4WB6ZxR0A=="
+s3=x5acbeoo"FICerisqood(gdb)

@@ -1,0 +1,27 @@
+# OCR: 8380cd0c3a54e617c1aa59c42552f133.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/8380cd0c3a54e617c1aa59c42552f133.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+droidonode2:Snetstat-anpt
+(Not allprocessescouldbe identified,non-ownedprocessinfo will not be shown,you would have to be root to see it all. ActiveInternet connections (servers and established)
+ProtoRecv-QSend-QLocalAddress
+0.0.0.0-5555
+tcp
+?
+tcp tcp tcp tcp6 tcp6
+? e e
+droid@node2:S
+127.0.0.53-53 0
+00000:22
+0192.168.100102-22
+Q5555:22 0
+Foreign Address
+0.00.0:* 0.0.0.0:* 0.00.0:*
+192168.100.100-13211
+**
+State LISTEN LISTEN LISTEN
+ESTABLISHED
+LISTEN LISTEN
+PID/Program name

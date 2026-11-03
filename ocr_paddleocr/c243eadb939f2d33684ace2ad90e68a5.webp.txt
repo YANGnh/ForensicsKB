@@ -1,0 +1,18 @@
+# OCR: c243eadb939f2d33684ace2ad90e68a5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/c243eadb939f2d33684ace2ad90e68a5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+c:v
+服务器： Address:
+>nslookup-type=Ablog.chen.foren6
+dnsl.hnsdns.com 139.144.68.241
+非权威应答：
+名称：
+chewhaoN.github.io
+Addresses:
+185.199.108.153
+185.199.109.153 185.199.110.153 185.199.111.153
+Aliases:
+blog.chen.foren6

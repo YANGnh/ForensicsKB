@@ -1,0 +1,48 @@
+# OCR: f1a266d5f407b10a494b2f828a8e6e4e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/f1a266d5f407b10a494b2f828a8e6e4e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+原类型视图未删除记录 Category
+文本视图
+CategoryChannel Channel
+Channellnfo
+ChannelMembership Config
+CustomEmoji
+Draft File Group
+GroupChannel
+GroupMembership
+GroupTeam local storage MyChannel
+MyChannelSettings
+MyTeam Post
+PostsinChannel PostsinThread
+Preference Reaction
+Role System Team
+TeamChannelHistory TeamMembership TeamSearchHistory TeamThreadsSync Thread
+十六进制视图
+4 4 4
+222 4 4 97 2 7 2 4
+2 0
+129
+editat
+0 0 o 0 0 0 0 0 o
+1713930631330
+0 0 0 o 0 o o o 0 o 0 0 0
+is_pinned
+0 o o o o o 0 o 0 0 o 0
+o o
+o o 0
+0
+aHR0cDovLzE5Mi4xNjquMTM3Ljk3OjgwNjU=.db
+message
+yangyuehua joined the team. jingguangming joined the team. 可以看到
+fujiya joined the team. yiyan joined the team. gxyt joined the team.
+大家好，能看到我发的信息吗 maoxueliu joined the team 进入这个团队大家就是自己人了
+有钱大家一起赚！做大做强！
+老板准备带我们么搞钱
+那些老套路的已经携不动了，好像对硬件资源要求比较高， all现在有个事情需要和大家之前我们搞的那套果聊的平台我这边有个朋友给我介了一。
+具体什么玩法服务器换一个就行
+算了，那个搞钱慢，之前听说我朋友现在玩AI，部是与时进换脸我也听说过，不过你换一… 他们通过伪装成校友或同班间
+message_source
+metada

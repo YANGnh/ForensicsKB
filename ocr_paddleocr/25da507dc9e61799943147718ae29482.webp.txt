@@ -1,0 +1,41 @@
+# OCR: 25da507dc9e61799943147718ae29482.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/25da507dc9e61799943147718ae29482.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+对象
+dslog@wwwmtbtsdafdac(2025...
+同表配置文件、
+id
+#int(10)
+2 3 4 5 6 7 8 9 10 11 12 13
+原开始事务
+logtime#int(10) 操作时间
+1557108906 1557109631 1557116664 1557148561 1557149950 1557151688 1557151903 1557152877 1557152885 1557156805 1557190269 1557191015 1557193753
+筛选&排序用列
+单元格编辑器
+logaccount Bcvarchar(45) 操作对应的账号
+admin admin
+admin admin admin
+17629291271 17629291271
+admin admin admin
+logip
+Bcvarchar(100) 操作者IP
+112.47.34.20 1.80.117.191 117.22.217.230
+1.59.66.7 1.59.66.7 1.59.66.7
+124.114.73.73 124.114.73.73 124.114.73.73 124.114.73.73 122.156.219.196 122.156.219.196 122.156.219.196
+数据分析工具、
+logdesc
+Bcvarchar(200) 操作描述
+管理员[admin]登录管理员[admin]登录会员登出
+管理员[admin]登录会员登出
+管理员[admin]登录管理员[admin|登录
+备份数据库删除备份文件会员登出
+管理员[admin]登录管理员admin|登录管理员[admin]登录
+logtype
+logiplocal
+cvarchar(1cvarchar(255) 日志类型：
+admin admin member admin member admin admin admin admin member admin admin admin
+江苏省移动
+陕西省西安市电信陕西省西安市电信黑龙江省大庆市联通黑龙江省大庆市联通黑龙江省大庆市联通陕西省西安市电信陕西省西安市电信陕西省西安市电信陕西省西安市电信黑龙江省大庆市联通黑龙江省大庆市联通黑龙江省大庆市联通

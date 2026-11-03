@@ -1,0 +1,19 @@
+# OCR: cc37ebe129c2bd144300b4bb923efe3c.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/cc37ebe129c2bd144300b4bb923efe3c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+图像宽高总选项： img路径：图像亮度：
+单图盲水印
+双图盲水印
+[3] FFT(Normalization)
+隐写工具
+G:/2025平航杯/新建文件夹/PNG107.png 50
+ImageSteganography
+BruteForcelmage
+FrequencyColor
+PNG107_fft.png
+GIF
+Misc
+5

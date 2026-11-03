@@ -1,0 +1,12 @@
+# OCR: 460dbd62bf2ee299f22d7a06e895d9a7.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/460dbd62bf2ee299f22d7a06e895d9a7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+com.xiaomi.voupin(O) Icom.youku.phone(O) Icom.zhihu.android(o)
+design.codeux.authpass.fdroid(O)
+keepass2android.keepass2android (0)
+miui.systemui.plugin(O) org.ifaa.aidl.manager(O)
+lorg.mipay.android.manager(O)
+ru.meefik.busybox (0) ru.meefik.linuxdeploy (0) ty.danmaku.bili（O

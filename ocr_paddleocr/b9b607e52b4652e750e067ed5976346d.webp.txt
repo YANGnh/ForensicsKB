@@ -1,0 +1,54 @@
+# OCR: b9b607e52b4652e750e067ed5976346d.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/b9b607e52b4652e750e067ed5976346d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+品X-Ways Forensics：新案件-[检材2]
+文件(F 案件数据
+文件(L)
+编辑(E)
+搜素(S)
+编辑(D)
+新索件
+广案件根目录由·检材2
+导航(N)
+查看(V)
+证据项No.1（唯—ID:51)
+项目名称/编号：
+内部名称注释(C):
+哈希值SHA-1 哈希值?MD5
+图确定(O)
+检材2
+工具门
+专业工具（)
+选项（O）
+名图
+检材2
+分区类型：GPT 口文件名称口起始房区
+[A:\检材二检材2.E01]
+窗口W)
+帮助(H) 国
+医商
+70
+了创建时间
+创建日期：2024/07/04d10:21:53 文件大小：60.0GB
+案件描述(D)
+Case: EvNo:
+.e01内部描述信息：untitled
+Examiner: Notes:
+AppVer:ADI4.1.1.1 OSVer:Win201x
+Acquiredon:2023/09/08d07:05:58 块大小：64×512字节=32.0KB
+1.966.080块expected.1.966.080块actually referenced
+总容量：64.424.509.440字节=60.0GB
+每扇区字节数：512 扇区统计：125.829.120
+32DADEBF136E8CBB2BD55E4BAE7BE1F5B3D20927 27CF929BF2D0DDD4859BCB275A08A010
+取消(A)
+®
+压缩（C
+校验哈希(V 校验哈希(M
+通
+x
+y
+图
+韩助(H)

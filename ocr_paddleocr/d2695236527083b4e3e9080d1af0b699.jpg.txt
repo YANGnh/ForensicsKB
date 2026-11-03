@@ -1,0 +1,14 @@
+# OCR: d2695236527083b4e3e9080d1af0b699.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/d2695236527083b4e3e9080d1af0b699.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+对象冒开始事务 id
+users@main(s-ui)-表
+自文本筛选排序
+username admin
+password admin
+导入导出数据生成咖创建图表
+last logins
+2024-05-2108:25:09192.168.11.1

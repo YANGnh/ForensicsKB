@@ -1,0 +1,39 @@
+# OCR: 63378deb9ef6a3f0bce289d91b44a530.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/63378deb9ef6a3f0bce289d91b44a530.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+无标题.ipg 无标题2.ipg
+分区
+文件
+回预览
++贝详细
+口缩略图
+存在的，已查看存在的，已查看
+由图例说明看器组文本
+时间轴
+ FinalShell 3.0.10
+IP59.108.126.128复制温行5:39
+负取0.39, 0.51, 0.41 CPU5%
+内存18%649M/3.6G
+变换0%
+内存
+CPU
+2.3M 76.1M 2.3M
++96K 96x 66 33x
+合
+0/0
+2.3lnginx 1.7|AliYunDu 1lnginx 0.3 rcuschec
++51K
+etho
+jpg ipg
+美
+白1HuangQiushangMaox
+Proto Recv-q Send-Q Local Address
+00.0.0.0:44587
+tep
+tcr tc tcp tep tcr tc te tce tc tcp tcr tcp6
+0 0.0.0.0:6379 0 8.0.0.0:5355 98.0.0.0:111 00.0.0.0:20048 08.0.0.0:88 08.0.0.0:82 0 0.0.0.0:83 00.0.0.0:47605 08.6.0.8:22 00.0.0.0:443 00.0.0.0:2049 Q：:45797
+Foreign Address
+0.0.0.0.* 0.0.0.0:* o.8.0.o:* 0.8.0.0:* 0.0.0.0:* 0.0.0.0:* 0.0.6.0:* 0.0.0.0:* 0.0.0.0:* 0.8.6.0:* 0.0.0.9* 0.0.0.0:*

@@ -1,0 +1,22 @@
+# OCR: e2b1e8e93c1bf76559b4aacaa4adde42.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e2b1e8e93c1bf76559b4aacaa4adde42.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+组织架构-关捷字段匹配
+匹配结果：完全匹配数0关键匹配数2匹配失败数0
+名称 V
+member.xsx
+member
+member_money_total.xlsx
+member_money_tota
+匹配类型
+组织架构-关系数据
+组织架构-资金交易数据
+字段匹配结果关键匹配关键匹配
+6/34 2/12
+备注说明
+匹配模板：组织架构-关系数据
+匹配模板：组织架构资金交易数据
+操作移除配置移除配置

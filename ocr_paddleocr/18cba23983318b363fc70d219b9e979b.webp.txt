@@ -1,0 +1,21 @@
+# OCR: 18cba23983318b363fc70d219b9e979b.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/18cba23983318b363fc70d219b9e979b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+个主页
+设置常规
+鱼口
+安全网络显示
+0
+账户关于
+设置
+ID/中继服务器
+ID服务器：中继服务器： API服务器：
+Key:
+代理
+Socks5代理
+152.126.118.24 jinwandalaohu
+应用
+X

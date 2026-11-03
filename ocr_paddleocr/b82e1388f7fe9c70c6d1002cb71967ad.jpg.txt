@@ -1,0 +1,26 @@
+# OCR: b82e1388f7fe9c70c6d1002cb71967ad.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/b82e1388f7fe9c70c6d1002cb71967ad.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+管
+组织
+计算机本地磁盘(C:）www
+国打开
+★收藏夹下载桌面
+调最近访问的位置
+育库视频图片国文档小音乐
+福家庭组计算机网络
+新建文件夹
+名称 conf data files 厘1og hmysql Angin statie web
+application-0.0.1-SHAPSHDT.jar
+fileserver,exe 服务启动程序.exe
+修改日期
+2022/4/118:12 2022/4/118:12 2022/4/118:11 2022/4/118:11 2022/4/118:12 2022/4/118:12 2022/5/241:13 2022/4/118:12 2022/5/2712:59 2022/5/241:11 2022/5/2718:25
+搜索www
+类型文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹 JAR文件应用程序应用程序
+口区
+旺大小
+46,485KB 12,628KB 4,180KB
+?

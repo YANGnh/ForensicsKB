@@ -1,0 +1,12 @@
+# OCR: d06990c09afb52371f6fe65d69bc8598.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/d06990c09afb52371f6fe65d69bc8598.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+新源代源码
+A不安全
+jiedaiormr.com
+新一贷
+最高借款额度（元
+300.000

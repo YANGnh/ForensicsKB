@@ -1,0 +1,23 @@
+# OCR: f1050a8972493da0f7351e9ea02f5255.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f1050a8972493da0f7351e9ea02f5255.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+共享
+查看
+此电脑
+名称
+本地磁盘（C)>用户>Luck>AppData>Local>stable-diffusion-webui>models>Stable-diffusion
+修改日期
+againmix_v20.safetensors
+★ ★
+PutStableDiffusioncheckpoints here.txt v1-5-pruned-emaonly.safetensors
+2024/3/1318:32 2024/3/1222:19 2024/3/1318:33
+类型
+SAFETENSORS... 文本文档
+SAFETENSORS...
+大小
+60.804KB
+OKB
+123.793KB

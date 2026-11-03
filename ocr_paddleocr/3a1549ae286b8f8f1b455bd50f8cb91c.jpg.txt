@@ -1,0 +1,56 @@
+# OCR: 3a1549ae286b8f8f1b455bd50f8cb91c.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/3a1549ae286b8f8f1b455bd50f8cb91c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+[root@server~#servicedockerstart
+Redirectingto/binsystemctl start docker.service[root@server ~]#docker ps -a
+CONTAINERID NAMES
+8fbd1968d75e mysql
+IMAGE
+mysql:5.7
+[root@server ~]# docker start 8f 8f
+[root@server ~]# netstat-anpt
+COMMAND
+"docker-entrypoint.
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address
+tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp6 tcp6 tcp6 tcp6 tcp6 tcp6 tcp6
+e ®
+? ® ® ® e ® ®??
+® e
+0.0.0.021 00.0.0.0:22
+00.0.00.8888 0127.0.0.125
+0192168.47133-8888 3619216847.133-22
+0192168.47.133-8888 019216847.133-8888 0192168.47133-8888 0192168.47.133:8888 192168.471338888
+3306 e
+Q::3307：:80 e
+0:::21：:22 e::888?
+1:25
+Foreign Address
+0.0.0.0:* 0.0.0.0:* 0.0.0.0:* 0000*
+192168.47115826 192168.47.1:16279 192168.47.1-15833 192168.47.1-16298 192.168.47-1-16206 192.168.47.1:16207 192.168.47-1-16342
+**
+**
+-*
+CREATED
+14 months ago
+State LISTEN LISTEN LISTEN LISTEN
+STATUS
+Exited （o)14 months ago
+PID/Program name
+1302/pure-ftpd(SER
+9836/sshd 2838/python 2132/master
+ESTABLISHED2838/python
+ESTABLISHED14636sshdroot@pt
+ESTABLISHED2838/python ESTABLISHED2838/python ESTABLISHED2838/python
+ESTABLISHED
+2838/python
+ESTABLISHED2838/python
+LISTEN LISTEN LISTEN LTSTEN LISTEN LISTEN LISTEN
+2707/mysqld
+183e4/docker-proxy 1569/httpd
+1302/pure-ftpd(SER
+9836/sshd 1569/httpd 2132/master
+PORTS

@@ -1,0 +1,23 @@
+# OCR: ba74223281cfcdf73ad4d10fb9e9be79.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/ba74223281cfcdf73ad4d10fb9e9be79.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+磁盘3接口：File型号：DiskImage容量：29.3GB(30016MB）柱面数：3826磁头数：255每道扇区数：63总扇区数：61472960
+田庄
+HDo:SamsungSSD97oEVoPlus1TB(932 HD1:KINGSTONSNVS2000G1863GB）
+HD2:SSDAS2235(477GB 品VDO：孙大海的U盘.DD（29GB）白
+孙大海的U盘
+System Volume Information
+分区参数浏览文件扇区编辑
+卷标
+孙大海的U盘
+序号(状态)
+OL
+文件系统 NTFS
+标识 07
+起始柱面
+0
+磁头 0
+扇区 33

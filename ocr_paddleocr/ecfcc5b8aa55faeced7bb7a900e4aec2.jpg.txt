@@ -1,0 +1,7 @@
+# OCR: ecfcc5b8aa55faeced7bb7a900e4aec2.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ecfcc5b8aa55faeced7bb7a900e4aec2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+#Authentication:#LoginGraceTime 2m PermitRootLogin yes#strictModes yes#MaxAuthTries 6#Maxsessions10

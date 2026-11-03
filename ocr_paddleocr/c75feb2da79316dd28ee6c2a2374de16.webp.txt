@@ -1,0 +1,82 @@
+# OCR: c75feb2da79316dd28ee6c2a2374de16.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/c75feb2da79316dd28ee6c2a2374de16.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+文件
+反原始数据搜索
+的可
+R 高级过滤
+满求模育
+列表当前设备全部文件序号 1
+图库
+桂
+window.e01
+打开文件名
+过滤结果
+证正公十者
+分区3_本地磁盘[E]
+导出
+标签
+ui-2025-03-12-14-47-31.json
+试用干音
+facefusion_3.1.10
+添加摘录
+D:\master\FMP\Case\2025平航杯\ExportFile)ui-2025-03-12-14-47-31.json[文本模式]-Ndd
+件(E
+编辑(E)
+S
+日
+查找(S)
+视图M
+图
+command.txt
+82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108
+区
+编码(N)
+语法(L)
+c
+器
+2025-03
+ 67145.txt
+设置 $
+区
+列与宏回
+工具(O)
+插件 +
+对比(C)
+settings 160168.json
+区
+facefusion3.1.1 哈希值计算
+标签
+反馈注册
+?
+亚
+小情
+"face editor eye gaze horizontal":-0.0,"face_editor_eye_gaze_vertical":-0.0,
+"face_editor_eye_open_ratio":-0.0,"face_editor_lip_open_ratio":-0.0,
+"face editormouth grim":-o.o,"face_editor_mouth_pout":.0.0,"face editor mouth purse":.0.0,"face editor mouth smile":-0.0,
+jobs>completed
+文件扩展名逻辑大小（字节）
+json
+2025-3-10 @...
+"faceeditormouthpositionhorizontal":.o.o,"faceeditormouthpositionvertical":.o.o,
+"face editor head pitch":.0.0,"face_editor_head_yaw":-0.0,"face editor head roli":-0.0,
+"face enhancer model":."gfpgan 1.4"
+"face enhancer blend":-8o,"face enhancer weight":-l.0,
+"face_swapper_model":."inswapper_128_fp16","faceswapper pixelboost":."256x256"
+"framecolorizermodel":."ddcolor""frame colorizer blend":-loo,
+"frame colorizer size":."256x256"
+"frame enhancer model":."span kendata x4"."frame enhancer blend":80,
+"lip syncer model":."wav2lip gan 96""status"：."completed"
+?
+?
+区
+GO
+4,848
+用
+电
+ui-2025-03-12-14...
+访间 202
+口区

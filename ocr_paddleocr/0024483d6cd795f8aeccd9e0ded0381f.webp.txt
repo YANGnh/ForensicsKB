@@ -1,0 +1,34 @@
+# OCR: 0024483d6cd795f8aeccd9e0ded0381f.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/0024483d6cd795f8aeccd9e0ded0381f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+预览FF80FA9C1C845794D93668B9193E47AB.db
+android metadata fileid
+local files
+sqlitesequence
+/storage/emulated/0/douyin/share_12bc93cd5e5d97d151.../storage/emulated/0/douyin/share_18e928faf1f54239103.../storage/emulated/0/douyin/share 21c498d8ab8d51215d.../storage/emulated/0/douyin/share_21d5f3314c89fa64235../storage/emulated/0/douyin/share 2aad03d9ccdc4d8a47..
+/storage/emulated/0/douyin/share_003e19fabf44816b4eb...
+localfolderlastmodified data
+download_history
+recentfiles
+/storage/emulated/0/douyin/share_12bc93cd5e5d97d151../storage/emulated/0/douyin/share_18e928faf1f5423910.../storage/emulated/0/douyin/share_21c498d8ab8d51215d.../storage/emulated/0/douyin/share_21d5f3314c89fa64235../storage/emulated/0/douyin/share_2aad03d9ccdc4d8a47...
+/storage/emulated/0/douyin/share_003e19fabf44816b4eb..
+storage/emulated/0/Pictures/屏幕图2023-06-0114105...
+/storage/emulated/0/Pictures/屏幕截圈2023-06-0114105...
+/storage/emulated/0/Download/NMOSOutput/171634851../storage/emulated/0/Download/VMOSOutput/171634851.../storage/emulated/0/Download/NMOSOutput/智谱清言.apk/storage/emulated/0/DCIM/Camera/share_5d2420f968ac3..
+ret627c829ef63
+/storage/emulated/0/Download/VMOSOutput/171634851../storage/emulated/0/Download/VMOSOutput/171634851../storage/emulated/0/Download/VMOSOutput/智谱清言.apk/storage/emulated/0/DCIM/Camera/share_5d2420f968ac3...
+googledrive
+parentfile_id
+onedrive
+description
+analyze_storage
+packagename
+searchhistor isdownlo
+o o 0 0 o o
+org.localsend.localsend_app
+1 1
+com.ss.android.ugc.aweme
+0

@@ -1,0 +1,7 @@
+# OCR: b12ab6e5d05dc3dbb4c565ac96ba9f43.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/b12ab6e5d05dc3dbb4c565ac96ba9f43.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+/docker-entrypoint-initdb.d/o2-data.sgl+→/mnt/disk1/www/mysgldata/generate10krecords.sg/docker-entrypoint-initdb.d/o1-schema.sql/mnt/disk1/www/mysql_data/dkewl.sq

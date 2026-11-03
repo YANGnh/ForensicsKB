@@ -1,0 +1,20 @@
+# OCR: 099598c520a4f352bbc768854679e082.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/099598c520a4f352bbc768854679e082.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+任信总
+名称：address.xml
+MD5：00677B62F0E49561E6E858A2F9963815
+扩展名：xml 类型：文件大小：560B
+创建时间：2025-09-1711:36:15 访问时间：2025-09-1711:36:15 修改时间：2025-09-1711:36:15 元数据地址：263062
+全路径：鲁堪安卓手机.vmdk/分区4/userde/o/com.lerist.fakelocation/sharedprefs/address.xml
+加密类型：未加密已删除：否
+原类型视图
+文本视图
+十六进制视图
+oding=utf-8”standalone='yes”
+nt_mock_location_id">1758080168124</string
+ry_location”>［【"address"："天柱山东路，老峰镇，迎江区，安庆市，安徽省，中国"，"altitude":0.0,"。
+20:10

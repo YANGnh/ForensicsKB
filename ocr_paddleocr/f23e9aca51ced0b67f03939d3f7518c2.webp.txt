@@ -1,0 +1,77 @@
+# OCR: f23e9aca51ced0b67f03939d3f7518c2.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/f23e9aca51ced0b67f03939d3f7518c2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+TAuR
+TAUE16 TA
+AUR16 AuE16
+Fhosta
+2024 2824 2824
+2824
+16:35:53] Connected via TUN_WIN
+LZO-ASYM init swap-e asym=1
+16:35:531
+:CONNECTED Vpnb0ok95.196.64.231:25e0e(5.196.64.231)via /UDP onTUN_WTN/10.18.8.42/ gw=[1e.1e.e.41/1 mtu=(default)5[Aug 16,2024,16:35:53] EVENT:
+COMPRESSION_
+EVENT:
+An operation on a socket couidnot
+exception: send:
+UDE
+17:40:06 17:40:06
+UDI
+17:40:86 17:40:06 17:48:871
+Upe UDE
+exception: exception: exception: exception:
+be
+performed because the systen lacked suffieientbuffer space or becausea queue was full.
+Anonerationonasocketcouldnotbe
+performed because the
+space or because aqueuewas full.
+send:
+systen lacked sufficient buffer
+send:
+An operation onasocket could notbe
+send: send
+An operation on a socket could not be
+performed becausethe
+systen lacked sufficient buffer space or because a queue was full.
+performed because the
+svstenLackedsueeiclent butser
+or because a queue was full
+Anoperationonasocketcouldnotbe
+performedbecausethesystenlackedsufficientbufferspaci
+ or because a queue wasfull
+Anoperation ona socket could not be performed because the
+systen lacked sufficient buffer space or because a queue was full
+send:
+exceptiont
+systen lacked suffieient buffer
+Anoperationon
+a socket could not be performed because the!
+space
+or because a queue was full
+send:
+An operation on a socket could not be performed because the systen lacked sufficient buffer space or because a queue was full
+send exception
+send:
+Session
+inValidated:KEEPALIVE_TIMEOUT
+2824.
+17:4e:e7] Client terninated, restarting in 2eee ns.. 2024,17:480:071
+signaling tun destroy event
+Setupcllent:
+2824,17:48:88] EVENT:PAUSE network_unaVa11ab1e[Aug 16,2824,17:48:e8] EVENT:RESUNEE[Aug 16, 2824,17:48:88] EVENT: RECONNECTING[[Aug 16,224,17:48:0B] EVENT:RESOLVE [[Aug 2024,174e:e8]EvENT:wAT[Aug16,2824,17:4e:e8]wincommandAgent:transnittingbypassrouteto5.196.64.231
+-5.196.64.231*
+"ipv6":false
+[Aug 16,2824,17:48:1e] Connecting to [5.196.64.231]:25eee (5.196.64.231) via[Aug 16, 2824,17:48:10] EVENT: CONNECTING[Aug 16,2824,17:48:18]
+Tunnel Options:V4,dev-type tun,link-ntu 1558,tun-mtu 15ee,proto UDPv4,conp-1zo,cipher AES-256-cBC,auth SHA1,keysize 256,k
+[Aug 16,2824,17:48:10]
+Creds: Usernane/Password
+[Aug 16, 2824, 17:48:1e] Sending Peer Info;
+IV_VER=3.1e_qa IV_PLAT=win
+IV_NCP= IV_TCPNL=1
+IV_PROTO=2974 IV_MTU=1608
+TV_CTPHERS=AES-128-CBC:AES-192-CBC:AES-256-CBC:AES-128-GCM:AES-192-GCM:AES-256-GCM:CHACHA20-POLY1385 IV_LZO=
+IV_6UI_VER=0CHindows_3.5.@-3818

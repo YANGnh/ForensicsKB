@@ -1,0 +1,12 @@
+# OCR: 9e3a7b1ed244845997d3ef1cfc6a8da7.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/9e3a7b1ed244845997d3ef1cfc6a8da7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+图形视图个
+表格视图个
+名称 os.hst
+/data/data/com.termux/files/home/kali-arm64/root/.local/share/sqlmap/history
+路径
+data/data/com.termux/files/home/kali-arm64/root/.local/share/sqlmap/history/os.hst

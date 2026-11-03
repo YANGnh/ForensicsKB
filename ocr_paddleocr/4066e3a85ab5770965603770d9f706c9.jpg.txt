@@ -1,0 +1,12 @@
+# OCR: 4066e3a85ab5770965603770d9f706c9.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/4066e3a85ab5770965603770d9f706c9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+检材：检材3-计算机基本信息
+检材编号：20240427184755BVN2RA 保存位置：A:\检材3-计算机.E01
+检材时区：（UTC+08:00）北京，重庆，香港特别行政区，乌鲁木齐创建时间：2024-04-2718:47:59
+检材大小：42.65GB 检材平台：Windows 源盘大小：80GB
+SHA1：FFD2777C0B966D5FC07F2BAED1DA5782F8DE5AD6 预填密码：
+图L[空密码]

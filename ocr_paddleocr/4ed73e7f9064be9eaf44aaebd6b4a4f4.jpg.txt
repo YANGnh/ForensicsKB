@@ -1,0 +1,24 @@
+# OCR: 4ed73e7f9064be9eaf44aaebd6b4a4f4.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/4ed73e7f9064be9eaf44aaebd6b4a4f4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+o
+状态系统服务 Docker
+西网络
+接口
+DHCP/DNS 主机名映射静态路由
+防火墙网络诊断
+G退出
+接口接口
+设备
+添加新接口
+全局网络选项
+DOCKER dockero LAN 明（） br-lan
+VPNO tuno WAN etho WGO wgo
+协议：不配置协议 MAC:02:42:66:07:3D:11 接收：0B（0数据包）发送：0B(O数据包）信息：开机时不启动
+协议：静态地址运行时间：Oh20m56s MAC:00:0C:29:B9:6F:80 接收：154.86KB（1730数据包）发送：6.90MB（2063数据包） IPv4:192.168.200.1/24
+协议不配置协议接收：0B（0数据包）发送0B（0数据包）错误网络设备不存在
+协议：静态地址运行时间Oh20m56s MAC:00:0C:29:B9:6F:76 接收：7.43MB（7834数据包）发送：3.91MB（5608数据包）
+IPv4:222.2.2.2/24 协议：WireGuardVPN 运行时间：Oh20m55s 接收：0B（0数据包）发送0B（0数据包） IPv4:192.168.8.1/32

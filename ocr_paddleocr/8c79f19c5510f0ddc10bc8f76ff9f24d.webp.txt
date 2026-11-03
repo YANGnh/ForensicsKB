@@ -1,0 +1,23 @@
+# OCR: 8c79f19c5510f0ddc10bc8f76ff9f24d.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/8c79f19c5510f0ddc10bc8f76ff9f24d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+http.reguest.uri.path="/dbadmin/test_db.php
+No.
+Time
+457536992.531733 4575661043.258163 457616 1056.707781 4576281061.031860 4576401061.621005 457658 1081.818411 4576701083.187248 457684 1083.871208 457696 1084.732732 457708 1090.002747
+Source
+192.168.75.132 192.168.75.132 192.168.75.132 192.168.75.132 192.168.75.132 192.168.75.132 192.168.75.132 192.168.75.132 192.168.75.132 192.168.75.132
+Destination
+192.168.75.131 192.168.75.131 192.168.75.131 192.168.75.131 192.168.75.131 192.168.75.131 192.168.75.131 192.168.75.131 192.168.75.131 192.168.75.131
+Protocol Length Info
+HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP
+683GET/dbadmin/test_db.php?action=row_view&table=infoHTTP/1.1
+874PosT/dbadmin/test_db.php?action=table_createHTTP/1.1(application/x-www-form-urlencoded
+695GET/dbadmin/test_db.php?switchdb=%2Fusr%2Fdatabases%2Fdemo.phpHTTP/1.1 704GET/dbadmin/testdb.php?view=sq1HTTP/1.1
+680GET/dbadmin/testdb.php?view=structureHTTP/1.1 680GET/dbadmin/testdb.php?view=sqlHTTP/1.1
+677GET/dbadmin/testdb.php?view=vacuumHTTP/1.1 680GET/dbadmin/test_db.php?view=renameHTTP/1.1
+683GET/dbadmin/test_db.php?view=structureHTTP/1.1
+71oGET/dbadmin/test_db.php?switchdb=%2Fusr%2Fdatabases%2Fdemo.phpHTTP/1.1

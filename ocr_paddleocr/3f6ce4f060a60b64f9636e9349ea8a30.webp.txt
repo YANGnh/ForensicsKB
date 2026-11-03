@@ -1,0 +1,21 @@
+# OCR: 3f6ce4f060a60b64f9636e9349ea8a30.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/3f6ce4f060a60b64f9636e9349ea8a30.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+g
+检材_手机（备份密码6666）.zip>呆钥匙串>网站与应用密码
+三序号口1 口2 口3
+三用户ID 过滤
+三账户名过滤
+13816392689
+maryxielee4869@qmail.com 2715773460@qq.com
+A
+三密码过滤
+2689xll@wszbd! qazmlp123456 1234qwer
+Y
+三登录url 过滤
+https://pan.baidu.com
+https://accounts.google.com https://m.facebook.com
+在网

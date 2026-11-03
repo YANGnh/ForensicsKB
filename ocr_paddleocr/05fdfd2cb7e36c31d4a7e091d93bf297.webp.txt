@@ -1,0 +1,10 @@
+# OCR: 05fdfd2cb7e36c31d4a7e091d93bf297.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/05fdfd2cb7e36c31d4a7e091d93bf297.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+?JINRUICOIN 登录
+请输入登陆账号密码
+登录
+? 您记密码

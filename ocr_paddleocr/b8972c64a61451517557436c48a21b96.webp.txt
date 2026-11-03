@@ -1,0 +1,24 @@
+# OCR: b8972c64a61451517557436c48a21b96.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/b8972c64a61451517557436c48a21b96.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+绿
+配置
+WEB容器 nginx
+计划任务
+数据库备份路径
+/www/backup
+防火墙
+网站路径
+FTP服务
+/www/wwwroot
+操作日志
+12345678910
+网站
+历史命令
+任务
+面板用户
+MYSQL管理员密码
+面板

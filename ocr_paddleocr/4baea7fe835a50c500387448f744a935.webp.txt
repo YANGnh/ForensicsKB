@@ -1,0 +1,25 @@
+# OCR: 4baea7fe835a50c500387448f744a935.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/4baea7fe835a50c500387448f744a935.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+CONTAINER ID c1e@b3a2b673 3a9a7506d47e
+IMAGE
+java-app:local java-app:local
+COMMAND
+"java-jar /app/app...""java-jar /app/app..."
+[root@localhost~]#dockerinspectcl
+CREATED
+About a minute ago 6weeksago
+STATUS
+Up About a minute
+Exited（255）52minutesago
+"Id":"cle0b3a2b673b9e04a132acc88f501f42a590c4d7d3250bcb8562d28a769e4b4""Created"："2025-07-1oT03:35:04.179556183z"
+"Path":"java","Args":[
+"-jar"
+"/app/app.jar"
+"state":
+PORTS
+28089/tcp
+N ja ja

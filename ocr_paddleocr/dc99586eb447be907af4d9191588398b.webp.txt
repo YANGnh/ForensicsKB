@@ -1,0 +1,12 @@
+# OCR: dc99586eb447be907af4d9191588398b.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/dc99586eb447be907af4d9191588398b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+检材：检材2 基本信息
+检材编号：20240704093801Z3DRGB 保存位置：A:\检材二\检材2.E01
+检材时区：(UTC+08:00）北京，重庆，香港特别行政区，乌鲁木齐创建时间：2024-07-0409:38:06
+检材大小：9.46G日检材平台：Windows 源盘大小：60GB
+SHA1:32DADEBF136E8CBB2BD55E4BAE7BE1F5B3D20927 预填密码：
+?AdministratorAa12345

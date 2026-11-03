@@ -1,0 +1,36 @@
+# OCR: 50377b7955a254b75cb85c3bd24029a7.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/50377b7955a254b75cb85c3bd24029a7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+@ C
+localhost.localdomain-VMware
+A不安全
+istoreos
+搜索菜单回首
+网络向导状态
+o
+系统 istore Docker 服务
+网络存储
+玉网络退出
+8
+iStoreOS-首页-LuCI
+192.168.8.5/cgi-bin/luci/admin/quickstart/
+流量统计
+>
+网络向导
+>终端
+X
++
+回件更新
+上传
+下载内网配置
+DNS配置
+A
+软件源配置
+☆
+Q
+搜索
+上传：2.1KB/s 下载：1.7KB/s
+开肩沙箱

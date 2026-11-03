@@ -1,0 +1,23 @@
+# OCR: 2bc4735740f7b1c0292a82cfbeda6fe7.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/2bc4735740f7b1c0292a82cfbeda6fe7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+新建连接（MySQL)
+常规
+高级
+数据库 Navicat
+M使用SSH隧道
+主机：端口：用户名：验证方法：密码：
+测试连接
+SSL
+SSH 白
+HTTP。
+SSH服务器
+192.168.217.188
+22 root 密码
+.0..?保存密码
+数据库确定
+取消
+x

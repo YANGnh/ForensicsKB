@@ -1,0 +1,42 @@
+# OCR: a7ae09d674ed87c5c187716adb5bb999.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/a7ae09d674ed87c5c187716adb5bb999.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+member deal member_account member_message
+maintain_message_log member
+member_update_record act_member_ticket log
+act_member_ticket member balance membermoneytota
+member_current_month member_current
+wms_invoice_notify_log bonus_send_record
+=bonus_calc_log sys_role_dept sysrole_menu
+0 0 0 0
+663153 34359
+0 0 0 0 0 0 0 0
+870045
+0 0
+2576KB 2576KB 31328KB 16KB 20016KB 2576KB 16KB 16KB
+2301952 6672KB 3600KB 6704KB 16KB
+589824KB 211680KB
+16KB 80KB
+InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB
+10472 6523 183831
+9 51766 34400
+0 0
+8862915
+会员提现表会员提现账号会员消息表
+会员消息推送日志会员信息表
+会员信息自助修改记录
+会员优惠券日志表会员优惠券主表会员余额流水
+会员余额总表
+38772
+16719 38958
+会员月度业绩表会员总业绩表
+0
+济南佳怡物流发货回传日志
+2183174 802794
+奖金发放记录表奖金计算日志
+角色和部门关联表 0
+1469
+角色和菜单关联表

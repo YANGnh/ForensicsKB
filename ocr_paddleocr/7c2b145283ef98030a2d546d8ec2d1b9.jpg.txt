@@ -1,0 +1,16 @@
+# OCR: 7c2b145283ef98030a2d546d8ec2d1b9.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/7c2b145283ef98030a2d546d8ec2d1b9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+终端×
+[root@localhost~#dockerps-a--no-trunc CONTAINERID
+ATUS
+PORTS
+NAMES
+9bf1cecec3957a5cd23c24c0915b7d3dd9be5238322ca5646e3d9e708371b765
+2hours
+o.o.o.0.3306->3306/tcp
+[root@localhost#
+mysgl

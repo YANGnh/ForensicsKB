@@ -1,0 +1,16 @@
+# OCR: 79bb165ca01acc0f558e14da1f929848.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/79bb165ca01acc0f558e14da1f929848.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+ace_swapper_model 替换
+Aaab
+AB
+5文件中有5个结果-在编辑器中打开
+(】ui-2025-10-07-19-07-44.jsonD:\检..
+曾
+"faceswapper_model":"inswapper_128_fp1.)ui-2025-10-07-19-09-18.jsonD:\检..
+"face_swapper_model"："inswapper_128_fp1
+)ui-2025-10-07-19-11-05.jsonD:检..."face_swapper_model":"blendswap_256"()ui-2025-10-07-19-14-23.jsonD:\检.."faceswapper_model":"uniface256"{)ui-2025-10-07-19-17-40.jsonD:\检.. faceswappermodel":"uniface 256"
+5 6 7 76 77 78 79 80 81 82 83 84 85 86 87 88 89

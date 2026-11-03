@@ -1,0 +1,21 @@
+# OCR: 2ee48aab98691638a95f01fd2db353fe.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/2ee48aab98691638a95f01fd2db353fe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+g
+嫌疑人手机.tar>
+排序条件文件大小：
+从大到小
+从小到大个
+文件时间（创建时间）
+从早到晚个
+从晚到早
+文件时间（修改时间）
+从早到晚个常用过滤器
+从晚到早
+基本信息>
+图片>
+相册回收站
+我不想努力了

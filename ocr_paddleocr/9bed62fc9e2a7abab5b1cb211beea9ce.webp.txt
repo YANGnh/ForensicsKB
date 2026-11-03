@@ -1,0 +1,18 @@
+# OCR: 9bed62fc9e2a7abab5b1cb211beea9ce.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/9bed62fc9e2a7abab5b1cb211beea9ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+7 14 15 16 17
+序卡
+姓名性年齿
+86雷宇轩男
+32
+身份证号
+501114199109256000
+联系电话厂
+地址
+13834567890重庆市江津区几江街道大同路123号
+职务
+交通运输局公路规划设计科员

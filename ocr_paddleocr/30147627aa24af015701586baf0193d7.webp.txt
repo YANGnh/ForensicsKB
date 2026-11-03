@@ -1,0 +1,16 @@
+# OCR: 30147627aa24af015701586baf0193d7.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/30147627aa24af015701586baf0193d7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+g
+口三序号 52 53 54
+国历史命令
+1Pu-NWGz-6o0m-H2H4N1)/分区0>
+三用户名过滤 root root root
+三Shell类型过滤
+三命令过滤
+mkdirtest cdtest/
+tcpdump-iens33-s0-wtest.pcap
+在历史合

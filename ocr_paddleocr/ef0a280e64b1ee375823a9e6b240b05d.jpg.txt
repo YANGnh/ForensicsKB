@@ -1,0 +1,27 @@
+# OCR: ef0a280e64b1ee375823a9e6b240b05d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ef0a280e64b1ee375823a9e6b240b05d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+检材1-手机基本信息 via浏览器微信（官方版）
+699/4851
+69 246
+wxid_wni...246 Q账户信息
+通讯录
+验证消息
+43 6
+国国
+搜索节点
+好友列表公众号系统功能小程序
+同群非好友
+Q 8 11 22
+1
+回
+YUserld inc"limoon"α
+口序号口1
+三头像过滤丫
+三用户ID limoon
+limoon890
+三内部ID 过滤
+wxidu6umc696cms422

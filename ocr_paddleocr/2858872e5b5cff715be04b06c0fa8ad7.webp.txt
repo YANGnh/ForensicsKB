@@ -1,0 +1,43 @@
+# OCR: 2858872e5b5cff715be04b06c0fa8ad7.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/2858872e5b5cff715be04b06c0fa8ad7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+服务器
+637f9431c09c 10.11.0
+控制台常规品牌用户
++ 设备
+媒体库播放
+日
+设备
+a
+活动
+电视直播
+回电视直播目数字录像机
+插件
+寿高级
+插件网络
+活动全要时间
+系持
+25-11-09下年9:21 25-11-09 下午 9:21 25-11-09 下午 9:21 25-10-21下午6:56 25-10-21 下午 6:56 25-10-21 下午 6:56 25-10-21下午6:47 25-10-21 下年 6:47 25-10-21 下年 6:47
+等级
+信息信信息信息信息
+用户
+名字
+goyasha认冠成功
+goyasha在线，来自Chrome 已为用户goyasha更改密码
+goyasha B从 Edge Chromlum 斯开 goyasha在线，来自 Edge Chromium goyasha B从 Edge Chromium 斯开 goyasha认证成功
+goyasha在线，来自EdgeChromium 已为用户goyasha更改密码
+内客简介1
+IP地址：192.168.50.1 IP地址：192.168.50.1
+IP:192.168.188. IP 地址:192.168.188.1 IP地址：192.168.188.1 IP 地址: 192.168.188.1 P址:192.168.188.
+型
+AuthenticationSucceedec SessionStarted
+UserPasswordChanged
+SessionEnded SessionStarted SessionEnded
+AuthenticationSucceedec SessionStarted
+UserPasswordChanged
+Q
+Rows per page 25
+1-9 of9

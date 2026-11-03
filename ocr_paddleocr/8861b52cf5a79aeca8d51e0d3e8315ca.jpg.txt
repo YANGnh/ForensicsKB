@@ -1,0 +1,29 @@
+# OCR: 8861b52cf5a79aeca8d51e0d3e8315ca.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/8861b52cf5a79aeca8d51e0d3e8315ca.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+Avm-112-disk-0.qcow2>
+三序号口1 □2
+三容器ID 过滤
+a2aae89e3ac84ec... 3ba5cba800fe857..
+docker> 三使用的镜像
+过滤 redis
+mysql:5.7
+docker>
+品
+容器列表
+自动分配的容过滤
+redis-web mysql-web
+启动容器时运行的命令过滤
+redis-server mysqld
+三容器状态过滤
+Running Running
+三文件挂载
+过滤
+Y
+容器端口信息过滤
+6379/tcp; 3306/tcp:3..
+所属网络
+过滤 bridge bridge

@@ -1,0 +1,71 @@
+# OCR: 72280dd40d0d1570a76961f8d5dc94fd.webp
+# 来源: ./01-取证技巧/02-网络取证/72280dd40d0d1570a76961f8d5dc94fd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:06
+
+DESKTOP.pcapng
+文件(F)
+编辑(E)
+打开(O)
+视图V)
+打开最近的文件(R) 合并(M)..
+从Hex转储导入()..
+关闭(C) 保存(S)
+另存为(A)... 文件集合
+导出特定分组.. 导出分组解析结果
+导出分组字节流(B).1 导出 PDU到文件... Strip Headers...
+导出 TLS会话密钥...
+导出对象打印(P).. 退出(Q)
+跳转(G) Ctrl+o
+Ctrl+w Ctrl+s
+捕获(C)
+Ctrl+Shift+S Ctrl+Shift+X
+Ctrl+P Ctrl+Q
+TransmissionControlProtocol,Sr HypertextTransferProtocol
+分析(A)
+统计(S)
+Destination
+电话(Y)
+无线(W)
+@ael
+工具(T)
+Protocol
+192.168.27.132 192.168.27.169 192.168.27.132 192.168.27.169 192.168.27.132 192.168.27.169 192.168.27.132 192.168.27.169 192.168.27.132 192.168.27.169 192.168.27.132 192.168.27.169 192.168.27.132 192.168.27.169
+DICOM... FTP-DATA...
+HTTP. IMF... SMB... TFTP.
+[Community ID: 1:2yzzA9Ldd12NDFMPuCI63kWdQtk=]
+7132
+HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTD
+帮助(H)
+Length
+Info
+239GET/TJVIHTTP/1.1
+2601HTTP/1.12000K 442GET/caHTTP/1.1 169HTTP/1.1290OK 442GET/caHTTP/1.1 102HTTP/1.1200OK
+2586P0ST/submit.php?id=1389642286HTTP/1.1
+154HTTP/1.1200OK 442GET/caHTTP/1.1 169HTTP/1.1200OK 442GET/caHTTP/1.1 192HTTP/1.12990K
+700P0sT/submit.php?id=1389642286HTTP/1.1
+154HTTP/1.1200OK AA2GET-aHTTD/1
+aptured(184e bits)on interface etho,id 8),Dst:VMware_ba:49:ad(00:0c:29:ba:49:ad) st:192.168.27.132
+Port: 1258o, Seq: 1, Ack: 1, Len: 176
+eeee 0010 0020 0030 9040 9050 9060 9070 0080 990
+9
+oc
+29
+ba
+e
+d8
+5e
+8a
+84 c2 1b
+1d
+04 00 a0 74 48 54 54 50
+656e74 67
+30 20 28 63
+5349
+45
+20
+20 4e 54 20
+2f35
+39
+2

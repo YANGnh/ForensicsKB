@@ -1,0 +1,24 @@
+# OCR: 1d84c4ba40b29797f7538dc47967fd70.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/1d84c4ba40b29797f7538dc47967fd70.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+刘福荣的NAS-disk2.vmdk（37618）操作系统（427）Linux（427）网络配置信息（2）静态网络配置信息（2）
+门序号 01 02
+网络接名称网络连接名称UUID
+点此过滤
+点此过滤 etho
+点此过滤
+MAC地址点此过滤
+虚拟MAC地址IPv4地址
+点此过滤
+点此过滤
+192.168.77.100
+IPv4子网掩码IPv4默认网关IPv4广播地址IPv4DN
+点此过滤
+255.255.25...
+点此过滤
+192.168.77.2
+点此过滤
+点此过滤

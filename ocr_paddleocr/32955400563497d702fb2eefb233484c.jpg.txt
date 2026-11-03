@@ -1,0 +1,24 @@
+# OCR: 32955400563497d702fb2eefb233484c.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/32955400563497d702fb2eefb233484c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+表(T)
+id 过滤 1
+2 3 4 5
+FILE IHFO ACCOUNT 过滤
+012467853
+012467853 2
+012467853 3
+012467853 4
+5012467853
+IS_MOCK_SPACE 过滤
+FOLDER NAME 过滤
+文件文件 0文件 0文件 0文件
+配过滤
+公民信息.x1sx 计算器.apk Telegram.apk
+ORIGIN NAME
+Mattermost_2.15.0.apk
+在所有列中过滤
+BitLocker恢复密钥5FC2643D-3D04-48A7-..

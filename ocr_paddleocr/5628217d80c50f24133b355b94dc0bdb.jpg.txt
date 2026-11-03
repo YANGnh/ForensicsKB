@@ -1,0 +1,38 @@
+# OCR: 5628217d80c50f24133b355b94dc0bdb.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/5628217d80c50f24133b355b94dc0bdb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+文件个
+主页个
+开快速访问
+桌面下载国文档图片 data 财务
+此电脑
+用：本地磁盘（C）网络
+共享
+查看
+应用程序工具
+管理
+本地磁盘（C:）财务
+名称
+tj.exe
+财务
+tj_encryptfile.exe.exe
+★
+销售额.txt_encrypted
+修改日期
+2023/9/814:07 2022/4/42:32 2023/9/814:10
+类型
+应用程序应用程序
+TXTENCRYPTED...
+弘连大比武木马演示程序
+■弘连大比武木马演示程序
+弘 H
+弘连大比武木马演示程序
+弘连比武专用(赵开发
+大小
+2.966KB 5.790KB
+1KB X
+HOOK注入成功当前系统64位
+确定

@@ -1,0 +1,22 @@
+# OCR: 293b46ecd23db1b35e9cd358a08eae79.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/293b46ecd23db1b35e9cd358a08eae79.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+三序号口1 口2 口3 口4 口5 口6
+系统信息
+ubuntu-vq(724yif-HwVN-iBku-w1Pu-NWGz-6oom-H2H4N1)/分区0>
+名称过滤主机名系统
+操作系统类型
+系统版本号(小写）
+操作系统版本版本代码
+三英文名称过滤
+hostname
+PRETTYNAME
+OS_TYPE VERSIONID OS_NAME
+VERSION CODENAME
+值过滤
+api-server-2
+Ubuntu24.04.1LTS
+Ubuntu 24.04 trixie/sid noble

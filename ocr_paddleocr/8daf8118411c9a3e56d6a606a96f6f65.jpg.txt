@@ -1,0 +1,38 @@
+# OCR: 8daf8118411c9a3e56d6a606a96f6f65.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/8daf8118411c9a3e56d6a606a96f6f65.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+量1.txt -记事本文件(F)编辑(E)
+格式(O)查看(V)帮助(H)
+主机名： OS名称 OS版本： OS制造商 OS配置：
+OS构件类型：注册的所有人注册的组织：产品ID:
+初始安装日期：系统启动时间系统制造商：
+系统型号：系统类型处理器：
+IZTYOTRFU20DWUZ
+MicrosoftWindowsServer2008R2Enterprise 6.1.7601ServicePack1Build7601
+MicrosoftCorporation 独立服务器
+MultiprocessorFree Aliyun
+00486-001-0001076-84509
+2024/1/30,19:50:52 2024/5/11.15:18:30 Alibaba Cloud
+AlibabaCloudES x64-basedPC
+安装了1个处理器。
+[01]: Intel64 Family 6 Model 85 Stepping 4 Genuinelntel ~2500 Mhz
+BIOS版本：
+Windows目录：
+系统目录：启动设备：
+系统区域设置：
+SeaBIOS449e491,2014/4/1 C:/windows
+C:/Windowssystem32
+DevicelHarddiskVolume zh-cn;中文(中国）
+输入法区域设置：zh-cn;中文(中国）
+时区：
+物理内存总量：
+（UTC+08:00）北京，重庆，香港特别行政区，乌鲁木齐 1,966MB
+可用的物理内存：521MB 虚拟内存：最大值：1,966MB 虚拟内存：可用：157MB 虚拟内存：使用中：1.809MB
+页面文件位置：
+域：
+登录服务器：
+暂缺
+WORKGROUP 暂缺

@@ -1,0 +1,17 @@
+# OCR: 21822cc14b2545690adcf6df13e2c901.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/21822cc14b2545690adcf6df13e2c901.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+[]
+阿
+vcsa.pgs.cup
+③
+DatacenterPascup
+ClusterPguscup
+esxil.pgs.cup（未响应） esxi2.pgs.cup（未响应）
+E 即
+esxi3.pgs.cup（已断开连接）市场PC（已断开连接）
+财务（已断开连接）印
+印AD（B断开连接）印bocai（已断开连接）印meeting（已断开连接）

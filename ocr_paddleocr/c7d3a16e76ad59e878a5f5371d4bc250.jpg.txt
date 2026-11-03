@@ -1,0 +1,21 @@
+# OCR: c7d3a16e76ad59e878a5f5371d4bc250.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/c7d3a16e76ad59e878a5f5371d4bc250.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+后
+口
+BT
+aaPanel Linuxpanel
+X
+192.168.11.188:7788/index.php?do=login
+192.168.11.188
+嗯无法访问此页面 192.168.11.188花了太长时间进行响应请尝试：
+在web上搜索19216811188 检查连接
+检查代理和防火墙
+ERR_CONNECTION_TIMED_OUT
+诊断问题
+刷新
+X
+十

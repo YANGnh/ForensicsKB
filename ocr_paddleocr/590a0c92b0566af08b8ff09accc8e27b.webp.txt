@@ -1,0 +1,71 @@
+# OCR: 590a0c92b0566af08b8ff09accc8e27b.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/590a0c92b0566af08b8ff09accc8e27b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+性能程
+名称
+入
+cmd.exe cmd.exe cmd.exe cmd.exe
+应用历史记录
+启动
+PID 2896 4608 7220 7812
+conhost.exe conhost.exe csrss.exe csrss.exe ctfmon.exe dasHost.exe dllhost.exe dllhost.exe dwm.exe Texplorer.exe
+fontdrvhost.exe HipsDaemon.exe HipsTray.exe lsass.exe
+SMicrosoftEdgeUp...
+mongod.exe 简略信息(D)
+8544 1996 524 608 4032 8984 6984 8916 800 3504 896 1408 6844 760 1508 3112 4633
+用户状态
+详细信息
+正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正在运行正左
+服务
+文件
+主页
+★快速访问 ■桌面 ★下载
+Documents Pictures System32
+■此电脑 3D对象
+Documents
+Music Pictures Videos ★下载 ■桌面
+共享
+>
+查看
+管理
+应用程序工具
+bin
+此电脑》2
+本地磁盘(C:)>ProgramFiles>MongoDB>Server>5.0>bin
+名称
+★
+“。本地磁盘(C) 三新加卷(D:) 网络
+人
+InstallCompass.ps1
+mongo.exe mongod.cfg mongod.exe mongod.pdb mongos.exe mongos.pdb
+修改日期
+2021/9/19 19:29 2021/9/19 20:59 2025/4/1215:45 2021/9/1920:59 2021/9/1920:59 2021/9/19 20:19
+mongod.exe属性
+常规属性
+兼容性
+安全
+值
+说明
+文件说明类型
+文件版本产品名称产品版本
+版权大小
+修改日期
+详细信息
+类型
+WindowsPower...
+应用程序 CFG文件应用程序 PDB文件应用程序
+以前的版本
+MongoDBDatabaseServer
+应用程序 5.0.3.0
+MongoDBLegacyWindows7/WindowsSer. 5.0.3
+44.8MB
+2021/9/19 20:59
+大小
+2KB
+21,673KB
+1KB 45,935KB 521,076KB 29.096KB
+x
+4KB

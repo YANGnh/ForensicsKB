@@ -1,0 +1,35 @@
+# OCR: 40a2067bd7bda0e1bfddeef115e29a58.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/40a2067bd7bda0e1bfddeef115e29a58.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+OpenWrt
+服状态中系统 o
+服务
+ShadowSocksRPlus
+OpenCiash 动志DNS 网络唤醒
+终热网络共学
+Transrnission SmartDNS
+uPe Docker·
+玉网络避出
+动态DNS
+信服务状态来运行
+全调设通
+添加新服务
+动态DNS本
+状态
+更新最新服务列表
+不支持使用TCP进行DNS解断
+名称 Ipv4_preset
+2.8.2-12
+DDNS已开启自动运行
+停止DDNS 重底DDNS NO_LIST
+更新DDNS服劳列装
+向DNS服务照查海时，BusyBox的nslookup和hostip不变持使用TCP，而是使用默认的UDP！思应该为DNs薄求安装bind-host或knot-host或"drill软件包，
+查街主机名已注册的IP地址
+yourhostesirplayground.crg
+已编用
+上次更新下次更新
+永不已禁用
+指

@@ -1,0 +1,19 @@
+# OCR: 06ec62d7aaba71afc5172234f2a34caa.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/06ec62d7aaba71afc5172234f2a34caa.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+对象
+开始事务 id
+2
+ocuser@website(VPN服务器）-表
+自文本、筛选排序
+adminLevel
+userName 1admin
+【6导入?导出典数据生成咖创建图表
+userPwd
+5f66a846c5b983b16eb09c3c393b5d9e
+email
+78778443@qq.com
+p

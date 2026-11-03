@@ -1,0 +1,27 @@
+# OCR: 219a178522760aa692a5d9fc3b37bd94.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/219a178522760aa692a5d9fc3b37bd94.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+XPROXMOXVirtualEnvironment8.1.4搜康
+服务盟视图 v量数据中心
+Fopve
+节点pve Q搜索概要口备注 Shell 系统三网络·凭证 DMC
+建名称中 ens160 vmbro vmbr1
+还膜类别
+编疆
+网络设备 LinuxBridge LinuxBridge
+移除
+应用配置
+运行中是
+自动启动
+香是是
+VLAN 香香香
+端口从病 ens160
+Bond模式
+CIDR
+192.168.71.133/24 192.168.100.0/24
+网关
+192.168.71.2
+备

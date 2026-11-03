@@ -1,0 +1,49 @@
+# OCR: 20493b7953c4806f8c8f8bcf74a65c37.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/20493b7953c4806f8c8f8bcf74a65c37.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+DBBrowserforSQLite-FAFICFinalFile检材1/phishingldb.sqlite3
+文件（E）
+编辑(E)
+新建数据库（H)
+浏览数据（B）
+香着()
+工具(T）帮助(H)
+打开数据库（0）写入更改（w）
+编辑杂注(R)
+表(T)：auth_user
+Password
+过滤
+热行SQLX）
+V
+口
+last_login
+过滤
+pbkdf2sha256s1ooo0o0s
+倒退更改(R) 民8
+is_superuser 过滤
+2025-05-13.1
+username
+过滤 root
+撤销(u)
+A
+韵学
+last_name 过滤
+打开项目(P）过滤任何列
+email
+过滤
+保存项目（s）
+is_staff 过滤
+admin@admin.coml
+附加数据库（A）
+?关闭数据库（C）
+编辑数据库单元格（C 模式：文本
+is_active
+过滤 1
+2
+口
+x x
+BAO
+pbkdf2sha256s1000000s0iyKwst1Wozt6cvGmjhSFPsgVgz 7Ds9/KtaSgJSMAHx8eoYIOIDffpTLcHS1DKSiXgY-

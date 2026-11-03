@@ -1,0 +1,72 @@
+# OCR: 920b54b94eb17229de04da80ec1ac5ce.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/920b54b94eb17229de04da80ec1ac5ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+48052024/08/2302:29:19.284 48062024/08/2302:29:54.217 48072024/08/23
+02:29:54.217 02:30:05.273
+48082024/08/23
+02:31:05.276
+48092024/08/230 48102024/08/23
+0231:06.045
+48112024/08/23
+02:31:06.045
+48122024/08/23
+02:31:06.045
+48132024/08/23
+02:31:31.673
+48142024/08/23
+02:31:31.739
+48152024/08/23
+02:31:55.100
+48162024/08/2302:31:55.408 48172024/08/23
+02:31:55.410
+48182024/08/23
+02:32:05.285
+48192024/08/23
+02:32:29.050
+48202024/08/23
+02:32:29.050
+48212024/08/2302:32:29.051
+5456 9208 9208 5456 5456 5456 5456 5456 9208 9208 9208 5456 5456 5456 9208 9208 9208
+6448
+G1 6888
+so 688850 6276G1 6276
+G1 6036
+G1 6036G1 6036G1 688850 7944 S0 688850 6080G1 3788G1 6276G1 794450 7944 50 7944S0
+protoco1Port443v4
+SessionFeatureclass1ca1F11eTransfer:
+networkp
+702954756co router: 39371 kb1t/s, re11ab111ty: H1gh, connectionMode: Port443
+Estimated bandwidth capacity partner
+EstimatedRTTpartner702954756torouter:9ms,
+re1iabi1ity: High,ConnectionMode:Port443
+VoiP:Systemperformance(last60s):cPu1oad of:
+system -0%
+VoiP:Systemperformance(last60s):cPu1oad of system=0%
+Audiocontrol:Current capturing endpoint:
+"Defauit Communication Device"
+VoIP:
+VoP: AudioControl: Current rendering endpoint:"Defau7t Communication Device"
+[0,1)+=0.1, FF = .........A
+VoIP: AudioControl: Previous capturing endpoint volumes: Histogram (#samp1es=120): Range =[
+tvnetwork::StreamManagerInterna1s::ReadstreamParameters: type=6 (streanType_File,private), streamTypeUuid=(39f8c238-87a tvnetwork::streamManagerInterna1s::ReadstreamParameters: type=6
+(streamType_File，private)，
+streamTypeuid=(39f8c238-87a6
+tvnetwork::StreamManagerInternals::ReadstreamParameters:
+type=6
+(streanType_File,private),
+streamTypeUu1d=(39f8c238-87ae
+TaskharProoress..proaressworkerFunc
+aA
+SendfileC:\Users\ben\Desktop\PersonalData\Persona1_detai11s_2.x1sx
+systemperrormance(lastbus)
+CPUTOadOr
+vour
+sm
+CPersistentParticipantManager::RemoveParticipant:
+[702954756,556665233]
+CstreamManager[261]::Rece1vedEndSess1onO:reason=i
+[687062512,-1678197101]
+CPersistentParticipantManager::RemoveParticipant:

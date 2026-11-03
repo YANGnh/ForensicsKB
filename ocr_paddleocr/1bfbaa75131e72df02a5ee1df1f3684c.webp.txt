@@ -1,0 +1,14 @@
+# OCR: 1bfbaa75131e72df02a5ee1df1f3684c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/1bfbaa75131e72df02a5ee1df1f3684c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+名称
+￥00000000.jpg ￥00007081.jpg
+日期
+2025/5/1518:20 2025/5/1518:21
+类型
+JPG文件 JPG文件
+大小
+3,541KB 3.555KB

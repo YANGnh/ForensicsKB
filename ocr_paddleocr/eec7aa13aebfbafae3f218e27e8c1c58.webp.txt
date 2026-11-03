@@ -1,0 +1,38 @@
+# OCR: eec7aa13aebfbafae3f218e27e8c1c58.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/eec7aa13aebfbafae3f218e27e8c1c58.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+指纹 1
+指纹：1 协议 TLS
+TCP:1 源地址
+地址
+TCP 1
+Hosts 1
+目的IP
+104.18.45.79:4782
+100.64.8.50 Hosts:1
+IP地址
+104.18.45.79
+微步判定未知
+域名 0
+指纹类型 JA3
+情报内容
+DNS 0
+CDN服务器
+HTTP 0
+指纹哈希
+HTTPS 0
+UDP 0
+c12f54a3f91dc7bafd92cb59fe009a35
+目标地址
+104.18.45.79
+地理信息美国
+SMTP 0
+详情
+ICMP 0
+IRC 0
+771.49196-49195-49200-4919 9188-49187-49192-49191-49 9172-49171-157-156-61-60-5 1-13-35-23-65281,29-23-24,0
+ASN
+13335(CLOUDFLARENET)

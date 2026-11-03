@@ -1,0 +1,8 @@
+# OCR: a6854ca7ebe86eddf76de46b218492d8.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/a6854ca7ebe86eddf76de46b218492d8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+号开入00:00.00
+我叫季岸红，曾经我只是个再普通不过了，家用摄像头卖家，日子平淡如水，每天守着那小小的店面转转，勉强够糊口了。钱和柴可借是在上海大学重相识了，那是一段青涩美好的时光。大学校园的阳光总是那么灿烂，洒满了每一个角落。

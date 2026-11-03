@@ -1,0 +1,14 @@
+# OCR: ca565b55e1b39b381fcc5af6534f4014.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/ca565b55e1b39b381fcc5af6534f4014.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+8 品 o
+菲华国际 FEIHUAGUOJI
+请输入手机号请输入密码
+请输入验证码
+立即注册
+4889
+登陆下载安卓App
+找回密码

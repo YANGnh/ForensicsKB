@@ -1,0 +1,26 @@
+# OCR: 823ac8e564a323d908e0899978c57344.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/823ac8e564a323d908e0899978c57344.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+cketchat message @rocketchat(2..
+文本、7筛选排序
+name
+Rocket.Cat MoneyMoney
+Laoli laosu
+users@rocketchat(2024FIC聊天服..
+D4全部折叠类型颜色
+username rocket.cat
+Zhao Laoli laosu
+status online online offline offline
+导入导出咖分析数据生成
+statusDefault
+online(N/A)(N/A)(N/A)
+utcoffset
+active otrue 8true-11 true 8true
+type bot user user user
+updatedAt
+2024-03-1408:13:53.343 2024-04-2717:17:17.046 2024-03-1508:10:29.957
+roles(Array(Array(Array
+2024-03-1508:12:33.217(Array

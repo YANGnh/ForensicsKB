@@ -1,0 +1,27 @@
+# OCR: d1c0d64d759c97843a6b35e948afcc8d.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/d1c0d64d759c97843a6b35e948afcc8d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+32
+A
+sbd5b00959871b205f979f854d0a c94b19a454d2befeBe0b629f8d3
+Blockno
+c
+D
+UnixTinestanpDateTiae(UrC)Fron
+E
+2024/8/148:440x726b6be688bd62bedb25a739f6eb1f2e15681d63
+41351602 41351918
+1723625041
+1723625991
+2024/8/148:590xe90ad3f80e39e83b533eef3ed23c641ec51089c6
+o
+F
+BQuantity
+0x10a4f01b80203591ccee76081a4489ae1cd1281c 0x10a4f01b80203591ccee76081a4489ae1cd1281c
+G
+Method
+H
+60,000Transfer 30,000Transfer

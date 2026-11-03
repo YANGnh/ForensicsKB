@@ -1,0 +1,82 @@
+# OCR: b6f6935972a2cc8026294ec09b7a400e.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/b6f6935972a2cc8026294ec09b7a400e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+流量包.pcap 文样(E)
+编(E)
+AAO ftp llftp-data
+No.
+视图
+既转(G)
+捕获()
+分析(A)
+统计(s)
+电话
+无线w0
+#aa品
+中45TE
+Source
+Time
+216393 2825-89-23 09:26:15.288538
+216396 2825-89-23 09:26:15.288974 216404 2025-09-23 09:26:15.246211 216408 2025-09-23 e9:26;15.246779 216415 2025-09-23 09:26:15.250089 216419 2025-09-23 09:26:15.250653 2164252825-89-23 e9:2615.251243 216428
+2025-09-2399:26:15.2554
+216433 2025-89-23 09:26:15.25592 216465 2025-09-23 0926:15.280366
+192.168.1.244 192.168.1.244 192.168.1.244 192.168.1.244 192.168.1.244 192.168.1.244 192.168.1.244 192168.1.24 192.168.1.244 192.168.1.1
+工具
+Frane 216465:96 bytes on wire (768 bits), 96 bytes captured (768 bits) Linux cooked capture v2
+Internet ProtocolVersion 4,Src:192.168.1.1,Dst:192.168.1.244
+帮助()
+Destination 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1 192.168.1.1 192.168.1.244
+Transmission Control Protocol, 5re Port: 21, Dst Port: 53566, 5eq: 996, Ack: 197, Len: 24
+File Transfer Protocol (FTP)[Current working directory: ]
+Protocol FTP-DATA FTP-DATA FTP-DATA FTP-DATA FTP-DATA FTP-DATA FTP-DATA FTP-DATA FTP-DATA FTP
+Info
+Length
+152e FTP Data:1448bytes(EPASV)(STOR /home/ftp/zhaohong) 152eFTPData:1448bytes(EPASV)(STOR/home/ftp/zhaohong） 152e FTP Data:1448 bytes (EPASV)
+(STOR/home/ftp/zhaohong)
+152eFTP Data:1448 bytes
+(STOR /home/tp/zhaohong)
+(EPASV)
+152eFTPData:1448bytes(EPASV)
+(STOR /home/ftp/zhaohong)
+152eFTPData:1448bytes(EPASV)(STOR/home/ftp/zhaohong)）
+(STOR/home/ftp/zhaohong)
+152eFTPData:1448bytes(EPASV) 152e[TCPPrevious
+bytes
+sem
+1368FTP Data:
+1296 bytes(EPASV)
+(STOR
+/home/ftp/zhaohong
+96 Response:226 Transfer complete
+eeeee7 ee
+e8
+ee
+ee
+ee
+服 eeee
+f96c26a5 45
+4f9a 8
+ed92
+fb
+73 66 65 72 28 63 6f 6d
+ee e1
+e4 86
+f4 65
+c8
+75
+480e406bed9 8484008081016
+3628 92
+65 74 65 2e ed ea 7e6c
+o
+x
+区--+
+(EPASV)(STOR/home/ftp/zh
+1+-E· -L.G...
+- -u@·->-1-? ++++++-
+226Tran
+.-o..
+sfer con plete.-
+公众号·小谢取证

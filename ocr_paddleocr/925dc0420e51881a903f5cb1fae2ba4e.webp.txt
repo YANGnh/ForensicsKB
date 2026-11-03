@@ -1,0 +1,81 @@
+# OCR: 925dc0420e51881a903f5cb1fae2ba4e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/925dc0420e51881a903f5cb1fae2ba4e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+etclpam.d
+了文件名称一
+.=etc(1,546)
+=pam.d(21)
+直chfn
+chpasswd chsh
+common-account common-auth
+common-password common-session
+common-session-noninteractive
+cron login
+newusers
+other passwd runuser
+分区 offset 000002A0 000002B0 000002C0 000002D0 000002E0 000002F0 00000300 00000310 00000320 00000330 00000340 00000350 00000360 00000370 00000380 00000390 000003A0 000003B0
+文件 0
+61 6F E8 AF 89 65 65 20 63 70 20 74 20 69 23 90 20 61
+1
+75 72 87 86 OA 64 2E 20 2F 77 20 20 20 6E 20 E5 20 6D
+回预览 2
+3
+74 20 AA E7 61 20 73 20 6D 64 20 20 20 20 E4 8D 20 5F
+68 64 E5 A0 75 20 6F 20 79 66 20 20 20 70 BF 87 6F 63
+详细 4
+5
+2D 65 AE 81 74 20 20 20 5F 69 20 20 20 61 9D E6 70 61
+75 74 9A EF 68 20 20 70 74 6c 63 20 70 73 E7 A8 74 70
+6
+70 61 E4 BC 20 70 20 77 77 65 72 20 72 73 95 A1 69 2E
+缩略图
+64 69 B9 88 20 61 20 64 6F 20 79 20 6F 77 99 E5 6F 73
+8
+描述存在的存在的存在的
+存在的，已查看存在的
+存在的，已查看存在的，已查看
+存在的存在的存在的存在的存在的存在的存在的存在的存在的
+时间轴
+9
+61 6c 89 62 20 6D 5c 66 5F 5c 70 5c 6D 6F E8 9D 6E 6F
+74 73 E7 63 20 5F 0A 69 66 0A 74 OA 70 72 83 97 61 0A
+A 65 2E 99 72 72 70 20 6c 61 20 3D 20 74 64 BD 0A 6c 0A
+图例说明
+B 28 0A BB 79 65 77 20 65 63 20 62 20 3D 3A E5 61 20 00
+C 38 0A E5 70 71 64 20 3D 74 20 63 20 22 20 8A 75 20 00
+D 29 0A BD 74 75 66 20 2F 6F 20 72 20 6c 22 9B 74 20 00
+?文件类型 asci unix ascii_unix ascii unix asci unix txt
+同步
+E 20 23 95 EF 69 69 20 65 72 20 79 20 6F 0A E6 68 20 00
+F
+66 20 E5 BC 72 6c 20 74 5F 20 70 20 67 0A 8F 20 70 00 o
+器
+路径 Netc
+letclpam.d letclpam.d etclpam.d letclpam.d letclpam.d letclpam.d letclpam.d letc/pam.d letclpam.d letclpam.d letclpam.d etclpam.d Netc/pam.d Netc/pam.d
+UTF-8
+auth-update(8)
+f
+or
+details.
+共
+义登录密
+自
+定
+码
+C
+auth
+ed e.so
+bcrypt）至 reguir
+pam_pwdfil pwdfile=/et
+two factor
+c/my
+pwdfile
+crypt=bcryp
+t
+prcmpt="log password:. in
+#保留能力提升模块auth optional
+am cap.so
+00000

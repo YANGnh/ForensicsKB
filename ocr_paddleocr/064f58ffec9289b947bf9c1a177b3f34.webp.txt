@@ -1,0 +1,43 @@
+# OCR: 064f58ffec9289b947bf9c1a177b3f34.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/064f58ffec9289b947bf9c1a177b3f34.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+流量包pap
+文件(E)
+编箱(E)
+视图
+姚转(G)
+40自X29
+口
+No
+Time
+捕获(C)
+172276 2025-09-23 09:23:49.160532 173539 2825-09-23 09:23:54.591189 173543 2025-09-23 09:23:54.591572 173789 2825-89-23 e9:23:56.e78688 173791 2825-89-23 09:23:56.674724 173800 2825-09-23 09:23:56.880584 173882 2825-89-23 e9:23:56.680677 1738062025-09-23 09:23:56.083552 173888 2825-89-23 89:23:56.083728
+分析(A)
+统计(S)
+电话
+无线D
+?eQ正品
+Source
+192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1
+工具
+帮助(H)
+Destination 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244
+Protocol
+FTP FTP FTP FTP FTP FTP FTP FTP FTP
+Length
+Info
+93Response：22e欢迎使用FTP 83 Request:USER ftp1
+1e6Response:331 Please specify the password
+S3 Request:PASS nast
+95Response:3Bo Logir successful.
+syst
+78Request:5
+91 Response:215 untx 78 Request:FEAT
+87 Response:211-Features:
+o
+x
+区日+
+：小谢取证

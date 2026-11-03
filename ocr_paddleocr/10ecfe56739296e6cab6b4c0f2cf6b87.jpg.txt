@@ -1,0 +1,33 @@
+# OCR: 10ecfe56739296e6cab6b4c0f2cf6b87.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/10ecfe56739296e6cab6b4c0f2cf6b87.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+[root@server~]#bt
+二二=宝塔面板命令行：
+(1）(2)(3)（4）(5）(6)
+启面板服重
+停止面板服
+务
+启动面板服重载面板服务修改面板密码修改面板用户名
+强制修改MySQL密码
+（7）
+（22）显示面板错误日志
+关闭BasicAuth认证
+(23）
+（24）关闭谷歌认证
+改面板端口（8）
+（9）清除面板缓存（10）清除登录限制（11）取消入口限制
+（12）取消域名绑定限制（13）取消IP访问限制（14）查看面板默认信息（15）清理系统垃圾
+（16）修复面板（检查错误并更新面板文件到最新版）（17）设置自志切割是否压缩
+设置是否保存文件历史副本（18）设置是否自动备份面板
+（25)
+(0）取消
+请输入命令编号：14 正在执行（14）-
+curl:(28)Resolving timed out after 1e523milliseconds B-PaneL default info!
+外网面板地址：http：//：8888/12345678
+内网面板地址：http：//192.168.47.133：8888/12345678 username:hl123
+password：736aac7d
+Ifyou cannot access thepanel
+releasethefollowingpanelport[8888]inthesecuritygroup 若无法访问面板，请检查防火墙/安全组是否有放行面板［8888］端口

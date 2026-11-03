@@ -1,0 +1,29 @@
+# OCR: 20dee076706ee85f37cfac6d348e0af5.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/20dee076706ee85f37cfac6d348e0af5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+证据项No.2 (唯—ID:4)
+项目名称/编号：
+内部名称：注释(C)
+哈希值无哈希值”无
+图确定(O)
+David_Laptop_64GB
+[A:\David_Laptop_64GB.e01] 取消(A)
+创建日期：2024/11/10d10：47:51
+大小：59.6GB 安件4
+案件描述(D)
+块大小：64×512字节=32.0KB
+1.953.835块expected.1.953.835块actually referenced
+总容量：64.023.257.088字节=59.6GB
+每扇区字节数：512 扇皮端汁验045424
+分区类型：GPT
+Disksignature:7B38642C 分区1.EFlsystempartition
+(8A85B2F1-FF66-4425-A6E4-BA6021B6FE11) 扇区2.048-206.847
+分区表：扇区2 FAT32
+计算哈希值(m)... 计算哈希值（m）
+区
+压缩（G
+帮助(H)
+X

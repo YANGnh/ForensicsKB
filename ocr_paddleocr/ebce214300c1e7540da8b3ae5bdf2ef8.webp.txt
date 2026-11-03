@@ -1,0 +1,10 @@
+# OCR: ebce214300c1e7540da8b3ae5bdf2ef8.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/ebce214300c1e7540da8b3ae5bdf2ef8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+客户管理
+欢迎使用CRM客户信息管理系统
+当前登录：admin 客户总数
+2000

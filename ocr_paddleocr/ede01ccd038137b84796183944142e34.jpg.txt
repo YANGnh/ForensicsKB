@@ -1,0 +1,30 @@
+# OCR: ede01ccd038137b84796183944142e34.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ede01ccd038137b84796183944142e34.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+g
+唱检材3-计算机>
+国三序号 o 口39 口40 口41 口42 口43 口44 口45 口46 口47 口48 口49-50
+邮标题
+Chrome浏览器历史记录
+URL
+过滤
+ocdmuscocaraomam
+yivrwareLsA
+iStoreOs-首页-LuCl iStoreOs-首页-LuCI iStoreOs-首页-LuCI iStoreOs-首页-LuCI iStoreOs-首页-LuCi iStoreOs首页-LuCl iStoreOS-首页-LuCI
+iStoreOs-LuCI iStoreos-Luci iStoreos-Lucl iStoreos-Luci iStoreos-Luc
+过滤
+ps.1az.roo..z/uy/oss/o http://192.168.8.5/
+http://192.168.8.5/cgi-bin/luci/ http://192.168.8.5/cgi-bin/luci/ http://192.168.8.5/cgi-bin/luci/
+http://192.168.8.5/cgi-bin/luci/admin/quickstart http://192.168.8.5/cgi-bin/luci/admin/quickstart/ http://192.168.8.5/cqi-bin/luci/admin/quickstart/
+http://192.168.8.5/cqi-bin/luci/admin/network_quide
+http://192.168.8.5/cgi-bin/luci/admin/network_guide/pages/netw... http://192.168.8.5/cqi-bin/luci/admin/network_quide/pages/netw... http://192.168.8.5/cgi-bin/luci/admin/network_guide/pages/netw...
+httn://192.168.8.5
+saae/nat
+非访问时间起始
+结束
+2024-03-1314.43.40 2024-03-1514:50:46 2024-03-1514:50:46 2024-03-1514:50:51 2024-03-1514:50:55 2024-03-1514:5055 2024-03-1514:50:56 2024-03-15 14:51:38 2024-03-1514:51:38 2024-03-15 14:51:38 2024-03-1514:51:38 2024-03-1514:51:38 2024-03-1514:51:48
+三创建时间起始
+结束

@@ -1,0 +1,15 @@
+# OCR: ec76ec3c4f701b8e2ed322b1708f4157.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ec76ec3c4f701b8e2ed322b1708f4157.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+exportfs命令常用选项
+-a全部挂载或者全部卸载·-重新挂载
+·-u卸载某一个目录·-V显示共享目录
+?以下操作在服务端上-vim/etc/exports//增加/tmp/192.16B.133.0/24(rw,sync,noroot3guash)
+，exportfs-arv/不用重启nfs服务，配置文件就会生效
+。以下操作在客户端.mkdir/aminglinux
+mount-tnfs-onolock192.168.133.130:/tmp/aminglinux
+.touch/aminglinux/test.txt. Is -l is
+-oremount,nfsvers=3

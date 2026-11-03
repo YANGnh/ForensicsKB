@@ -1,0 +1,17 @@
+# OCR: aa1084caebf01e93209906b00493aac2.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/aa1084caebf01e93209906b00493aac2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+m ForensicsTool
+密钥计算数据库解密数据提取注册表分析关于
+请选择任务 file
+ntqq数据库解密，指定-f参数位文件路径，--uid参数为对应qg号的uid
+G:/2025盘古石杯/晋级赛/export/nt_msg.dbpassword
+开始
+u_nHyhLhea4x5UgeOs3Zt9yA
+清空输出
+[V]nt_msg.db解密成功，解密后数据库在源文件同目录下nt_msg_dec.db
+口
+x

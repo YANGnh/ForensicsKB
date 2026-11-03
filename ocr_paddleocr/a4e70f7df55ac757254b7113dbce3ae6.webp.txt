@@ -1,0 +1,23 @@
+# OCR: a4e70f7df55ac757254b7113dbce3ae6.webp
+# 来源: ./02-WriteUp/2026/2026-南宁-团队赛/a4e70f7df55ac757254b7113dbce3ae6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+Recipe
+FromBase64 Alphabet
+A-Za-zo-9+/: Strict mode
+AESDecrypt Key
+mysecretpasswo..
+Mode CBC
+UTF8V Input Raw
+IV
+Remove non-alphabet chars
+UTF8V
+12345678901234..
+Output Raw
+Input
+i+sCh/8TSp8rS4Kq2aqaLQ==
+RBC24
+1
+Output Admin123

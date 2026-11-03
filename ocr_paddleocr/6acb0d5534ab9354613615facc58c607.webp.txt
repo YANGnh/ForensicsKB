@@ -1,0 +1,25 @@
+# OCR: 6acb0d5534ab9354613615facc58c607.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/6acb0d5534ab9354613615facc58c607.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+区
+口三序号口1 口2 口3
+检材2/文件系统/检材2.E01/分区7/财务
+=名称过滤
+ltji_encryptfile.exe.exe tj.exe
+销售额.txtencrypted
+大小等于 5.65MB 2.89MB 264B
+三创建时间
+起始
+结束
+2022-03-04 15:58:50 2023-09-08 14:35:33 2023-09-0814:35:39
+三修改时间
+起始
+结束
+2022-04-04 02:32:46 2023-09-08 14:07:55 2023-09-08 14:10:43
+三全路径过滤
+在财务
+检材2.E01/分区7/财务/tj_encrypt_file.exe.exe 检材2.E01/分区7/财务/tj.exe
+检材2.E01/分区7/财务/销售额.txt_encrypted

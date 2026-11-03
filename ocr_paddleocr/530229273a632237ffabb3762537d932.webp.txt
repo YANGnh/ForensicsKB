@@ -1,0 +1,17 @@
+# OCR: 530229273a632237ffabb3762537d932.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/530229273a632237ffabb3762537d932.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+日 op co
+选择网络
+BaseMainnet
+Binance Smart Chain OPMainnet
+Polygon Mainnet zkSync Era Mainnet
+显示测试网络
+S
+Sepolia
+LineaSepolia
+十添加自定义网络
+x 添加添加添加添加添加.

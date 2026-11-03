@@ -1,0 +1,10 @@
+# OCR: 124ce5faf85d1b61d4faa3cd305a1e9b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/124ce5faf85d1b61d4faa3cd305a1e9b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+关于
+OBSStudio 29.1.3 (64bit)
+OBSStudio是一款免费、开源的视频录制与直播软值支持OBS项目
+傲出责献参贡

@@ -1,0 +1,57 @@
+# OCR: 3e1a765886e8ac4980bbdb87a04ef7b0.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/3e1a765886e8ac4980bbdb87a04ef7b0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+分区类型：GPT 了文件名称
+勤起始房区
+分区1[Basicdatapartition] 分区2[EFlsystempartition]
+分区3[Microsoft reserved partition]
+号分区4[Basicdatapartition] 口分区间隙
+-磁盘 offset
+1DFFF00000 1DFFF00010 1DFFF00020 1DFFF00030 1DFFF00040 1DFFF00050 1DFFF00060 1DFFF00070 1DFFF00080 1DFFF00090 1DFFFO0OA0 1DFFFOOOB0 1DFFF0O0C0
+文件 0
+00 00 00 00 52 00 00 66 96 61 65 05 00
+1
+00 00 00 00 61 05 04 69 F1 2B 61 04 00
+口预览
+2 00 00 00 00 72 01 A4 6c 68 47 57 00 00
+3
+00 00 00 00 21 01 00 65 81 63 68 00 00
+回详细
+4
+00 00 00 00 1A 80 20 2E AC 47 2B 00 00
+5 00
+00 00 00 07 80 1E 6B DB 39 53 00 00
+口缩略图
+6 00
+00 00 00 01 00 DO 65 01 76 37 00 00
+7
+00 00 00 00 00 c5 E3 79 65 62 74 00 00
+00 00 00 00 33 D9 4E 66 6D 4F 67 00 00
+?描述虚拟出的..
+?文件类型
+分区，存在的NTFS 分区，存在的FAT32 分区，存在的？
+分区，存在的NTFS 虚拟出的.
+图例说明
+9 00 00 00 00 92 98 80 69 5A 57 3D 00 00
+A 00 00 00 00
+B5 BE 00 6c 7A 76 3D 00 00
+B 00 00 00 00
+E5 2B 00 65 35 68 1D 00 00
+门 c 00 00 00 00 0A 02 OF 0A 59 75 77 00 00
+同步
+D 00 00 00 00 01 03 6B 03 71 6D 56 00 00
+E 00 00 00 00 05 OB 65 02 67 53 51 00 00
+F 00 00 00 00 06 A4 79 42 35 70 03 00 00
+了路径养
+Rar!0003
+o
+00000
+UTF-8
+0
+key
+file.keyfile B
+mzz5Ygg5
+a+GcG9vbowvhumSp eawh+s7tg==wvQ

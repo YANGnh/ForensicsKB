@@ -1,0 +1,9 @@
+# OCR: 145af45d3c775ec659e9674d84aacc4c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/145af45d3c775ec659e9674d84aacc4c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+本人李安弘欠陈造北款额
+80000元（大：捌万元）
+欠款人．李守身俗证，×× 日、25年月

@@ -1,0 +1,50 @@
+# OCR: 35a1e94d559a375ef941ff208a215dc8.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/35a1e94d559a375ef941ff208a215dc8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+园客串
+?
+FOR
+正在分析中..
+场景检测情报IOC 行为检测情报检测配置提取多维检测引擎检测
+g5N6R8w51HFY9In3MAaN5AWzF6zndcysRLN5R04RLSsT-9
+首次提交：2025/11/22
+文件大小：引擎检出：威胁分类：场景标签：
+HASH SHA256: MD5 SHA1:
+172.59KB 黑客工具
+末次提交：2025/11/25
+文件类型：分析环境：
+?
+木马家族：
+末次分析：2025/11/2500:30:05
+PE32executable(DLL)(GUI)Intel80386.forMSWindows,4sections
+FORENSIX
+Win10(190364bit,Office2016) II-1 Metasploit
+f3e1df88cdf8321780ff08558cdaf834d698f354054646347c4e783121a3fe97 fb0daad247a46379612b7329a26f7fdd
+80262a5519acb010e8900bbebb9ceec7f841d041
+出样本下载场景检测场景标签：
+衍生文件V
+报告下载V
+红队工具-C2框架类-Metasploit
+重新分析
+问题反馈
+DLL 恭
+在攻防场景下，C2框架类工具被攻击者用于远程控制和管理失陷主机，具体包含协同攻击、执行远程命令、维持持久访问、窃取信息、横向移动等，会
+给目标系统带来严重的安全性威胁。重保期间请确认使用者及用途，需要额外注意。根据MITREATT&CKTM矩阵（战术）模型，该工具检测到5条战术指标，可供参考。
+侦察
+资源开发
+初始访问
+执行
+持久化
+权限提升
+防御绕过
+凭证提取
+内网发现
+横向移动
+收集
+数据窃取
+命令控制
+施加影响
+公开报告

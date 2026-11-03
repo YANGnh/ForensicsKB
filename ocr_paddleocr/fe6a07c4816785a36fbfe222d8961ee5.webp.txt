@@ -1,0 +1,12 @@
+# OCR: fe6a07c4816785a36fbfe222d8961ee5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/fe6a07c4816785a36fbfe222d8961ee5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+w100
+欢迎使用网镜
+通过灵活的模板机制，可以对互联网上的任意网站内容进行固定，将繁重的互联网
+取证工作，变为轻松的鼠标点击。
+新建任师
+任务列表

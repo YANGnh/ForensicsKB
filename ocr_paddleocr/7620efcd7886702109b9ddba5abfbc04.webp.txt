@@ -1,0 +1,13 @@
+# OCR: 7620efcd7886702109b9ddba5abfbc04.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/7620efcd7886702109b9ddba5abfbc04.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+heNeo4iwindowsService
+'neo4j'is not installed
+/neo4j.bat status
+S E:/neo4j-coumity-3.5.14-windows;neo4j-couumity-3.5.14ibin> ./neo4j.bat instal1-service eo4j service installed
+S E:ineo4j-comumity-3.5.14-windowsineo4j-couunity-3.5.14ibin> ./neo4j.bat staart nknowm coulmand staart
+Isage: neo4j ( console  start  stop  restart  status  install-service uninstall-service ose
+sE:ineo4j-community-3.5.14-windowsneo4j-comunity-3.5.14\bin>./neo4j.bat start leo4j service started

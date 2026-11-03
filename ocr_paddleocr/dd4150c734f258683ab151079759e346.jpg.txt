@@ -1,0 +1,19 @@
+# OCR: dd4150c734f258683ab151079759e346.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/dd4150c734f258683ab151079759e346.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+三序号口1 口2 M3
+ClaraSmartphone.bin/分区24/app/com.whatsapp-Y-epki-afUiMdju53SxGMA==
+三名称过滤
+lib(10) oat(4) base.apk
+三扩展名过滤
+zip
+三类型*
+文件夹文件夹文件
+三大小等于 4KB 4KB 56.90...
+三创建时间
+起始
+结束
+2024-08-16 18:38:39 2024-08-1618:39:08 2024-08-1618:38:34

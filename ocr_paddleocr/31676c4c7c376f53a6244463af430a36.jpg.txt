@@ -1,0 +1,11 @@
+# OCR: 31676c4c7c376f53a6244463af430a36.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/31676c4c7c376f53a6244463af430a36.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+title
+021點玩家指南-了解如何准行21點游-bet365娱樂场
+21點玩家指南-了解如何道行21點游戴-bet365娱樂场 o
+url
+https://casino.bet365.com/player-quides/zh-CHT/blackjack https://casino.bet365.com/player-guides/zh-CHT/blackjack

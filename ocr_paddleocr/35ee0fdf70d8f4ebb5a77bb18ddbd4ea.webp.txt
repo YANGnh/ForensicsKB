@@ -1,0 +1,21 @@
+# OCR: 35ee0fdf70d8f4ebb5a77bb18ddbd4ea.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/35ee0fdf70d8f4ebb5a77bb18ddbd4ea.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+Kapplication
+android:label-"liekai"
+android:icon="@mipmap/ic_launcher"
+android:name="android.app.Application' android:extractNativeLibs-"false"
+android:appComponentFactory="androidx.core.app.CoreComponentFactory"> <activity
+android:theme="@style/LaunchTheme"
+android:name="com.example.liekai.MainActivity
+android:exported="true android:taskAffinity=""
+android:launchMode="singleTop
+android:configChanges="fontScale|layoutDirection|density|smallestScre android:windowSoftInputMode="adjustResize"
+android:hardwareAccelerated="true"> <meta-data
+android:name="io.flutter.embedding.android.NormalTheme"
+android:resource="@style/NormalTheme"/> <intent-filter>
+<action android:name="android.intent.action.MAIN"/>
+<category android:name="android.intent.category.LAUNCHER"/>

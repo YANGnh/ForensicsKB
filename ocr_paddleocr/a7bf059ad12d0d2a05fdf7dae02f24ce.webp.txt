@@ -1,0 +1,26 @@
+# OCR: a7bf059ad12d0d2a05fdf7dae02f24ce.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/a7bf059ad12d0d2a05fdf7dae02f24ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+modules.abc
+输入文件
+modules.abc
+脚本源代码
+defpackage
+p000entry/src/main/ets >entryability
+Bentrybackupability
+@EntrvBackupAbility pages
+eLoginPage >NotepadPage
+资源文件国Summary
+EntryAbili e
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+packag 年
+ren
+*
+Loa
+public
+pu pu pu pu pu pu
+pu/* pu
+/* pu

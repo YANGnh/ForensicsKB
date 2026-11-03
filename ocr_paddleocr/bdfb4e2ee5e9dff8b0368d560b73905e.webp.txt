@@ -1,0 +1,8 @@
+# OCR: bdfb4e2ee5e9dff8b0368d560b73905e.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/bdfb4e2ee5e9dff8b0368d560b73905e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+sso-user@vcsa[/var/LogJ$ cat/etc/photon-release vMwarePhotonos4.o
+PHOTON_BUILD_NUMBER=2f5aad892

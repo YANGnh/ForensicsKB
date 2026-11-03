@@ -1,0 +1,16 @@
+# OCR: 412dd00a544c22d6ad9400a7bfabb853.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/412dd00a544c22d6ad9400a7bfabb853.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+929dad307aa4
+"MacAddress":"02:42:ac:12:00.02"
+"Netw0rkID"："3c16ce3e97803f1eb08ded451760a"EndpointID""88a4922c99919e4db9683cb75360
+"Gateway":"172.18.0.1""IPAddress""172.18.0.2"
+"IPPrefixLen"：16"IPv6Gateway":
+n
+"GlobalIPv6Address"
+"GlobalIPv6PrefixLen"
+"DriverOpts":null,"DNSNames"：
+"rocketchat-mongodb-1""mongodb”

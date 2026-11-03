@@ -1,0 +1,17 @@
+# OCR: 1070072e3fb53d1910822ddc19419061.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/1070072e3fb53d1910822ddc19419061.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+TrootalocaLhost~l#dockerimages
+REPOSITORY Hysal
+TAG
+8.0.39
+rootalocaLhost
+进
+IMAGEID
+23b013c7c67d
+CREATED 4months
+aqo
+SIZE 572MB

@@ -1,0 +1,28 @@
+# OCR: a8ee75360b1f506fb06212a96b37b70d.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/a8ee75360b1f506fb06212a96b37b70d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+省文件
+周宇PC.E01.txt
+编辑
+查看
+×
+InformationforG:1V周宇PCV周宇PC：
++
+PhysicalEvidentiaryItem(Source)Information:[Device Info]
+Source Type: Physical
+[Drive Geometry] Cylinders: 16,709
+Tracks per Cylinder: 255
+Sectors per Track: 63 Bytes per Sector: 512
+Sector Count: 268,435,456[Physical Drive Information]
+DriveMode:yMwareVirtuaNVMeDisk
+DriveSerialNumber:C6554C59593E5423000C2960FBFD3D11
+Drive Interface Type: SCSI Removabledrive:False
+Source data size: 131072 MB Sector count:
+268435456
+[Computed Hashes]
+MD5 checksum:
+5eb26f4fe4c799a77d3d9c84e3413f2b
+口

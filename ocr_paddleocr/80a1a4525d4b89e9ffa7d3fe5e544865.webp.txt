@@ -1,0 +1,23 @@
+# OCR: 80a1a4525d4b89e9ffa7d3fe5e544865.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/80a1a4525d4b89e9ffa7d3fe5e544865.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+邑esxii-虚拟机
++邑创建/注册虚拟机
+虚拟机
+口控制台
+打开电源
+关闭电源
+挂起
+C刷新
+女操作
+5/vmfs/volumes/vsan:5282a7d9e55a18f1-3b7a1df356bb2fad/09002668-ea70-0a8d-e367-000c29baa37a/win11.vmx 5/vmfs/volumes/vsan:5282a7d9e55a18f1-3b7a1df356bb2fad/783f2868-2727-d23b-9830-000c29e92918/bocai.vmx 5/vmfs/volumes/vsan:5282a7d9e55a18f1-3b7a1df356bb2fad/32952a68-9cdf-9a33-f8af-000c298ce7b8/caiwu.vmx vCLS-3e654d56-ae76-3827-efc2-d822052139c0
+快速筛选器..
+状态
+无效无效无效正常
+Q搜索
+已用空间
+未知未知未知未知
+4项

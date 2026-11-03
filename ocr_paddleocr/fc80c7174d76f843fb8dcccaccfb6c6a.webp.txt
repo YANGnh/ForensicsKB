@@ -1,0 +1,28 @@
+# OCR: fc80c7174d76f843fb8dcccaccfb6c6a.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/fc80c7174d76f843fb8dcccaccfb6c6a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+话术、方法、技巧.zip
+肥话术、方法、技巧.zip
+文件(F)
+命令(C)
+添加名称
+Tame
+T T
+工具(S)
+解压到
+测试
+收藏夹(O）
+查看
+选项(N) 删除
+韩助(H) 查找
+向导
+信息
+国话术。
+方法、
+技巧.zip-ZIP压缩文件，解包大小为12114字节
+A
+常用话术,txt 吵群方法.txt 吵群技巧.txt
+大小 6.040 4.078 1,996

@@ -1,0 +1,36 @@
+# OCR: 03f2bca647b484159f6ed0684cb1a722.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/03f2bca647b484159f6ed0684cb1a722.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+导航器主机管理监控虚拟机
+Openwrt&wireGuard 监控
+github&密钥服务器监控
+品渗透测试机
+监控
+病毒研发机监控
+更多虚机
+localhostlocaldomain-虚拟机
+创建/注册虚拟机
+虚拟机
+歌病毒研发机品渗透测防式机
+控制结
+gihub&客销服务器
+口
+Openwrt&wireGuard
+快速篇选器
+打开电源
+关闭电源
+挂起
+刷新 C
+V
+状态
+察操作
+V
+正常?正常正常 ®
+?正常
+已用空间 80.01GB 81.14GB 80.02GB 525.84MB
+客户机操作系统
+MicrosoftWindows7(64位）
+其他Linux(64位） CentOS7(64位）其他(64位)

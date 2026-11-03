@@ -1,0 +1,25 @@
+# OCR: caaa4f757ff6ab8c5a85f1813324cf42.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/caaa4f757ff6ab8c5a85f1813324cf42.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+e
+download mobile mp3 pc
+PHPexcel UEditor uploads
+wdatepicker
+wheel Zxing
+config.php docke
+6 C
+<?php
+define('DB_TYPE define('DB_HOST' define('DB_USER'
+define('DB PWD',
+"mysql);'db");
+"www_dkewl_com');
+"www_dkewl_com);
+define'DB NAME',
+"www_dkewl_com');
+define('DB_PREFIX，");
+3306");
+define'DBPORT',
+define('DB_CHARSET，"utf8');

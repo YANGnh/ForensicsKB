@@ -1,0 +1,26 @@
+# OCR: eee9b4d561ec4d8f7d02a01a5bd2282f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/eee9b4d561ec4d8f7d02a01a5bd2282f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+吕保存 dataset
+1 2 3 4 5 6 7
+消息数据
+宁查询创建工具美化SQL（代码段
+captchabot
+SELECT
+COUNT(DISTINCTtelegram_user_id)
+FROM
+user_captcha_record WHERE
+D运行、停止鍋解释
+-。假设1代表成功通过验证码
+captcha_status=1
+ANDcaptcha_success_time >=2025-06-010e:0e:00';
+摘要信息
+结果1
+COUNT(DISTINCT tele
+2422
+单元格编辑器
+品数据
+公众号：金星路406取证人

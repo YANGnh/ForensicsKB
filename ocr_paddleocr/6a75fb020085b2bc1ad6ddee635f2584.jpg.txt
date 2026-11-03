@@ -1,0 +1,14 @@
+# OCR: 6a75fb020085b2bc1ad6ddee635f2584.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/6a75fb020085b2bc1ad6ddee635f2584.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+终端
+451a0978d664:/#find
+base.apk
+-name
+/data/app/~WBhWcXgxofFWnwmFrhZvg-
+/com.ss.android.ugc.aweme-VGSezkj2egAP31ox7Iazw==/base.apk
+451ao978d664:/#md5sum/data/app/-wBhwcXqxofFWnwmFrhZvg=-/com.ss.android.ugc.aweme-vGSezKj2egAP31ox7Iazw==/base.apk
+0ce8f95ba0401769a9f486749cc8206/data/app/WBhwcXqxofFWnwmFrhZvg==/com.ss.android.ugc.aweme-V_GSezKj2egAP31oX7Iazw==/base.apk 451a0978d664:/#

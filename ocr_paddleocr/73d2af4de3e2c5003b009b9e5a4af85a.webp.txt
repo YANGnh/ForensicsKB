@@ -1,0 +1,69 @@
+# OCR: 73d2af4de3e2c5003b009b9e5a4af85a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/73d2af4de3e2c5003b009b9e5a4af85a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+密码学工具箱ToolsFxv1.18.0build2024-04-29
+CTF
+编解码
+待处理：
+编码转换
+Biglnt
+字符处理
+逐行
+哈希
+对称加密(block)对称加密(Stream）非对称加密
+签名与验签
+MAC
+解码忽略空白符文件模式
+KVJEYIHHXSLOPIEBEAWT4ICCMFZWKNRUEDT3ZFXHUCASALJ6EDS23F7HVSTOJOFS4WHY32F5VQ=====
+basa32768
+base100
+base58(radix58)Obase58Check
+base85(AScll85)
+编码：
+escape
+base851Pv6
+OescapeAll
+jsHex(shell code)jsOctal
+radix32 utf7
+自定义词典：输出内容：
+radix64 utf7all
+Obase16 base62 O
+base91 Ohex octal radix8
+utf7(imap)
+ABCDEFGHUKLMNOPQRSTUVWXYZ234567
+charset:
+URL编码->Base64编码->字符串反转
+Q搜索
+UTF-8
+base2048 base64 base92 HexOctBin punyCode Oradix9 uuEncode
+编码
+base32 base64Url Obinary OhexReverse
+Qrcode
+PBE
+Browser
+Misc
+base36(radix36)base45
+base65536 decimal(ASCIl) htmlEntity
+quotedPrintableradix
+OradixN xxEncode
+解码·
+回
+times: 0
+unicode
+Z85(ZeroMQ)
+base69 ecoji
+htmlEntityAll
+radix10 urlencode
+运行商
+crack
+ApiPost
+压缩
+图片模块
+口
+经纬度相关
+x 关于
+公众号·小谢取证
+中

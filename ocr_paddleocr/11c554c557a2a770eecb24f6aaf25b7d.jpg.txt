@@ -1,0 +1,47 @@
+# OCR: 11c554c557a2a770eecb24f6aaf25b7d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/11c554c557a2a770eecb24f6aaf25b7d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+2024FIC网站服务器X
+终端X
++
+root@localhost#bt
+1（2） 3）
+重启面板服停止面板
+服
+启动面板
+圣
+重载面板服务
+（4）
+（5）修改面板密码（6）修改面板用户名
+（7）强制修改MySQL密码（22）显示面板错误日志
+关闭BasicAuth认证
+（23）(24）
+关闭动态口令认证
+设置是否保存文件历史副本
+（25)
+关闭面板ssl
+(26)
+修改面板安全入口
+（28）
+(e）取消
+请输入命令编号：14 正在执行（14）
+宝塔面板命令行
+改面板端口(8)
+（9）清除面板缓存
+清除登录限制
+(19)
+设置是否并启IP+User-Agent验证
+(11)(12) 13)(14)(15)(16)(17)(18)(19)(29)
+取消域名绑定限制取消IP访问限制查看面板默认信息清理系统垃圾
+修复面板（检查错误并更新面板文件到最新版）
+设置目志切割是否压缩设置是否自动备份面板关闭面板登录地区限制取消访间设备验证
+curl:（28)Resolving timed out after 45i6milliseconds curl:（28)Resolving timed out after 4516milliseconds curl:(28) Resolving timedout after 4517 milliseconds
+BT-Panel.defaultinfo!
+获取外网IP失败，请使用服务器公网IP+端口访问面板外网面板地址：https：//服务器公网IP：14131/adec8c75 内网面板地址：https：//192.168.8.89:14131/adec8c75
+username:j9oehwoa Password:******** Warning:
+Ifyoucannotaccessthepanel
+releasethefollowingport(8888 8888e443|2e|21)inthesecuritygroup
+注意：初始密码仅在首次登录面板前能正确获取，其它时间请通过bt5命令修改密码[root@localhost]#

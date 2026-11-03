@@ -1,0 +1,20 @@
+# OCR: 95e47acb3b29bdc08a9596072de862be.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/95e47acb3b29bdc08a9596072de862be.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+对象
+鼠开始事务 id
+7 6 5 4 3 2 1
+search_word@main(newsarticle)...
+自文本筛选排序导入导出两数据生成
+创建图表
+type
+search_word 0ai泻写文章生成器 OAI
+oai绘画 0哩哩
+0http://192.168.137.125/Home/Run/index
+0 192.168.137.125 ohttps://
+timestamp
+1714035741321 1714035721518 1714013293214 1714013231461 1714013212343 1713956127773 1713943605663
+search ad extra

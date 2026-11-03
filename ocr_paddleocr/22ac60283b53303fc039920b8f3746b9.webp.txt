@@ -1,0 +1,22 @@
+# OCR: 22ac60283b53303fc039920b8f3746b9.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/22ac60283b53303fc039920b8f3746b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+ImageStrikevo.2 setting
+ByzRoOt1
+隐写方讠［12】JPG改高度（原始高度*2）
+Img1Pat Img2Pat
+inf,*
+Y:/1846.jpg
+Pwn
+Reset
+[*］Foremost－运行结束，请查看结果
+【*]当前选择的隐写方式为：［12]JPG改高度（原始高度*2）
+[*］请在Img1中填入文件路径
+[*]JPG改高度－执行成功，图片保存在：/ imgs/result12.jpg
+viewer
+中国银行：6215697100021321859
+口
+X

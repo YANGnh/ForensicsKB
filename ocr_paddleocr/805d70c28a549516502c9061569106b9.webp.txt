@@ -1,0 +1,47 @@
+# OCR: 805d70c28a549516502c9061569106b9.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/805d70c28a549516502c9061569106b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14
+程琳
+A
+FullName
+孙斌高淑珍傅岩周军熊慧刘伟阎想刘浩王秀珍赵莉梁丽华雪
+B
+ID/PassportNumber
+530801200404274156 500119197712116825 532324200304288234 340825200601198370 330301194311118338 445122199910039977 140225200304214063 522635194112253307 430529198308010851 652324194308222397 210502196302263911 540229200510259297 150927200210171173
+Monthly 0-2500 20000+ 0-2500
+c
+Income
+10000-20000 10000-20000 20000+
+2500-5000 10000-20000 5000-10000 2500-5000 10000-20000 0-2500
+5000-10000
+USD
+D
+Phome Nombe +852 106523728123 +60 243428690343 +852180300901529
+060940949159
++63 +60
+888771506213 +91
+605278582761 +886241730036097 +886794430352471 +82406019630999 +886462533456450 +81703155832454 +852843510768221 +63579416638915
+E Email
+leizhu@yahoo.com weilin@yahoo.com 1i56@gmail.com
+oxiang@hotmail.com jinjuan@ganggu.cn zhujingemingli.cn
+tanguiying@fenggao.cn guiyingliu@yahoo.com hqin@qiang.cn
+liangjun@gmail.com bxu@xq.cn
+weihe@hotmail.com pingmaoehotmail.com
+F Addres
+Block10,Floc Block13,Floc Block6，
+Floorn
+Block19,Flo Block9,Floon Block10,Floc Block3，
+Floor
+Block2，
+Floor Floor
+Block5，
+Floor
+Block5，
+Block14,Flog Block14，
+Floo
+B1ock.16.
+F1o0

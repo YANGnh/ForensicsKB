@@ -1,0 +1,34 @@
+# OCR: 56cfc378bf81def8f54831508c292181.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/56cfc378bf81def8f54831508c292181.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+节点数：52908边：52907
+Abe
+nick_name( 照
+Abe
+已选择0条清空
+Abe
+phone手机 13712300
+invite_code-sgl01
+Abe
+user_name(. 孙
+交易金额
+199,400,000
+伞下会员交易总额 870,411,900
+s
+伞下会员交 1,069,811,.
+#
+所在属级 6
+数据筛选(1)
+invite_code(会员编号） Abcinvite_code（会员编号）
+精确匹配
++添加聘选字段
+sgl01
+按条件过滤
+Aa
++
+G导出
+x 回
+数据润速（1）设量列

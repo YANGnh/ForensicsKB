@@ -1,0 +1,11 @@
+# OCR: f21be4868f6d0c7603f665992cbbe37c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/f21be4868f6d0c7603f665992cbbe37c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+详细信息
+X
+内:python./run.py--source'E:/dst01jpeg--target"E:/1.ppg"--output"E:/dbjpg"--frame-processorfaceswapperfaceenhancer--similar-face-distance0.85--temp-frame-formatpng--temp-frame-quality18--output-vldeo-
+quality 18 --max-memory 4.--execution-provider cpu--execution-threads 4 来源：
+源文件：检材3-i计算机.Eo1/分区6/Users/L/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/ConsoleHost-history.txt E型：香

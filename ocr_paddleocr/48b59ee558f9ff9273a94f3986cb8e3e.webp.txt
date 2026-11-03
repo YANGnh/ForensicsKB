@@ -1,0 +1,15 @@
+# OCR: 48b59ee558f9ff9273a94f3986cb8e3e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/48b59ee558f9ff9273a94f3986cb8e3e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+名称
+important.xml
+custom.xml core.xml lapp.xml
+大小
+压缩后修改时间
+24596
+750 629 628
+23931 2025-04-0915:12
+4022012-07-0209:52 3252012-07-0209:52 3462012-07-0209:52

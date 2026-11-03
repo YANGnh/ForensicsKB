@@ -1,0 +1,29 @@
+# OCR: 735e12d10858d8429929a331d4ebd42c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/735e12d10858d8429929a331d4ebd42c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+2024-05-2010:40:49.568[main duler
+2024-05-2010-40-49.656[main] 2024-05-2010-40-49.724[main] context path ..
+2024-05-2010:40:49.727[main] 2024-05-20 10:40:49.734[main] 2024-05-2010:40:49.735[main] beanswaggerv2.e
+2024-05-2010:40:49.766[main] for16.78)
+INFO INFO INFO
+INFO INFO TNFO
+o.s.schedung.concu
+org.apache.coyote.http11.Http1iNioProtocol.1 o.s.boot.web.embedded.tomcat.TomcatwebServer
+s.d.s.webpluginsDocumentationpluginsBootst s.d.s.web.plugins.DocumentationpluginsBootst s d.s.webplugins.DocumentationpluginsBootst
+INFO
+com.jiasoft.JiasoftApplication:61 -Started
+2024-05-2010-40-49.781[mainl INF0com.iiasoft.JiasoftApplication:40
+Application isrunning!AccessURLs
+Local: External
+Swagger文档：
+http://localhost:9031/ http://127.o.1.1:9031/
+http://127.0.1.1:9031/doc.html
+2024-05-20 10-41-06 870[scheduling-11 INF0com.jiasoft.task PurchaseSeguenceTas
+2024-05-2010:41-06.882[scheduling-1]
+TNEO
+2024-05-2010:41:06.890[scheduling-1] 2024-05-20 10-4106.905[scheduling-1]
+INFO WARN
+con.jiasoft.task.PurchaseSeguenceTas com.jiasoft.task.PurchaseSequenceTas c.j.a.a.p.service.impl.PurchaseSeque

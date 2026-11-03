@@ -1,0 +1,15 @@
+# OCR: 53dae904e37f2f7888c77a576a3a2f15.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/53dae904e37f2f7888c77a576a3a2f15.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+终端X
+root@debian:~#netstat-anptgrep3oee
+tcp
+e
+rootddebian:#
+0.0.0.0.3000
+0.0.0.0*
+LISTEN
+1789/docker-proxy

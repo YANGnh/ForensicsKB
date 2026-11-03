@@ -1,0 +1,20 @@
+# OCR: 69febefaefcbcc571b9ab55dba4c0605.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/69febefaefcbcc571b9ab55dba4c0605.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+SCC
+签名验证成功
+vertcationresuit
+我到有效的APK签名v1
+签名者CERT.RSA（META-INF/CERT.SF）
+类型：X.509 版本：1
+序列号：0x1
+主题：C=us，o=Android，CN=AndroidDebug 有效期始：TueApr0820:21:07csT2025 有效期至：ThuApr0120:21:07csT2055
+公钥类型：RSA 指数：65537
+模数大小（位）：2048
+模数：243318304986481556425303442541070820902670482764088832956595 签名算法：SHA256withRSA
+签名0ID：1.2.840.113549.1.1.11
+MD5签名：4B8F13E4692E1D4A5E210D76D938B138
+SHA-1签名:6B2F02F0F6C32DDB2097AB64E703A17D2184 SHA-256签名:5ACEAACD412C366515419D1A19B31B5D0A0

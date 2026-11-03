@@ -1,0 +1,13 @@
+# OCR: da2ad6f4d6e8e0b623bd69571b1f7396.webp
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/da2ad6f4d6e8e0b623bd69571b1f7396.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+[rootalocalhost:]esxcfg-volune-l
+ScanningforMFS-6hostactivity(4096bytes/HB,1e24HBs)
+VMFSUUID/label:65efb8a8-ddd817f6-04ff-000c297bd0e6/datastore1 Canmount:Yes
+Canresignature:Yes
+Extentname:tio.ATA
+VMwareVirtual_IDEHardDrive
+00000000000000000001:3range:-197119（MB)

@@ -1,0 +1,19 @@
+# OCR: 213fbae8ad26010ea2b6982529a4c9b6.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/213fbae8ad26010ea2b6982529a4c9b6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+19 20 21
+$0cdccf41f6 $0cdccf41f6 $0cdccf41f6
+NULL NULL NULL
+生活
+Killer zhong wusheng commission
+博彩）
+NULL NULL NULL
+NULL
+37C8ECFF NULL
+NULL NULL NULL
+NULL NULL NULL
+NULL NULL NULL
+NULL CNY NULL

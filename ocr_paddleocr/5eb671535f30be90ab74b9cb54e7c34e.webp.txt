@@ -1,0 +1,26 @@
+# OCR: 5eb671535f30be90ab74b9cb54e7c34e.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/5eb671535f30be90ab74b9cb54e7c34e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+团名称
+A:/三星手机//mage.zip)data)data\com.vmos.pro\osimg/r/ot02)
+data storage system dev proc sbin sys init
+sepolicy
+ file_contexts.bin init.rc
+ service_contexts init.usb.configfs.rc init.usb.rc
+vm_property_contexts ueventd.rc
+ property_contexts
+system.prop init.vphw71.rc fstab.vphw71 defanlt.prop init.environ.rc seapp_contexts  init.zygote64_32.rc
+upgrade.rl init.zygote32.rc guestosInfo 回fix.sh
+ init shell.sh selinux_version index
+大小
+9 966 488 134 3239701970 831346428 4662723 2809159 1146720
+26
+1053624 171514 77070 25842 11175 9283 5691 5032 4853 4676 3.088 3.076 949 948 923 758 684 642 411 404 139 138 75 1
+压缩后大小修改时间
+9 966488 134 3239701970 831346428 4662723 2809159 1146720
+26
+1053624 171514 77 070 25842 11175 9283 5691 5032 4853 4676 3088 3076 949 948 923 758 684 642 411 404 139 138 75
+2024-01-12 1... 2023-06-06 1... 2023-06-06 1... 2024-01-12 1... 2023-06-06 1... 2023-06-06 1... 2023-06-06 1... 2023-06-061.. 2023-06-06 1... 2023-06-06 1.. 2024-05-22 1... 2023-06-061... 2023-06-06 1... 2023-06-061... 2023-06-06 1.. 2023-06-06 1... 2023-06-06 1... 2023-06-06 1... 2023-06-06 1... 2024-01-12 1... 2023-06-06 1... 2024-05-22 1... 2023-06-06 1... 2023-06-061..

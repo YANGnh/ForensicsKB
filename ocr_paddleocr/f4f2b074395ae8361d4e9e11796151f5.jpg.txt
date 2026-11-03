@@ -1,0 +1,16 @@
+# OCR: f4f2b074395ae8361d4e9e11796151f5.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f4f2b074395ae8361d4e9e11796151f5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+D:)>
+PentestTools>Webshell >AntSword>antSword-master>antData>
+名称.temp cache
+encoders plugins
+db.ant
+修改日期
+2023/5/112:00 2024/6/818:00 2023/5/1.12:00 2023/5/112:00 2024/6/817:53
+类型文件夹文件夹文件夹文件夹 ANT文件
+大小
+9KB

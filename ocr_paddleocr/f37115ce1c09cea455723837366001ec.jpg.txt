@@ -1,0 +1,18 @@
+# OCR: f37115ce1c09cea455723837366001ec.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/f37115ce1c09cea455723837366001ec.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+g
+Emma的苹果手机
+口三序号口1 □2 口3 口4
+三名称过滤
+本机号码是否加密
+P
+基本信息》
+最后登录(AppleID)iCloud AppleID登录历史
+设备信息三内容过滤
+85297837410 是
+emmaemma.851231@gmail.com
+local;emmaemma.851231@gmail.com

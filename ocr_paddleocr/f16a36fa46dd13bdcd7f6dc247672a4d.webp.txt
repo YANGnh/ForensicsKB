@@ -1,0 +1,63 @@
+# OCR: f16a36fa46dd13bdcd7f6dc247672a4d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/f16a36fa46dd13bdcd7f6dc247672a4d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+ident.CFg network.CFg passwd Pro.key
+random-seed secrets.tdb shadow
+smbpasswd super.dat unraider
+一分区 offset
+文件
+0
+742944912 742944928 742944944 742944960 742944976 742944992 742945008 742945024 742945040 742945056 742945072 742945088
+30 5B 43 52 22 6E 31 0A 2E 45 2E 52
+1
+5D 30 53 4F OD 6F 39 4E 32 57 35 56
+回预览
+2 3D 5D 5B 54 OA 22 32 45 35 41 36 45
+3 22 3D 30 4F 55 OD 2E 54 35 59 2E 52
+回详细
+4 31 22 5D 43 53 0A 31 4D 2E 5B 31 31
+5
+22 65 3D 4F 45 49 36 41 32 30 32 3D
+6
+OD 74 22 4c 5F 50 38 53 35 5D 38 22
+缩略图 7
+0A 68 62 5B 44 41 2E 4B 35 3D 22 31
+8
+42 30 6F 30 48 44 35 5B
+2E 22 OD 31
+存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+时间轴
+10
+4F 22 6E 5D 43 44 36 30
+30 31 0A 34
+4E OD 64 3D 50 52 2E 5D 22 39 44 2E
+cfg cfg
+key tdb
+dat
+图例说明
+11 44 0A 30 22 5B 5B 31 3D OD 32 4E 31
+12 4E 42 22 69 30 30 32 22 0A 2E 53 31
+13 49 52 OD 70 5D 5D 39 32 47 31 5F 34
+14 43 4E 0A 76 3D 3D 22 35 41 36 53 2E
+15 53 49 50 34 22 22 OD 35 54 38 45 31
+Nconfig lconfig iconfig Nconfig Nconfig iconfig Nconfig Aconfig Iconfig iconfig
+同步 V
+0]="1"
+美
+UTF-8
+BONDNICS
+[O]="etho"
+BRNI
+cs[o]="bondo"
+P
+ROTOCOL[O]="ipv4
+USEDHCP[O]=" non
+IPADDR[O]="
+192.168.56.129" NETMASK[0]="255.255.255.0"
+GAT
+EWAY[0]="192.168.56.128"
+DNSSE
+RVER1="114.114.1

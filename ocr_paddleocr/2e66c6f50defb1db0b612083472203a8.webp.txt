@@ -1,0 +1,16 @@
+# OCR: 2e66c6f50defb1db0b612083472203a8.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/2e66c6f50defb1db0b612083472203a8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Skipto maincontent
+Django administration Welcome,root.View site/Changepassword/ Logout
+Toggletheme(currenttheme:auto) Toggletheme(currenttheme:light） Toggletheme(currenttheme:dark)
+Site administration
+Authentication and Authorization
+GroupsAddChange Users Add Change
+User Info
+邮件点击率统计 AddChange 邮箱账号密码信息AddChange
+Recent actions
+Myactions Noneavailable

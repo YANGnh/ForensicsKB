@@ -1,0 +1,24 @@
+# OCR: 6be03678671f869c89e029b906a16c12.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/6be03678671f869c89e029b906a16c12.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+对象
+冒开始事务 userid
+sysuser@jinyi（112MySQL)-表
+自文本、筛选排序
+dept id
+1 2 101 102 103
+username
+103admin 1zhangjie 1zt
+1zhangrunshuai 1yuankaizeng
+导入导出吨数据生成咖创建图表
+nickname
+admin 张杰 zt 张润帅袁凯增
+usertype
+00 00 00 00 00
+email
+x@163.com x@qq.com
+phonenumber 15888888888 15666666666 18612312312 18560628096
+sex 1 1 0 0 0

@@ -1,0 +1,51 @@
+# OCR: 2e7110d4b7de5282c3240acc30177b4a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/2e7110d4b7de5282c3240acc30177b4a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+DeDetect It Easyv3.10[Windows10Version2009] (x8664) 文件名
+FAFIC_FinalFilel检材1recphrase
+文件类型 ELF32
+①文件信息每MIME OELF 程序
+0003
+扫描自动
++
+文件大小
+43.07MiB 党内存映射图可视化
+节
+0003
+反汇编 0搜索
++
+字节序
+LE
+ELF32
+操作系统Linux(-[ARM32信DYN] 打包工具：UPX(4.22)[NRV,brute]
+附加：Binary[偏移=0x6000大小=0x02b0afc8]
+未知：未知
+签名目录
+标志
+日志
+数据库
+基址（BA）
+00000000
+回十六进制#哈希模式
+32位
+國字符串来信息摘
+架构
+入口点
+00013b84
+国签名 Y提取器
+类型
+ARM
+611毫秒
+VirusTotal
+YARA DYN
+S s
+S
+扫描
+??
+口
+x
+?高级选项 <T>符号重组
+快捷键容选项 0关于 X退出

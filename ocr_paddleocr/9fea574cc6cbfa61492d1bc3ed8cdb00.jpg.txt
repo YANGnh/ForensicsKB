@@ -1,0 +1,32 @@
+# OCR: 9fea574cc6cbfa61492d1bc3ed8cdb00.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/9fea574cc6cbfa61492d1bc3ed8cdb00.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+"Propagation":"Type"."volume"
+"Name"："8191a7eb6e2b65e7261d97b3e3d27ddeced29e7e44251e2cc012c09ccb1592f2"
+"Source"："/var/lib/docker/volunes/191a7eb6e2b65e7261d97b3e3d27ddeced2907e44251e2cc012c09ccb1592f2/_data""Destination"："/var/lib/postgresqu/data
+"Driver".
+"local
+"Mode"
+"RW"：true,
+"Propagation":
+'Config"
+"Hostname"："643626ab3d8b"
+"Donainnane":"User"：
+"Attachstdin":false,"Attachstdout":false."Attachstderr".
+false
+"ExposedPorts"：
+"5432/tcp"："8065/tcp
+"Tty"-false
+"OpenStdin"false,"StdinOnce":false,"Env"［
+"pATH-/mm/mattermost/bin:/usr/locau/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lib/postgresql/12/bin
+"GOSUVERSION=1.17"LANG-en US.utf8""PGMAJOR=12"
+"PGVERSION=12.18-1.Pgdg120+2"
+"pGDATA=/var/lib/postgresql/data"POSTGRESUSER=PmUSer"
+"POSTGRESPASSWORD-mOstest""POSTGRES DB-mattermost test"
+"Cmd":null
+"Image""mattermost/mattermost-preview""Volunes"f
+"/mm/mattermost-data":0,
+"/var/lib/postgresql/data"：

@@ -1,0 +1,18 @@
+# OCR: 63ada386ab0d732a8bd965a52afe12e0.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/63ada386ab0d732a8bd965a52afe12e0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+出1.计算机检材.E01>
+三序号口1
+三对方IP 过滤
+192.168.50.238
+远程桌面
+本机连接过的设备
+三连接过的端口
+过滤 3389
+三登录账户过滤
+DESKTOP-UQUHQ5E/administrator
+Y
+三登录密过滤

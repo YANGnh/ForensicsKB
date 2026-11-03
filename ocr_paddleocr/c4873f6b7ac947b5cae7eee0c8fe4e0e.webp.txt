@@ -1,0 +1,9 @@
+# OCR: c4873f6b7ac947b5cae7eee0c8fe4e0e.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/c4873f6b7ac947b5cae7eee0c8fe4e0e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+谢明英谢明英陆陆陆俊梅
+15979347688 15979347688 15979503550 15979503550
+中曹杨李

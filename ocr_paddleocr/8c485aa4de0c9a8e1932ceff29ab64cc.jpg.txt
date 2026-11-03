@@ -1,0 +1,41 @@
+# OCR: 8c485aa4de0c9a8e1932ceff29ab64cc.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/8c485aa4de0c9a8e1932ceff29ab64cc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+文本 1
+1 1 1 1 1 2
+EO
+303 304 305 306 307 308 309 310 311 312 313 314
+十六进制
+图便
+I stole David's .cryptocurrency
+usedhisrecoveryseedsyousentmetomisappropriatehisIDFC... 单握，
+昨晚怎糕磨祝呀
+双，
+快黏告诉我嘛
+好书？效，
+有空回要我喝？
+好%，
+收到我的電活或妞息蛊快覆我吧始娣，是不是出了什度周题？
+我致電很多次给你物什度不接睫？始娣，你去哪？你逼不回我，
+我便去失既人口啦且自首
+Callmeback ifIcannotreceiveyourcall,Iwill gopolicestationtoreportyoumissingandmaybealsocanconfessmyguilt
+≤msg>simghdlength=0~length="139561"aeskey="b3f5f12230235d3dfe4f90e4984cBebfencryver=1"md5=44c089af8c9a1414et
+网页
+TEOE 59438725323 11393758981 42691354541 03919822138 31662112208 91333071392 52242794563 76119531763 80463595779 42887150870 69454714830 12642024913
+#O
+2 2 2 2 2 2 2 2 2 2 2 2
++HLOE
+1 1 1
+hdlength-"e"length-"139561"aeskey-"b3f5f12230235d3dfe4f90e4984c8ebf"encryver-"1"nd5-"44ce89af8c9a1414edbBee6026be3307"originsourcend5-"obbe83bdaBf3e13735e9009078a231fe"
+<msg><img
+filekey="wxid_t7zgo57j9mej22_314_1725e1221e"uploadcontinuecount-"e"imgsourceurl-""hevc_mid_size="139561"cdnbigimgurl-""cdnmidimgurl=
+1 1 1 1 1 1 1 1 1 1 1 3
+3052820180044b38490201000284a695112702038f525982844b7d9b2b020466d198f2042432353830663531362d623137372d343463312d623732642d6566396562313331663331618204811d0a02820100840e
+cdnthumbur1-
+3052820100044b30490201000204a695112702030f52590204467d9b2b020466d198f2042432353830663531302d623137372d343463312d623732642d6566396562313331663331618204011d8a02020160040e
+cdnthumblength
+"3971"cdnthumbwidth-"9e"cdnthumbheight-"12e"cdnthumbaeskey-"b3f5f1223e235d3dfe4f96e4984c8ebf"/><appinfo><appid></appid><appname></appname><version>e</version><isforceupdate>1 </isforceupdate><mediatagname></mediatagname><messageext></messageext><messageaction></messageaction></appinfo><MAsset><masseturlForSystem>
+<1[CDATA[F58B98FE-Be1e-44B7-8BF7-F23AF15DCFCA/Le/ee1J]></m_assetUr1ForSystem><misleedOriginImage>e</m_isNeedOriginImage><m_isFailedFromIcloud>0 </m_isFailedFromIcloud><m_isLoadingFromIcloud>e</m_isLoadingfronIcloud></MAsset></m5g>

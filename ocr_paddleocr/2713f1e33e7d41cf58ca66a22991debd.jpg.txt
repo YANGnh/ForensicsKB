@@ -1,0 +1,12 @@
+# OCR: 2713f1e33e7d41cf58ca66a22991debd.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/2713f1e33e7d41cf58ca66a22991debd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+图openwrt br-lan
+Linkencap:EthernetHWaddr0:8C:29:41:7D:F8
+inet addr:192.168.8.5Bcast:192.168.8.255Mask:255.255.255.0 inet6addr:fdbc:6f08:9c51::1/60Scope:Globa1
+inet6addr:fe80::20c:29ff:fe41:7df8/64Scope:Link UP BROADCAST RUNNINGMULTICASTMTU:15OOMetric:1
+Rx packets:414 errors:0 dropped:0 overruns:0 frame:0 Tx packets:403 errors:0 dropped:0 overruns:0 carrier:0 collisions:dtxqueuelen:ig00
+RXbytes:407180(397.6KiB)TXbytes:113267(110.6KiB

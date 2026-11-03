@@ -1,0 +1,18 @@
+# OCR: f62449cbeec72e84fba445c9d0cd4f2a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f62449cbeec72e84fba445c9d0cd4f2a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+对象
+开始事务 id
+adminusers@yourcodexyz(网站服..
+自文本筛选排序
+username admin
+password
+【6导入【导出数据生成咖创建图表
+$2y$10$ZZeYefOm5jaq4QV9/TivL.Ufh1Lr3i2ed.s1hy5Nc9kdfVpBjsi60
+name
+Administrator
+avatar
+images/defa

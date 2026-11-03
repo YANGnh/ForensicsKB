@@ -1,0 +1,20 @@
+# OCR: 9f71f3cc3154beb93081a3c92176398b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9f71f3cc3154beb93081a3c92176398b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+cjdjglakpkcg
+QSearchextenslons
+熙
+On
+Description
+Authenticator
+Authenticatorgeneratestwo-factorauthenticationcodesinyourbrowser
+Version 6.3.6
+Size
+18.6MB
+☆
+Enterpasswordtodecryptaccount data.
+Ok
+熙

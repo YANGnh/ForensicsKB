@@ -1,0 +1,18 @@
+# OCR: d40ce8f24a0e5bfe93b660e3e0b6ab6c.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/d40ce8f24a0e5bfe93b660e3e0b6ab6c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+@中国蚁剑
+AntSword编辑窗口调试关于程序Ctrl+Shift+ 语言设置Ctrl+Shift+L 代理设置Ctrl+Shift+A 显示设置Ctrl+Shift+D
+编码设置Ctrl+Shift+E 系统设置Ctrl+Shift+S 插件市场Ctrl+Shift+P 检查更新Ctrl+Shift+U
+退出程序
+Q
+http://423.12.23.84/ass.php
+IP地址
+17.91.21.18 17.91.21.18
+.ph10.0.0.10
+.ph43.136.168.11
+143.92.57.165 192.165.5.15 172.19.0.79
+特美美局日香瑞瑞

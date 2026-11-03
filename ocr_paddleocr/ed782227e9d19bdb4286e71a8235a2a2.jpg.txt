@@ -1,0 +1,75 @@
+# OCR: ed782227e9d19bdb4286e71a8235a2a2.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ed782227e9d19bdb4286e71a8235a2a2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+openwrt openwrt
+21.7419831
+国日口来操作
+upperdir/workdirofanotherMoun
+overlayfs:upperdirisin-useas
+accessing
+files
+21.7424291
+froMboth
+Mounts
+orkdir
+nuerlaufs:
+accessing files
+21.7429291
+result
+will:
+is
+in-use
+from both
+ill
+Mounts
+overlayfs:
+files
+accessing
+21.7433521
+accessing
+lowerdir
+is
+froMbothMounts
+as
+result
+in-use
+behayior.
+undefined
+10
+upperdir/workdirof
+in
+as
+result
+will
+undefined
+another:
+behavior.
+upperdir/workdirof
+undefined
+in
+another
+behavior
+upperdir/workdirof
+is in-use
+overlaufs:
+lowerdir
+as
+another
+froMbothMountswillresultinundefined
+files
+behayior
+BusyBox v1.35.0 (2023-07-05 07:27:39 UTC) bui1t-in she11
+(ash)
+Tstorens
+PoweredbyOpenwRT
+iStore0S 22.03.6.2024030112 root@iStoreos:/#
+VMwareTools
+目存储自备注
+未安装 1磁盘
+Mount Moun
+Moun
+常关闭、重新
+操作编辑备注

@@ -1,0 +1,22 @@
+# OCR: eb0f5072a14a90a4a6a7486b545ee744.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/eb0f5072a14a90a4a6a7486b545ee744.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+新加卷（D:)>Rope-Opal-03a>models
+此电脑>
+名称
+79999_iter.pth
+codeformer_fp16.onnx det_10g.onnx
+epoch_16_best.ckpt faceparser_fp16.onnx GFPGANv1.4.onnx GPEN-BFR-256.onnx GPEN-BFR-512.onnx
+inswapper_128.fp16.onnx occluder.onnx
+rd64-uni-refined.pth res50.onnx
+scrfd 2.5g_bnkps.onnx
+w600kr50.onnx yoloface 8n.onnx
+修改日期
+2024/3/1719:16 2024/3/1719:18 2024/3/1719:13 2024/3/1719:18 2024/3/1719:18 2024/3/1719:20 2024/3/1719:18 2024/3/1719:20 2024/3/1719:21 2024/3/1719:19 2024/3/1719:19 2024/3/1719:21 2024/3/1719:19 2024/3/1719:21 2024/3/1719:17
+类型
+PTH文件 ONNX文件 ONNX文件 CKPT文件 ONNX文件 ONNX文件 ONNX文件 ONNX文件 ONNX文件 ONNX文件 PTH文件 ONNX文件 ONNX文件 ONNX文件 ONNX文件
+大小
+52.041KB 184158KB 16,528KB 56,085KB 26,002KB 332,282KB 73,941KB 277.589KB 270,790KB 55,966KB 4.611KB 107,312KB 3,214KB 170,297KB 12,344KB

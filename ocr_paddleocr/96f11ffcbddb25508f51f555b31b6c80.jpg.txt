@@ -1,0 +1,16 @@
+# OCR: 96f11ffcbddb25508f51f555b31b6c80.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/96f11ffcbddb25508f51f555b31b6c80.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+g
+用基本信息
+DavidLaptop>
+连接过的Wifi
+三序号口1
+三名称过滤
+ErrorError5G
+密码过滤
+f12345+f12345
+Y

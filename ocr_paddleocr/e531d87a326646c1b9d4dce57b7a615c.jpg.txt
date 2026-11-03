@@ -1,0 +1,37 @@
+# OCR: e531d87a326646c1b9d4dce57b7a615c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e531d87a326646c1b9d4dce57b7a615c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+对象昌开始事务 userjd
+2 101 102 103 104 105
+sys_userji-mei(2024FIC)表
+自文本
+筛选
+排序
+deptjid
+username
+103admin
+100 ry
+100sandianhui 100admintest
+100sanhui 100财务
+(Nul)sandianhui.
+sys job@j-mei(2024FIC)表
+导入导出数生成创建图表
+nick_name 超级管理员开发账户优意乐购
+试优意乐购
+sankunlun 优意乐购
+user.type
+00 00 00 00 00 00 00
+email
+sandianhui@163.com
+phonenumber 15888888888
+sex 0
+0 0
+0 0
+avatar
+password
+S2as10SBDlhJnWg/Hy.EgODXQ8kezBQE9EUwhFaNigQruuIDUDupuzTOby S2aS10SZJB720vubVSZyU0rEaK/VGOZTH.ulu33dHOiBE8ByOhllrdAu2
+$2aS10$L85T0lpuiLn203dcNRCvH.uZgTGfhUE/58Rq.bpBvTvOU1itkOLRi $2aS10$7JB720yubVSZvUIOrEqK/.VqGOZTH.ulu33dHOiBE8ByOhJIrdAu2 $2aS10SF7Y1HitxWc/OeYKfj8rXw.bfCWcFhcjMOVjrXrDtw/P1bEfHZgtcO
+$2aS10SIx41M309EzqBsQ5PeeAxRu4Bv79AjtraSeSPMLSMTCSmMAYIDTP2G $2aS10$G7xAVF9KYpEsru12O3fRxu9p72fq/3SWkjsJP7PERiXdon.FPjxfe

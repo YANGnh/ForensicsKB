@@ -1,0 +1,26 @@
+# OCR: 6639e9867bee894a5ae9e2894aa5df74.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/6639e9867bee894a5ae9e2894aa5df74.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+状态
+概览路由防火墙系统日志系统进程实时信息系统 iStore 服务
+品网络退出
+>
+以下规则当前在系统中处于活动状态，
+IPv4路由 IPv4邻居
+IPV6路由
+IP地址
+192.168.100.101 192.168.71.2 192.168.711
+活跃的IPv4路由
+网络 wan wan lan
+活跃的IPv4规则
+优先级 0
+目标 0.0.0.0/0 192.168.71.0/24 192.168.100.0/24
+网关
+MAC地址 BC:24:11:8C:9A:FE O0:50:56:F9:48:4F 00:50:56:C0:00:08
+192.168.71.2
+跃点数 0 o 0
+规则
+fromall lookup local

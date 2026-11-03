@@ -1,0 +1,19 @@
+# OCR: 11b71e42ee1a8938927e65b4b4e5eb8f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/11b71e42ee1a8938927e65b4b4e5eb8f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+g
+出1.计算机检材.E01>
+三序号 1 □2 3 口4
+三登录URL 过滤
+https://bilibili.com/ https://douyin.com/
+Chrome浏览器>民保存的密码
+https://doubao.com/
+https://steampowered.com/
+三账号过滤
+11451419198 11451419198 11451419198 11451419198
+三密码过滤
+Doloris@1314 Doloris@0520 Doloris@6666 Doloris@9999
+在保存的密码

@@ -1,0 +1,30 @@
+# OCR: 17c5d1b9aa2058ec58d934deb6998637.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/17c5d1b9aa2058ec58d934deb6998637.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+Docs/VMwarevSphere/vSphere监控和性能 ESXi日志文件地址
+口添加到库
+品下载PDF
+[ 更新时间2022年04月20日
+选择的产品版本：
+反馈
+VMwarevSphere7.0
+ESXi通过使用sVslog功能，在日志文件中记录主机活动
+ESXi日志文件地址组件
+身份验证
+ESXi主机代理日志
+Shell日志系统消息
+vCenterServer代理日志虚拟机
+位置
+/var/log/auth.log/var/log/hostd.log
+/var/log/shell.log/var/log/syslog.log/var/log/vpxa.log
+与受影响虚拟机的配置文件位于同一目录，名为
+用途
+包含与本地系统身份验证相关的所有事件。
+包含管理和配置ESXi主机及其虚拟机的代理的有关信息。
+包含键入ESXiShell的所有命令以及Shell事件（例如启用Shell的记录，
+包含所有常规日志消息，并且可用来进行故障排除该信息以前位于消息日志文件中。
+包含与vCenterServer通信的代理的相关信息（如果主机由vcenterServer管理）
+包含虚拟机电源事件、系统故障信息、Tools状态和

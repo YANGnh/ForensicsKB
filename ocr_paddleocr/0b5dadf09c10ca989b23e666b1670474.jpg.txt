@@ -1,0 +1,51 @@
+# OCR: 0b5dadf09c10ca989b23e666b1670474.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/0b5dadf09c10ca989b23e666b1670474.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+口
+区
+口三席号口1 口2 口3 口4 口5
+详细信息
+义言的手机/文件系统/Pixel.tar/Basic
+推名称过滤
+Adiockdownjson deviceinfo.json aRRinfo（(工）
+sms(1) zystem(1)
+名称：AdlockdownJson
+扩展名：json 类型：文件大小59.78KB
+修效时调：2024-04-2605:30:54 MetaAddr:0
+全路径：Pixel.tar/Basic/Adlockdown.json
+加密炎型：未加盟已前除：香
+羊大小等于 59.78KB 1.79KB OB 0B OB
+三创建时间
+起始
+结束
+三修改时间
+起始
+结束
+2024-04-26 05:30:54 2024-04-26 05:30:54
+原类型视图
+PAGE
+三金路径过滤
+Pixel.tar/Basic/Adlockdown.json Pixel.tar/Basic/deviceinfo.json Pixel.tar/Basic/appinfo
+Pixel.tar/Basic/sms Pixel.tar/Basic/system
+文本视图
+ZOoM
+十六进制视图
+HIGHLIGHT
+在Basic中搜索
+I"Brand""Google","Model""Pixel"
+ItpNoFA6A80312283
+Cn"Sinoperator".Patch""2019-09
+Q
+Loeale":"zh-Hans
+?
+05""DeviceNane""sailfish"."Phonelunber""","os""Android',"OsVersion."i0","Cpua"["arm64-v8a]".araeabi-
+v7aarReabi\]""IMEI"[\"352531082716257\"\"1"】",REID""35253108271625""I rue","TimeZone""Asia/Shanghai"."TotalDiskSize""24.32GB"."FreeDiskSize""13.47 GB"."FileSysten""ext4"."Crypto":"FBE"."BasebandVersion.""."Bluetoothaddress"."AC
+"sailfish',"HardwarePlatfora"sailfish-,-m
+2:EB'"BoardId"sailfish"
+"DeviceId"
+082819284"."SerialHuaber":"FA6A80312283"."SDKVersiom":"29"."RadioLog""04-2520:59
+(1708):[1425]>VOICE_REGISIRATION STATE[SUB0]\r\n04-2520:59:30.74
+D/RILJ

@@ -1,0 +1,8 @@
+# OCR: 7b51fc0f292e9b0022c8f0267ddcabcb.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/7b51fc0f292e9b0022c8f0267ddcabcb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+[root@localhostwww.tpshop.com#sha256sumpeiqi-php
+870bf66b4314a5567bd92142353189643b07963201076c5fc98150ef34cbc7cfpeiqi-php[root@LocaLhostwww.tpshop.com]#

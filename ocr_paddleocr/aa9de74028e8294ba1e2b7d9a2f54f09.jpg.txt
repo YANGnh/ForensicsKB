@@ -1,0 +1,13 @@
+# OCR: aa9de74028e8294ba1e2b7d9a2f54f09.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/aa9de74028e8294ba1e2b7d9a2f54f09.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+账号：zhnwanjing td：218 钱包：35000:00今日盒亏：0
+充值记录提现明细下注明细
+提款信息提款密码
+修改登录密码联系客服
+充罐
+退出
+的

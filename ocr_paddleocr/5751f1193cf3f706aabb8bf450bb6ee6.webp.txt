@@ -1,0 +1,42 @@
+# OCR: 5751f1193cf3f706aabb8bf450bb6ee6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/5751f1193cf3f706aabb8bf450bb6ee6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+king@api-server-2:~$ sudo netplan apply king@api-server-2:~$ip addr
+1:lo:<LooPBACK,uP,LoER_uP>mtu 65536gdisc noqueue state UNKNoWN group defaultglen 1ooo
+link/loopbackoo:oo:o:oo:oo:oobrdoo:oo:oo:oo:oo:oe inet127.0.0.1/8 scopehostlo
+valid_lft forever preferred_lft forever inet6 ::1/128 scope host noprefixroute
+valid_lft forever preferred_lft forever
+2: ens33:<BROADCAsT,MULTICAsT,UP,LOWER_UP> mtu 15oo qdisc pfifo_fast state UP group default glen 1o0o
+link/ether00:0c:29:d5:f2:79brdff:ff:ff:ff:ff:ff altname enp2s1
+inet 192.168.217.12/24 metric 10e brd 192.168.217.255 scope global dynamic ens33
+valid_lft 1785sec preferred_lft 1785sec
+inet6 fe80::20c:29ff:fed5:f279/64 scope 1ink
+valid_lft forever preferred_lft forever
+3:br-09fa52347oe9: <BR0ADCAsT,MULTICAsT,UP,LOWER_UP>mtu 1500 qdisc noqueue state UP group default
+1ink/ether6a:19:24:77:fb:f1 brd ff:ff:ff:ff:ff:ff
+inet172.19.0.1/16brd172.19.255.255sc0peg1obalbr-09fa523470e9
+preferred_lft forever
+valid_lftforever
+inet6 fe8o::6819:24ff:fe77:fbf1/64 sc0pe 1ink
+valid_lft forever
+preferred_lft forever
+4:br-3b4688fabaf1:<BROADCAsT,MULTICAsT,UP,LOWER_UP>mtu 15oo qdisc noqueue state UP group default
+1ink/ether4e:dd:ob:21:54:36brdff:ff:ff:ff:ff:ff
+inet 172.18.0.1/16 brd 172.18.255.255 scope global br-3b4688fabaf1
+valid lft forever
+preferred lft forever
+inet6 fe8o::4cdd:bff:fe21:5436/64 sc0pe 1ink
+valid_lft forever preferred_lft forever
+5: dockero: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 15oo qdisc noqueue state DOWN group default
+link/ether 22:a9:83:97:2e:51 brd ff:ff:ff:ff:ff:ff
+inet172.17.0.1/16brd172.17.255.255 scopeglobal dockero
+valid_lft forever preferred_lft forever
+6: veth1db6e9f@if2: <BR0ADCAsT,MULTICAsT,UP,L0WER_UP> mtu 1500 qdisc noqueue master br-09fa523470e9 state UP group default
+link/ether 3a:9a:ao:a9:5a:58 brd ff:ff:ff:ff:ff:ff link-netnsid  inet6 fe80::389a:a0ff:fea9:5a58/64 sc0pe 1ink
+valid_lft forever preferred_lft forever
+33: veth354c1e8@if2: <BR0ADCAsT,MULTICAsT,UP,L0WER_UP> mtu 1500 qdisc noqueue master br-3b4688fabaf1 state UP group default
+link/ether c2:ba:c8:59:d6:5e brd ff:ff:ff:ff:ff:ff link-netnsid 1 inet6 fe8o::coba:c8ff:fe59:d65e/64 sc0pe link
+valid_lft forever preferred_lft forever

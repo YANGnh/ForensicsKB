@@ -1,0 +1,13 @@
+# OCR: 60015324a071a7190603cf9745a7b684.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/60015324a071a7190603cf9745a7b684.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+1 2 3 4 5 6
+WindowsInformation:
+ComputerName： Current Time:
+Boot Time: Time Zone: Version:
+DESKTOP-MCB21LB
+2025-10-1611:21:53UTC 2025-10-1611:14:04UTC
+ChinaStandard Time:UTC+8:00 10.0（build14393)

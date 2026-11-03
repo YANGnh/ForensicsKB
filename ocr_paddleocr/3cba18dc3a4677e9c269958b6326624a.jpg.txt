@@ -1,0 +1,34 @@
+# OCR: 3cba18dc3a4677e9c269958b6326624a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/3cba18dc3a4677e9c269958b6326624a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+对象事开始事务 nick_name 超级管理员开发账户优童乐购
+测试优意乐购 sankunlun 优意乐购
+sys_user@ji-mei(2024FIC)-表
+自文本筛选排序
+user_type
+00 00 00 00 00 00 00
+email
+导入导出数据生成师创建图表
+phonenumber
+sex
+sandianhui@163.com
+15888888888
+0 1 0 0 0 o 0
+avatar
+password
+status
+S2aS10SVRbNAZJGrKtZec0 $2aS10S7JB720yubVSZvU0 $2aS10SL85TOIpuiLn203d0 $2aS10$7JB720yubVSZvU0 $2aS10SF7Y1HitxWc/OeY10 $2aS10Slx41M309EzqBsC1 $2aS10SG7xAVF9KYpEsru0
+del_fag
+0 2 0 1 2 0 2
+loginip
+192.168.8.126 36.148.178.59 120.26.64.186 36.57.135.22 36.148.178.59 36.148.178.59 36.148.178.59
+login_date
+2024-03-18 10:22:28 2023-07-06 17:46:09 2023-09-19 23:54:25 2023-07-12 15:29:26 2023-07-06 17:45:31 2023-07-06 19:25:45 2023-07-0618:43:58
+create_by admin admin admin
+admin admin admin
+create_time
+2022-05-09 14:44; 2022-05-09 14:44: 2023-06-10 10:50:(Nult)
+2023-07-06 15:25: 2023-07-06 17:48: 2023-07-06 18:34:

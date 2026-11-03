@@ -1,0 +1,16 @@
+# OCR: 612965971c2ee03479b62a050f0ff2ef.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/612965971c2ee03479b62a050f0ff2ef.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+别点我.ex
+QLocalSend
+LocalSend
+接收
+女
+发送设置
+O Mystic Apple#133
+快速保存：开
+口
+x

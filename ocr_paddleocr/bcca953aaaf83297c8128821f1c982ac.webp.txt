@@ -1,0 +1,85 @@
+# OCR: bcca953aaaf83297c8128821f1c982ac.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/bcca953aaaf83297c8128821f1c982ac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+192.168.50.530
+首内日网站自数报库
+Docker 图监控
+安全 WAF
+e
+文师日志多用产
+园端
+节点管理扇计划任免
+教性商店器
+善退出
+应用高店创建究器
+总览日志营理
+Ba
+清
+网站
+清理有器
+客器
+线上镜像
+安全检测
+oolshelf SNLs
+qlongGzaS-
+肚显偿
+需求按调客器D
+本地镜像 >使用标即
+宝塔电
+容器遍排状态
+的appToke eXportHOUSERAP_TE
+网络现
+存储荐
+色库
+设置
+<Pusher的topicids，多个用英文分号;分隔topic_ids与uids至少配置一个才行 port
+XPUSHER_TOPTC_TE
+r的用户ID，多个用英文分号;分隔topic_ids与uids至少配盟一个才行
+eXportIoPUSHER_UTDS: 开22，自定义通知
+非自定义通知换收回调的URI
+口（主机-->客器
+EPOFEMEHOCKUR
+BODY和WEBHOOK_HEADERS多个参数时，直接换行或者使用s\n’连接多行字符串，比加exportdd-"1ine
+i"s'n*.
+export WEHOOK_BOY-""
+EADERS-
+变持GET/POST/PUT
+ETHOD
+pt
+拼支持text/plain.
+pplication/json、multipart/form-data、application/x-w
+w-form-urlencoded
+EBHOOKCONTENTTYPE
+其他需要的变量，即本中需要的变量使用export变量名-声明即可
+config-s
+1783f649d:/q1/data/config$1:
+extra.s
+task
+crontab.list
+task
+49d:/ql/data/configsc
+e3783f64
+P0e shar
+real tire
+false not
+task_before.sh
+token.json ntab.list
+true 1D-3 task
+Be3783f649d:/q1/data/config $
+scp-r//
+宝通Linux通版C2014-2025广东盟培安全技术限公司(btcn）
+ot/kamiworld.1nfo/na5vip915.246.23.88:/na
+冷示型
+x
+图便用于册免微言公众号正压重调参联至人工看题
+2
+请忘入穿器名、ID、客器
+管理挥销营理挥响
+10条/
+共12条前性
+企
+强作更多更家
+题台

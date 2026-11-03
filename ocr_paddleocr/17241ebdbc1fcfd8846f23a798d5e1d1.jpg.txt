@@ -1,0 +1,17 @@
+# OCR: 17241ebdbc1fcfd8846f23a798d5e1d1.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/17241ebdbc1fcfd8846f23a798d5e1d1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+导入向导
+你必须选择一个文件作为数据源，导入从：
+C:\Users)32622\Desktop\2024精武杯result.txt 编码：
+65001 (UTF-8)
+上
+步
+一步》下一
+口
+添加文件 Add URL
+取消
+x

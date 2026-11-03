@@ -1,0 +1,46 @@
+# OCR: d70e78d1309270a216a46f4b29b943bc.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/d70e78d1309270a216a46f4b29b943bc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+小谢取证-2025数证杯初赛
+1 2 3
+SELECT
+dsj
+city,
+couNT(*）Aswithin1dcount
+4FROM（
+5 6 7 8 9 10百 11 12 13 14 15百 16 17 18 19 20 21 22 23 24
+25 26 27
+信息 city、苏州
+√运行、口停止：解释
+子查询：获取每个案件的前一次作案时间及间隔天数 SELECT
+city,
+crimetime,
+-获取同一城市的上一次作案时间 LAG(crime_time）OVER（
+PARTITIONBYcity
+ORDERBYcrimetimeASC
+)Aspreycrimetime.
+计算与上一次作案的问隔天数
+DATEDIFF(crime_time，LAG(crime_time）OVER（
+PARTITION BYcity
+ORDERBYcrimetimeASC))Asinterval_days
+FRoM crime records
+Ascitycrimeintervals
+筛选条件：存在前一次作案记录，且间隔≤1天 WHERE
+prev_crime_time Is NoT NULL
+--排除该城市的首次作案
+AND intervaldays<=1
+GROUPBYcity
+ORDERBYwithin1dcountDESC
+LIMIT1:
+摘要
+-按次数降序排列
+结果1
+部剖析
+状态
+within 1d count
+2287
+-仅统计间隔1天内的连续作索
+公众号小谢取证

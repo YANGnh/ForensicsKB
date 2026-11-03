@@ -1,0 +1,15 @@
+# OCR: de9d287fd8d4bf5a4e48426b2cc2d3d9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/de9d287fd8d4bf5a4e48426b2cc2d3d9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+个
+?
+用户名
+dgy02.com
+tcggvip2025@126.com 密码
+tcgg123456
+网站
+aff01.dgy02.com 备注
+未添加任何备注

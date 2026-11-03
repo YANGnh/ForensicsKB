@@ -1,0 +1,55 @@
+# OCR: 2c617b56f23a89ac3a81cb3ba0718fed.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/2c617b56f23a89ac3a81cb3ba0718fed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+Alice的Macbook 图Alice的Macbook
+> 国
+基本信息
+（分区5）
+品用户痕迹 alice c?用户信息通讯录桌面信息?
+下载文件画废纸签文件自启动程序自启动服务程序坞信息最近访问记录
+日志记录
+A
+司
+文件系统日志
+?
+Safari测览器
+·
+Chrome浏宽器 Mac邮 IcloudDrive WWPS
+回ofice文件元信息 TeamViewer 采钥题串
+1/663987
+990 94 94 1 6 4 7
+3 21 37 565 660149 596 1/1286 1 1 2 284 4 15
+g
+Alice的Macbook>用户痕迹>
+?alicec下载文件
+口序号口1 口2 口3 4 口5 6 7
+详细信息
+三链接过滤
+WhatsApp-2.24.15.80.dmg
+名称：扩展名：
+dmg
+类型：文件
+大小：119.99MB 创建时间：
+2024-08-1909:56:53 2024-08-1909:57:00
+访问时间：修改时间：
+2024-08-19 09:56:55 12885116465
+MetaAddr:
+三文件名过滤
+WPS Office Installer.app WhatsApp-2.24.15.80.dmg cape-cod-automatigue-wal googlechrome.dmg
+IMG0262.HEIC Opera Installer.app personal data,xlsx
+Alice_Macbook.e01/分区5/OS X Base System -
+全路径：
+Data/Users/alice_c/Downloads/WhatsApp-2.24.15.80.dmg
+加密类型：未加密已删除：否
+非大小等于 1B
+119.99MB 254.18KB 203.44MB 1.25MB 1B
+10.67KB
+三状态过滤已完成已完成已完成已完成已完成已完成已完成
+三保存路径过滤
+Users/alice_-Users/alice_ Users/alice_ Users/alice_-Users/alice_-Users/alice_. Users/alice_
+原类型视图
+三创建起始 2024-2024-2024-2024-2024-2024-2024-
+文本视图

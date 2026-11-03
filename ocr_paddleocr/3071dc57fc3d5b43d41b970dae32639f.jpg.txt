@@ -1,0 +1,27 @@
+# OCR: 3071dc57fc3d5b43d41b970dae32639f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/3071dc57fc3d5b43d41b970dae32639f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+,Cobalt Strike
+CobaltStrike视图(V）玫击（A）报告（R）帮助(H）AboutMeLadon o8EP0中D国
+extemal
+监听器x
+事件日志x
+name csma
+intermal payloaa
+windows/beaconhttp/reversehttp
+listener
+nost
+user
+192.166.217.188
+pont 7700
+computer
+bindto
+note
+beacons
+192.168.217.188
+process
+pid
+profile defaurt

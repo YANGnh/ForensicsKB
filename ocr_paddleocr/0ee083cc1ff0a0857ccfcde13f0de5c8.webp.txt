@@ -1,0 +1,16 @@
+# OCR: 0ee083cc1ff0a0857ccfcde13f0de5c8.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/0ee083cc1ff0a0857ccfcde13f0de5c8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+=os-release
+extractions>摄像头镜像.bin.extracted>350000>squashfs-root>usrlib》三os-release
+1 2 3 4 5 6 7 8 9 10
+NAME=Buildroot
+VERSION=-g134387d ID=buildroot
+VERSIONID=2024.02.10
+PRETTYNAME="Buildroot2024.02.1o OPENIPC
+CVERSION=2.5.05.20
+GITHUBVERSION="master+134387d，2025-05-20"
+BUILDOPTION=ultimate TIMESTAMP=1747782340

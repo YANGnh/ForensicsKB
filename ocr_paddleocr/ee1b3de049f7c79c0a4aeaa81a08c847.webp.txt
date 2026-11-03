@@ -1,0 +1,30 @@
+# OCR: ee1b3de049f7c79c0a4aeaa81a08c847.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/ee1b3de049f7c79c0a4aeaa81a08c847.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+查找数据库配置文件
+找一下评论内容在哪个数据表中
+plus/comments_frame.php-评论显示·admin/feedback_edit.php-评论编辑
+2.自定义评论表：dede_comment
+这是一个自定义评论表，在com-show.php中使用：费com-show.php
++?回
+$dsql->SetQuery("select cid,id,name,comment,senddate fror $dsq1->Execute();
+while($xx=$dsql->GetObject())
+sii++;
+$cidc=$xx->cid; $id=$xx->id;
+$name=$xx->name;
+$comment=$xx->comment; $senddate=$xx->senddate;
+字段：
+cid-评论ID·
+·
+id-关联的内容ID name-评论者名称
+comment-评论内容 senddate-发送时间
+总结
+系统中有两个评论表：
+1.dede_feedback一标准评论表，评论内容在msg字段
+2.dede_comment一自定义评论表，评论内容在comment字段
+主要使用dedefeedback：dede.comment用于特定场景（如com show.php的评论展示）。查询时根据业务选择对应表。
+ Review Changes
+e9

@@ -1,0 +1,32 @@
+# OCR: 9366d6453b4d0afcfb119fb1646755ba.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/9366d6453b4d0afcfb119fb1646755ba.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+hosts-记事本
+文件(D)编辑(E)格式(Q)查看(M帮助(H)
+#
+公共配置
+#Copyright (c)1993-2009MicrosoftCorp.#
+#This isa sampleHOSTS file usedbyMicrosoftTCP/IPforWindows#
+#ThisfilecontainsthemappingsofIPaddressestohostnames.Each#entryshouldbekeptonanindividual line.TheIPaddressshould
+#beplacedinthefirstcolumnfollowedbythecorrespondinghostname#TheIPaddressandthehostnameshouldbeseparatedbyatleastone
+#space.#
+#Additionally,comments(suchasthese)maybeinsertedonindividua
+#linesorfollowingthemachinenamedenotedbya#'symbol.#
+# For example:#
+##
+102.54.94.97 38.25.63.10
+rhino.acme.com x.acme.com
+#sourceserver# x client host
+#localhostnameresolutionishandledwithinDNsitself
+##
+127.0.0.1:1
+localhost localhost
+192.168.100.110jy.proxy2.jshcloud.cn
+192.168.100.110 api.jy.proxy2.jshcloud.cn 192.168.100.110iy.proxy.jshcloud.cn
+192.168.100.110 api.jy.proxy.jshcloud.cn 192.168.100.110jy.jshcloud.cn
+192.168.100.110api.jy.jshcloud.cn
+192.168.100.110info.jy.proxy2.jshcloud.cn 192.168.100.110 info.jy.proxy.jshcloud.cn 192.168.100.110 info.jy.jshcloud.cn
+192.168.100.110master.jy.proxy2.jshcloud.cn 192.168.100.110master.jy.proxy.jshcloud.cn

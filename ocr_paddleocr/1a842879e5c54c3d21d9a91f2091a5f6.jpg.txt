@@ -1,0 +1,58 @@
+# OCR: 1a842879e5c54c3d21d9a91f2091a5f6.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/1a842879e5c54c3d21d9a91f2091a5f6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+口
+公
+国描序号口1 口2
+详细信息
+cl(qL22HH-QUSZ-IVyk-BmWw-Yitp-K1MH-Nlqxkc)/分区1/home/CobaltStrike/logs/240522/192.168.217.219
+名称过滤
+beacon113260760.log beacon 837294754.log
+名称：beacon_113260760.log
+扩展名：log 类型：文件大小：448B 访间时间：
+2024-05-2216:02:44 2024-05-2216:01:07
+修改时间：
+MetaAddr:19246217
+扩服名过速 log log
+全路径：cl(qL22HH-QUSZ-IVyk-BmWw-Yitp-K1MH-NIqxkc)/分区
+1/home/CobaltStrike/logs/240522/192.168.217.219/beacon113260760.log
+加密类型：未加密已制除：香
+美型文件文件
+“大小
+等于 448B
+过了
+15.39KB
+原类型视图
+PAGE
+创建时阅
+起始
+文本视图
+ZoM
+结束
+十六进制视图
+HIGHLIGHT
+普访问时间
+起始
+在192.168.217.219中报
+修改时间
+结束
+2024-05-22 16:02:44 2024-05-22 18:28:41
+起始
+结束
+2024-05-22 16:01:07 2024-05-22 18:28:41
+Q
+高级
+链接过滤
+X
+05/2208:00:07UTC [metadata]192.168.217.219<-192.168.217.219:conputer:INDEXUSER:
+Adninistrator*:process
+Wechat.exepid:5836:os:Vindovs:version:6.1:build:7601
+beacon arch:x64 (x64)
+[task]<T1029>Taskedbeacon tobeconeinteractive
+05/2208:00:01UTC[
+05/2208:00:15UTC 05/2208:00:15UTC 05/2208:01:00UTC
+[input]《neo>sleep0
+[task]<T1029>Taskedbeacon tobeconeinteractive[checkin] host called hone,sent:32bytes

@@ -1,0 +1,14 @@
+# OCR: 55764464d66674ed62344e0ce1cc2956.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/55764464d66674ed62344e0ce1cc2956.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+"HairpinMode":false,"LinkLocalIPv6Address":
+"LinkLocalIPv6PrefixLen"e"SecondaryIPAddresses":nuli"SecondaryIPv6Addresses：null
+"EndpointID"："58fe6f16a88606ab389635e4f08566d3ce431fb0f18e55c63c7ca8e32761086"
+"Gateway":"172.17.01""GlobalIPv6Address":
+"GlobalIPv6PrefixLen"e"IPAddress":"172.17.0.2
+"IPPrefixLen"：16,"IPv6Gateway"：""
+"02.42:ac:11:00:02"
+"MacAddress""Networks"：

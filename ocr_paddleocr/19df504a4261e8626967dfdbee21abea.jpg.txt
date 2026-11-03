@@ -1,0 +1,21 @@
+# OCR: 19df504a4261e8626967dfdbee21abea.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/19df504a4261e8626967dfdbee21abea.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+vol3-hashdump
+User
+rid
+Administrator5oo
+Guest
+501
+DefaultAccount
+WDAGUtilityAccount DavidTenth1001
+Imhash
+nthash
+aad3b435b51404eeaad3b435b51404ee31d6cfe0d16ae931b73c59d7e0c089c0 aad3b435b51404eeaad3b435b51404ee31d6cfe0d16ae931b73c59d7e0c089c0
+503 504
+aad3b435b51404eeaad3b435b51404ee31d6cfe0d16ae931b73c59d7e0c089c0 aad3b435b51404eeaad3b435b51404ee1d802a5b25cd0a985bc04a9e1c8138dt
+aad3b435b51404eeaad3b435b51404ee
+e14a21fefc5dd81275bb87228586cffc

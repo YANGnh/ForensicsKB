@@ -1,0 +1,16 @@
+# OCR: 2d400217d6e9887a6e0c7a87ebfc97e4.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/2d400217d6e9887a6e0c7a87ebfc97e4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+姓名
+季令柏
+性别男
+出生住址
+1998
+民族汉
+年11月28日
+四川省成都市武侯区益州大道中段722号复城国际
+公民身份号码
+513701199811288043

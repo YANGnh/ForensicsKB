@@ -1,0 +1,11 @@
+# OCR: 509851fb304167b9a3d8ad150bc10f08.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/509851fb304167b9a3d8ad150bc10f08.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+root@localhosti#find-namexss*
+www/wwwroot/platform.com/template/xss.desc/www/wwwroot/platform.com/template/xss.js/www/wwwroot/website.com/xsser.crx
+www/wwwroot/website.com/xssplatform.sql/www/backup/database/xssplatform.sgl
+/Recyclebin/ bt www bt wwwroot bt platform.com bt BlueLotus XsSReceiver-master t 1716198395.0896602/guide/xssorpng/.Recyclebin/btwwwbtwwwroot bt_platform.combtBlueLotus_xssReceiver-master_t_1716198395.0896602/template/xss.desc.Recycle_bin/_bt_wwwbt_wwwrootbt_platform.com_bt_BlueLotus_xssReceiver-master_t_1716198395.0896602/template/xss.js
+.Recyclebin/btwwwbtwwwrootbt_platform.combt_template_t1716199329.6665545/xss.desc.Recyclebin/btwww_btwwwrootbt_platform.combttenplate_t1716199329.6665545/xss.js[root@localhost/]#

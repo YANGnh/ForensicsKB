@@ -1,0 +1,17 @@
+# OCR: 95abbf8c43280cce084bc2685c161980.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/95abbf8c43280cce084bc2685c161980.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+导入向导
+选择目标表。你可选择现有的表，或输人新的表名
+源表 ISheet1
+目标表
+information
+新建表
+区上一步
+一步下一
+口
+取消
+x

@@ -1,0 +1,46 @@
+# OCR: 6714ca856e1ac4d3052df46d307c2cbd.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/6714ca856e1ac4d3052df46d307c2cbd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+S
+OpenWrt23.05.2,r23630-842932a63d root@openwrt:/#ifconfig
+br-lan etho ethi l0
+Link encap:Ethernet
+F
+D
+OM
+HWaddr BC:24:11:47:98:11
+inet addr:192.168.100.1
+Bcast:192.168.100.255
+inet6 addr:fd24:2cf2:d6f8::1/60 Scope:Global
+Mask:255.255.255.0
+inet6 addr:fe80::be24:11ff:fe47:9811/64 Scope:Link UP BROADCAST RUNNING MULTICASTMTU:15O0Metric:1 Rx packets:4 errors:0 dropped:0 overruns:0 frame:0
+Tx packets:15 errors:0 dropped:0 overruns:0 carrier:0 collisions:0 txgueuelen:10oo
+Rx bytes:188 (188.0 B)
+Tink
+encan.Rthernet
+Tx bytes:1990(1.9 KiB)
+Hmaddr
+BC:24:11:EF:67:96
+inet addr:192.168.71.100
+Mask:255.255.255.0
+Bcast:192.168.71.255
+ineto addr:feo0..be24.11ff:feef:6796/64 Scope:Link UP BROADCAST RUNNINGMULTICASTMTU:15OOMetric:1 Rx packets:45 errors:0 dropped:0 overruns:0 frame:0
+Tx packets:55 errors:0 dropped:0 overruns:0 carrier:0 collisions:0 txgueuelen:1ooo
+RXbytes:5309(5.1 KiB)TX bytes:6804(6.6KiB Link encap:EthernetHWaddr Bc:24:11:47:98:11
+UP BROADCAST RUNNING MULTICASTMTU:15OOMetriC:1 Rx packets:9 errors:0 dropped:0 overruns:0 frame:0
+Tx packets:15 errors:0 dropped:0 overruns:0 carrier:0 collisions:0 txgueuelen:1000
+Tx bytes:1990 (1.9 KiB)
+RX bytes:454(454.0B) Link encap:Local Loopback
+inet addr:127.0.0.1Mask:255.0.0.0 inet6 addr: ::1/128 Scope:Host
+UPLOOPBACKRUNNINGMTU:65536
+Metric:1
+Rx packets:40 errors:0 dropped:0 overruns:0 frame:0
+overruns:0
+Tx packets:40 errors:0 dropped:0 collisions:0 txqueuelen:1000
+RX bytes:4454(4.3 KiB)
+root@openwrt：/#
+carrier:0
+TXbytes:4454(4.3KiB)

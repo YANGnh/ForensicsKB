@@ -1,0 +1,16 @@
+# OCR: cf7991cf2caba3ce20843201f78cc60d.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/cf7991cf2caba3ce20843201f78cc60d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+数据库类型"type
+服务器地址 hostname 数据库名 datahase 用户名 username
+密码/
+password 端口
+=> =>
+"mysqi'
+"localhost'"tpshop2.0
+'root' =>
+=>
+12345678910

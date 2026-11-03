@@ -1,0 +1,27 @@
+# OCR: dc5fc591e981c6a53ec1c4a3a7089791.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/dc5fc591e981c6a53ec1c4a3a7089791.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+docker-compose.yml
+dh.log
+X
+D:>heygem_data>face2face>log>三dh.log
+AThisdocumentcontainsmanynon-basicAscllunicodecharacters
+215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231
+DisableNonASClLHighlight
+][process.py[line:1e8]][INFo][>>>audio_transfergetmessage:1e3]
+[process.py[1ine:108]][INFo]［[103]->chaofencost:0.3582277297973633s]
+任务最终合成结果
+Aaab
+[_internal.py[1ine:96]][INFo][172.18.0.1--[13/May/202514:53:24]"GET/easy/query?code=9aabbd22-b1ba-4339-8bd-ce5b926c5d79HTTP/1.1"200[_internal.py[1ine:96]][INFo][172.18.0.1- -[13/May/202514:53:26]"GET/easy/query?code=9aabbd22-b1ba-4339-8b0d-ce5b926c5d79HTTP/1.1"200
+【process.py[line:108]］【INFo]【audio_transfer>>>>>>>>>>>发送完成数据大小：3，frameId:103，cost：4.644o6967163859s][process.py[line:1o8]][INFo][>>>audio_transfergetexceptionmsg:-1]
+【process.py[1ine:108]］【INFo]【[9aabbd22-b1ba-4339-8bed-ce5b926c5d79]任务数字人图片处理已完成]［process.py[1ine:108]］【NFo］［[9aabbd22-b1ba-4339-8bed-ce5b926c5d79］视频顿队列处理已结束]
+1of7
+个
+[process.py1ine:1o8l1[INFo[command:ffmpeg-loglevelwarning-y-i/code/data/temp/def3b8fe-0e7b-4c5d-9db3-2bbd9cd7a839.wav-i/code/data/temp/9aabbd22-b1ba-4339-8b0d-ce
+［_internal.py[1ine:96]][INFo][172.18..1--[13/May/2e2514:53:28]"GET/easy/query?code=9aabbd22-b1ba-4339-8bed-ce5b926c5d79HTTP/1.1"2ee-]［_internal.py[1ine:96]][INFo][172.18.0.1--[13/May/2e2514:53:3e]"GET/easy/query?code=9aabbd22-b1ba-4339-8bod-ce5b926c5d79HTTP/1.12ee-]【process.py[1ine：18]］【NFo］【后处理进程结束]
+［_internal.py[1ine:96]][INFo][172.18.0.1--[13/May/2e2514:53:32]"GET/easy/query?code=9aabbd22-b1ba-4339-8bed-ce5b926c5d79HTTP/1.12ee-
+］【threading.py[1ine:87e]］【INFo]【[9aabbd22-b1ba-4339-8bed-ce5b926c5d79]任务最终合成结果：/9aabbd22-b1ba-4339-8bed-ce5b926c5d79-r.mp4]【threading.py[1ine87e]]【INFo][>>>任务：9aabbd22-b1ba-4339-8bod-ce5b926c5d79耗时：157.81936693191528]］
+［_internal.py[1ine:96]][INFo][172.18.e.1--[13/May/2e2514:53:34]"GET/easy/query?code=9aabbd22-b1ba-4339-8bod-ce5b926c5d79HTTP/1.1"2ee-[cv_logging.py[line:27]][INFo][Use default multi mode: multi-thread,oryou can setenv'cV_MULTI_MoDE'to multi-process/torch-process]

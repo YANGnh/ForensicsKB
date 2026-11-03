@@ -1,0 +1,24 @@
+# OCR: 0d6cab662da9e683ffc902c09011077c.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/0d6cab662da9e683ffc902c09011077c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+年细台
+名称：about.html
+扩展名：html 类型：文件大小：1.90KB
+创建时间：2025-09-2511:15:07 访问时间：2025-09-2511:15:07 修改时间：2025-09-1716:37:26 元数据地址：0
+全路径：data/data/mark.via/files/about.html
+加密类型：未加密已删除：否
+原类型视图
+ZooM
+文本视图
+HIGHLIGHT
+使用协议隐私政策
+捐助我们
+十六进制视图
+?
+我们利用有限的业余时间设计了Via，虽然它并不那么美好，但正努力前行。如果你喜欢我们的作品，可以捐赠来支持我们。
+所有的捐赠都将用来：提升我们的环境配置以及积极性。支付宝：2376688759@qq.com
+PayPal:wiar1824@gmail.com
+132:46

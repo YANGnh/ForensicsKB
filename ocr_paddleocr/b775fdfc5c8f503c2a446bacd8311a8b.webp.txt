@@ -1,0 +1,26 @@
+# OCR: b775fdfc5c8f503c2a446bacd8311a8b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/b775fdfc5c8f503c2a446bacd8311a8b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+项目名称/编号：
+内部名称：注释(C):
+哈希值SHA-256 哈希值”无
+分区6
+[H:\检材2-计算机.E01].分区6
+创建日期：2025/05/270956:08
+支件大小：130GB 件211.870
+案件描述(D):
+Windows Installation Windows
+Domain:WORKGROUP Computername:neo4chen Owner:admin
+Version:Windows10Pro
+Time zone:ChinaStandard Time
+Installation:2025/05/0613:44:33+8
+Lastshutdown:2025/05/1300:32:15+8
+Numberofaccounts:2 文件系统：NTFS
+意容黛：139.587.485.696字节=130GB
+扇区统计：272.631.808 每康区字节数：512 每族字节数：4.096
+空余族：22.840.361=67%空余辫总数：34.078.975
+3258EB658625ADDA7BF858A83AD8D6E4213BCD8ECEB423
+校验哈希计算哈希值(m)...

@@ -1,0 +1,20 @@
+# OCR: 126cd148ec16476f172d390bb63b77c2.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/126cd148ec16476f172d390bb63b77c2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+活术、方法、技巧.zip
+offset 00000000 00000010 00000020
+0 50 85 D3
+4B C4
+面园
+2 03 8A
+3 04 OE
+4 14 00
+回0
+5 00 00
+6 o9 98
+7 08 17
+8 08 00 78
+9 00 00

@@ -1,0 +1,9 @@
+# OCR: 7e14b5524e6a899310daefe408e3d367.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7e14b5524e6a899310daefe408e3d367.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+终端x
+droid@node2:ssudofind-namebase.apk
+/root/data/app/~-w_BhwcXqxofFwnwmFrhZvg==/com.ss.android.ugc.aweme-VGSezKj2egAP31ox7Iazw==/base.apk droid@node2s

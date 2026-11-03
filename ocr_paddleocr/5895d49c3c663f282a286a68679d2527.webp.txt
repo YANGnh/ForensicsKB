@@ -1,0 +1,23 @@
+# OCR: 5895d49c3c663f282a286a68679d2527.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/5895d49c3c663f282a286a68679d2527.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+XMLView
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+ListView
+<?xmlversion="1.0"encoding="uTF-8"?>
+<!DOCTYPEplistPUBLIC"-//Apple//DTDPLIST1.O//EN""http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plistversion="l.o"> <array>
+<dict>
+<key>wFworkflowActionIdentifier</key>
+<string>is.workflow.actions.url</string>
+<key>wFworkflowActionParameters</key> <dict>
+<ke>WFURLActionURL</key>
+<string>https://h5publish.gamelaoyou.com/MahjongNative/huizhou/config.json</string> Kev2uu
+<string>84AF9A41-FAB0-4A73-BF6A-62E0A80E09BC</string> </dict>
+</dict> <dict>
+<key>wFWorkflowActionIdentifier</key>
+<string>is.workflow.actions.downloadurl</string>
+<key>wFworkflowActionParameters</key> <dict>

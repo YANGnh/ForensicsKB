@@ -1,0 +1,38 @@
+# OCR: 7fbab08a124207854430acbd166a9c42.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/7fbab08a124207854430acbd166a9c42.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+171.219.215.179
+Home Website 单FTP
+Databases Docker
+回
+Monitor
+Security WAF Files BLogs Terminal aCron 留AppStore Settings Log out
++
+AAtount Status
+ 5ystem: Cento5 8.5.2111 x86_64(py3.12.3)
+Loadstatus?
+1%
+Running .smoothly Overview
+site 2
+Software
+Time of running ODayls
+CPUusage 36.1% 4 Core(s)
+FTP 0
+RAMusage 17.9% 670 / 3736(MB)
+DB
+Security 12
+Traffic
+43%
+7.24G / 16.99G
+Disk Io
+Uostream 0.00KB
+Unitxa/s 0.8 0.6 0.4
+Dow
+sristream 0.00:KB
+PFREEaa3TUpdaeFRestant
+A
+Total sent 19.00MB
+Total received 12.95MB

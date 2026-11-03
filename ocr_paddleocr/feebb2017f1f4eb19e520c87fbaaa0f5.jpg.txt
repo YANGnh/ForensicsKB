@@ -1,0 +1,20 @@
+# OCR: feebb2017f1f4eb19e520c87fbaaa0f5.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/feebb2017f1f4eb19e520c87fbaaa0f5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+QRResearch 文件(E)
+工具)
+已解码数据1
+帮助(H)
+位置:(10.5,6.4)-(291.9,6.4)-(10.4,287.9)-(291.5,287.6)
+颜色正常正像版本：10
+纠错等级:L.掩码:4
+纠错等级 H(30%) 版本 Auto Auto
+口
+掩码 Auto 尺寸 4
+内容
+新佛日：僧殿降储陀摩殿僧殿钵殿薩愿殿宣摩殿殿愿殿是迦咒叻呐须塞亦须阿须憨殿蜜殿顾蜜哆蜜亦愿是念慧殿摩哆
+殿即词颂亦愿如如殿殿解码完成
+x

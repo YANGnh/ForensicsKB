@@ -1,0 +1,13 @@
+# OCR: 03f71dd66fbcfc6543413b73c18e25be.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/03f71dd66fbcfc6543413b73c18e25be.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+Bcrypt密码生成工具
+密码
+Rounds 生成
+123456
+10
+Bcrypt密码验证工具
+S2a$10$BDIhOJnWgJHy.EqODXQ8kezBQE9IEUwhFaNlqQruUIDUDupuzTOby

@@ -1,0 +1,24 @@
+# OCR: d65232d4cef4a433a0411592d2a280ce.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/d65232d4cef4a433a0411592d2a280ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+口
+区
+三序号口1 □2
+2.Image.zip/文件系统/2.Image.tar/ Image/data/media /0/Private
+三名称过滤
+Y
+QUnmjaLohLjovaku7blj4rmlZnnglsuZG9je U2NyZWVuc2hvdF8yMDI1MDkyNS0yMzE3
+三大小等于
+V
+561.56.. 96.27KB
+三创建时间
+起始
+结束
+Y
+三修改时间起始
+结束
+2025-09-2411:15:04 2025-09-2523:17:18
+三全品过滤 2.m 2.lm

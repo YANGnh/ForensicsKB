@@ -1,0 +1,20 @@
+# OCR: 037e15712f72a5499b9ce6d7d3df84dc.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/037e15712f72a5499b9ce6d7d3df84dc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+Null) Null) Null) Null) Null) Null) Null) Null)
+ZLATITUDE
+(Null)(Null)(Null)(Null)
+22.4516383333333 22.4519283333333 22.4515533333333 22.4517216666667
+ZLONGITUDE
+(Null)(Null)(Null)(Null)
+114.16993
+14.170503333333
+114.172845
+14.171853333333
+ZSHUTTERSP
+0.01 0.01 0.01
+0.0 0.00
+0.01

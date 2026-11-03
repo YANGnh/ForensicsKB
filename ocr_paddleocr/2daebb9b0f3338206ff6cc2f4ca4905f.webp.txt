@@ -1,0 +1,23 @@
+# OCR: 2daebb9b0f3338206ff6cc2f4ca4905f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/2daebb9b0f3338206ff6cc2f4ca4905f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+G:/tmp/2024数证杯个人1session--passwordS-1-5-21-2119920595-1839877101-3701769345-500
+-X-Y
+763533
+提示1 携[察i-
+提晨宗[提]-
+>正在提取xShel11/xFtp连接信息
+>正在处理配置文件-》正在删除临时安伴->芷在处配置安伴->正差删临爵安件
+<Xshell/xftp连接信息>
+连接名 $RYS13I5 ccTalk
+地址
+18.55.213.79 192.168.8.178
+端口 2178 12849
+密码
+CCTalk@213.79 Test#jlb@001
+[提示]---->如果内容显示不全，请将终端全屏后再次热行
+描述
+Author:WXjzc

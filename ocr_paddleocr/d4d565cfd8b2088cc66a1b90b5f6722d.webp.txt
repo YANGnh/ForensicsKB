@@ -1,0 +1,10 @@
+# OCR: d4d565cfd8b2088cc66a1b90b5f6722d.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/d4d565cfd8b2088cc66a1b90b5f6722d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+#Linkhttps://github.com/newbee-Ltd#email24492o7463@qq.com#qq-group796794oo9#author13
+server.port=28089
+2 3
+4 5 6

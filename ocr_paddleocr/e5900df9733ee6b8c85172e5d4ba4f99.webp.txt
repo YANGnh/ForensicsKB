@@ -1,0 +1,23 @@
+# OCR: e5900df9733ee6b8c85172e5d4ba4f99.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/e5900df9733ee6b8c85172e5d4ba4f99.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+手机检材》
+三序号口1 □2 □3
+详细信息
+三名称过滤
+APP
+其他应用>盒子IM>
+lib（19) base.apk oat（3)
+名称：base.apk
+扩展名：zip 类型：文件
+大小：39.01MB
+修改时间：2025-01-2214:25:23 MetaAddr：3888376832
+应用目录
+三大小等于
+39.01.
+全路径：data.tar/app/~~7G7UrsmE21XK81125TSAWQ==/com.boxim-c3jM4Z1iL8q9GzE jp3Dg==/base.apk
+加密类型：未加密已删除：否
+三创建时间起始

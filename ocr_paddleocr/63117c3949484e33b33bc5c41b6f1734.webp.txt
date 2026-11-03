@@ -1,0 +1,10 @@
+# OCR: 63117c3949484e33b33bc5c41b6f1734.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/63117c3949484e33b33bc5c41b6f1734.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+之件类型：订开方式：
+比武团队赛题目s.love
+LOVE EncryptedFile(.love 未知应用程序
+更改(C)

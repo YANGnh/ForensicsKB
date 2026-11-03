@@ -1,0 +1,26 @@
+# OCR: 04cef061687a4de25f96dc7110741d90.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/04cef061687a4de25f96dc7110741d90.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+车
+在此处键入内容进行搜索
+三口我的计算机
+kali-linux
+x
+负主页×
+口我的计算机
+kali-linux
+开启此虚拟机编辑虚拟机设置升级此虚拟机
+-设备图内存处理器
+日硬盘(SCSI) 网络适配器围USB控制器
+声卡口显示器
+描述
+Kali Rolling(2025.1a)x64 2025-03-07
+Username:kali Password:kali
+(USkeyboard layout)
+kali-linuxX
+2GB 1
+80.1GB NAT 存在
+自动检测自动检测

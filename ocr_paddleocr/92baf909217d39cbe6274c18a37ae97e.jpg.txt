@@ -1,0 +1,11 @@
+# OCR: 92baf909217d39cbe6274c18a37ae97e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/92baf909217d39cbe6274c18a37ae97e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+OLSBHIDE 图片路径：
+文件路径：
+口
+隐藏提取
+?

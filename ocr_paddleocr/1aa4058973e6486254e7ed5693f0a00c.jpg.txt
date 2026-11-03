@@ -1,0 +1,26 @@
+# OCR: 1aa4058973e6486254e7ed5693f0a00c.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/1aa4058973e6486254e7ed5693f0a00c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+Firewall-PortForwards-Unnamed fonward
+常规设置
+高级设置
+名称协议
+Sourcezone External port
+昌标区域
+Internal IPaddress
+Internal port
+danganMysol TCP
+wan
+w 3306
+UDP
+Match incoming traffic directed at the given destinationport or port ranoe on this hcst
+lant lan
+wgo.
+192.168.200.20(00:0C:29:57:7A:C4)
+Radirect matched incoming trafic to the:specited internal hiost 3306
+Radirectmatonedincomingtratfictothe.givenportontneintermal:host
+关闭
+保荐

@@ -1,0 +1,31 @@
+# OCR: fcb6c6e9b767fc9ef19f37fe0b6cf503.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/fcb6c6e9b767fc9ef19f37fe0b6cf503.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+MobaXterm
+Terminal Session
+SessionsView Xserver
+Servers
+Tools
+Quickconnect...
+User sessions
+192.168.71.100 192.168.71.100
+Games
+Tools Sessions
+Execute
+Connectas... Pinghost
+Games
+View +
+ARename session
+ Edit session Deletesession
+Duplicate session Savesessiontofile
+Settings
+Split
+tCreateadesktop shortcut
+Macros
+Help
+G
+MultiExec Tunn
+H Save session settings as default presets Copysessionsettings

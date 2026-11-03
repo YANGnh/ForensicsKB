@@ -1,0 +1,13 @@
+# OCR: 815d4a7eb0ee25d29dc876dcc616f79f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/815d4a7eb0ee25d29dc876dcc616f79f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+检测到宝塔面板（
+备份记配计划任数据远程数据』防火坛防火墙防火墙-端口转FTP服多
+Row 0
+用户名 igmxcdsa admin
+密码
+93c35e3af4cfe9a3d19de72d4c 21232f297a57a5a743894a0e4
+登录IP 192.168.0.10 192.168.0.10

@@ -1,0 +1,9 @@
+# OCR: 76a1ad1a9db61c0dea63c610855ad2d1.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/76a1ad1a9db61c0dea63c610855ad2d1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+NoahTie@LAPTOP-H91IARREC/h/1/检/d/u/e
+adbpush.lru.meefik.linuxdeploy/storage/emulated/o/
+lru.meefik.linuxdeployl:590filespushed,0skipped.37.2MB/s(681981774 bytesin17.466s

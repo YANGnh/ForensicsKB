@@ -1,0 +1,19 @@
+# OCR: f29b9f884d2a1d830e1f3d9f7453e617.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f29b9f884d2a1d830e1f3d9f7453e617.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+This is the network config uritten by
+subiquity
+中
+netuork:
+ethernets enp2s1
+addresses
+192.168.100.111/24
+nameservers addresses: search:
+routes
+default
+to:
+wia:192.168.100.1
+version

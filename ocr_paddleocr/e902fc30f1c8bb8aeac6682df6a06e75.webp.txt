@@ -1,0 +1,24 @@
+# OCR: e902fc30f1c8bb8aeac6682df6a06e75.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/e902fc30f1c8bb8aeac6682df6a06e75.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+.
+Storageproperties
+Storagename
+ Drive7: Fixed StorLib ATA Virtual Storage  Drive4: Fixed StorLib ATA Virtual Storage
+StorageID
+[n/][n/]
+RAID [meiya_test:2]
+Startsecto
+x
+Virtual RAID configuration
+67618
+RAIDlevel
+67618
+Stripesize RAIDalias
+AsynchronousI/o
+RAIDO-S 64kB
+ipesetwithoutredundar
+meiya_test:2 No

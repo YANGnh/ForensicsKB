@@ -1,0 +1,76 @@
+# OCR: 14ebc2237f3f35a4546a62e625b9edba.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/14ebc2237f3f35a4546a62e625b9edba.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+No.
+Time 10.800008 2.080397 31.081556 41.991838 52.984999 62.005279 72.682336 83.029637 93.929917 183.445293 114.953559 124.953876 134.210585 145.076730 155.076974
+6.188689 16
+176.191952
+Source
+192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.80 192.168.111.201 192.168.111.128 192.168.111.88 192.168.111.201 192.168.111.128 192.168.111.80 192.168.111.201 192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.80
+Destination
+192.168.111.80 192.168.111.128 192.168.111.88 192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.255 192.168.111.80 192.168.111.128 192.168.111.255 192.168.111.80 192.168.111.128 192.168.111.255 192.168.111.80 192.168.111.128 192.168.111.80 192.168.111.128
+Protocol ICMP ICMP ICMP ICMP ICMP ICMP NBNS ICMP ICMP NBNS ICMP ICMP NBNS ICMP ICMP ICMP ICMP
+LengthInfo
+Echo 98
+（ping)
+98
+Echo 98
+Echo 98
+Echo 98Echo Echo 98
+92Name Echo 98
+Echo 98
+92Name
+98 98
+Echo Echo
+Name 92
+Echo 98
+98Echo Echo 98
+Echo 98
+(ping)(ping)(ping)(ping)(ping)
+request reply request reply request reply
+id=0xoe05 id=oxe005, id=axe0e5, id=8xe95
+ttl=64 (reply in 2)
+seq=1/256, seq=1/256,
+(request in 1)
+tt1=64 tt1=64
+seq=2/512,
+(replyin4)
+seq=2/512,ttl=64 (request in3)
+seq=3/768,ttl=64(replyin6)
+id=ox9005, id=0x0005,
+seq=3/768, ttl=64 (request in 5)
+query
+CONF.WSM.360.CN<00> NB
+(ping)
+id=0xee05,seq=4/1024,ttl=64(replyin9)
+request
+id=oxoee5,seq=4/1024,ttl=64(request in8)
+(ping)
+reply
+NBCONF.WSM.360.CN<0>
+query
+(ping)(ping)
+request reply
+seq=5/128e,ttl=64(replyin12)
+id=x0005,3 id=ox0005
+seq=5/1280,ttl=64 (request in 11)
+CONF.WSM.360.CN<00>
+query
+NB
+(ping)
+request
+id=oxo005,
+seq=6/1536,ttl=64(reply in15)
+(ping)(ping)(ping)
+reply request reply
+id=axe0e5, id=xeee5, id=ox9005
+ttl=64
+seq=6/1536,
+(request in 14)(replyin17)
+seq=7/1792,
+tt1=64 ttl=64
+(request in 16)
+seq=7/1792,1

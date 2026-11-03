@@ -1,0 +1,26 @@
+# OCR: b930e01ef987fe82f1f463a7425fb84f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/b930e01ef987fe82f1f463a7425fb84f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+图伏季雅的手机伏季雅的计算机 ShimCache 戴win10通知面快捷方式分析用户桌面缩略图图用户痕达
+最近访问的项目 >文件对适框历史?应用程序运行记录 O最近运行的命令
+资源管理器记录 Windows时间轴
+526 7 459 10 1527 213 51 6 91 4 50 11
+回
+YProgramNameinc"Matt...
+地序号口1 2 口3
+三应用程序 Mattermost
+X
+C:/Userslgaotao)Desktop/mattermost-desktop-setup-5.7.0-win.exe Mattermost.Desktop
+CAUserslgaotao\Desktop)Mattermost.lnk
+运行次数
+等于 1 7 >
+过滤
+三最后运行时问
+起始
+结束
+2024-04-2415:17:18 2024-04-26 17:13:02 2024-04-2617:13:02
+系统过滤
+分区7/Windows 分区7/Windows 分区7/Windows

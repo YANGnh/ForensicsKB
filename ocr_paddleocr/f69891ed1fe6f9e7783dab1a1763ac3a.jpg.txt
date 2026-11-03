@@ -1,0 +1,9 @@
+# OCR: f69891ed1fe6f9e7783dab1a1763ac3a.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/f69891ed1fe6f9e7783dab1a1763ac3a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+information 表
+Qlocalhost 自test
+行 5,965

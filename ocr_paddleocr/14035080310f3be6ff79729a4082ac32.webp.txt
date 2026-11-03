@@ -1,0 +1,52 @@
+# OCR: 14035080310f3be6ff79729a4082ac32.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/14035080310f3be6ff79729a4082ac32.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+vm
+ESXiHost Client
+价导航器 V同主机
+管理监控
+Ve虚拟机 V
+vCLS-3e654d56-ae76-.. 监控
+更多虚拟机..
+目存储网络
+ esxi 端口组
+虚拟交换机
+物理网卡
++营添加Mkernel网卡
+名称
+营vmko 营vmk1 营vmk2
+ 近期任务任务
+RefreshServices
+Start Service Start Service Start Service
+Auto StartPowerOn RefreshServices
+端口组
+VMkernel网卡编辑设置
+Management Network
+DSwitch-vSAN DSwitch-vSAN
+对象 esxi1 esxi esxi1 esxi esxi1 esxi1
+TCP/IP堆栈 C刷新
+防火墙规则操作
+TCP/IP堆栈
+默认TCP/IP堆栈?默认TCP/IP堆栈默认TCP/IP堆栈
+启动者 root root root root root root
+已排队时间
+服务管理
+置备，vMotion
+启动时间
+2025/06/0919:14:59 2025/06/0919:14:59 2025/06/0919:14-59 2025/06/0919:14:37 2025/06/0919:10:29 2025/06/0919:15:09
+r0ot@192.168.10.101
+IPv4地址
+192.168.10.101 192.168.20.2 192.168.30.2.
+结果
+2025/06/0919:15:09 2025/06/0919:14:59 2025/06/0919:14:59 2025/06/0919:14:48 2025/06/0919:10:29 2025/06/0919:15:09
+成功完成成功完成成功完成成功完成成功完成成功完成
+帮助、
+Q搜索 Q搜索
+IPv6地址
+无无无
+完成时间
+3项
+2025/06/0919:15:10 2025/06/0919:15:09 2025/06/0919:14:59 2025/06/0919:14:59 2025/06/0919:10:29 2025/06/0919:15:10

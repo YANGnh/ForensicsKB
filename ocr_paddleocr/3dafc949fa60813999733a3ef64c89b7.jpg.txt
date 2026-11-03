@@ -1,0 +1,16 @@
+# OCR: 3dafc949fa60813999733a3ef64c89b7.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/3dafc949fa60813999733a3ef64c89b7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+PentestTools>framvuln >mimikatztrunk >x64
+名称
+mimidrv.sys mimikatz.exe 图mimilib.dll 图 mimispool.dll mm.dmp
+修改日期
+2013/1/229:07 2021/8/1023:22 2021/8/1023:22 2021/8/1023:22 2021/8/1023:22
+类型系统文件应用程序
+应用程序扩展应用程序扩展 DMP文件
+大小
+37KB
+1,324KB 57KB 31KB 33.267KB

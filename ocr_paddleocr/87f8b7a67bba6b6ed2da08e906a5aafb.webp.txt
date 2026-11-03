@@ -1,0 +1,37 @@
+# OCR: 87f8b7a67bba6b6ed2da08e906a5aafb.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/87f8b7a67bba6b6ed2da08e906a5aafb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+C:(Windows\System32\cmd.e>
+Restore.Sub.#l.
+x
+：Salt:0Amplifier:0-1Iteration:576-58o
+Candidate.Engine.:Device Generator
+Candidates.#l.
+：abc828914->abc425605
+Hardware.Mon.#1..:Temp:58cUtil:83% Core:2625MHzMem:8001MHzBus:8 $2a$10o$joK1mu.Owhkj08IvGSG/X.wVUofNpX6hplpT85SQjdp.Dg017AK0:abc123654
+Session. Status.. Hash.Mode
+Hash.Target Time.Started.
+Time.Estimated. Kernel.Feature.
+Guess.Mask Guess.Queue
+Speed.#1 Recovered Progress Rejected.
+Restore.Point. Restore.Sub.#l.
+2025-12-11 Cracked
+32oo（bcrypt$2*$，Blowfish(Unix))
+$2a$1o$joK1mu.Owhkj08IvGSG/X.wVlUofNpX6hplpT85SQjdp...0l7AK0 Thu Dec 11 16:58:29 2025 (9 mins, 22 secs)
+Thu Dec 11 17:07:51 2025 (0 secs) Pure Kernel
+abc?d?d?d?d?d?d[9] 1/1（100.00%)
+1o27H/s C1.71ms)@Accel:1Loops:4Thr:24 Vec:1
+1/1 (100.00%)Digests (total),1/1 (100.00%)Digests (new)
+576576/1000000（57.66%） 0/576576（0.00%）
+576000/1000000（57.60%）
+Salt:0Amplifier:o-l Iteration:1o20-1o24
+Candidate.Engine.:Device Generator
+Candidates.#l.
+:abc123654->abc762814
+Hardware.Mon.#1..:Temp:58cUtil:45% Core:2625MHzMem:8001MHzBus:8
+Started:ThuDec1116:58:242025 Stopped: Thu Dec 11 17:07:52 2025
+C:/Users\nhy1o\Desktop/Forensics\LovelyTools\hashcat-6.2.6>
+口

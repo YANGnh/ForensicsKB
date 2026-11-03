@@ -1,0 +1,28 @@
+# OCR: ddd07ca255fd2649c7dce876907115d8.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ddd07ca255fd2649c7dce876907115d8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+dProxifier
+File
+Profile
+Connections
+Log
+Application
+View
+Help
+kafaninputservice.exe
+自
+口
+早ProxyServers Address
+157.233.98.29
+Target
+meteor.input.kfsafe.cn:31111
+Port 37761
+Type S0CKS5
+Time/Status Failed
+？
+Add... Edit..
+x
+Remove Check...

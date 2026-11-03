@@ -1,0 +1,37 @@
+# OCR: 3203d61f447b76a49bf473517cd91901.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/3203d61f447b76a49bf473517cd91901.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+流量分析.pcapng
+文件(E)
+编辑(E)
+ALAO
+视图M
+跳转(G
+区口
+9
+捕获(C)
+分析(A)
+统计(S)
+电话
+无线(W)
+QeQl
+httpcontains"phpmyadmin'&&http.request.method=="POST"
+No.
+Time
+26441.984750 28643.108396 313.44.214285 340 45.308711 36646.428525 39247.555011 41948.663181 44649.785555 47350.907384 49952.017365 52653.137797 55254.245659 57955.358307 60756.475890 63357.603774 66058.712750
+Source
+192.168.85.136 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130 192.168.85.130
+Destination
+192.168.85.256 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250 192.168.85.250
+工具
+助(H)
+Protocol Lengtl Info
+HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP
+413POST/phpmyadmin/HTTP/1.1 393POST/phpmyadmin/HTTP/1.1 396POST/phpmyadmin/HTTP/1.1 393POST/phpmyadmin/HTTP/1.1 39ePOST/phpmyadmin/HTTP/1.1 394POST/phpmyadmin/HTTP/1.1 397POST/phpmyadmin/HTTP/1.1 395POST/phpmyadmin/HTTP/1.1 393POST/phpmyadmin/HTTP/1.1
+/phpmyadmin/HTTP/1.1
+394POST
+393POST/phpmyadmin/HTTP/1.1 395POST/phpmyadmin/HTTP/1.1 394POST/phpmyadmin/HTTP/1.1 393POST/phpmyadmin/HTTP/1.1 396POST/phpmyadmin/HTTP/1.1 395POST/phpmyadmin/HTTP/1.1
+(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)(application/x-www-form-urlencoded)

@@ -1,0 +1,14 @@
+# OCR: afc230683b5f1677d6cab495bd8ea359.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/afc230683b5f1677d6cab495bd8ea359.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+g
+骨·检材1-手机
+三序号口1
+三名称过滤
+基本信息>
+AndroidAP_8163
+移动热点邮密码过滤
+5aada11bc1b5

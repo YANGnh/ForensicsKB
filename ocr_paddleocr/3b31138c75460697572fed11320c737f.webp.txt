@@ -1,0 +1,19 @@
+# OCR: 3b31138c75460697572fed11320c737f.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/3b31138c75460697572fed11320c737f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+BTbyWXjzc 文件列表
+田com.apple.siri
+口
+x
+田com.apple.siri.parsec.HashtaglmagesApp
+com.apple.smsFilter com.apple.stocks
+田com.apple.tips 国com.apple.tv
+田com.apple.weather 田com.apple.webapp 国com.ownbook.notes com.tencent.xin
+国com.titashow.tangliao 日AppGroup
+243LU875E5.groups.com.apple.podcasts com.apple.Home.group
+com.apple.MailPersonaStorage
+国com.apple.PreviewLegacySignaturesConv 田com.apple.bird
+键导出所有

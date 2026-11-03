@@ -1,0 +1,15 @@
+# OCR: f17f6cca5388ccc0b3c0c3875f9ab0b8.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/f17f6cca5388ccc0b3c0c3875f9ab0b8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+正在解Hawk2.xml{"MXT_PWD"："
+“，"POLICY"："trUe"，"RISK_CONTENT"：“设备环境异常，请检查I!
+u003cbr/\1u003e错误码50001"，"L0CK"："1596"，"L0CK_CHECK"："不清楚"，"L
+OCK_ACTIVITY":"trUe"
+"LOCK_STATE"："faLSe"
+"R_PWD"："?
+31231158" PSD:>
+"LOCK_CHECK_POSITION"：21
+公众号·小谢取证

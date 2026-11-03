@@ -1,0 +1,9 @@
+# OCR: bae05fa5d1f87fb0d2fe2039ab5974c0.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/bae05fa5d1f87fb0d2fe2039ab5974c0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+android:versionName="i.e'
+android:compilesdkVersion="3o android:compilesdkVersionCoder package-"com.forensix.cam"
+platformBuildVersionCode="3e platformBuildVersionName="1i"

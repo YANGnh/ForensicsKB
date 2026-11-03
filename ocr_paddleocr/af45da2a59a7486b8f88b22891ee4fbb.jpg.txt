@@ -1,0 +1,35 @@
+# OCR: af45da2a59a7486b8f88b22891ee4fbb.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/af45da2a59a7486b8f88b22891ee4fbb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+比电脑》本地磁盘(A:)
+名称
+置BitLocker恢复密钥.TXT
+四运维笔记.docx 圆~s运维笔记.docx
+修 20 20 20
+三文件格式刷
+8[
+粘贴
+心
+Calibri (正文)
+B
+1
+A
+五号 X2
+A
+开始
+A+
+A
+插入要
+页面 A
+引用三
+审阅
+视图
+工具
+A 1
+Neverfire定时任务插件执行时间问题
+Sysjob表修改cron_expression的执行时间登录受限->检查IP黑名单
+sys_config表检查login_ip_limit值。
+各种密码备份： commonPwd.txt

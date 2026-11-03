@@ -1,0 +1,17 @@
+# OCR: 9488be7d001f5e13050a480943ae1c9b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9488be7d001f5e13050a480943ae1c9b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+1日
+2
+BusyBoxv1.36.1（2025-02-0323:09:37UTC)bui1t-inshe11（ash 3
+4
+5
+6
+8
+EDO ERE
+9
+10
+OpenWrt24.19.8，r28427-6dfoe3do2a

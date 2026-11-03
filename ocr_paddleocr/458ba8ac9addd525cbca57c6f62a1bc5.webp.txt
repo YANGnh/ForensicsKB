@@ -1,0 +1,103 @@
+# OCR: 458ba8ac9addd525cbca57c6f62a1bc5.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛附加题/458ba8ac9addd525cbca57c6f62a1bc5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+@ 圆案件日文件
+网工
+分析 o 位置
+时间线 Q 搜素
+笔记自报告
+吸研判
+鸟工具箱
+刷新
+&
+文件全显签名恢复详情/预览
+请选择/输入持有人/检材编号/名
+嫌疑人安卓手机.tar
+qihooCrash sp
++ + + + + + + + + + +
++ + + + + +
++ + + + +
+com.tmri.app.main -12 com.unionpay -1 2
+9458 0 39 103 5733
+com.xiaomi.mifisecurity -122 com.xiaomi.mimobile.noti...2
+com.xiaomi.pass -1 2
+com.xiaomi.scanner-12 com.xiaomi.shop -12
+2 24 7
+com.xunlei.downloadpr...2165
+com.ymobd.uniapp-12
+391
+com.ziipin.softkeyboard...3010
+PhoneData sdcard
+.BADAM GAME
+17 5535 1
+.com.android.providers.d...1
+360LiteBrowser
+Android baidu
+BaiduMap dsmhelper Download IntsigLog MIUI
+Pictures temp tencent sdcard 1
+1 5492
+5 5 4 4 1 6 10 1 8 0
+wang.switchy.hin2n.stars...35
+★ +
+文件
+123.txt 编辑
+样经人安点手机/立件玄统/嫌疑人安卓王机
+123-1.txt
+查看
+新建文本文档.αt
+H1
+连接特定的DNS后缀：
+描述:Intel(R)PRO/1oooMTNetworkConnection#2
+物理地址：?02-11-32-2F-4D-5C 已启用DHCP：否
+IPv4地址：192.168.1.18
+IPv4子网掩码：255.255.255.0 IPv4默认网关：192.168.1.1
+IPv4DNS服务器：61.128.114.166,61.128.114.133 IPv4WINS服务器：
+已启用NetBIOSoverTcpip:是
+<
+B
+T
+A
+IPv6地址:240e:348:6f00:4710:b8a2:b148:7c91:3646.240e:348:6f00:4710:d8ad:4923:e385:3
+获得租约的时间：2024年8月22日，星期四15:28:28 租约过期的时间：2024年8月23日，星期五23:12:50
+临时IPv6地址：240e:348:6f00:4710:c80c:ea43:8a15:a5f8
+连接-本地IPv6地址：fe80：b8a2:b148:7c91:3646%14 IPv6默认网关：fe80::daad:49ff：fe23:e385%14
+IPv6DNS服务器：fe80::daad:49ff：fe23:e385%14
+行5，列22
+12个字符，共586个
+元数据地址：15389467136
+纯文本
+全路径：嫌疑人安卓手机.tar/sdcard/dsmhelper/Download/新建文本文档-1.txt
+加密类型：未加密已删除：否
+新建文本文档-1.txt
+100%
+x
+Windows (CRLF)
+IPv4 : 192. 168. 1. 18
+ANSI
+IPv4:255.255.255.0 IPv4 i@@: 192. 168. 1. 1
+在Download中搜索 +
+三修改时间
+起始
+结束
+。
+2024-08-0422:37:26 2024-08-0418:28:37 2024-08-2412:00:45 2024-08-2411:59:02
+ion#2
+IPv4DNS@:61.128.114.166,61.128.114.133 IPV4 WINS :
+NetBIOsoverTcpip:?
+IPv6:240e:348:6f00:4710:b8a2:b148:7c91:3646 240e:348:6f00:4710:d8ad:4923:e385:3
+Q000L90: 20240Q800220Q, Q00000 15:28:28 Q999j0QQ:2024Q8QQ230,QQ0Q00 23:12:50
+IPv6@@:240e:348:6f00:4710:c80c:ea43:8a15:a5f8@@-@@@IPv6@:fe80::b8a2:b148:7c91:3646%14
+Q
+包
+X
+高级
+三全路径
+过滤
+设
+置
+嫌疑人安卓手机列嫌疑人安卓手机嫌疑人安卓手机嫌疑人安卓手机
+o
+X

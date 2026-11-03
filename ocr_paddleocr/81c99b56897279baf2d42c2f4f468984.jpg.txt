@@ -1,0 +1,25 @@
+# OCR: 81c99b56897279baf2d42c2f4f468984.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/81c99b56897279baf2d42c2f4f468984.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+Xss平台
+我的项目
+主页
+glynoutai default
+我的模块公共模块
+基班出认证钓
+xss.js 默认模块
+创建创健建
+我的项目项目名称 glyhoutai default
+项目描述管理员后台默认项目
+用户：admin
+内容数
+1 0
+个人设置
+邀消
+退出登陆
+创建项目
+创建时间 2024-05-20 2018-12-08
+操作删会删除

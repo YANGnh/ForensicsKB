@@ -1,0 +1,22 @@
+# OCR: 17a22946cbe82b7185bfd866be29901b.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/17a22946cbe82b7185bfd866be29901b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Foxmail.nk FinalShell.Ink Fish.exe.lnk desktop.ini
+一分区扩展名文件类型签名状态文件分类分类描述证据项路径
+绝对路径上级目录文件大小创建时间
+文件
+国预览
+Ink Ink 未验证 Shortcut
+回详细
+WindowsInternals 24cswin10，分区4
+口缩略图
+UsersvAdministratoriDeskto
+时间轴
+UserstAdministrator/Desktop/FinalShell.l Deskto
+1.1KB(1,173)
+2024/10/25
+16:07:44
++8

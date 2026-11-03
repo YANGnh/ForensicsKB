@@ -1,0 +1,16 @@
+# OCR: 11e5371115e20bb64bb332442a71ecbb.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/11e5371115e20bb64bb332442a71ecbb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+tingwith刘福荣聊天 文件 照片已受邀参加会议。
+荣以
+星期—21:43
+个人周宇
+周宇
+zy881015@outlook.com 我的Microsoft帐户
+忙碌
+?设置状态消息添加其它帐户
+口
+注销

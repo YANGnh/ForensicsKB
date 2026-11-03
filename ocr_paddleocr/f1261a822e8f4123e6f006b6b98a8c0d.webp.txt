@@ -1,0 +1,34 @@
+# OCR: f1261a822e8f4123e6f006b6b98a8c0d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/f1261a822e8f4123e6f006b6b98a8c0d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+后回
+③不安全
+vmw 摘要监控访问网络防火墙时间服务更新
+htps://vcsa.pgs.cup:5480/#/ui/summary
+vCenterServer管理
+系统管理 Syslog 备份
+Mon06-09-202504:57PMCST
+主机名：产品：版本：
+内部版本号：
+网
+正常运行时间：
+运行状况
+整体运行状况
+CPU 内存数据库存储交换
+摘要-VMware设备管理
+vcsa.pgs.cup
+VMwarevCenterServer
+8.0.3.00500 24674346 1小时8分钟
+SingleSign-On
+A警示（上次检查时间：Jun9,2025 04:57:44PM）
+?正常警示?正常?正常?正常
+域状态
+pgs.cup 正在运行
+帮助
+实
+操作√
+rootv
+X

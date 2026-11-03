@@ -1,0 +1,21 @@
+# OCR: b89009bbcfc604a03c54f5a783525ac8.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/b89009bbcfc604a03c54f5a783525ac8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+12:32
+记事本
+备份笔记笔记标题
+在这里输入笔记...
+保存笔记
+新建
+100 返回
+恢复笔记
+已保存的笔记
+猫猫啥也不会
+NoahTie HYP BlackBird
+查看
+X = 不
+? +
+4 O

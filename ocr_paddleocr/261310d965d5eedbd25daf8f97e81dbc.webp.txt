@@ -1,0 +1,16 @@
+# OCR: 261310d965d5eedbd25daf8f97e81dbc.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/261310d965d5eedbd25daf8f97e81dbc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+[root@k8s-master ~]# kubectl get nodes
+NAME
+k8s-master k8s-node1 k8s-node2
+STATUS Ready Ready Ready
+[root@k8s-master]#
+ROLES master <none> <none>
+AGE
+244d 243d 243d
+VERSION
+v1.18.0 v1.18.0 v1.18.0

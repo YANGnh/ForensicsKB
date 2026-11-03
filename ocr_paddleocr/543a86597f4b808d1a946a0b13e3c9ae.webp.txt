@@ -1,0 +1,36 @@
+# OCR: 543a86597f4b808d1a946a0b13e3c9ae.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/543a86597f4b808d1a946a0b13e3c9ae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+ForensicsTool GUI WorkBench
+模式任务 file
+password
+imei token uid
+【1】表示解密数据库，支持的type值为1、2、4-7、15【1】微信的EnMicroMsg.db
+[G:/tmp/2024数证杯个人\EnMicroMsg.db) 47acf64
+微信获取到的IMEI或MEID，在sharedprefs/DENGTA 野火IM系应用的用户token，sharedprefs/config.xml 默往（通常在sharedprefs/im.xml中的userld的值）、
+Run
+> XY
+[提示]---->正在计算微信数据库EnMicroMsg.db密钥
+uin wxid device
+-1466753672
+口
+x v
+数据库所属的wxid，一般情况下在解密EnMicroMsg.db 钉钉解密需要的内容，通常在sharedprefs/com.alibab
+Author:WXjzc
+[成功]--
+->获取到数据库密钥<47acf64>
+python C:UsersvAdministratorDesktoplworkspace\ForensicsToolForensicsTool.Ppy -m 1 -t 1 -f G:/tmp/2024数证杯个人>EnicroMsg.db--password47acf64
+--uin-1466753672
+77
+《微信数据库解密》
+EX-Y
+Author:WXjzc
+>定解密微信数据库Enlicromsg.db，
+解密密钥为<47acf64>
+[提宗]-
+[綫动j---->Eniicromsg.db解密成功，解密后数据库程源安祥首录下EnMicroMsg_dec.db
+[成功]-
+->提取到wxia为<wxid_gviyzqeyg83o22>

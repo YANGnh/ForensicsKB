@@ -1,0 +1,32 @@
+# OCR: 510cc2e11b1d62dabac90e4f53f104b6.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/510cc2e11b1d62dabac90e4f53f104b6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+diagnose2025.04.0822-16-36+0800iPhone-0SiPhone21F90>logs>MobileLockdown
+名称
+lockdownd.log lockdownd.log.1
+置文件
+lockdownd.log
+编辑
+查看
+修改日期
+2025/4/822:17 2025/4/418:28
+x
++
+类型
+文本文档 1文件
+大小
+218KB 513KB
+8
+在MobileLockdown中搜索
+口
+04/04/25 18:28:46.217620 pid=80 sleep wake notification callback: Power notification: kl0MessageSystemWillSleep 04/04/25 18:28:46.227951 pid=80 dns unregister block invoke: Unregistered DNS (syncing).
+04/04/25 19:30:05.887216 pid=80 sleep wake notification callback: Power notification: klOMessageSystemHasPoweredOn(WakeReason-NUB.SPMIAPIRQspmio.Oxo2rtc)
+04/04/25 19:30:05.890700 pid=80 dns register block invoke: Registered DNS (syncing): apple-mobdev2 tcp.4754054d.908407cc.515605a9
+04/04/25 19:30:05.890868 pid=80 did wake for wifi wake packet: Current time since boot: 17775000. 04/04/25 19:30:05.891055 pid=80 did wake for wifi wake packet: Failed to get matching service.
+04/04/25 19:30:08.978461 pid=80 sleep wake notification callback: Power notification: klOMessageCanSystemSleep 04/04/25 19:30:08.986929 pid=80 sleep wake notification callback: Power notification: kl0MessageCanSystemSleep 04/04/25 19:30:11.988101 pid=80 sleep wake notification callback: Power notification: kl0MessageCanSystemSleep 04/04/25 19:30:11.996799 pid=80 sleep wake notification callback: Power notification: kl0MessageSystemWillSleep 04/04/25 19:30:12.002328 pid=80 dns unregister block invoke: Unregistered DNS (syncing).
+04/04/25 20:41:55.683919 pid=80 sleep wake notification callback: Power notification: klOMessageSystemHasPoweredOn(Wake Reason - AoP.OutboxNotEmpty spu queue overflow ep38)
+04/04/25 20:41:55.686262 pid=80 dns register block invoke: Registered DNS (syncing): apple-mobdev2. tcp.4754054d,908407cc.515605a9
+x

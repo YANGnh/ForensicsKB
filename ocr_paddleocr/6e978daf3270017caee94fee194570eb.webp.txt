@@ -1,0 +1,11 @@
+# OCR: 6e978daf3270017caee94fee194570eb.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/6e978daf3270017caee94fee194570eb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+In[23l:data=[0b11100111101,0b11000000001.0b11111010110.0b01101010000,0b11000110110
+0b00000000101.0b10001001000.0b11001111010.0b00001111000.0b00001100001.0b0000 10011001.0b100010110111
+In[24]:data2=［-1988forin data]
+In[25]:memeric=".join([words[_]for-indata2]】 In26l：memeric
+0Ut26：做效要谷底湘振标胎缆酱娘

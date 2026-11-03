@@ -1,0 +1,40 @@
+# OCR: ad1e89102ed0e24a17da3e7aac933bed.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/ad1e89102ed0e24a17da3e7aac933bed.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+合
+Attack +
+BASICATTACKS
+字典 Xieve 爆破掩码
+已知密码/部分
+PreviousPasswords
+GROUPS Join攻击附加攻击
+新建爆破攻击
+爆破攻击根据当前的攻击设置检查所有字符组合。这是最慢但最彻底的方法 SETTINGS
+密码长度语言
+SymbolSet 高级设置自定义字符模式修改器
+8 English
+to
+字母全小写全大写
+y
+Numbers
+rd
++Changecase
+8
+字符
+Symbols Space
++Changechars order
+ATTACKBUILDER_COMMENT
++Substitutechars
+示例密码000000rd4mlVm0rd·Ly3ZXErd.18FTAzrd·zzzzzzrd
+需要检查的密码56.800,235,584
+爆破速度
+...
+我不
+新建政击
+x
+口
+RECOVER
+x

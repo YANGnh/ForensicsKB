@@ -1,0 +1,27 @@
+# OCR: 8ad970544263102e43eac9a3e685e08a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/8ad970544263102e43eac9a3e685e08a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+g
+义言的手机
+国三序号口16 口17 口18 口19 口20 口21 口22 口23 口24
+详细信息
+三名称过滤
+基他应用>悟空浏览器
+lynxtemplate.db
+maincrossprocessevent.db mcua.db
+news article.db offlinevideo.db outsidevideo.db
+文件分类
+pangle com.byted.pangle bd embed tea agent.db
+panglecom.byted.panglenpthlog.db panglecom.bytedpanglettopensdk.db
+名称：newsarticle.db
+扩展名：db 类型：文件
+大小：5.08MB
+修改时间：2024-04-2517:04:49 MetaAddr:6108445696
+SQLite文件
+全路径：Pixel.tar/data/data/com.cat.readall/databases/newsarticle.db
+加密类型：未加密已删除：否
+三大小等于 4KB 20KB 24KB 5.08MB 4KB 4KB 40KB 20KB 80KB
+世色起

@@ -1,0 +1,12 @@
+# OCR: 9abae4fb41f25a0ce9a55362f1c7bdef.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/9abae4fb41f25a0ce9a55362f1c7bdef.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+电脑开机密码
+NOtep@d++
+手机锁屏密码
+147258
+容器及vmx加密规则
+Pgs+4位数字+d3j

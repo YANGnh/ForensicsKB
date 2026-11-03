@@ -1,0 +1,43 @@
+# OCR: c28b395859fa5deedad307d96e60b320.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/c28b395859fa5deedad307d96e60b320.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+对象
+rocketchatmessage@rocketchat(2..
+开始事务文本、简选排序
+ts
+msg
+2024-03-1408:20:15.758Zhao 2024-03-1412:32:08.045Laoli 2024-03-1412:33:47.609laosu
+D4全部折叠类型颜色
+2024-03-1412:37:22.755以后兄弟们就在这里聊网站了
+导入导出咖分析融数据生成
+2024-03-1412:40:34.075按照之前电话里聊的，我们的利润分配就是我和老李35%，老赵30%，这个没问题吧
+2024-03-1412:40:57.969没问题的 2024-03-1412:41:36.954没问题
+2024-03-1412:42:42.415工作分配就是为我和老李负责推广拉人，老赵就是负责技术维护
+2024-03-1412:43:09.062没问题 2024-03-1412:43:29.782可以
+2024-03-1412:43:55.87
+网站已经弄好了
+2024-03-14 12:44:26.295 http://172.16.80.47 2024-03-1412:44:40.173大家访问一下测试—下
+2024-03-1412:45:19.331我们先自己熟悉一下，方便推广
+2024-03-1412:47:29.162我这边有个好糊弄的，就可以从他开始 2024-03-1412:48:31.626你先给他吹吹风看看
+2024-03-1508:11:17.346感觉不少鱼上勾了，我觉得可以杀了 2024-03-15 08:11:25.096
+5兄弟们觉得呢
+2024-03-1508:12:52.09
+要不要再等等
+2024-03-1508:12:59.045钓波大的
+9现在已经不少了，谁知道还有没有大的
+2024-03-15 08:13:36.359
+2024-03-15 08:14:08.93
+也行吧
+2024-03-1508:14:19.227收网！ 2024-03-1508:14:29.079
+9收！
+2024-03-15 08:15:04.199
+那就让老赵关服务器
+OK.
+2024-03-15 08:15:13.25
+明白
+(Document) 3 Fie(Document) 3 Fie(Document) 3 Fie(Document) 3Fie(Document)3Fiel(Document)3Fie(Document) 3 Fie(Document) 3 Fiel(Document) 3 Fie(Document) 3 Fiel(Document) 3Fiel(Document)3Fiel(Document) 3 Fie(Document) 3 Fie(Document) 3 Fie(Document)3Fie(Document) 3 Fie(Document) 3 Fiel(Document) 3 Fie(Document)3Fiel(Document) 3 Fie(Document) 3 Fie(Document) 3 Fie(Document) 3Fie(Document) 3 Fiel(Document)3Fiel
+2*UpdateyourRocket.Chat*Newversionavailable(6.7.1)https://github.com/RocketChat/Rocket.(Document)3Fie
+2024-04-2712:07:26.532

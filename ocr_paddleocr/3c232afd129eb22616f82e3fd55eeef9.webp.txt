@@ -1,0 +1,18 @@
+# OCR: 3c232afd129eb22616f82e3fd55eeef9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/3c232afd129eb22616f82e3fd55eeef9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+UUID-检材1-手机.tar>图Linux基本信息■UUID/1>历史命令
+三序号 1145 ■146 口147 口148 口149 150
+三用户名
+过滤 root
+root root root root root
+三命令过滤
+chmod77/password_collector./password_collector
+/password_collector decrypt
+zOGMch8az1Fi+VHg9gb7yD1jd7x51+oZdxnumnbAOGv25AZPSrFsk5ugyWijXT6vvajwofUDPFjomD
+Is histo
+三源文件过滤
+UuiD/i/root/.bash_history UUID/1/root/.bash_history UUID/1/root/.bash_history UUID/1/root/.bash_history UUID/1/root/.bash_history UUID/1/root/.bash_history

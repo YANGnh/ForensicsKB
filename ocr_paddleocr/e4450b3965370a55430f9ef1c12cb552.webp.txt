@@ -1,0 +1,19 @@
+# OCR: e4450b3965370a55430f9ef1c12cb552.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/e4450b3965370a55430f9ef1c12cb552.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+系统保留分区3(C:) 未使用空间4 分区5
+检材计算机.001 检材_计算机.001 检材计算机.001 检材计算机.001
+ntfs ntfs
+ntfs
+C:
+2048 104448
+83670946 83671040
+102400 83566498 94
+1196032
+49.99 MB 39.84GB 47KB
+583.99 MB
+02C9-74CD 66CE-D7FE
+DE2C-2652

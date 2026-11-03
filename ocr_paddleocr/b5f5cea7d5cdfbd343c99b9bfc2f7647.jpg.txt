@@ -1,0 +1,50 @@
+# OCR: b5f5cea7d5cdfbd343c99b9bfc2f7647.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/b5f5cea7d5cdfbd343c99b9bfc2f7647.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+通席号
+M39 mn
+详细信息
+ClaraSmartphone.bin/分区24/data/com.taobao.idlefish/shared_prefs
+推名称过速
+ishimexml 自
+名称：fishimei.xml
+扩扇名：xml 类型：文件大小：199B
+2024-07-30 17:15:35
+创建时商：
+访问时间：2024-07-3017:15:35
+2024-07-3017:15:35
+修改时尚：
+MetaAddr:4850082
+画扩服名过速 xml
+蓝类型文件 Hh
+全路径：ClaraSmartphone.bin/分区24/data/com.taobao.idlefish/sharedprefs/fishimel.xml
+加密类量：未加密日制除：香
+蓝大小等于 199B 2CAD
+通创建时间
+起始
+结束
+2024-07-3017:15:35 47SA7.c.S
+推访间时间
+起始
+结束
+2024-07-3017:15:35 SA3AA7N47.1E.SA
+原类型视围
+文本视图
+监修改时间
+起始
+结束
+2024-07-3017:15:35 S0AA7SA47.-C.5A
+十六进制视图
+监链接过源
+在sharedprefs中搜索
+MetaAdd 等于
+4850082 on
+xalversiont.0encodingutf-8
+standaloneyes
+eihosaao7m57a
+d6.7-de55-h253--5d4f30dde82</string
+<ating-fishinel:351537092934716(/atrinp)
+插全路过速 Clara

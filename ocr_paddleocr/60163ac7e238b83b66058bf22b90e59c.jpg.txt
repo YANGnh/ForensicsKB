@@ -1,0 +1,27 @@
+# OCR: 60163ac7e238b83b66058bf22b90e59c.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/60163ac7e238b83b66058bf22b90e59c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+图形视图 o
+表格视图个
+名称 moduli ssh_config
+/data/data/com.termux/files/home/kali-arm64/etc/ssh
+路径
+data/data/com.termux/files/home/kali-arm64/etc/ssh/moduli
+data/data/com.termux/files/home/kali-arm64/etc/ssh/sshconfic
+ssh host ecdsa key
+ssh host ecdsa key.pub ssh host ed25519 key
+ssh_hosted25519key.pub ssh_hostrsa_key
+ssh_host_rsa_key.pub sshd.config
+sshd_config.ucf-old
+data/data/com.termux/files/home/kali-arm64/etc/ssh/ssh_hostecdsakey
+data/data/com.termux/files/home/kali-arm64/etc/ssh/ssh_host ecdsakey.pub data/data/com.termux/files/home/kali-arm64/etc/ssh/ssh_host_ed25519_key data/data/com.termux/files/home/kali-arm64/etc/ssh/ssh_host_ed25519_key-pub data/data/com.termux/files/home/kali-arm64/etc/ssh/ssh_host_rsa_key
+data/data/com.termux/files/home/kali-arm64/etc/ssh/ssh_host_rsa_key-pub data/data/com.termux/files/home/kali-arm64/etc/ssh/sshdconfig
+data/data/com.termux/files/home/kali-arm64/etc/ssh/sshdconfig.ucf-old
+扩展名-pub-pub-pub.ucf-old
+大小
+605.51KB 1.61KB 513B 178B 411B 98B 2.54KB 570B 3.13KB 3.12KB
+修改时间
+2024/01/1722:50... 2024/01/1722:50... 2024/02/2120:36. 2024/02/212036.... 2024/02/2120:36... 2024/02/212036... 2024/02/2120:36... 2024/02/2120:36.... 2024/05/2110:15... 2024/05/2110:10..

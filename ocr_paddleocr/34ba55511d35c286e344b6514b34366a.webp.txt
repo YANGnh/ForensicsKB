@@ -1,0 +1,31 @@
+# OCR: 34ba55511d35c286e344b6514b34366a.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/34ba55511d35c286e344b6514b34366a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+对象
+开始事务 mediaid
+1
+SBMedialnfo@main(SBMedia)-表
+自文本、 albumid
+筛选 userid
+1
+1排序
+导入
+mediatype
+1
+导出
+数据生成
+mediafrom
+0
+key
+咖创建图表
+geo
+1F52A71C4-6D48-43AD-833
+importdate
+createdate
+16290795.72246716290597.865
+duration
+mainfilepath
+0Documents/1/m1716290795.722455.o

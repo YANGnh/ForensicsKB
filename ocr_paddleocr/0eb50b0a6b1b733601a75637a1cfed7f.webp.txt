@@ -1,0 +1,66 @@
+# OCR: 0eb50b0a6b1b733601a75637a1cfed7f.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/0eb50b0a6b1b733601a75637a1cfed7f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+esxi2
+获取vCenterServer
+esxi2 版本：状况：
+o
+正常运行时间：
++品创建/注册虚拟机‘关机司重新引导|
+8.0Update3
+正常（未连接到任何vCenterServer） 0天
+尚未在主机上配置数据存储
+一硬件
+制造商型号 >CPU 四内存
+虚拟闪存网络
+主机名 IP地址
+DNS服务器
+默认网关 IPv6已启用主机适配器
+网络
+vMware,inc. VMware7.1
+C刷新
+2CPUsxIntel(R)Core(TM)i7-9750HCPU@2.60GHz 6GB
+OB已用.OB容量 esxi2
+1.vmk0:192.168.10.102 2.vmk1:192.168.25.202 3.vmk2:192.168.30.202
+1.192.168.10.99 2.114.114.114.114
+192.168.10.1
+香 1
+名称
+DSwitch-DVUplinks-1029
+DSwitch-vSAN VMNetwork
+女操作
+虚拟机
+o o o
+配置
+映像配置文件
+vSphereHA状况 VvMotion
+受支持
+用于vMotion的虚拟网卡系统信息
+主机上的日期/时间
+安装日期资产标记序列号 BIOS版本
+BIOS发布日期
+过去1小时的性能摘要
+100
+（%
+80 60
+CPU
+已用：306MHz 内存
+已用：3.5GB 存储
+已用：0B
+(Updated)EsXi-8.oU3e-24674464-standard(sysin.org)）
+未配置是
+营vmk2
+2025年6月09日星期一11:53:31UTC 2025年4月30日星期三14:25:36UTC No AssetTag
+VMware-564d3aeaa8e25b1a-eebfb6610c61622c
+VMW71.00V.16722896.B64.2008100651 2020年8月10日星期一08:00:00+0800
+已消耗的主机CPU
+已消耗的主机内存（右轴）
+5
+可用：4.9GHz
+6%
+容量：5.2GHZz 可用：2.49GB
+58% 容量：6GB 可用：0B NaN% 容量：0B
+X 已消耗的主机内

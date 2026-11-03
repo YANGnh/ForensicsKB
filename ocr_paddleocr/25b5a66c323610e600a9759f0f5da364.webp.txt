@@ -1,0 +1,60 @@
+# OCR: 25b5a66c323610e600a9759f0f5da364.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/25b5a66c323610e600a9759f0f5da364.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+名称
+此电脑
+version version.1
+OS (C:)
+hlnet>1-1748241630
+检材1-手机.tar>data 修改日期
+2025/5/1209:40 2025/5/1209:40
+misc 类型文件 1文件
+010Editor-C:hlnet/1-1748241630\检材1-手机.tarldata\misc/recoveryproclversion
+File
+Edit
+versionx
+Select
+Find
+Linuxversion
+View
+Format
+Scripts
+Templates
+5
+e
+Debug AG
+Project
+recovery
+Tools
+proc 大小
+1KB 1KB
+口
+Window
+Hex
+4.14.186-g844fd19c6
+(builder@pangu-build-component
+vendor-378935-
+DOWC.
+clang
+version 11.0.1
+prolect
+5dyfd
++m-
+CAndroid
+（6443078baseoonr383902
+血
+(https://android.googlesource.com/toolchain/llvm-
+b397f81060ce6d701042b782172ed13bee898b79)，
+LLD11.0.2
+（/bui1dbot/tmp/tmp6m7QHb397f81060ce6d701042b782172ed13bee898b79)）#1
+SMP
+PREEMPT
+Tue
+Feb
+11:13:59
+UTC
+2025
+x Help

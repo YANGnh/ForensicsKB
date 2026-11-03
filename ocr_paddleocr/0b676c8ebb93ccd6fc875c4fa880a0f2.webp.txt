@@ -1,0 +1,47 @@
+# OCR: 0b676c8ebb93ccd6fc875c4fa880a0f2.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/0b676c8ebb93ccd6fc875c4fa880a0f2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+UsersAdministrator/AppDatalLocalWinXray 口文件名称一
+=Local(10.001) =WinXray (5)
+update(O) core.table 自pac.txt
+proxy.table settings.table ui.table
+C:AUsers\ADMINI~1VAppData\Local\Templproxy48241.table[文本模式] -Ndd
+文件(F) 区
+1 2
+4 5 6 7
+会区
+8
+编辑(E) 日
+慢
+command.txt
+查找(S)@
+区
+日
+视图(M) 题目.txt
+编码(N)
+c 区
+器
+语言(L)
+设置冈
+Pass.txt
+autoRefreshsubscription=true; pacPort=o;
+maxTestservers=l00; usesocksPac=true;
+区
+列编辑 1.php
+措述存在的存在的
+存在的，已查看存在的，已查看存在的，已查看存在的，已查看存在的，已查看存在的
+工具(O) 区
+播件
+对比(C)
+GameSave002. json
+?文件类型
+table txt table table table
+反馈注册
+? 区
+关于?
+GO
+hook.js
+outbounds=([1]=(tls="xtls";protocol="vless";id="uID或密码";sni="TLs域名";host=' subscribeUrls={[1]=(ps="订阅地址";checked="启用";url="https://paste.ee/d/4eIzu"} testInterval=l5;

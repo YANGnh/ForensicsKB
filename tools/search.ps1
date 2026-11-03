@@ -1,6 +1,6 @@
 ﻿# ============================================================
 # 取证资料库：全文检索（正文 + OCR 截图文本）
-# 数据源：index.json（文档元数据）+ 各文档引用的 ocr/<图片名>.txt
+# 数据源：index.json（文档元数据）+ 各文档引用的 ocr_paddleocr|ocr_tesseract/<图片名>.txt
 # 用法：
 #   .\tools\search.ps1 docker-ce
 #   .\tools\search.ps1 微信 -Competition 美亚杯 -Year 2025
@@ -36,6 +36,13 @@ param(
     [string]$Root = ''
 )
 $ErrorActionPreference = 'Stop'
+
+# 归一化：NFKC + 去掉相邻中文之间的空白（OCR 常见“取 证”）
+function Normalize-Text([string]$s) {
+    if ($null -eq $s) { return '' }
+    $s = $s.Normalize([System.Text.NormalizationForm]::FormKC)
+    return [regex]::Replace($s, '(?<=[\u4e00-\u9fff])[ \t]+(?=[\u4e00-\u9fff])', '')
+}
 
 # Windows PowerShell 5.1 在参数默认值阶段取不到 $PSScriptRoot，这里在脚本体里再解析
 if (-not $Root) { $Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path }
@@ -102,6 +109,13 @@ try {
     $rx = New-Object System.Text.RegularExpressions.Regex([regex]::Escape($Pattern), $opt)
     Write-Host "[提示] 不是合法正则，已按纯文本匹配。" -ForegroundColor Yellow
 }
+# OCR 文本先做 NFKC + 中文空格归一化，匹配器也按归一化后的词构造
+$ocrPattern = Normalize-Text $Pattern
+try {
+    $ocrRx = New-Object System.Text.RegularExpressions.Regex($ocrPattern, $opt)
+} catch {
+    $ocrRx = New-Object System.Text.RegularExpressions.Regex([regex]::Escape($ocrPattern), $opt)
+}
 
 $hits = 0; $docHits = 0; $ocrHits = 0; $hitDocs = [System.Collections.Generic.HashSet[string]]::new()
 
@@ -142,26 +156,36 @@ if (-not $OnlyDocs) {
         $full = Join-Path $Root $d.path
         if (-not (Test-Path -LiteralPath $full)) { continue }
         $txt = [System.IO.File]::ReadAllText($full, [System.Text.Encoding]::UTF8)
-        foreach ($m in [regex]::Matches($txt, '!\[[^\]]*\]\(([^)]+)\)')) {
+        foreach ($m in [regex]::Matches($txt, '(?:<img[^>]*src="|!\[[^\]]*\]\()([^")]+)')) {
             $base = [System.IO.Path]::GetFileName($m.Groups[1].Value.Trim())
             if ($base -and -not $img2doc.ContainsKey($base)) { $img2doc[$base] = $d.path }
         }
     }
-    $ocrDir = Join-Path $Root 'ocr'
+    $ocrDirT = Join-Path $Root 'ocr_tesseract'
+    $ocrDirP = Join-Path $Root 'ocr_paddleocr'
     foreach ($img in ($img2doc.Keys | Sort-Object)) {
         if ($hits -ge $Max) { break }
-        $f = Join-Path $ocrDir ($img + '.txt')
-        if (-not (Test-Path -LiteralPath $f)) { continue }
-        $lines = [System.IO.File]::ReadAllLines($f, [System.Text.Encoding]::UTF8)
-        for ($i = 0; $i -lt $lines.Count; $i++) {
-            if ($hits -ge $Max) { break }
-            if ($lines[$i].StartsWith('#')) { continue }   # 跳过 OCR 文件头
-            if ($rx.IsMatch($lines[$i])) {
-                Write-Host ("[截图] {0}  →  {1}" -f $img, $img2doc[$img]) -ForegroundColor DarkCyan
-                Write-Host ("       " + $lines[$i].Trim())
-                $hits++; $ocrHits++
-                [void]$hitDocs.Add($img2doc[$img])
+        $ocrFiles = @(
+            (Join-Path $ocrDirP ($img + '.txt')),
+            (Join-Path $ocrDirT ($img + '.txt'))
+        ) | Where-Object { Test-Path -LiteralPath $_ }
+        $matched = $false
+        foreach ($f in $ocrFiles) {
+            $lines = [System.IO.File]::ReadAllLines($f, [System.Text.Encoding]::UTF8)
+            for ($i = 0; $i -lt $lines.Count; $i++) {
+                if ($hits -ge $Max) { break }
+                if ($lines[$i].StartsWith('#')) { continue }   # 跳过 OCR 文件头
+                $lineN = Normalize-Text $lines[$i]
+                if ($ocrRx.IsMatch($lineN)) {
+                    Write-Host ("[截图] {0}  →  {1}" -f $img, $img2doc[$img]) -ForegroundColor DarkCyan
+                    Write-Host ("       " + $lineN.Trim())
+                    $hits++; $ocrHits++
+                    [void]$hitDocs.Add($img2doc[$img])
+                    $matched = $true
+                    break
+                }
             }
+            if ($matched) { break }
         }
     }
 }

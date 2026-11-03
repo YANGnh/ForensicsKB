@@ -1,0 +1,31 @@
+# OCR: 8c46f80713021d9edfcdcb96652e8854.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/8c46f80713021d9edfcdcb96652e8854.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+字符串上下文偏移量：
+0x10ABB550
+上下文内容（前后各1KB）
+0.4.7.2.
+00
+字符串：
+""D:\VeraCrypt\VeraCrypt-x6 4.exe"/volumeD:\VeraCrypt lvolumeslaaa.hc/letterX paSsword"WOWEIZUGUOXIANSHI You"/quit/silent"
+编码： Ascii
+文本
+Hex
+X
+继续加载1KB
+.5.-.2.1.-.2.5.1.0.0.2.1.8.0.7.-.2.9.6.2.3.9.0.3.5.2.-.1.2.2.9.3.3
+.C:IProgramData/VMwarel
+,srcIdloool,binary
+sizeo.
+VMwareToolsltools.conf.REPLY[2l,sessionIdo,.l.z.h.l.v.m.t.r.a.y...v.m.s.g
+ary
+.1o"
+.Correction1" Panel/Desktop.
+8...0..8....X..8.
+.C:\ProgramDatalVMwarevMware Tools\temp
+global.conf.
+data)"
+.RpcChannel: Unknown Command 'unity.show.taskbar': Handler not registered

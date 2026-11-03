@@ -1,0 +1,70 @@
+# OCR: e8d22536363113d0f296a9b1a772c91b.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/e8d22536363113d0f296a9b1a772c91b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+圆案件
+回文件
+网分析
+? 位置
+种时间线
+Q 搜素
+笔记自报告
+贸研判
+白工具箱
+刷新
+详情/预览
+请选择/输入持有人/检权
+Duncanlapt... LAM KH lapt... Nginx服务器
+IIS服务器 8
+用户痕迹缩略图基本信息服务日志事件日志
+11/93772 34376
+4 1 327 244 1118 4405 20169
+Windows日志
+吉设置系统吉应用台安全
+应用程序和..
+0
+事件日志分析
+用户桌面任务计划
+与快捷方式分析 ShimCache 远程桌面
+9934 10 5629 3032 1263 10235 1398
+8 83 153 1319 56 88
+图
+拦序号口1 口2 口3 口4
+详细信息
+-4624'? 拦事件ID
+等于 4624 4624 4624 4624
+>
+Datainc"S-1-5-21-2447...x
+扫事件摘要
+4624Y
+过滤
+分析结果搜索
+YCreateTime>="2025-04...×
+拦数据 S-1-5-2
+An account was successfully logge... An account was successfully logge... An account was successfully logge... An account was successfully logge...
+<EventDat.. <EventDat.. <EventDat... <EventDat...
+三事件类型
+过滤信息信息信息信息
+画
+Q
+在安全中搜索
+三分类过滤 Security Security Security Security
+protocols.%n%t-Keylength indicates the lengthot the generated sessionkey.Ihis willbe U it no sessionkeywas requested. 数据：<EventData><DataName="SubjectUserSid">S-1-0-0</Data><DataName="SubjectUserName">-</Data><Data
+Q
+口
+x
+高级
+设置列
+X
+Name="SubjectDomainName">-</Data><DataName="SubjectLogonld">0x00000000</Data>DataName="TargetUserSid'>S-1-5-21-244795756-2605320691-3516395164-1004</Data><DataName="TargetUserName">CE02</Data><DataName="TargetDomainName">CEO-PC</Data><Data Name=TargetLogonld">0x0ob064a4</Data><DataName="LogonType">3</Data><DataName='LogonProcessName">NtLmSsp</Data><Data Name="AuthenticationPackageName">NTLM</Data><DataName="WorkstationName>KALl</Data>DataName="LogonGuid">00000000-0000-0000-0000-000000000000</Data><DataName="TransmittedServices">-</Data><DataName="LmPackageName">NTLMV2</Data><Data
+Name=Processld>0x00000000</Data><DataName="ProcessName">-</Data><Data
+Name="lpAddress">182.239.117.11/Da
+ala><DataName="lpPort">52344</Data></EventData>
+事件类型：信息分类：Security 机器名：CEO-PC
+事件源：
+Microsoft-Windows-Security-Auditing
+54849625-5478-4994-A5BA-3E3B0328C30D
+GUID：关键字：
+审核成功

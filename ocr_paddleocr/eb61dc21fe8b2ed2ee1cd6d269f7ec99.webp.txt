@@ -1,0 +1,15 @@
+# OCR: eb61dc21fe8b2ed2ee1cd6d269f7ec99.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/eb61dc21fe8b2ed2ee1cd6d269f7ec99.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+交易输入
+@bc1q4s5g43yyyrf4fkd0r8fhwq23jra24f7e57p2zn o
+(1)
+21.17522533BTC
+出
+bc1qvffm36xra02aymwqcajhjzcrg6h8q2jwdn0kjeo be1q6lylw6rtuh6kdarh0dqma3g5zpqc9uxrw3amng
+交易明细
+(2) 0.5BTC
+20.67521975BTC

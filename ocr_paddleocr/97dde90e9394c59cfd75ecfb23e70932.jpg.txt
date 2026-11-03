@@ -1,0 +1,37 @@
+# OCR: 97dde90e9394c59cfd75ecfb23e70932.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/97dde90e9394c59cfd75ecfb23e70932.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+tcpdump2 tj.cap
+文件(F)
+编辑(E)@
+视图V
+区
+跳转(G)
+?
+应用显示过滤器Ctrl-
+捕获(C) 价
+分析(A)
+金
+Wireshark·Conversations·tcpdump2_tj.cap
+ConversationSettings ■解析名称
+口绝对开始时间
+口显示过滤器的限制
+Ethernet.13 AddressA 222.2.2.2
+0
+统计(S) IPv4·72 AddressB
+电话(Y)?@
+无线(W)
+IPv6·4
+分组
+192.168.100.100
+192.168.100.100 192.168.100.254 192.168.100.100192.168.100.1 192.168.100.25420.205.248.27
+14.420 8,484 1,762 181
+工具(の
+TCP157
+Bytes 37MB 27MB 173kB 133kB
+帮助（H） UDP·67
+PacketsA→B By
+7,820 4,576 881 119

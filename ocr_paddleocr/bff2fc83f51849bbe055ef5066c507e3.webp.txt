@@ -1,0 +1,42 @@
+# OCR: bff2fc83f51849bbe055ef5066c507e3.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/bff2fc83f51849bbe055ef5066c507e3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+MT管..
+6:47
+A
+/std 文件买
+Launcher3
+@
+com.android.launcher3.Launcher
+com.forensix.cam.activity.LoginActivity com.android.launcher3.Launcher
+.privacy_safe 25-04-2811:14
+Alarms
+23-05-2800:22
+Activity记录 Launcher3
+bin
+25-04-2207:40 cache
+23-05-29 08:38
+com.android.launcher3.Launche ForensixCam
+com.forensix.cam.activity.LoginActivity Launcher3
+com.android.launcher3.Launche
+更多
+25-05-1501:43 ida_server 25-05-1501:43 ldsdk
+24-11-08 20:58 Misc
+25-05-0115:07
++
+关闭
+停止服务
+25-04-1503:58 mnt
+25-06-0306:39 odm
+25-04-1503:58 oem
+25-04-1503:58
+个
+X
+用按键
++ 加量
+减量可全屏? 截图
+多开安装设置更多
+C

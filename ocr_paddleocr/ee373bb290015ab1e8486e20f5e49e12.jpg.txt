@@ -1,0 +1,24 @@
+# OCR: ee373bb290015ab1e8486e20f5e49e12.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ee373bb290015ab1e8486e20f5e49e12.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+p
+月基本信掌终端历史记录一PowerShell
+检材3-计算机》
+口三房号口1 02 详细偏息
+理内容过滤
+-python/run.py--source"E:/dst01.jpeg"--target"E:/1.pipg"--output"E:/db.jpg"--frame-processorf.. Apython-)run.py--source"E:/dsto1jpeg"--target:/2.png"--output"E:/dbjpg"--frame-processor f..
+三来迎过速
+内赛：python../run.py--source"E:/dsto1.jpeg"--targetE:/1.pjpg"--output"E:/db.jpg--frame-processorface_swapperfaceenhancen
+quality18--max-memory4--execution-providercpu--execution-threads4 来源：
+漂文件：检材3-i计算机LE01/分区6/Users/L/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/ConsoleHosthistory.txt 已型融：香
+在PowerShell中搜索
+Q
+高级
+设重列
+食口
+X
+similar-face-distanceo.85
+temp-frame-formatpng--temp-frame-quality18--output-video

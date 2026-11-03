@@ -1,0 +1,21 @@
+# OCR: 49680e5be5432aadd3e99c876d893fcc.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/49680e5be5432aadd3e99c876d893fcc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+接口WGO 常规设置
+高级设置
+防火墙设置
+DHCP服务器
+关于WireGuard接口和对端的更多信息请访问wireguard.com。
+描述
+对端 vir_节点
+可选，对端的描述
+公钥
+预共享密钥允许的IP
+ODydALVvHHUin+IHpVvaXgayllePKqsPRB 必须，对端的Base64编码公钥。
+Base64编码的预共享密钥。添加在额外的对称密钥加密层中，用于抵抗未来的
+可选，
+192.168.200.0/2
+x

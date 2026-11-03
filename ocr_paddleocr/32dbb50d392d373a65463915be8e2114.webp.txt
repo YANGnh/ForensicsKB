@@ -1,0 +1,17 @@
+# OCR: 32dbb50d392d373a65463915be8e2114.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/32dbb50d392d373a65463915be8e2114.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+//备份表
+publicfunctionexport()
+$db=newBackup();
+if(Request::instance()->isPost())
+sinput=input('post.');
+$fileinfo=$db->getFile(); 检查是否有正在执行的任务
+$lock="(sfileinfo'filepath'iibackup.lock" if(is file($lock))
+sthis->error（检测到有一个备份任务正在执行，请稍后再试！）; telse
+//创建锁文件
+file_put_contents($lock,time()); 1/检查备份目录是否可写
+iswriteable（$fileinfo[filepath'）$this->error（备份目录

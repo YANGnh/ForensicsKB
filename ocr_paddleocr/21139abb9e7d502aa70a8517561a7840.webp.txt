@@ -1,0 +1,8 @@
+# OCR: 21139abb9e7d502aa70a8517561a7840.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/21139abb9e7d502aa70a8517561a7840.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+Users贾韦码\Music/三张表口了文件名称一
+.. =Music (5) 口=三张表（4) XCTF_Answers.md hierarchy.csv members.csv transactions.csv

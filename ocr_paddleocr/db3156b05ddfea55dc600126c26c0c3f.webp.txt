@@ -1,0 +1,17 @@
+# OCR: db3156b05ddfea55dc600126c26c0c3f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/db3156b05ddfea55dc600126c26c0c3f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+序号口1
+三IP 过滤
+192.168.114.129
+三端口号过滤 22
+三用户名过滤 root
+三密码过滤
+Y
+三连接名称过滤
+连接阿里云
+三描述过滤
+起

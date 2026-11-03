@@ -1,0 +1,18 @@
+# OCR: dc5a33d38d21ccd80800186cc171f43a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/dc5a33d38d21ccd80800186cc171f43a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+检材3-计算机>
+序号口37 口38 口39 口40 口41 ■42 口43 ■44 口45 ■46 口47
+三标题过滤
+Chrome浏览器>品历史记录
+URL 过滤
+localhost.localdomain-.. localhost.localdomain-... iStoreos-首页-LuCl iStoreOs-首页-LuCi iStoreOs-首页-LuCl iStoreos-首页-LuCi iStoreOs-首页-LuCl iStoreOs-首页-LuCi iStoreos-首页-LuCi
+iStoreos-LuCl iStoreos-LuCI
+https://192.168.8.112/ui/#/host/vms https://192.168.8.112/ui/#/host/vms/10 http://192.168.8.5/
+http://192.168.8.5/cgi-bin/luci http://192.168.8.5/cgi-bin/luci/ http://192.168.8.5/cgi-bin/luci/
+http://192.168.8.5/cgi-bin/luci/admin/quickstart http://192.168.8.5/cgi-bin/luci/admin/quickstart/ http://192.168.8.5/cgi-bin/luci/admin/quickstart/
+http://192.168.8.5/cgi-bin/luci/admin/network_guide
+http://192.168.8.5/cgi-bin/luci/admin/network_guide/pages/network

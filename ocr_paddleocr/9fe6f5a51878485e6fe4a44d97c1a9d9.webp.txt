@@ -1,0 +1,47 @@
+# OCR: 9fe6f5a51878485e6fe4a44d97c1a9d9.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/9fe6f5a51878485e6fe4a44d97c1a9d9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+*kp.txt-记事本
+文件(F)编辑(E)格式(O)查看(V)帮助(H) 16161616
+Database.kdbx-KeePass
+File
+Group
+Database
+General Windows Network Internet eMail
+Entry
+宁
+% Homebanking
+Find
+View
+中 Title
+Q
+Tools
+Sample E... Sample E... 备用机密码 EditEntry
+Help
+Search.. UserName User Name Michael321
+EditEntry
+Password************************
+Youareediting an existing entry
+URL
+Notes
+https://keep... Notes https://keep..
+General Advanced Properties Auto-Type History
+Title:
+User name: Password: Repeat: Quality: URL:
+Group:Database.Title:备 Time:2025/10/1614:48:4
+1of3selected
+R
+Notes:
+Expires:
+备用机密码 22E4828017
+2025/11/23
+0:00:00
+36 bits
+Icon: 10 ch.
+画
+X X
+100%
+Win

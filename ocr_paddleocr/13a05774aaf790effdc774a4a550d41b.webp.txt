@@ -1,0 +1,22 @@
+# OCR: 13a05774aaf790effdc774a4a550d41b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/13a05774aaf790effdc774a4a550d41b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+String b7 = el.c.b(str): Log.d("LoginService",
+"usernameMD5first 6 chars:
+"+b?
+String tryf
+if
+a6=el.c.a(string.valueof(9981)):(a6=null)
+throw newNullPointerException("null cannot be c:
+String substring = a6lsubstring(o1o):
+c2.e.d(substring, "(this as java.lang.strin..ing(star stringstr3="http://127.0.0.1:8080/1ogin/"+b7;
+"+ str3):
+Log.d("LoginService","Login URL:"
+JsONObjectisoNobjectnewJsONObject():
+jsoNobject.put("username",str): jsoNobject.put("password"，str2);
+jsoNobject.put("id",b7): jsoNobject.put("flag"
+substring)
+String jsoNobject2 = jsuNobject.tostring(); c2.e.d(jsoNobject2,"jsonobject.tostring()"): yyVar2-y.f5378e;

@@ -1,0 +1,14 @@
+# OCR: 10a634f36d85f6499d821c958747d6cd.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/10a634f36d85f6499d821c958747d6cd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+1.png
+欠条
+图片密码.png
+C:lWindows|System32)cmd.e)
+Microsoftwindows［版本10.0.26100.3775](c）MicrosoftCorporation。保留所有权利。
+\2025FIc初赛\欠条>certutil-hashfile欠条md5
+MD5的欠条哈希：
+83da62aabc88cb1b23e9469142b67b80 Certutil：-hashfile命令成功完成。

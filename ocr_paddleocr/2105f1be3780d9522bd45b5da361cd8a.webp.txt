@@ -1,0 +1,13 @@
+# OCR: 2105f1be3780d9522bd45b5da361cd8a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/2105f1be3780d9522bd45b5da361cd8a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+名称：用户2 全称：用户2
+用户类型：本地账户登录密码：SZB2025
+SID:S-1-5-21-502435891-2412241083-2583877310-1002 最后登录时间：2025-10-1518:07:00
+最后修改密码时间：2025-10-0617:47:30
+账户是否有效：否登录次数：7
+用户目录：c:Users\用户2
+LMHASH:aad3b435b51404eeaad3b435b51404ee NTHASH:d378c73f7c984db6f732499abea9c708 已删除：否

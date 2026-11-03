@@ -1,0 +1,66 @@
+# OCR: dbb9e7c5e44ac5f5cd46e68a86716e53.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/dbb9e7c5e44ac5f5cd46e68a86716e53.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+终端×
+[root@localhost192.168.217.219]#netstat-anpt
+Active Internet connections (servers and established)
+ProtoRecv-oSend-o LocalAddress
+tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp6 tcp6 tcp6 tcp6 tcp6 tcp6 tcp6 tcp6
+e e e e e?·? e??? e 8??·?
+?·??
+e e
+000.0022
+0127.0.0.1-1080 00.0.0.0-32137 0000.0:3306
+012700.1-44306 0127-0.0-1-40162 0127.0.0.1-3306 01270.0.1-40158 01270.0.1:44316 01270.0.1-44310 0127.0.0.1:44314
+36192.168217.188-22
+012700.1-3306 01270.01-3306 0127.0.0.1:40154
+0192.168.217.188-22
+012700.1.44308 01270.0.1-44312 Q58294
+：：22 9
+：：58295 e
+:888
+e
+：41369
+：37826 9
+：：：59204 A
+0::7788
+N80
+tcp6
+e
+[root@localhost192.168.217.219]#
+Foreign Address
+0000.* 0.0.0.0:* 000.0:* 000.0*
+1270.0.1:1080 1270.01-3306 127.0.0.1-40154 127.0.01-3306 1270.0.11080 1270.0.1-1080 127.0.0.1-1080
+192.168.2171-5942
+1270.01-40158 1270.0.1-40162 127.0.0.1-3306
+192.168.217_1-12139
+1270.0.11080 1270.0.1-1080
+:***:****:**
+State LISTEN LISTEN LISTEN LISTEN
+TIMEWAIT
+PID/Program name 1243/sshd
+1477/sing-box
+2773/python 2555/mysqld
+ESTABLISHED34382/sshd:root
+ESTABLISHED ESTABLISHED
+TIMEWAIT TIME WAIT
+TIMEWAIT
+2555/mysqld
+root
+34382/sshd:
+7171/sshd:root[pr
+ESTABLISHED
+ESTABLISHED2555/mySqld
+2555/mysqld
+ESTABLISHED
+ESTABLISHED34382sshd：root
+ESTABLISHED3438e/sshd：root［p
+TIME WAIT TIME WAIT
+LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN
+1244/sui 1243/sshd 1244/sui
+32032/httpd
+1477/sing-box
+32032/httpd 32032/httpd 32032/httpd 32032/httpd

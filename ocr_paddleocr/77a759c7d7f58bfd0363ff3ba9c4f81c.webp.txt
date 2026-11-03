@@ -1,0 +1,89 @@
+# OCR: 77a759c7d7f58bfd0363ff3ba9c4f81c.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/77a759c7d7f58bfd0363ff3ba9c4f81c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+Wireshark · Conversations - CEO_Traffic.pcapng
+Conversation Settings 口解析名称
+口绝对开始时间
+口显示过滤鑫的限制
+复制
+Follow Stream...
+Graph...
+协议
+Bluetooth
+BPv7 DCCP
+Ethernet
+FC FDDI
+IEEE802.11 IEEE802.15.4
+IPv4 IPv6 IPX OJXTA LTP
+口MPTCP ONCP
+openSAFETY DRSVP
+Filterlistforspecifictype
+Ethernet.17 Address A
+IPv4·10 AddressB
+IPv6·8
+分组
+68:da:73:a2:58:fc 01:00:5e:7f:ff:fa 68:da:73:a2:58:fc01:80:c2:00:00:0e 68:da:73:a2:58:fcff:ff:ff:ff:ff:ff
+a0:b3:cc:29:28:a901:00:5e:00:00:16 a0:b3:cc29:28:a9 01:00:5e:00:00:fc a0:b3:cc:29:28:a901:00:5e:7f:fffa a0:b3:cc:29:28:a933:33:0000:00:02 a0:b3:cc:29:28:a933:33:0000:00:0c a0:b3:cc29:28:a933:33:00:00:00:16 a0:b3:cc29:28a933:33:00:01:00:02 a0:b3:cc29:28:a933:33:00:01:00:03 a0:b3:cc:29:28:a933:33:ff:a5:08:e3 a0:b3:cc:29:28:a9ff:ff:ff:ff:ff:ff
+TCP.75
+Bytes
+4716字节
+1 84
+60字节 12kB
+6362字节
+2kB
+36 67
+30kB 3210字节
+30kB
+58
+8740字节
+21 36 1 96
+e8:65:5f:1f:54:e901:80:c2:00:00:00
+1,114
+e8:65:5f:1f:54:e933:33:00:01:00:03
+3kB 3kB 78字节 11 kB 67kB
+2180字节
+5MB
+e8:65:5f:1f:55:49 a0:b3:cc:29:28:a9 4,741
+38
+ec:9a:74:ba:96:92
+201:80:c2:00:00:0e
+5kB
+UDP·111
+StreamID
+15 16 0 8 10 11 5 12 6 1 9 4 2 13 14 7 3
+Packets A → B
+4 1 84 6 36 67 3 58 8 21 36 1 96 1,114 2 1,746 38
+Bytes A → B Packets B → ABytes B → A
+716字节 60字节 12kB 362字节 2kB 30kB 210字节 30kB 740字节 3kB 3kB 78字节 11kB 67kB 180字节 2MB 5kB
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2.995 0
+Rel Start
+0字节408.271533 0字节937.422347
+0字节 0字节 0字节 0字节 0字节
+0.000000 6.829744 6.830269 6.898344 5.712870
+0字节
+6.898494
+0字节 0字节 0字节 0字节
+5.713060 5.260579 6.830146 5.712771
+0字节
+5.523852
+0字节
+7.072962
+0字节
+8.718839 4MB5.716883 0字节
+5.555148
+持续时间
+3.0784 0.0000 1119.8234 2.3775 847.6167 896.5655 8.0028 896.5657 3.4942 917.2199 847.6165 0.0000 941.3560 1117.0455 1.0102 1114.5321 1110.5823
+Bits/s A →+ B 1860bits/s
+82bits/s 1218bits/s 21 bits/s 272bits/s 209bits/s 271bits/s 1694bits/s 27bits/s 28bits/s
+97 bits/s 478bits/s 1425bits/s 11kbps 34bits/s
+Bits/s B → A
+obits/s obits/s obits/s obits/s obits/s obits/s obits/s obits/s obits/s obits/s
+obits/s obits/s obits/s 25kbps obits/s
+关闭
+口
+帮助
+x

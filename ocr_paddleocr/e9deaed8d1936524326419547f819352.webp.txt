@@ -1,0 +1,12 @@
+# OCR: e9deaed8d1936524326419547f819352.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/e9deaed8d1936524326419547f819352.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+O 140GBVol..
+O 新加卷
+wintools Trash o FileSystem
+Home
+12:16
+C

@@ -1,0 +1,33 @@
+# OCR: 4c79cf40b8b231d6b69539acd707cf65.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/4c79cf40b8b231d6b69539acd707cf65.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Pyinstaller打包程序逆向>
+tj_encrypt_file.exe.exe extracted
+名称
+★ ★ ★ ★
+Crypto
+A
+PYZ-00.pyz_extracted
+_bz2.pyd_ctypes.pyd_hashlib.pyd Izma.pyd socket.pyd
+lbase libranvzip encrypt_file.pyc libcrypto-1_1.dll
+pyi_rth_subprocess.pyc pyibooto1_bootstrap.pyc pyimodo1_os_path.pyc pyimodo2_archive.pyc nvime03imnor
+修改日期
+2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 2024/7/614:34 20247/614-34
+类型
+大小
+onC:/WindowsSystem32/cmd.exe
+icrosoftwindows［版本10.0.19045.4046（e）MicrosoftCorporation。保留所有权利。
+lpyinstaller打包程序逆向>pythonpyinstxtractor.pytj_encrypt_file.exe.exe
+Processing tj_encrypt_file.exe.exe
++ + +
++ x
+Pyinstaller version: 2.1+ Python version: 3.7
+Lengthof package:5609283bytes Found 58 files in CArchive
+Beginning extraction...please standby
+Possibleentrypoint:pyibootoi_bootstrap.pyc Possible entrypoint:pyi_rth_subprocess.pyc
+Possible entrypoint:encrypt_file.pyc Found117filesinPYZarchive
+Successfully extracted pyinstaller archive:tj_encrypt_file.exe.exe
+You can now use a python decompiler on the pyc files within the extracted directory

@@ -1,0 +1,73 @@
+# OCR: 133f8f6c1645bf3b7bfe27471adaeced.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/133f8f6c1645bf3b7bfe27471adaeced.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+[proxyvchains]Dynamicchain
+n.mozilla.net:443
+OK
+[proxychains] Dynamicchain
+材料6
+127.0.0.1:9050 127.0.0.1:9050
+tracking-protection.cd tracking-protection.cd
+n.mozilla.net:443 [proxychains] DLL init:proxychains-ng 4.17
+OK
+[proxychains] Dynamicchain
+OK
+[proxychains] Dynamic chain
+OK
+[proxychains]Dynamicchain
+3
+...
+OK
+[proxychains] Dynamicchain
+n.mozilla.net:443
+OK
+[proxychains] Dynamic chain
+n.mozilla.net:443
+OK
+[proxychains] Dynamic chain
+s.com:443
+OK
+[proxychains] Dynamic chain[proxychains] Dynamic chain
+et:443
+OK
+[proxychains] Dynamic chain OK
+[proxychains] Dynamicchain
+es.mozilla.com:443
+OK
+[proxychains]Dynamic.chain
+n.mozilla.net:443
+OK
+[proxychains]Dynamicchain
+la.com:443
+OK
+[proxychains] Dynamic chain
+OK
+127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050
+127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050 127.0.0.1:9050
+[proxychains]DLLinit:proxychains-ng4.17
+[proxychains]Dynamicchain
+OK
+[proxychains] Dynamic chain
+127.0.0.1:9050 127.0.0.1:9050
+roxychains] DLL init:proxychains-ng 4.17
+OK
+[proxychains] Dynamic chain
+3
+...
+OK
+[proxychains] Dynamicchain
+.
+OK
+127.0.0.1:9050 127.0.0.1:9050
+[proxychains] DLL init:proxychains-ng 4.17
+dnsleaktest.com:443 dnsleaktest.com:443
+ww.dnsleaktest.com:44 tracking-protection.cd tracking-protection.cd safebrowsing.googleapi
+o.pki.goog:80
+OK
+normandy.cdn.mozilla.n r11.0.lencr.org:80
+classify-client.servic content-signature-2.cd contile.services.mozil
+dnsleaktest.com:443 dnsleaktest.com:443
+dnsleaktest.com:443[p ww.dnsleaktest.com:44 ww.dnsleaktest.com:44

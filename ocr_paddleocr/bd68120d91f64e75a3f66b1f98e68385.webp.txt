@@ -1,0 +1,26 @@
+# OCR: bd68120d91f64e75a3f66b1f98e68385.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/bd68120d91f64e75a3f66b1f98e68385.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+v 个 ow
+良
+Google密码管理工具 o
+c
+Chrome
++
+chrome://password-manager/passwords/dgy02.com
+Google密码管理工具
+密码检查设置
+Q接索密码
+Y 用户名
+dgyo02.com
+tcggvip2025126.com 密码
+tcgg123456
+修改
+删除(D)
+o 口
+网站
+aff01.dgy02.com 备注
+未添加任何备注

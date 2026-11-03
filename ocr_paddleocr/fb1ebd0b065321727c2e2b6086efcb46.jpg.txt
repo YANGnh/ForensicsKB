@@ -1,0 +1,19 @@
+# OCR: fb1ebd0b065321727c2e2b6086efcb46.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/fb1ebd0b065321727c2e2b6086efcb46.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+i
+13Houseware 14Makeup 15居家
+16 HomeMaintenance 17家庭服务
+18宠物 19交通
+20 Vehicle Maintenance 21医药
+22 Medical Check-up
+23Fitness 24教育
+21con.107 2icon_63
+2ic_categoryfamily
+2icon29 2icon_8 2icon_53
+2 ic_category_transport 2icon_130
+2 ic_category_medical 2ic_category_doctor 2icon_70
+odee

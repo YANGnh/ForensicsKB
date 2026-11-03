@@ -1,0 +1,11 @@
+# OCR: 1ea99e497a1700a62d668aa2c4b112b4.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/1ea99e497a1700a62d668aa2c4b112b4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+ddsx(String)
+nCTC3EZ+il7D3P/OHglgduhUqlJikQwK
+http://yueze.cc:8777 ddsx(String)
+nCTC3EZ+il7D3P/0HglgduhUqlJikQwK http://yueze.cc:8777
+09:59:54 264.0B 09:59:55 264.0B

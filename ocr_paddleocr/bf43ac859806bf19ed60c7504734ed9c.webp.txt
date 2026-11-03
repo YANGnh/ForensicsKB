@@ -1,0 +1,27 @@
+# OCR: bf43ac859806bf19ed60c7504734ed9c.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/bf43ac859806bf19ed60c7504734ed9c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+DBA484D2EBD5C8550AB537C4295AC54EBB130707X
+192.168.10.1
+04:5003/meeting/meeting
+C 168
+B
+5003/meet
+NotFound
+6May2025
+Lng/mee
+IResource*
+lhttp://192.168.10.1
+1*口口口http://192 DDOPateDDOODEri
+GMTOOOOcontent-Type
+4:50:17 O
+Jkeep-alivecontent
+ep
+OOL<N<html?
+<head><title>404NotFound</title></head> <body>
+<center><h1>404NotFound</h1></center> <hr><center>nginx/1.27.0</center>
+</body> </html>
+oo口text/html

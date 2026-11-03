@@ -1,0 +1,10 @@
+# OCR: e8a70e0dd60a54c050d1672715e98c0c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e8a70e0dd60a54c050d1672715e98c0c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+TaskviewerVM102-重启
+输出停止
+状态
+TASK ERROR: VM quit/powerdown failed - qot timeout

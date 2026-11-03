@@ -1,0 +1,40 @@
+# OCR: e139c8e4ae7243ebca7869742359bf1d.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/e139c8e4ae7243ebca7869742359bf1d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+受害人手机检材.tar/datalcom.gh.privacysecdatabases
+口文件名称一
+了描述
+存在的
+=com.gh.privacysec(513)
+.
+存在的
+.=databases(24)
+bylawsdk.db
+bylawsdk.db-journal downloader.db
+downloader.db-journal
+fenshen.db
+fenshen.db-iournal
+ldsdk.db
+ldsdk.db-iourna
+存在的存在的存在的存在的
+存在的，已查看
+存在的存在的存在的
+panglecom.byted.pangleb...存在的 pangle_com.byted.pangleb...存在的 panglecom.byted.panglecl...存在的
+立件
+立性大小
+DBBrowserforSQLite-C:\Use
+文件(F)
+编辑（E）
+新建数据库（N)
+数据库结构
+查看()
+工
+打开数
+浏览数据
+表(T)：圃plugins
+package_name 过滤
+com.topjohnwu. magisk com.android.email
+编鞋 us 过

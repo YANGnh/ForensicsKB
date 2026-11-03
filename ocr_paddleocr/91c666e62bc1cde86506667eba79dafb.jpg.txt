@@ -1,0 +1,36 @@
+# OCR: 91c666e62bc1cde86506667eba79dafb.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/91c666e62bc1cde86506667eba79dafb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+192.168.100.100
+首页谷
+@网站 FTP
+直
+数据库
+监控经
+安全文件回终端
+自计划任务品软件商店
+面板设置退出
+0
+金首页人网站管理
+便用宝塔Linux面板创建贴点时会自动创建权限配置，统
+添加站点
+修改默认页
+网站名
+demo.tjshap.com test1.tishop.com www.tjshop.com 192.168.100.100 民拍量作
+默认站点联量推作
+PHP金令行版本
+状态运行中心运行中心运行中国运行中心
+站点修改[www.tishop.com]--添加时间[2023-09-0718:58:46] 域名管理
+子目录绑定网站目录访问限制流量限制伪静态默认文档配置文件 SSL
+PHP版本 Composer
+每行填马一个域名，默认为80端口泛解析添加方法*.domain.com
+如男加费口格式为www.domain,com:88 城名
+www.tjshop.com 222.2.2.180
+192.168.100.100 批量型
+口 80 80 80
+添加
+换作量余册除
+x

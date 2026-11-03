@@ -1,0 +1,31 @@
+# OCR: 519486c28f731af64893f28e10133aa1.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/519486c28f731af64893f28e10133aa1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+属性设置
+跟踪选项传递选项
+重要性(P) 敏感度(Y)
+普通普通
+口此项目不自动存档(U)
+安全性
+0@
+请在送达此邮件后给出送达"回执（D）请在阅读此邮件后给出已读回执（R）
+将答复发送给(T) 口过期时间(X)
+联系人(C).
+类别(G)
+Internet邮件头(H)
+Marketing 无
+无
+加密邮件内容和附件（E）
+给待发邮件添加数字签名（S）
+x
+口要求此邮件的S/MIME回执（T
+0:00
+Date:Tue.29Apr202510:35:47+0000 Message-ld:emc934bd2e-61fe-4fc1-aab0-2ad6ae796400@8b19b573.com
+Reply-To:Marketing<marketing@manson.com> User-Agent:eMClient/10.3.1503.0
+Mime-Version:1.0 Content-Tvne:
+关闭
+he 0%
+n ea

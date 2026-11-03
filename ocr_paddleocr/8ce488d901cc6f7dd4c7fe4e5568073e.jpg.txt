@@ -1,0 +1,26 @@
+# OCR: 8ce488d901cc6f7dd4c7fe4e5568073e.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/8ce488d901cc6f7dd4c7fe4e5568073e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+mwareEsxi
+导航器国主机
+管理监控
+即虚拟机目存储网络
+4 0 2
+localhost.localdomain
+获取vCenterServer
+创建注册虚拟机
+localhost.localdomain
+版本：状况：
+正常运行时间
+关机重新引导
+6.7.0(Build8169922)
+正常（未连接到任何vCenterServer） 0天
+您当前正在评估模式下使用ESXi此许可证将在58天后过期
+刷新
+疫操作
+YouarerunningDellEMCCustomizedImageEsXi6.7A01(basedonESXiVMKernelReleaseBuild816
+SSH已在此主机上启用。只有出于管理目的需要时才应禁用SSH。
+安操作

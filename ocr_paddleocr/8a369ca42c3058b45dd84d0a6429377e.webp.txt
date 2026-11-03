@@ -1,0 +1,26 @@
+# OCR: 8a369ca42c3058b45dd84d0a6429377e.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/8a369ca42c3058b45dd84d0a6429377e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+C
+Kali Linux
+仓
+KaliTools
+材料1
+Q3192.168.145.130:9000
+KaliDocsKaliForums
+Directorylisting for/
+bashhistory bashlogout
+.bashrc·.cachel·.configl local/.mozillal profile
+sudo asadminsuccessful
+thunderbird Desktopl
+Documentsl Downloads/
+Musicl Picturesl Publicl snapl
+Templatesl
+.Videosl·vulhubl
+?KaliNetHunter
+Exploit-DB
+GoogleHackingDB
+OffSec

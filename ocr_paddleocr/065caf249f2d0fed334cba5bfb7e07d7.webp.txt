@@ -1,0 +1,78 @@
+# OCR: 065caf249f2d0fed334cba5bfb7e07d7.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/065caf249f2d0fed334cba5bfb7e07d7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+arp No.
+Time
+14 199.865731 15109.865748 25113.233152 26113.234866 35120.365022 36 120.365023 37124.659797 38124.662102 39 124.662559 40124.663890 41 124.664174 42124.665632 43124.667675 44124.669850 45124.671957 46124.67400 47 124.675859 48124.678252 49124.680072 5124.681321 51124.682779 52124.685259 53 124.688446 54124.691089 55 124.692100 56124.693001 57124.694976 58 124.697392
+Source
+VMware_e1:eb:19 VMware_ef:e6:38 VMware_0f:e6:38 VMware_e1:eb:19 VMware_ab:28:dd VMware_e1:eb:19 VMware_ef:e6:38 VMware_0f:e6:38 VMware_ce:00:08 VMware_0f:e6:38 VMware_e1:eb:19 VMware_0f:e6:38 VMware_0f:e6:38 VMware_0f:e6:38 VMware_0f:e6:38 VMware_ef:e6:38 VMware_0f:e6:38 VMware_0f:e6:38 VMware_0f:e6:38 VMware_ef:e6:38 VMware_0f:e6:38 VMware_0f:e6:38 VMware_f:e6:38 VMware_0f:e6:38 VMware_ef:e6:38 VMware_0f:e6:38 VMware_0f:e6:38 VMware_0f:e6:38
+Destination Broadcast
+VMware_e1:eb:19 VMware_e1:eb:19 VMware_0f:e6:38 VMware_e1:eb:19 VMware_ab:28:dd
+Broadcast Broadcast
+VMware_0f:e6:38 Broadcast
+VMware_0f:e6:38
+Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast
+Protoco Length
+ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP
+Info
+6ewhohas
+192.168.91.145?Te11 192.168.91.2
+00:0c:29:0fe6:38
+42 192.168.91.145 isat6
+Te11192.168.91.145
+42who
+has
+192.168.91.2
+60 192.168.91.2 is
+6ewho
+has
+00:50:56:e1:eb:19 at
+192.168.91.2?Te11 192.168.91.143
+60 192.168.91.2 is at
+00:50:56:e1:eb:19
+42Who 42Who
+has has
+Tel1 192.168.91.145
+192.168.91.?
+Te11192.168.91.145
+192.168.91.1?
+60192.168.91.1is
+00:50:56:c0:00:08 at
+42Who
+has
+192.168.91.2?Te11 192.168.91.145
+60 192.168.91.2 is
+42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42Who 42wWho
+has has has has has has has has has has has has has has has has
+at
+00:50:56:e1:eb:19
+192.168.91.3? 192.168.91.4? 192.168.91.5? 192.168.91.6? 192.168.91.7? 192.168.91.8?
+Tell
+192.168.91.145
+Teli Tell Tell Tell Tell
+192.168.91.145 192.168.91.145 192.168.91.145 192.168.91.145 192.168.91.145
+192.168.91.9?
+Tell
+192.168.91.145
+192.168.91.10?
+Tel1 192.168.91.145
+192.168.91.11? 192.168.91.12? 192.168.91.13? 192.168.91.14? 192.168.91.15? 192.168.91.16? 192.168.91.17?
+Tell:
+192.168.91.145
+Tell
+192.168.91.145
+Tell
+192.168.91.145
+Tell
+192.168.91.145
+Tell
+192.168.91.145
+Tell:
+192.168.91.145
+Te11 192.168.91.145
+192.168.91.18?Te11192.168.91.145
+42Who
+has 192.168.91.19?Tel1 192.168.91.145

@@ -1,0 +1,33 @@
+# OCR: ec87213c3b35f5a5b58e4a99a9256966.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/ec87213c3b35f5a5b58e4a99a9256966.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+流量分析.pcapng
+文件(E)
+编辑(E)
+O
+视图M
+跳转(G)
+o
+http contains"disablefunctions
+No.
+Time
+Source
+捕获(C)
+分析(A)
+20
+统计(S)
+Destination
+2018197.619101 192.168.85.250
+电话(Y)
+无线(W)
+?Qem
+工具(D
+帮助(H)
+Protocol Lengtl Info
+192.168.85.130
+HTTP
+71HTTP/1.1200OK
+(text/html）

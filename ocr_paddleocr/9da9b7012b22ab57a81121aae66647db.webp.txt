@@ -1,0 +1,17 @@
+# OCR: 9da9b7012b22ab57a81121aae66647db.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/9da9b7012b22ab57a81121aae66647db.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+名称
+G:2025盘古石杯晋级赛lexportldownload.rar/贾韦码资料
+四资料.docx
+face1.jpg
+属性
+名称文件夹大小
+压缩后大小修改时间属性
+交替数据流加密
+face1jpg 13609 12773
+2025-04-1515:48:03.3434999 A
+20

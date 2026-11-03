@@ -1,0 +1,22 @@
+# OCR: 2452d5fa09399f45bd17aa2ca8be58f6.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/2452d5fa09399f45bd17aa2ca8be58f6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+A
+此电脑>本地磁盘(A:)
+口名称
+signedxz.exe
+A
+C:(Windows)System32)cmd.exe
+修改日期
+2025/2/1014:48
+icrosoftIindowsL版本10.0.18363.2274]
+(c）2019MicrosoftCorporation。保留所有权利。
+:>certutil -hashfile signed_xz.exe shal SHA1的signed xz.exe哈希：
+e35d98ab3658d4052fc5df22b3171006b58955b1 CertUtil：-hashfile命令成功完成。
+类型
+应用程序
+大小
+55.040KB

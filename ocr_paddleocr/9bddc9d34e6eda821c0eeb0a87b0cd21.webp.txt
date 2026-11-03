@@ -1,0 +1,37 @@
+# OCR: 9bddc9d34e6eda821c0eeb0a87b0cd21.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/9bddc9d34e6eda821c0eeb0a87b0cd21.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Preview 包
+FMP hash
+火眼-邮件
+新建邮件附件202 火眼-邮件
+检材计算机.001
+龙信天眼介质取证系统 exeinfope
+FileLocatorPro
+FrostRosePortablev10.2 ID.ard
+蜜雪冰城
+ZF-VISITCARD.jpg 卤火眼邮件附件导出.csvV
+ExposureMode ApertureValue
+Auto 1.8
+ComponentsConfiguratior Y, Cb, Cr,
+ColorSpace SceneType
+ShutterSpeedValue ExifVersion
+FlashpixVersion
+Interoplndex InteropVersion
+GPSLatitudeRef GPSLatitude
+GPSLongitudeRef GPSLongitude GPSAltitudeRef
+GPSAltitude GPSTimeStamp
+GPSProcessingMethod GPSDateStamp
+sRGB
+Directly photographed
+1/100 0220 0100
+---- InteropIFD
+R98-DCFbasicfile (sRGB) 0100
+---- GPS ---. North
+40.011217 East
+112.7000819
+Above Sea Level 0m
+13:36:13 CELLID 2023:04:10---- IFD1 ----

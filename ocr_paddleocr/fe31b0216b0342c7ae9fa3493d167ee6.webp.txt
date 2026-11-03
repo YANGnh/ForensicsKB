@@ -1,0 +1,18 @@
+# OCR: fe31b0216b0342c7ae9fa3493d167ee6.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/fe31b0216b0342c7ae9fa3493d167ee6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+硬件设备
+选项
+咽内存国处理器
+日硬盘(SCSI) 日硬盘2(SCSI） =硬盘3（SCSI）日硬盘4(SCSI) 日硬盘5（SCSI）日硬盘6(SCSI) 日硬盘7(SCSI) 硬盘8（SCSI)
+摘要 8GB 4
+48.6GB 7.1 GB 25GB 25 GB 10 GB 10GB 15 GB 10 GB
+处理器
+处理器数量(P):
+每个处理器的内核数量(C)：
+处理器内核总数：虚拟化引擎
+1 4 4
+虚拟化IntelVT-x/EPT或AMD-V/RVI(V) 虚拟化CPU性能计数器(U)

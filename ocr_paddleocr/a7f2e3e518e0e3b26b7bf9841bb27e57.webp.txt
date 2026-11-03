@@ -1,0 +1,65 @@
+# OCR: a7f2e3e518e0e3b26b7bf9841bb27e57.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/a7f2e3e518e0e3b26b7bf9841bb27e57.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+d 圆案件口文件网分析? 位置
+州时间线
+Q 搜素
+笔记自报告
+研判白工具箱
+刷新
+详情/预览
+请选择/输入持有人/检权
+Duncan_lapt... LAM KH_lapt... Nginx服务器
+IIS服务器用户痕迹缩略图基本信息服务日志事件日志
+11/93772 34376
+4 1 327 244 1118 4405 20169
+吉Windows日志
+吉设置吉系统吉应用台安全
+应用程序和..
+0
+事件日志分析
+用户桌面任务计划
+快捷方式分析
+ShimCache 远程桌面
+9934 10 5629 3032 1263 10235 1398
+8 83 153 1319 56 88
+日
+拦序号口1
+详细信息
+"delete"
+x
+事件ID
+等于 4726
+事件类型：信息分类：Security 机器名：CEO-PC
+过滤
+分析结果搜索
+DataincS-1-5-21-2447..
+x
+事件摘要
+Y
+delete
+Auseraccount was deleted.%n%n..
+事件源：Microsoft-Windows-Security-Auditing
+54849625-5478-4994-A5BA-3E3B0328C30D
+GUID：
+关键字：
+审核成功
+任务：13824 OP代码：0 进程ID：732 线程ID：2916
+记录时间：2025-04-2818:06:13
+拦数据 S-1-5-2
+<EventDat..
+源文件：LAMKHlaptop.e01/分区3/Windows/System32/winevt/Logs/Security.evtx 已删除：否
+三事件类型
+过滤信息
+画 Q
+在安全中搜索
+三分类过滤 Security
+Q
+口
+x
+高级
+设置列
+X

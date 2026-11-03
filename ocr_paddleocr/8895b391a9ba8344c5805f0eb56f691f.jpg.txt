@@ -1,0 +1,12 @@
+# OCR: 8895b391a9ba8344c5805f0eb56f691f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/8895b391a9ba8344c5805f0eb56f691f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+need_give_money
+类型 int(11)
+不是null 是
+默认值
+0 注释
+应打款金额

@@ -1,0 +1,28 @@
+# OCR: c94d1c4c95ecf071d2db3f645f8d4499.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/c94d1c4c95ecf071d2db3f645f8d4499.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+数据库结构（D）
+浏览数据（B）
+表(T)：install_history
+package name
+过滤
+com.lazy.note
+com.bijoysingh.yang com.clover.daysmatter
+x
+com.singxie.nfccardread
+编辑杂注(R) active_time 过滤
+1744178275367 1744179564677 1744179819548 1744179949051
+执行SQL(x)
+E
+app_id 过滤
+696153 963825 106602 1250500
+中
+御
+A
+display_name 过滤
+懒猫笔记本-备忘录备忘录日记
+倒数日-DaysMatter 手机门禁卡NFC
+品

@@ -1,0 +1,9 @@
+# OCR: befa4d3fca323d65959bf7436823db0e.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/befa4d3fca323d65959bf7436823db0e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+百度为您找到以下结果
+【PDF】上海市国标行政区划代码表文件格式：PDFIAdobeAcrobat-HTML版
+附2上海市国标行政区划代码表黄×310101静安×310106杨浦区310110嘉江区310117崇明区310151张家洼310937徐汇区310104普陀区310107闵行回上海市人民政府

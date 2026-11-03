@@ -1,0 +1,18 @@
+# OCR: 17d709c836c1045012aea322f3f96a84.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/17d709c836c1045012aea322f3f96a84.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+仓
+用户自定义短语
+添加用户定义的短语
+添加
+导入、导出或清除用户自定义短语
+导入
+·拼音：zjc·拼音：zjc
+导出
+位置：1 位置：2
+清除
+短语：flashtreat wide dividetypeplug
+短语:garlic draft infant broom desert useful

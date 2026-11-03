@@ -1,0 +1,18 @@
+# OCR: 82588b271395dec359bb5cdbf0315ac9.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/82588b271395dec359bb5cdbf0315ac9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+Image.zip
+三序号口9 □10 11 V12 口13 口14
+三名称过滤时区
+UDID IMEI IMEI2 MEID
+本机号码
+o
+基本信息》
+设备信息
+三内容过滤
+Asia/Shanghai
+00008110-00016039366A801E
+352507504392612 352507504954650 35250750439261 8615795174917

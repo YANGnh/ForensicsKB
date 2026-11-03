@@ -1,0 +1,14 @@
+# OCR: bb7ced02424ac75122cfd17f9c31a5c5.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/bb7ced02424ac75122cfd17f9c31a5c5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+<intname="lastreportdevicechannel"value="1"/> <floatname="key_sync_session"value="o.45563316"/>
+<booleanname="keyHadFinishTransfer#3754435632#wx48412ab344ba1bd0"value=" <long name="handler_trace_file_full_size"value="30720"/>
+<longname="MMTempKeyStepLogger-Last-Clean-Time"value="1725012995742"/> <booleanname="keyHadClean01dScheme#3754435632#wx0f9c43804781bce0":value="
+ing>
+<stringname="login_weixin_username">wxid_rni3m2o8ngxe22</st <intname="lastreportdeviceclientversionvalue=671100996"
+<intname="com.tencent.mm.plugin.gallery.cache.cache-file-num"value="5"/
+<stringname="last_login_use_voice">32768</string> <stringname="login_user_name">+85269702743</string>
+<longname="trace_config_last_update_time"value="1724392749845"/> <stringname="last_login_bindmobile">+85269702743</string>

@@ -1,0 +1,46 @@
+# OCR: 89c0e9d188df445a9f7effde0cf33d6e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/89c0e9d188df445a9f7effde0cf33d6e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+F
+ Disk&Ven TU200Pro&Prod 256GE
+白：7&12a9809d&.0&.000000  Device Parameters
+白Properties 由
+{3464f7a4-2444-40b1-98)
+白：(540b947e-8b40-45bc-aE
+0004 0007
+(80497100-8c73-48b9-a(83da6326-97a6-4088-94
+由 STORAGE
+SwD
++ + +
+白
+fa8b865dd-2e3d-4094-ac
+LMMDEVAPI MSDAS
+PRINTENUM RADIO
+WPDBUSENUM
+白[(06c86b16-16a0-11f0-9dfe-145
+由Device Parameters 由·Properties
+白自USB
+白 ROOT_HUB
+Value
+Capabilities ab ContainerlD ab
+CompatiblelDs ab
+ClassGUID
+ab Driver aMfg ab Service
+ConfigFlags DeviceDesc ab
+ab FriendlyName
+Type
+REG_DWORD REGSZ
+REG_MULT...
+REG_SZ REGSZ REG_SZ REG SZ
+REG_DWORD
+REG_SZ REG_SZ
+Data
+Ox000000BC
+(34156b67-6873-5b34-905b-5dec76455ee5) wpdbusenum/fsSwD/Generic
+(eec5ad98-8080-425f-922a-dabf3de3f69a)
+feec5ad98-8080-425f-922a-dabf3de3f69a)^0000
+TU200Pro wUDFwpdFs 0x00000000
+256GB thinkplus E:

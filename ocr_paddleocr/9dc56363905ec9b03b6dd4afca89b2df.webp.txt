@@ -1,0 +1,10 @@
+# OCR: 9dc56363905ec9b03b6dd4afca89b2df.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/9dc56363905ec9b03b6dd4afca89b2df.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+唯—ID-GUID 5
+创建工具签名相机类型
+0000005E-000D-4000-B2F0E0C62FBA3B4F EA7BE972F076BFD2CB38A6C970EEE3EE
+A1CB2CD5(U:) 未知

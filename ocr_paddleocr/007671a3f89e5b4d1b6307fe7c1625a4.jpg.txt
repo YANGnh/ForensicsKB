@@ -1,0 +1,32 @@
+# OCR: 007671a3f89e5b4d1b6307fe7c1625a4.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/007671a3f89e5b4d1b6307fe7c1625a4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+自动取证DavidLaptop64GB.e01系统痕迹系统信息用户信息
+导出序号口
+口口
+2 3 4
+·5
+6
+口口
+7 8
+加入摘要用户名
+Administrator Guest
+DefaultAccount WDAGUtilityA.. DavidTenth
+圃置
+跳转到源文件用户全称
+打开关联文件
+用户类型本地用户本地用户本地用户本地用户本地用户系统服务系统服务系统服务
+用户标识(SID)
+S-1-5-21-1103701427-1706751984-2965915307-S-1-5-21-1103701427-1706751984-2965915307-S-1-5-21-1103701427-1706751984-2965915307-. S-1-5-21-1103701427-1706751984-2965915307-..
+用户目录
+S-1-5-21-1103701427-1706751984-2965915307..C:Users)DavidTenth
+S-1-5-18 S-1-5-19 S-1-5-20
+%systemroot%/system32/config/systemprofile%systemroot96)ServiceProfiles\LocalService
+%systemroot%|ServiceProfiles\NetworkService
+上次登录时间
+2024-09-0916:27:53
+登录
+o 0 0 0 22

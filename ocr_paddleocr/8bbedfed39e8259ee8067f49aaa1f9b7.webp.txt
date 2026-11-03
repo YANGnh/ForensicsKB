@@ -1,0 +1,15 @@
+# OCR: 8bbedfed39e8259ee8067f49aaa1f9b7.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/8bbedfed39e8259ee8067f49aaa1f9b7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+index.php 编辑
+78 79 80 81 82 83 84 85 86 87 88 89 90 91
+保存
+<pclass="p4">
+我为Pikachu创建了一个QQ群（ID：532078894），欢迎加进来和大家一起学习讨论。<br/》
+如果阁下对Pikachu有什么建议或者想找我聊聊可以发个邮件给我：1061321987@qq.com。谢谢。 </p>
+<h2>切记</h2> <p>
+"少就是多，慢就是快“
+"flagl：{我是第一个flag} </p>

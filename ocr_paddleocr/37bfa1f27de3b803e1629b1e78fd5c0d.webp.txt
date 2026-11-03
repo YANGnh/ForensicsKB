@@ -1,0 +1,53 @@
+# OCR: 37bfa1f27de3b803e1629b1e78fd5c0d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/37bfa1f27de3b803e1629b1e78fd5c0d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+A te
+1-1
+品过滤
+过滤任何列
+content
+<!DOCTYPE HTMLPUBLIC"-//W3C//DTD <!DOCTYPEHTML PUBLIC "-//W3C//DTD... <!DOCTYPEHTMLPUBLIC"-//W3C//DTD... <!DOCTYPEHTMLPUBLIC"-//W3C//DTD <!DOCTYPEHTMLPUBLIC"-//W3C//DTD <!DOCTYPEHTML PUBLIC"-//W3C//DTD <!DOCTYPEHTMLPUBLIC"-//W3C//DTD <!DOCTYPEHTMLPUBLIC"-//W3C//DTD <!DOCTYPE HTMLPUBLIC"-//W3C//DTD
+-1<!DOCTYPEHTMLPUBLIC"-//W3C//DTD...
+过滤
+full_title
+今天天气真好啊，今天天气真好啊，今天天气真. 好想休息啊，好想休息啊，好想休息啊，好想休. 今晚一定要去搞个大事情。今晚一定要去搞个大.. 我喜欢玩游戏。我喜欢玩游戏。我喜欢玩游戏。… 这个班要上到什么时候啊。这个班要上到什么时.. 国定节假目怎么这么少？国定节假目怎么这么少…. 随便看别人写的便签真的好吗！随便看别人写的. 随便吧随便吧，随便吧随便吧，随便吧随便吧，
+lookatmyeyes！！回答我！我的手机号是：1506666（对吗？
+note_color 过滤
+16420919
+过滤
+md content
+今天天气真好啊，今天天气真好啊，今天天气真
+2958067
+好想休息啊，好想休息啊，好想休息啊，好想休
+2737234 2591990 13708914 9842923 9211020 4048377
+今晚一定要去搞个大事情。今晚一定要去搞个大.. 我喜欢玩游戏。我喜欢玩游戏。我喜欢玩游戏。这个班要上到什么时候啊。这个班要上到什么时国定节假日怎么这么少？国定节假目怎么这么少随便看别人写的便签真的好吗！随便看别人写的随便吧随便吧，随便吧随便吧，随便吧随便吧，.
+lookatmyeyes!！回答我！！..
+16420919
+16420919我的手机号是：1506666（对吗？）
+编辑数据库单元格(C) 模式：文本
+1 2 3 4 5 6
+9 10 11 2
+14 15 16 17
+x
+#日E5
+<!DOCTYPEHTMLPUBLIC"-//W3C//DTDHTML4.O//EI <html><head><metaname="grichtext"content="i" P,li ( white-space: pre-wrap)
+</style></head><bodystyle="font-family:'Noto <pstyle="margin-top:opx;margin-bottom:opx;
+-tvpe:empty:margin-top
+<p style=" margin-top:opx;margt.
+ottom:opx;
+VBORWOKGgOAAAANSUhEUgAAAdgAAAB2CAYAAABI
+KZAAA
+VR4nO3d7VXjuhaA4R2v2wC3BE4JnBKYErglMCVACVDC
+AK
+ZMnbMEYLCn6FAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4444444444444444444444444444444444444444444444 AAAAAAAAAAwRtv2Stv2Qdv2+tS/BQCAU9uUCqRt+yAiT+4 PjLvb3+0bbV4PPrlL9trbRtb4O0+glte3Xq3wUAKOM/heL Iwb2z/zrsC5Po+9vfpvvKnn4v3G2W/G2ra3IvIuI1/uUlp(rEJYWWDfSFQp+7AXhJj1Kd945wu9PpdeduHSecS7/2
+zxDo.h3bV82TTNrLSuGfscufygv47Xsr+e0913k70
+S4D8Y/ht
+PkHH.TNm2HT8NLP7cLfdVPh
+编辑 行=6 ： 列=5
+类型：文本／数字：大小：7111个字符
+309
+4rTRP+73
+应用

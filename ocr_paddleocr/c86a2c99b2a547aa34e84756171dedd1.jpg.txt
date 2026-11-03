@@ -1,0 +1,37 @@
+# OCR: c86a2c99b2a547aa34e84756171dedd1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c86a2c99b2a547aa34e84756171dedd1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+合
+个
+RecoverFilePassword
+recoveryPage_tabs_files
+w 密码查找详情 1
+密码分析 100
+品打印
+recoveryPage_tabs_report
+recoveryPage_tabs_resources
+2024年3月13日星期三日报.docx
+文件位置文件类型 Protection
+复杂度 MD5:
+C:)Users)32622)Desktop
+工具
+帮助
+recoveryPage_tabs_performance
+MsOffice2013-2019-OpenPassword,Hardwareaccelerationpossible,InstantMemoryattackpossible
+AES256-bitEncryption,SHA-512 0.Brute-force-Slow
+56BD404EC1717AF73588542D50FD2C26
+Passwords:File-Open
+File-Modify TIMEELAPSED 2seconds
+保存结果
+P1ssw1rd
+好像没有设置密码捏
+重新进行攻击
+?
+保存报告
+口
+X
+recoveryPage_tabs_attacks
+完成

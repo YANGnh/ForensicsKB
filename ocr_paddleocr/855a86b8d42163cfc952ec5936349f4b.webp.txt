@@ -1,0 +1,9 @@
+# OCR: 855a86b8d42163cfc952ec5936349f4b.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/855a86b8d42163cfc952ec5936349f4b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+1 12
+默往微信
+com.mostone.life com.tencent.mm

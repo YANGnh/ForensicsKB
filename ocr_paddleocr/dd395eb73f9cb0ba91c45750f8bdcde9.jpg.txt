@@ -1,0 +1,15 @@
+# OCR: dd395eb73f9cb0ba91c45750f8bdcde9.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/dd395eb73f9cb0ba91c45750f8bdcde9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+服务器服务器
+服务器备注虚拟化平台
+虚拟化平台网络存
+储
+IP地址 222.2.2.250
+222.2.2.200
+用户名 root
+密码
+!Honglian7001

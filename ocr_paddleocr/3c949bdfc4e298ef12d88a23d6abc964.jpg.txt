@@ -1,0 +1,19 @@
+# OCR: 3c949bdfc4e298ef12d88a23d6abc964.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/3c949bdfc4e298ef12d88a23d6abc964.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+回
+AppNaneinc微信
+三序号口1
+三名称微信微信
+三包名过滤
+com.tencent.xin
+三版本名称过滤
+三版本号过滤 8.0.50
+三应用分类*
+即时通信
+三应用类型*
+非系统(非
+起

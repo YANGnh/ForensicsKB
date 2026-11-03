@@ -1,0 +1,20 @@
+# OCR: a73f8810084ef9ebd3b3063a4a64f637.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/a73f8810084ef9ebd3b3063a4a64f637.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+?2025平航杯 D白常用文件夹-D白桌面 D白标签
+oH:window.e01 由-D分区1系统保留
+由-D分区2本地磁盘[C] 白-D分区3本地磁盘[E] 由-DsExtend
+由-DSRECYCLE.BIN-D(Rootdirectory) 白-Dfacefusion3.1.10 白-ofacefusion3.1.1
+甲-.assets-.gradio 由-Djobs 由-Cache 由-DODlab
+申-Dfacefusion 由-offmpeg output-Dphoto
+-D丢失文件
+全部文件序号 1
+口门
+2 3
+打开文件名
+导出
+27fa59c1.jpg 5680be3a.jpg 国6bcbbd07.jpg
+标签

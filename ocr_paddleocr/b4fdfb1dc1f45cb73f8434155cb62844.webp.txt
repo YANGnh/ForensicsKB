@@ -1,0 +1,29 @@
+# OCR: b4fdfb1dc1f45cb73f8434155cb62844.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/b4fdfb1dc1f45cb73f8434155cb62844.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+[root@k8s-master~]#kubectlgetpods--all-namespaces NAMESPACE
+NAME
+nginx-fdd
+default
+kube-system kube-system kube-system kube-systen kube-system kube-system kube-system kube-systen kube-system kube-system kube-system kube-system kube-system
+kubernetes-dashboard kubernetes-dashboard[root@k8s-master~]#
+coredns-7ff77c879f-dx9nk coredns-7ff77c879f-kbhpv etcd-k8s-master
+kube-apiserver-k8s-master
+kube-controller-manager-k8s-master
+kube-flannel-ds-7mtn7 kube-flannel-ds-qx6h2 kube-flannel-ds-vrgmn
+kube-proxy-2s5g9 kube-proxy-12cst kube-proxy-pxjxr
+kube-scheduler-k8s-master
+kubernetes-dashboard-5ffc5fd864-69n7f
+dashboard-metrics-scraper-78f5d9f487-9t6bk kubernetes-dashboard-6bc5cb8879-rgcs8
+READY e/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 0/1 1/1 0/1
+STATUS
+ImagePulLBackoff
+Running Running Running Running Running Running Running Running Running Running Running Running
+CrashLoopBackoff Running
+ImagePulLBackoff
+RESTARTS
+? 10 10 10 10 21 1 11 1 1 1 10 21 129 8 4
+AGE 243d 244d 244d 244d 244d 244d 243d 244d 243d 243d 243d 244d 244d 243d 244d 243d

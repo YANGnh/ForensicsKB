@@ -1,0 +1,19 @@
+# OCR: 97fcbb1c604bf063d082c3f3dbb92615.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/97fcbb1c604bf063d082c3f3dbb92615.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+ExtremeSSD/2025-04-18-104854.previous)MacintoshHD-Data\Users\apple\Desktop/文件加密器.app)Contents)Resources
+了文件类型
+文件名称一.=
+Contents(1.088) Resources(1.073)
+linclude(1) lib（1.066) pycache
+(1)
+gui wrapper.py site.pyc
+zlib.cpython-38-darwin.so
+bootpy error.sh
+描述存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+py pyc so py sh
+路径
+1Extreme SSD/2025-04-18-1048 ExtremeSSD)2025-04-18-1048 ExtremeSSD12025-04-18-1048 1Extreme SSD/2025-04-18-1048 ExtremeSSD12025-04-18-1048 ExtremeSSD12025-04-18-1048 ExtremeSSD12025-04-18-1048 ExtremeSSD12025-04-18-1048 LExtremeSSD/2025-04-18-1048 ExtremeSSD12025-04-18-1048

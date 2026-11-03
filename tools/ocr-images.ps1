@@ -1,19 +1,21 @@
 ﻿# ============================================================
 # 取证资料库 P4：图片 OCR 文本索引（L1 检索层）
-# - 每张图片产出 ocr/<图片名>.txt（增量：已生成且图片未变则跳过）
+# - 每张图片产出 ocr_tesseract/<图片名>.txt（增量：已生成且图片未变则跳过）
 # - 内置噪声过滤规则（§7.2.1 ②）：水印剥离、UI 固定元素标记
-# - 无 tesseract 时产出 ocr/_pending.txt 待处理清单
+# - 无 tesseract 时产出 ocr_tesseract/_pending.txt 待处理清单
 # 用法：pwsh -File tools/ocr-images.ps1 -Root <取证资料库根目录>
 #       可选 -Limit 50 只处理前 N 张（测试用）
 # ============================================================
 param(
-    [string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path,
+    [string]$Root = '',
     [int]$Limit = 0
 )
 $ErrorActionPreference = 'Stop'
+if (-not $Root) { $Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path }
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 
-$ocrDir = Join-Path $Root 'ocr'
+$ocrDir = Join-Path $Root 'ocr_tesseract'
+$paddleDir = Join-Path $Root 'ocr_paddleocr'
 New-Item -ItemType Directory -Path $ocrDir -Force | Out-Null
 
 # ---- 噪声过滤规则（标记不删除原文；OCR 文本中剥离） ----
@@ -54,7 +56,7 @@ if (-not $tess) {
         Write-Host "tesseract 已从注册表 PATH 发现: $tessDir"
     }
 }
-$images = Get-ChildItem $Root -Recurse -File | Where-Object { $_.Extension -in @('.png', '.jpg', '.jpeg', '.webp') -and $_.FullName -notlike "$ocrDir*" }
+$images = Get-ChildItem $Root -Recurse -File | Where-Object { $_.Extension -in @('.png', '.jpg', '.jpeg', '.webp') -and $_.FullName -notlike "$ocrDir*" -and $_.FullName -notlike "$paddleDir*" }
 $done = 0; $skipped = 0; $noText = 0; $pending = [System.Collections.Generic.List[string]]::new()
 
 if ($tess) {
@@ -96,4 +98,4 @@ if ($tess) {
 }
 
 [System.IO.File]::WriteAllLines((Join-Path $ocrDir '_pending.txt'), $pending, $utf8)
-Write-Host "=== P4 完成：新生成 $done，无文本标记 $noText，跳过 $skipped，待处理 $($pending.Count)（见 ocr\_pending.txt）==="
+Write-Host "=== P4 完成：新生成 $done，无文本标记 $noText，跳过 $skipped，待处理 $($pending.Count)（见 ocr_tesseract/_pending.txt）==="

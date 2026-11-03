@@ -1,0 +1,23 @@
+# OCR: 0c5bc87f6d203d03186b54814036823a.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/0c5bc87f6d203d03186b54814036823a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+详细信息
+名称：.store.json
+MD5：0D9C74B31CA9F15B80F27FFA0B7AEE80
+扩展名：json 类型：文件大小：224B
+创建时间：2025-09-1710:34:27 访问时间：2025-09-1710:36:24 修改时间：2025-09-1710:36:24 元数据地址：262406
+鲁堪安卓手机.vmdk/分区4/data/com.sakura.app/files/clash/.store.json
+全路径：
+加密类型：未加密已删除：否
+原类型视图
+PAGE
+文本视图
+ZooM
+HIGHLIGHT
+十六进制视图
+i618","AppToken"："d59adfcle683116c29e55ld80780bbed","Token"："""SubscriptionUrl"： 2a86-2a1f-49b5-bd2f
+l.com/api/v1/client/subscribe?token=d59adfcle683116c29e551d80780bbed/u0026flag=vor
+28:11

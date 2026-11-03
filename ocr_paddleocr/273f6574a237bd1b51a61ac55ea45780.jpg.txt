@@ -1,0 +1,42 @@
+# OCR: 273f6574a237bd1b51a61ac55ea45780.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/273f6574a237bd1b51a61ac55ea45780.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+istoreos
+搜索菜单回颠页
+网络向导状态系统 aistore Docker 服务
+PassWall2
+DDNSTO远程控制易有云文件管理器 NasTools
+动态DNS(DDNS)
+硬盘休眠网络唤醒网络共享
+终端 UPnP
+网络存储玉网络
+基本设置主要
+节点列表
+DNS
+Socks配置
+状态添加
+节点订阅
+Core 运行中
+日志
+FAO
+高级设置
+负载均衡
+主开关
+节点
+路由器本机代理
+节点Socks监听端口
+Socks主开关启用
+组件更新
+规则管理
+访问控制
+百度连接点我检测
+Hysteria2：[us美国洛杉矶o1-hy2] 当勾选时，路由器本机可以透明代理 1070
+Socks节点
+服务器端编箱日志
+查看日志
+G
+Socks监听端口尚无任何配适
+谷歌连接点我检测

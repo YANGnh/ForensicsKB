@@ -1,0 +1,18 @@
+# OCR: 04306fe4784b336db69516370970570b.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/04306fe4784b336db69516370970570b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+rabbitmg:
+host:localhost port：5672
+username: root password:123456##交换机
+virtual-host:/
+##Exchange template:
+exchange: cal.normal.topic mandatory:false
+发布消息成功到交换器后会触发回调方法
+publisher-confirm-type: correlated 荐可以确保消息在未被队列接收时返回
+publisher-returns: true 开启手ack动确认模式
+listener: direct:
+acknowledge-mode:manual simple:
+acknowledge-mode:manual

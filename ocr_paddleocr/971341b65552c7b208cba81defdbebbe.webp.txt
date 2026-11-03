@@ -1,0 +1,42 @@
+# OCR: 971341b65552c7b208cba81defdbebbe.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/971341b65552c7b208cba81defdbebbe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+Recipe
+.
+Removenon-alphabetchars Strictmode
+Zlib Inflate Start index?
+Initialoutputbuffersize?
+Buffer expansion type Adaptive
+Resize bufferafter decompression
+Verifyresult
+STEP
+BAKE!
+AutoBake
+Input
+eJxUd2PQMDys5WPbtm3btm3btm
+BE
+8224448
+HA ④新建日文档音乐下载视频
+国G:\2025平航杯新建文件夹\download.zip
+Output
+文件(F)编辑(E)查看(V)
+ed.nopffk Of+A.'. i1/=yYu"# YuAcua 00U0+m%（mL pHescOyg.9..1.uvU.fd..?<<DLE,ml VTDD<EAYC+ +6s0*·DbETB a.d!.doi.
+6173285 BE
+书签(A)
+-<→xi 添加解压测试复制移动删除信息
+个 ★ ★ ★ +
+C
+x 0
+名称
+￥GIFT.exe 恶意程序
+>
+G:\2 此电
+国download.zip
+帮助(H)
+千具
+国G:\2025平航杯新建文件夹\download.zip 名称
+libcrypto-3-x64.dll%
+LOVE2.exe

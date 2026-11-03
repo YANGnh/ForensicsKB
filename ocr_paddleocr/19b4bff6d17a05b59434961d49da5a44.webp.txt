@@ -1,0 +1,72 @@
+# OCR: 19b4bff6d17a05b59434961d49da5a44.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/19b4bff6d17a05b59434961d49da5a44.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+流量包.pcap
+文件(E)
+编(E)
+ao
+视图00
+能(G) 区
+狮获(0)
+分析(A)
+统计(S)
+wlan.da == ca:75:4:65:f9:6a |l wlan.5a == ca:75:14:65:9:6a
+SSID
+字等串
+分组列表
+Options:
+No.
+口区分大小写
+Time
+28954 2025-09-23 09:16: 11.759575 28955 2e25-e9-23 e9:16:11.763428 28968 2025-09-23 09:16:11.896174 28969 2825-09-23 e9:16:11.896319 2897e 2025-09-23 09:16:11.896545 28971 2025-09-23 e9:16:11.896828 28977 2025-09-23 09:16:11.897431 28988 2825-09-23 09:16:11.906171 28983 2825-09-23 e9:16:11.915809 28985 2025-09-23 09:16:11.917585 28986 2025-09-23 09:16:11.921542 28987 2025-e9-23 e9:16:11.921679 28988 2025-09-23 09:16:11.922177 29e41 2025-8923 e9:16:12.088847 29842 2025-0923 09:16; 12.888312 29843 2025-09-23 09:16:12.888481 29e44 2e25-e9-23 e9:16:12.e88973 29045 2025-09-23 09:16:12.089243 29378 2025-09-23 e9:16:13.296321 45731 2025-09-23 09:17:11.232161 47131 2025-09-23 09:17:16.422552 47157 2825-89-23 e9:17:16.426148 47158 2025-09-23 09:17:16.428467 4716e 2825-89-23 e9:17:16,433192 47162 2025-09-23 e9:17:16.434595 47163 2e25-09-23 e9:17:16.457188 47165 2825-e9-23 e9:17:16.468636 47166 2025-09-23 09:17:16.464974 47179 2825-09-23 e9:17:16.517263
+电话
+无线
+电正
+Backwards
+工具
+助(E)
+Muttiple occurrences
+Source
+8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d 8e:39:bd:31:2e:1d ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a ca;75:f4:65:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a
+Destination
+ca:75:f4:65: f9:6a ca:75:f4:65:f9:6a ca:75:f4:65: f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f465:f9:6a ca:75:f4:65: f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f4:65:f9:6a ca:75:f4:65: f9:6a ca:75:f4:65:f9:6a ca:75:f465:f9:68 8e:39:bd:31:2e:1d UgreenGroup5:f9:34 ca:75:f4:65:f9:6a UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a UgreenGroup_S: f9: 34 UgreenGroup_5:f9:34 ca:75:f4:65:f9:6a UgreenGroup_5: f9:34 ca:75:f4:65:f9:68 UgreenGroup_5:f9:34
+Protocol 882.11 se2.11 802.11 882.11 802.11 802.11 se2.11 802.11 8e2.11 802.11 802.11 882.11 802.11 802.11 802.11 802.11 8e2.11 802.11 882.11 802.11 802.11 882.11 802.11 802.11 EAPOL EAPOL EAPOL EAPOL 802.11
+Length
+Info
+10e Nul1 function (No data),
+SN=1019
+1ee Nul1 function (No data), SN=1e19, 1ee Null function (No data),
+SN=182
+1ee Null function (No data), SN=1e2e, 1ee Null function (No data), SN=1e2e)
+FN=e, FNe, FN=e, FN=e
+FN=e
+10e Mul1 function (No data), SN=1020,
+FNae
+1ee Nul1 function (No data), SN=1e2e,
+1ee Nul1 function (No data), SN=1e20, 10e Nul1 function (No data), SN=120,
+1ee Nul1 function (No data), SN=263,
+FN=e FN=e, FNe
+F1agss...PR..T Flagss...PR..T Flags...... Flagsw....R..T Flagss....R..T Flagss....R..T Flagsw....R..T Flags.....R..T
+Flagss....R..T Flagss...P...T
+FN=e
+, FNse, Flagss....R..T
+10e Nul1 function (No data), SN=264,
+FNse, Flagss....R..T
+1ee Nul1 function (No data), SN=264, F
+1ee Nul1 function (No data), SN=264, FN=e, Flags=...R..T
+1e2 Disassociate, SN=1e21, FNue, Flagss........ 1e2 Disassociate, SN=le21, FN=e, Flagsm,...R... 102 Disassociate, SN=1e21, FN=e, Flagss....R... 1e2 Disassociate, SNs1e21, FNwe, Flagss....R.. 1e2Disassociate, SN=1e21,FN=e,Flags=....R...
+57Deauthentication,SN=2484,FNue,Flags.......
+查找
+167Probe Response,SN=2473,FN=e,Fiagsm........,BI=10e,55TD=1aozhaowiF
+16 Authentication, SN=e, FNe, Flagss........ 61 Authentication, SNs2481, FNse, Flagss........
+196 Association Request, SN=1, FN=e, Flags=........, SSID="1aozhaowIFI" 134 Association Response, SN=2482, FN=e, Flags
+166 Key (Message 1 of 4) 233 Key (Message 2 of 4) 19e Key (Message 3 of 4) 209 Key (Message 4 of 4)
+o
+x
+-+
+取消
+公众号。小谢取证
+19e Qos Data, SN=2, FN=e, Flags=.p.+..F.

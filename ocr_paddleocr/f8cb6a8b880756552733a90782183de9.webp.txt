@@ -1,0 +1,16 @@
+# OCR: f8cb6a8b880756552733a90782183de9.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/f8cb6a8b880756552733a90782183de9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+C
+A不安全
+www.tpshop.com/index.php/Admin/Admin/login.html
+TP
+TPshop 开源商城
+管理中心
+用户名密码验证码
+保存信息
+登录
+忘记密码？

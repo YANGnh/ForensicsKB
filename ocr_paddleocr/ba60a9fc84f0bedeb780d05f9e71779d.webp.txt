@@ -1,0 +1,11 @@
+# OCR: ba60a9fc84f0bedeb780d05f9e71779d.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ba60a9fc84f0bedeb780d05f9e71779d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+别点我exe
+C:Users)Administrator/Deskt
+请输入数字选择操作： 1．创建加密容器文件
+2．加载容器文件选择：
+X

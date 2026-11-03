@@ -1,0 +1,12 @@
+# OCR: 273ffcfd168870af35d0cbc6dd2688fe.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/273ffcfd168870af35d0cbc6dd2688fe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+模拟器显示名称：夜神模拟器1 模拟器标识：Nox1
+手机号：15808566464 手机品牌：samsung 手机型号：SM-G988N
+共享文件夹：/Users/zy881/Noxshare
+已安装应用列表：民生财富汇操作系统：Linux
+UuID：00000000-0baa-46fa-b357-000000000070 磁盘文件名：Nox1-disk2.vmdk
+磁盘文件路径：/ProgramFiles(x86)/Nox/bin/BignoxVMS/Nox1/Nox1-disk2.vmdk

@@ -1,0 +1,22 @@
+# OCR: fac3a7e32c3721343eae0bbba60b31e4.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/fac3a7e32c3721343eae0bbba60b31e4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+总览
+级别(正常）级别 (其他）
+详细信息
+拍照和录像
+静态权限
+android.permission.CAMERA 录制音频
+android.permission.RECORDAUDIO
+第三方服务
+网络数据包
+com.example.gallery.DYNAMICRECEIVERNOTEXPORTEDPERMISSION com.example.gallery.DYNAMICRECEIVERNOTEXPORTEDPERMISSION
+动态监控
+完全网络访问
+源码分析
+android.permission.INTERNET 修改或删除SD卡中的内容
+android.permission.WRITEEXTERNALSTORAGE
+敏感信息

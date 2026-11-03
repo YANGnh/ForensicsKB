@@ -1,0 +1,34 @@
+# OCR: 30f126b51cf1fa6115b8ac38e160f488.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/30f126b51cf1fa6115b8ac38e160f488.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+环境变量
+Administrator的用户变量（U) 变量
+GOPATH
+Path TEMP TMP
+系统变量(S) 变量
+CLINK DIR ComSpec DriverData
+NUMBEROFPROCESSORS
+os Path
+PATHEXT
+编辑环境变量
+C/ProgramFiles)CommonFilesOracleJavajavapath C:/Strawberry/c/bin
+C:/Strawberry/per/bin
+C:\Strawberry/perl/site\bin
+C:\Ruby31-x64)bin C:/Python27
+C:\Python27/Scripts
+C/ProgramFiles)Python31olScripts
+C:/ProgramFiles\Python310y%SystemRoot%)system32%SystemRoot%
+%SystemRoot%1System32\Wbem
+%SystemRoot%)System32/WindowsPowerShellv1.oy C:ProgramFiles)nodejs)
+x
+D:/PentestTools\ExploitationTools)ExploitFramework/Metasploitmetasploit-framework/bin) C:ProgramFilesdotnet)
+C:/ProgramFilesVava\jdk-11/bin D:(Bandizip)
+D:/PentestTools)WebApplications\WebApplicationsProxies)BurpSuiteV2022.8.4Vjre-8u202-windows-x64Vjre1.8.0202/bin D:PentestTools/reverselplatform-tools_r31.0.2-windows/platform-tools
+C:ProgramFiles)Git)cmd C:\ProgramFiles)Go\bin
+新建(N) 编辑(E) 浏览(B). 删除(D)
+上移(U) 下移(0)
+x
+编辑文本().

@@ -1,0 +1,21 @@
+# OCR: d86970d4b014675b48e3182b0b433447.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/d86970d4b014675b48e3182b0b433447.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+g
+A源码商城服务器
+口三序号口1 2 口3 口4 口5 口6
+三名称过滤
+面板用户名
+BT:
+宝塔面板》
+②用户配置
+三内容过滤
+3om1hxmd
+面板密码加盐后的M.. 盐值
+默认面板密码面板端口
+BasicAuth认证
+9cf18105c02f1f6fc31cac188bb0e2d6 f5Uv3mwpOroc
+7fa03122 22352 已关闭

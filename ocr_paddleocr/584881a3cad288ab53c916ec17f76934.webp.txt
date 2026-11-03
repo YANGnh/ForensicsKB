@@ -1,0 +1,24 @@
+# OCR: 584881a3cad288ab53c916ec17f76934.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/584881a3cad288ab53c916ec17f76934.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+B100 10:13
+请输入密码
+X
+密码
+=
+不登录
+@
++
+小-
+华为安全键盘
+0 9 8 7 6 5 4 3
+4 p o-
+y t r e W q
+K j h 9
+d s a
+0 区 m n b V c
+z 全
+符号

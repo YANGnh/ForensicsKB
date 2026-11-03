@@ -1,0 +1,18 @@
+# OCR: 1f5093651bcffde2f7ea1bc7ef5a365b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/1f5093651bcffde2f7ea1bc7ef5a365b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+详细信息
+名称：tf11willow1.jpg
+扩展名：jpg 类型：文件
+大小：92.86KB
+创建时间：2025-05-0913:17:54 访问时间：2025-05-1211:24:54 修改时间：2025-05-0913:17:54 MetaAddr：16359
+全路径：UUID/1/home/android/tf11willow1.jpg SM3：
+0300A48E6ACEFEF6EBC6FF64B957B42880FEBB66B5C807C7E3D7D3C3CC AD2661
+加密类型：未加密已删除：否
+原类型视图
+文本视图
+十六进制视图
+X

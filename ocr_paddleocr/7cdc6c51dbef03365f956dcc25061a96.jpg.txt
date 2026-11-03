@@ -1,0 +1,28 @@
+# OCR: 7cdc6c51dbef03365f956dcc25061a96.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7cdc6c51dbef03365f956dcc25061a96.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+OpenWrt
+状态中系统
+系统管理收软件包启动项计划任务磁盘管理备份与升级
+重启 istore 服务市网络退出
+软件包 Freespace: 过滤器
+量示LuCI翻泽包：
+全部
+0无
+过滤
+可用软件包名称
+已安装
+更新
+消除
+版本
+下载并安装软件包：
+确认
+31% (32.53 MB) 没有软件包无可用信电没有软件包
+操作
+更新列装
+大小(ipk)
+上传软件包
+配置opkg 述

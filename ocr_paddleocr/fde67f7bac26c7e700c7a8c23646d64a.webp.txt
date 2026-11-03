@@ -1,0 +1,26 @@
+# OCR: fde67f7bac26c7e700c7a8c23646d64a.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/fde67f7bac26c7e700c7a8c23646d64a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+录
+配置
+计划任务
+网站名称
+192.168.100.100 www.tpshop.com www.tpshop.com www.tpshop.com
+数据库
+防火墙路径
+FTP服务
+/www/wwwroot/192.168.100.100/www/wwwroot/www.tpshop.com/www/wwwroot/www.tpshop.com/www/wwwroot/www.tpshop.com
+操作日志
+备注
+192_168_100_100 www_tpshop_com www_tpshop_com www_tpshop_com
+网站
+历史命令
+任务添加时间
+2022-02-2315:06:58 2022-03-0316:48:05 2022-03-0316:48:05 2022-03-0316:48:05
+面板用户
+面板配置域名
+www.mine.com 192.168.100.100 222.2.2.180
+www.tpshop.com

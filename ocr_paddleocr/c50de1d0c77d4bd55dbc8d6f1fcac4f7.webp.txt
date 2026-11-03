@@ -1,0 +1,21 @@
+# OCR: c50de1d0c77d4bd55dbc8d6f1fcac4f7.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/c50de1d0c77d4bd55dbc8d6f1fcac4f7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+rootq0penwrt:"# ifconfig etho add inet 192.168.137.100 rooteopenwrt："#ifconfig
+etho lo myupn
+Linkencap:EthernetHwaddr52:54:00:12:34:56
+inet addr:192.168.137.100Bcast:192.168.137.255Mask:255.255.255.0
+inet6 addr: fe80::5054:ff:fe12:3456/64 Scope:Link UP BROADCAST RUNNING MULTICASTMTU:15OOMetric:1 Rx packets:8 errors:0 dropped:o ouerruns:o frame:0
+Tx packets:1o2 errors:o dropped:o ouerruns:o carrier:o collisions:o txqueuelen:1ooo
+Rxbytes:896(896.0B)TXbytes:32412(31.6KiB) Link encap:Local Loopback
+inet addr:127.0.0.1Mask:255.0.0.0 inet6 addr:::1/128 Scope:Host
+UPL00PBACKRUNNINGMTU:65536Metric:1
+Rx packets:440 errors:0 dropped:0 ouerruns:0 frame:0 Tx packets:44o errors:o dropped:o ouerruns:o carrier:o collisions:o txgueuelen:1ooo
+Rxbytes:35324(34.4KiB)Txbytes:35324(34.4KiB）
+Link encap:UNSPECHWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00 inet addr:114.122.133.144P-t-P:114.122.133.144
+Mask:255.255.255.255
+UP POINTOPOINT RUNNING NOARPMTU:142OMetric:1 Rx packets:o errors:o dropped:o ouerruns:o frame:o Tx packets:o errors:o dropped:o ouerruns:o carrier:o collisions:otxqueuelen:1ooo
+Rxbytes:0(0.0B)Txbytes:0(0.0B)

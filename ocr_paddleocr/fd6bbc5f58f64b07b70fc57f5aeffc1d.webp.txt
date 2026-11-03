@@ -1,0 +1,35 @@
+# OCR: fd6bbc5f58f64b07b70fc57f5aeffc1d.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/fd6bbc5f58f64b07b70fc57f5aeffc1d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+rot 在线文本编辑器
+保存
+口全部保存
+wwwmthtcdafd
+C刷新
+目录：/www/wwwroot/www.mtbts.
+个上级
+APP
+C刷新
+Public
+ThinkPHP uploads
+目.htaccess.userini 旨
+404.html
+十新建
+Wldbdgd1Us.php index.html
+index.php
+Q搜素
+Q搜素
+替换
+√跳转行
+Wldbdgd1Us.php <?php
+X
+U字体大小
+甲主题
+e设置
+header('location:/index.php/systemlogined/login/index');
+3
+?>
+菌文

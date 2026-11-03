@@ -1,0 +1,28 @@
+# OCR: 9237196a8324e1fbab36a6f4911dd229.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/9237196a8324e1fbab36a6f4911dd229.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+[rootelocalhost/l#ifconfig
+ens33:f1ag=4163<UPBROADCAST,RUNNING,MULTICAST>mtu1500
+inet 192.168.100.100netmask 255.255.255.0 broadcast 192.168.100.255 inet6fe80::5642:5868:de23:af71prefixlen 64scopeid0x20<1ink>
+ether 0:0c:29:bb:4b:91txqueuelen1000(Ethernet) RX packets 8108bytes 1293477 (1.2 MiB)
+Rx errors dropped  overruns 0frame 0 TX packets 15125bytes 18328470 (17.4 MiB)
+Tx errors dropped  overruns  carrier  collisions
+ens37：f1agS=4163<UP,BROADCAST,RUNNING,MULTICAST>mtu1500
+222.2.2.10
+netmask255.255.255.0broadcast222.2.2.255
+inet
+inet6 fe80::4281:a9f7:bc22:e15prefixlen64scopeidx20<link> ether 00:0c:29:bb:4b:9btxqueuelen 1000(Ethernet)
+RXpackets1479bytes167882(163.9KiB) Rx errors dropped overruns frame  TX packets 2042bytes 2478248 (2.3 MiB)
+Tx errors  dropped  overruns  carrier
+collisionsB
+1o:f1ags=73<UP,L00PBACK,RUNNING>mtu65536
+inet 127.0.0.1 netmask 255.0.0.0
+inet6::1prefixlen 128scopeid x10<host>
+looptxqueuelen1(Local Loopback) RX packets 98bytes 8548 (8.3 KiB)
+Rx errors  dropped  overruns  frame
+TXx packets 98 bytes 8548 (8.3 KiB) Tx errors  dropped  overruns
+collisionsE
+carrier8

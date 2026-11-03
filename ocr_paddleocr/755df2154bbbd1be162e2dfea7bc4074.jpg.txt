@@ -1,0 +1,17 @@
+# OCR: 755df2154bbbd1be162e2dfea7bc4074.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/755df2154bbbd1be162e2dfea7bc4074.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+区
+三序号 1
+详细信息
+Pixel.tar/data/media/0/.privacysafe/db
+三名称过滤
+privacysafe.db
+名称：privacysafe.db
+扩展名：db 类型：文件大小：47KB
+修改时间：2024-04-2521:19:42 MetaAddr：8652745728
+全路径：Pixel.tar/data/media/o/privacysafe/db/privacysafe.db
+加密类型：未加密已删除：否

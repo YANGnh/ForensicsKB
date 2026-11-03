@@ -1,0 +1,35 @@
+# OCR: d551e0d7908e3c4f2a6ed8788a5b03ce.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/d551e0d7908e3c4f2a6ed8788a5b03ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+iSCSL发起程序属性目标
+发现
+快速连接
+收藏的目标
+卷和设备RADIUS
+配置
+惹要发现目标并使基本连接登录到目标，请键入该目标的IP地址或DIS名称，然后单击“快速莲接”
+目标(T)：
+已发现的目标（G）名称
+ign.2008-06.com.sysdevlabs:7f0000010cbe:vdev iqn.2008-06.com.sysdevlabs:7f0000010cbc:dev1 iqn.2008-06.com.sysdevlabs:7f0000010cbc:vdev2 ign.2008-06.com.sysdevlabs:7f0000010cbc:vdev3 iqn.2008-06.com.sysdevlabs:7f0000010cbc:dev4
+若要使用高级选项进行连接，请选择目标，然后单击莲接”
+o
+连接到目标
+对对
+状态
+快速连接(Q)
+刷新(R)
+不活动不活动不活动不活动不活动
+连接(N)
+x
+目标名：
+iqn.2008-06.com.sysdevlabs:7f0000010cbe:dev0 将此连接添加到收藏具标列表。
+该操作会在每次计算机重新启动时使系统自动尝试还原连接。口启用多路径（E）
+高级（A).
+确定
+确定取消
+取消
+应用(A)
+X

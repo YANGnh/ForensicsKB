@@ -1,0 +1,15 @@
+# OCR: 1113afca34c51a7b42963cba44d8e3e5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/1113afca34c51a7b42963cba44d8e3e5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+名称
+rels word
+docProps
+][ContentTypes].xml
+大小 737
+49380 26603 1300
+压缩后.修改时间
+2472012-07-0209:52 71462012-07-0209:52 250042025-04-1411:45
+3392012-07-0209:52

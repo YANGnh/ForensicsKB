@@ -1,0 +1,21 @@
+# OCR: d2341070d4fb6fdfb5c3cf220b64d5c1.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/d2341070d4fb6fdfb5c3cf220b64d5c1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+ResourceHacker-LOvE2.exe
+文件(F
+编摄（E)
+ANI PEM PNG
+视图
+★107：2052 图标
+★1：2052 图标组
+提作（A) As
+帮助(H)
+Dialog Mer+
+口
+PNG：107:2052
+你爱你爱你
+编辑器视图(D)
+二进制视图(N)

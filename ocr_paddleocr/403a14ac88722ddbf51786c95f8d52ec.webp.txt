@@ -1,0 +1,18 @@
+# OCR: 403a14ac88722ddbf51786c95f8d52ec.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/403a14ac88722ddbf51786c95f8d52ec.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+下音乐桌面
+本地磁盘(C:) 新加卷(E:) 本地磁盘（(V:) 新加卷 (X:)
+13个项目
+选中1个项目
+DVD
+WPS云盘
+双击进入WPS云盘 DVD驱动器(D:)
+本地磁盘(V)
+串
+6.65GB可用，共39.8GB 新加卷(E:)
+6.61GB可用，共19.5GB 新加卷 (X)
+12.1MB可用，共21.9MB

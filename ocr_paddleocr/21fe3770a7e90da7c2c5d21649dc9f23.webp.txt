@@ -1,0 +1,68 @@
+# OCR: 21fe3770a7e90da7c2c5d21649dc9f23.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/21fe3770a7e90da7c2c5d21649dc9f23.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+持有人：Alice +Alice的安卓手机 >基本信单图酮片ExiT结岛 0三星测览器 3自带测览器 Chroma创器
+国微信  Iinstagram Duine Eml件
+>品App分析 DSnapchat FFacebok OTelegram WhatsApp
+回ofice文件元信率
+MGmail》其他应用
+Alice的Macbook 目基本信息（分区5)
+用户康遗日患记录同文件系统日志 OSafari3 Chroma宽器
+1237/37791 398/4224/12702
+686 5/182 797 429 3 27 4 1 162 19
+10 /418
+208 37/13857
+1 2 4069
+1/663987
+990 94 565 660149 596 1/1286
+回
+YNameinc*20240816_16..
+®
+二序号口1
+详细信息
+名称
+20240816_162908.jpg 20240816 _16290Bj29
+20240816_162908jpg 名称：
+2024-08-16 16:29:06
+拍摄时(间)：
+增改的间：2024-08-16 16:29:06 型号：
+SM-G930F 件：
+G930FXXS1DQLE 4.73 MB
+大小：高度：
+3024 宽度：4032
+净富(富表示法)：
+22.474444444444444
+经度(度表示)：114.03972222222222
+Y
+22 deg 28' 28.00° N
+纯室(虚分秒素示法)：
+经度(度分秒表示法)：
+114 deg 2° 23.00° E
+GPS海亮度：4 m Above Sea Level
+三拍摄时间
+起始
+结康
+2024-08-16 16:29:08
+修改时间超始
+结康
+2024-08-16 16:29.08
+元信惠：
+(*Aperture:1.7,'ApertureValue:1.7,'BitsPerSample*:8,*BrightnessValue':7.99,'CircleOfCon fusion*:*0.005 mm*,'ColorComponents*:3,*ColorSpace":*sRGB*,*Compression*:"JPEG (old-
+style)*°CreateDate*:°2024:08:16 16:29:08*,*DateTimeOriginal':°2024:08:16 16:29:08*,'DeviceType':Cell Phone",*Directory°:°C:/hlnet/1-
+1731247435/Alice_Mobile.bin/1/media/0/DCIM/Camera*,*EncodingProcess*:*Baseline DCT, Huffman coding",'ExifByteOrder':*Little-endian (Intel,
+Il)",'ExiflmageHeight":3024,'"ExiflmageWidth':4032,'"ExifToolVersion':12.34,"ExifVersion": 0220","ExposureCompensation':0,"ExposureMode':*Auto""ExposureProgram':"Program
+AE","ExposureTime':*1/1152*,"FNumber:1.7,'FOV:*69.4 deg".*FaceDetect":'Off,"FileAccessDate':2024:08:16 16:29:08+08:00*,*FileCreateDate*:*2024:08:16
+=教件过滤
+G930FXX51DQLE
+原类型视围
+文本视图
+在圈片Exif信息中搜索
+■佛度（度分移表示法）过递
+22 deg 28 28.00* N 十六进制视图
+Q
+经资（度分移表票法）过滤
+114 deg 2° 23.00° E
+高口

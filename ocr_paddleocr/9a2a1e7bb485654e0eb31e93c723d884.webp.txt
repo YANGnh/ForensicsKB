@@ -1,0 +1,14 @@
+# OCR: 9a2a1e7bb485654e0eb31e93c723d884.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9a2a1e7bb485654e0eb31e93c723d884.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+名称
+Kali.vmx.lck kali.vmdk 国Kali.vmsd Kali.vmx Kali.vmxf kali-pt.vmdk ■我的手机号
+修改日期
+2025/5/717:03 2025/5/89:57 2025/5/711:57 2025/5/711:57 2025/5/711:57 2025/5/89:57 2025/5/1611:07
+类型文件夹
+Virtual Machine Dis.. VMware快照元数据 VMware虚拟机配置 VMware组成员
+Virtual Machine Dis.. 文件
+大

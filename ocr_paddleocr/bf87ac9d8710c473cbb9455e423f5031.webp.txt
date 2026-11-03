@@ -1,0 +1,56 @@
+# OCR: bf87ac9d8710c473cbb9455e423f5031.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/bf87ac9d8710c473cbb9455e423f5031.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+Users/起早王wifewifeldataldefault-userlchats
+■了文件名称一
+=default-user(285)
+= chats (4) Akari (1)
+defaultSeraphina(1)
+test角色（1)）小情
+一分区 offset
+■文件
+0
+03345414320 03345414336 03345414352 03345414368
+94 C2 C2 00
+03345414384
+05
+1
+D8 co co
+彩 2
+01 C4 C4
+00 00
+63 03
+C:\Users\ADMINI~1VAppData\Local\Temp]settings 160168.json [文本模式] -Ndd
+文件(E)
+编辑(E)
+凸
+日
+查找(S)
+command. txt
+区
+767 768 769
+770 771 772 773 774 775 776 777 778 779 780 781 782 783 784 785 786
+，
+视图y 国
+编码(N)
+语法(L)
+c
+器
+2025-03 67145.txt"color2":."n
+设置 $ x
+列与宏冈
+工具(O)
+插件
+对比(C)
+settings 160168.json
+"createdate":.1741605670449
+tagmap":.
+"default seraphina.png":.[
+"1345561466591"
+"undefined".[],."Akari.png":.[
+"1d5b59f5-5933-4854-8732-20fb5bde1dca""fb244acc-3aa4-4d89-ac71-dcd39312c914"."51b8e064-eb70-4323-8db5-667591ef21da""648e9d1f-b715-4c3c-97dd-c7f6481780b7""836b079c-a715-48b3-869c-99dee46d7296""563bb012-3522-4cb9-a974-712e04be142d
+."test角色.png"：.,."小情.png"：[]
+反馈

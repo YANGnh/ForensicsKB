@@ -1,0 +1,56 @@
+# OCR: 9e5b9cde73158fb688b530ba48e11b2c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9e5b9cde73158fb688b530ba48e11b2c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+02
+1 2 3 4 5 6 7 8 9 10 11
+A
+d
+B name_e
+X
+c
+descrip
+tx
+D
+=LEFT(J2,2)
+E
+nricee
+stocke
+17 wYLyokKh B3selLRbN6pl0BJtdvyvBYNH
+181PoK8pGCB3selLRbNarRP5T
+F categol
+G additio
+5wfu2uVy/tDEPOL6a
+357bZHV5wfu2uVy/tDEP0L6a
+19tF393gsm:uUo9CoViaf8MbEkAsdxbJPOK(5wfu2uVv/tDEP0L6a
+20wbJ/mc48
+yOWX+7ctOdRew3f
+KOOOe
+pmYZW4il/tDEP0L6a
+21llbJ/mc48dt7Pkrh2Ec4zcO7Sd35ICTLbwCpmYZW4ilLaiMgodb 22bJ/mc48B15KEDvtLMfMROxzLnoZISZ7
+7pmYZW4ilLaiMgodb
+23MirV3Mr2uQWX+7(91uu/YwggfrEgjc10lpmYZW4iLaiMgodb 24JvdhdVN5Y/gmH74ePWApg23o+FskgVO16b4MTHY/tDEP0L6a 25iJ66PRxZeiN3yUnK5/y3ctGZAEGavJFhmj:Mp7hJ6R//tDEP0L6a 26O2EOlivV/amH74e15AiSfU3ro/tSkTvEislEI6b4MTHVLaiMaodb
+H
+created at
+2025/4/721:17 2025/4/7 21:17 2025/4/7 21:17 2025/4/721:17 2025/4/7 21:17 2025/4/721:17 2025/4/721:17 2025/4/7.21:17 2025/4/721:17 2025/4/721:17
+updated at
+2025/4/721:2 2025/4/721:2 2025/4/721:2 2025/4/7.21:2 2025/4/7 21:2 2025/4/721:2 2025/4/721:2 2025/4/721:2 2025/4/721:2 2025/4/721:2
+name jk-101 jk-105 jk-103 hx-101 hx-101 hx-101 hx-105 cW-103 zk-102 CW-105
+K
+description
+智能安防摄像头智能安防摄像头
+高清防盗监控摄像头室内高清家居摄像头
+家居智能摄像头家用无线摄像头
+室内高清家居摄像头超微高清摄像头
+隐蔽针孔监控摄像头超微高清摄像头
+L price
+M categol
+1419.77安防 1234.84安防 1398.41安防 1460.77家居 1297.57家居 1862.7家居 1984.44家居 1748.39数码 1591.78监控 1752.96数码
+additional data
+N
+"color""黑色""weight""120g"""color""黑色""weight""270g""color""黑色""weight""90g"}"color""黑色""weight""300g""color""灰色""weight":"90g""color""灰色""weight":"60g"}"color""灰色""weight":"270g""color""黑色""weight""240g""“"color""黑色""weight""90g"}"color""灰色""weight""240g"}
+o
+category
+jk jk ik hx hx hx hx c zk cw

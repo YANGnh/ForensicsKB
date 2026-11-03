@@ -1,0 +1,18 @@
+# OCR: 2c47fed77c89bf9bef08479f2fcb6c09.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/2c47fed77c89bf9bef08479f2fcb6c09.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+暂停
+鼎盘闲海
+大年初
+00:00:32/00:01:19S/W
+AVC1
+AAC
+偏移计算：将总和与 26取模后加1，生成 1-26区间的固定位移量
+包
+预售行中
+百度APP
+360'
+3D

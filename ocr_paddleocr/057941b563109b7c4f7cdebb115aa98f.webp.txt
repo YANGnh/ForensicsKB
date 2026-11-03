@@ -1,0 +1,10 @@
+# OCR: 057941b563109b7c4f7cdebb115aa98f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/057941b563109b7c4f7cdebb115aa98f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+HHash校验工具1.4.7
+文件名称：d645f00240810fcc5c63ebb7a341b4d6 文件大小：20.1KB(20,668字节)
+MD5:BD1073F0FF77F2EE02382A748E4A698E
+SHA256: 8F8A68A3459D84E204B267E9B75F05533BEC9668334F476A31C1C154DFF7E5FA

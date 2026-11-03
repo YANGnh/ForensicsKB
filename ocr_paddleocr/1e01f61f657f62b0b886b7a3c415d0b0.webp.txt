@@ -1,0 +1,11 @@
+# OCR: 1e01f61f657f62b0b886b7a3c415d0b0.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/1e01f61f657f62b0b886b7a3c415d0b0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+(Pythonlencrypted 口?文件名称一
+口
+=Python (3,206)
+=encrypted(4) encrypted.py (1)
+.encrypted_data.txt (1)

@@ -1,0 +1,16 @@
+# OCR: 53c820c7982236587fe27174bd2cc386.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/53c820c7982236587fe27174bd2cc386.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+select payer_idsum(amount) total from transactions
+wheretype'=withdrawal
+groupbypayer_id order bytotaldesc
+图输出田图
+曲Result7
+?
+Dpayer_id M019024
+Q
+Dtotaly
+19611.739999999998

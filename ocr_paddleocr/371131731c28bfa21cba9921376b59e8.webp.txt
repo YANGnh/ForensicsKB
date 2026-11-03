@@ -1,0 +1,37 @@
+# OCR: 371131731c28bfa21cba9921376b59e8.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/371131731c28bfa21cba9921376b59e8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+电John的ios手机>
+wWhatsApp>John(85269711024@s.whatsapp.net)
+口三序号 1
+详细信息发送者：
+Ben
+发送者ID：
+接收者：
+=发送者 Ben
+=发送者ID 44749202591.
+447492025916@s.whatsapp.net
+John
+接收者ID：发送时间：消息内容：消患类型：文件大小：来源账号：
+85269711024@s.whatsapp.net 2024-08-05 15:53:36
+接收者 John
+指接收者1ID 85269711024.
+Ben(447492025916@s.whatsapp.net)
+好友消息》
+服发送时间
+2024-08-05 15:53:36
+消息内容
+This is aRATAPK thatallowsus to control.
+安
+This is a RAT APK that allows us to control Android devices remotely, enabling data access, monitoring and manipulation through an interface
+文本 OB
+85269711024@s.whatsapp.net
+源文件：
+John_Smartphone_itunebackup.tar/AppDomainGroup-group.net.whatsapp.WhatsApp.shared/ChatStorage.sqlite 香
+已删除：
+转文字
+x

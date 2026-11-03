@@ -1,0 +1,24 @@
+# OCR: e19f22903288f92cdc6b5a46cac4123b.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/e19f22903288f92cdc6b5a46cac4123b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+g
+John的笔记本>
+三序号 G1
+详细信息
+三名称
+用户痕迹>文件对话框历史>
+三路径
+Josheinvestment.JPG
+Josheinvestment.JPG
+名称：
+最近打开保存文件 1
+C:/Users/John.Killer/Josheinvestment.JPG
+路径：C:/Users/John.Killer/Josheinvestment.JPG 文件类型：文件
+文件大小：36.66KB
+创建时间：2024-08-0116:14:06 修改时间：2024-08-0116:13:10
+最后访问时间：2024-08-0116:13:08
+系统：分区3/Windows 用户：John.Killer
+源文件：Johndesktop.e01/分区3/Users/John.Killer/NTUSER.DAT 已删除：否

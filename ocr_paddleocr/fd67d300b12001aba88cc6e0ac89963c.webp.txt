@@ -1,0 +1,62 @@
+# OCR: fd67d300b12001aba88cc6e0ac89963c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/fd67d300b12001aba88cc6e0ac89963c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+检材1-手机.taridata/misc/bluedroid 口了文件名称一
+.=misc(O)
+.=bluedroid(0 btconfig.bak
+自btsdpconfig.conf
+卷 offset 00000096 00000112 00000128 00000144 00000160 00000176
+文件 0 61
+1
+66
+35 64 65 OA
+32 30 36 41
+3A39
+国预览
+2 37 36 39 64 64 30
+3 66 62 62 30 64 3A
+贝详细
+4 63 65 39 38 72 31
+5 31 31 65
+0A 65 35
+0
+缩略图
+6 38 65 63
+0A 73
+7
+64 33 30 5B 73
+3A
+32
+8
+35 65 36 41 20 65
+时间轴
+9
+35 63 62 64 3D 3A
+10 66
+66 64 61 20 37
+了描述存在的存在的存在的存在的
+?文件类型
+bak conf
+图例说明
+11 32
+65 62 70 61 36
+12 62 66 65 74 34 OA
+13 34 36 62 65 3A 4C
+14 39 39 34 72 35 45
+15 36 34 39 5D 35 5F
+了路径
+检材1-手机.tarldata
+检材1-手机.taridatamisc
+检材1-手机.taridatamisc/bluedroid 检材1-手机.tar/datalmisc/bluedroic
+同步
+养O
+UTF-8
+af7fc18d55f2b496 526be1e3ecfef694 d09b9ec06bdbeb49
+e6d08
+[Adapter]
+Address =
+a4:55
+:90:15:2e:76LE

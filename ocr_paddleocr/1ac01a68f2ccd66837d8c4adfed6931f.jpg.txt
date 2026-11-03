@@ -1,0 +1,18 @@
+# OCR: 1ac01a68f2ccd66837d8c4adfed6931f.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1ac01a68f2ccd66837d8c4adfed6931f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+fff818a2adf82d0-netprovfw.dll
+fff818a2adf85fo-joinutil.dll ff818a2adf6520-lsass.exe ff818a2adf7650-dpapi.dll
+ff818a2adf8780-1sasrv.c
+2024/11/1014:02 2024/11/1014:02 2024/11/1014:02 2024/11/10:14:02
+cC:WindowsiSystem32/cmd.e>X
+应用程序扩展应用程序扩展
+应用程序应用程序扩屏
+f818a2adf8910-wldp.dMicrosoftWindows[版本10.o.26100.2033] 图fff818a2b4d1ofo-wtsapi（c）MicrosoftCorporation。保留所有权利。
+65KB 234KB 49KB 16KB
+ff818a2b4d15a0-gpapi M:\pid724\fileslvads>certutil -hashfile ffff818a2adf6520-Lsass.exe SHA256 图ff818a2b4d31c0-kernelSHA256的ffff818a2adf6520-Lsass.exe哈希：
+fff818a2b46a1b0-crypts
+fee23ebcba02987e70d81ca1924c2e9c69d79ac2afea5bbde4fb335a57d4b30c Certutil：-hashfile命令成功完成

@@ -1,0 +1,100 @@
+# OCR: 35cda44a3ec4ae8bfff79e0c4fb0ac04.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/35cda44a3ec4ae8bfff79e0c4fb0ac04.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+10c140002085:
+：0000000140002085:0000000140002085：0000000140002087:800000014000288D:0000000140002094 t：0000000140002098:0000000140002841:600000140002848 t：00000001400020AA
+ee eee
+0014000284C 8001400028AF
+：80008
+001400028B6 80014000208D
+e8
+00001400020BF
+eee
+：60000
+:000
+901480020c5
+8001400020C5
+:00000001400020C5
+e140e2ecc
+ee:08 006 08
+000 8e
+006 e
+9001400020CE 8001400028D8
+1400020D8 1400020E0
+8001400020E8
+400028E0 400020F5
+8001400020FA
+180028FD 902164
+00140002107
+9216
+800140002117
+:eee
+e2110
+：000000014000211C
+006
+88014000211E
+：e000e
+900211E
+900014000211E
+：eee
+:000000014000211E
+:08
+00211E
+000140002125
+:e3
+8839140092120
+ee2132
+00000140002138:000000014000213F：0000000140002146：0000000140002148
+1oc1400028c5:
+loc
+14800211C:
+loc_14800211E:
+test jnz lea mov call movzx test jnz xor lea lea xor call
+movzx test jz iea lea lea call lea call xor lea soy xor call lea call
+jmp lea mov call mov lea lea xor can
+eax,eax
+loc_14000211E
+CODEXREF:Sub_140001AEe+59EtJ
+:"Login Successful!
+rdx,string
+rcx,cs:qword_1400e8768;hind Cs:SetWindowTextA
+eax,cs:byte_1400e8e8C eax,eax
+shortloc_140002ec5
+r9d,r9d r8,Caption rdx,Text ecx,ecx
+cs:NessageBoxA
+;uType
+"login successful-
+"Greatl You have finished the first step"...;hnd
+:CODEXREF:Sub_140001AE0+5CAt
+eax,cs:byte_140ee8e8C eax,eax
+short 1oc_14eee211c[rsp+238h+var_1e8] r8,
+[rsp+238h+var_Fe] rdx,
+[rsp+238h+var_D8
+rcx
+sub_1400022A0
+rcx, [rsp+238h+var_D8]
+sub_1400029Ee r9d,r9d
+juType
+"The Bitlocker Key"
+rs,aTheBitlockerKe:
+rdx, rax ecx,ecx
+;lpText hiwind
+Cs:NessageBoxA
+rcx,[rsp+238h+var_D8] sub_148002840
+CODEXREF:Sub 140001AEe+5EEt
+short 1oc_14000214F
+;CODEXREF:sub_140001AE0+5751j;sub_140001AE0+5A7tj
+rdx, aInvalidUsernam ; "Invalid username or password. rcx,cs:qword_1400e8768:hwnd
+cs:SetwindowTextA r9d,30h :'e"
+uType
+r8,aLoginFailed ;"Login Failedi"
+"Incorrect Credentials!"
+rdx,aIncorrectCrede:
+ecx,ecx
+cs:MessageBoxA
+hinind
+福公众号
+取证布衣

@@ -1,0 +1,20 @@
+# OCR: 48c9ae5fad06d9b0ca8a19f5121a615c.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/48c9ae5fad06d9b0ca8a19f5121a615c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+D
+Cmdinc"ssh"
+三序号 □1 □2 □3 口4
+三用户名过滤
+x
+三Shell类型
+过滤
+Y
+三命令 ssh
+ssh-keygen -t rsa -C "example@mail.com"
+sshroot@121.11.43.23 sshuser@154.23.43.11 ssh.root@123.60.81.230
+A
+三时间起始
+N

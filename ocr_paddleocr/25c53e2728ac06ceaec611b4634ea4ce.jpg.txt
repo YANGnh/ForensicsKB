@@ -1,0 +1,27 @@
+# OCR: 25c53e2728ac06ceaec611b4634ea4ce.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/25c53e2728ac06ceaec611b4634ea4ce.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+server
+自序号 1
+docker>docker>
+品容器列表
+三客器ID 过速
+8fbd1968d75efc41d850303383d2ab18d25d9cfc08e1414de05a2666a44c0824
+4
+推使用的镜你
+过速 mysql:5.7
+请自动分配的客
+过速 mysql
+“启动客器时运行的命令
+过速 mysqld
+客器状态过速
+ExitCode:0
+插文件挂载过
+在容器刻表中搜专
+三客器端口依痘过滤
+33060/tcp.
+推所规网缩
+过 bridge

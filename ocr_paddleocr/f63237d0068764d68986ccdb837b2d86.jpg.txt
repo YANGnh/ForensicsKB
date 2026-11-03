@@ -1,0 +1,40 @@
+# OCR: f63237d0068764d68986ccdb837b2d86.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/f63237d0068764d68986ccdb837b2d86.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+istoreos
+搜索菜单
+首页
+堂网络向导
+状态系统 istore Docker 服务
+PassWall2
+DDNSTO远程控制易有云文件管理器 NasTools
+动态DNS（DDNS）
+硬盘休眠网络唤醒
+基本设置
+vpn vpn
+节点列表
+节点订阅
+高级设置
+负载均衡
+自动检测延迟
+显示服务器地址和端口
+备注
+Hysteria2：套餐到期：长期有效 Hysteria2：us美国洛杉矶o1-hy2
+组件更新
+TCPPing 添加
+通过链接添加节点清空所有节点 vpn节点数量：54
+规则管理
+访问控制
+删除选择的节点
+Ping 246ms
+245ms
+全选
+服务器端保存并应用
+TCPing 超时
+超时
+查看日志
+保存 URL测试超时超时
+复位

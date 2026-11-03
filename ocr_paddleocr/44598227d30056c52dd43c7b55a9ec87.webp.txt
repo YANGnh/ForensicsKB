@@ -1,0 +1,27 @@
+# OCR: 44598227d30056c52dd43c7b55a9ec87.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/44598227d30056c52dd43c7b55a9ec87.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+mn ForensicsTool
+密钥计算数据库解密数据提取注册表分析关于
+请选择任务 file
+口
+xShell、xFtp连接信息解密，指定-f为目标文件夹session，并提供-p参数，值为计算机的用户名+sic
+G:2025盘古石杯\晋级赛\export/Sessions
+password
+开始
+XSHELL/XFTP连接信息
+连接名
+1
+新建会话
+地址
+192.168.56.129
+22
+端口
+x
+3733482367-3411043098-2536183883-1001
+密码
+None
+描述

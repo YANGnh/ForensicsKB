@@ -1,0 +1,25 @@
+# OCR: 2e6c6a5813ea23c7735f6cf585e44270.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/2e6c6a5813ea23c7735f6cf585e44270.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+基本信息>
+John的iOs手机>
+四图片>
+四相机胶卷
+口三序号口1
+详细信息
+=名称
+IMG_0007.HEIC
+名称：IMG_0007.HEIC 大小：1.26MB
+创建时间：2024-08-1412:54:35 修改时间：2024-08-1412:54:36
+三大小 1.26MB
+三创建时间
+2024-08-1412:54:35
+修改时间
+2024-08-1412:54:36
+三剃除时间
+缩略圈路径：John_Smartphone_itunebackup.tar/CameraRollDomain/Media/PhotoData/Thumbnails/N2/DCIM/100APPLE/IMG0007.HEIC/5005JPG
+本地路径：JohnSmartphoneitunebackup.tar/CameraRollDomain/Media/DCIM/10APPLE/IMG0oo7.HEIC 目录名称：DCIM/10OAPPLE
+源文件：John_Smartphone_itunebackup.tar/CameraRollDomain/Media/PhotoData/Photos.sqlite 已删除：否

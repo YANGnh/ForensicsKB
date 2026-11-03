@@ -1,0 +1,68 @@
+# OCR: 44df394b778a01cdd2975fa2f593e78d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/44df394b778a01cdd2975fa2f593e78d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+状季理的手机
+文件系统
+Samsung.tar a
++appinfo +面calendar +cais +:contacts +sms +system +wif +data >文牛分类
+罐伏季雅的计算机
+康文件系练》文件分类
+120307 120307
+97446 642689
+口
+区
+国画号 0 02 口3 04
+详细信息
+伏季雅的手机/文件系统/Samsung.tar/Basic
+#名种过a
+Adlockdoemjaon deviceinfajaon appintfo（仁工 calendar1)
+名编：deviceinfojson
+扩用客：json 英型：文件大小：897B
+2024-04-26 05:45:08
+封间：
+大小等于 89.74KB 897.8 OB 08
+MetaAddri 2916864
+全路径：Samsung.tar/Basic/deviceinfojson
+加家英型：来加嘴已别除香
+创建时间
+起购
+结束
+物改的病
+起始
+结束
+2024-04-26 05:45:08 2024-04-26 05:45:08
+全路径过通
+Samsung-tar/Basic/Adlockdownjson Samsung.tar/Basic/deviceinfo.json
+Samsung.tar/Basic/appinfo Samsung.tar/Basic/calendar
+原类型视图
+PAGE
+文本规图
+ZOOM
+十六进制视图
+HEGHLIGHT
+在Basic中搜票
+Q
+'deviceNane*"t2a,"phoneEI't),"pbomeliaber"
+"phoneoperator"."","phomeInSI"""."serial
+Baberurknown.saciddress""
+."pboneBluetooth"pall.phoneBluetoothS
+"bareBandVeraion
+“摄?%?521+“phoneModels%
+tatel."blaetoothllacaddresgmal1."bluetoothisne
+C996n".phoneSystenunber":12".battetyPover"0,cpu_abi':["arnf4-va'.araeabi-VTa.araeabi'j."board:"exymos2100".hardvare"exymog2100".device
+"t2s."cpuBits"32."bra
+nd’sangung'.sdkversion'31.sdsire'["242017611776"]."sdavaileire
+【214360031232-1te
+BalStoragelnfo":."dictionarynfoList":[l,"tinezone":"Asia/Shanghai'
+androidid"a728c9b9td
+529158.allowllockLocation':0,spsopenState':1,cprslp:"feB0::890.d4tt.teBc.a298kdaayu filp192.168.137.246.~bootFlow0,epsPoaitiom(Lom
+ngitude:*104.0594838"
+"Latitude""30.
+"","phoneEID"
+5826804"l,"vifilaae":[J,"vlanllac&ddrez2"
+"iceid"
+","iceid2";*"]
+Q商口

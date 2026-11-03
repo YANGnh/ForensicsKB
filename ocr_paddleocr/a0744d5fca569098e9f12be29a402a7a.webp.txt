@@ -1,0 +1,7 @@
+# OCR: a0744d5fca569098e9f12be29a402a7a.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/a0744d5fca569098e9f12be29a402a7a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+.89959819493 4119369.18916476 039，女26,孟林， 3719631951120515 05,15075547510，男

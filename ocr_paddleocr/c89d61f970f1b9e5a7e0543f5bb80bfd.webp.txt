@@ -1,0 +1,8 @@
+# OCR: c89d61f970f1b9e5a7e0543f5bb80bfd.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/c89d61f970f1b9e5a7e0543f5bb80bfd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+口“收入-支出，了
+17443.990000000005

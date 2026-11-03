@@ -1,0 +1,21 @@
+# OCR: d75f29ef66367d5c36fcf8b6f9e72595.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/d75f29ef66367d5c36fcf8b6f9e72595.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+会话设置-文本比较(T
+规范
+格式
+重要事项对齐
+不重要的文本(U)：
+替换内客
+标记对比较来说是重要的语法元素（G)：
+口前导空格嵌入的空自口尾随空白其它一切口字符大小写
+口独有行总是重要的（O）
+口比较行结尾（PC/Mac/Unix)(P）用于交会话中的所有文件
+确定
+其它一切
+编辑语法(E).
+取消
+x

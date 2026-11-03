@@ -1,0 +1,20 @@
+# OCR: 8e46c7150ceb5ea9236f43ebcc3fffc0.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/8e46c7150ceb5ea9236f43ebcc3fffc0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+Redisdataexplorer Name
+auth
+SADMIN-PHONE19521510863
+admin-token1611ad0e0264d4927291e77b9be221e2 admin-token5f9bcb9c65561bb62ac5c3a9212852cc admin-token8c2525f1eee61aa6cc29cd3074894064 admin-tokenbb15f9da59e960585c3c8b4ba0c49cc4 admin-tokenc7cb48de446e7743cced5aae90562bb8
+1Console
+String Server Key Value
+TTL
+ADMIN-PHONE19521510863X
+Object
+1
+Type
+Container
+String String String String String String
+ADMIN-PHONE19521510863 1234

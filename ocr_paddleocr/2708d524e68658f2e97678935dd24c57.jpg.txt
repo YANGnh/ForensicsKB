@@ -1,0 +1,21 @@
+# OCR: 2708d524e68658f2e97678935dd24c57.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/2708d524e68658f2e97678935dd24c57.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+#异步消息队列#sync为同步
+redis为异步
+#使用redis异步需要安装好redis服务端并配置
+QUEUEcONNEcTION=redis#后台语言
+##zh_CN简体中文## zhTW繁体中文
+##en
+英文
+DUJIAOADMINLANGUAGE=ZhCN#后台登录地址
+ADMINROUTEPREFIX=/admin
+#是否开启https（前端开启了后端也必须为true）
+#后台登录出现eerr或者其他登录异常问题，大概率是开启了https而后台没有开启，把下面的false改为true即可
+47
+48 49
+ADMINHTTPS=false

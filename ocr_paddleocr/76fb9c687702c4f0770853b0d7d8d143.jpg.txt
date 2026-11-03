@@ -1,0 +1,19 @@
+# OCR: 76fb9c687702c4f0770853b0d7d8d143.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/76fb9c687702c4f0770853b0d7d8d143.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+* E*
+E*
+E
+https://www.exploit-db.com/exploits/382ol/--windowsCreateobjectTaskTileUserBrokerPrivilegeEscalation,Poc Ms15-o97:VulnerabilitiesinMicrosoft GraphicsComponent CouldAllow Remote Code Execution(3o89656)-Critical
+https://www.exploit-db.com/exploits/38198/-Windows1oBuild1o130-UserModeFont DriverThreadPermissionsPrivi https://www.exploit-db.com/explLoits/38199/=windowsNtUserGetclipboardAccessTokenTokenLeak,Poc
+Msi5-o78:Vulnerabilityin Microsoft Font DriverCouldAllow RemoteCode Execution(3o799o4)-Critical https://www.exploit-db.com/exploits/38222/-MS15-o78MicrosoftwindowsFontDriverBufferOverfLow
+MS15-o5l:Vulnerabilities in Windows Kernel-Mode Drivers Could Allow Elevation of Privilege (3o57191)-Important
+https://github.com/hfirefox/cVE-2o15-17ol,Win32kElevationofPrivilegeVulnerability,Poc https://www.exploit-db.com/exploits/37367/--WindowsClientCopyImageWin32kExploit,MSF
+MS15-01o:Vulnerabilities in Windows Kernel-Mode Driver Could Allow Remote Code Execution (3o3622o)-Critical
+https://www.exploit-db.com/exploits/39o35/-Microsoftwindows8.1-win32kLocalPrivilegeEscalation(Ms15-o1o), https://www.exploit-db.com/exploits/37o98/--Microsoftwindows-LocalPrivilegeEscalation(Ms15-o1o),Poc
+https://www.exploit-db.com/exploits/39o35/-Microsoftwindowswin32kLocalPrivilegeEscalation(Msi5-01o),PoC
+Ms15-ool:Vulnerability inWindows ApplicationCompatibilityCacheCould AllowElevationof Privilege(3o23266)-Impor
+http://www.exploit-db.com/exploits/35661/--Windows8.1(32/64bit)-PrivilegeEscalation(ahcache.sys/NtApphelpCac

@@ -1,0 +1,75 @@
+# OCR: f1e3e1f70d638f36068dd85587c86ec3.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/f1e3e1f70d638f36068dd85587c86ec3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+1.44.1-69057(Ext2/3/4at25728onmeiya_tes.
+S
+JohnKiller
+1.44.1-69057(Ext2/3/4filesystem)
+@52s
+@SynoFinder-etc-volume@SynoFinder-log
+田
+田国
+日
+@database@eaDir
+@synoconfd@tmp
+@userpreference
+JohnKiler#recyde@eaDir
+Newfolder 田
+beauty 田
+jpn v 奥逼
+志田千陪
+SelectedFle~dcdb711a52a94fe9b6eb742a6919410d.mp
+AR Name
+dcdb711a52a94fe9b6eb742a6919410d.mp4@...&dcdb711a52a94fe9b6eb742a6919410d.mp4
+[Object contents]
+Hexadecimal contents[HEX]
+00
+00000000 00000010 00000020 00000030 00000040 00000050 00000060 00000070 00000080 00000090 000000AO O00000BO 000000Co OOOOOODO OO00OE0 000000FO 00000100 00000110 00000120 00000130
+00 20 00 00 00 o0 o0 o0 o0 65 73 66 2E
+6D 6D 62 62 34
+01 05 20 32 00 00 00 00 00 00
+5D 65 2E 61 6C
+OD
+02 16 20 00 00 00 00 oo 00 10 00 OD 72
+OD OA
+03 07 20 00 00 00 00 94 00 5A 00 OA 72
+6 OA
+04 00 20 01 00 00 41 00 00 6E 5B 5A 65 77 68 48
+05 02 20 01 00 o0 54 o0 00 6E 5A 6E 72 2E 2E
+06 00 20 00 00 00 54 00 00 65 6E 6E 55 76
+07 00 20 00 00 00 52 9F 01 2E 6E 65 72 A
+08 4D 00 00 00 00 00 00 00 49 65 49 6C
+3 39
+09 61 02 02 00 00 00 00 00 64 54 64 3D 68 35
+OA 63 00 00 00 o0 00 o0 00 65 72 3D 68 69 38 oc
+Date
+01.01.1970 08:04:10 16.08.2024 16:38:41
+国 oc
+OB
+20 00 00 00 00 00 00 94 6E 61 33 74 2E 32 3
+4F 00 01 00 00 00 00 00 74 6E OD 74 63 30 69
+OD
+53 09 33 00 00 00 00 00 69 73 OA 70 6F 2E
+2E 62
+包
+O OE
+20 00 00 00 00 01 00 00 66 66 52 73 6D 68 74 63 53
+6
+58 00 00 00 00 33 00 9F 69 65 65 3A 2E 74 70 6F 64 65 70
+c
+Type File File
+e
+Mac
+.ATTR
+Size 307bytes 3.94MB
+os
+X
+.3 2
+..zone.Identiri
+er..[zoneTransfe r]..zoneId-3..Re ferrerurl-https://www.vjshi.com/
+15820.h
+ml..HostUrl-http s://mp4.vjshi.co m/2022-01-11/dcd b711a52a94fe9b6e b742a6919410d.mp
+9b6eb74

@@ -1,0 +1,18 @@
+# OCR: db81e0d96a2d6fc1c8c4f35cf256ded3.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/db81e0d96a2d6fc1c8c4f35cf256ded3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+二序号口1 □2 口3 ■4 口5
+详细信息
+Pixel.tar/data/data/com.hld.anzenbokusufake
+三名称过滤
+appwebview
+(21)
+cache(16)
+databases (6) nobackup(1) sharedprefs(11)
+名称：com.hld.anzenbokusufake
+类型：文件夹大小：0B MetaAddr：-1
+全路径：Pixel.tar/data/data/com.hld.anzenbokusufake
+加密类型：未加密已删除：否

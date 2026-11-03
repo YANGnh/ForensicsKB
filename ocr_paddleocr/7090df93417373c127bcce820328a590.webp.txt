@@ -1,0 +1,54 @@
+# OCR: 7090df93417373c127bcce820328a590.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/7090df93417373c127bcce820328a590.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+D Detect It Easy v3.06 [Windows 10 Version 2009](x86_64) 文件名
+F:12025longxingbeitlx(1).exe
+文件类型 PE64
+文件信息 FE
+全部节
+0003
+扫描自动
+PE64
+E
+入口点
+00000001402a0a0
+哈希导出
+时间戳
+字符串导入表
+反汇编全部签名
+资源
+镜像大小
+2025-10-22 21:52: 15
+打包工具：UPX(3.91+)[modified）
+字节序 LE
+0144c000
+模式 64位
+链接程序：MicrosoftLinker(14.44)[控制台64,console]
+资源[28ac]Binary 格式：emptyfile
+全部签名目录
+递归扫描 100%
+深度扫描启发式扫描
+日志
+Verbose
+所有类型
+基址
+0000000140000000
+十六进制
+HET 架构 AMM64
+信息嫡
+TLS 资源
+显示
+790毫秒
+内存映射 VirusTotal 附加
+版本类型控制台
+S
+S S
+扫描
+2？
+口
+..
+x
+符号重组快捷键选项关于退出

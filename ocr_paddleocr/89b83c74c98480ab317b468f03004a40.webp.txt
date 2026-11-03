@@ -1,0 +1,30 @@
+# OCR: 89b83c74c98480ab317b468f03004a40.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/89b83c74c98480ab317b468f03004a40.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+c
+服务器： Address:
+名称： c:
+服务器： Address:
+>nslookupadmin.chen.foren6
+dnsl.hnsdns.com 139.144.68.241
+admin.chen.foren6
+>nslookup caidan.chen.foren6
+dns1.hnsdns.com 139.144.68.241
+非权威应答：
+名称：
+Address: c:V
+服务器： Address:
+caidan.chen.foren6 20.25.4.26
+>nslookupfichen.foren6
+dnsl.hnsdns.com 139.144.68.241
+dns1.hnsdns.com找不到fichen.foren6：Non-existentdomain
+***（
+c
+>nslookuphl.chen.foren6
+服务器：dnsl.hnsdns.com
+Address：
+139.144.68.241
+***dns1.hnsdns.com找不到hl.chen.foren6：Non-existentdomain

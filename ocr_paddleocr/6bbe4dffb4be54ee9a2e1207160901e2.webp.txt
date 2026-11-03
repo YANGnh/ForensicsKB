@@ -1,0 +1,15 @@
+# OCR: 6bbe4dffb4be54ee9a2e1207160901e2.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/6bbe4dffb4be54ee9a2e1207160901e2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+7-WHERE交易户名=孙华锦and交易时间=2020-07-0110:49:07
+交易证件号码了：交易时间了
+null>
+2020-07-0110:49:07
+E- ORDER BY
+x
+交易金额了交易余额了
+3000.00
+6610.94

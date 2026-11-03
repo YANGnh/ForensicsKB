@@ -1,0 +1,33 @@
+# OCR: e7bd742991cfecee72ef68d162ef58f7.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/e7bd742991cfecee72ef68d162ef58f7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+目基本信息四系统信息
+毛雪柳的计算机
+三序号口1 □2 □3 口4 口5 口6 口7 口8 口9 □10 口11 口12 口13 口14
+名称过滤
+操作系统名称操作系统类型操作系统版本操作系统位数
+系统时区安装时间产品密钥发行ID 产品ID
+当前版本号
+当前Build版本号
+处理器内存设备名称周
+三英文名称过滤
+MATERIALS_NAME
+OS_TYPE OS_NAME OS_BITNESS
+OS_TIME_ZONE INSTALL TIME PRODUCT_KEY RELEASE_ID
+OS_PRODUCT_ID
+CVERSION VERSION CPU
+MEMORY
+COMPUTER_NAME IDNAAADE
+Y
+值过滤
+Windows10Pro
+Windows Professional 64位
+（UTC+08:00）北京，重庆，香港特别行政区. 2023-06-0820:5553+0800CST
+W269N-WFGWX-YVC9B-4J6C9-T83GX 2009
+00331-10000-00001-AA472 10
+19045.4291
+11thGenIntel(R)Core(TM)i7-1165G7@2.... 8G
+DESKTOP-3BDNVRB

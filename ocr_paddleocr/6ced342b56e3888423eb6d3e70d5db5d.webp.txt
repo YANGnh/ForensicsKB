@@ -1,0 +1,32 @@
+# OCR: 6ced342b56e3888423eb6d3e70d5db5d.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/6ced342b56e3888423eb6d3e70d5db5d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+开机
+7530 696166
+373
+32
+字符串转16进制 C
+16进制转字符串 C字符串转Unicode CUnicode转字符串 C生成256个随意值
+转换后输出格式设置：
+C简转整（GB2312->GBK) C
+繁转简（GBK->GB2312）繁转BIG5（GBK->BIG5 C
+CBIG5转繁(BIG5->GBK） C加，“拆分字符串
+C字符串转UTF8 CUTF8转字符串
+风删。
+删Tab键
+风删空格风删，
+6461667530373132
+转换后输出格式设置： dafu0712
+·不加
+C加空格
+官网.更新.定制.赞助.合作.用户交流群.请点我
+C加，
+C加-
+C不转换只格式化
+区删换行
+C加ox，
+清空
+转换

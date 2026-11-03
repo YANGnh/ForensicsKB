@@ -1,0 +1,31 @@
+# OCR: 984d29c63e9a70c874357119aae589af.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/984d29c63e9a70c874357119aae589af.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+SM3 Length 256
+Rounds 64
+?
+1eoEEa
+igx 1-5+ 18+ 5-
++OD-Ea CR
+±%% 95
+120 168
+EAAUCR
+A+ECR 5cR
+30cR 80cR
+143125cR 1000-A043cR
+1000E fxt
+±%%
+18+ RE783
+1498
+44
+Output
+EAAUcR A+ECR
+500cR
+Filedetails
+Name: Size:
+带彩计划.txt 783bytes Tr RawBytes
+LF
+af30ffa1c8351d26be8ff62f6477a084b52781c0398c50e000 4263f139e89ffa

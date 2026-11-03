@@ -1,0 +1,43 @@
+# OCR: 54486e5e88815ed673ffdd42918f48fc.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/54486e5e88815ed673ffdd42918f48fc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+详细信息
+名称：com.v2ray.bizerpreferences.xm
+扩展名：xml 类型：文件大小：1007B
+修改时间：2025-05-2622:21:41
+元数据地址：5667328 全路径：
+Android.tar/com.v2ray.bizer0.tar/com.v2ray.bizerO/data/user/o/com.v2ray.bizer/sharedprefs/co m.v2ray.bizerpreferences.xml
+加密类型：未加密已删除：否
+原类型视图
+文本视图 Kstringname=
+十六进制视图
+payments">"default"："facepay,"alipay”："facepay”
+"base_uri">https://vl.jkl-app202311.org</string
+Kstringname=”
+"login”value="true”
+<booleanname=
+currentProxy">PRo台湾o11.7x</string
+Kstringname
+Kstring name=
+"userName">cen</string
+<booleanname=
+refreshn”value="true”
+<stringname="token">vjp3ebYAA39ZyzC</string
+wechat"
+s
+<stringname="userToken">hAxRzHZo93csbiZNhDFybvifJCawyRScyi1FoGeBdnTJIS7uagUkCqM
+<boolean name="checked"value="true” <int name=-"planId"value-"i"
+<string name= <string name=
+panel
+>sspanel</string
+pwd">1143617983</string
+Kbooleanname=
+Kstringname=
+map
+guide
+email”
+value-"false”
+1143617983@qq.com</string）

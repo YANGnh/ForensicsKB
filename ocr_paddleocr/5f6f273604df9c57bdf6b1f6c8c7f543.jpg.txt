@@ -1,0 +1,37 @@
+# OCR: 5f6f273604df9c57bdf6b1f6c8c7f543.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/5f6f273604df9c57bdf6b1f6c8c7f543.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+XPROXMOXVitual Environment8.1.4搜素
+资源池视图数据中心
+110 (nginx) 100(Router)
+101(node1)
+102(node2) 103(node3）
+111 (javaserver) 112 (sqlserver)
+120(luck)
+森
+虚拟机101(node1)在节点pve上
+概要控制台
+没有标已。
+node1（运行时间02:05.26）
+中硬件
+Cloud-lnit
+选项茶
+画
+任务历史监视器
+日备份好复制快照?
+D防火墙权限
+状态
+梦高可用状态圆节点
+CPU利用率内存使用器 B引导磁盘
+mIPs
+备注
+起节点手机
+modprobe binder linuxd
+备注
+devices-"binder,hwbinder.vmdbinder"
+modprobe
+ashnem.linux
+docker start all

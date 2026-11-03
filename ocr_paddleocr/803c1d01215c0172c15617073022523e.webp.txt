@@ -1,0 +1,16 @@
+# OCR: 803c1d01215c0172c15617073022523e.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/803c1d01215c0172c15617073022523e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+config.phpx 鄂config.php
+k?php
+sdbconfig=array(
+"host=>"k8s-node1'，//数据库服务器 port'=>3306，//数据库端口
+5 8 9 10 11
+?>
+"user，=>‘G3xIWj'，//数据库用户名
+pwd'=>YhxwznesRscGAXnH'，//数据库密码
+dbname’=>‘g3xiwj，//数据库名 dbqz
+=>‘mh’/ /数据表前缀

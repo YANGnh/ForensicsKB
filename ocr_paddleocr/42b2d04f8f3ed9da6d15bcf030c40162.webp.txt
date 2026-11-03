@@ -1,0 +1,11 @@
+# OCR: 42b2d04f8f3ed9da6d15bcf030c40162.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/42b2d04f8f3ed9da6d15bcf030c40162.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+cj(lxgskefu)(2024-06-1917:51:49) 699
+2024-06-1917:51:45
+(2024-06-1917:51:45)（y225192259）何健明
+我欠你多少来着？
+2024-06-1917:51:49

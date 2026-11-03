@@ -1,0 +1,57 @@
+# OCR: 669400951b0a517926103f0399e3243f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/669400951b0a517926103f0399e3243f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+三DBBrowserforSQLite-D:检材题目\2025数证杯决赛\个人赛导出\duck.db
+文件(F)编辑(E) 新建数据库(N)
+数据库结构
+表(T)：
+查看(V)
+工具（T）帮助（H）
+②打开数据库(0)
+浏览数据
+圃CATEGORY
+LOCAL ID
+过滤
+编辑杂注
+白写入更改（W) 执行SQL
+J
+SYS CATEGORY ID
+过滤
+6e93b0aeefcd418e8dda5d0a5f3... ee4215b807194b00978f417dd65... 90a47dedee5340ef8d839b5cb0e...
+4 5 6
+3ad1010c951041c08d327c8b9e5... 294dc3de9db847e9930477019d7... 99df8ed3ad2d48c9b914710c1e5... 9637a5eb2f924la3941b8f95fab...
+含倒退更改（R）
+迎
+USER GUID 过滤
+629075726b10cffe 29075726b10cffe 5
+打开工程（P) 属
+NAME
+过滤奖金工资
+29075726b10cffet
+购物消费
+4
+3
+29075726b10cffed 29075726b10cffed 2
+29075726b10cffed
+居家日常餐饮日常数码设备
+其他收入
+29075726b10cffec 0
+pe
+自保存工程（V）在所有列中过滤
+OLORHEX
+滤 F7648 F
+26958 F9391 PC9D7 FA726 5BD88 F7471 F
+ICONID 过滤
+5 4 3 2 1 1 1
+附加数据库（A)
+TAG NAMES 过滤
+ATTRIBUTE 过滤
+2 2 1 1 1 1 2
+×关闭数据库(C)
+ACCOUNTBOOKID
+过滤
+f5687fe516d4cadb7e4c486c4a.. f5687fe516d4cadb7e4c486c4a. f5687fe516d4cadb7e4c486c4a. f5687fe516d4cadb7e4c486c4a. f5687fe516d4cadb7e4c486c4a f5687fe516d4cadb7e4c486c4a.. f5687fe516d4cadb7e4c486c4a
+LOCAL_F 过滤

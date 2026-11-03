@@ -1,0 +1,117 @@
+# OCR: 9c43ea1858d2b858f869775212d3fc98.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/9c43ea1858d2b858f869775212d3fc98.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+Finalshell 4.5.12
+同步状态· IP 192.168.50.52
+系统信惠
+远行1:18
+费 0.35, 0.21, 0.16
+CPU
+8%
+内存35% 交族0% 内存
+CPU
+6.5M0.7sshd
+0.3| rcu_sched
+73.7M 79.9M
+0.3 dockerd 0.3/BT-Panel
++7488
++2408
+19K 13K 6K
+Oms o 0
+路径
+/dev
+/dev/shm/run
+/sys/fs/egroup
+/boot/home
+/var/lib/docker/overlay2/644c659../run/user/0
+Avar/lib/docker/overlay2/21b1da.. 离级版
+串
+1.3G/3.7G 0/7.9G
+ens33
+本机
+可用/大小 1.8G/1.8G 1.96/1.9G 1.8G/1.9G 1.9G/1.9G 32.3G/50G 863M/1014M 41.1G/41.1G 32.3G/50G 379M/379M 32.3G/50G
+C
+a
+8
+B1web×2NAS×+
+mask = 0600
+create
+browseable = No
+Lprintsi
+comment
+Drivers
+Printer
+path =
+/var/lib/samba/drivers
+write
+list
+force
+group
+create
+mask
+@printadmin root
+@printadmin 0664
+mask
+directory
+[my_share]
+comment
+0775
+shadowshare
+/var/samba/share
+path =
+public = no
+writable
+yes
+valid
+users
+browseable
+Froot@localhost
+shadowai yes
+j#rpm
+-g
+samba
+samba-4.10.16-25.
+.el7_9.x86_64
+[root@localhost
+文件/root
+.Recycle_bin
+bin boot dev etc home b 64 media mnt opt
+@
+P
+#
+中Tab路多/合Es
+文件名
+cache.config pip pki go
+ollama-offline  .bash_history[ .bash_logout 1 bash_profile
+.bashrc.cshrc.tcshrc
+回
+巴
+w
+K
+大小
+类型交美
+历更
+修改时间
+2025/10/21 14:16
+文件夹文性爽文性夹文性夹文件夹
+986 B BASH_HI_.
+2025/10/21 13:23 2025/10/21 14:16 2025/10/21 10:49 2025/10/21 13:20 2025/10/21 14:12 2025/11/09 10:53
+2013/12/29 10:26
+18BBASH_LO..
+176 B BASH_PR. 273BBashRC 100B CSHRC文 129BTCSHRC
+2013/12/29 10:26 2025/10/21 14:06 2013/12/29 10:26 2013/12/29 10:26
+6
+T
+极限 drwxr-xr-x drwxr-xr-x drwxr-xr-x drwxr--drwxr-xr-x drwxr-xr-x-W------w-F--f---w-f--f---w-r--f---w-r-----w-r--f--
+用户/用户组 root/root root/root root/root root/root root/root root/root root/root root/root root/root root/root root/root root/root
+1:0.25KB/s 1:0.19KB/s
+历史选项
+CPU: 25 %CPU: 内存：40%44°C
+A
+eoM中
+0
+x
+2025/1/9e 15:14

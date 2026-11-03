@@ -1,0 +1,15 @@
+# OCR: e521e39c9277d80257da10d2e5291975.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/e521e39c9277d80257da10d2e5291975.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+终端×+
+[root@localhostreports#ls
+http103.113.92.14582http192.168.11.6
+http192.168.11.5
+http192.168.11.7
+[root@localhostreports#
+http192.168.11.89 http194.156.99.132
+http45.207.37.188
+httpsapw.lingfengfem.com

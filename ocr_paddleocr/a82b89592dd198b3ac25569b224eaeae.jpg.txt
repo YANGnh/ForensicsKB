@@ -1,0 +1,27 @@
+# OCR: a82b89592dd198b3ac25569b224eaeae.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/a82b89592dd198b3ac25569b224eaeae.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+AES在线加密解密工具
+AES密码学中的高级加密标准（AdvancedEncryptionStandard，AES），又称Rijndael加密法，是美国联邦政府采用的一种区块加密标准。当用户密钥长度不足时，调用CryptoJS(128/192/256位）前不进
+行手动填充，采用框架自身机制，调用后台)ava(128位)前将以0进行填充。 tPbnK29ENaqgPANeD1Hud3KyiS4uf8oaSaOb6ldRDHs=
+44/999999
+编码密钥
+Base64 UTF8
+位数
+128位
+thisisyouraeskey
+JS处理结果(由cryptoJs 组件完成) Whosekeyaml?
+16B
+模式偏移量
+CBC Hex
+填充
+Pkcs7/Pkcs5
+0102030405060708096
+32B
+eAES-加a
+AES-a
+Q清控
+复制

@@ -1,0 +1,16 @@
+# OCR: e5000080a0a0fed32c0bfebd9c7130e9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/e5000080a0a0fed32c0bfebd9c7130e9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+noah@DESKT0P-8RM6G90 May1516:19:26kali May1516:19:26kali May15 16:19:26kali May1516:19:26kali May1516:19:26kali
+/m/d/j/daf7e906a0214e6c8e0a957ab4826c47[sIGINT]>journalct-D kernel:PM:hibernation:hibernationentry
+systemd-sleep[72o46]:Performingsleepoperation'hibernate' systemd-sleep[72o46]:Successfullyfrozeunit'user.slice'
+systemd[i]: starting systemd-hibernate.service - System Hibernate systemd[i]: Reached target sleep.target - sleep.
+May1516:19:26kaliNetworkManager[771]:<info>
+May
+15
+1619:26
+kaliNetworkManager[771]:<info>
+[1747297166.0786]device(eth0):statech[1747297166.0747]device(eth0):statech

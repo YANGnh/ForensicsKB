@@ -1,0 +1,31 @@
+# OCR: b2452c8f5f94aac496e1d9df57b627b5.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/b2452c8f5f94aac496e1d9df57b627b5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+导航器国主机
+管理监控
+虚拟机
+Openwrt&wireGuard
+监控
+品github&密钥服务器
+品渗透测试机病毒研发机
+更多虚拟机
+一目存储
+datastore2
+监控
+日datastore1
+监控
+更多存储
+@网络
+4 2
+2
+datastore2
+要注册虚拟机
+数据存储浏览器 datastore2
+类型：位置：主机：虚拟机：
+主增加容量
+C刷新 NFS
+危操作
+/vmfs/volumes/9af41fd8-941fbcd0 4

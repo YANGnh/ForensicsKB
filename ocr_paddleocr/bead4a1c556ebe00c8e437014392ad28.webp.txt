@@ -1,0 +1,19 @@
+# OCR: bead4a1c556ebe00c8e437014392ad28.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/bead4a1c556ebe00c8e437014392ad28.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+C o
+品名称 bin dev etc initrd lib
+media mnt proc run sbin sys tmp usr var init
+TMP
+园
+initrd~ 回
+排序
+修改日期
+查看V
+2021/9/155:44 2021/9/155:44 2021/9/155:44 2018/1/1719:14 2021/9/155:44 2018/1/1719:14 2018/1/1719:14 2018/1/17 19:14 2018/1/1719:14 2021/9/155:44 2018/1/1719:14 2021/9/155:44 2021/9/155:44 2021/9/155:44 2018/1/1719:14
+类型文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件
+大小
+1KB

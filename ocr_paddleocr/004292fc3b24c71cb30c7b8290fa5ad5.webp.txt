@@ -1,0 +1,42 @@
+# OCR: 004292fc3b24c71cb30c7b8290fa5ad5.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/004292fc3b24c71cb30c7b8290fa5ad5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+XMLView
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+List View
+<?xmlversion="1.o"encoding="uTF-8"?>
+<!DOCTYPEplistPUBLIC"-//Apple//DTDPLIST1.0//EN"http://wwW.apple.com/DTDs/PropertyList-1.0.dtd">
+<plistversion="l.o"> <array>
+<dict>
+<key>WFWorkflowActionIdentifier</key>
+<string>is.workflow.actions.gettext</string>
+<key>wFWorkflowActionParameters</key> <dict>
+<key>UUID</key>
+<string>1A56D08B-06B9-4179-82FA-077BEE728704</string> <key>WFTextActionText</key>
+<string>MTkyLiE2oc4xMzcuMiI=</string> </dict>
+</dict> <dict>
+<key>WFWorkflowActionIdentifier</key>
+<string>is.workflow.actions.base64encode</string>
+<key>wFWorkflowActionParameters</key> <dict>
+<key>WFInput</key> <dict>
+<key>value</key> <dict>
+<key>OutputUUID</key>
+<string>1A56D08B-06B9-4179-82FA-077BEE728704</stri1 <key>Type</key>
+<string>Actionoutput</string>
+<key>outputName</key> <string>文本</string>
+</dict>
+<key>wFSerializationTvpe</key>
+<string>wFTextTokenAttachment</string>
+Ctool
+base64X
+QCtool1,397
+常用
+加解密/签名
+校验
+编
+QBase64QURL编码
+OUnicodeJWT解码OHex
+MTkyLjE20C4xMzcuMil: 192.168.137.22

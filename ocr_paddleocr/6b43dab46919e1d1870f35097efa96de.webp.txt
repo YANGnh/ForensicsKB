@@ -1,0 +1,7 @@
+# OCR: 6b43dab46919e1d1870f35097efa96de.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/6b43dab46919e1d1870f35097efa96de.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+我手机里面有一个重要容器，密码是d7Avsd!Yu)J8i（1bnDD@<-o 还有服务器密码：M6gNFerD8YYu31g

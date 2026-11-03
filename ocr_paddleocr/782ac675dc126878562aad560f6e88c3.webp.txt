@@ -1,0 +1,13 @@
+# OCR: 782ac675dc126878562aad560f6e88c3.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/782ac675dc126878562aad560f6e88c3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+wxjzc
+w|Desktop|workspace|wxjzc_toolllevelTree
+pwsh>./ievelTree
+EVEE
+Author：wxjzc
+！请确保只有顶层用户的上级ID为空值，其他用户必须要有上级[+]请拖入文件，只包含id和上级id，以制表符分割，无需表头
+"F：|BaiduNetdiskDownload\2o24龙信杯lexports\1.txt V1处理完成，耗时0.029973268508911133秒

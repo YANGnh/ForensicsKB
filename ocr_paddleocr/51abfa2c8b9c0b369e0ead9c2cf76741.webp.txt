@@ -1,0 +1,39 @@
+# OCR: 51abfa2c8b9c0b369e0ead9c2cf76741.webp
+# 来源: ./01-取证技巧/99-培训记录/51abfa2c8b9c0b369e0ead9c2cf76741.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+o1oEditorPortable-E:\PangqushiCup)Samsung)data\systemlusers\O\settings_secure.xml
+File
+Edit
+Startup
+Search ownoa
+View
+Format
+Scripts
+Templates
+ownoacu6
+ABx2vvsettingsovvversion detaultsvssetl
+locationmode/T
+Tano
+sleep_timeout/-1/mandroid/ awareenabed/o/android/
+highpriority/com.android.systemu
+moc
+ocation/o/android/
+Debug
+Tools
+settingssecure.xmlx
+32/6
+androidid/9e6c9838dafe7ba0
+Window
+Help
+name
+android/9e6
+DEAMAAWADAAMAASAAOAIAAgACAAIAAgACAAI
+PBWAGEAVWBCAGEAWB
+AF8AbgBhAG0A
+wau
+0
+ADOA
+SAGWAcABhAHAAZOBVAF8AdAB5AHAAZOAiADOAIAAtADEALAAKACAAIAAgACAAIAAgACAAIAAiAHcAYOBsAGWACABhAHAAZOBVAF8AdAB5AHA

@@ -1,0 +1,11 @@
+# OCR: 29d2657dcdf184c53dfd25df3105db0d.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/29d2657dcdf184c53dfd25df3105db0d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+HypertextTransferProtocol
+PosT/index.phpHTTP/1.1lrln
+Content-Length:464Irln
+Host:sysmon.cs-corp.cd/rln
+User-Agent:Mozilla/5.0 (X11;Linux x86_64;rv:122.0)Gecko/26

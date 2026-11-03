@@ -1,0 +1,31 @@
+# OCR: f9c99d9193a460c25f7ffed7f992a57c.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f9c99d9193a460c25f7ffed7f992a57c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+区 Laixi -1.1.0.7
+区
+来喜
+v1.1.0.7
+946646827@qq.com
+常用设置
+当前选设备0台回热门工具(0)
+清理内存系统设置自动滑动通讯录管理话术
+官方中文
+VIP API 图
+工具箱
+口脚本视频教程
+锁屏
+修改电量分享设备翻译
+自定义常用工具
+我的快捷任务（0） bt截图存相册.bat 自动上滑脚本js 定时任务
+管理
++新建任务
+bat录屏存相册.bat
+(Ct+T)任务详情
+停止所选设备的ADB/脚本
+回其他功能(0)
+@TikTok养号?WhatsApp
+分组
+GGoogleRCS 国话术

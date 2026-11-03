@@ -1,0 +1,24 @@
+# OCR: 9b913b747d4e3d052d2d6f22f63ab967.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/9b913b747d4e3d052d2d6f22f63ab967.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+g
+端检材2良文件系统日志
+国啡座号 UG5 口G6 口G7 口G8 口G9 口G10 口G11 口G12 口13 口G14
+三文件（夹）名
+encryptfile.exe encrypt_file.exe encrypt_file.exe encrypt_file.exe encrypt_file.exe encrypt_file.exe
+ZbqsOaMFe+bpNVgo encryptfile.exe.exe ti_encrypt_file.exe.exe
+检材2.E01-分区7
+tj_encrypt_file.exe.exe
+三文件路径
+检材2.E01/分区7/Users/Administrator/AppData/Local/Temp/1/encrypt_file.exe 检材2.E01/分区7/Users/Administrator/AppData/Local/Temp/1/encrypt_file.exe 检材2.E01/分区7/Users/Administrator/AppData/Local/Temp/1/encrypt_ile.exe 检材2.E01/分区7/Users/Administrator/AppData/Local/Temp/1/encnypt_file.exe 检材2.E01/分区7/Users/Administrator/AppData/Local/Temp/1/encrypt_file.exe 检材2.E01/分区7/Users/Administrator/AppData/Local/Temp/1/encrypt_file.exe
+检材2.E01/分区7/Users/Administrator/AppData/Local/Temp/1/Zbqs0aMFe+bpNVgo
+检材2.E01/分区7/财务/encrypt_fileexe.exe 检材2.E01/分区7/财务/tj_encrypt_file.exe.exe 检材2.E01/分区7/财务/ti_encrypt_file.exe.exe
+非操作
+创理文件或目录：关试文件目录
+更改一个或多个文件或目录属性（例如只读隐源系统存档或稀疏属. 更改一个或多个文件或目录展性（例如只读隐微系统存档或稀疏质更改一个或多个文件或目录属性（例如.只读隐藏系统存档或稀疏属更改一个或多个文件或目录属性（例如只读隐就系统存档或桶疏属重命名文件或目录(I日文件名)
+重命名文件或目录(encrypt_file.exe->ZbqsOaMFe+bpNVgo)：关闭
+重命名文件或目录(I日文件名) 重命名文件或目录(新文件名)
+重命名文件目录(encryptfile.exe.exe->tj_encrypt_file.exe.exe)：...

@@ -1,0 +1,30 @@
+# OCR: 273feaf819560f5bc40601c78d3022d1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/273feaf819560f5bc40601c78d3022d1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+Docker 服务
+PassWall2
+DDNSTO远程控制易有云文件管理器 NasTools
+动态DNS(DDNS)
+硬盘体眠网络唤醒网络共享
+终编 UPnP
+网络存储
+玉网络退出
+>
+lrojan节启便用英生 VMess节点使用类型 VLESS节点使用类型 Hysteria2节点便用类型
+删除所有订阅节点
+手动订阅全部
+请输入订阅网址保存应用后再手动订阀
+备注
+vpn 添加
+sing-box
+xray xray
+hysteria2
+盈除所有订阅节点手动订阀全部
+54
+订阿网址
+https://pqic.site/api/v//client/subscrlbe7token=243c
+翻除已订阅的节点除已订阅的节点
+手动订阀手动订阀

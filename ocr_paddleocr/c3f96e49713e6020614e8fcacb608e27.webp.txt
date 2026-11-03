@@ -1,0 +1,23 @@
+# OCR: c3f96e49713e6020614e8fcacb608e27.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/c3f96e49713e6020614e8fcacb608e27.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+? <
+资源管理器/JFFS2-ROOT
+root Vetc
+Vdropbear
+dropbear_ecdsa_host_key dropbear_rsa_host_key 三known_hosts
+Vnetworklinterfaces.d
+etho vwebui
+#backup.conf fw_env.config
+$passwd spasswd-Eshadow 三shadow-vroot
+三.ash_history
+三重要password.txt
+frpc E frpc.ini
+password.txt
+三password.txt×
+root>root>password.txt
+1 2
+Qml0TG9ja2VyIFBhc3N3b3JkOiBMaXN0c3RAcXd1MTIz

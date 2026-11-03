@@ -1,0 +1,24 @@
+# OCR: f95c244d5eb75ef7f6993702ace2c73d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f95c244d5eb75ef7f6993702ace2c73d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+PROXMOXVirtualEnvironment8.1.4搜索
+文件夹视图
+数据中心 LXC容器》节点 V口虚拟机
+100(Router) 101(node1)
+102(node2) 103(node3)
+111(javaserver) 112(sqlserver)
+120(luck）
+>SDN >存储
+虚拟机102（node2）在节点pve上
+目概要 >控制台口硬件
+Cloud-Init
+选项安
+四?
+任务历史监视器
+图备份好复制 ③快照
+添加
+没有标记。移除
+用户群组/AP冷令牌 Lu2k@pve

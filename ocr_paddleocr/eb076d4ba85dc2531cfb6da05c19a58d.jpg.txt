@@ -1,0 +1,34 @@
+# OCR: eb076d4ba85dc2531cfb6da05c19a58d.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/eb076d4ba85dc2531cfb6da05c19a58d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+root@server
+j#Ls-al/data/backup
+total 264
+drwxr-xr-x drwxr-xr-x drWXF-Xr-X-w-F--r-1w---r-. drwxr-xr-x
+4 5
+1 2
+[root@server
+root
+root
+root root root root root/#
+root Foot Foot root root
+4096
+Feb17
+2023
+4096Apr
+10:57
+25
+4096Feb17
+eFeb
+253507 4096
+Feb Feb
+17 17 17
+2023
+database
+shop1.sgl
+2023
+2023 2023
+shop1.zip site

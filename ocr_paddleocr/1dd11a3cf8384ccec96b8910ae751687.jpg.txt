@@ -1,0 +1,38 @@
+# OCR: 1dd11a3cf8384ccec96b8910ae751687.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/1dd11a3cf8384ccec96b8910ae751687.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+火眼仿真取证4.3.8.2115
+创建虚拟机
+*磁盘或镜像：操作系统：
+?账户信息：虚拟机：共享目录：*生成位置：
+挂载磁盘完成
+Aisys.E01
+Debian GNU/Linux12(boakwom)
+暂未识别到用户信息 PVE虚拟机
+清选泽虚拟机共学目录
+E:IVirtual Machines)PC.raw
+磁盘配置自定义账户信启高级设置打开目录打开目录
+开始创建
+高级设置处理器
+处理器内核数：内存
+虚拟机的内存(M）：
+O 512MB8GB16GB 启动参数
+重置所有用户密码绕过Windows密码
+修复黑苹果重置pin密码
+网络配置
+桥接模式仅主机模式
+.
+NAT模式禁用网卡
+32GB
+8
+16384
+了
+vCPU MB
+64GB
+修复数据盘挂载安装vmtools 启用嵌套虚拟化
+取消
+确定
+x

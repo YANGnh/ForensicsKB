@@ -1,0 +1,51 @@
+# OCR: 38ce6197c2cf7407d1f54a8d7a91a9a9.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/38ce6197c2cf7407d1f54a8d7a91a9a9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+图应用列表（194/0）×
+控究来源应用应用列表
+应用列表应用列表应用列表应用列表应用列表应用列表应用列表应用列表
+删除
+a 标签
+图来源应用
+图标 0
+血利除恢复应用标识
+清除过减器
+com.air-matters,Cloak
+com.apple.AAUIViewService com.apple.AccessibilityUIServer
+com.apple.AccountAuthenticationDialog com.appleairplayreceiver
+com.apple_AMSEngagementViewService com.apple.appleseed.FeedbackAssistant
+com.apple.AppSSOUIService com.apple.AppStore
+：应用名称 Cape
+AAUIViewService AccessibilityUIServer
+版本 3.2.2
+1.0 1.0
+AccountAuthenticationDialog1.0
+AirPlayReceiver Apple媒体服务反馈
+AppSSOUIService App Store
+1.0 1.0 4.0 1.0 3.0
+应用安装包
+标带
+导出
+C重新载入
+private/var/containers/Bundle/Application/18FDC7F/Applications/AAUIViewService.app
+/System/Library/CoreServices/AccessibilityUIServer./Applications/AccountAuthenticationDialog-app/Applications/AirPlayReceiver.app
+/Applications/AMSEngagementViewService.app/Applications/Feedback Assistant iOS.app
+/Applications/AppSSOUIService.app/Applications/AppStore.app
+极要图标
+应用标识应用名称版本
+应用安装包
+权限数限安装时间更新时间程序类型档察路径
+共李群组来源应用来源文件
+com.air-matters.Cloak
+Cape 3.2.2
+private/var/containers/Bundle/
+Application/18FDC7F5-9E83-47A3-92
+Cioak.app User
+private/var/mobile/Containers/Data/ Application/0673D8E2-BC03-45F1-84 DE978C5CDB26
+[group.com.air-matters.cloak, / private/var/mobile/Containers/ Shared/AppGroup/76D24375-
+B4D6-42D6-80A1-4EDDFD417FEB) 应用列表
+private/var/containers/Bundle/
+Application/18FDC7F5-9E83-47:  Cloak.app

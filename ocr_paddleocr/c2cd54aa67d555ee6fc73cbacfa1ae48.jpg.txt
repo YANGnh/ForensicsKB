@@ -1,0 +1,32 @@
+# OCR: c2cd54aa67d555ee6fc73cbacfa1ae48.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/c2cd54aa67d555ee6fc73cbacfa1ae48.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+检材1 检材2 Besxi
+文件系统 esxi.E01 +分区10 十分区12 +
++
++ +
+分区13 分区14 core
+downloads
+log var
+vmware
+二分区15 二分区6 二分区8
++ESXi》文件分类
+esxi_nfs
+142794 164109 312 310 309 1 41 1 56 0 0 44 0
+8 161 6 18 2
+31376
+三序号 020 口21 口22 口23 口24
+详细信息
+esxi.E01/分区14/log
+■名称过滤
+vmkernel.log
+lacp.log hostd.log fdm.log vobd.log
+名称：hostd.log
+扩展名：log 类型：文件
+大小：1.08MB
+创建时间：2022-03-0413:04:19 访问时间：2022-03-0400:00:00 修改时间：2022-03-0415:19:58 MetaAddr:16950
+全路径：esxi.E01/分区14/log/hostd.log
+加密类型：未加密已删除：否

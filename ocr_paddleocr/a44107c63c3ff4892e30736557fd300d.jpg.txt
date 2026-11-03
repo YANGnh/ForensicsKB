@@ -1,0 +1,57 @@
+# OCR: a44107c63c3ff4892e30736557fd300d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/a44107c63c3ff4892e30736557fd300d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+V
+localhost
+MoneyLovers2
+main 表 V
+account_profile accounts
+android_metadata
+bill_unpaid bills
+budget_account budget_global budgetlabel budgets
+campaign_transaction
+campaigns categories currencies help_shift_faq
+help_shift_my_issue
+help_shiftmyissue_detail
+help_shift sections images
+interest_rate label
+label_account_excludes
+label_cate notifications
+people profiles
+recently_search
+recurring_transaction
+sms_banking tag_transaction tags
+transaction_people
+transactions users
+wallet_sync
+A
+视图 A-Z室弓
+对象打开表名
+设计表
+walltsync users transactions
++
+新建表
+transaction.people tags
+tag_transaction sms_banking
+recurring_transaction recently_search
+profles people notifications label_cate
+labelaccount_exludes label
+interest_rate images
+help_shift_sections
+helpshift_my_issue_detail
+helpshiftmy.jssue helpshift_faq
+currencies categories campaigns
+campaigntransaction budgets
+budget label budget.global budget_account bills
+bllunpaid
+android_metadata
+accounts accountprofile
+删除表（导入向导【导出向导
+有触发器
+有素引
+香是是是香是香是是香是是是是是香香香香香香香是是是是是是是香香香是香
+香香香香香香香香香香香香香香香香香香香香香香香香香香香香香香香香香香
+根页面 39 o 4 6 27 28 26 20 30 32 5 14 35 37 34 19 12 22 25 24 23 106 10 15 17 13 41 40 43 18 21 3 8 33

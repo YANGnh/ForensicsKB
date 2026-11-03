@@ -1,0 +1,29 @@
+# OCR: b71ba82c41f78adbc4fca07683e72c87.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/b71ba82c41f78adbc4fca07683e72c87.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+import pandas as pd
+#假设df是您的DataFrame，包含列：分局ID，案件时间，被骗金额
+#如果数据尚未加载，可先创建示例DataFrame（根据您的实际数据调整）
+df=pd.read_excel("o4-涉诈案件信息表.xlsx"）#1.转换时间列并提取年月信息
+df[案件时间']=pd.to_datetime(df[案件时间'])
+df["年月"]=df[案件时间'].dt.to_period("M"）#转换为Period对象，便于处理月度数据
+#2.过滤仅保留2024和2025年的数据
+df=df[df[案件时间'].dt.year.isin([2024,2025])]#3．按分局和年月分组，计算每月被骗总额
+monthly_sum=df.groupby[分局ID，年月'l)[被骗金额].sum().reset_index(）
+#4.为每个分局创建完整的2024-01至2025-12月份范围（确保所有月份均覆盖） branch_ids=df[分局ID'].unique()
+all_months=pd.period_range(start=2024-01',end='2025-12',freq='M")
+full index=pd.Multilndex.from_product([branch_ids,all_months],names=[分局ID'"年月")
+monthly_sum_indexed=monthly_sum.set_index([分局ID'，‘年月'])
+completesum
+fill_value=o).reset_index()
+=
+monthly_sum_indexed.reindex(fullindex
+#5.按分局和年月排序数据（确保时间顺序正确）
+complete_sum=complete_sum.sort_values(["分局ID'，年月'l）#6.计算环比增长率（当前月与上月相比的百分比变化）
+complete_sum[环比增长率"]=complete_sum.groupby(分局ID')["被骗金额
+'l.pct_change() * 100
+公众号：小谢取证
+#7.筛选环比增长率>30%的月份（注意：inf表示从0到正数的增长，视为大

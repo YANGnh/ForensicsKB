@@ -1,0 +1,12 @@
+# OCR: bacef2771a5c15b7ff70c751ef806b00.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/bacef2771a5c15b7ff70c751ef806b00.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+root@localhost:~lesxcfg-volume-m65efb8a8-ddd817f6-04ff-000c297bd0e6
+Mountingvolume65efb8a8-ddd817f6-04ff-000c297bdee6 rootlocalhost:~Ls/vmfs/volumes
+4dd27076-01edd2b2-1941-07438e67ddc8 65efb8a1-7ad39fd6-a105-000c297bd0e6
+65efb8a8-088f1414-cb5b-900c297bd0e6 65efb8a8-ddd817f6-04ff-000c297bd0e6
+datastore1
+de8b9d7b-3f13adcb-7847-79b624e90883

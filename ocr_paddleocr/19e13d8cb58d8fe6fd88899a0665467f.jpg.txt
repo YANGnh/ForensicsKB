@@ -1,0 +1,35 @@
+# OCR: 19e13d8cb58d8fe6fd88899a0665467f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/19e13d8cb58d8fe6fd88899a0665467f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+root@yourcodetmp#bt
+-宝塔面板命令行
+（8）改面板端口
+(1）(2）(3）(4）（5）
+重启面板服务
+停止面板服务启动面板服务重载面板服务修改面板密码
+修改面板用户名(6)
+（7）强制修改MySOL密码
+显示面板错误日志
+(22)
+关闭BasicAuth认证
+(23）
+关闭谷歌认证
+（9）清除面板缓存（10）清除登录限制（11）取消入口限制
+（12）取消域名绑定限制（13）取消IP访问限制（14）查看面板默认信息
+清理系统垃圾
+(15)
+修复面板（检查错误并更新面板文件到最新版）
+(16)
+（17）设置日志切割是否压缩
+(24)
+（25）设置是否保存文件历史副本（18）设置是否自动备份面板(0）取消
+请输入命令编号：14 正在执行（14）--
+BT-Paneldefaultinfo!
+外网面板地址：http://yourcode.xyz：22352/40899057 内网面板地址http//192.168.217.132：22352/40899057
+*以下仅为初始默认账户密码，若无法登录请执行bt命令重置账户/密码登录
+username3om1hxmd password:7fa03122
+If you cannot access thepanel
+releasethefollowing panelport[22352] in the securitygroup 若无法访问面板，请检查防火墙/安全组是否有放行面板[223521端口

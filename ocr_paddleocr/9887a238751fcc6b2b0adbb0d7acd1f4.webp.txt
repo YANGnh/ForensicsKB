@@ -1,0 +1,27 @@
+# OCR: 9887a238751fcc6b2b0adbb0d7acd1f4.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/9887a238751fcc6b2b0adbb0d7acd1f4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+详细信息
+名称：1c63e3e1c766ddc3a935e95e7b893934a42e605ddcc79057b6a807051d5616f2.0
+扩展名：0 类型：文件
+大小：29.72KB
+2025-09-2511:14:54
+创建时间：
+2025-09-2511:14:54
+访问时间：修改时间：
+2025-09-1722:22:42
+元数据地址：0 全路径：
+data/data/com.kongyubao.mifa/cache/imagemanagerdiskcache/1c63e3e1c766ddc3a935e9 5e7b893934a42e605ddcc79057b6a807051d5616f2.0
+加密类型：未加密已删除：否
+原类型视图
+文本视图
+十六进制视图
+i?m
+INTE.CORETS-446
+5R1QK3.20GHZ VIETNAM
+X5488507
+124:02
+X

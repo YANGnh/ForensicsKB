@@ -1,0 +1,14 @@
+# OCR: b162e9a9a6e6cb95c96cf60bb11028f2.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/b162e9a9a6e6cb95c96cf60bb11028f2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+[root@localhost #dockernetworkls
+NETWORKID
+ibcldebea3al 80153df49bf1 9aa78bf5bd7c hofu4x0el68z je969xqt7850 5dcoob6dc227
+NAME bridge
+docker_gwbridge host
+ingress mynet none
+DRIVER bridge bridge host overlay overlay null
+SCOPE local local local swarm swarm local

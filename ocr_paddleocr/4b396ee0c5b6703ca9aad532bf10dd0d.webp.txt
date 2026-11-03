@@ -1,0 +1,18 @@
+# OCR: 4b396ee0c5b6703ca9aad532bf10dd0d.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/4b396ee0c5b6703ca9aad532bf10dd0d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+ID
+C
+A
+数
+B
+可上级ID
+13557488297 19163906429 13979206204 18859654057
+77030006
+13977974419 13977974419 13977974419 15883144603 1010700700
+c 所处层级
+12 12 12 12 12
+D 下线层

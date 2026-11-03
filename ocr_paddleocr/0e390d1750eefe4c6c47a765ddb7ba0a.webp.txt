@@ -1,0 +1,21 @@
+# OCR: 0e390d1750eefe4c6c47a765ddb7ba0a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/0e390d1750eefe4c6c47a765ddb7ba0a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+名称
+DecryptionTool.exe
+办公室C:WindowslSystem32\cmd.exe
+修改日期
+2025/7/823:25
+办公室MicrosoftWindows［版本10.0.19044.1381] 四联系）（c）Microsoft Corporation。保留所有权利。
+C：\Users\Administrator|Desktop\软件>cerutil
+cerutil，不是内部或外部命令，也不是可运行的程序或批处理文件。
+类型
+应用程序
+大小
+13.291KB
+C:\Users\Administrator|Desktop|软件>certutil-hashfileDecryptionTool.exeMD5
+MD5的DecryptionTool.exe哈希： e829675d2cd181034eee06a6973a892e CertUtil：-hashfile命令成功完成。
+C:\Users\Administrator\Desktop\软件>

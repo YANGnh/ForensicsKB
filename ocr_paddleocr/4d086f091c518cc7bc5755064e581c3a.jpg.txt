@@ -1,0 +1,24 @@
+# OCR: 4d086f091c518cc7bc5755064e581c3a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/4d086f091c518cc7bc5755064e581c3a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+MySQL
+SQLServer
+MongoDB
+Redis
+PgSQL
+请在添加数据库后，务必到[计划任务页面添加定时备份任务，以确保您的数据安全。
+温馨提影
+添加数据库
+数据库名 ji-mei
+root密码
+请选择批量操作
+phpMyAdmin 用户名
+ji-mei 批量操作
+远程服务器
+密码
+企业增量备份
+JnzssCCsp2NCpcjA自
+同步所不

@@ -1,0 +1,25 @@
+# OCR: 7c58b8c62a27335964d29e1870b02f23.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/7c58b8c62a27335964d29e1870b02f23.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+名称
+A:/苹果手机lmage.zip)private\var/mobilelContainers)Data\Applicationl9C8EA98E-2553-4DFC-AC6D-D0BBB4157998)Documents/SBDB)
+大小
+Userlnfo.plist SBUserlnfo.db
+SBMeitu.db SBMedia.db
+productldentifiers.plist
+2702 12288 12288 36864 3869
+压缩后大小
+修改时间
+2024-05-220..
+2702
+12288
+2024-05-220...
+2024-05-220...
+12288
+36864
+2024-05-220...
+3869
+2024-05-220...

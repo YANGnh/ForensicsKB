@@ -1,0 +1,14 @@
+# OCR: 7f109d4fd05fda83735f4ef8d3476668.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/7f109d4fd05fda83735f4ef8d3476668.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+张磁盘阵列操作
+已停止.检测到不正常关机 A
+启动口维护模式加密状态：加密输入：密码：
+启动将使磁盘阵列联机
+维护模式-如果选中，则启动磁盘阵列但不挂载磁盘
+缺少密钥密码
+emZz5Yqg5a+GcG9vbOWvhumSpeaWh+S7tg== 重启将激活系统正常重启
+显示密码

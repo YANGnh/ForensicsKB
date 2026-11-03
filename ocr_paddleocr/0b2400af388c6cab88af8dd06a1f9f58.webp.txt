@@ -1,0 +1,17 @@
+# OCR: 0b2400af388c6cab88af8dd06a1f9f58.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/0b2400af388c6cab88af8dd06a1f9f58.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+图
+*新建文本文档.txt-记事本
+文件(F)编辑(E)格式(O)查看(V)帮助(H)
+MD5:1b31d0139c8d****aee24fa0a716dffe
+回
+新建文本文精树事者
+文件（F)
+看）禁助(H）
+编编（E)格式（O)
+IMG_20231129_164835.jpg
+MD5:1b31d0139c8dd668****4fa0a716dffe

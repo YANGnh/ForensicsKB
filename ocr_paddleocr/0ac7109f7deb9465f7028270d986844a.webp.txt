@@ -1,0 +1,34 @@
+# OCR: 0ac7109f7deb9465f7028270d986844a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/0ac7109f7deb9465f7028270d986844a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+念
+称：com.mhh.daytimeplaypreferences.xml
+展名：xml 型：文件小：937B
+建时间：2025-11-1116:05:24 问时间：2025-11-1116:05:24 改时间：2025-11-1116:05:24 数据地址：5841497
+路径：Nox5-disk2.vmdk/分区
+data/com.mhh.daytimeplay/sharedprefs/com.mhh.daytimeplaypref ences.xml
+密类型：未加密删除：否
+原类型视图
+文本视图
+十六进制视图
+l version='1.0'encoding='utf-8"standalone='yes'
+?xml <map
+Kstringname="DailyBackup">2025-11-11</string
+<stringname="szmm">20180818</string） <boolean name="初始密码”value="false”
+"daoyu”value-"true”
+Kbooleanname=
+Kstringname=
+"userAgree">true</string
+"xs">横屏</string
+Kstringname=
+<boolean name="sql lto2 bf"value="false"
+<stringname="HISTORYDATASLIST">￥2025-10-0818:28:3 <boolean name="异常备份”value="false”
+"EverNoShowGoSetPasswordKeyvalue="true
+<booleanname=”
+<stringname=”备份名称”>数据同步备份</string）
+Kbooleanname
+value="true”
+mmjm

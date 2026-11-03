@@ -1,0 +1,35 @@
+# OCR: 226fa679b04bff8692a2f29c91423df0.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/226fa679b04bff8692a2f29c91423df0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+192.168.2.200
+首页网站
+费FTP
+数据库 Docker
+园
+监控
+o
+PHP项目添加站点
+Java项目高级设置
+网站名会
+www.gsjksu2kig.com www.mtbtsdafda.com
+请选择批量摄作
+Node项目漏洞扫描0
+Go项目启动
+重启
+Python项目
+重载
+@nginx1.24.0
+状态会运行中运行中
+批量操作
+备份无备份无备份
+告警设置自需求反馈
+根目录
+反向代理
+HTML项目
+/www/wwwroot/www.gSJKsu2kig.com/www/wwwroot/www.mtbtsdafda.com
+其他项目
+日流量查看查着
+到期时间永久永久

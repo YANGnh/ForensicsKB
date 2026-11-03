@@ -1,0 +1,50 @@
+# OCR: b80c2670f2b3b004cd6c940196ff132e.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/b80c2670f2b3b004cd6c940196ff132e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+CY Orworkspaceiprintfidecyptpy Notepad++ [Administrator] 文练[
+浪置(m)
+编据(E)维军(S)
+工具(O)
+模要(V)
+编网(N)
+遵高()
+(M)
+运行(R)
+插件(P)
+宽口(w)?
+5028国8
+GH00
+ca.E
+oups-helper
+国decryptpy区
+国 12345.6789
+！/usr/bin/envpython3 decrypt_values.py
+import re, base64, urllib.parse, sys
+decrypt_value(v: str)-> str:
+def
+b64 -- v[: :-1]
+uri_dec - base64.b64decode (b64.encode ()).decode ) return urilib.parse.unquote(url_dec)
+10 133理55399
+Python file
+Bdef Eif
+deerypt_json_like(text: str) -> str: def repi (m) :
+inner-m.group(1)
+return f'(decrypt_value (inner))" return re.sub(r""({*")*?)."", repl, text)
+name"_main_"
+ir len(sys.argv)
+- 1 else open(sys.argv[1], encoding"utf8").read()
+text -sys.stdin.read0)
+print(decrypt_json_like(text))
+长牌：563
+行载：19
+1
+o
+公众号·小谢取证
+型1
+微置：1
+Unix (LF)
+UTF-8
+x INS

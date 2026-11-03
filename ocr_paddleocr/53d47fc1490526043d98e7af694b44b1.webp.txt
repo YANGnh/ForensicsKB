@@ -1,0 +1,42 @@
+# OCR: 53d47fc1490526043d98e7af694b44b1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/53d47fc1490526043d98e7af694b44b1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+由
+ResultPanel Key
+Search
+由由庄
++
+Filters
+InterfaceD rivers Interfaces
+(0493CFB4-0109-4E 4B-A211-E 07374750-E68B-490E-9330-9R(2AB1CDFC-2AF1-4DCD-8D18(2EE2C70C-A092-4D88-A654-9(2FE3BD5B-CA.4E-47CD-A1D0-(4F5522B7-521C-4CCF-B9D0-C(721BDD12-7EDE-4617-A.3CD-(8B5EF4F7-799E-47C2-B719-98(8DC5F331-1E11-4C7B-BF75-3(93123211-9629-4E04-82F0-EA(98FBEF20-C35D-42AC-97A9-7(B56A.35A.0-3514-416D-87A2-C(E3AC91D1-EE50-4E20-B9F9-3 Kernel
+Properties
+·(F51E09D9-D15A-4B9D-8457-E
+Kernel 由Properties
+白·(FA.0B0695-33A7-44BE-AC2A-0
+ Kernel
+Log
+Value
+IfType
+MediaType
+PhysicalMediaType abIfAlias
+ NetLuidindex  Characteristics abIfDescr
+ab ProtocolList FilterList
+ CurrentAddress PermanentAddress
+Type
+Type
+REGDWORD REG DWORD REG_DWORD REG_SZ
+REG DWORD REG_DWORD REG_SZ
+BEG MULTI... REG_BINARY REGBINARY BEGBINARY
+Value
+Data
+0x00000006 0x00000000 0x0000000E Etherneto 0x00008001 0x00000084
+Intel(R] 82574L Gigabit Network Connection
+RDMANDKTcpipMsLIdpTcpip6rspndrRasPppoeN 20 78 FD 3B 5C D6 1B 4C 9F EA 98 3A 01 96 39
+00 0C: 29 0F69.00 00 0C:29 0F 69 00
+Data
+Key Patl ROOT/ControlSet001/Control/NetworkSetup2)InterfacesV(E3AC91D1-EE50-4E20-B9F9-3F742336DB8E)Kernel
+loaded
+G:A2025盘古石杯晋级赛\exportISYSTEM

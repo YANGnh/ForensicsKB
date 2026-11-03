@@ -1,0 +1,27 @@
+# OCR: ca0d79e2cf21a772cf5d90269eb9d1d0.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/ca0d79e2cf21a772cf5d90269eb9d1d0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+5.8/5
+iSCSI TargetServercontrol
+Serveraddress: TargetID
+vdevo vdev1 vdev2 vdev3 vdev4
+127.0.0.1
+：3260
+Targetstoragename
+meiya_test_2 meiya_test_2 meiya_test_2 meiya_test_2 meiya_test_2
+max.connections:
+1000
+Start(sector)
+0 25728 1152 1152 1152
+StartisCSITargetserver
+Size(sectors)
+894826752 893386752
+24576 24576 24576
+e
+Connections
+Refresh
+×
+Close

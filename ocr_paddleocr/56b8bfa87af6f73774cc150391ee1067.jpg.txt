@@ -1,0 +1,13 @@
+# OCR: 56b8bfa87af6f73774cc150391ee1067.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/56b8bfa87af6f73774cc150391ee1067.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+状态系统主机名型号架构固件版本内核版本本地时间运行时间平均负载
+OpenWrt
+VMware.Inc.VMwareVirtualPlatfom
+AMDRyzen748oOHwithRadeonGraphics
+OpenWrtStableVersioncompiledbyeSir/LuClopenwrt-21.02branchgit-21.357.58218-b3cd473 5.4.154
+2024-08-31.07:09:14 oh19m57s
+0.00,0.00,0.00

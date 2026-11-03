@@ -1,0 +1,23 @@
+# OCR: efb6405371049ad756c3fba9d8da539f.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/efb6405371049ad756c3fba9d8da539f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+Wireshark ·追踪 TCP 流 (tcp.stream eq 65535) ·1.pcap
+SMBr
+MAN1.eNTLMe.12
+SMBr
+@
+PCNETWORKPROGRAM1.eMICROSOFTNETWORKS1.e3
+MICROSOFTNETWORKS3.e
+B6bBOWORKGROUP
+图图2
+A
+图
+LANMAN1.e
+LM1.2Xe02
+B6CE78FA1949
+0
+x
+SambaNTLAN

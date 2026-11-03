@@ -1,0 +1,19 @@
+# OCR: 93392741f6385e6cf748de29cafa9d53.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/93392741f6385e6cf748de29cafa9d53.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+FRAIDO P
+检材2-计算机，分.
+X
+2
+3
+Mousepad
+4
+Itseemsthattheprevioussessiondidnotendnormallv
+JDoyou
+Wanttorestoretheavailabledata
+Ifnot,allthisdatawillbelost
+No
+Yes

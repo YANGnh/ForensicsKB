@@ -1,0 +1,32 @@
+# OCR: 7b7ebf13aa643181a534672adf6bfa34.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7b7ebf13aa643181a534672adf6bfa34.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+PROXMOXVirtualEnvironment8.1.4
+搜素
+文件夹视图
+V数据中心 >LXC容器 >节点 V虚拟机
+100(Router) 101(node1)
+102(node2) 103(node3)
+111(javaserver） 112(sqserver） 120(luck)
+>SDN >存储
+虚拟机102(node2)在节点'pve'上
+概要控制台
+导硬件
+Cloud-Init
+格?
+选项
+任务历史监视器
+备份好复制?快照
+做快照名称
+没有标记。
+回滚
+snapshot1 现在
+编辑
+移除内存是
+日期/状态
+2024-03-1309:43:23
+说明
+安装好5个手机你在这里！

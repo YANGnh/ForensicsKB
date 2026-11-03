@@ -1,0 +1,7 @@
+# OCR: af14a845d9910e33c97782c2edb3dfce.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/af14a845d9910e33c97782c2edb3dfce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+播放页面。搞了个钱包，助记词老是要忘记掉怎么办，要不放在输入法里试试。

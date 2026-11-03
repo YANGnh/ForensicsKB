@@ -1,0 +1,28 @@
+# OCR: 2bcd89322ad751bd1ace6cfacdab4383.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/2bcd89322ad751bd1ace6cfacdab4383.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+droid@nodel:$itcontig
+doCKer0: f1ags=4099<UP,BR0ADCAST,MULTICAST>
+mtu1500
+inet 172.17.0.1  netmask 255.255.0.0 br0adcast 172.17.255.255
+ether 02:42:64:06:d9:d2 txqueuelen 0 (Ethernet) Rx packets 0 bytes 0 (o.0 B)
+Rx errors 0 dropped 0 overruns 0 frame 0 Tx packets 0 bytes 0 (0.0 B)
+Tx errors odropped o overruns o carrier o
+enp6s18：f1agS=4163<UP,BROADCAST,RUNNING,MULTICAST>
+collisionso mtu 1500
+inet 192.168.100.101 netmask 255.255.255.0 br0adcast 192.168.100.255
+inet6 fe80::be24:11ff:fe8c:9afe prefixlen 64  scopeid 0x20<link> ether bc:24:11:8c:9a:fe  txgueuelen 1000  (Ethernet)
+RX packets 16025  bytes 87729036 (87.7 MB) Rx errors o dropped ooverruns 0 frame 0 TX packets 8279 bytes 483327 (483.3 KB)
+Tx errors  dropped o overruns 0 carrier 0
+1o:f1ags=73<UP,L00PBACK,RUNNING>mtu 65536
+inet 127.0.0.1  netmask 255.0.0.0
+inet6 ::1  prefixlen 128 scopeid 0x10<host>
+looptxgueuelen 1ooo(Local Loopback) Rx packets 132 bytes 11603 (11.6 KB)
+Rx errors  dropped 0 overruns 0 frame 0
+packets 132  bytes 11603 (11.6 KB) TX
+carrier o
+Tx errors 0 dropped 0 overruns 0
+collisions 0 collisions 0

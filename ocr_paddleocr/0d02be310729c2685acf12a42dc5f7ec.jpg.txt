@@ -1,0 +1,9 @@
+# OCR: 0d02be310729c2685acf12a42dc5f7ec.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/0d02be310729c2685acf12a42dc5f7ec.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+[rootQlocalhost/J# find/-name
+.cap
+/root/tcpdumpt.i.cap/root/tcpdump2_tj.cap[rootelocalhostl#

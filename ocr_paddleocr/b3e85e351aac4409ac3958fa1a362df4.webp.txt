@@ -1,0 +1,18 @@
+# OCR: b3e85e351aac4409ac3958fa1a362df4.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/b3e85e351aac4409ac3958fa1a362df4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+ForensicsTool
+密钥计算数据库解密数据提取注册表分析关于
+请选择任务 file
+微信的EnMicroMsg.db
+G:/2025FIc晋级赛/export/EnMicroMsg.db
+开始
+password
+31ad809
+清空输出
+VEnMicroMsg.db解密成功，解密后数据库在源文件同目录下EnMicroMsq_dec.db +]成功提取到wxid【wxid_3zbo78gisqqf22】
+口
+>

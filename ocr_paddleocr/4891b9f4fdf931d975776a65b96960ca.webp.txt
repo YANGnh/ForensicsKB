@@ -1,0 +1,16 @@
+# OCR: 4891b9f4fdf931d975776a65b96960ca.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/4891b9f4fdf931d975776a65b96960ca.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+1009.jpg a 1016.jpg
+1023.jpg
+1010.jpg 1017.jpg S id cards info.xl
+Sx
+1011.jpg 1018.jpg S sid cards info
+xlsx
+1012.jpg 1019.jpg
+1013.jpg 1020.jpg
+1014jpg 1021.jpg
+1015.jpg 1022.jpg

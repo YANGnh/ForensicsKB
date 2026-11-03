@@ -1,0 +1,26 @@
+# OCR: 459e16e252efbddfba83f575df3d7577.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/459e16e252efbddfba83f575df3d7577.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+vmwareEsxi
+导航器国主机
+管理监控
+虚拟机存储
+t10.ATA
+更多存储.
+更网络
+vMware.
+2
+月localhost.localdomain-存储
+数据存储
+适配器
+扫新建数据存储名称
+设备
+国增加容量
+永久内存
+电注册虚拟机
+数据存储浏览器
+刷新
+操作驱动器类型

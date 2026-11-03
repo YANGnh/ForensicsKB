@@ -1,0 +1,37 @@
+# OCR: 2c9dfac9d80d9f2ccc80cb08235c873c.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/2c9dfac9d80d9f2ccc80cb08235c873c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+Eot01
+D基本信息园设备信息
+Wi-Fi连接记录
+移动热点应用列表
+应用申请权限
+国国
+图片
+文档文件缩略图
+SIM卡使用记录
+系统日志 BApp分析品
+Bot02
+基本信息
+o
+弯克浏览器
+品App分析
+22/2471 22/2372
+4 1 1 76 1965 69 211
+22/22
+1 22 99
+21/2596 10/2414 11/25 157
+g
+Bot01>
+三序号口1 口2 口3 口4
+D
+基本信息》
+三名称过滤
+操作系统
+操作系统版本 Android ID 厂商
+设备信息局
+三内容过滤 Android 9
+52ae067768e09e98 unknown

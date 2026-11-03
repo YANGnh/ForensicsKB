@@ -1,0 +1,28 @@
+# OCR: 80bf20df9306f793479793083b72276a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/80bf20df9306f793479793083b72276a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+>本地磁盘(C:)>用户>Luck >AppData >Local >stable-diffusion-webui
+此电脑
+口
+★ ★ ★
+64. 2.4
+名称.git-github
+_pycache_ config_states configs
+embeddings extensions
+extensions-builtin html
+javascript localizations models modules output
+repositories
+scripts test
+textual_inversion_templates
+tmp venv
+.eslintignore.eslintrcjs
+.git-blame-ignore-revs
+修改日期
+2024/3/1222:19 2024/3/1222:19 2024/3/1223:37 2024/3/1223:43 2024/3/1222:19 2024/3/1222:19 2024/3/1223:45 2024/3/1222:19 2024/3/1222:19 2024/3/1222:19 2024/3/1222:19 2024/3/1223:43 2024/3/1223:06 2024/3/1410:24 2024/3/1223:36 2024/3/1223:43 2024/3/1222:19 2024/3/1222:19 2024/3/1223:45 2024/3/1415:17 2024/3/1222:19 2024/3/1222:19 2024/3/1222:19
+类型文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹
+ESLINTIGNORE... JavaScript文件 GIT-BLAME-IGN..
+大小
+1KB 4KB 1KB

@@ -1,0 +1,8 @@
+# OCR: c4f99842dae5144ea83ceaa67e90da5f.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/c4f99842dae5144ea83ceaa67e90da5f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+FastPwds.txt function.php goon2_lin goon2 lin.zip
+PwnKit-Exploit-main.zip rest

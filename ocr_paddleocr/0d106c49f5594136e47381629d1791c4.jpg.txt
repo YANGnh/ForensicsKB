@@ -1,0 +1,14 @@
+# OCR: 0d106c49f5594136e47381629d1791c4.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/0d106c49f5594136e47381629d1791c4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+费用明细
+输入输出数量
+0.07364352BTCL0.07358247BTC 手续费
+0.00006105BTC($3.71) 费率
+54.63聪/虚拟字节有效费率
+54.903聪/虚拟字节
+最佳
+CPFP

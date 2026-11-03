@@ -1,0 +1,18 @@
+# OCR: 9e50018a77de9e31c906dcf43a507b0c.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/9e50018a77de9e31c906dcf43a507b0c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+园名称
+A:/三星手机//mage.zip)data\data\com.vmos.pro\osimg/r/oto2\dataldatalcom.quark.browser/databases)
+大小
+recentwebsite.db
+bass local storage.db
+filestorage.db bookmark.db camera_history utdid.db
+appworker_ut.db-journal OAID.db
+ recent tools.db  web_novel info.db
+20480 20 480 20480 20480 20 480 20480 16928 16384 16384 16384
+压缩后大小 20480 20480 20480 20480 20480 20480 16928 16384 16384 16384
+修改时间
+2024-05-22 1. 2024-05-221. 2024-05-221. 2024-05-221. 2024-05-221. 2024-05-221. 2024-05-221. 2024-05-221. 2024-05-221. 2024-05-221.

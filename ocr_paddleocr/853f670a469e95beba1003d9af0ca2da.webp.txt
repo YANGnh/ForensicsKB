@@ -1,0 +1,25 @@
+# OCR: 853f670a469e95beba1003d9af0ca2da.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/853f670a469e95beba1003d9af0ca2da.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+url
+field1
+2http://...
+field2
+username admin
+field3 password admin
+field4 httpRealm
+field5
+formAction... http://...
+guid
+field6
+fd4c1c708-2d04-4702-bf74-...
+timeCreated
+1746776773360
+field7
+field8
+timeLastUsed 1746776773360
+fieldg
+timePassw... 174677677...

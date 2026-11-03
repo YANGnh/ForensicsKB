@@ -1,0 +1,20 @@
+# OCR: 355be04d348e649474391b70863cd209.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/355be04d348e649474391b70863cd209.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+QLocalSend
+LocalSend
+接收发送
+安
+设置
+登录系统后自动启动程序静默自肩：只启动托盘服务
+接收
+快速保存保存目录自动完成
+保存到历史记录
+网络服务器
+C
+设置(下载)
+口
+×

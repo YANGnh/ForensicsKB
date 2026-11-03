@@ -1,0 +1,13 @@
+# OCR: 25beea1a431d46d965bad8eadb981f91.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/25beea1a431d46d965bad8eadb981f91.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+Lrootelocalhost
+开
+bt
+EEEOEEEEEEEEEEEEEEL
+(5)
+123456
+b2zobisy 123456

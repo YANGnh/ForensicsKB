@@ -1,0 +1,28 @@
+# OCR: 30eeab4033b1788593cdbaeb4a651810.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/30eeab4033b1788593cdbaeb4a651810.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+ISmartFridge.bin 口文件名称一
+口.
+(根目录）
+口
+SmartFridge.bin (1)
+face1.jpg
+卷
+■文件
+国预览
++回详细
+缩略图
+了描述存在的存在的存在的，…
+时间轴
+?文件类型
+bin lipg
+丫路径
+SmartFridge.bin
+三图例说明看器组文本
+养
+店
+0分钟以前
+盘古石杯贾韦码

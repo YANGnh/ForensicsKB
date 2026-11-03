@@ -1,0 +1,19 @@
+# OCR: 88adda24f0bdbae25aee512bcdc58ce5.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/88adda24f0bdbae25aee512bcdc58ce5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+对象
+息开始事务 id
+user@main（kuma)-表
+自文本筛选三排序
+导入尽导出数据生成咖创建图表
+username admin
+password
+$2a$10SA1uikR1M8trohKNRg24ojew8pl2WXi9Rg7NriLHHInB33RloLAxYa
+active
+timezone 1(Null)
+twofa_secret(Nulh)
+twofa_status
+twofalasttoken o(Null

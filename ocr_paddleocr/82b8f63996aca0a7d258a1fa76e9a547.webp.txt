@@ -1,0 +1,12 @@
+# OCR: 82b8f63996aca0a7d258a1fa76e9a547.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/82b8f63996aca0a7d258a1fa76e9a547.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+vcsa-VMwareWorkstation
+此平台不支持虚拟化的IntelVT-x/EPT。
+不使用虚拟化的IntelVT-x/EPT，是否继续？
+是(Y)
+香(N)
+X

@@ -1,0 +1,22 @@
+# OCR: 6cb82f4c3c87072e02f46d0286a8b539.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/6cb82f4c3c87072e02f46d0286a8b539.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+属性：linux 引导设置
+Containerizationmethod chroot
+Containerizationoptions 发行版GNU/Linux
+Debian 架构 armhf
+发行版GNU/Linux版本
+bookworm 源地址
+http://ftp.debian.org/debian/
+安装类型镜像文件
+安装路径
+S(EXTERNAL_STORAGE)/UUID
+镜像大小（单位：MB） 25000
+文件系统 ext4
+用户名 android
+用户密码 99c26da5
+特权用户
+android:aid_inet android:aid_sdcard_rw android:aid_graphics 本地化

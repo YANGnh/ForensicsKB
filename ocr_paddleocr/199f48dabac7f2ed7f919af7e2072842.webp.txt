@@ -1,0 +1,25 @@
+# OCR: 199f48dabac7f2ed7f919af7e2072842.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/199f48dabac7f2ed7f919af7e2072842.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+图形视图
+表格视圈个
+名称
+Account.db
+/data/data/com.sec.android.app.myfiles/databases
+路径
+data/data/com.sec.android.app.myfiles/databases/Account.db
+Account.db-shm Account.db-wal FileCache.db
+FileCache.db-shm FileCache.db-wal Filelnfo.db
+Filelnfo.db-shm Filelnfo.db-wal Frequency.db
+Frequency.db-shm Frequency.db-wal Homeltem.db
+Homeltem.db-shm Homeltem.db-wal OperationHistory.db
+OperationHistory.db-shm OperationHistory.db-wal
+data/data/com.sec.android.app.myfiles/databases/Account.db-shm data/data/com.sec.android.app.myfiles/databases/Account.db-wal data/data/com.sec.android.app.myfiles/databases/FileCache.db
+data/data/com.sec.android.app.myfiles/databases/FileCache.db-shm data/data/com.sec.android.app.myfiles/databases/FileCache.db-wal data/data/com.sec.android.app.myfiles/databases/Filelnfo.db
+data/data/com.sec.android.app.myfiles/databases/Filelnfo.db-shm data/data/com.sec.android.app.myfiles/databases/Filelnfo.db-wal data/data/com.sec.android.app.myfiles/databases/Frequency.db
+data/data/com.sec.android.app.myfiles/databases/Frequency.db-shm data/data/com.sec.android.app.myfiles/databases/Frequency.db-wa data/data/com.sec.android.app.myfiles/databases/Homeltem.db
+data/data/com.sec.android.app.myfiles/databases/Homeltem.db-shm data/data/com.sec.android.app.myfiles/databases/Homeltem.db-wal data/data/com.sec.android.app.myfiles/databases/OperationHistory.db
+data/data/com.sec.android.app.myfiles/databases/OperationHistory.db-shm data/data/com.sec.android.app.myfiles/databases/OperationHistory.db-wal

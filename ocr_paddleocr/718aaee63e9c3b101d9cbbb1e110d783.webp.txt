@@ -1,0 +1,18 @@
+# OCR: 718aaee63e9c3b101d9cbbb1e110d783.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/718aaee63e9c3b101d9cbbb1e110d783.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+详细信息
+名称：IMG0092.JPG
+扩展名：JPG 类型：文件大小：1.41MB
+创建时间：2025-11-0708:28:05 访问时间：2025-11-0708:28:05 修改时间：2025-09-2609:34:32 元数据地址：0
+全路径：data/media/0/DCIM/IMG0092.JPG
+MD5:25DEF5E31002F14894ADEF17D585A51D
+加密类型：未加密已删除：否
+原类型视图
+文本视图
+十六进制视图南昌西站 anchangxi RailwayStatior
+国
+出站（西） WestExit

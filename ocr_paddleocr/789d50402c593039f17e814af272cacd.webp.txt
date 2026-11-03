@@ -1,0 +1,19 @@
+# OCR: 789d50402c593039f17e814af272cacd.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/789d50402c593039f17e814af272cacd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+周宇PC.E01（421205）操作系统（101223）Windows（101223）最近运行过的程序（302）EXE进程运行记录WindoWsPrefetchl（299）
+序号 2 3
+进程名称 DOUBAO
+x
+DOUBAO INSTAL.. DOUBAO.EXE-9B2.. DOUBAO.EXE-435..
+进程位置点此过滤
+运行次数点此过滤
+1 1
+最近运行时间（1）点此过滤
+2025/04/08 21:20:11 2025/04/08 21:20:11 2025/04/08 21:20:11
+最近运行时间（2）点此过滤
+最近运行时间（3）点此过滤
+最近运点此过

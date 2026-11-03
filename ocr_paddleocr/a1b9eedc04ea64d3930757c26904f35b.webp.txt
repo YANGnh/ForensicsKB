@@ -1,0 +1,7 @@
+# OCR: a1b9eedc04ea64d3930757c26904f35b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/a1b9eedc04ea64d3930757c26904f35b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+我是老陈，陈浩北一个geeker，dotaer。平时写代码欢迎github给我点follow。该博客已停用。据盾螺旋理论，煮泡面时放调料的顺序决定了宝

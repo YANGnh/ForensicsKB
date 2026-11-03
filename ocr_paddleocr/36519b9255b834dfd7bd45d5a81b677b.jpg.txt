@@ -1,0 +1,47 @@
+# OCR: 36519b9255b834dfd7bd45d5a81b677b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/36519b9255b834dfd7bd45d5a81b677b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+C
+不安全192.168.8.16:3000/home
+更新你的Rocket.Chat新版本可用(6.7.1)
+回
+Omnichannel 通
+G#general 6解息
+8
+rocket.cat
+Drocketchat
+区国
+Home
+欢迎来到MoneyMoney
+Someideastogetyoustarted 添加用户
+Invite and add members to this workspaceto start
+communicating 用户
+Desktopapps
+InstaRocket.Chatonyourpreferreddesktopplatform.
+Windows
+tinuo
+Mac
+Createchannels
+Createa public channel that new workspace
+members can join. CreateChann
+Documentation
+A
+Q授发 Joinrooms
+Discover public channels andteams in the
+workspace directory Opendirectory
+oNotvhfohefoweriespecr
+Learn howto unlock the myriad possibilities of RocketChat Seedocumentation
+名：
+Mobileapps
+中
+画
+日 x
+定制
+Take Rocket.Chat with you with mobile applications
+GooglePlry
+AppStore
+Admins may insert content htmt to be rendered in this white space
+izeconten

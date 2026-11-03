@@ -1,0 +1,12 @@
+# OCR: e5cb2b3126d944129f554fd1b8c3fd75.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/e5cb2b3126d944129f554fd1b8c3fd75.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+田白
+Map Network Drive MRU
+MenuOrder Modules
+MountPoints2
+##192.168.188.1#NA.S##192.168.8.1#shares
+(100726c8-0000-0000-0000-1000 电

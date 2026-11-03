@@ -1,0 +1,29 @@
+# OCR: a13ca65695a2a821ba61834a7b8decc7.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/a13ca65695a2a821ba61834a7b8decc7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+Q
+樊海锋
+主界面
+选项
+文件名称(N): 包含文本(C)：查找位置(L)：大小(kB)
+名称
++ 日期
+美海锋
+C:Users|32622)Desktop/2024精武杯
+0 位置
+12306精子1.txt
+CAUsers)326..2024精武杯
+大小匹配 184KB1
+类
+修改日期
+摘要
+晚于：
+匹配
+今天
+报告
+C:IUsersi32622Desktop/2024错武杯112306子1.txt（184KB2023-02-1412:00:46)
+156
+727875584@pp.com-fan789poi-—樊海罐-142702******3654--a727615584-186***7774

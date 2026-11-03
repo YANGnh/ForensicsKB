@@ -1,0 +1,39 @@
+# OCR: c5ca8e532d0601119ff92d89e5943a19.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/c5ca8e532d0601119ff92d89e5943a19.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+Datacenter_Pgscup
+摘要
+监控
+配置
+问题与警报>所有问题√ 所有问题
+上一页
+问题
+下一页
+权限
+确认
+：操作
+主机和集群
+重置为绿色
+虚拟机
+esxi3.pgs.cup:ESXiVASA客户端证书置备失败
+esxi2.pgs.cup:主机连接和电源状况 esxil.pgs.cup:主机连接和电源状况
+ClusterPguscup:vSAN性能服务警报"性能服务状态”
+ClusterPuscup:vSAN网络警报"主机已从VC断开连接”
+数据存储类型
+已触发的警报
+已触发的警报
+已触发的警报
+已触发的警报
+已触发的警报
+网络
+更新触发时间
+2025/06/0915: 52
+2025/06/0915 51
+2025/06/0915: 51
+2025/05/2016: 02
+2025/05/2016: 02
+状态警示
+警示警示警告警示

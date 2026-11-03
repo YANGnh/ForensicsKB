@@ -1,0 +1,39 @@
+# OCR: 403c982b3e1ea18af5aa7bad1a30914e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/403c982b3e1ea18af5aa7bad1a30914e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+VeraCrypt
+加密卷(V)
+盘符 Bs: T: BU V: Bw. Ex: BY:-Z:
+系统(Y)
+加密卷
+收藏()
+工具（O)
+设置(G)
+帮助(H)
+大小加密算法
+为\Device\HarddiskO\Partition3输入密码
+密码：
+PKCS-5PRF: 新的卷：PIM：
+创建加密卷（C) 加密卷
+V VeraCrypt
+2025=(20+25)^2 自动检测
+x
+主页(联网）(P) 类型
+确定取消
+（留空或输入0以使用默认迭代参数）
+在内存中缓存密码和密钥文件(A) 显示密码(D)
+口使用密钥文件(S)
+加密卷属性(X).
+(Device\HarddiskO\Partition3
+从不
+加(M)
+VeraCrypt-加载选项
+口以只读模式加载加密卷（O) 口加载加密卷为可移动介质（M)
+率销文件(K).
+加载选项(A...
+擦除缓存(W) 选择文件(F).
+确定取消
+使用嵌入在卷中的备份头信息（如果有可用的）（V） √以非预启动验证方式加载使用系统加密处理的分区（U) 口仅创建虑拟设备而不加载在选定的盘符上

@@ -1,0 +1,52 @@
+# OCR: 6785f99da1f3c0d2a33708b22f8fac4b.webp
+# 来源: ./01-取证技巧/04-隐写文件/6785f99da1f3c0d2a33708b22f8fac4b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+ooooh: 0010h: 0020h o030h: 0040h: o050h： 0060h: 0070h: 0080h: o09oh: OoAoh: ooBoh: oocoh: OoDOh：
+0 89
+50
+2 4E
+0000
+02
+9E 49 9D EC E1 08 7E AB Fo 19 68 BE
+00 72 9D 5E 77 Eo 9C FA Fo 20 EA 3E
+01 1F D7 52 C9 12 3E 9C 9F 40 66 1A
+47 98 00 8A EE A2 F4 24 A7 D3 BB 15 6F 8D
+4 OD 00 00 FD 62 DD 99 C8 CE A7 47 00 6F 00
+5 OA 00 49 DC 81 6B 1F DD A3 1F 84 D1 EE 06
+6 1A 02 44 23 05
+F4 05 AA 33 07 F4 DE co
+7 OA 98 41 B2 76 7D 4D 76 32 8B FD E8 BD EC
+8
+A
+00 Do
+00
+08 54 AA 81 90 BA 07 C3 98 9F 68 3B 98
+02 78 CE 5D
+A2 3B 5D 33 7F 32 93 89
+00 9c B3 10 4D 68 33 1F D9 F6 59 c9 19
+B
+C
+D
+E
+F
+484452
+OD
+49
+00 EC DF 24 1F A4 3B 3c 55 FE 03 64 22
+00 FD 3D 61 25 49 EE 22 59 20 B4 7D D2
+58 EB D3 B8
+24 99 32 99 85 69 7D 34
+1E 53
+B3 3D 26
+1 EE 2A F1 02 82 B2 4A
+24 CE 13 2F 17 9E 33 Fo 8E 68 BE 0o
+0123456789ABCDEF
+...IHDR
+PNG....
+.
+...
+..XS.
+z....IDATxiye"s Ir.syu#:-f-B-0-1..xib..v.l.sa,&. i^RoYk4).tM.g"é/ awEOmOMochHISA..a.sEY.V.;3;ii2 ~0>SIE2A.<"2*3 tice0s.3<"3UUYn6 6YG..YY.oY...2@..Noeh2Y.'i,h hefoo红客突出队 00.0A1-.m0450

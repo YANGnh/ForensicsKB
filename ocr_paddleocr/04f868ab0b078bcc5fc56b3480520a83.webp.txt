@@ -1,0 +1,32 @@
+# OCR: 04f868ab0b078bcc5fc56b3480520a83.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/04f868ab0b078bcc5fc56b3480520a83.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+g 三URL 过滤
+Image.zip>
+.hm.baidu.com www.baidu.com www.baidu.com 192.168.10.104 192.168.10.104 192.168.10.104.miao.baidu.com.miao.baidu.com
+Safari>
+Y
+Cookie 三名称过滤
+HMACCOUNT MSAWH
+COOKIESESSION
+username password
+rememberMe
+ab_jid ab_bid
+三值过滤
+B674C57A6AA15EA9 390664
+00000000000001742. qianduoduo
+dg20/XVZKSmJKZn18XkA3nugs1.. true
+992c29ea029c4679e9d223ec190.. 4679e9d223ec190c6cff2764fd90..
+在Cookie中搜索三创建时间
+起始
+结束
+2024-10-2410:48:14 2025-03-1714:24:07 2025-03-17 14:24:07 2025-05-1622:44:39 2025-05-16 22:44:39 2025-05-16 22:44:39 2025-04-2111:28:24 2025-04-2111:28:24
+Q
+高级
+三最后访问时间
+起始
+结束
+设置列

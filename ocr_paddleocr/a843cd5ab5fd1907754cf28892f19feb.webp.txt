@@ -1,0 +1,31 @@
+# OCR: a843cd5ab5fd1907754cf28892f19feb.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/a843cd5ab5fd1907754cf28892f19feb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+0 6
+0
+口
+三序号
+口20 □21 口22 口23 口24 25 口26 口27
+PC.E01/分区7/vCsa
+三名称过滤
+vmware-2.log ymware-1.log vmware-0.log
+vcsa.vmxf vcsa.vmx vcsa.vmsd
+ycsa.scoreboard vcsa-disk17.vmdk
++ Y
+三大小等于
+149.60... 179.49... 1.45MB 259B 5.66KB 68B 7.46KB 29.75..
+三创建时间
+起始
+结束
+2025-05-20T5:51:27 2025-05-20.15:57:56 2025-05-20 16:12:36 2025-05-20 15:51:27 2025-05-20 16:21:31 2025-05-2015:51:27 2025-05-2016:13:12 2025-05-2015:47:22
+三修改时间起始
+结束
+2025-05-20 T5:32:10 2025-05-2016:10:52 2025-05-20 16:12:37 2025-04-30 21:15:58 2025-05-20 16:21:31 2025-05-2015:08:52 2025-05-2016:21:30 2025-05-20 16:13:41
+三全路径过滤
+在vcsa中搜索
+PC.EU1/分区7/vcsa/vmware-2.log PC.E01/分区7/vcsa/vmware-1.log PC.E01/分区7/vcsa/vmware-0.log
+PC.E01/分区7/vcsa/vcsa.vmxf PC.E01/分区7/vcsa/vcsa.vmx PC.E01/分区7/vcsa/vcsa.vmsd
+PC.E01/分区7/vcsa/vcsa.scoreboard PC.E01/分区7/vcsa/vcsa-disk17.vmdk

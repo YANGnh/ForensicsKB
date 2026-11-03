@@ -1,0 +1,19 @@
+# OCR: 238313723dcedf7aa384b9fae0ece93f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/238313723dcedf7aa384b9fae0ece93f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+onfig
+interface
+"myvpn
+option
+proto
+"wireguard'
+'SLkCLyRhrkWIFgJWfEdoB7s99FYWJf9PUV+scj3Vw3U=
+private_key
+option
+listen_port5182o'
+option
+listaddresses
+114.122.133.144'

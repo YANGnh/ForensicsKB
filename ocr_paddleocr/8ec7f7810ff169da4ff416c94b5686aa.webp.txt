@@ -1,0 +1,51 @@
+# OCR: 8ec7f7810ff169da4ff416c94b5686aa.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/8ec7f7810ff169da4ff416c94b5686aa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+检材1-手机.tar/datamisc/recovery/proc 文件名称一
+=recovery(o)
+proc(o）
+version version.1
+一卷 offset 00000000 00000016 00000032
+文件 0
+4c 31 36
+1
+69 34 20
+回预览
+2 6E 2E 28
+3 75 31 62
+回详细
+4 78 38 75
+5
+20 36 69
+口缩略图
+7 6
+65 76
+2D 6c
+67 64
+时间轴
+8
+72 38 65
+9 73 34 72
+10
+69 34 40
+了描述存在的存在的存在的存在的
+?文件类型 1
+图例说明
+11
+6F 66 70
+12 6E 64 61
+13 20 31 6E
++
+15 14
+34 39 67
+2E 63 75
+了路径
+检材1-手机.taridatamisc
+检材1-手机.tar/data\misc\recc 检材1-手机.tar/data)misc/recc 检材1-手机.tar/data\misc/recc
+同步
+UTF-8
+Linux version 4. 14.186-g844fd19c
+(builder@pangu

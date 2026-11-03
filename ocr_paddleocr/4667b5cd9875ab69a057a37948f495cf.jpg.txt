@@ -1,0 +1,32 @@
+# OCR: 4667b5cd9875ab69a057a37948f495cf.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/4667b5cd9875ab69a057a37948f495cf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+(kalikali)-[~/Desktop $ifconfig
+f1ags=4163<UP.BROADCASTRUNNING,MULTICAST>
+etho:
+inet 192.168.200.10
+mtu1500
+netmask255.255.255.0
+1net6fe80::20c:29ff:fe2b:473f ether00:0c:29:2b:47:3f
+broadcast192.168.200.255
+prefixlen 64
+txqueuelen1000
+Rxpackets0bytes0(o.0B)
+Rxerrors0droppedoverruns0
+scopeid0x20<link>
+(Ethernet)
+frame 0
+TXpackets672bytes40542(39.5KiB)
+Tx errors 0dropped  overruns 0
+carrier0
+loflagS=73<UP,LOOPBACK,RUNNING>
+mtu65536
+inet 127.0.0.1.netmask255.0.0.0
+inet6 :1prefixlen 128scopeid 0x10<host>
+looptxqueuelen 1ooo(Local Loopback) Rxpackets 449bytes42414 (41.4KiB）
+Rxerrorsdroppedoverrunsframe0 TXpackets449bytes42414(41.4KiB)
+collisions 0
+Tx errors 0dropped 0 overruns ocarrier collisions 0

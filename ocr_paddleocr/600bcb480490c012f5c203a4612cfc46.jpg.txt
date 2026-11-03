@@ -1,0 +1,14 @@
+# OCR: 600bcb480490c012f5c203a4612cfc46.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/600bcb480490c012f5c203a4612cfc46.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+BooT-INF/classes/application-prod.yml
+1 2 3 4 5 6 7 8 9 10 11 12
+server:
+port:9032 database:
+url:jdbc:mysql://192.168.100.112:13306/jinyi?tinyInt1isBit=fals username:root
+password：honglian7eo1 redis:
+host:192.168.10e.112
+port:16379 timeout：5eoo

@@ -1,0 +1,30 @@
+# OCR: cde74cb82a463d2bb5975ef46dc022fd.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/cde74cb82a463d2bb5975ef46dc022fd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+后后十
+?不安全
+vmw 摘要监控访问网络防火墙时间服务更新
+https://vcsa.pgs.cup:5480/#/ui/time
+vCenterServer管理
+系统管理 Syslog 备份
+Mon06-09-202504:59PMCST 时区
+时区
+时间同步
+模式
+时间服务器
+当前服务器时间
+反时间-VMware设备管理
+Asia/Chongqing NTP
+ntp.aliyun.com
+Mon06-09-202504:59PMCST
+?
+翠帮助√
+办
+操作
+口
+rootv
+X
+编辑编辑

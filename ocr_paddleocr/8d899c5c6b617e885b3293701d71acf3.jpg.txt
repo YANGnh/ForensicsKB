@@ -1,0 +1,27 @@
+# OCR: 8d899c5c6b617e885b3293701d71acf3.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/8d899c5c6b617e885b3293701d71acf3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+root@pve:~#ipa
+1:lo: <L00PBACK,UP,LoWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+link/loopbackoo:0o:0o:0o:0o:0obrdoo:0o:0o:0o:0o:oo inet 127.0.0.1/8 scope host lo
+valid_lft forever preferred_lft forever inet6 ::1/128 scope host noprefixroute
+valid_lft forever preferred_lft forever
+2: ens16o:<BROADCAST,MULTICAST,UP,LOWER_UP>mtu 1500 qdisc mg mastervmbr0 stateUP group default qlen 1000
+link/etheroo:oc:29:bb:oc:cebrdff:ff:ff:ff:ff:ff altname enp3s0
+3:vmbro:<BROADCAST,MULTICAST,UP,LOWER_UP>mtu15ooqdiscnoqueuestateUP group default qlen1ooo
+link/ether oo:oc:29:bb:oc:ce brd ff:ff:ff:ff:ff:ff inet192.168.71.133/24scopeglobal vmbr0
+valid_lft forever preferred_lft forever inet6 fe80::20c:29ff:febb:cce/64 scope 1ink
+valid_lft foreverpreferred_lft forever
+4:
+vmbr1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 15oo qdisc noqueue state UNKNOWN group default glen 1oo
+ink/ethenf2:a8:72:19:ad:1chrd ff:ff:ff:ff:ff:ff inet 192.168.100.0/24 scope global vmbr1
+Ua
+neuer
+eteett
+eue
+inet6fe8o::foa8:72ff:fe19:ad1c/64scopelink
+valid_lft forever preferred_lft forever
+root@pve:~#

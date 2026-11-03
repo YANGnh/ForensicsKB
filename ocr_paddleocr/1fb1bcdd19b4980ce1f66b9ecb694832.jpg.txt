@@ -1,0 +1,13 @@
+# OCR: 1fb1bcdd19b4980ce1f66b9ecb694832.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1fb1bcdd19b4980ce1f66b9ecb694832.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+JSON编编器
+on:2
+wthodData：)
+leck9anber41687219"chalnid:ax3t
+t3tc5e56a1dede
+d51a028a-nat-1atn8.5norn3a
+16262918736636936t6c56

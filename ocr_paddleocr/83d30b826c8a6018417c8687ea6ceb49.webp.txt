@@ -1,0 +1,15 @@
+# OCR: 83d30b826c8a6018417c8687ea6ceb49.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/83d30b826c8a6018417c8687ea6ceb49.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+检材2-计算机检材2-计算机，分区9
+检材2-计算机分区10
+分区类型：无法分区的
+■文件名称 Volume
+描述一分区，存在的
+文件类型 Ext4
+RAID0:检材2-计算机.分区9+检材..
+大小了创建时间 93.1GB
+了修改时间

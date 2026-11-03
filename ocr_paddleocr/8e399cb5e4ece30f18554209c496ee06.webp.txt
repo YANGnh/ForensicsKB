@@ -1,0 +1,14 @@
+# OCR: 8e399cb5e4ece30f18554209c496ee06.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/8e399cb5e4ece30f18554209c496ee06.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+base
+"SERVER":"185.199.108.153"
+"PORT"："443"
+python decrypt.py encrypt.txt
+"SPOOL_DIR":"/var/spool/cups/""STAGING_DIR"："/tmp/.cache/"
+"LOG_FILE"："/root/.iocal/share/upload.log"
+"WATCHED_KEYWORD":"Project Dragonfire"
+公众号·小谢取证

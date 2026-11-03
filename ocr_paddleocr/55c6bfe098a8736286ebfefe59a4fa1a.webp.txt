@@ -1,0 +1,19 @@
+# OCR: 55c6bfe098a8736286ebfefe59a4fa1a.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/55c6bfe098a8736286ebfefe59a4fa1a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+文档>laixi
+此电脑>
+★
+名称
+ CefWebkit.ini 图laixi.db
+目phoneinfo.txt
+修改日期
+2024/5/2220:52 2024/6/922:26 2024/5/2220:51
+类型
+INI源文件
+Data Base File 文本文档
+大小
+1KB 48KB 1KB

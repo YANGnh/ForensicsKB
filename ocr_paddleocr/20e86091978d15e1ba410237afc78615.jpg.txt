@@ -1,0 +1,20 @@
+# OCR: 20e86091978d15e1ba410237afc78615.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/20e86091978d15e1ba410237afc78615.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+选磁盘或镜像：
+默认勾选的第一个磁盘或镜像为系统盘
+保存路径
+口口口区
+\PHYSICALDRIVEO(C:.D:)
+IL.\PHYSICALDRIVE1（E:） I.VA:
+A:\精武杯检材\服务器部分lserver4.E 01
+E:取证检材\RAID-5_2024-04-2509 1338651.001
+容量
+476.93.GB 1.86TB 49.99GB
+1.85GB 1.99GB
+?
+=?=@=1
+O=t

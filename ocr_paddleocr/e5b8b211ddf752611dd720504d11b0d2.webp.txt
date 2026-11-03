@@ -1,0 +1,16 @@
+# OCR: e5b8b211ddf752611dd720504d11b0d2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/e5b8b211ddf752611dd720504d11b0d2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+"Tty"：false，
+"OpenStdin"：false，"StdinOnce":false,"Env"：［
+"JWTSECRET=zhaohong_key""MYSOLUSER=oot"
+"MYSOL PASSWORD-7001"
+"MYSOLDATABASE=produCtdb"
+"NODEENV=development""JWTEXPIRESIN=24h""MVSOLPORT=-3306
+"MYSOLHOST=172.16.10.200""PORT-3000"
+"pATH-/usr/local/sbin:/usr/Local/bin:/usr/sbin:/usr/bin:/sbin:
+"NODEVERSION-16.20.2"YARNVERSION-1.22.19"
+"DEBIANFRONTEND=noninteractive

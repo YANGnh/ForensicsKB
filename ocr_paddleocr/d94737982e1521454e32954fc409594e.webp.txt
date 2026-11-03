@@ -1,0 +1,18 @@
+# OCR: d94737982e1521454e32954fc409594e.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/d94737982e1521454e32954fc409594e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+对象
+开始事务 id
+JsTask@main(laixi)-表
+自文本、筛选排序
+createTime
+name
+0080354099295自动上滑脚本js
+20091144990603截图存相册.bat
+6导入导出数据生成咖创建图表
+fileName
+CProgramFiles\Laixi)Scripts)自动上滑脚本js C:ProgramFiles)LaixiScripts截图存相册.bat
+cy

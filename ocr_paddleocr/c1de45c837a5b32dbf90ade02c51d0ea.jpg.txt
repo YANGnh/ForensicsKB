@@ -1,0 +1,47 @@
+# OCR: c1de45c837a5b32dbf90ade02c51d0ea.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/c1de45c837a5b32dbf90ade02c51d0ea.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+verify
+请输入密钥销：1111
+验证
+密钥错误，继续努力！
+V202:30
+造用名移意用大小
+总览内品
+verify 3.16MB
+自宝义掉本
+洋细信息
+ROOT
+提扣检
+过ROOT检费（非Fridan
+APSE
+SQLite/Realm政据 AES/DES/RSAS
+DE
+S S
+始希计算
+MDS/SHAI/ESAH SharedPreferences
+StringBuffer 李列化内容 Native方法注册
+③
+速用型编号
+静态权限
+基他
+20240425142004344
+第三方服务
+AES/DES/RSAMDE 那定进程
+[2024-04-2514:29:24]socket:opened[2024-04-2514:29:241Injecting.agent Frida version:16.2.1
+[2024-04-25 14:29:251 spawn app
+虚用包建时间
+网络故据包元
+com.hilverity
+2024-04-25 14:20:19
+动态监控
+震示维我信息
+[2024-04-25:14:29:27.] attach process::com.hlverify (pid:22282)
+[2024-04-2514:30:07]加期表：AES/CBC/PKCS7Padding Key:thisisyouraeskey
+IV（十六进制字特留）加盟带数弱：1111
+0x0102030405060708090A0B0C0D0E0F10
+加盟数弱（十六进制字特串）：0xFCF515EB1614B9242AD553F709AAA7AD
+带滑器

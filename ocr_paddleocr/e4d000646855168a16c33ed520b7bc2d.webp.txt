@@ -1,0 +1,17 @@
+# OCR: e4d000646855168a16c33ed520b7bc2d.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/e4d000646855168a16c33ed520b7bc2d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+POST/dbadmin/test_db.phpHTTP/1.1
+Host:192.168.75.131 Content-Length:56
+Cache-Control:max-age=0
+Upgrade-Insecure-Reguests: 1 0rigin:http://192.168.75.131
+Content-Type：application/x-www-form-urlencoded
+User-Agent:Mozi1la/5.0(windowsNT10.0;Win64:x64)ApplewebKit/537. Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/av 3;q=0.7
+Referer：http://192.168.75.131/dbadmin/test_db.php
+Accept-Encoding:gzip,deflate,br Accept-Language:en-us,en;q=0.9
+Cookie：PHPSESSID=4ro6r9gjmcujsoja9r8bst8p65 Connection:close
+password=admin&remember=yes&login=Log+In&proclogin=trueHTTP/1.12000
+Date:Wed,31Jul202414:28:36GMT Server:Apache/2.2.22（Ubuntu）

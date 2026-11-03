@@ -1,0 +1,17 @@
+# OCR: e5ca2ff8688577cbfa5f25a10177601d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/e5ca2ff8688577cbfa5f25a10177601d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+站点修改[touzilicai.com]-=添加时间[2024-04-2321:09:55] 域名管理
+每行填写一个域名，默认为80端口
+子目录绑定网站目录访问限制流量限制伪静态默认文档配置文件
+泛解析添加方法*,domain.com
+如另加端口格式为www.domain.com:88
+域名
+192.168.137.125
+wnsyulexyz touzilicai.com 批量删除
+端口 80 80 80
+添加
+操作删除删除册删除

@@ -1,0 +1,19 @@
+# OCR: 91652f30846587a5ddc5444e0804cb9b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/91652f30846587a5ddc5444e0804cb9b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+新建连接（MongoDB
+常规连接名：连接：主机：端口：验证：
+高级
+数据库 Navicat
+SSL
+SSH 品
+。
+SSH服务器
+2024FIC聊天服务器
+Standalone ■SRV记录 172.18.0.2
+27017 None
+数据库
+x

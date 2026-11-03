@@ -1,0 +1,12 @@
+# OCR: 8e5442e0bbe932f9e49f463ef085ade3.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/8e5442e0bbe932f9e49f463ef085ade3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+HypertextTransferProtocol,has2chunks
+(includingastchunk
+Line-based text data:text/html （45o lines
+<!doctypehtml>n <htmllang="zh">\n <head>ln
+t<metacharset="utf-8">n
+t<title>PbootCMS-永久开源免费的PHP企业网站开发建设管理系统</tit! t<metaname="keywords"content="cms免费cms，开源cms，企业cms，建［..]］|t<metaname="description"content="PbootcMs是一套全新内核 t<metaname="viewport"content-"width=device-width,initial-s |t<linkrel="stylesheet"href-"/template/default/bootstrap/cs t<linkrel="stylesheet"href-"/template/default/font-awesome

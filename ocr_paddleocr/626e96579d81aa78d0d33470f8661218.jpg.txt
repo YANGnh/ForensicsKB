@@ -1,0 +1,26 @@
+# OCR: 626e96579d81aa78d0d33470f8661218.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/626e96579d81aa78d0d33470f8661218.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+g
+Aesxinfs
+三序号口1 □2 口3 口4 口5
+名称过滤
+嵌套证据识别
+三操作系统过滤
+病毒研发机渗透测试机渗透测试机
+github&密钥服... Openwrt&wireG..
+国复制文本 ○刷新
+①预览详情
+①着重显示此列 C路自适应此列扫自适应序号列自适应显示列
+添加到案件笔记跳转到源文件预览源文件国导出当前记录
+鑫添加为新检材
+证据嫌疑有关
+三磁盘文件名过滤
+病毒研发机.vmdk 渗透测试机.vmdk
+mpx.vmhbaO:Co:TO:LO github&密钥服务器.. openwrt-21.02.1-x8...
+三磁盘文件路径过滤
+centos(cQc8E5-616D-ljWK centos(cQc8E5-616D-ljWK-
+centos(cQc8E5-616D-ljWK-centos(cQc8E5-616D-ljWK-

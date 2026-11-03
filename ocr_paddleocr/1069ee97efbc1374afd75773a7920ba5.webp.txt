@@ -1,0 +1,40 @@
+# OCR: 1069ee97efbc1374afd75773a7920ba5.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/1069ee97efbc1374afd75773a7920ba5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+NetworkMiner2.9.0
+File
+Iools
+Help
+Select a network adapter in the list
+Hosts (103)Files (189)Inages MessagesCredentials (11)Sessions (1016)DHS(21002)Parameters (2633)KeywordsAnomalies Shov Cookies
+MShow Nrut challengeresponseask Passwords
+Client
+1921681244[k7:1 192.168.1.244 [kali] 192.168.1.244(kali) 192.168.1.244 [kali] 192.168.1.244 [kali] 192. 168. 1.244 [kali] 192.168.1.244 [kali] 192.168. 1.244 [kali] 192.168: 1.244 [kali]
+192.168. 1.208 [iPhonezhao.1oceal] 192.168. 1.244 [kali] [www. qq. com]
+Server
+19216811[192168117 192. 168. 1. 1 [192. 168.1.1] 192.168.1.1192.168.1.1]
+192.168.1.1 [kali] [192.168.1.1] 192.168,1.1 [192, 168.1.1]
+192.168.1. 1 [kali] [192. 168. 1.1] 192. 168.1. 1 [192. 168.1.1]
+192. 168. 1. 1 [kali] [192. 168.1.1]
+192. 168. 1. 1 [192. 168. 1.1] 192. 168. 1.244 [vww. qq. com]
+192. 168. 1, 1 [kali] [192. 168.1.1]
+Protocol
+Username
+MmEltiPer
+MmE/MultiPartroot MDE/MultiPart
+root
+HTTPCookie HTTP Cookie HTTPCookie
+DE/MultiPart
+HTTP Cookie HTTPCookie HTTP Cookie FTP
+sysauthhttp=d6675f373b96196776239d589dada45e. sysauth_http=d5675t373696196776239d589dada45 sysauth_http; expires=Thu, 01 Jan 1970 01:00. root
+syssuth_http=d6e9aed068688526aed091b69efe489. sysauth_http=d6e9aed0686f88526aed091b69efe489 ga=GA1.1.358177906. 1707199856: _gs_TPFW0KPXC. ftp1
+Password 12345678 987654321 password
+K/A N/A W/A 123456 K/A H/A R/A nast
+Valid login
+First Login
+Jinknewm Unknown Unknown Unknown Unknown Unknown Unknown Unknown Unknoxn Unknown Unknown
+2025-09-23 01-17:3117O 2025-09-2301:17:37UTC 2025-09-2301:17:43UTC 2025-09-23 01:17:43 1TC 2025-09-2301:17:43UTC 20250923 01:17:47 UTC 202509-23 01:17:49 UTC 20250923 01:17:58 UTC 20250923 01:17:58 UTC 20250923 01:19:59 UTC 20250923 01:23:56 UTC
+公众号。金星路406取证人

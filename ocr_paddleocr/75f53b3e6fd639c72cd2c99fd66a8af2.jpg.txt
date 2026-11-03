@@ -1,0 +1,16 @@
+# OCR: 75f53b3e6fd639c72cd2c99fd66a8af2.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/75f53b3e6fd639c72cd2c99fd66a8af2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+合品
+日志 DNS NTP 路由
+Experimental Cache File 启用 Clash API
+启用 V2RayAPI
+127.0.0.1:1080
+入站盘用户管理
+启用统计
+基础信息
+生世通 diret
+> >

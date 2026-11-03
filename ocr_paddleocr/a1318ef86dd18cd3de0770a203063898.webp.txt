@@ -1,0 +1,9 @@
+# OCR: a1318ef86dd18cd3de0770a203063898.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/a1318ef86dd18cd3de0770a203063898.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+<stringname="user_profile">用户信息</string> <stringname="username_hint">yonghu</string>
+<stringname="welcome_content">这是一款安全的监控摄像应用，请妥善保管您的账户信息。</strin
+<stringname="welcome_messager>欢迎使用Forensix</string> sources

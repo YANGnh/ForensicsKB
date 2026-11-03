@@ -1,0 +1,64 @@
+# OCR: dfdcf56aa95c53e6673727e7c09422a6.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/dfdcf56aa95c53e6673727e7c09422a6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+7.0.1
+仪表板
+主界面
+共享
+磁盘阵列设备设备
+·磁盘1“引导设备设备
+·Flash
+*磁盘阵列操作已启动
+O阵列已启动
+用户
+设置
+插件标识
+DOCKER
+应用
+工具
+VMware_Virtual_SATA_Hard_Drive_00000000000000000001-129GB(sdb) 标识
+Virtual_Storage-8.1GB(sda)
+停止检查
+历史记录
+唤醒
+清除统计信息
+重启
+休眠关机
+温度
+* 温度
+*
+读取 0.0B/s
+读取 0.0B/s
+写入 0.0B/s
+写入 0.0B/s
+停止将离线(offline)磁盘阵列
+检查将开始对阵列中所有磁盘进行读取检查上次检查时间为未知
+③用时：不可用。未记录奇偶校验条目 Q查找：0错误
+唤醒将立即唤醒所有磁盘休眠将立即休眠所有磁盘
+清除统计信息将立即清除所有磁盘统计信息
+重启将激活系统正常重启关机将激活系统正常关机以安全模式重启
+错误 0
+错误 0
+文件系统  zfs
+文件系统
+vfat
+司
+Mediaserver
+Q 大小
+124GB 大小 7.7GB
+石
+Tower
+回
+已使用 8.02GB
+已使用 722MB
+只
+?
+0 园
+可用空间 116GB
+园
+可用空间 6.98GB
+手册
+Unraid* webGui @2o24,Lime Technology,Inc.

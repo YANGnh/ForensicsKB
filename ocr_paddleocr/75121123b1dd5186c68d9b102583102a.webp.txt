@@ -1,0 +1,58 @@
+# OCR: 75121123b1dd5186c68d9b102583102a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/75121123b1dd5186c68d9b102583102a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+0-10
+/10
+》
+MUSTfield1='str'field2=num_id
+C
++
+1759802526998-22064741759802528417 1
+2 3 4 5 6
+8 9 10 11 12 13 14 15 16 17 18
+SHOULDfield1='str'field2=num
+详细
+"class":"com.only.common.mode.UserMessageDTo"
+"id"："1759802526998-22064741759802528417'"messageId":"1759802526998-2206474"
+索引
+ccy_user..
+"receiveUserId"："3b30daa19d5844f08d175e38d37c89b1"
+类型 doc
+分数
+class
+MUSTNOTfield1='str,field2=num
+id
+com.only.c...
+"receiveUserHead":"head/user/2024/11/09/05c4d6c45c384e1cae9d6301e2c74285.jpg""receiveUserName"："yy",
+"receiveUserNickname":"yy"
+"senduserId"："76d866ae418946cba6eec6bc423613ed"
+"sendUserHead":"head/user/2024/11/09/456d1c2abb5845a38307135eed06f96d.jpg""senduserName"："小雨末"
+"senduserNickname"："小雨末""sendUserRemark": ""
+"isDeleted":"o","issend":"o",
+"time"：1759802526998
+"timestamp"：1759802526998,"msgoverview":"2
+1759802534222-54084801759802535394
+ccy_user...
+doc
+com.only.c...
+175980.. 175980..
+messageld
+1759802526998-2.. 1759802534222-5..
+receiveUserld
+ccyusermessageindex
+ORDERfield1asc.field2desc
+isSend
+3b30daa19d5844f08d175e38...
+3f5f200b55f647f9bde218365..
+0
+receiveUserHead
+品
+Q
+了
+head/user/2024/11/09/05c4d6c45... head/user/2024/11/09/92d1181b.
+洲
+tir 17
+17

@@ -1,0 +1,56 @@
+# OCR: 0d14d5f2554d5c72f71bca3f4a10dc40.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/0d14d5f2554d5c72f71bca3f4a10dc40.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+P
+请选择/输入持有人/检材编号/名
+data 8
+账户信息通讯录每日悦读收件箱已发送
+imToken
+119/12659
+1 2 280 1 1 4
+identityname(im14x5QS...
+8
+账号信息钱包信息
+Gs Wave
+品可 APP
+App分析 APK列表
+Office文件元信息
+其他应用
+dingtong.saichuang
+首首
+应用目录文件分类
+首首
+图片文档
+SQLite文件压缩文件加密文件
+4 1 3 32 65 65 1
+4230 79 9 70 8 54 3 4
+搜索节点自
+其他
+Q
+0/1
+g
+三序号 1
+data>
+APP
+其他应用>dingtong.saichuang>
+三名称过滤
+Y
+temp816367219860479446
+未选中文件/记录
+三MD5 过滤
+自加密文件
+文件分类>
+三大小
+Y
+等于 12KB
+三创建时间
+起始
+结束
+2025-11-0708:28:03
+在加密文件三修改时间
+起始
+结束
+2025-09-242

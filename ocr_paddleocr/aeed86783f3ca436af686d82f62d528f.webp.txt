@@ -1,0 +1,11 @@
+# OCR: aeed86783f3ca436af686d82f62d528f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/aeed86783f3ca436af686d82f62d528f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+未知适配器
+BootMagix_Tap
+连接特定的DNS后缀
+IPv4地址子网掩码默认网关
+192.168.137.1 255.255.255.0

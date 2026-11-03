@@ -1,0 +1,18 @@
+# OCR: 4edce12ce4fc70573e203fe5763f0931.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4edce12ce4fc70573e203fe5763f0931.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+此电脑
+>
+名称
+本地磁盘(Y)
+￥欠条右.png
+日期
+2025/5/1519:39
+类型
+PNG文件
+大小
+161KB
+标记

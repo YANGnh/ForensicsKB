@@ -1,0 +1,18 @@
+# OCR: a57ed449258f6d636fac7c6df8e5eb69.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/a57ed449258f6d636fac7c6df8e5eb69.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+原类型视图未删除记录
+文本视图
+android metadata carts
+products
+room master table toppings
+十六进制视图
+1 1
+=payment_provider
+cart-db
+=payment_methods
+['a":"hsbc._payme"."b":"PayMe from HSBC","c":81.1]
+payme

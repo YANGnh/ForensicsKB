@@ -1,0 +1,103 @@
+# OCR: 771352298cf3f60c120f02e22c4df9ff.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/771352298cf3f60c120f02e22c4df9ff.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+Users/起早王/AppDatalLocal/Packages/Microsoft.MicrosoftStickyNotes8wekyb3d8bbwe\LocalState
+口文件名称一
+?措述
+Microsoft.MicrosoftStickyNotes8wekyb3d8bb...存在的
+存在的
+LocalState (16)
+DiagOutputDir（10)
+存在的
+15cbbc93e90a4d56bf8d9a29305b8981.storage.sessi...
+存在的
+Ecs.dat
+MicrosoftStoreEngagementSDKld.txt plum.sqlite
+plum.sqlite-shm plum.sqlite-wal
+存在的存在的
+存在的，… 存在的存在的
+?文件类型 session
+dat txt sqlite
+sqlite-shm sqlite-wal
+丫路径 NUse... lUser... Users... AUsers.. Users... Users... AUsers... AUsers... NUsers..
+DBBrowserforSQLite-G:\2025平航杯新建文件夹\plum.sqlite
+文件(F）
+编辑(E)
+Q新建数据库(N) 数据库结构（D）表(T)：Note
+过滤
+查看（V）
+工具(T)
+打开数据库(0)
+浏览数据(B）
+V Text
+帮助(H)
+写入更改（W）
+编辑杂注(R)
+t
+id=ed717499-edd3-4cb9-a8f4-..
+一分区 offset
+00343502848
+文件
+0 37
+回预览
+3 2
+7F0682
+文件大小创建时间
+713KB2025/03/10
+16:04:34+8
+615KB2025/03/10
+016:04:34+8
+62.9KB2025/04/10
+08:43:07
+20.0KB2025/03/11 1.2KB2025/04/10 36B2025/03/11
+09:41:13 08:43:08 09:42:15
+4.0KB2025/03/1109:41:13 32.0KB2025/03/1109:41:13 495KB2025/03/1109:41:13
+倒退更改（R）
+执行SQL（X）
+民品过滤
+御
+》过滤任何列 WindowPosition
+ManagedPosition=DeviceId:l?..
++8 +8 +8 +8
++8 +8
+会撤销(U）
+了修改时间 2025/03/10
+016:04:34+8
+2025/04/10 08:43:08
++8
+2025/04/14
+10:13:54 809:47:03
+2025/03/13
+2025/04/14 10:29:23
+2025/03/11
+09:42:15
+2025/03/11 09:41:13 2025/04/14 10:13:54 2025/04/1410:11:49
+个打开项目（P）
+编辑数据库单元格（C) 模式：文本
+1 2 3 4 5 6
++8 +8 +8 +8
+?记录更新时间
+2025/03/1016:04:34+8 2025/04/1008:43:08+8 2025/04/1410:13:54
++8
+2025/03/1309:47:03
++8
+10:29:23
+2025/04/14
++8
+2025/03/11
+09:42:15
++8
+2025/03/1109:41:13
+2025/04/1410:13:54 2025/04/1410:11:49
++8 +8 口
+附加数据库（A）》
+卫
+市
+9-edd3-4cb9-a8f4-f9b275a6e675今天待干： f-f0a3-4405-a846-a100f72a5e6f111.写日记
+x x
+f-c544-48d2-8c33-0267967311clb2.把公司的内网再检查—遍
+D-eca4-4acd-a77a-043d2c08b7ce3.清理电脑数据 2-19e6-41d2-ad38-208c58866ba04.和小倩聊天
+5-6d94-4103-a1b7-816a6bb936ad5.给李姐带杯奶茶

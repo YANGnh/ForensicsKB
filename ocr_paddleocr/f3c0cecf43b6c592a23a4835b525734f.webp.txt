@@ -1,0 +1,12 @@
+# OCR: f3c0cecf43b6c592a23a4835b525734f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/f3c0cecf43b6c592a23a4835b525734f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+di class="accordion-body p-0"> <ul class="p-m-0">
+<li class="list-group-item text-white mb-3">Revtel</li> <li class="list-group-item my-2">
+<a href="#"class="text-decoration-none">13170010703</a <li>
+<li olass="list-group-item">
+<a href="#"elass="text-decoration-mnone
+">mailme@chen.foren6</a>

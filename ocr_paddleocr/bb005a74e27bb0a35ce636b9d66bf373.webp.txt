@@ -1,0 +1,15 @@
+# OCR: bb005a74e27bb0a35ce636b9d66bf373.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/bb005a74e27bb0a35ce636b9d66bf373.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+re(D:)> Program Files > WindTerm >
+名称.wind global plugins terminal vendors 图libcrypto.dl 目license.txt
+>
+修改日期
+2022/7/2915:01 2022/7/244:20 2022/7/215:20 2022/7/215:20 2022/7/215:20 2021/12/216:31 2022/7/243:15
+类型文件夹文件夹文件夹文件夹文件夹
+应用程序扩展文本文档
+大小
+3.361KB 42KB

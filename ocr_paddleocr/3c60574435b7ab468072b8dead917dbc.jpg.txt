@@ -1,0 +1,43 @@
+# OCR: 3c60574435b7ab468072b8dead917dbc.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/3c60574435b7ab468072b8dead917dbc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+KPROXMOXVirtualEnvironment8.1.4
+服务器视图
+数据中心 pve
+110(nginx） 100(Router) 101(node1) 102(node2) 103(node3)
+111(javaserver) 112(sqlserver)） 120(luck)
+localnetwork(pve）
+local(pve) local-lvm(pve) local2(pve)
+奔
+搜素
+虚拟机120(luck）在节点'pve'上
+概要 >控制台口硬件
+Cloud-Init 奔选项
+目任务历史
+? B
+监视器
+备份好复制快照?
+防火墙 0
+权限
+编辑名称
+没有标记。还原
+开机自启动启动/关机顺序
+OS类型引导顺序
+使用平板指针
+热插拔 ACPI支持
+KVM硬件虚拟化启动时冻结CPU
+使用本地时间进行RTC RTC开始日期
+SMBIOS设置(type1) QEMU GuestAgent 保护
+Spice增强 VM状态存储
+luck 否
+order=any
+MicrosoftWindows11/2022
+satao,ide2,neto 是
+磁盘，网络，USB
+是是否
+默认（为Windows启用） now
+uuid=e9990cd6-6e60-476c-bd37-1a524422a9a8 默认(已禁用）
+否无自动

@@ -1,0 +1,26 @@
+# OCR: 54a5f03f8c7934982bdda9278402234f.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/54a5f03f8c7934982bdda9278402234f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+$MATCH（u:User)-[:HASLOGIN→>(l:Login)-:FROMIP]→>(ip:IP)MATCH（U)-[:USINGDEVICE→>(d:Device)
+WH.
+用 Table
+A Text
+圆 Code
+用户
+姓名
+ID
+86 1109
+行芳
+钱玲
+异常登录城市列表重庆”长沙济南
+【"成都”“厦门”，“青岛
+未授权设备列表
+r"056f8da2-bdee-493a-9ff1-52fd8df8206e","6c38621e-9f3c-4c0e-9a1c-50031c15ef66","e2631285-bc86-46d4-99a2 5abd14d6a4b9"
+r"fd09aedf-b540-4224-926c-599123b4878f,"639a1946-306f-45fe-b862-37dfa860658d,"732a1bc3-764e-495b-a83a-eb5d2d0de59dj
+C
+异常登录次
+数 3
+3

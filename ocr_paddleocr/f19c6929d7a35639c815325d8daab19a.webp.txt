@@ -1,0 +1,27 @@
+# OCR: f19c6929d7a35639c815325d8daab19a.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/f19c6929d7a35639c815325d8daab19a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+AndroidManifest.xml
+package="ahmyth.mine.king.ahmyth platformBuildVersionCode="23"
+platformBuildVersionName="6.0-2438415"> <uses-sdk
+android:minSdkVersion="16"
+android:targetsdkVersion="22"/>
+2 3 4 5 6 7 8 9 1 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+<uses-featureandroid:name="android.hardware.camera"/)
+<uses-feature android:name-"android.hardware.camera.autofocus"/> <uses-permissionandroid:name="android.permission.wAKE_Lock"/> <uses-permissionandroid:name="android.permission.CAMERA"/>
+<uses-permissionandroid:name="android.permission.READ_EXTERNAL_SToRAGE"/> <uses-permissionandroid:name="android.permission.WRITE_EXTERNAL_SToRAGE"/> <uses-permissionandroid:name="android.permission.MANAGEEXTERNALSToRAGE"/> <uses-permissionandroid:name="android.permission.WRITE_SETTINGs"/>
+<uses-permissionandroid:name="android.permission.WRITE_SECURE_SETTINGS"/> <uses-permissionandroid:name="android.permission.INTERNET"/>
+<uses-permissionandroid:name="android.permission.AcCEss_NETwORK_STATE"/>
+<uses-permissionandroid:name="android.permission.READ_SMs"/> <uses-permissionandroid:name="android.permission.SEND_SMs"/>
+<uses-permissionandroid:name="android.permission.REcEIvE_SMs"/> <uses-permissionandroid:name="android.permission.WRITE_SMs"/>
+<uses-permissionandroid:name="android.permission.REcEIVE_BooT_CoMPLETED"/>
+<uses-permissionandroid:name="android.permission.READ_PHoNE_STATE"/> <uses-permissionandroid:name="android.permission.READ_CALL_LoG"/>
+<uses-permissionandroid:name="android.permission.PRoCEss_OUTGoING_CALLs"/>
+<uses-permissionandroid:name="android.permission.READ_coNTAcTs"/> <uses-permissionandroid:name="android.permission.REcoRD_AuDIo"/>
+<uses-permissionandroid:name="android.permission.MoDIFY_AuDIo_SETTINGs"/> <uses-permissionandroid:name="android.permission.AccEss_FINE_LocATIoN"/> <uses-permissionandroid:name="android.permission.READ_CALENDAR"/>
+<uses-permissionandroid:name="android.permission.AccEssCoARSELocATIoN"/>
+<uses-permissionandroid:name="android.permission.ACCEsS_BACKGRoUND_LoCATIoN"/>
+<uses-permissionandroid:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMISATIONs"/> <application

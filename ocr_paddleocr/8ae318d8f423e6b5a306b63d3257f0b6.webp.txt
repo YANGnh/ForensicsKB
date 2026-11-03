@@ -1,0 +1,35 @@
+# OCR: 8ae318d8f423e6b5a306b63d3257f0b6.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/8ae318d8f423e6b5a306b63d3257f0b6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+1快捷指令（7/0）×
+搜素
+2 m 4 5
+区
+6 7
+来源应用快捷指令快捷指令快捷指令快捷指令快捷指令快捷指令快捷指令
+Q
+回删除
+删除恢复
+标签
+?清除过海器名称
+Shazam shortcut What's a shortcut? Text Last Image
+Take a Break apk
+yourcode backup
+操作数量
+32 37 2 13 7
+14 8
+创建时间
+2024/05/15 01:02:53 +08:00 2024/05/15 01:02:54 +08:00 2024/05/15 01:02:54 +08:00 2024/05/15 01:02:54 +08:00 2024/05/20 18:21:13 +08:00 2024/05/21 17:39:21 +08:00 2024/05/17 16:14:58 +08:00
+修改时间
+2024/05/2118:09:26 +08:00 2024/05/21 18:09:26 +08:00 2024/05/21 18:09:26 +08:00 2024/05/21 18:09:26 +08:00 2024/05/22 09:57:53 +08:00 2024/05/22 15:57:15 +08:00 2024/05/22 09:58:09 +08:00
+来源
+标签
+导出
+操作
+ShortcutSourceDefaultShortcut ShortcutSourceDefaultShortcut ShortcutSourceDefaultShortcut ShortcutSourceDefaultShortcut
+[
+C重新载入
+WFWorkflowActionlde"WFWorkflowActionlde"WFWorkflowActionlde"WFWorkflowActionlde*WFWorkflowActionlde"WFWorkflowActionlde"WFWorkflowActionlde

@@ -1,0 +1,8 @@
+# OCR: 30b3950c3b6a748e19d00de2401495f5.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/30b3950c3b6a748e19d00de2401495f5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+data-backup.txt-记事本
+文件(F)编辑(E)格式(O)查看(M)帮助(H) data-backup容器密码：qwertyuiop1

@@ -1,0 +1,18 @@
+# OCR: 41c86b9ff4adecb32767b57fbd3a4e38.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/41c86b9ff4adecb32767b57fbd3a4e38.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+导入向导
+你的字段要用什么分隔符来分隔？请选择合适的分隔符，
+记录分隔符：
+CRLF
+②分隔符-字符如逗号或制表符，用来界定每个字段固定宽度-每个列内字段对齐，用空格分隔
+字段分隔符：文本识别符号：
+空格
+步
+下一步
+S
+国
+x 取消

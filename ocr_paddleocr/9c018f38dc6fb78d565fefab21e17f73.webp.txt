@@ -1,0 +1,20 @@
+# OCR: 9c018f38dc6fb78d565fefab21e17f73.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/9c018f38dc6fb78d565fefab21e17f73.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+19
+以上是打措呼的内
+听说你能搞针孔摄像头，我这边有一批91大神需要这些东西。
+你打我电话吧，我们电话里说 19
+19 19 19 19
+怎么联系呢
+<?xmlversion="i.o"?>.【握手]我打你
+voip_content_voice
+注意事项都清楚了吧 19
+19
+货款到时候全带上
+NULL NULL NULL NULL
+THUMBNAIL DIRPATH://th 8fbb6ee5aadcc41568fd75aeaa554217
+NULL NULL NULL NULL

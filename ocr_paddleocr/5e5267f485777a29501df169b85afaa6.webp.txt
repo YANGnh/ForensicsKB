@@ -1,0 +1,18 @@
+# OCR: 5e5267f485777a29501df169b85afaa6.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/5e5267f485777a29501df169b85afaa6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+Program Files > Laixi >
+Scripts
+名称
+★ ★ ★ ★
+batTemp 目Readme.txt[截图存相册.bat 录屏存相册.bat 5自动上滑脚本js
+>
+修改日期
+2024/5/2221:11 2024/4/191738 2024/5/2221:13 2024/5/2220:45 2024/5/2220:57
+类型文件夹文本文档
+Windows批处理文件 Windows批处理文件 JavaScript源文件
+大小
+1KB 1KB 1KB 4KB

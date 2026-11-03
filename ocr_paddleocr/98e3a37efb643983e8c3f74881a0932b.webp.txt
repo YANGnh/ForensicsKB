@@ -1,0 +1,20 @@
+# OCR: 98e3a37efb643983e8c3f74881a0932b.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/98e3a37efb643983e8c3f74881a0932b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+n
+高保存
+已查询创建工具※美化SQL（）代码段
+localhost
+1 2 3
+消息数据
+backupnewbee
+SELEcTSUM(total price)Astotal amount
+FRoMtbnewbeemallorder WHEREuser_id=213;
+摘要信息
+结果1
+total amount
+7258
+√运行、停止早：解释

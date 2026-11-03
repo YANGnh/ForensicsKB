@@ -1,0 +1,22 @@
+# OCR: 4c7500d9093d5794e044bc594a30f291.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/4c7500d9093d5794e044bc594a30f291.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+默认浏览器
+名称 Etherneto
+WLAN 本地连接*
+0
+本地连接*10
+(Default Switch)
+vEthernet
+蓝牙网终连接
+IP地址
+172.24.192.1
+MSEdqeHTM 子网掩码
+255.255.240.0
+网关
+DHCP网络地址 192.168.188.128 192.168.43.104
+<网络信息>
+DHCP网关 192.168.18 192.168.43

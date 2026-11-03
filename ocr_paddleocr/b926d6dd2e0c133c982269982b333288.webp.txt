@@ -1,0 +1,19 @@
+# OCR: b926d6dd2e0c133c982269982b333288.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/b926d6dd2e0c133c982269982b333288.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+对象品保存
+dsmember@wwwmtbtsdafdac(.. 宁查询创建工具美化SQL（代码段
+2025解录杯服务器打：
+wwwmtbtsdafdacv
+无标题-查询
+运行、停止品：解释
+SELECTpassword'
+FROMdsmemberWHEREmobile='13067137585
+消息数据
+摘要信息
+password
+结果1
+03ddb77b41e0d41a8a186d4fd87c546d6fe41eec

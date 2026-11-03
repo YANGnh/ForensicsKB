@@ -1,0 +1,57 @@
+# OCR: b627f829990bb2077ca75da6f8c87c14.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/b627f829990bb2077ca75da6f8c87c14.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+443.139.160.244
+首网究数据库监
+e E
+区器
+WAF 文件
+SSL
+多用户经编计到任务软性丽店设置退出
+计划任务添加任费
+脚本库入
+住务名将中
+果集正版（收族）小片
+清透择量
+日市规
+编通计划任势
+任务类型
+性国
+*任第客称热疗调期
+热行用户附本内察
+温馨提示
+Shell本
+采集正版(收著）小池每小时
+30
+999
+等小时的巢30分件执行一次 root
+#t/bin/bash
+BASE_URL=*https://wwwxinglo.com LIST_PATH="/article*
+SAVE_DIR="/www/xiaoshuocaii
+开启进的
+USER_AGENT*Mozila/5.0 (Windows NT 10.0; Win54; x64) AppleWebKit/537.36 (KHTML, like
+Gecko) Chrome/120.0.0.0 Safari/537.36* DELAY=3
+ERROR_DIR=*S(SAVE_DIR)/error_logs*
+ERROR_FILE="s(ERROR_OIRI/error_$(date +*%Y%m%d_%HI),bt*
+适深解本
+为了保正照多器的安全稳定, shel谢本中以下含不可便用: shutdown, init 0, mkfs, paswd, chpasswd, -stdin, mkfs.ext, mke2fs
+宝增Uinux南板02014-2025广乐塔安全热术有限公司（bt.cn
+O冷际求艺
+全期分两
+x
+图速用手册
+总微言公次号0正所量间
+参民至人工套版
+上次热行时间
+2025-10-22 05:39:57
+20毫/页
+执行编机
+企业版
+换作
+制
+共1条前往
+· 学
+会

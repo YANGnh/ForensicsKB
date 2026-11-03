@@ -1,0 +1,25 @@
+# OCR: f1a54c4048c2a0d6b89d0961d84160e2.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/f1a54c4048c2a0d6b89d0961d84160e2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+上传
+根目录>
+www
+远程下载文件名
+tcp
+server>
+新建V
+O.default.conf
+panel
+收藏夹√
+192.168.100.100.conf demo.tjshop.com.conf phpfpm_status.conf test1.tjshop.com.conf www.tjshop.com.conf
+vhost> 分享列表
+nginx 国终端
+量/（根目录）（42G）
+权限/所有者 600/root 600/root 600/root 600/root 600/root 600/root 600/root
+大小计算 99B 1.38KB 1.39KB 1.94KB 1.39KB 1.41KB
+修改时间
+2022/02/2314:50:35 2022/02/2315:06:58 2022/03/0316:47:06 2023/09/0718:59:25 2022/02/2314:57:22 2023/09/0718:59:18 2023/09/0718:58:46
+备注

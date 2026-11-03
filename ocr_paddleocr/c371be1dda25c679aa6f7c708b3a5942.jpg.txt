@@ -1,0 +1,16 @@
+# OCR: c371be1dda25c679aa6f7c708b3a5942.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/c371be1dda25c679aa6f7c708b3a5942.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+◆导入向导
+选择目标表。你可选择现有的表，或输入新的表名
+源表 result
+目标表 result
+新建表
+区上一步
+下一步
+口
+取消
+x

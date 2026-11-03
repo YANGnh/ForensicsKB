@@ -1,0 +1,9 @@
+# OCR: f02770409b7f200c137a08e176c7f1ef.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/f02770409b7f200c137a08e176c7f1ef.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+[ProxyList]
+#addproxyhere#meanwile
+# defaults set to "tor" s0cks4127.0.0.1 9050

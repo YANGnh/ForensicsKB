@@ -1,0 +1,37 @@
+# OCR: 668db9e46d6268b0c7a582bc82bfdb87.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/668db9e46d6268b0c7a582bc82bfdb87.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+数据库结构
+表(T) id
+测览数据
+FILE_INFO
+ACCOUNT
+过滤
+过滤
+1 2 3 4 5
+012467853 2012467853 3012467853 4012467853 5012467853
+编辑杂注
+ISMOCK_SPACE 过滤
+执行SQL
+FOLDERNAJE 过滤
+0文件 0文件 0文件 0文件 0文件
+过
+国
+园
+公民信息.x1sx 计算器.apk Telegram.apk
+ORIGINNAME
+Mattermost_2.15.0.apk
+在所有列中过滤
+BitLocker恢复密钥5FC2643D-3D04-48A7-..
+过滤
+ENCRYPT_NAME
+e-283a934b7821-4af39301-2cd6bba15782+c1
+e-31bb3d82-819a-4ae4-9105-... e-432ff59e-cee6-475e-9699-. e-c713a46c-b849-4381-...
+e-52cdbbba-ceea-4155-bd7a-309ad3e6bbd4+u
+过滤
+ORIGINPAIH
+/storage/enulated/0/公民信息.xlsx/storage/enulated/0/计算器.apk/storage/enulated/0/Telegram.apk
+/storage/enulated/0/Matternost_2.15.0/storage/enulated/o/BitLocker恢复密销

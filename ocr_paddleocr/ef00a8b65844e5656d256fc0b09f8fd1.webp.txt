@@ -1,0 +1,32 @@
+# OCR: ef00a8b65844e5656d256fc0b09f8fd1.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/ef00a8b65844e5656d256fc0b09f8fd1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+Recipe
+FromBase64 Alphabet
+A-Za-z0-9+/=
+Removenon-alphabetchars
+AEsDecrypt Key
+mysecretpassword IV
+1234567890123456
+Mode CBC
+Input Raw
+a
+UTF8V UTF8
+Output Raw
+Input
+i+sCh/8TSp8rS4Kg2agaLQ=:
+Output Admin123
+start: end: length:
+8 8
+length：24
+lines:
+time: length: lines:
+1
+Oms 8 1
++ a
+口
+用
+F

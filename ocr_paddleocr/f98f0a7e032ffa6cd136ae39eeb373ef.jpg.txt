@@ -1,0 +1,17 @@
+# OCR: f98f0a7e032ffa6cd136ae39eeb373ef.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f98f0a7e032ffa6cd136ae39eeb373ef.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+终端×
+[root@localhost#whereiss-ui
+s-ui:/usr/bin/s-ui/usr/local/s-ui
+[root@localhost# cd/usrlocals-ui
+S
+root@localhosts-ui#
+bindb
+sing-box.service
+[root@localhosts-ui]#
+sui
+s-ui.service

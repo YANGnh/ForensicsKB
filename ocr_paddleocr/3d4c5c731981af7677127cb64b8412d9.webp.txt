@@ -1,0 +1,15 @@
+# OCR: 3d4c5c731981af7677127cb64b8412d9.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/3d4c5c731981af7677127cb64b8412d9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+默认账本
+*
+CNY
+13.364.00 我的支出
+.
+Wangwww11...创建了收入2025-05-1513:31:09
++
+39.856.00
+我的结余

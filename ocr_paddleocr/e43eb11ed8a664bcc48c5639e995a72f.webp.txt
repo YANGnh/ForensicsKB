@@ -1,0 +1,43 @@
+# OCR: e43eb11ed8a664bcc48c5639e995a72f.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/e43eb11ed8a664bcc48c5639e995a72f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+ROOT
+ActivationBroker
+中 +
++ 中
++ 中
+ControlS et001 DriverDatabase HardwareConfig Input
+Keyboard Layout Maps
+MountedDevic
+ResourceMan ResourcePolic
+RNG Select Setup Software State Waas WPA
+Data View 田
+Valuename
+\DosDevicesF:
+REG BINARY
+Summary
+Position 日
+Startoffset
+田Position 国
+Selection Numbers
+0 0 o
+Value
+DosDevicestC:
+??volume(4587f589-19ad-11f0-.. DosDevicestD:
+器器
+DosDevicesE:
+??^volume(b1876fd1-1b54-11f0.. DosDevicestF:
+Type
+BEG BINARY REG BINARY REG_BINARY BEG BINARY REG BINARY REG_BINARY
+Data
+44 4D 49 4F 3A 49 44 3 D5 D7 B2 DD CC 68 94 44 93 24 99 32 71 38 29 0 5C 00 3F 00 3F 00 5C 00 53 00 43 00 53 00 49 00 23 00 43 00 64 00 52 00 6 5C 00 3F 00 3F 00 5C 00 53 00 43 00 53 00 49 00 23 00 43 00 64 00 52 00 8 44 4D 49 4F 3A 49 44 3A 23 35 0D 84 A1 AA 64 46 9A 80 D2 37 C8 1A A4 D
+56 65 72 61 43 72 79 70 74 56 6F 6C 75 6D 65 46 56 65 72 61 43 72 79 70 74 56 6F 6C 75 6D 65 46
+口
+000102030405060708090A0B0C0D0E0F
+0x0
+566572614372797074566F6C756D6546
+0123456789ABCDEF MeraCryptVolumeF
+x

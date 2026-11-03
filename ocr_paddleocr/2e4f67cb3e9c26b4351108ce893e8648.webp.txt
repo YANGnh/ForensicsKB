@@ -1,0 +1,12 @@
+# OCR: 2e4f67cb3e9c26b4351108ce893e8648.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/2e4f67cb3e9c26b4351108ce893e8648.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+const_0x7ea2 = crypto[0xd8c3(5)]C0x2f76.a,_0x2f76.k let0x9d42
+if (text.length>o){
+0x9d42 = Buffer[_0xd8c3(6)]([
+0x7ea2[0xd8c3(7)](text.toString0.0xd8c3(1)
+0x7ea2[0xd8c3(8)]0);
+Jelset

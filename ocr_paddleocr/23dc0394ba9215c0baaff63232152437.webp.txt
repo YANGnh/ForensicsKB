@@ -1,0 +1,26 @@
+# OCR: 23dc0394ba9215c0baaff63232152437.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/23dc0394ba9215c0baaff63232152437.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Applicationrunfailed
+ERRU
+CdLLOl
+org.springframework.cLoud.consul.config.
+ConsulPropertySourcessPropertySourceNotFoundException:com.
+cwid.consul.transport.TransportException:
+org.apache.http.conn.HttpHostConnectException:
+Connectto
+LocaLhost:85oe
+[localhost/127.e.e.1.
+Localhost/o:0:0:::0:0:1]failed:Connectionrefused
+(Connect
+onrefused
+oud
+onsu
+Cont
+n
+a3+0
+rn
+Consu

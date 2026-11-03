@@ -1,0 +1,17 @@
+# OCR: ed424e97653eb0ef84fae79c432dd3cf.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/ed424e97653eb0ef84fae79c432dd3cf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+导入向导
+这个向导允许你指定如何导入数据。你要选择哪种数据导入格式？导入类型：
+ODBase文件（*.dbf) Paradox文件(*.db）
+文本文件（*.txt) OcsV文件(*.csv)
+Excel文件(*xls;*xlsx)
+OXML文件（*xml) OJSON文件（*json)）
+MsAccess数据库(*.mdb;*.accdb) OODBC
+步
+口
+取消
+x

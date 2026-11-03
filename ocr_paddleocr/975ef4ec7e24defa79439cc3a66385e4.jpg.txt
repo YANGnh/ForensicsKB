@@ -1,0 +1,32 @@
+# OCR: 975ef4ec7e24defa79439cc3a66385e4.jpg
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/975ef4ec7e24defa79439cc3a66385e4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+序号服务器 DC1
+192168099/24 1921680100/24
+VCSA1
+账号密码 Ore
+administrator/3w.pangunte.tom
+ftpserveritp/ftp123.@# root/P@99word
+administratoropas.cup/Pa99word
+ESXi11
+192168.0.107/24root/P@88word
+ESXi2
+192.168.0.102/24
+192168.0.103/24 ESXI31
+root/P@
+a
+root/Pa88word
+meeting192168.0.104/24root/3w.panquite.com dubo192168.0105/24root/3w.panguite.com
+192.168.0.106/24admin/3w.pgs.cup
+8
+caiwu
+shichang
+192168.0.107/24
+ladmin/3w.pas.cum
+2880 Vsan
+192168.20.201 ysan2
+192168.20.202 Vsan3
+192168.20203

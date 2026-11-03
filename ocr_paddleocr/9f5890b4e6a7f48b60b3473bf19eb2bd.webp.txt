@@ -1,0 +1,28 @@
+# OCR: 9f5890b4e6a7f48b60b3473bf19eb2bd.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/9f5890b4e6a7f48b60b3473bf19eb2bd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+g
+出John的笔记本>
+三序号口1 口2 口3
+详细信息
+三名称过滤
+ADBInterface
+基本信息>
+HPUSBOpticalMouse Quest3
+名称：Quest3
+厂商产品版本：OculusMTP
+USB设备信息
+三设备描述过滤
+其他名称：ADBInterface
+其他名称：USBInputDevice
+其他名称：XRSPInterfaceADBInterfa
+设备描述：其他名称：XRSPInterface，ADBInterface 设备序列号：2G0YC5ZFB307D7
+设备类型：Communication.Phone.Cell
+设备实例路径：USB\VID2833&PID0183&MI00\6&1621d65b&0&0000
+首次接入时间：2024-08-2813:57:07 最后接入时间：2024-08-2813:57:06 最后弹出时间：2024-08-2814:15:12 服务：WUDFWpdMtp
+硬件ID:USBIVID_2833&PID_0183&REV0510&MI00USBIVID2833&PID0183&MI00
+设备Guid：(eec5ad98-8080-425f-922a-dabf3de3f69a) 驱动：(eec5ad98-8080-425f-922a-dabf3de3f69a))0002
+全路径：John_desktop.e01/分区3/Windows/System32/config/SYSTEM 已删除：否

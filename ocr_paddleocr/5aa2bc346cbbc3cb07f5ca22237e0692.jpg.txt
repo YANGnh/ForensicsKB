@@ -1,0 +1,49 @@
+# OCR: 5aa2bc346cbbc3cb07f5ca22237e0692.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/5aa2bc346cbbc3cb07f5ca22237e0692.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+口
+区
+国州序号口33 口34
+详细信息
+vm-112-disk-0.qcow2/文件系统/vm-112-disk-0.qcow2/分区7/etc
+三名称过退
+2E shadow shells
+名格；shadow 类型：文件大小：715B
+创建时间：2024-03-1416:35:07 访间时间：
+2024-03-25 10:03:19
+修改时间：
+2024-03-14 16:35:07
+MetaAddr:526354
+三大小等于
+715B 44 B
+全路径：vm-112-disk-0.qcow2/分区7/etc/shadow
+加座类型：未加密已前除：否
+三创速时间
+起始
+结束
+Y
+2024-03-1416:35:07 2024-03-14 16:33:31
+三稳改时间
+起始
+结束
+2024-03-14 16:35:07 2021-07-16 16:35:49
+三全路径过速
+r
+vm-112-disk-0.qcow2/分区7/etc/shadow vm-112-dlisk-0.qcow2/分区7/etc/shells
+原类型视惠
+PAGE
+文本规图
+ZOOM
+十六进制视图
+HIGHLIGHT
+在etc中搜素
+$sn3$y4ugnT97qdBF9vK1$pLPuh3FiNPVIMnfcp.uFTXPwEqtNtJQ9gMhsPSYetul
+root bin:
+daenon:*:19718:0:99999:7::5 ad:*:19718:0:99999:7::
+1p:*:19718:0:99999:7: syme::19718:0:99999:7:
+shutdowm:*:1971B:0:99999:7:
+Q
+0:99999:7

@@ -1,0 +1,13 @@
+# OCR: c990f3d0cf2ad8aa13f222358f63a068.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/c990f3d0cf2ad8aa13f222358f63a068.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+command standard output:
+的用户帐账户 admini
+administraotrl
+Guest
+delete
+命令运行完毕，但发生一个或多个错误。
+Administrator

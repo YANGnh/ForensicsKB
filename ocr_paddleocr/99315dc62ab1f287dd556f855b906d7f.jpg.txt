@@ -1,0 +1,21 @@
+# OCR: 99315dc62ab1f287dd556f855b906d7f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/99315dc62ab1f287dd556f855b906d7f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+用户搜索用户姓名口 Laolil
+日
+MoneyMoney ③Rocket.Cat
+laosu
+用户名 Laoli Zhao
+rocket.cat laosu
+电子部器 lao@li.com
+admin@admin.com lao@su.com
+Roles user
+usert,admin
+bot user
+状春离线在线在线离钱
+Invite
+&Newuser
+Q

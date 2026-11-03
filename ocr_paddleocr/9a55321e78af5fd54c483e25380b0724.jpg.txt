@@ -1,0 +1,12 @@
+# OCR: 9a55321e78af5fd54c483e25380b0724.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/9a55321e78af5fd54c483e25380b0724.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+181ceshiceshi
+e10adc3949ba59abbe56e057f20f883e0
+/Public/Home/user/image/3.png16881851210 182.121.214.129101263842.000.000.0000.00/Uploads/grcode/2020-09-
+19/16004874121014314374.png10000.00
+4297f44b13955235245b2497399d7a93 mntonnde
+pad

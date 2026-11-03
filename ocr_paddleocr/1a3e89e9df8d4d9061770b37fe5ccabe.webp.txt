@@ -1,0 +1,54 @@
+# OCR: 1a3e89e9df8d4d9061770b37fe5ccabe.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/1a3e89e9df8d4d9061770b37fe5ccabe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+国基本信息》
+John的笔记本>
+口三序号口4 5 口6 07 8
+详细信息
+=名称过滤
+HP320M USBOptical Mouse
+USB设备信息
+三设备描述过滤
+其他名称：USBInputDevice
+USB SanDisk 3.2Gen1 USB Device Samsung PSSD T7 SCSI Disk Device
+Apple iphone DataTraveler 3.0
+名称：
+USBSanDisk3.2Gen1USBDevice 厂商_产品_版本：USB_SanDisk3.2Gen1_1.00
+设备播述：
+其他名称：
+其他名称：USBSanDisk3.2Gen1USBDevice,D::实际客其他名称：SamsungPSSDT7SCSIDiskDevice,新增磁碟匾
+其他名称：AppleiPhone 实际客量：14G
+USB SanDisk3.2Gen1USBDevice,D::实际容量：57G
+设备序列号：
+01010de54f417fee2292
+设备类型：
+Storage
+设备实例路径：首次接入时间：最后接入时间：
+三设备序列号过滤
+01010de54f417fee2292 A001009T0JNJX6S
+00008030001951CA0130C. 6B0EA9404CC3
+在USB设备信息中搜索
+非设备类型过滤
+Input.Mouse
+Storage Storage Unknown Storage
+Q
+排设备实例路径过滤
+USBIVID_04613 USB\VID_0781 USB\VID_04E8 USB\VID_05AC USB\VID_0951
+USB\VID_0781&PID_55A01010de54f417fee2292cb6b6ed760608009cace6e76a
+aladc01f795b0a78147980ec00000000000000000000f079f7d4ff8e4c00a955810797af4cf9
+2024-08-01 16:15:04 2024-08-01 16:15:04
+最后弹出时间：
+2024-08-01 17:01:27
+USBSTOR
+服务：
+硬件ID：
+USB\VID_0781&PID_55A9&REV_0100USB\VID_0781&PID_55A9
+设备Guid：
+(36fc9e60-c465-11cf-8056-444553540000)
+(36fc9e60-c465-11cf-8056-444553540000)\0003 驱动：
+全路径：
+John_desktop.e01/分区3/Windows/System32/config/SYSTEM
+已制除：否

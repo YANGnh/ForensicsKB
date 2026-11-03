@@ -1,0 +1,33 @@
+# OCR: 5427d5b1d177911d4a05eae5cc88da45.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/5427d5b1d177911d4a05eae5cc88da45.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+rocketchat 控制台
+an
+监控
+一般信息@网络
+主机名称 IP地址
+VMwareTools
+目存储自备注
+打开电源
+■关机 debian
+挂起
+S重新启动
+rocketchat 客户机操作系统兼容性
+VMwareTools
+CPU 内存
+主机名称
+C
+1.192.168.8.16
+2.fe80:20c:29ff.fe74:226f 3.172.18.0.1
+4.fe80:42:9ff.fee8:7fae
+已安装且正在运行 1磁盘
+编辑
+C刷新
+身操作
+DebianGNU/Linux10(64位)
+ESXi6.7及更高版本（虚拟机版本14)
+是 2 2GB debian
+编辑备注

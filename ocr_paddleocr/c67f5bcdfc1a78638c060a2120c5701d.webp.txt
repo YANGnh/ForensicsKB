@@ -1,0 +1,8 @@
+# OCR: c67f5bcdfc1a78638c060a2120c5701d.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/c67f5bcdfc1a78638c060a2120c5701d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Recoverykey:
+469876-653598-354629-023573-566423-569162-055055-432267[c0py]*TheKeyfordatadecryptionwasfound!

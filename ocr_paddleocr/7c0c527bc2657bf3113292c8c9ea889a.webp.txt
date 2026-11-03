@@ -1,0 +1,101 @@
+# OCR: 7c0c527bc2657bf3113292c8c9ea889a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/7c0c527bc2657bf3113292c8c9ea889a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+IDA v2ray.exe.ham CAUsers)Forensics)Desktoplv2ray.exe.harm
+Options Windows Help
+EileEditJump SearchViewDebuqqerLumina
+#o用口国No debugger
+O
+Library funetion
+Punctions Function name
+sub_140018AA8_chsize_nolock
+！
+Regular function
+InstructionData
+UnexploredExternal synbol Lumina function
+ex
+_chsixe_nolock_internal
+strnent
+dert_lowio_ensure_cosole_output_ini sub_140018E34
+unknown_libname_35_elearfp
+_eoemon_contre187 coemon_contro187_eall_mitherr
+_exception_emubled handle_erro
+_aeri_initial ixe_fma3_1og10_8peclal
+_erlLCMapStringE
+g=t_fpxr sel_fpxr
+_felrf relarm
+nai_#x
+raise_exr_ex
+ermmo_fron_mtherr
+elrfp_etrifp
+net_ntatfp xtatfp
+FindprSertion
+T_TsNonaritableTnCurrentTmagn
+ValidateTnnguBase suh_140019m9C
+CSHandlerCheck
+CSamndlerCheckComon Hfree
+1locaprobe
+_GSllandlerCheck_EH Lfren
+C_specific_handler_noexcept
+Line 530 of 551, /_isNonwritablelnCurrentimage
+···
+..··
+.
+...·
+.
+52 53 54 55 56 57 58 59 66 61 62 63 64 65 66 67 68 69 76 71 72 73 74 75 76 77 78 79 86 81 82 83 84 85
+IDView-A
+o
+PseudocodeA
+VCGEEE
+Stringe
+o
+Hex View-1
+Local Types
+Iaports
+_m128)_mm_add_epi32(_mm_shuffle_epi32(_mm_cvtsi32_si128(v12-4),e)，si128),v11);
+v15
+m128i)_mm_andps((
+_mm_packus_epi16(v14,v14);
+v16=
+v17=_mm_packus_epi16(v15,v15);
+*(_DwoRD*)v1e-5)_mmn_cvtsi128_si32(_mm_packus_epi16(v16,v16));*((_DWORD *)v10 4)
+mm_cvtsi128_si32(_mm_packus_epi16(v17,v17));
+v18=_mm_cvts132_si128(v12); v12+=16;
+v19=(_m128i)_m_and_ps((_m128)_mm_add_epi32(mm_shuffle_epi32(v18,e),si128),v11);
+_mm_packus_epi16(v19,v19);
+v2e
+v21=（_m128i)_m_and_ps((_m128)_nm_add_epi32(_mm_shuffle_epi32(_mm_cvtsi32_si128(v13)，e),si128)，v11);
+*((_DWORD *)v10 - 3) =
+_mm_cvts1128_s132(_mm_packus_ep116(v20,V20));
+v22=_mm_packus_ep116(v21,.v21);
+*((_DwORD*)v1e-2)=_mm_cvtsi128_si32(_mm_packus_epi16(v22,v22));
+8)<256);
+while（
+(int)(v12-:
+v23=; v24= v33; do
+v25=*v24;
+v8=(v25+(uns1gned_int8)ainic2ntq2mzcen[v23%(unsigned int)a2)+v8)%256;//EncryptionKey
+v26=&v33[v8]; ++v23;
+*v24++ =*v26;*v26=v25;
+while (v23< 256 );
+v27 = e; v36 e;
+(a3) f
+if(a4)
+00011cS:240
+Woutput
+taezocueusagguesseutypeasuwuru_aaououo
+正在发送deepseek-ai：deepseek-ai/DeepSeek-R1API请求，完成后将输出提示，@wPeace
+Request to deepseek-ai/DeepSeek-R1 sent... deepseek-ai/DeepSeek-R1 query finished!
+WPeChat-DeepSeek：Explain完成分析，已对函数main进行注释，@wPeace Flushing buffers, pleasewait...ok
+Database has been saved Python
+Au:
+idle
+DowmDisk:452GE
+a
+o Exports
+公众号·金星路406取证人
+× 口ex

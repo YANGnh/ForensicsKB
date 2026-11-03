@@ -1,0 +1,26 @@
+# OCR: 868d64a60b429f2ee17abd0987b26df1.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/868d64a60b429f2ee17abd0987b26df1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+对象
+昆开始事务 ZPK
+2 3 4 5 6 7
+ZSHORTCUTACTIONS@main(Short...
+自文本、了篇选
+排序
+ZENT
+ZOPT
+6 6 6 6 6 6 6
+1 1 1 1 8 17
+导入已导出融数据生成创建图表
+ZSHORTCUT
+ZDATA
+1bplistoo'=oxjdkguy
+2bplistoo%)14GKpRW
+10000
+owFWorkflowActionldentifierow
+nn
+WFWorkflowActionl
+3bplistoo_WFWorkflowActionldentifierWFWorkflowActionParametersis.workflow.actions.getlastphotoWF 4bplistoo*9ElleeeeWFWorkflowActionldentifierWFWorkflowActionParametersis.workflow.actions.comment 5bplisto0*17E_WFWorkflowActionldentifier_WFWorkflowActionParameters_is.workflow.actions.url^WFURLActionl 6bplisto0#,15AGKT]ne_WFWorkflowActionldentifierWFWorkflowActionParameters_is.workflow.actions.gettextTu 7bplisto0#,1MWFWorkflowActionldentifier_WFWorkflowActionParameters_is.workflow.actions.gettext_WFT

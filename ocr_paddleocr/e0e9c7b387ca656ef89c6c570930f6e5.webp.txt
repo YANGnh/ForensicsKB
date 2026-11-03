@@ -1,0 +1,25 @@
+# OCR: e0e9c7b387ca656ef89c6c570930f6e5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/e0e9c7b387ca656ef89c6c570930f6e5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+HashMyFiles
+File
+Edit
+View
+学口因
+Filename reco
+recphrase
+Options
+Help
+国电图
+MD5
+3f97fb746f30f06078189ef38c84f86e 3f97fb746f30f06078189ef38c84f86e
+FullPath
+F:FICFinalFile\检材1/reco
+F:FICFinalFile\检材1recphrase
+口
+Modified Time
+x
+2025/5/1312:10:24 2025/5/1312:10:24

@@ -1,0 +1,116 @@
+# OCR: 4ca990b13c691a25263d92c70a1021ca.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4ca990b13c691a25263d92c70a1021ca.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+X-WaysForensics-[检材2-计算机.E01]
+文件(E)编辑(E)搜索(S导航(N)查看M)工具(D)专业工具()选项(O)窗口(W)帮助（H)
+文件(L)编辑
+中 o 简?
+富蹈阳#
+检材2-计算机分区类型：GPT 文件名称分区01 分区02 分区03 分区04 分区05 分区06 分区07 平分区08 分区09 第分区09 分区10 分区10 起始扇区分区间隙
+美酒
+个
+检材2-计算机.分区9
+检材2-计算机，分区10RAID0:检材2-计算机，分区9+检材.
+了描述一分区，存在的分区，存在的分区，存在的分区，存在的分区，存在的分区，存在的分区，存在的分区，存在的
+文件类型
+FAT32 NTFS NTFS NTFS FAT32
+大小创建时间
+100MB 16.0MB 69.2GB 727MB 100.0GB 130GB 191MB 3.7GB
+ThefollowingcontainerpartitionisacomponentofaRAD JUID:(2A6340E0-F182-7820-A635-4A4C3BCA8526)
+helpstoidentifytheothercomponents) RAIDlevel:0
+未分区空间
+磁盘 Offset
+4BFA500000 4BFA500010 4BFA500020 4BFA500030 4BFA500040 4BFA500050 4BFA500060 4BFA500070 4BFA500080 4BFA500090 4BFA5000A0 4BFA5000B0 4BFA5000C0 4BFA5000D0 4BFA5000E0 4BFA5000F0 4BFA500100 4BFA500110 4BFA500120 4BFA500130 4BFA500140 4BFA500150 4BFA500160 4BFA500170 4BFA500180 4BFA500190 4BFA5001A0 4BFA5001B0 4BFA5001C0 4BFA5001D0 4BFA5001E0 4BFA5001F0 4BFA500200 4BFA500210 4BFA500220
+DE 05 00 25 00
+55 D F 00 DF 00 3C 38 00 00
+D Dr D
+00 00 OD 00 00 00 96 00 00
+Componentcount:2
+Componentposition/status:0
+Strip sizeinsectors:1024
+B3 B9 o0
+B3 33 DC B3 DC B3 B3 AF
+83 A 40 DO 00 B9 D 00
+00
+00
+00 Do
+Qo 00 00
+00 EL
+E3 ED
+扇区637.347.840/838860.800
+00 00 00
+00 c
+0 oc
+Do D0 00
+00 25
+0o OF 00
+38 n0
+0 Q0 1F
+00 DC
+OC DC D DC C D
+OC D o 00 00
+4B 0o
+og 00 D 3E 00 2F 00 00 3A 00
+00 D0
+n0 00
+00 00 EC DC 00 RE DO 00 32 00
+B2 5C B3 B3 83
+B3 Dc oc BC
+BC De
+B2 00
+DC Do 00 00
+EL F 00 ED
+Qo oc 00
+E
+37 De
+Do
+n0 00
+3F 00
+偏移地址：
+00 0
+00 OC DO 0
+0 D0
+00 00
+3 3
+82
+RAID0:检材2-计算机，分区9+检材.分区09
+修改时间
+同步
+ANSI ASCII
+K?#&?
+x
+t? >?
+2 请
+图 22
+4BFA500000
+?记录更新时间
+文件属
+H H
+SH
+第1扁区
+2.048 206.848 239.616
+145,307,648 146,798,592 356,511,744 629,143,552 629,534,720 637347840 637.415.424 735,004,672 735,072,256
+0
+146,796,544 832,661,504
+=222选块
+无
+包
+x
+20.5SR-1x64× 2+0+3=5文件，10分区总计选中：1文件（33.0MB）
+[Z:检材2-计算机.E01] 只读模式
+总容量：
+400GB
+429,496,729,600字节
+每扇区字节数：分区：
+相对扇区号：模式：
+偏移地址：每页字节数：当前窗：窗总数：
+剪贴板：
+暂存文件夹：
+512 9 0
+十六进制十六进制 35x16=560
+6 可用
+102GB空余 C:XWtemp
+无

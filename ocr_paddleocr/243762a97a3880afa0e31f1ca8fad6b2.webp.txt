@@ -1,0 +1,25 @@
+# OCR: 243762a97a3880afa0e31f1ca8fad6b2.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/243762a97a3880afa0e31f1ca8fad6b2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+efaut
+Switch
+蓝牙网络连接以太网（内核调试器）用户名
+Administrator DefaultAccount
+Guest
+WDAGutiiityAccount
+172.24.192.
+255-255240-SID
+S-1-5-21-2119920595-1839877101-3701769345-500
+密码提示 b
+<用户信息>
+过期时间
+上次登录时间
+2024-10-2521:56:51
+1601-01-01 1601-01-01 1601-01-01
+08:06:00 08:06:00 08:06:00
+登录次数
+24 0 0
+爱

@@ -1,0 +1,19 @@
+# OCR: 4a709d429963eb9dcc13721eb59e4389.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4a709d429963eb9dcc13721eb59e4389.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+口
+三序号口1?2 口3 口4 口5 口6
+UUID/1 三名称过滤
+Recyclebin
+boot dey
+etc(2257)
+home
+（2509）
+lost+found
+三大小等于
+三创建时间起始
+结束
+2025-05-13 10:55:59 2025-05-0910:49:26 2025-05-09 10:46:10 2025-05-09 10:49:25 2025-05-09 10:49:26 2025-05-09 10:46:09

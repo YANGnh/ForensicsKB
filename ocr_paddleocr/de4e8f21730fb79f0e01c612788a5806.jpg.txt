@@ -1,0 +1,18 @@
+# OCR: de4e8f21730fb79f0e01c612788a5806.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/de4e8f21730fb79f0e01c612788a5806.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+Recipe
+URLDecode From Base64 Aiphabet
+A-Za-zo-9+/=  strict mode
+日
+?
+Removenon-alphabetchars
+Input
+Y2QgIi93d3cvd3d3cm9vdC93d3cudHBzaG9wLmNvbSI7d2hvYW1p02VjaG8gOwY3ZGQ7cHdk02VjaG8gZGVhNzVhzjceMzE1
+mt96
+Output
+9e
+cd"/www/wwwroot/www.tpshop.com";whoami;echo9f7dd;pwd;echodea75af74315

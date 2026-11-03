@@ -1,0 +1,31 @@
+# OCR: 044a6cb89f920230984a83f0152337f1.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/044a6cb89f920230984a83f0152337f1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+田合
+控制面板
+Q
+搜素
+文件共享
+共享文件夹文件服务用户与群组域/LDAP
+连接性外部访问网络安全性
+终端机和SNMP 系统
+信息中心登录门户
+用户帐号新增名称 admin guest LFR
+用户群组编辑
+高级设置删除
+导出、
+电子邮件
+委派
+描述
+System default user Guest
+刘福荣登录账号
+2FA状态已禁用已禁用已禁用
+丫过滤
+?
+状态正常已停用正常
+口
+3个项目
+x C

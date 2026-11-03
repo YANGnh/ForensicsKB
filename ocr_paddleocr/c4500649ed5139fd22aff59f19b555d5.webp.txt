@@ -1,0 +1,33 @@
+# OCR: c4500649ed5139fd22aff59f19b555d5.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/c4500649ed5139fd22aff59f19b555d5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+XMLView Key
+Root 白
+List View
+WFWorkflowActionldentifier.-.WFWorkflowActionParameters 中
+WFWorkflowActionldentifier WFWorkflowActionParameters 白
+WFWorkflowActionldentifier...WFWorkflowActionParameters
+WFWorkflowActionldentifier +WFWorkflowActionParameters 日
+WFWorkflowActionldentifier WFWorkflowActionParameters
+WFWorkflowActionldentifier.+..WFWorkflowActionParameters 日
+WFWorkflowActionldentifier..WFWorkflowActionParameters o
+WFWorkflowActionldentifier..WFWorkflowActionParameters 日
+WFWorkflowActionldentifier...WFWorkflowActionParameters
+WFWorkflowActionldentifier WFWorkflowActionParameters 日
+WFWorkflowActionldentifier...WFWorkflowActionParameters
+WFWorkflowActionldentifier·WFWorkflowActionParameters 日
+WFWorkflowActionldentifier WFWorkflowActionParameters WFWorkflowActionldentifier WFWorkflowActionParameters
+Type array dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict
+Value
+is.workflow.actions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable is.workflow.actions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable is.workflow.actions.selectphoto is.workflow.actions.hash
+is.workflow.actions.setvariable is.workflow.actions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable is.workflow.actions.gettext
+is.workflow.actions.runsshscript

@@ -1,0 +1,38 @@
+# OCR: 08e418e562373a5a7df57a2676cabbb9.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/08e418e562373a5a7df57a2676cabbb9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+<key>outputName</key> <string>哈希</string>
+</dict>
+I0
+<key>WFSerializationType</key>
+<string>WFTextTokenAttachment</string>
+</dict>
+<key>wFVariableName</key> <string>cmd2</string>
+</dict>
+</dict> <dict>
+<key>wFWorkflowActionIdentifier</key>
+<string>is.workflow.actions.gettext</string>
+<key>wFWorkflowActionParameters</key> <dict>
+<key>WFTextActionText</key>
+string>cHl0aG9uIc9yb290L2Jhay5weQ==</string> <key>UUID</key>
+<string>4F636546-896B-4316-92E8-FA685020B89D</st1 </dict>
+</dict> <dict>
+<key>wFWorkflowActionIdentifier</key>
+<string>is.workflow.actions.base64encode</string>
+<key>wFWorkflowActionParameters</key> <dict>
+<key>WFInput</key> <dict>
+<key>Value</key> <dict>
+<key>OutputUUID</key>
+<string>4F636546-896B-4316-92E8-FA685020B89 <key>Type</key>
+Ctool
+base64X
+ctool1,397
+常用
+QBase64OURL编码
+加解密/签名
+校验
+OUnicodeOJWT解码
+cHI0aG9ulC9yb290L2Jhay5weQ= python/root/bak.py

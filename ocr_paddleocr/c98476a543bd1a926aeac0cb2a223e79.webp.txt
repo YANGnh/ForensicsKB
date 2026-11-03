@@ -1,0 +1,11 @@
+# OCR: c98476a543bd1a926aeac0cb2a223e79.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/c98476a543bd1a926aeac0cb2a223e79.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+口季度
+Q1 Q4
+T
+交易额
+11905189.860000035 5047293.770000005

@@ -1,0 +1,29 @@
+# OCR: e5818a93556870a1c895abc1d3c15e75.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/e5818a93556870a1c895abc1d3c15e75.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+M
+inaexntml common
+home mobile
+PwnKit-Exploit-main.htaccess
+command.php common.php
+conf.yml config.php
+245 250 251 252 253 254 255 256 257 258 259 260 261 262 263
+终端× admi
+5t 密码加密串
+AUTH_CODE'=>
+TPSHOP
+ORDER_STATUS'=>D
+0=>
+·待确让：
+1=>
+已确让：
+2 => 3 => 4 => 5
+已收货：已聊消：，
+*已完成，，//评价完已作废
+'SHIPPINGSTATUS'
+=> arra
+0=>
+未发货

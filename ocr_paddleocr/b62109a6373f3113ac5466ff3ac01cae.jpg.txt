@@ -1,0 +1,16 @@
+# OCR: b62109a6373f3113ac5466ff3ac01cae.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b62109a6373f3113ac5466ff3ac01cae.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+Xss平台
+主页
+注册
+test
+test@qq.com..
+请输入邀请码
+请输入手机号可以用来接收短信提醒（可空）
+提交注册
+登录
+注册

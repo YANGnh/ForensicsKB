@@ -1,0 +1,11 @@
+# OCR: 7b9e0f42ec7879c8736e59be7dd879dc.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/7b9e0f42ec7879c8736e59be7dd879dc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+21694206505
+41.225.208.189
+683908
+讯秒云
+2022-08-1213:53:04

@@ -1,0 +1,32 @@
+# OCR: 184cc41c1c5b7163fd608626d41bdd12.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/184cc41c1c5b7163fd608626d41bdd12.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+lwareWorkstation
+查看V
+虚拟机（M）
+X
+客进行搜索
+选项卡(T)
+企主页
+x kali-li 开启此虚护编辑虚拟机升级此虚拟
+设备图内存国处理器
+日硬盘(SCSI) 网络适配器周USB控制器
+声卡显示器
+描述
+KaliRolling(20 2025-03-07
+Username:kal Password:
+kali-linux-快照管理器
+111
+当前位置
+快照创建时间：2025/4/813:50:09
+名称(N)：111 描述(D):
+?口显示自动保护快照（S) 已选择1个快照
+转到(G)
+自动保护(A)..
+关闭(C)
+拍摄快照(T).. 保留(K) 克隆(o).. 删除(E)
+帮助
+x

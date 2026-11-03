@@ -1,0 +1,8 @@
+# OCR: bf1c99c273014290e07369fdd88ce69a.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/bf1c99c273014290e07369fdd88ce69a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+C:lusers\Administrator>whereadb.exe C:lusers\Administratorladb.exe
+D:\PentestTools\reverse\platform-tools_r31.0.2-windows\platform-tools\adb.exe

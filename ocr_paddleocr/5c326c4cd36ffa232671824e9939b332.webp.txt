@@ -1,0 +1,19 @@
+# OCR: 5c326c4cd36ffa232671824e9939b332.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/5c326c4cd36ffa232671824e9939b332.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Buy&Sell
+代币
+Account
+0x91cCc..b36c0 OETH SO.0OUSD
+发送
+Fundyourwallet
+兑换收藏品
+跨链桥
+Get started byadding someETHto
+yourwallet BuyETH
+ETH 以太坊
+Portfolio 活动
+OETH $0.0OUSD

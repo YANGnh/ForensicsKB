@@ -1,0 +1,14 @@
+# OCR: 3a0b05fb9f871c66c0629e18f6942eb9.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/3a0b05fb9f871c66c0629e18f6942eb9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+Wireshark·导出·HTTP对象列表
+文本过滤器：分组主机名
+flag
+内容类型
+6452192.168.85.130:8000image/png 6480192.168.85.130:8000image/png 6502192.168.85.130:8000image/png 6526192.168.85.130:8000image/png
+大小 19kB 19kB 19kB 19kB
+文件名 flag.png flag·png flag.png flag.png
+Content

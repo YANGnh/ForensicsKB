@@ -1,0 +1,22 @@
+# OCR: 2d1b6f4573619ce371b952f4c236806c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/2d1b6f4573619ce371b952f4c236806c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+XPROXMOXVirtualEnvironment8.1.4搜索
+文件夹视图
+数据中心 >LXC容器节点 V虚拟机
+100(Router)
+101(node1) 102(node2) 103(node3)
+111(javaserver) 112(sqlserver) 120(luck)
+>SDN 存储
+安
+虚拟机101(node1）在节点pve上
+目概要）控制台口硬件
+Cloud-Init
+选项任务历史?
+监视器日备份好复制 ③快照口防火墙权限
+添加
+没有标记。移除
+用户/群组/API令牌 Lu2k@pve

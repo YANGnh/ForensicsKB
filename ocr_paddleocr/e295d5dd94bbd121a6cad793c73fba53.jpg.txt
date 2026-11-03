@@ -1,0 +1,26 @@
+# OCR: e295d5dd94bbd121a6cad793c73fba53.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/e295d5dd94bbd121a6cad793c73fba53.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+伏季雅的手机
+三序号口1 口2 口3 □4
+详细信息
+名称过滤
+base.apk base.dm（3) lib
+oat (3)
+名称：base.apk 扩展名：apk 类型：文件
+大小：5.68MB
+基他应用>威尼斯>
+修改时间：2024-04-2509:54:43 MetaAddr：4861514752
+应用目录
+A
+大小等于 5.68MB 2.03KB
+OB OB
+三创建时间
+起始
+全路径：Samsung.tar/data/app/~~d5RswGhjSpfSedORAXePlw==/w2a.W2Ah5.jsgizfx.org.cn 58F4wvNvru38kmil8vjw9A==/base.apk
+加密类型：未加密已删除：否
+结束
+服修起好 202 202

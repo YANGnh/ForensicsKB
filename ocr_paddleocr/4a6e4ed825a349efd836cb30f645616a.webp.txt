@@ -1,0 +1,38 @@
+# OCR: 4a6e4ed825a349efd836cb30f645616a.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/4a6e4ed825a349efd836cb30f645616a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+田 >-
+控制面板
+Q
+搜素索
+连接性
+外部访问
+网络安全性
+终端机和SNMP 系统
+信息中心登录门户区域选项通知设置硬件和电源外接设备更新和还原
+常规
+人
+网络
+基本信息服务器名称 DSM版本
+存储
+Synology帐户 QuickConnectID 硬件
+产品序列号产品型号 CPU
+CPU时钟频率 CPU内核数物理内存大小
+散热状态风扇模式 USB设备 PCIeSlot1 时间信息 NTP服务器时区
+服务
+设备分析
+Home（编辑)
+DSM7.2-64561
+-（编辑）(编辑）
+2023LYC000000 DS3622xS+
+INTELXeonD-1531
+2.69 GHz 6
+4096MB 正常静音模式
+Virtual Mouse - VMware, Inc. pool.ntp.org
+？
+(GMT+08:0o) Beijing, Chongging, Hong Kong, Urumgi
+口
+x

@@ -1,0 +1,66 @@
+# OCR: 354bcfbb3b8025b19dd5f7c0cb636b5f.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/354bcfbb3b8025b19dd5f7c0cb636b5f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+Wireshark·追踪TCp流(tcp.streameq1315)·流量分析.pcapng
+2009/87/14 2009/07/14 2009/07/14
+11:20 11:28
+<DIR> <DIR>
+zh-HK zh-TW
+366,080zipfldr.dll
+09：41
+2550个文件
+1105151751字节
+98个目录51721289,728可用字节
+C:\windowslsystem32>systeminfo systeminfo
+主机名： OS名称： OS版本： OS制造商： OS配置：
+OS构件类型：注册的所有人：注册的组织：产品ID：
+初始安装日期：系统启动时间：系统制造商：系统型号：系统类型：处理器：
+BIOS版本：
+目录：
+Windows 系统目录：启动设备：
+系统区域设置：输入法区域设置：时区：
+物理内存总量：可用的物理内存：
+虚拟内存：最大值：虚拟内存：可用：虚拟内存：使用中：
+页面文件位置：域：
+登录服务器：修补程序：网卡：
+WIN-HID59GQEHT
+Microsoftwindows7企业版 6.1.7600暂哲缺Build 7600
+MicrosoftCorporation 独立工作站
+Multiprocessor Free windows用户
+00392-918-5000002-85642
+2019/6/8,14:55:50 2019/6/13,18:50:33 Vhare,Inc.
+ViwareVirtual Platform x64-basedPC
+安装了1个处理器。
+[e1]:Intel64Family6Model158Stepping9GenuineIntel36eeMhz
+Phoenix Technologies LTD 6.00,2018/4/13 C:Awindows
+C:windows/system32
+ADevicelHarddiskVolumei
+zh-cn;中文（中国） zh-cn;中文（中国）
+（UTC+08：00）北京：重庆：香港特别行政区，乌鲁木齐
+2,047MB 1,299MB 4,095MB 3,044MB 1,e51MB
+C:/pagefile.sys WORKGROUP
+暂缺暂麸
+安装了1个NIC
+[01]:Intel(R) PRO/10ee MT Network Connection
+连接名：
+启用DHCP：
+本地连接香
+IP地址
+[01]:192.168.85.258
+C:lwindows/system32>bitsadmin/rawreturn/transfergetfilehttp://192.168.85.13e:911/flag.png.c:/flag-png
+bitsadmin/rawreturn/transfergetfilehttp://192.168.85.13e:9011/flag-png c:/flag-png 分组5700237客户满分组，13服务器分组，9tum(s点主适牌，
+整个对话（133kB）意规
+Showdataas
+GBK
+滤掉此流
+打印
+另存为.
+返回
+关闭
+口
+X
+流1315 查找下一个N
+帮助

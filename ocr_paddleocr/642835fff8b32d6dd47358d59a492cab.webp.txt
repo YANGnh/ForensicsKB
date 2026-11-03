@@ -1,0 +1,28 @@
+# OCR: 642835fff8b32d6dd47358d59a492cab.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/642835fff8b32d6dd47358d59a492cab.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+后口 8
+不安全
+https://vcsa.pgs.cup
+mware 入门
+启动VSPHERECLIENT
+文档
+VMwarevSphere文档中心
+欢迎使用VMwarevSphere
+版权所有1998-2025Broadcom，Inc.保留所有权利。此产品受美国和国际版权法及知识产权法保护。VMware产品受http:/www.vmware.com/go/patents-cn中列出的一项或多项专利保护。
+对于管理员
+at
+☆
+華
+基于Web的数据存储浏览器
+宋
+使用Web浏览器可查找和下载文件（例如，虚拟机和虚拟磁盘文件)。
+浏览vSphere清单中的数据存储适用于开发人员
+vSphereWebServicesSDK
+了解用于管理VMwareESXi和VMwarevCenter的最新 SDK、工具包和API。获取示例代码、参考文档，参与我们的论坛讨论，以及观看我们的最新课程和网络研讨会。
+了解WebServicesSDK的更多信息
+了解有关vSphereAutomationSDK的更多信息
+浏览vSphere管理的对象浏览vSphereRESTAPl 下载受信任的根CA证书

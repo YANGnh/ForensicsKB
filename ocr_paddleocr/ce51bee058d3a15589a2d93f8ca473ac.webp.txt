@@ -1,0 +1,23 @@
+# OCR: ce51bee058d3a15589a2d93f8ca473ac.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/ce51bee058d3a15589a2d93f8ca473ac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+受害人手机检材.tar/miscibluedroid 口了文件名称一
+.=misc(595).=bluedroid(2)
+bt.config.bak btconfig.conf
+卷 infol
+「文件
+FileSource=Empty
+网预览
+TimeCreated=2023-12-2915:59:28[Metrics]
++LO详细
+口缩略图
+时间
+Salt256Bit=f557b06b88c08cc097f7d72ddba4a420a2797d796106b2bf5c5[Adapter]
+Address = 48:87:59:76:21:0f
+LELOCALKEYIRK=4d6d27188074d931767634e0a90b5347 LELOCALKEYIR=bbf33fb69912b10f6c89b9be08a5b1da
+LELOCALKEYDHK=da227605afbd8ed6378b9645a38bb9a6 LELOCALKEYER=2f76b214d4090400b94112fc00ea87d8 ScanMode = 0
+DiscoveryTimeout=120
+Name=2954949413Redmi10A

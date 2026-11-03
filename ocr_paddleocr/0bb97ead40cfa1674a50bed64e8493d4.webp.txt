@@ -1,0 +1,14 @@
+# OCR: 0bb97ead40cfa1674a50bed64e8493d4.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/0bb97ead40cfa1674a50bed64e8493d4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+Google Chrome
+7 wps office
+e
+解锁密钥环需要认证
+X
+一个应用程序想要访问密钥环“默认密钥环”，但该密钥环已上锁密码：
+取消
+解锁

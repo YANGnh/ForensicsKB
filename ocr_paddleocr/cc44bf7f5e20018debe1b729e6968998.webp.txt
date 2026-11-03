@@ -1,0 +1,22 @@
+# OCR: cc44bf7f5e20018debe1b729e6968998.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/cc44bf7f5e20018debe1b729e6968998.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+<MIuI-backup>
+.<jsonMsg/>
+.<bakversion>2</bakversion>.<brstate>3</brstate>
+<autoBackup>false</autoBackup>.<device>cancro</device>
+.<miuiversion>8.9.l3</miuiversion>
+.<date>1744711878838</date> <size>2552563032</size>
+<storageLeft>925798400</storageLeft>.<supportReconnect>true</supportReconr.<autoRetransferCnt>O</autoRetransferl <transRealcompletedsize>0</transRealo.<packages>
+<package>
+时间戳转换器
+时间载：时间戳类型：时间载的时区：目标时区：转换结果：作者：WXjzc
+口
+1744711878838 UNIX
+Asia/Shanghai UTC
+2025-04-1510:11:18
+转换
+× V

@@ -1,0 +1,26 @@
+# OCR: 0b8e3d4fb2419d8d7cfbb4de9245ffee.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/0b8e3d4fb2419d8d7cfbb4de9245ffee.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+vmwareEsxi
+导航器一主机
+管理监控品虚拟机目存储电网络
+5localhostlocaldomain虚以机
+舒创建注册虚拟机
+拟机 Sdata 通opemwt rocketchat
+净www 快速筛选器
+控制台
+净打开电通
+关电源
+挂趣
+C刷新
+V
+状态
+变握作
+正常?正常·正常正常
+已用空间 40GB 10GB 20GB 50GB
+客户机作系统 Y
+Centos7（64位） UbuntuLinux(32位）
+DebianGNU/Linux10（64位） Centos7(64位）

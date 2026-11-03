@@ -1,0 +1,19 @@
+# OCR: 9af85689708d5eddad304dea9b4e0ba7.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/9af85689708d5eddad304dea9b4e0ba7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+务导入向导
+你可以为源定义一些附加的选项
+字段名行：
+第一个数据行：最后一个数据行：格式
+日期排序：日期分隔符：时间分符：小数点符号：日期时间排序：
+0
+DMY
+日期时间
+上
+下一步
+口
+取消
+x

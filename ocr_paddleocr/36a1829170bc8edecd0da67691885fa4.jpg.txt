@@ -1,0 +1,13 @@
+# OCR: 36a1829170bc8edecd0da67691885fa4.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/36a1829170bc8edecd0da67691885fa4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+查询结果： admin
+密文：类型：
+$2y$10$e7z99Mhxm9BOHL55xHZTx.QcNTZJC6ftRXHC
+3200
+查询
+加密
+帮助

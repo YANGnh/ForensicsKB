@@ -1,0 +1,27 @@
+# OCR: 2cfd04d107eea9debaba80e8d144502d.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/2cfd04d107eea9debaba80e8d144502d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+计算机检材>目基本信息网络配置>网络适配器
+国序号口1 口2 口3 口4 口5 口6 口7 8 口9 口10 口11 口12
+=名称过滤
+Microsoft6to4Adapter
+MicrosoftIP-HTTPSPlatformA..
+WANMiniport(PPTP) WANMiniport(IKEv2）
+BluetoothDevice(PersonalAre.
+WANMiniport(SSTP) WANMiniport(IP)
+Intel(R)82574LGigabitNetwor. MicrosoftTeredoTunnelingAd. WANMiniport(NetworkMonit...
+WANMiniport(PPPOE) WANMiniport(L2TP）
+三适配器类型 ★
+虚拟网卡虚拟网卡虚拟网卡虚拟网卡虚拟网卡虚拟网卡虚拟网卡物理网卡虚拟网卡虚拟网卡虚拟网卡虚拟网卡 herm.ca
+是否隐藏
+过滤是是是是否是是香是是是是
+三当前MAC地址过滤
+14-AC-60-B3-45-FE 00-0C-29-BF-8B-30
+三物理MAC地址过滤
+14-AC-60-B3-45-FE 00-0C-29-BF-8B-30
+Y
+三连接方式
+未知未知未知未知有线未知有线有线未知有线未知未知

@@ -1,0 +1,12 @@
+# OCR: 031f0882081e75a1fa218c30ebdd01a6.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/031f0882081e75a1fa218c30ebdd01a6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+pay_money
+类型 int(11)
+不是null 香
+默认值(NULL)
+注释
+支付总金额

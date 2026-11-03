@@ -1,0 +1,16 @@
+# OCR: 5013c87ba141c089a1550f31707389d4.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/5013c87ba141c089a1550f31707389d4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+2%-运行SQL文件
+常规查询：已处理：错误：时间：
+信息日志
+1722 1524 0
+00:03.62
+[SQL] Query20250410-094648-1start
+暂停
+口
+停止
+x

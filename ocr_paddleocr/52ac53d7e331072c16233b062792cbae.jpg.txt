@@ -1,0 +1,21 @@
+# OCR: 52ac53d7e331072c16233b062792cbae.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/52ac53d7e331072c16233b062792cbae.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+检材3-计算机>
+三序号口1 口2 口3 口4 口5 口6 口7 口8 口9 口10 口11 口12 口13 口14 口15 口16 口17
+三标题过滤
+Chrome浏览器民历史记录
+EURL 过滤
+新约佛论禅/佛日加密…
+192.168.8.17 192.168.8.17 192.168.8.17 MoneyMoney MoneyMoney
+用户-MoneyMoney 用户-MoneyMoney 用户-MoneyMoney 用户-MoneyMoney 用户-MoneyMoney 用户-MoneyMoney 用户-MoneyMoney 用户MoneyMoney 用户-MoneyMoney 用户-MoneyMoney MoneyMoney
+http://hi.pcmoe.net/buddha.html
+http://192.168.8.17:3000/ http://192.168.8.17:3000/ http://192.168.8.17:3000/
+http://192.168.8.17:3000/home http://192.168.8.17:3000/home
+http://192.168.8.17:3000/admin/users http://192.168.8.17:3000/admin/users
+http://192.168.8.17:3000/admin/users/info/b8WfFZZWh8Y3cPs7f http://192.168.8.17:3000/admin/users/info/b8WfFZZWh8Y3cPs7f
+http://192.168.8.17:3000/admin/users/invite http://192.168.8.17:3000/admin/users/invite http://192.168.8.17:3000/admin/users/new http://192.168.8.17:3000/admin/users/new
+http://192.168.8.17:3000/admin/users http://192.168.8.17:3000/admin/users http://192.168.8.17:3000/home

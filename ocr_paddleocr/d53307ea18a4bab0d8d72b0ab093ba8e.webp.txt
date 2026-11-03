@@ -1,0 +1,8 @@
+# OCR: d53307ea18a4bab0d8d72b0ab093ba8e.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/d53307ea18a4bab0d8d72b0ab093ba8e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+除
+我欠你多少来着？[17:51] 899[17:51]

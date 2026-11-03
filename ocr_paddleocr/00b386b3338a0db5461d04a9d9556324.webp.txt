@@ -1,0 +1,34 @@
+# OCR: 00b386b3338a0db5461d04a9d9556324.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/00b386b3338a0db5461d04a9d9556324.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+m ForensicsTool
+密钥计算数据库解密数据提取注册表分析关于
+file
+G:12025平航杯1新建文件夹
+网络信息
+1 2 3 4 5 6 7
+o 10 11 12 13
+用户信息
+键
+Build信息 Build版本计算机名称版本信息
+安装时间(本地时
+系统名称发行ID 产品ID
+产品密钥备份非.. 系统时区
+上次正常关机时。上次登录的用户默认浏览器
+密码信息
+【G:12025平航杯】新建文件夹/NTUSER.DAT】
+值
+19041.1.amd64fre.vb_release.191206-1406 19045
+DESKTOP-Q87BVAS Professional
+2025-03-1015:33:55 Windows10Pro
+YC7N8-G7WR6-9WR4H-6Y2W4-KBT6X
+(UTC+08:00）北京：重庆，香港特别行政区，乌鲁木齐
+2025-04-1011:15:29 A起早王
+MSEdgeHTM
+口
+开始
+系统信息
+x

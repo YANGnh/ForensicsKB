@@ -1,0 +1,34 @@
+# OCR: f18cc5637325c86c752329cd040e55ac.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/f18cc5637325c86c752329cd040e55ac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+[root@master]#kubectldescribepodcaptcha-bot-6b4d85b765-25xg6-n default
+Name:
+Namespace: Priority:
+ServiceAccount Node:
+StartTime: Labels:
+captcha-bot-6b4d85b765-25xq6
+default
+0
+default
+node2/192.168.50.82
+Wed,17Sep202522:48:21+0800 app=captcha-bot
+pod-template-hash=6b4d85b765
+Annotations:
+cni.projectcalico.org/containerlD
+40716ec4ba113d25bf7c2890324d0b7634554681947b3599aedd59a08d30b1ab
+cni.projectcalico.org/podlP：10.224.104.21/32 cni.projectcalico.org/podiPs:10.224.104.21/32
+Status:
+Terminating(lasts125m)
+TerminationGracePeriod:30s IP:
+IPs:
+ControlledBy Containers: captcha-bot: ContainerID:
+<none>
+ReplicaSet/captcha-bot-6b4d85b765
+docker://8fadf590e1a8404ee09bb866f09547d699bbddd825b1a8dff5722aaef7209
+94d
+Image:
+alpine:latest
+公众号：金星路406取证人

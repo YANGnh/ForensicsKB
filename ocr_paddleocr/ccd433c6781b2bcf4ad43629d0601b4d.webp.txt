@@ -1,0 +1,20 @@
+# OCR: ccd433c6781b2bcf4ad43629d0601b4d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/ccd433c6781b2bcf4ad43629d0601b4d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+四HAP查看器
+文件
+查看
+工具
+虎小队
+商
+虎宽小队
+帮助
+应用名称：PGSDBW
+应用包名：com.example.pgsdsj 版本名称：1.0.0
+版本号码：1000000
+编译目标：API50005017（Beta1）技术探测：原生开发或未知开发技术
+口
+x 复制复制复制复制复制复制

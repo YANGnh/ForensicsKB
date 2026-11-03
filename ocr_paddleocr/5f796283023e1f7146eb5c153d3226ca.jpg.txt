@@ -1,0 +1,19 @@
+# OCR: 5f796283023e1f7146eb5c153d3226ca.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/5f796283023e1f7146eb5c153d3226ca.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+对象
+sys_user@ji-mei (2024FIC)-表
+鼠开始事务 jobid
+文本筛选排序
+job_name
+100红包过期处理 105红包立即退回
+job_group DEFAULT DEFAULT
+sysjob@ji-mei(2024FIC)-表
+导入导出数据生成咖l创建图表
+invoketarget
+cron expression
+redPacketTask.redPacketl0 0/2***? redPacketTask.redPacketl00/2***?
+1

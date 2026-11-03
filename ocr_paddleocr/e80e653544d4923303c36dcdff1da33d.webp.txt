@@ -1,0 +1,13 @@
+# OCR: e80e653544d4923303c36dcdff1da33d.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/e80e653544d4923303c36dcdff1da33d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+heygem-gen-video:
+image：guiji2e25/heygem.ai
+container_name:heygem-gen-video
+restart:always runtime：nvidia privileged: true volumes:
+d:/heygem_data/face2face:/code/data
+environment:
+PYTORCH CUDA ALLOCCONF=max split size mb:512 deploy:

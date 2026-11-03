@@ -1,0 +1,29 @@
+# OCR: 487f7e33a6f131a179b4921a59f98079.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/487f7e33a6f131a179b4921a59f98079.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+2
+D基本信息》
+应用列表
+口三序号口1 2 3 口4 口5 6 7 8 口9 □10 口11 口12 口13 口14 口15 口16 口17 18 口19
+三名称过滤
+小米账号
+应用包管理组件小米智能卡
+三包名过滤
+com.lbe.security.miui ru.meefik.linuxdeploy
+design.codeux.authpass.fdroid com.android.nfc
+com.google.android.documentsui
+com.kunzisoft.keepass.libre com.ivanovsky.passnotes
+keepass2android.keepass2android
+com.topjohnwu.magisk com.miui.powerkeeper com.android.systemui com.xiaomi.account
+com.miui.personalassistant
+com.android.mtp com.miui.home
+com.machiav3lli.backup com.miui.packageinstaller
+ru.meefik.busybox com.miui.tsmclient
+三应用分类其他其他其他其他其他其他其他其他其他其他其他其他其他其他其他其他其他其他其他其他
+三最后使用时间
+起始
+结束
+2025-05-13 16:32:23 2025-05-13 16:18:40 2025-05-1315:48:51 2025-05-13 15:12:33 2025-05-13 14:25:32 2025-05-1314:25:16 2025-05-13 14:24:03 2025-05-1314:21:46 2025-05-13 12:48:07 2025-05-12 19:10:02 2025-05-12 19:06:51 2025-05-12 19:05:54 2025-05-12 19:02:00 2025-05-12 11:00:35 2025-05-12 09:40:33 2025-05-09 10:41:37 2025-05-09 10:41:30 2025-05-0815:26:20 2025-04-29 16:20:01

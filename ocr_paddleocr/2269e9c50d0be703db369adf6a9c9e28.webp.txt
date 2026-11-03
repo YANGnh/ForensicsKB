@@ -1,0 +1,21 @@
+# OCR: 2269e9c50d0be703db369adf6a9c9e28.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/2269e9c50d0be703db369adf6a9c9e28.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+g
+AUUID-检材1-手机.tar>
+三序号口1
+三标题过滤
+reshacker_setup.exe
+Chromium浏览器>android>
+三URL 过滤
+https://www.angusj.com/..
+下载记录三保存位置过滤
+/home/android/Downloa...
+在下载记录中搜索
+三结束时间
+起始
+结束
+2025-05-13 10:11:56

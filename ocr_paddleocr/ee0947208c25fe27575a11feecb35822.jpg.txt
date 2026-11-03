@@ -1,0 +1,63 @@
+# OCR: ee0947208c25fe27575a11feecb35822.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ee0947208c25fe27575a11feecb35822.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+578 213 262
+76 e 51e 744 335 793
+Souroe
+192.163,300.100 222.2.2.2
+192368180:186 222.2.2.2
+192.16.100 222:2.2-3
+192.168.109.300 222.2.2.2
+192.168.100.108 222.2.2.3
+192.168.100.102
+Densnufot 222.2.2.2
+192.168.108.100 222.2.22
+192.168.160 733.2.2
+192:168,100-180 222.2.2,2
+192.168.100.180 222.2.2.2
+192.166.100.100 222.2.2.2
+ProtncolLengd
+UBa8)HTTP/1.148e totFound(text/htsl)
+HTTP HTTP HTTE
+HTTP HTTP HITP HITP HTTP HTTP
+224GET/7s-/adainHITP/2.1
+71HTTP/1.120eoK(text/htal)
+222GET
+apiHr/.
+thta
+wokefuncttonlfunctionacalls
+2246ET/eeiai.phpHFTP/1.1 257HTTP/1.1 200 0
+1793PO5T/peigt.phe
+HTTP/L
+29HTTP/1.
+application
+Feane5726:373bytas aeudre(298bit),573bytescaptures(29a4bits) thernetTTSrc:XsaoesMohsiebri6b6l(ec:de:fg:ha:Gb:6lDst:
+aare7f11br3d
+Internet Protecol version4,Srci222.2.2.2,Dst92.168.10e.10e ypr
+E/hux/aoin/ythink/app/invokafunctiorafunctton lser-gent
+lava/t1.0.11ry
+Host-222.2.2.18er
+Accept:text/html,inage/gif,image/Speg,*ze.2,*/*; q-,2rln Cosnectin:keepalivery
+aek
+rin
+LEdrenuest.BL:_httei//222.2.2.1e/2ua/adaio/thiakap/iavskefunctionsfuncti[HTTPrevest 1/2]
+LBaagonse.io_frame._5230
+Liext_resunt in fram:52321
+irlantnded
+e ec
+297F16
+7df53 64 64ccac0058 bp43 f6s0
+6bo474554202
+2f 56
+arrayavars[e]atlleu
+8456
+22032
+bf
+38
+rontentswaes[a3-pelgl.sho&vars[11ac7phpd2eeeva1(S.PosTlx. V
+nBs sa/adet pp/inve DnaFinc serfe ra[e
+ars11
+q

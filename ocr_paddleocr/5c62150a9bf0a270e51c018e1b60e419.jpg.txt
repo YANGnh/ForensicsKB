@@ -1,0 +1,56 @@
+# OCR: 5c62150a9bf0a270e51c018e1b60e419.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/5c62150a9bf0a270e51c018e1b60e419.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+[root@yourcodetnp#serviceredisstatus redisisrunning!(1e27)
+[root@yourcodetmp]#serviceredisrestart Stopping--
+CouldnotconnecttoRedisat 127.0.0.1:6379:Connectionrefused Redis stopped
+Starting redis server..-Starting redis success!
+[root@yourcodetnp#netstat-napt
+ActiveInternetconnections(serversandestablished)
+Proto Recv-o Send-o Local Address
+tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp6 tcp6 tcp6 tcp6 tcp6
+®··?? ®?····????· ®?·? e??
+0000.0:22352
+00.000:80 000.0.0:22 00.0.0.0-888 12700125
+0127.0.01-6379
+0192168.21713222352?
+192.168.217132-22 192.168.217 132-80
+192168-217-132-22352 e
+192168.217132-22352
+192.168.217.132.22 36
+192.16821713222352?
+192.168-217132-22352
+192168.217132-80 e
+192.168.217132-22352 192168.217132-22352?
+192168.217.132-22352
+0:22 1-25 3306 e
+01:50406 =:1:3306?
+tmp1#
+[root@yourcode
+Foreiqn Address
+0000-* 0.0.0.0.* 0.0.0.0:* 0.0.0.0:* 0000-* 00.0.0*
+192168.21701-50019 192168.2171-48927 192168-217.1-50131 192-168-2171-50007 192168.217.1:50008 192.168.217.1:39833 192.168.217.1:50005 192.168.217.1-50011 192.168.2171:50132 192168.2171-50014 192.168-217.1.50013 192.168217.1-50004
+*:-*-*
+:：1:3306:1:50406
+State LISTEN LISTEN LISTEN LISTEN LTSTEN
+PID/Programname 16960/python
+1436/nginx:master 1028/sshd
+1436/nginx:master 18e7/master
+LISTEN
+19477/redis-server
+ESTABLISHED16960/Python
+ESTABLISHED1791e/sshd:root FINWAIT2
+ESTABLISHED16960/python ESTABLISHED1696e/python
+ESTABLISHED9205/sshd:root@pts
+ESTABLISHED16960/python ESTABLISHED16960/Python FINWAIT2
+ESTABLISHED16960/python ESTABLISHED16960/python ESTABLISHED16960/python
+LISTEN LISTEN
+1028/sshd 1807/master
+2498/mysqld
+LISTEN
+ESTABLISHED17910/sshd:
+root
+ESTABLISHED2498/ySqld

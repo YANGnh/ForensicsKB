@@ -1,0 +1,12 @@
+# OCR: 584a9236f0bb56607d18a07029a99517.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/584a9236f0bb56607d18a07029a99517.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+DiskStation Manager
+版本7.2-64561 法律条款
+www.synolog.y.com
+版权所有2023SynologyInc.保留一切权利。
+Synology
+x

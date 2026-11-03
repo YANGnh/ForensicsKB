@@ -1,0 +1,15 @@
+# OCR: e493d1699ba4e648b7cfee66e34c7c62.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e493d1699ba4e648b7cfee66e34c7c62.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+node2-5
+到
+IncomingiPy4
+来自此设备
+wan
+端25555
+转发至
+lan
+IP192.168.100.102端5555

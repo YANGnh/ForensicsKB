@@ -1,0 +1,17 @@
+# OCR: 89d7a1dfd92dba00a35a417d822af89e.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/89d7a1dfd92dba00a35a417d822af89e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+Clara的安卓手机>Chrome浏览器>忌搜索历史
+国三序号口34 口35 口36 口37 口38 口39 口40 口41 口42
+三搜索内容过滤
+popmart popmart popmart
+popmart炒價 popmart炒價 popmart炒價 popmart炒價 popmart炒價 popmart炒價
+三时间
+起始
+结束
+2024-08-0814:04:09 2024-08-0814:04:11 2024-08-08 14:04:15 2024-08-08 14:04:15 2024-08-0814:04:16 2024-08-0814:05:18 2024-08-0814:08:08 2024-08-1517:21:19 2024-08-1517:21:20
+三原始URL 过滤
+https://www.google.com/s.. https://www.google.com/s.... https:/www.google.com/s.... https:/www.google.com/s.. https://www.google.com/s.. https:/www.google.com/s.. https://www.google.com/s.. https:/www.google.com/s... https://www.google.com/s..

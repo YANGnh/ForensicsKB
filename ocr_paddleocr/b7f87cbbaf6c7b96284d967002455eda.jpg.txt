@@ -1,0 +1,23 @@
+# OCR: b7f87cbbaf6c7b96284d967002455eda.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/b7f87cbbaf6c7b96284d967002455eda.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+BOOT-INF/classes/application-druid.yml
+1 2 3 4 5 6 7
+#数据源配置 spring:
+datasource:
+type:com.alibaba.druid.pool.DruidDataSource
+driverclassName:com.mysql.cj.jdbc.Driver druid：
+#主库数据源
+8 9 奔
+10 11 12 13 14 15 16 17 18
+##
+master:
+url:jdbc:mysql://localhost:33e6/ii-mei?useUnicode=true&characterE
+username:root password: root
+url:jdbc:mysql://127.0.0.1:3306/ji-mei?useUnicode=true&characterEn
+username：ji-mei password：12345678
+#从库数据源 slave:
+#从数据源开关/默认关闭 enabled:false

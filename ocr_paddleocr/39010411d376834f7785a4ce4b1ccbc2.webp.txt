@@ -1,0 +1,12 @@
+# OCR: 39010411d376834f7785a4ce4b1ccbc2.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/39010411d376834f7785a4ce4b1ccbc2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+团Fantions Function name
+fourl_yersion info
+Segment.text
+Start 004393C0
+Length 00000006
+Locak 000000

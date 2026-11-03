@@ -1,0 +1,11 @@
+# OCR: cf25284b5ebd9888a9886bd7a616f052.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cf25284b5ebd9888a9886bd7a616f052.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+修改数据库密码
+root密码
+1700fc6617b3c73d
+关闭
+提交

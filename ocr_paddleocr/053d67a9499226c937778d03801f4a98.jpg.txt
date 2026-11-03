@@ -1,0 +1,15 @@
+# OCR: 053d67a9499226c937778d03801f4a98.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/053d67a9499226c937778d03801f4a98.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+旨100%-运行SQL文件
+常规查询：已处理：错误：时间：
+信息日志
+501 501 0
+00:00.91
+[SQL]Query20230216182549start[SQL]Finishedsuccessfully
+开始
+口
+? 关闭

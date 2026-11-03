@@ -1,0 +1,17 @@
+# OCR: bb4134f2cdfd7fe272c88b82d14a04db.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/bb4134f2cdfd7fe272c88b82d14a04db.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+selectcompany.count(1)As信息数量fromappcardgroupbycompanyorderby信息数量desc
+国输出
+用 10
+A
+Result1X
+1-500V/501+
+DcompanyY 致远有限责任公司睿有限责任公司秀英有限责任公司诗涵有限责任公司宇宁有限责任公司岚有限责任公司璐有限责任公司震南有限责任公司子异有限责任公司嘉伦有限责任公司
+>
+?
+口信息数量
+916 911 886 875 863 856 850 848 846 831

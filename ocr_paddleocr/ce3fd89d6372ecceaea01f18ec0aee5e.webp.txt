@@ -1,0 +1,17 @@
+# OCR: ce3fd89d6372ecceaea01f18ec0aee5e.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ce3fd89d6372ecceaea01f18ec0aee5e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Recipe URL Decode From Base64 Alphabet
+A-Za-zo-9+/= strictmode
+日
+? O
+Removenon-alphabetchars
+Input
+L3d3dy93d3dyb29eL3d3dy50cHNob3AuY29tL2FwcGxpY2Feaw9uL1B3bktpdC1FeHBsb21eLW1haw4uemlw
+REC84
+1
+output
+/www/wwwroot/www.tpshop.com/application/PwnKit-Exploit-main.zip

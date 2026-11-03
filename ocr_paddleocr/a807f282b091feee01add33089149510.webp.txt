@@ -1,0 +1,27 @@
+# OCR: a807f282b091feee01add33089149510.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/a807f282b091feee01add33089149510.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+5
+&C:/Users/Administrator/AppData/Local/Programs/Python/Pvthon313/python.exe f/python/xiaoshuo.py
+python-m pip install --upgrade pip
+pipconfigsetglobal.index-urlhttps://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple pip install bs4
+pip install requests beautifulsoup4 tqdm
+python--version pip--version
+python-mpipinstall-Upip-ihttps://pypi.tuna.tsinghua.edu.cn/simple pipinstall requestsbeautifulsoup4tqdm
+pipinstall--only-binary=:all--find-linkshttps://pypi.org/simplerequests beautifulsoup4tqdm
+pipinstall-ihttps://mirrors.aliyun.com/pypi/simple/beautifulsoup4tqdm
+&C:/Users/Administrator/AppData/Local/Programs/Python/Python313/python.exe f:/python/db.py
+pipinstall-ihttps://mirrors.aliyun.com/pypi/simple/pymysql
+&C:/Users/Administrator/AppData/Local/Programs/Python/Python313/python.exe f:/python/db.py
+分析Windows检材，PowerShell中多少个命令关联URL地址(不去重)?[标准格式：123]
+编辑
+ List pip install commands using custom PyPI mirrors for Python environment setup
+o
+C
+心
+9
+o复制
+分享

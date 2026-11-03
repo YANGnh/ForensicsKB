@@ -1,0 +1,12 @@
+# OCR: 1bbc4f05b814d57e8f0a0b950beb50c7.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/1bbc4f05b814d57e8f0a0b950beb50c7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+Env
+"pATH-/mm/mattermost/bin:/usr/local/sbin=/usr/locau/bin:/usr/sbin:/usr/bin:/sbin:/bin-/usr/lib/postgresql/12/bin"
+"GOSUVERSION=117"LANG=enUS.utf8""PGMAJOR=12
+"PGVERSION=12.18-1.pgdg120+2"
+"pGDATA=/var/lib/postgresq/data""POSTGRESUSER=PPUSer
+"POSTGRESPASSWORD-mostest""poSTGREsDB=mattermosttest"

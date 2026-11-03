@@ -1,0 +1,19 @@
+# OCR: a23e044c0be6a8947043dd4a03a0624e.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/a23e044c0be6a8947043dd4a03a0624e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+文件公告：
+第一次公告.txt
+编辑
+会议系统地址
+查看
+老会议系统：http://meeting.pgs.cup:5003账号：姓名拼音，初始密码：pgs123456(请自行修改密码）
+新会议系统：https://meeting.pgs.cup:8443 市场PC：192.168.10.106用户名：admin密码：财务PC：192.168.10.107用户名：admin密码：
+行1，列1
+188个字符
+100%
+Windows (CRLF)
+UTF-8
+x

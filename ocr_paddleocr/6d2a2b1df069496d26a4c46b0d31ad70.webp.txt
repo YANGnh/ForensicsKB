@@ -1,0 +1,9 @@
+# OCR: 6d2a2b1df069496d26a4c46b0d31ad70.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/6d2a2b1df069496d26a4c46b0d31ad70.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+accesskey.kiliwwRzUkFZku secretkey'aWIGuibriEPVTQ 添加时间：2024-09-1921:29:13
+用户名：17859628390 dccode:ed8484bec
+ukev:54435a6024cc0be8c940

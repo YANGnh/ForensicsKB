@@ -1,0 +1,38 @@
+# OCR: 9218c9a2a720c7679e0525bd4783c330.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/9218c9a2a720c7679e0525bd4783c330.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+KPROXMOXVirtualEnvironment8.1.4搜索
+文件夹视图
+数据中心 >LXC容器圆节点 V虚拟机
+100(Router) 101(node1) 102(node2)
+103(node3) 111(javaserver)
+112(sqlserver) 120 (luck)
+>SDN 存储
+local(pve) local-lvm（pve） local2(pve)
+V
+安
+虚拟机112（sglserver）在节点pve上
+概要 >_控制台口硬件
+Cloud-Init 选项
+目任务历史?
+监视器备份好复制快照防火墙 0
+权限
+添加内存处理器 BIOS 显示
+o? 日川
+机型
+移除
+SCSI控制器
+没有标记。编辑
+CD/DVD驱动器（ide2）硬盘(scsio)
+网络设备(neto) 串行端口(serialo) 串行端口(serial1)
+磁盘操作
+4.00GiB
+还原
+4(1sockets,4 cores)[host
+OVMF(UEFI) 标准VGA(std) q35
+Virtlo ScSI single none,media=cdrom
+local2:112/vm-112-disk-0.qcow2.iothread=1,size=80G virtio=BC:24:11:C2:FF:D3,bridge=vmbr1firewall=1
+socket socket

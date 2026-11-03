@@ -1,0 +1,70 @@
+# OCR: 7fea4ddeb399ed738e0e5e09cb8817a9.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/7fea4ddeb399ed738e0e5e09cb8817a9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+ClusterPguscup
+摘要服务
+监控
+vSphereDRS
+配置
+V
+vSphere可用性
+配置
+快速入门常规
+密钥提供程序 VMwareEVC 虚拟机/主机组虚拟机/主机规则虚拟机替代项
+I/O筛选器主机选项
+主机配置文件许可
+VSAN集群 Trust Authority
+警报定义已调度任务
+vSphere集群服务常规
+数据存储
+VSAN 服务
+磁盘管理故障域
+数据存储管理
+所需状态映像配置
+V
+权限 0
+：操作主机
+虚拟机
+数据存储
+网络
+更新
+无法提取请求的数据。有关详细信息，请查看vSphereClient日志
+VSAN服务
+存储器
+集群类型存储类型 VSAN
+挂载远程数据存储
+SupportInsight 启用
+性能服务
+VSANHCI
+一个主机集群，用于提供紧密耦合的存储和计算资源，并集
+成到Hypervisor中以提供单个软件定义的基础架构。 VSAN
+VMwarevSAN是一个分布式软件层，作为ESXi
+Hypervisor的一部分在本机运行。vSAN可汇总主机集群中本地容量设备或直接连接的容量设备并创建在VSAN集群中的所有主机之间共享的单个存储池。
+已禁用已启用
+统计信息对象运行状况统计信息对象UUID
+统计信息对象存储策略合规性状态
+详细模式
+网络诊断模式编辑
+》文件服务
+已禁用已禁用
+已禁用
+VSANiSCSI目标服务启用
+数据服务空间效率
+静态数据加密密钥提供程序磁盘擦除
+传输中数据加密
+重新加密时间间隔
+编辑
+生成新的加密密钥
+预留和警示编辑
+高级选项编辑
+历史运行状况服务
+去重和压缩
+已禁用已禁用已禁用
+关闭集群
+关闭VSAN
+已禁用已启用
+历史运行状况服务可将所有vSANSkylineHealth数据最长保留3O天，具体取决
+于vCenterServer数据库的可用容量。编辑

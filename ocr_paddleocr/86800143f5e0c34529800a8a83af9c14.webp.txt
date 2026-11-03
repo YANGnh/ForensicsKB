@@ -1,0 +1,13 @@
+# OCR: 86800143f5e0c34529800a8a83af9c14.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/86800143f5e0c34529800a8a83af9c14.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+M.tarlmediaoFileCompress
+【文件名称
+..=0 (4,443)
+.=FileCompress(6)
+首1.txt.txt mm.txt qwe.txt
+使多大劲.txt
+生活.txt 1自重要.txt

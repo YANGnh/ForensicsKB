@@ -1,0 +1,15 @@
+# OCR: 1905c3b53c21ed80e56edd752ee7271a.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1905c3b53c21ed80e56edd752ee7271a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+<true/> </dict>
+<key>CarrierEntitlements</key> <dict>
+<key>lastGoodImsi</key>
+<string>454000082644582</string>
+<key>kEntitlementsSelfRegistrationUpdateImei</key> <string>356414106484705k/string>
+keyzkencltiementsserkeylstracionUpdateImsi</key>
+<string>454000082644582</string> <key>last-used-imsi</key>
+<string>454000082644582</string> </dict>
+<key>RegistrationController</key>

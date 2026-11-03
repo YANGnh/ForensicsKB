@@ -1,0 +1,36 @@
+# OCR: 21c850b44fcd2e6eed0e76dba022cf89.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/21c850b44fcd2e6eed0e76dba022cf89.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+DavidLaptop64GB,分区3 证据项No.5(唯—ID:7)
+项目名称/编号：
+内部名称：注释(C):
+哈希值1无哈希值”无
+分区3
+[A:\DavidLaptop_64GB.e01].分区3
+根据当前文件系统的时区显示时间：UTC
+图确定(O）
+取消(A)
+创建日期：2024/11/10d10:47:58
+天小：34.5GB 安件：231.361
+案件描述(D)
+Windows Installation Windows
+Domain:WORKGROUP
+Computername:DESKTOP-O5P7FVS Owner:DavidTenth
+Time zone:China Standard Time instdilatior.2oz4yog1d1o.to.2e
++
+Lastshutdown:2024/08/12d16:05:34+8
+Numberofaccounts:2 文件系统：NTFS
+总容：37.090.810.368字节34.5GB
+扇区统计：72.442.989 每康区字节数：512
+字节数：4.096
+每族学空余簇
+：1.853.414=20%空余
+族总数：9.055.373
+计算哈帮值(m). 计算哈常值（m）
+帮助(H)
+x
+202 201 202 202 202 202 202 202 202 202 202 202 202 202 202 202 202 202 202 202
+202 202 202 长

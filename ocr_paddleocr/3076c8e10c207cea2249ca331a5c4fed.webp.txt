@@ -1,0 +1,38 @@
+# OCR: 3076c8e10c207cea2249ca331a5c4fed.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/3076c8e10c207cea2249ca331a5c4fed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+公
+口三序号口1 口2 3 口4 口5 口6
+详细信息
+John_desktop.e01/分区3/Users/John.Killer/Documents/self/happy/a
+=名称过滤
+四2jpeg
+三2jpegZone.ldentifier 四3jpeg
+三3jpegZone.ldentifier 四1jpeg
+三1jpeg Zone.ldentifier
+名称：1.jpegZone.ldentifier 扩展名：Identifier
+类型：流文件大小：52B
+创建时间：2024-08-1318:03:01 访问时间：2024-08-2005:09:17 修改时间：2024-08-1318:03:01 MetaAddr:151904
+全路径：Johndesktop.eo1/分区
+3/Users/John.Killer/Documents/self/happy/a/1.jpeg^Zone.ldentifier
+加密类型：未加密已删除：否
+扩展名过滤 jpeg Identifier jpeg Identifier jpeg Identifier
+原类型视图
+PAGE
+三大小等于
+91.97KB
+52 B 86KB 52 B 92.22KB 52B
+文本视图
+ZooM
+三创建时间
+起始
+结束
+在
+2024-08-1318:03:01 2024-08-13 18:03:01 2024-08-19 17:45:46 2024-08-19 17:45:46 2024-08-1318:03:01 2024-08-13 18:03:01
+十六进制视图
+HIGHLIGHT
+[ZoneTransfer] noTd=3
+HostUr1=https://poe.com/

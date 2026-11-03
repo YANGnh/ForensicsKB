@@ -1,0 +1,19 @@
+# OCR: 143e6372dc3385de0a907bd1b88ee1df.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/143e6372dc3385de0a907bd1b88ee1df.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+StableDiffusion
+模型（ckpt)
+againmix_v20.safetensors[9elad28f6a]
+文生图
+图生图
+高清化
+图像信息
+a
+模型合并
+训练
+设置
+扩展插件
+solo.onegirl.upperbody.lookingatviewer,<lora:whiteningGirlA:1>,photographytexture,delicateskin

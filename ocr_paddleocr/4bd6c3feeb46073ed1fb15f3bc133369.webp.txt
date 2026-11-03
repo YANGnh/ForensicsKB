@@ -1,0 +1,69 @@
+# OCR: 4bd6c3feeb46073ed1fb15f3bc133369.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/4bd6c3feeb46073ed1fb15f3bc133369.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+逆向工程e 16
+17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+36 37 38 39 40
+41 43
+下载代码
+send email(sende 发送带附件的邮件
+Passord
+:param sender:
+发件人邮箱
+param Password:
+receiver
+subiect
+发件人邮销授权码（不是登录密码）
+paramzeceive：收件人邮箱（字符串或列表）
+邮件主题
+:param subject:
+:parambody:邮件正文
+param attac
+nt Path:
+附件文件路径（可选）
+:param amtp erver：SHrp 服务器地址
+paramsmtp_port:sMTp端口(默465ssr)
+messaqe
+MMEMultipart(
+messagel"From"
+= Header(aender
+attachment path
+message["To" = Header(receiver if isinstance(receiver,
+str)else
+message["Subject"]
+Header(subiect
+message.attach(MIMEText (body, HARNTNG:
+Decompyle inco
+nRS
+main
+"utf-"
+"plain",
+sender_emai1="29342352618qq.com
+sender_auth code
+qycirqwaxogjdgbh
+receivez_email = sys.argv[1] attaehment_path = sys.argv[2]
+eend email(sender ssendererail.
+attachmentath
+return None 1以下为反汇编代码 test.pyc
+(Python 3.11)
+ent path
+"utt-B")
+passmord
+satp serves
+sender_auth_code,
+smtp.qq.com",
+atp serve
+Join(receiver)
+receiver
+smtpport
+receiver_enail, 465
+subject -
+smtp.qq.com*
+465)):
+自动发送邮件测试：，
+"Python
+自动发送的测试邮件。人n附件请查收。
+你好，这是一封Pvthon

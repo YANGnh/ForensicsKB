@@ -1,0 +1,33 @@
+# OCR: 84419434cde9f7151efb33b39bcc689e.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/84419434cde9f7151efb33b39bcc689e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+DB Browser for SQLite - C:\Users\ADMINI~1VAppData\Local/Temp\ksadcache 14801.db
+件(F)
+编辑(E)
+8新建数据库（N) 效据库结构（D)
+香着()
+帮助(H)
+工具(T）
+打开数据库(0)
+浏览数据（B）
+(T) ：ksad_ad_cache
+creativeId 过滤
+66196014956 67240137537 66196014973
+posId
+过滤
+5359141671 5359141671 5359141698
+过滤
+写入更改（w）
+编辑杂注(R)
+倒退更改（R）
+执行SQL(X)
+民8
+A
+adIson
+品
+撤销(U）过滤任何列
+["11sid":2003793604006483058"extra":"{l"host\":..["1lsid":2003793604006483058,"extra":"{\"host}":..["11sid":2003793720044252146,"extra":"{\"host\":..
+今打开

@@ -1,0 +1,25 @@
+# OCR: a4aa0b267120d220f8d1c65df70bb49f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/a4aa0b267120d220f8d1c65df70bb49f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+[root@localhost network-scriptsl# systemctl restart NetworkManager[rootqlocalhostnetwork-scriptsl#ifconfig
+docker：f1ags=4O99<UPBROADCAST,MULTICAST>mtu150E
+inet172.17.0.1netmask255.255.0.0broadcast172.17.255.255
+ether 02:42:86:48:09:6etxgueuelen 0(Ethernet) RX packets 0bytes 0 (0.0 B)
+RX errors dropped overruns frame  TX packets 0bytes 0 (0.0 B)
+Tx errors dropped  overruns carrier collisions
+ens33:f1ags=4163<UP,BROADCAST,RUNNING,MULTICAST>mtu150
+inet192.168.100.112netmask 255.255.255.0broadcast 192.168.100.255 inet6 fe80::20c:29ff:fe1d:fb3aprefixlen 64scopeid 0x20<link>
+ether0:0c:29:1d:fb:3atxqueuelen1000(Ethernet) RXpackets 1butes243(243.0B)
+RX errors 0dropped overruns 0frame
+TXpackets8bytes 628(628.0B) TX errors 0dropped  overruns
+carrierE
+collisionsE
+1o:f1ag=73<UP,L00PBACK,RUNNING>mtu 65536
+inet 127.0.0.1netmask 255.0.0.0
+inet6::1prefixlen 128scopeid 0xi0<host>
+looptxqueuelen 1000(Local Loopback) RX packets 0butes  (0.0 B)
+Rx errors dropped overruns  frame  TX packets bytes 0 (0.0 B)
+TXx errors dropped  overruns  carrier  collisions

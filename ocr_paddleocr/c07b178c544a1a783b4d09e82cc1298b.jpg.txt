@@ -1,0 +1,44 @@
+# OCR: c07b178c544a1a783b4d09e82cc1298b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c07b178c544a1a783b4d09e82cc1298b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+对象启打开表名
+设计表
++新建表
+memberfreeze purchase_subscribe lowerrelationall purchase_order bonus_calc_log
+membercurrentlog member_message
+sys logininfor db_message
+doing_order_product doing_order_item member
+wms_invoice_log
+member_currentday memberaddress
+doingordersnapshot
+doing_order member_current
+member_money_total memberupdaterecord wmsinvoice
+membertype_log member_profit_total member_purchase
+membercurrentmonth
+删除表导入向导导出向导
+自动递..修改日期
+0 0 0 0
+870045
+0 0
+76302
+0 0 0
+663153
+0 0 0
+108198
+0 0 0
+34359
+0 0 0 0 0
+数据长度 537600KB 264192KB 67168KB 279552KB 211680KB 90832KB 31328KB 7696KB 9776KB 10800KB 20032KB 20016KB 7728KB 6704KB 5648KB 6672KB 10816KB 6704KB 6672KB 2576KB 8768KB 4624KB 3600KB 3600KB 3600KB
+引擎 InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB
+行
+2031662 1355104 1094539 1029971 802794 326073 183831 76209 74444 52546 51808 51766 45299 45150 43726 42720 42541 38958 38772 34400 31105 28854 25536 24316 16719
+注释
+会员收益流水拼券预约表下级关联表拼券订单表奖金计算日志业绩日志表会员消息表系统访问记录数据信息表订单子产品表订单明细表会员信息表
+发货单推送日志会员日业绩表会员收货地址订单快照表订单主表
+云员总业须表会员余额总表
+会员信息自助修改记录发货单
+会员级别变动日志表会员收益总表
+会员拼券订单总业绩表会员月度业绩表

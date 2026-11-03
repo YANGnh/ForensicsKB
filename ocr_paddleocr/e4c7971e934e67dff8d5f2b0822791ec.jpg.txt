@@ -1,0 +1,38 @@
+# OCR: e4c7971e934e67dff8d5f2b0822791ec.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e4c7971e934e67dff8d5f2b0822791ec.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+droid@node2:~$ifconfig
+docker0:flags=4099<UP,BROADCAST,MULTICAST>
+mtu1500
+inet 172.17.0.1 netmask 255.255.0.0 broadcast 172.17.255.255
+ether 02:42:b4:c5:f7:70 txgueuelen 0 (Ethernet)  Rx packets 0 bytes 0 (0.0 B)
+Rx errors o dropped 0 overruns 0 frame 0 Tx packets 0  bytes 0 (0.0 B)
+Tx errors  dropped o overruns o carrier o collisions o
+enp6s18: f1ags=4163<UP,BR0ADCAST,RUNNING,MULTICAST>mtu 1500
+inet192.168.100.102netmask 255.255.255.0br0adcast192.168.100.255
+inet6 fd24:2cf2:d6f8:0:be24:11ff:fe39:fd8a prefixlen 64 scopeid 0x0<globa1> inet6 fe80::be24:11ff:fe39:fd8aprefixlen 64 scopeid 0x20<1ink>
+ether bc:24:11:39:fd:8atxgueuelen 1000(Ethernet) Rx packets 1462 bytes 43574417 (43.5 MB)
+Rx errors o dropped 0 overruns 0 frame o Tx packets 1271 bytes 79032 (79.0 KB)
+Tx errors 0 dropped o overruns 0 carrier 0
+lo:
+f1ags=73<UP,LOOPBACK,RUNNING>
+mtu65536
+inet 127.0.0.1 netmask 255.0.0.0 inet6 ::1 prefixlen 128
+scopeid ox1o<host>
+1oop
+txgueuelen1000
+(Local Loopback)
+Rx packets 104 bytes 8441 (8.4 KB)
+Rx errors 0
+dropped 0
+overruns 0
+Tx packets 104
+bytes 8441 (8.4 KB)
+Tx errors 0
+droid@node2:~$
+dropped o overruns
+frame 0 carrier o
+collisions o collisions 0

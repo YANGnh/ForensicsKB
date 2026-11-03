@@ -1,0 +1,15 @@
+# OCR: 8b0a4ce386b3840581d1ee1360b453b3.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/8b0a4ce386b3840581d1ee1360b453b3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+Clara的安卓手机》
+clara
+WhatsApp>clara(85263791704@s.whatsapp.net)
+Hi!我在使用WhatsApp了。
+ID:85263791704@s.whatsapp.net
+内部ID：未获得内部ID
+L63791704
+区：未获得邮箱信息
+?：未获得位置信息

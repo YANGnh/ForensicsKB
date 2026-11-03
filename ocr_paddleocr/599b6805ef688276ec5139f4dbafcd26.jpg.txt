@@ -1,0 +1,25 @@
+# OCR: 599b6805ef688276ec5139f4dbafcd26.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/599b6805ef688276ec5139f4dbafcd26.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+· 白靓
+后台管理系统首页
+系统管理系统监控系统工具
+国) 御
+表单构建代码生成系统接
+用户管理内容管理商城管理靓号管理支付管理
+山首页
+首页！系统工具！系统接口·系统接口×
+app软件信息
+SoftwarePackageApiController
+协议页面AgreementPageController
+商城相关ShopController 商城订单
+ShoppingController
+GET POST GET
+/api/shopOrder获取订单列表/api/shoporder购买商品
+/api/shopOrder/[id]获取订单信息
+地址管理
+ShopAddressController
+好友模块UserFriend Controller

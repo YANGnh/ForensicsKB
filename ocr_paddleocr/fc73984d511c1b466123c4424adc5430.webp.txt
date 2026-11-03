@@ -1,0 +1,71 @@
+# OCR: fc73984d511c1b466123c4424adc5430.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/fc73984d511c1b466123c4424adc5430.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+mage.zip/dataluseriO,com.carriez.flutterhbb/appflutteripeers 口了文件名称一
+.. = app_flutter (4)
+. = peers (1) 1807892422.toml
+一卷 offset 00000270 00000280 00000290 000002A0 000002B0 000002C0 000002D0 000002E0 000002F0 00000300 00000310 00000320 00000330 00000340 00000350 00000360 00000370 00000380
+文件 0
+70 65 27 74 34 74 6D 75 73 OA 69 20 61 78 27 73 20 3D
+1
+74 66 0A 2D 20 6F 2D 63 74 5B 6E 27 6D 65 41 66 3D 20
+国预览
+2 69 65 73 6D 3D 6F 63 68 6F 75 66 61 65 6c 6E 65 20 5B
+3 6F 72 77 6F 20 6c 75 2D 6D 69 6F 6E 20 27 64 72 5B 5D
+详细
+4 6E 65 61 75 27 62 72 6D 2D 5F 5D 64 3D 0A 72 5D 5D OA
+5
+73 6E 70 73 27 61 73 6F 66 66 0A 72 20 70 6F 0A 0A
+缩略图
+7 o
+5D 63 2D 65 0A 72 6F 64 70 6c 75 6F 27 6c 69 77 72
+0A 65 6c 20 63 20 72 65 73 75 73 69 67 61 64 72 65
+8
+时间轴
+A
+63 20 65 3D 6F 3D 20 20 20 74 65 64 6F 74 27 69 61
+6F 3D 66 20 6c 20 3D 3D 3D 74 72 27 6F 66 0A 74 64
+64 20 74 27 6c 27 20 20 20 65 6E 0A 67 6F 0A 65 5F
+了描述存在的存在的存在的
+图例说明
+B 65 27 2D 27 61 27 27 27 27 72 61 68 6c 72 5B 5F 6A
+c 63 61 72 0A 70 0A 27 27 33 5D 6D 6F 65 6D 74 6A 6F
+D 2D 75 69 69 73 7A 0A 0A 30 0A 65 73 2D 20 72 6F 62
+文件类型 toml
+同步
+E 70 74 67 34 65 6F 74 63 27 OA 20 74 50 3D 61 62 73
+F
+72 6F 68 34 5F 6F 6F 75 0A 5B 3D 6E 69 20 6E 73 20
+了路径
+2
+Nmage.zip)dataluser/Og Vmage.zip)dataluser/Og Mmage.zipldataluserolg
+美
+UTF-8
+ptions
+codec-pr
+eference =
+auto
+swap-left-righ
+t-mouse
+A
+=
+i44
+collapse
+toolbar = m-cursor uch-mode stcm-fps
+11
+zoo to
+.
+cu
+-30-
+[ui flutter] infoj username'android'
+hostn
+'gogle-pi
+ame =
+platform
+xel:
+'Android'
+[tran
+sferj write jobs = [] read_jobs

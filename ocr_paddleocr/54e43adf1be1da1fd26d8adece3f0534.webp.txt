@@ -1,0 +1,11 @@
+# OCR: 54e43adf1be1da1fd26d8adece3f0534.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/54e43adf1be1da1fd26d8adece3f0534.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+三序号 1
+data/文件分类/加密文件
+三名称过滤
+e
+salary.

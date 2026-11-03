@@ -1,0 +1,13 @@
+# OCR: fe9f1e0989e6f84f82d17bacb15f692b.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/fe9f1e0989e6f84f82d17bacb15f692b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+虚拟驱动器 (F) 名称
+RAID-52024-04-25091338651.001
+修改日期
+2024-04-259:13
+类型 001文件
+大小
+2.093,056..

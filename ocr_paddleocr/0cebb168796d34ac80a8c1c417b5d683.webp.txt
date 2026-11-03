@@ -1,0 +1,14 @@
+# OCR: 0cebb168796d34ac80a8c1c417b5d683.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/0cebb168796d34ac80a8c1c417b5d683.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+检材：计算机检材.E01 基本信息
+检材编号：20251109082307TA78QZ
+保存位置：H:计算机镜像计算机检材.E01
+检材时区：（UTC+08:00）北京，重庆，香港特别行政区，乌鲁木齐创建时间：2025-11-0908:23:18
+检材大小：10.45GB 检材平台：Windows 源盘大小：100.59GB 预填密码：
+Administrator|qwe321@@@ qwe123！@#
+分区信息
+分区详情

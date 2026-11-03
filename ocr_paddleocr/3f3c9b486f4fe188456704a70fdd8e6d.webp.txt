@@ -1,0 +1,10 @@
+# OCR: 3f3c9b486f4fe188456704a70fdd8e6d.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/3f3c9b486f4fe188456704a70fdd8e6d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+已完成订单常规配置
+系统设置X 支付管理
+用户初始额度
+4000 修改

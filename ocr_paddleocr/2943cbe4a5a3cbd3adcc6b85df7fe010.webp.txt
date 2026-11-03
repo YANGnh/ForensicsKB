@@ -1,0 +1,13 @@
+# OCR: 2943cbe4a5a3cbd3adcc6b85df7fe010.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/2943cbe4a5a3cbd3adcc6b85df7fe010.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+"accountName"：“无”
+"amount": 800,"category": {
+"code":"Custom2146848""custom":true,
+"icon":"/DIY/icon sortc1.png"
+"title"：“接单"click": false
+"content"："接单定金""creator": {
+"avatar":"https://storage.bestrie.com/avatar/anonymous.png""memberld":4951227

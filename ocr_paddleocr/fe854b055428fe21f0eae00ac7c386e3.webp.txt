@@ -1,0 +1,44 @@
+# OCR: fe854b055428fe21f0eae00ac7c386e3.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/fe854b055428fe21f0eae00ac7c386e3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+【Wireshark·追踪HTTP流(tcp.streameq1446)·tcpdump_tj.cap
+POST/peiqi.phpHTTP/1.1 Host:222.2.2.180
+Accept-Encoding:gzip,deflate
+User-Agent:Mozi1la/5.e (Macintosh; U;PPc Mac 0sX 1e 58; zh-cn)ApplewebKit/533.2e.25(KHTML,1ike Gecko)Version/5.e.4 Safari/533.2e.27 Content-Type:application/x-ww-form-urlencoded
+Content-Length: 1e935 Connection:close
+c7aa5fdf3a162b=mSL3d3dy93d3dyb29eL3d3dy5ecHNob3AuY29tL2FwcGxpY2F0aw9uLeZhc3ROd2Rzl 0A31323334353637380D0A70617373776F72640D0A
+7739726400347961737377387 0A71317732653
+7377397 74792146 74707061 3233716
+61313
+392E906 3934353
+9D9A77 6C656E7
+7061646D6 6732
+6E6323337673 6E313233214023
+330D0A7465737465720D0431323334404162
+分组19535,1客户端分
+整个对话（11kB）查找：
+1服务器分8
+1turm(sl点击送率
+Showdataas
+ASCII
+滤掉此流
+打印
+另存为..
+口
+435360D0A313233343536370D
+72640D0A50617373
+09A66
+65003A31
+656 8353290
+7461 8336361 8A766566
+327 646D69
+D8A546573743132
+43132330D0441646D696E4031
++
+流1446图查找下一个（ND
+返回
+关闭
+帮助

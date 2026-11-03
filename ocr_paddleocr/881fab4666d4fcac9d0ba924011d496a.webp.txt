@@ -1,0 +1,39 @@
+# OCR: 881fab4666d4fcac9d0ba924011d496a.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/881fab4666d4fcac9d0ba924011d496a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+组织
+件关
+新建
+历文比乐打开
+选择
+agnose_2025.04.08_22-16-36+0800_iPhone-0s_iPhone_21F90 >logs>Bluetooth>CoreCapture
+名称
+bluetooth status.txt debug-log.txt
+修改口期
+202 201
+置文件
+米型
+bluetooth status.txt
+编辑
+查看
+# --- Bluetooth Status
+Power
+MAC Address Discoverable Connectable
+Scanning Devices
+AirPods Pro
+Address Paired
+CloudPaired Connected
+:on
+x
+大小
++
+: F0:A3:5A:4E:5D:14
+: No:Yes: No
+:1(paired=1cloud=oconnected=o):14C8:8B:A5:80:10
+:Yes: No: No
+C
+8
+在CoreCapture中搜索

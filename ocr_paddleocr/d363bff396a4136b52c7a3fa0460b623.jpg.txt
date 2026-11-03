@@ -1,0 +1,10 @@
+# OCR: d363bff396a4136b52c7a3fa0460b623.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/d363bff396a4136b52c7a3fa0460b623.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+SRV记录 172.18.0.2
+连接成功
+确定
+X

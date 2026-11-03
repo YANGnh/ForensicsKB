@@ -1,0 +1,32 @@
+# OCR: 520b8f82805df155331ca0ee9b543b47.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/520b8f82805df155331ca0ee9b543b47.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+g
+我的测试机-检材3>目基本信息》
+需USB最近使用记录
+=序号 1 口2 口3 口4 5 口6 07
+服操作过滤接入接入接入接入弹出接入接入
+Y
+操作时间起始
+结束
+2025-04-11 14:35:14 2025-04-11 14:37:51 2025-04-11 14:41:42 2025-04-11 14:43:09 2025-04-11 14:43:59 2025-04-11 14:44:41 2025-04-15 14:18:52
+■设备名过滤
+VMware Virtual NVMe Disk VMware Virtual NVMe Disk VMware Virtual NVMe Disk
+256GB thinkplus 256GB thinkplus 256GB thinkplus
+VMware Virtual NVMe Disk
+厂商过滤 NULL NULL NULL
+TU200Pro TU200Pro TU200Pro NULL
+■序列号过滤
+VMWare NVME_0000 VMWare NVME_0000 VMWare NVME_0000
+343000000000 343000000000 343000000000
+VMWare NVME_0000
+在USB最近使用记录中提
+■版本过滤 1.0 1.0 1.0 0 0 0 1.0
+容量
+等于 15GB 15 GB 15GB
+238.47GB 238.47 GB 15 GB
+Q
+过测

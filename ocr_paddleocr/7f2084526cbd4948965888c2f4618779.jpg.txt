@@ -1,0 +1,26 @@
+# OCR: 7f2084526cbd4948965888c2f4618779.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/7f2084526cbd4948965888c2f4618779.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+终端X
+root@debian:~# dockerps
+CONTAINERID STATUS
+160c806d13ea
+IMAGE
+PORTS
+NAMES
+registry.rocket.chat/rocketchat/rocket.chat:latest
+0.0.0.0.3000->3000/tcp
+rocketchat-rocketchat-
+Up 46minutes
+929dad307aa4
+bitnami/mongodb-5.e
+27017/tcp
+Up 35 minutes root@debian:~#
+rocketchat-mongodb-1
+COMMAND
+"docker-entrypoint.s_""/opt/bitnami/script."
+CREATED
+6 weeks ago 6weeksago

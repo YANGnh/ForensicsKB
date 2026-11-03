@@ -1,0 +1,10 @@
+# OCR: 7f7a67afc0ebcc8c768284e5d41d7a11.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7f7a67afc0ebcc8c768284e5d41d7a11.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+生成美女的心得
+2024年3月13日星期三日报
+solo,one girl,upper body, looking at viewer, <lora:Whitening Girl_A:1>, photogr aphytexture,delicateskin
+(worst quality:2)(low quality:2),(nomal quality:2).lowres,watermark, ng deepneg ative_vl_75tEasyNegativebadhandv4,camera,malfonned fingers

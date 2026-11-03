@@ -1,0 +1,22 @@
+# OCR: c79e38764b7cc37c46ab19db285aeb74.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/c79e38764b7cc37c46ab19db285aeb74.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+bcrypthash的结构
+我们可以使用bcrvpt来加密密码，最终以bcrypthash的形式保存到系统中，一个bcrypthash的格式如下：代码语言：javascript
+$2bscosts[22charactersalt31characterhash
+比如：
+代码语言：javascript
+$2a$10$N9qo8uL0ickgx2ZMRZoMyeIiZAgcf17p921dGxad68LJZdL171hwy
+AlgCost
+上面例子中
+$2as
+Salt
+Hash
+表示的hash算法的唯一标志。这里表示的是bcrypt算法
+10表示的是代价因子，这里是2的10次方，也就是1024轮。
+N9qo8uLOickqx2ZMRZoMye是16个字节（128bits）的salt经过base64编码得到的22长度的字符，
+最后的lZAgcf7p92ldGxad68LJZdL17lhWy是24个字节（192bits）的hash，经过bash64的编码得到的31长度的字符
+石复制石复制

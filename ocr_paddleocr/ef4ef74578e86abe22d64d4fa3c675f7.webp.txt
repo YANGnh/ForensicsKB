@@ -1,0 +1,15 @@
+# OCR: ef4ef74578e86abe22d64d4fa3c675f7.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/ef4ef74578e86abe22d64d4fa3c675f7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+姓名厉明性别男
+出生
+1990
+民族汉年12月
+30日
+住址
+四川省成都市武侯区益州大道中段722号复城国际
+公民身份号码
+51370119901230836

@@ -1,0 +1,12 @@
+# OCR: eb989c8321a609a4425bec4aec200c6e.webp
+# 来源: ./01-取证技巧/02-网络取证/eb989c8321a609a4425bec4aec200c6e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:06
+
+Command:78COMMANDEXECUTE_JOB Command:b'%CoMSPEC%
+Arguments:b'/C whoami' Integer：0
+Packetnumber:17292 HTTP reuest PosT
+http://192.168.31.170/submit.php?id=1603726794
+Length raw data: 68 Counter：2
+CaIIback:3OCALLBACKOUTPUTOEM win-8fc6tkpdporladministrator

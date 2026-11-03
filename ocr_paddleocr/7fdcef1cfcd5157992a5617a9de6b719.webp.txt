@@ -1,0 +1,13 @@
+# OCR: 7fdcef1cfcd5157992a5617a9de6b719.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/7fdcef1cfcd5157992a5617a9de6b719.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+文件名称
+项目类型文件位置创建日期修改日期
+大小属性
+陈浩南-最是人生无奈时.wav WAV文件
+C:用户\haobei音乐
+2025/5/1513:34 2025/5/14 20:59
+22.0MB A

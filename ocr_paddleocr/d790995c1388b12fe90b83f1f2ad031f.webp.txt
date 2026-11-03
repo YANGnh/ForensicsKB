@@ -1,0 +1,67 @@
+# OCR: d790995c1388b12fe90b83f1f2ad031f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/d790995c1388b12fe90b83f1f2ad031f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Nhomelhaobeil.config/xfce4/xfconf/xfce-perchannel-xml
+口丫文件名称一
+=xfconf (9
+=xfce-perchannel-xml(9)
+displays.xml thunar.xml
+xfce4-notifyd.xml
+xfce4-power-manager.xml xsettings.xml
+xfce4-desktop.xml 1xfwm4.xml
+xfce4-panel.xml
+xfce4-keyboard-shortcuts.xml
+一分区 offset 00000240 00000256 00000272 00000288 00000304 00000320 00000336 00000352 00000368 00000384 00000400 00000416
+文件 0
+70 20 22 70 74 65 70 68 79 3D 72 65
+1
+65 3c 6c 65 79 3D 72 6F 70 22 6F 6c
+国预览货
+2 3D 70 6F 6E 70 22 6F 77 65 66 70 3E
+3 22 72 63 64 65 74 70 2D 3D 61 65 0A
+了描述存在的存在的存在的存在的存在的
+存在的，已查看
+存在的存在的存在的存在的存在的
+详细回
+4 65 6F 6B 2D 3D 72 65 74 22 6c 72 00
+5 6D 70 2D 68 22 75 72 72 62 73
+74 00
+?文件类型
+xml xml xml xml xml xml xml xml xml
+口缩略图
+6 70 65 73 69 62 65 74 61 6F 65
+79 00
+7 74
+8
+时间轴 9
+10
+79
+72 63 62 6F 22 79 79 6F 22 3E 00
+74 72 65 6F 2F 20 2D 6c 2F 0A 00
+22 79 65 72 6c 3E 6E 69 22 3E 3c 00
+2F 20 65 6E 22 OA 61 63 20 0A 2F 00
+了路径
+home\haobeil.config/xfce4
+home\haobeil.config/xfce4/xfconf
+Ahome\haobei.config/xfce4/xfconfxfce-perc home/haobeil.config/xfce4/xfconf/xfce-perc home/haobeil.config/xfce4/xfconf/xfce-perc home/haobeil.config/xfce4/xfconf/xfce-perc homelhaobeil.config)xfce4)xfconf/xfce-perc home\haobeil.config/xfce4/xfconfxfce-perc/homelhaobeil.config/xfce4/xfconf/xfce-perc homelhaobeil.config/xfce4/xfconf/xfce-per home\haobeil.config/xfce4/xfconf/xfce-perc
+图例说明
+13
+11 3E 6E 6E 61 20 20 6D 6F 76 20 63 00
+12
+OA 61 2D 74 76 20 65 6E 61 20 68 00
+20 6D 73 65 61 20 3D 22 6c 3c 61 00
+土
+14 20 65 75 22 6c 20 22 20 75 2F 6E 00
+15 20 3D 73 20 75 3c 73 74 65 70 6E 00
+同步
+美
+UTF-8
+pe="empty"/>
+<property name="lock-screen-sus pend-hibernate" type="bool" valu e="true"/>
+property name="s how-tray-icon"t Ype="bool" value
+="false"/>
+</p
+roperty></chann e1>000000000000

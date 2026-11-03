@@ -1,0 +1,9 @@
+# OCR: ae690d5170125954fe4f3c111a8af54b.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/ae690d5170125954fe4f3c111a8af54b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+输出
+保存修复后的文件为：D:/检材题目/2025数证杯初赛/导出/气温加密-修复.zip
+正则搜

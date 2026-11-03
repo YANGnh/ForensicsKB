@@ -1,0 +1,10 @@
+# OCR: 6ee632806045dcdf0da204d315e909c1.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/6ee632806045dcdf0da204d315e909c1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+文件名称：PNG107.png
+文件大小：3.95MB（4,146990字节）
+MD5:733FC4483C0E7DB1C034BE5246DF5EC0
+SHA1:48B66390625EDC98EA9582EDFB903971F07FC909

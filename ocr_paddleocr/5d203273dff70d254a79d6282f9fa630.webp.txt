@@ -1,0 +1,49 @@
+# OCR: 5d203273dff70d254a79d6282f9fa630.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/5d203273dff70d254a79d6282f9fa630.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+contacts(1)
+sms(1) wifi()
+FAdlockdown.json deviceinfo.json
+一卷 offset 000001B0 000001C0 000001D0 000001E0 000001F0 00000200 00000210 00000220 00000230 00000240 00000250 00000260 00000270
+■文件
+0 73
+1
+74 70
+79
+65 2c 73 3A 22 64 72 22 22 22 3A
+62 22 73 37 3A 22 64 6D 34 2c 22
+回预览
+2 65 74 61 42 22 42 22 3A 77 74 36 22 45
+3 6D 6F 6E 6c 3A 3A 54 22 61 36 30 53 56
+回详细
+4 22 22 64 75 22 39 44 54 72 38 30 65 45
+5
+3A 3A 56 65 44 43 54 44 65 38 33 72 52
+缩略图
+6
+22 22 65 74 30 22 22 54 50 39 36 69 35
+7
+66 46 72 6F 3A 2c 2c 4D 6c 22 36 61 32
+时间轴
+8
+32 42 73 6F 41 22 22 41 61 2c 34 6c 31
+9 66 45 69 74 30 42 44 2D 74 22 31 4E 43
+A 73 22 6F 68 3A 6F 65 4D 66 49 32 75 31
+存在的存在的存在的存在的存在的，.
+图例说明
+B 22 2c 6E 41 44 61 76 22 6F 4D 39 6D 35
+c 2c 22 22 64 36 72 69 2c 72 53 32 62 30
+D 22 42 3A 64 3A 64 63 22 6D 49 37 65 30
+json json
+E 43
+61 22 72 33 49 65 48 22 22 31 72 30
+F 72
+73 22 65 37 64 49 61 3A 3A 35 22 33
+同步
+Nmage.zip)Basic Vmage.zip/Basic Nmage.zip/Basic Nmage.zip/Basic Nmage.zip)Basic
+M
+UTF-8
+stem":"f2fs","Cr Ypto":"FBE","Bas ebandversion":"""BluetoothAddre SS":"D0:A0:D6:37:7B:9c","BoardId":"TDT","DeviceI d":"TDTMA-M","Ha rdwareplatform":"mt6889""1MSI":"460036641292715"serialNumber""EVER521C150003

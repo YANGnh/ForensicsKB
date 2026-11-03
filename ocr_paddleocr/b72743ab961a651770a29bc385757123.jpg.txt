@@ -1,0 +1,13 @@
+# OCR: b72743ab961a651770a29bc385757123.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b72743ab961a651770a29bc385757123.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+"key"："userTable"
+"expire"：-1,"value"：f
+admin"：
+"username":"admin"
+"headImgUrl":"/public/logo.svg"
+"password"："123456""roleId"："[13]"
+id"："8gkxjOwNH6E279HN"

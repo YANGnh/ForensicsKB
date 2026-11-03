@@ -1,0 +1,20 @@
+# OCR: 63b7e9e7509d4c06ccdc75ee5e07a7ed.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/63b7e9e7509d4c06ccdc75ee5e07a7ed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+世品今天
+Nas
+14:14LFR iphone
+面
+区
+Aa
+8=
+用 V
+8
+2025年4月22日10:48
+1234567890123456
+key
+mysecretpassword
+·

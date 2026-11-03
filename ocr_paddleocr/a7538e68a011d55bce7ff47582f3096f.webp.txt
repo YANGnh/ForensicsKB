@@ -1,0 +1,18 @@
+# OCR: a7538e68a011d55bce7ff47582f3096f.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/a7538e68a011d55bce7ff47582f3096f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+S搜狗输入法(新版)
+用户词库嵌套证据识别
+Office文件元信息
+涉案服务器检... 用
+Linux基本信息 Linux日志.. 桌面快捷方式 Nginx服务器 Apache服务器
+28 28 1 72
+462451
+476 454621
+4 89 1
+口19 口20 口21 22 23 口24 口25 口26 口27 口28
+defg edu mima NOX pi pip Python WA yasuo
+yasuomima

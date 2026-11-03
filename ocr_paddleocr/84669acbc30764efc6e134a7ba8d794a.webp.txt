@@ -1,0 +1,15 @@
+# OCR: 84669acbc30764efc6e134a7ba8d794a.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/84669acbc30764efc6e134a7ba8d794a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+图形视图
+表格视图
+个
+com.apple...
+/private/var/run
+com.apple...
+com.apple....
+hostapd.conf
+utmpx

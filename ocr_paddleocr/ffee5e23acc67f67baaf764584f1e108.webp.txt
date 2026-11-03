@@ -1,0 +1,24 @@
+# OCR: ffee5e23acc67f67baaf764584f1e108.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/ffee5e23acc67f67baaf764584f1e108.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+个
+Recover File Password
+x
+出售盈利.xlsx
+文件夹文件类型
+保护复杂度 MD5:
+密码：
+C:>Users>Admin>Desktop
+Files
+PasswordsFound
+MsOffice20o7一打开密码，硬件加速支持，InstantMemoryattackpossible
+MicrosoftEnhancedRSAandAESCryptographicProvider,128bits·暴力破解慢
+18BCACACDC85595ABEE6C10997E5221F
+打开文件修改文件
+tuojie666 没有设置密码
+Resources
+工具
+Performar

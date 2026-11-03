@@ -1,0 +1,11 @@
+# OCR: 0aae0dbb3ce5241d1664bd585bc59ba5.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/0aae0dbb3ce5241d1664bd585bc59ba5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+root@kali)-[~/桌面/Forensics/volatility3
+python3vol.py-f/mnt/Sharewithwinlo/Pc.mem windows.filescan>filescan.txt
+Progress
+46.01
+ScanningmemorylayerusingBytesScanner

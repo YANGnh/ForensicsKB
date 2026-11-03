@@ -1,0 +1,57 @@
+# OCR: 18db442224879d116a7c4cfbb1366e18.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/18db442224879d116a7c4cfbb1366e18.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+Q搜素..
+a
+搜索树节点
+2024盘古石杯决赛（713705/36）
+■三星手机（597017/35） ■苹果手机（116688/1) 文件系统（94937/0） ①标签（0/0）
+截屏辅证（0/0）图仿真数据源（0/0）口云数据源（0/0）日分类数猫（20437/1）图蓝牙（791/0）
+日数据文件（18136/0）
+日圈片(11883/0) 目规频（169/0）目音频(712/0）目压蜡(132/0）图文本（248/0）图数瑞库（506/0）日配置（4395/0）文档(91/0) Q通知(1/1)
+位置信息（31/0）民系统日志（640/0） ①用户账号（12/0）
+>
+多媒体（44/0）国浏览记录（63/0）回应用快照（245/0）
++
+国文本搜索·
+195 79 107 73 53 97 218 52 189 64 83 71 65 98 60 61 59 63 66
+(248/0）X
+Q
+来源应用
+数据文件数据文件数据文件数据文件数据文件数掘文件数据文件数据文件数据文件数据文件数据文件数掘文件数掘文件数据文件数据文件数据文件数据文件数据文件数据文件
+来源应用文件名
+回删除恢复
+AISEEBAIDUMOBILEDEBUGD.txt 3.2.ar.txt
+commonParamsControlConfig.txt
+3.0.uk.txt 1.1ja.txt 1.1.fr.bxt
+render.basejs.LICENSE.txt 3.2.fr.txt
+panel info.txt
+3.2ja.txt 1.1.ko.txt 3.2.de.txt 3.0.ar.txt 1.1.de.txt 3.2.es.tbxt 3.2.ko.txt 1.1.pt.txt 3.2.tr.bxt 3.2.it.txt
+清除过薄器
+文件大小 1.00KB 1023B 985B
+剔除
+标签
+文件预览
+①标签
+导出
+private/var/mobile/Containers/Data/Application/FF4BAA27-2199-48... private/var/containers/Bundle/Application/18FDC7F5-9E83-47A3-92... private/var/containers/Bundle/Application/D2E43F3C-3797-4601-AE..
+预览FABE896619DC721FCCDA55301788507D.txt ESC[32mBT-Pane default info!ESC[em
+4外网面板地 5内网面板地址：
+138.86.119:35394/1d11d9a
+http://172.28.39.11:35394/1d11d9a4
+6username:ymnaktpn
+***.ee**
+7 password:
+ESC[33mIf you cannot access the pane],ESC[em
+[33mrelease the following pane] port [35394] in the security_groupESC[em
+9
+16 11
+13
+[33m若无法访问面板，请检查防火墙/安全组是否有放行面板[35394]端口E5C[em
+[33m注意：初始密码仅在首次登录面板前能正确获取，其它时间请通过bt5命令修改密码ESC[em
+14
+正在执行(14)
+15 16

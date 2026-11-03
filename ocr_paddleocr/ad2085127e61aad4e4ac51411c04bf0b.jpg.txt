@@ -1,0 +1,17 @@
+# OCR: ad2085127e61aad4e4ac51411c04bf0b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/ad2085127e61aad4e4ac51411c04bf0b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+[rootqlocalhost"1# cat/etc/sysconfig/network-scripts/ifcfg-enp6s18 TYPE=Ethernet
+PROXYMETHOD=nOne BROWSER_ONLY=nO BOOTPROTO=nOne DEFROUTE=UeS
+IPUA FAILURE FATAL=nO IPU6INIT=yes
+IPU6 AUTOCONF=eS IPU6DEFROUTE=yeS
+FATAL=nO
+TPLGFATLIIRE NAME=enp6s18
+uU1D=1891b139-98a5-43c9-a513-678d4998df65
+DEUICE=enp6s18 ONBOOT=yes
+IPADDR=192.168100.112 PREFIX=24
+GATEWAY=192.168.100.1 Erootolocalhost
+#

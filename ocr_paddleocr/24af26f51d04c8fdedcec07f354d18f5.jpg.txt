@@ -1,0 +1,57 @@
+# OCR: 24af26f51d04c8fdedcec07f354d18f5.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/24af26f51d04c8fdedcec07f354d18f5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+VeraCrypt
+加密卷V)
+系统Y
+盘符加密卷
+收蒙)
+具（O)
+A:C:usersk.pocuments|2024.fic
+B: G: H 国：
+M： N 0:
+创健加密卷(C) 加密卷
+没管(G)
+都助(H)
+大小加密算法 49.BMBAES
+X
+主页 (联网）(P)
+类型常规
+BitLocker恢复密钥.TXT-记事本
+A
+文件(F)编辑(E)、格式(O)查看(V)帮助(H) BitLocker驱动器加密恢复密钥
+加密卷属性0
+日-本地证盘（A:)
+文件
+主页个
+国文档面片
+共享
+查看
+此电脑、本地磁盘（A:)
+名称
+本地磁盘(A:) 本地磁盘(E:) MPS云盘
+A
+自BitLocker恢复密销.TXT 回运维笔记.docx
+要验证这是否为正确的恢复密钥，请将以下标识符的开头与电脑上显示的标识符值进行比较
+C:Users\L.Documents/2024.fic
+Veracrypt
+因从不保留历史记录（R)
+卸载(D)
+自动加载设备(A)
+加
+标识符：
+69A7402E-84CD-4D15-9FD6-8625D444AABB
+如果以上标识符与电脑显示的标识符匹配，则使用以下密钥解锁你的驱动器。恢复密钥
+404052-011088-453090-291500-377751-349536-330429-257235
+如果以上标识符与电脑显示的标识符不匹配，则该密钥不是解锁你的驱动器的正确密钥。
+口
+修改日期
+2024/3/2214:44 2024/3/2213:41
+x
+请尝试其他恢复密钥，或参阅https://go.microsoft.com/fwlink/?LinkiD=260589以获得其他帮助。
+类型文本文档 DOCX文档
+大小
+1KB 12KB

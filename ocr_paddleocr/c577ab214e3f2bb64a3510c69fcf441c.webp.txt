@@ -1,0 +1,11 @@
+# OCR: c577ab214e3f2bb64a3510c69fcf441c.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/c577ab214e3f2bb64a3510c69fcf441c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+TheBitlocker Key
+Identifier:0887EA0B-12ED-43E8-970B-6721951B6975,Repairkey: 299255-418649-198198-616891-099682-482306-642609-483527
+公
+确定
+x

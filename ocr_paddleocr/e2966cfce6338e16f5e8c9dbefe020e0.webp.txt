@@ -1,0 +1,45 @@
+# OCR: e2966cfce6338e16f5e8c9dbefe020e0.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/e2966cfce6338e16f5e8c9dbefe020e0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+请选择/输入持有人/检材编号/
+检材2 基本信息 3自带测宽器国信%App分析 S要的输入法色其他变用酬片文本内宿
+检材3
+10/24475 22457 4/88 6/104 77 162 787 800
+119051
+回
+YText inc'最重要
+口m序号 1 2 3
+详细信息
+名种过源
+1961930864 19619356555 251.png
+名称：251.png
+=置信度(0-100#说8文本
+等于
+最重要
+俄称控制赖湿关克地区台百度一下0附宠短剧免 DaysMatter-倒数日星期
+DaysMatter-倒数日星期六还有1Day目标日：2025-04-12星期六量期六还有天1陈者
+识别文本：
+板博客还有263天NewYear还有265天321我一生中最重要日子还有天9686Google成立已经天
+23
+检材2.tar/system_ce/0/snapshots/251.png
+文件路暨：稳改时调：
+2025-04-11 16:10:30
+文停路程过滤
+格检材2.tar/data/com.android.browser/files/t. 检材2.tar/data/com.android.browser/files/t. 检材2.tar/system_ce/0/snapshots/251.png
+原类型视图
+文本图
+十六进制视图
+在图片文本内容中搜索
+DaysMatter·倒数日
+星期六还有 868: 2125-0412 880
+星期六还有
+陈老板博客还有 NewYear还有
+1
+1天 263天 265天 321天
+我一生中最重要日子还有
+Google成立已经
+9686天
+O

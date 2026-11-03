@@ -1,0 +1,55 @@
+# OCR: ac6991754ac9c18f7e849a966c4130c7.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/ac6991754ac9c18f7e849a966c4130c7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+ssl(2)
+wireguard(0)
+disk.cfg docker.cfg
+docker.cfg1673835017
+domain.cfg drift
+一分区 offset
+742986112 742986128 742986144 742986160 742986176 742986192 742986208 742986224
+文件
+0 OD 2D 44 73 22 3D 6B 0A
+1 0A 22 65 6B 22 22 46 64
+国预览
+2 64 OD 6c 53 OD 6c 73 69
+3 69 0A 61 70 0A 75 50 73
+详细回
+4 73 64 79 69 64 6B 72 6B
+5
+6B 69 2E 6E 69 73 6F 46
+0 6
+49 73 31 75 73 3A 66 73
+缩略图 7
+64 6B 3D 70 6B 7A 69 57
+8
+53 53 22 47 46 66 6c 69
+存在的存在的，存在的存在的曾.. 存在的存在的
+时间轴
+10
+6c 70 2D 72 73 73 65 64
+6F 69 31 6F 54 22 2E 74
+cfg cfg
+config Aconfig Iconfig
+Iconfig
+cfg1673835017Iconfig
+cfg
+图例说明 11
+12
+74 6E 22 75 79 OD 31 68
+2E 64 OD 70 70 0A 3D 2E
+13 31 6F 0A 2E 65 64 22 31
+14 3D 77 64 31 2E 69 22 3D
+15 22 6E 69 3D 31 73 OD 22
+Iconfig Aconfig
+同步 V
+MO
+UTF-8
+diskidslot.1=" diskspindown
+Delay.l="-1"di skSpinupGroup.1=
+diskFsType.1 ="luks:zfs"
+dis
+kFsProfile.l="" diskFswidth.1="

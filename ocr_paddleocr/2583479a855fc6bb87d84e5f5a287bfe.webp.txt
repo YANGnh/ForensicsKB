@@ -1,0 +1,11 @@
+# OCR: 2583479a855fc6bb87d84e5f5a287bfe.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/2583479a855fc6bb87d84e5f5a287bfe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+打开主界面
+设置日志锁定注销退出
+画
+en
+C

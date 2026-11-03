@@ -1,0 +1,30 @@
+# OCR: ebd0d774712926fbe0ca981706a83c22.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/ebd0d774712926fbe0ca981706a83c22.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+XPROXMOXinalEmioment14 服务器校理
+节点'pve
+数柜中心 Fopve
+110 (nginx) 100 (Router) 101 (node1) =102 (node2) =103 (node3) =111 (avasenver) 112 (sqiserver) = 120 (kuck)
+localnetwork (pve)
+local(pve) local-hvm (pve) 蒙围local2 (pve)
+Q搜术能益注  Sheal o男统润·先证 ODNS 0机 0选顶时润 Syslog 更新存循库防火菌
+Mar211538vepvagroy[22291]:gtinstyplreeuetiwrongprecesdaabbngmy
+openEuler
+Mar 12 11:53:19 pve pvegroxg[222992]: got inetfy poll resuest in wrong process -disbing inotty Ma 1212:8e:18vepvedemon[221741rsotepam>successfalaehferutereotepam
+112:0-58pepedeeo221741stopemtesngtUPDpe003807:007e7E0372nre:111gteg Mar 12 12:00:51 pve pvedeemon[221742); <reot0pam> end taik UPID:pve:00036BD7:00763E97:65EF0372:qmreset:111:root8pam: 0K Mar1212:4:02pvepveproo[222912]: workerett
+Ms1212/04:02pvepveproo(1090):worker222912finished Me 1212:04:02pvepvegromg[1098j: tartng1mlker() Mat1212:04:02pvepvepros[1098]:worker224801 stated
+2/5
+x A
+Lae式Ba
+Mar12 12:04:08pvepveproo[222992]: workeret
+Ma121219vepvetaemon[221605)notegam>tatingtaskUPIDpve:0035E52:0076903C6SEFD443:dowmleadpeEle-22.03-CTS-SP3-8_64-dvd.soctoga Mg1212:0434pvepvedeemo[224894:startingvmcpreyUP1Dgve:003627:00759617:65tD452:vmcpreny:11:rootepem
+Me1212:04:34pvepedeeno[221741:<rotpam>tatngtakuPID:pe:0003$E7E:00769617:55eFD452:mcproey:211:metpimtc Mar 1212.85:18pvepvegren[221713]: werkerent
+Ma2125egroo(woker221713ishd Mer 12 12:05:1 pve pvegroy[1090]; starting 1 warker(s] Ne1212:5:10epvegre(1090)worer225002ta Ma1212:5-27 pvepverom[8] worker 22283frished Mar1212i05:27pvepvepro[st98] starting1warker(s] Ma12125:27pvepvegro[1098]:worker225059state
+Me 12 12:05:31 pve pvegrey[225058]: get inetfy pol resuest in wrong process -dsbling.inotify Mie1212:06:18pvepvedeemon[221745:Cretpam>successfalauthferusersctpem
+Mar121287:33pvepvetaemon[221950)reotepamendtaskUPID:pve:0035650:80757C29:65EFD181mcproy20sotepameCK Ma121287:33vepvefeemon[225414startngncpeyUPIDgvel0037086:0076004:65EFD505:mcpey1120ro0tpam
+Me1212:07:33pepvedeemon[221950):reotepam>tstng taskUPID:pve:0037005:00760C04:4570505:meprgy:120:zeot8pemc
+Mae 12 12:07:34 pve pvepres[222911]: workerent Mar 12 12:08:17 pve pvedaemon[221741):workeredt
+Mar 12 12:08:17 pve pvedeemon[1074]; worker 221741 fnished

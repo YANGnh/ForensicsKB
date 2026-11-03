@@ -1,0 +1,33 @@
+# OCR: ff4ede7e4ae98c72043bc0146725e847.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/ff4ede7e4ae98c72043bc0146725e847.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+口
+区
+口三序号口1 口2 3 口4
+Ben.e01/Windows/Users/Ben/Desktop/Personal Data
+三名称过滤
+道
+password.tot
+secretExcel.encrypted
+目
+encryrtRy
+自
+Personal details 2,xisx
+三大小等于 43B 26.78 KB 1.25KB 14.80 KB
+三创建时间
+起始
+结束
+2024-08-27 11:25:37 2024-08-27 11:25:37 2024-08-27 11:25:37 2024-08-23 14:29:14
+通修改时间
+起始
+结束
+Jy
+2024-08-27 11:23:26 2024-08-27 11:18:18 2024-08-27 11:02:40 2024-08-23 14:28:40
+三全路径过滤
+在PersonalData中搜索
+Ben.e01/Windows/Users/Ben/Desktop/Personal Data/password.txt
+Ben.e01/Windows/Users/Ben/Desktop/Personal Data/secretExcel.encrypted Ben.e01/Windows/Users/Ben/Desktop/Personal Data/encrypt.py
+Ben.e01/Windows/Users/Ben/Desktop/Personal Data/Personal_details_2.xlsx

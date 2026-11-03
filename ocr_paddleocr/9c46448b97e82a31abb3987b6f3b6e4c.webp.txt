@@ -1,0 +1,11 @@
+# OCR: 9c46448b97e82a31abb3987b6f3b6e4c.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/9c46448b97e82a31abb3987b6f3b6e4c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+iginal
+2022:07:2308:36:15.136 2022:07:230836:15.136 2022:07:2308:36:15.136
+OmAboveSeaLevel 2022:07:2300:36:15Z 29deg17'9.23"N 117deg10'43.77"E 4.7mm
+29deg17'9.23'N,117deg10'43.77E 7.4
+确定

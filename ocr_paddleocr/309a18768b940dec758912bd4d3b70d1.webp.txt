@@ -1,0 +1,27 @@
+# OCR: 309a18768b940dec758912bd4d3b70d1.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/309a18768b940dec758912bd4d3b70d1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+<key>totalgroupscreatedk/key> <integer>2</integer2
+<key>appscontiguration</key>
+<string>("groups":[
+"selection":(
+"untokenizedApplicationIdentifiers" ：［ 1
+"untokenizedCategoryIdentifiers':[ J
+"untokenizedwebDomainIdentifiers":[ 1,
+"includeEntireCategory"
+"webDomainTokens"
+：
+"applicationTokens"
+：
+:true,
+"data":"AAAAAAAAAAAAAAAncQE0PwMDR1GQJmBzBs1jyeXjEDTB3KbQ8c72qKfONnccQhDkhyWRFKghONUsrritFagTDNhfb6+dy3BHM5mmqALGbx8dNwVLortCt1ReXrcqx0R0i1PRfnxipOdaXLdjrc05lwX892jqe+1
+"AAAAAAAAAAAAAAAncQE0PwMDRlGQJmBzBs1jyeXjEDTB3KbQ8c72qKfONnccQhDkhyWRFKzgAAOo7PpsEGvFk18eLX7eGCTBI1\V/0usVHV/oiP\/8V/Qf2CCt1ReXrcqx0R0i1PRfnxip0daXLdjrc05shtRG8.
+"data":
+"categoryTokens":[
+id"："58D14634BEE14D778340EEB2D38B42FB",
+"hideUsage" : false,"name”：""重要应用"，
+"restrictiontype":"shield"
+1</string>

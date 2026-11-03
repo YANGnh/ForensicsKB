@@ -1,0 +1,89 @@
+# OCR: 61e62e5429cbd5c52a7f485f711a0cb0.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/61e62e5429cbd5c52a7f485f711a0cb0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+wpsOffice
+三文件
+B找招光模板
+BDOE
+ov
+A64 A
+B
+2024-05-22-mssb.xls
+信式间粘贴一
+fx
+2017/3/14
+c
+D
+E
+ox
++
+Tahoma
+F
+田
+9
+Title
+DatePost-Bulletin-Bulletin
+-Severi-
+Impact
+4014329
+3/14/2017MS17-023
+Cntical
+RemoteCodeExecLSecurityUpdateforAdobeFlashPlayer
+3/14/2017MS17-023 3/14/2017MS17-023
+5 o
+8 10 11 12 13 14 15 16 7 18 19 20 21 22
+3/14/2017MS17-023 3/14/2017MS17-023 3/14/2017MS17-023 3/14/2017MS17-023 3/14/2017MS17-023 3/14/2017MS17-023 3/14/2017MS17-023 3/14/2017 MS17-023 3/14/2017MS17-023 3/14/2017MS17-022 3/14/2017MS17-022 3/14/2017MS17-022 3/14/2017MS17-022 3/14/2017MS17-022 3/14/2017MS17-022 3/14/2017MS17-022 3/14/2017MS17-022 3/14/2017MS17-022
+4014329 4014329 4014329 4014329 4014329 4014329 4014329 4014329 4014329 4014329 4014329 4010321 4010321 4010321 4010321 4010321 4010321 4010321 4010321 4010321
+Crtical Critical Crtical Crtical Crtical Crtical Cntica Critical Crtical Crtical Critical
+RemoteCode ExecuSecurityUpdateforAdobeFlashPlayer RemoteCodeExecuSecurityUpdateforAdobeFlashPlayer Remote Code Execu Security Update for AdobeFash Player RemoteCodeExecuSecurityUpdateforAdobeFiashPlayer RemoteCodeExecuSecurtyUpdateforAdobeFlashPlayer RemoteCodeExecuSecurtyUpdateforAdobeFashPlayer RemoteCodeExectSecurityUpdateforAdobeFlashPlayer Remote Code Exect Secuity Update for Adobe Flash Player RemoteCodeExecSecurityUpdateforAdobeFlashPlayer RemoteCodeExecuSecurntyUpdateforAdobeFlashPlayer RemoteCodeExecuSecurityUpdateforAdobeFlashPlayer
+开始
+插入 A
+页面
+公式 G
+数据
+市湖
+国端行
+国
+曾合并，
+视图
+工具
+会员专享
+口转换
+￥%
+00 H
+谐
+Affected Product
+Component-4014329
+Windows10Verson1511forx64-basedSystems
+4014329
+Windows 10Verson1607for32-bit Systems
+Windows10Version1607for x64-basedSystems4014329
+4014329
+WindowsServer2016forxt64-basedSystems Windows8.1for32-btSystems
+Windows8.1forx64-basedSystems
+WindowsServer2012 WindowsServer2012R2 WindowsRT8.1
+Windows10for32-btSystems Windows10forx64-basedSystems
+Windows10Verson1511for32-btSystems
+ImportantInformationDisclosuSecurityUpdateforMicrosoftXMLCoreServicesWindowsVistaServicePack2
+ImportantInfomationDisclosuSecurityUpdateforMicrosoftXMLCoreServicesWindowsVistax64EditionServicePack2
+4014329 4014329 4014329 4014329 4014329 4014329 4014329 4014329 3216916 3216916
+Important InformationDisclosu SecurtyUpdateforMicrosoftXMLCore Services windowsServer2008for32-btSystems ServiceP/3216916 ImportantInformationDisclosuSecuntyUpdateforMicrosoftXMLCoreServices WindowsServer200Bfortanum-basedSystemsS'3216916
+4012212
+ImportantInformationDisclosuSecurityUpdateforMicrosoftXMLCoreServicesWindows7for32-bitSystemsServicePack1
+ImportantInfomationDisclosu SecurtyUpdateforMicrosoftXMLCoreServices Windows7forx64-basedSystemsServicePack14012212 Important InformationDisclosuSecurityUpdateforMicrosoftXMLCoreServicesWindowsServer2008R2forx64-basedSystemsS(4012212 Important Infomation DisclosuSecuntyUpdateforMicrosoft XMLCoreServicesWindows Server2008 R2forItanum-based Systen 4012212
+ImportantInformationDisclosuSecurtyUpdateforMicrosoftXMLCoreServicesWindows8.1for32-btSystems
+4012213
+效率
+严行和列出工作装、
+KWPSAT
+Q
+画
+甲
+素性错式口
+AffectedComponent
+AdobeFlash Player Adobe Flash Player AdobeFlashPlayer AdobeFlashPlayer AdobeFlashPlayer AdobeFlashPlayer AdobeFlashPlayer AdobeFlashPlayer Adobe Flash Player AdobeFlashPlayer AdobeFlashPlayer AdobeFlashPlayer
+MicrosoftXMLCoreServices3.0 MicrosoftXMLCoreServices3.0 MicrosoftXMLCoreServices3.0 MicrosoftXMLCoreServices3.0 MicrosoftXMLCoreServices3.0 MicrosoftXMLCoreServices3.0 MicrosoftXMLCoreSenvices3.0 MicrosoftXMLCoreServices3.0 MicrosoftXMLCoreServices3.0
+Impact RemoteCode RemoteCode RemoteCode RemoteCode RemoteCode RemoteCode RemoteCode RemoteCode RemoteCode RemoteCode RemoteCode RemoteCodeE InformationDis InformationDis InfomationDis infomationDis InfomationDis InfomationDis InformationDis InfomationDis InformationDis

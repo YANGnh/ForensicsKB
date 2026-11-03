@@ -1,0 +1,15 @@
+# OCR: 14a797e1c0b433427b475180085722c4.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/14a797e1c0b433427b475180085722c4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Welcome 顺心借
+后台管理
+财务审核
+数据报表
+Q
+后台管理系统
+请输入您的手机号请输入您的验证码
+登录
+获取验证码

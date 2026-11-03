@@ -1,0 +1,30 @@
+# OCR: 75475ac843f08d59943f1779bfa36b1d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/75475ac843f08d59943f1779bfa36b1d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+NoahTie@DESKT0P-8RM6G90C/h/7/P/分/U/a/DesktopUSAGE
+sudovssadmin.exeListshadows
+vssadmin1.1-卷影复制服务管理命令行工具(c）版权所有2001-2013MicrosoftCorp.
+卷影副本集ID：b3f3b897-8655-4b5f-86a5-3efcd22895cb7的内容
+在创建时间：2025/6/1410：42:41含有1个卷影副本
+卷影副本ID：{45078d58-3132-4efb-ad45-333656eb57c4
+原始卷：（c)l?/Volume{bc335ddb-a89b-4291-aefb-ad814e822814）卷影副本卷：1\?\GLOBALRooT\Device\HarddiskVoLumeShadowCopy3
+源起机器：DESKT0P-8RM6G90 服务机器：DESKT0P-8RM6G90
+提供程序：'MicrosoftSoftwareShadowCopyprovider1.o 类型：clientAccessiblewriters
+属性：持续，客户端可访问，无自动释放，差异，自动还原
+卷影副本集ID：{a9787639-faaf-4183-971a-eb73aa4f845bf的内容
+在创建时间：2025/6/1811：41：25含有1个卷影副本
+卷影副本ID：{6d7230cf-a0c4-4199-9f22-578790fccca7}
+原始卷：（c:)l?Volumebc335ddb-a89b-4291-aefb-ad814e822814} 卷影副本卷：1\?\GLOBALROoT\Device\HarddiskVoLumeShadowCopy4
+源起机器：DESKT0P-8RM6G90 服务机器：DESKT0P-8RM6G90
+提供程序：'Microsoft Software shadowCopyprovider 1.0 类型：clientAccessibleWriters
+属性：持续，客户端可访问，无自动释放，差异，自动还原
+卷影副本集ID：86dbc333-91b3-4f80-8529-77ee9b2672ec的内容
+在创建时间：2025/6/1811：41：32含有1入卷影副本
+卷影副本ID：{d2745640-0742-4744-a446-4aa117b480023
+原始卷：（c)l?/Volume{bc335ddb-a89b-4291-aefb-ad814e822814）卷影副本卷：/l?\GLoBALRooT\Device\HarddiskVoumeShadowCopy5
+源起机器：DESKT0P-8RM6G90 服务机器：DESKT0P-8RM6G90
+提供程序：'MicrosoftSoftwareShadowCopyprovider1.o' 类型：clientAccessibleWriters
+属性：持续，客户端可访问，无自动释放，差异，自动还原

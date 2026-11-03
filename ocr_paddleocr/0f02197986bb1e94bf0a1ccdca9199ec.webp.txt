@@ -1,0 +1,8 @@
+# OCR: 0f02197986bb1e94bf0a1ccdca9199ec.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/0f02197986bb1e94bf0a1ccdca9199ec.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+.miui.wmsvc.1000.0-/data/user/0/com.miui.wmsvc-platform:privapp:targetsdkversion=29.2001,1065,1005,3002,3003,3001,3007,1024,1007,.android.overlay.cngmstelecomm-10036.0-/data/user/0/com.android.overlay.cngmstelecomm-platform:targetsdkversion=33-none-0.1-1-@sy.android.providers.settings.overlay-1ooig.0-/data/user/o/com.android.providers.settings.overlay-platform:targetsdkversion=33.none.android.phone.overlay.miui.10o55.0-/data/user/0/com.android.phone.overlay.miui-platform:targetsdkversion=33-none-0.33.1-@system xiaomi.market.10186.0-/data/user/0/com.xiaomi.market-platform:targetsdkversion=33.3003.1-40005920.1-@system
+.xiaomi.misettings1000.0-/data/user/0/com.xiaomi.misettings-platform:privapp:targetsdkversion=29.2001,1065,1005,3002,3003,3001,3.topjohnwu.magisk.10254.0-/data/user/0/com.topjohnwu.magisk-default:targetsdkversion=34.3003.0.27000.1.com.miui.packageinstaller.google.android.printservice.recommendation-ioi87.0-/data/user/o/com.google.android.printservice.recommendation-default:targetsdk.xiaomi.mirror.1000.0-/data/user/0/com.xiaomi.mirror-platform:privapp:targetsdkversion=29.2001,1065,1005,3002,3003,3001,3007,1024 miui.translationservice.1o208.0./data/user/o/com.miui.translationservice-platform:targetsdkversion=29.3oo3.0.1.1-@svstem

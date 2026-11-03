@@ -1,0 +1,13 @@
+# OCR: f8c92b4d9746cce6f9a2f14655580541.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/f8c92b4d9746cce6f9a2f14655580541.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+问题
+出
+调试控制台
+终端
+端口
+PSG:\2025FIC决赛\exports\phishing>Python-u"g:\2025FIC决赛lexports\phishing/2.Py" 干快以摇首捕督选捞驾搅呼
+oPsG:2o25FIC决赛\exports\phishing>

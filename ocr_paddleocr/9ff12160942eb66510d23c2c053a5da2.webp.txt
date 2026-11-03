@@ -1,0 +1,50 @@
+# OCR: 9ff12160942eb66510d23c2c053a5da2.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/9ff12160942eb66510d23c2c053a5da2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+简ollama 巴
+New Chat Settings
+o.C:windowsiSystem32icmd.exe
+layout
+optimizeMetadata queryAllocRanges
+queryCaseSensitiveInf queryEA
+queryExtents
+gueryExtentsAndRefCounts queryFileID
+queryFileNameById
+queryOptimizeMetadata queryValidData
+setCaseSensitiveInfc
+setShortName setValidData
+SersetZeroData setEOF
+setStrictlySeguential
+查询有关该文件的所有可用信息花花安祥的完数据
+件的芬配范围
+查询文
+查询目录的大小写信息
+查询文件的扩展属性(EA)信息查询文件的范菌
+X
+查询文件的范围及其相应的引用计数查询指定文件的安件‘ID
+示文件，ID的随机链接名称查询文件的优化元数据状态
+查询文件的有效数据长度设
+没置目录的大小写信息设设
+文件的短名称
+受置文件的有效数据长度设
+文件的零数据雪
+为现有文件设置文件结尾
+将ReFSSMR文件设置为严格按顺序
+C:/UserslpklDesktop>fsutil file queryfileid test.bat 文件ID为0x0000000000000000000500000001e003
+C:lUserslpklDesktop>fsutil file queryValidData test.bat 有效数据长度为0x7d7（2007）
+ClUserspk/Desktop>ollamalist
+NAME
+qwen2:7b-instruct-q4_0 phi3:mini
+C:/Users/pk/Desktop>
+ID
+dd314f039b9d 4f2222927938
+SIZE 4.4 GB 2.2 GB
+MODIFIED
+1l days ago 11
+days
+ago
+口
+x

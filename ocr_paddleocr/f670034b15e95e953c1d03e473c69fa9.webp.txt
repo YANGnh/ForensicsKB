@@ -1,0 +1,31 @@
+# OCR: f670034b15e95e953c1d03e473c69fa9.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/f670034b15e95e953c1d03e473c69fa9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+1.44.1-69057 (Ext2/3/4 at 25728 on meiya_tes...X
+eJohnKiler
+B1.44.1-69057(Ext2/3/4flesystem)
+@52S
+@SynoFinder-etc-volume@SynoFinder-log
+田国
+围田日
+@database@eaDir
+@synoconfd@tmp
+@userpreferenct JohnKiller
+#recyde eaDr Newfolder
+a
+beauty c
+pn 真通
+志田千隔
+[Objectcontents] Visualization
+Name
+@eaDi 1-jpeg 2.jpeg 3.jpeg
+Hexadecimalcontents
+Date
+01.01.1970 08:02:50 13.08.2024 18:03:01 13.08.2024 18: 12: 16 19.08.2024 17:45:46
+Type Fle folder
+Fle Fle Fle
+Size 92.22KB 91.97KB 86.00 KB
+Quick find.?

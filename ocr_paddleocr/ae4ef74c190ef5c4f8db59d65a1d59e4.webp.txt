@@ -1,0 +1,12 @@
+# OCR: ae4ef74c190ef5c4f8db59d65a1d59e4.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/ae4ef74c190ef5c4f8db59d65a1d59e4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+HHash校验工具1.4.7 文件名称：XIA2058.zip
+文件大小：3.28MB(3,446,325字节）
+MD5:b576ada3366908875e5ce4cb3da6153a
+SHA1：30f8820cf93a627c66195f0d77d6a409024c6e52
+SHA256:5873c1b5b246c80ab88172d3294140a83d711cd64520a0c7dd7837f028146b80 SHA512:
+bfb991ca1acbaa1ab71b2639732c12028f679b807ec8e38428b80a6fbd3563def315dec59fc570d1820f 2f615c79fe4540117ee05aaac5ff7874b2774ea0

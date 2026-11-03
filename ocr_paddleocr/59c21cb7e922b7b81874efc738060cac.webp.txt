@@ -1,0 +1,8 @@
+# OCR: 59c21cb7e922b7b81874efc738060cac.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/59c21cb7e922b7b81874efc738060cac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+1catch(ox5e3d)
+console[_0xd8c3(11)1(_0xd8c3(12); return

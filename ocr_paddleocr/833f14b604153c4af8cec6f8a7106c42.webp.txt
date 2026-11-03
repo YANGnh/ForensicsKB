@@ -1,0 +1,67 @@
+# OCR: 833f14b604153c4af8cec6f8a7106c42.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/833f14b604153c4af8cec6f8a7106c42.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+流量包.pcap
+文样(E)
+编组(E)
+AR
+视图0
+既转(G)
+区己
+dns&&dns.flags.rcode==0
+No.
+Q
+捕获()
+Time
+6448e 2e25-e9-23 e9:18:e5.465699 64483 2825-e9-23 e9:18:85.466855 64404 2025-09-23 09:18:05.466129 64405 2e25-e9-23 e9:18:05.466209 66279 2825-09-23 09:18:18.673995 66282 2025-09-23 e9:18:1e.674299 66283 2025-09-23 09:18:10.674371 66284 2025-09-23 09:18:10:674443 67755 2e25-09-23 e9:18:15.321737 67758 2e25-09-23 09:18:15.322039 67759 2025-09-23 09:18:15.322111 67768 2e25-e9-23 e9:18:15.322182 67815 2025-09-23 09:18:15.383478 67818 2025-09-23 09:18:15.383777 67819 2e25-09-23 e9:18:15.383849 67828 2825-09-23 09:18:15.383921 77328 2825-89-23 e9:18:47.855166 77332 2025-09-23 09:18:47.055496 77333 2025-09-23 09:18:47.055573 77334 2025-09-23 09:18:47.055647 77383 2025-09-23 09:18:47.115220 77386 2825-89-23 e9:18:47.115528 77387 2025-09-23 09:18:47.115600 77388 2025-09-23 09:18:47.115672 85795 2825-09-23 69:19:19.477473 85796 2025-09-23 09:19:19.477488 93895 2e25-e9-23 e9:19;48.963556 93896 2025-09-23 09:19:40.963569 98508 2025-09-23 e9:19:54.249696 985e9 2825-e9-23-e9:19:54.249718 101686 2025-09-23 09:19:59.363154 1e1687 2825-89-23 e9:19:59.363169 148354 2025-09-23 09:22:19.36e226 148355 2025-09-23 09:22:19.360246 189854 2825-89-23 e9:24:55.178711 189855 2025-09-23 09:24:55.178736 189856 2825-e9-23 e9:24:55.178739 220609 2025-09-23 09:26:31.983463 228810 2825-09-23 09:26:31.983478 228811 2825-09-23 e9:26:31.983479 274405 2025-09-23 09:29:44.415415 274486 2825-09-23 09:29:44.415438 274411 2025-09-23 09:29:44,416524 274412 2025-09-23 09:29:44,416537
+分新(A)
+统a(S)
+电话0
+无线0
+电自正团
+Source 127.0.0.1 127.e.e.1 127.0.0.1 127.0.0.1 127.0.0.1 127.8.8.1 127.e.0.1 127.0..1 127.0.0.1 127.0.0.1 127.0.0.1 127.8.e.1 127.0.0.1 127.0.8.1 127.8.0.1 127.0.0.1 127.0.8.1 127.0.0.1 127.0.0.1 127.0.0.1 127.0.0.1 127.6.e.1 127.0.0.1 127.0.0.1 192.168.1. 192.168.1.1 192.168.1.1 192.168.1.1 119.29.29.29 119.29.29.29 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.1
+工D
+动()
+Destination 127.8.0.1 127.e.0.1 127.0.0.1 127.0.e.1 127.0.0.1 127.0.0.1 127.e.0.1 127.0.0.1 127.e.e.1 127.0.8.1 127.0.0.1 127.8.8.1 127.0.0.1 127.e.e.1 127.8.8.1 127.0.0.1 127.8.8.1 127.0.0.1 127.0.0.1 127.e.e.1 127.0.0.1 127.8.0.1 127.0.0.1 127.0.0.1
+192.168.1.208 192.168.1.208 192.168.1.288 192.168.1.208 192.168.1.208 192.168.1.288 192.168.1.208 192.168.1.288 192.168.1.206 192.168.1.288 192.168.1.184 192.168.1.184 192.168.1.184 192.168.1.184 192.168.1.184 192.168.1.184 192.168.1.244 192.168.1.244 192.168.1.244 192.168.1.244
+Protocol
+DNS DNS DNS DNS oNS DNS DNS DNS DNS onis DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS DNS
+o
+x
+β--+
+Length
+Info
+125 Standard query response ex59c3 PTR 138.1.168.192.in-addr,arpa PTR DESKTOP-F5F04US.11 114 Standard query response exe5d4 PTR 244.1.168.192.in-addr,arpa PTR kali.lan
+119 Standard query response @x4e66 PTR 1.1.168.192.in-addr.arpa PTR Immortalwrt.1an
+125 Standard query response exc396 PTR 184.1.168.192.in-addr,arpa PTR DESKTOP-R75AHC2.1i 125 standard query
+PTR 138.1.168.192.in-addr.arpa PTRDESKTOP-F5FO4US.11
+response ex5ed2
+114 Standard query
+y response ex263e PTR 244.1.168.192.in-addr.arpa PTR kali.lan response ex87sc
+119 Standard query
+PTR1.1.168.192.in-addr,arpaPTRImmortalurt.lan
+125 Standard query
+y response exec35 PTR 184.1.168.192.in-addr.arpa PTR DESKTOP-R75AHC2.1i
+125 Standard query
+response ex2974 PTR 138.1.168.192:in-addr,arpa PTR DESKTOP-F5F04US.1i
+114 Standard query response exeab4 PTR 244.1.168.192.in-addr.arpa PTR kali,lan
+119 Standard query response ex4c1e PTR 1.1.168.192.in-addr.arpa PTR Immortalwrt.lan
+125 Standard query response exb23a PTR 184.1.168.192.in-addr:arpa PTR DESKTOP-R75AHC2.1i 125 Standard query response @x32ae PTR 138.1.168.192.in-addr.arpa PTR DESKTOP-F5F04US.14 114 Standard query response exef82
+PTR 244.1.168.192.in-addr.arpa PTR kali.lan
+119 Standard query response ex72F8 PTR 1.1.168.192.in-addr,arpa PTR Immortallrt.lan 125 Standard query
+response @xde8b PTR 184.1.168.192.in-addr.arpa PTR DESKTOP-R75AHC2.1i
+125 Standard query response exce26 PTR 138.1.168.192,in-addr,arpa PTR DESKTOP-F5F04US.1i 116 Standard query
+yresponse@x8ef7PTR 244.1.168.192.in-addr.arpaPTRww.qq.com
+119 Standard query response ex2c3e PTR 1.1.168.192,in-addr.arpa PTR Immortalwrt.lan
+125 Standard query response ex9cec PTR 184.1.168.192.in-addr,arpa PTR DESKTOP-R75AHC2.1i 125 Standard query response @xd73a PTR 138.1.168.192.in-addr.arpa PTR DESKTOP-F5F04US.11
+116 Standard query response exb2e9 PTR 244.1.168.192.in-addr,arpa PTR ww.qq.com 119 Standard query response ex1579 PTR 1.1.168.192.in-addr,arpa PTR Immortalwrt.lan
+125 Standard query response ex8872 PTR 184.1.168.192.in-addr.arpa PTR DESKTOP-R75AHC2.11
+9zstandard query responseexz8ce Awow.qq.con A192.168.1.244 92 Standard query response ex28de A ww.qq.con A 192.168.1.244 92 Standard query
+responseex1bd8 Aww.qq.com A192.168.1.244
+92 Standard query response ex1bd8 A ww.qq.com A 192.168.1.244 92 Standard query response exffee A ww-qq-com A 192.168.1.244 92 standard query response exffee A ww.qq.com A 192.168.1.244 92 Standard query response @x4324 A ww.qq.con A 192.168.1.244 92 standard query response ex4324 A ww.qq.con A 192.168.1.244 92 5tandard query response ex4ecb A ww.qq.con A 192.168.1.244 92 Standard query response ex4ecb A ww.qq.com A 192.168.1.244 92 Standard query response exe894 A ww.qq.com A 192.168.1.244 92 Standard query response @xe894 A.ww.qq.com A 192.168.1.244 92 standard query response exe894 A ww.qq-com A 192.168.1.244 92 5tandard query response ex2679 A ww.qq.con A 192.168.1.244 92 Standard query response ex2679 A ww-qq.com A 192.168.1.244
+respon
+Quen
+1195tandard query response ex933c PTR 1.1.168.192.in-addr.arpa PTR IrmortalWrt.lan 119Standardqueryresponseex933cPr.se.jgz.sin-agdr.arpdRTRortMcy.1an 97Standardqueryresponse ex2afAmgortauwrt.1anA192.16si.牙H 97 Standard query response @x2af7 A Immortalwrt.lan A 192.168.1.1

@@ -1,0 +1,76 @@
+# OCR: 191fe21a1f91a703257636e74a998ce3.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/191fe21a1f91a703257636e74a998ce3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+t:ee t:eee
+0800140002085
+6002887
+208D 299 2998
+929A8 29AA
+00020AF 9892886 028BD 400028BF
+t:00000001400020c5
+081400020c510c1400020c5:
+40020c5 81488828CC 9901498929C6
+400620D8 001400020D8
+00928E8
+8001400020E8
+9929ED
+01400929F5
+80028FA
+:0000981490928F0
+8092197 9992189
+:008000014009210F
+0000140002110 900014000211E 000014000211E 99014009211E 800014000211E 0014000211E 900140002125 30149092120
+：0000000140002132：0000000140002138
+0e
+0014000213F 6909140002146
+14808211C loc_14000211E:
+test jnz lea mov call OVZX test jnz xor lea lea xor call
+moVzx test jz lea lea lea call lea call xor lea mov xor call lea call
+jmp lea mov call mov lea lea xor
+eax,eax
+1oc140902115 rdx,String
+"Login Successful!"
+rcx,cs:qword14666876o;nwnd csisetwindowText
+byteptrcs:word_14eee8e8c
+eax,
+eax,eax
+short1oc_14eee2ec5
+r9d，r9d r8，
+Caption rdx,Text ecx,ecx
+cs:MessageBoxA
+;uType
+"login successful"
+"Great! You have finished the first step"... hiwnd
+;CODEXREF:Sub_140001AE0+5CATj
+eax,byteptrcs:word_14ee8e8c eax,eax
+shortloc_14eee2110
+[rsp+238h+var_108] r8，
+[rsp+238h+var_Fe] rdx,
+[rsp+238h+var_08] rcx,
+sub_1480022A8
+rcx,[rsp+238h+var_D8]
+sub_1480029Ee r9d,r9d
+;uType
+r8,aTheBitlockerKe;
+"The Bitlocker Key"
+rdx,rax ecx,ecx
+cs:MessageBoxA
+:lpText hwind
+[rsp+238h+var_D8] rcx,
+sub_140002B48
+:CODEXREF:Sub_148001AE0+SEEtj
+14800214F
+shortloc1
+;CODEXREF:Sub_140001AE0+5751j;Sub_140001AE0+5A71j
+rdx, aInvalidUsernam ;"Invalid username or password. rcx,cs:qword_140ee8768;hwnd
+cs:SetwindowTextA r9d,30h:*e
+;uType
+r8, aLoginFailed ;"Login Failedaa
+公众量：取证布衣
+rdx, aIncorrectCrede ;
+hiwind
+Pr
+Incorrect

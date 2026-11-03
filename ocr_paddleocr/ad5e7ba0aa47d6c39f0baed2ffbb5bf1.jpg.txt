@@ -1,0 +1,34 @@
+# OCR: ad5e7ba0aa47d6c39f0baed2ffbb5bf1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ad5e7ba0aa47d6c39f0baed2ffbb5bf1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+Troot@localhost#dockerinfo
+Containers:1 Running:1 Paused:e stopped:e Images:1
+Server Version: 1 13.1 Storage Driver: overlay2 Backing Filesystem:xfs Supports d type: true
+Native Overlay Diff:true Logging Driver:journald
+Cgroup Driver: systemd piugins:
+Volume:local
+Network:bridge host macvlannull overlay Swarm: inactive
+Runtimes:docker-runc runc Default Runtime: docker-runc
+InitBinary:usrlibexec/docker/docker-init-current
+（expected:aa8187dbd3b7ad67d8e5e3a15115d3eef43a7ed1)
+containerdversion:
+runcversion:8891bca22c049cd2dcf13ba2438cobac8d7f3343（expected:9df8b306do1f59d3a8029be411de015b7304dd8f） initversion:fec3683b971d9c3ef73f284f176672c44b448662（expected:949e6facb77383876aeff8a6944dde66b3089574）
+Security Options: seccomp
+WARNING:You'renot usingthe defaultseccompprofile
+Profile:/etc/docker/seccomp.json selinux
+KernelVersion:3.10.0-1160.108.1.el7.x8664
+OperatingSystem:centosLinux7(Core) OsType:linux
+Architecture:.x86 64
+Number of Docker Hooks:3 CPUs:1
+Total Memory: 991 MiB
+Name: Localhostlocaldomain
+TD-KPJA-N4L7-EOMY-XBI4-VE7K-3O2U-5G6H-5AK2-C7KO-VMKN-XO3M-CI35 Docker RootDir:var/lib/docker
+DebugMode(client):false DebugMode(server):false
+Registry:https://index.docker.io/v1/
+Experimental:false Insecure Registries: 127.0.0.0/8
+Registry Mirrors.
+https:/registry.docker-cn.com LiveRestore Enabled:false
+Registries:docker.io(secure)[root@localhost~#

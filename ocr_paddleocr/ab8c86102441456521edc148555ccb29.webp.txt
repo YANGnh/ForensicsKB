@@ -1,0 +1,24 @@
+# OCR: ab8c86102441456521edc148555ccb29.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/ab8c86102441456521edc148555ccb29.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+error
+8fbb6ee5aadcc41568fd75aeaa555217.png default.realm
+default.realm.lock profilelnstalled
+profileinstaller_profileWrittenFor_lastUpdateTime.dat
+卷
+文件
+预览
++回详细
+口缩略图
+时间轴
+存在的，存在的存在的，… 存在的存在的存在的
+图例说明
+png realm lock
+dat
+看器组文本
+检2.. 小检材. 检材2.. 检材..\检材2.. 检材2..
+OB 424KB 32.0KB 1.4KB 24B 8B
+chenblog:chen.fol

@@ -1,0 +1,12 @@
+# OCR: 70f2448c8430e902ead4c33455c498f9.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/70f2448c8430e902ead4c33455c498f9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+网站名
+www.jiaoyoumfoup.com wwww.jiedaiormr.com
+状态运行中运行中
+备份无备份无备份
+根目录
+/www/wwwroot/www.jiaoyoumfoup.com/www/wwwroot/www.jiedaioRmr.com

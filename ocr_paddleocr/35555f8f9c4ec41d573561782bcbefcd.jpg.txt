@@ -1,0 +1,24 @@
+# OCR: 35555f8f9c4ec41d573561782bcbefcd.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/35555f8f9c4ec41d573561782bcbefcd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+对象
+historyitems@main(History)-表
+表配置文件、 id
+#INTEGER
+自开始事务 url
+ABCTEXT
+historyitemstotag
+【单元格编辑器筛选&排序用列
+domain expansion ABCTEXT
+https://racing.hkjc.com/
+racing.hkjc
+13
+https:/blog.qywin88.com/all-blog.qywin88
+43
+https://bet.hkjc.com/marksix/bet.hkjc
+44
+https://www.google.com/seargoogle
+vis#

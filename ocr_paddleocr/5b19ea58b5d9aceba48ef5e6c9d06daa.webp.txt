@@ -1,0 +1,27 @@
+# OCR: 5b19ea58b5d9aceba48ef5e6c9d06daa.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/5b19ea58b5d9aceba48ef5e6c9d06daa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+Firefox浏览器园历史记录书签记录下载记录 Cookie
+四
+表单记录 Cache
+扩展程序 IE浏览器历史记录书签记录 Cookie
+鼎
+Cache
+四
+地址栏记录基他浏览器(EB...
+品历史记录员最常访问记录
++
+30 2259 23 5 1 26 2 2192 10 543 430 32 15 60 6 134 16
+88
+2
+口10 口11 口12 口13 口14 口15 口16 口17 18 口19 口20 口21 口22 口23
+Runtime Error Runtime Error RuntimeError
+Runtime Error
+chrome-Google搜寻
+GoogleChrome绸络測器 ChromeSetup(1).exe
+GoogleChrome網络測鹭器：完成下载安装 ChromeSetup(1).exe
+IQcoinproposal (1).pdf
+Investment notice-2025-01-01.pdf

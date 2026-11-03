@@ -1,0 +1,36 @@
+# OCR: ae1be624b337ed8c8592028c2e992cc8.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/ae1be624b337ed8c8592028c2e992cc8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+Recipe
+cfphertkey.xml
+Key
+VFgb2FX+X...
+Mode GCM
+GCMTaq
+7e15ec89afcf..
+BASE64
+Input Hex
+HEX
+未尾16字节
+Lastbuild:2months ago-Version10 ishere!Read aboutthenewfeatureshere
+a
+前面12字节 IV
+HEX
+e4d871365589..
+Output Raw
+Additional Authenticated Data
+HEX
+01024c4f434b
+Input
+fbbb46f209dc
+Hawk2.xml
+Lock字段中间部分[14:-16]
+2字节版本号+字段名
+AnC12
+(LOCK） 1
+Output
+"1596"
+公众号·小谢取证

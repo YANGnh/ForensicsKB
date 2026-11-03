@@ -1,0 +1,14 @@
+# OCR: 633111dedf0a62613c9b5728a686dd95.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/633111dedf0a62613c9b5728a686dd95.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+火眼仿真取证4.3.8.2115
+白打开目录
+虚拟机（sqlserver）创建成功
+用户密码已重置为：123456
+账户信息
++继续创建
+启动虚拟机
+x

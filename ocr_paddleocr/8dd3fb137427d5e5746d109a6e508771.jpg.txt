@@ -1,0 +1,15 @@
+# OCR: 8dd3fb137427d5e5746d109a6e508771.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/8dd3fb137427d5e5746d109a6e508771.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+设置
+常规外观通知
+反向代理标签
+监控历史 Docker宿主
+安全性 API密钥代理备份关于
+代理
+代理必须配置到至少一个监控项后才会工作。
+192.168.217.19:7890(socks5) 编辑
+设置代理

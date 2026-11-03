@@ -1,0 +1,13 @@
+# OCR: 2cfbd7823caf9573e27eda271c162461.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/2cfbd7823caf9573e27eda271c162461.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+□3 口4 口5 口6
+B@
+通讯录 JuiceSSH
+FakeLocation 高德地图
+com.android.contacts com.sonelli.juicessh com.lerist.fakelocation q2foq.i9clx.zohfr
+1.7.31 3.2.2 1.3.9 2.0.0.0
+10.7 23.65 23.24 20.56

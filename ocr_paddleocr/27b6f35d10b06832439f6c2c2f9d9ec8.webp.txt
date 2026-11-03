@@ -1,0 +1,12 @@
+# OCR: 27b6f35d10b06832439f6c2c2f9d9ec8.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/27b6f35d10b06832439f6c2c2f9d9ec8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+213806098560 2318888888888 2419521510863 2513238424249 3215959881065
+e10adc3949ba59abbe56e057f20f883e e10adc3949ba59abbe56e057f20f883e e10adc3949ba59abbe56e057f20f883e
+1ix
+1xpt-1 1xpt-0 1tw
+<nuul>
+tb

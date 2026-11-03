@@ -1,0 +1,24 @@
+# OCR: 0ccbf3a92109575af8a24d267781c847.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/0ccbf3a92109575af8a24d267781c847.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+公三序号口1 口2 3
+详细信息
+nox-disk2.vmdk/分区4/app/com.fankes.tmoreplus-1
+三名称过滤
+lib
+gat(2)
+o
+名称：base.apk
+扩展名：zip 类型：文件
+大小：8.92MB
+base.apk
+创建时间：2024-06-2515:33:09 访问时间：2024-06-2515:33:09 修改时间：
+2024-06-2515:33:10
+MetaAddr:5488694
+全路径：nox-disk2.vmdk/分区4/app/com.fankes.tmoreplus-1/base.apk
+三哈希集过滤
+SHA256:340BD211955996C5D62BBDE94A0BED4EB3A7965B23AF52114991BCA02346928E
+加密类型：未加密已删除：否

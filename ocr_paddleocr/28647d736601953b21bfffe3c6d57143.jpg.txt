@@ -1,0 +1,15 @@
+# OCR: 28647d736601953b21bfffe3c6d57143.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/28647d736601953b21bfffe3c6d57143.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+C
+口
+X
+登录-VMwareESXi
+不安全
+htps://222.2.2.250/ui/#/login
+mware
+用户名密码
+mwareEsxi

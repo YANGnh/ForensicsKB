@@ -1,0 +1,24 @@
+# OCR: 4dbf255235cb318eece9fbf90ae16bcd.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/4dbf255235cb318eece9fbf90ae16bcd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+原类型视面未删除记录 shared version
+文本视图
+?
+android metadata
+photo features sqlite sequence
+9
+十六进制视图
+序号
+1 2 m 4 5 6 7 8 9
+id-2 m
+8
+ photo_uri
+file:///data/user/0/com.faceboo. file///data/user/0/com.faceboo. file:/storage/emulated/0/Foto. file:///storage/emulated/0/Foto. fle:/storage/emulated/0/Dow. fle:/storage/emulated/0/Dow. file://storage/emulated/0/Dow. file://storage/emulated/o/Dow. file:///data/user/0/com.faceboo.
+local_media_db  features_meta
+("features":("faces":("x_ray_concepts"(l."media_model"'duration">-1,.("features":(faces"B.xray_concepts'media_modelr"duration"1,("features?:{faces:x,ray_concepts*'media_modelr"duration*1..("features":{"faces":"x_ray_concepts":ll."media_model""'duration">-1,.("features:(fscesBx,ray,concepts?:l'media_model""'duration'-1,("features:("faces*:-'x,ray_concepts:I.'media_model':"'duration'-1,..("features":("faces:(0."x_ray_concepts":(l."media_model:'duration"-1,(features[faces:.x_ray_concepts"(l."media_model"'duration"-1,..("features"["faces":D."x_ray_concepts"[l."media_model"'duration>-1,
+I is_blacklisted
+0 0 0 0 0 0 0 0 0
+I is.,posted 1

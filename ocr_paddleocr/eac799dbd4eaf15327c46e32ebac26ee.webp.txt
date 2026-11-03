@@ -1,0 +1,12 @@
+# OCR: eac799dbd4eaf15327c46e32ebac26ee.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/eac799dbd4eaf15327c46e32ebac26ee.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+，文件名称一
+MicroMsg (458)
+=a0b534ccdb7db6ab0acbec2945cb2748（177)
+Edge.db-wal Edge.db.ini enFavorite.db
+enFavorite.db-shm enFavorite.db-wal enFavorite.db.ini EnMicroMsg.db
+EnMicroMsg.db-shm EnMicroMsg.db-wa

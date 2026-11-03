@@ -1,0 +1,27 @@
+# OCR: ff35b1bf7f14f1c31629cde6038c46bf.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/ff35b1bf7f14f1c31629cde6038c46bf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+File
+Edit
+View
+XMLView Key
+-Root
+Help
+ListView
+.iEncrypted
+Version Date
+SystemDomainsVersion ManifestKey
+..WasPasscodeSet Lockdown
+Type dict
+boolean string date string data boolean dict
+--com.apple.MobileDevicedict.com.apple..TerminalFlashdict-com.apple.mobile.datasdict.com.apple.Accessibilitydict
+ProductVersion..ProductTtype
+string string
+Value true 10.0
+2025-04-0822:12:48
+24.0 false
+17.5.1
+iPhone12.1

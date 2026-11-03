@@ -1,0 +1,15 @@
+# OCR: fe7c1d990a106a0ba69562f12715f170.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/fe7c1d990a106a0ba69562f12715f170.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+文件Hash计算工具v1.3
+文件名称：文件大小：计算结果口4 m5 SHA1 SHA256
+C:1Userslpk1.ollamalid_ed25519 387B
+7505A0610004190629130622002573E7
+0D4252EC0BF19C8286E346D5ECA8659F4585C29C
+大写
+〇小写
+浏览复制复制复制复制
+x

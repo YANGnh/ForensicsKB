@@ -1,0 +1,27 @@
+# OCR: 1f2c55445d348df841d3f4ec312ca6c0.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/1f2c55445d348df841d3f4ec312ca6c0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+iSCSI发起程序属性
+目标发现快速连接
+收藏的目标
+卷和设备RADIUS配置
+若要发现目标并使用基本连接登录到目标，请键入该目标的IP地址或DHS名称，然后单击“快速莲接”。
+目标(T)：
+已发现的目标(G）名称
+iqn.2008-06.com.sysdevlabs:7f0000010cbc:vdev0 iqn.2008-06.com.sysdevlabs:7f0000010cbc:vdev1 iqn.2008-06.com.sysdevlabs:7f0000010cbc:vdev2 iqn.2008-06.com.sysdevlabs:7f0000010cbc:vdev3 iqn.2008-06.com.sysdevlabs:7f0000010cbc:vdev4
+若要使用高级选项进行连接，请选择目标，然后单击“莲接”。
+若要完全断开某个目标的连接，请选择该目标，然后单窑“断弃并莲接”。
+对于目标属性，包括会话的配置，请选择该目标并单击“属性”。
+对于配置与目标关联的设备，请选择该目标，然后单击设备
+确定
+状态
+快速连接Q)..
+刷新(R)
+不活动不活动不活动不活动不活动
+连接(H) 断开连接(D）属性(P).. 设备(v)...
+取消
+应用(A)
+X

@@ -1,0 +1,24 @@
+# OCR: fa3dbb537c0eb039f1b81443d6759f72.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/fa3dbb537c0eb039f1b81443d6759f72.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+爵：检材1-手机.tar》
+口三序号口1
+三标题过滤
+P
+基本信息>
+曾便签
+三内容过滤
+SavemyPAss.
+<text indent="1">Save my P Ass.</text> <text indent="1">here is password for keepass</text>
+三创建时间
+起始
+结束
+2025-05-13 16:32:33
+三修改时间
+起始
+结束
+在
+2025-05-13 16:33:24

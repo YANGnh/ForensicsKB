@@ -1,0 +1,70 @@
+# OCR: e7af6cb7c49a984614fd953e823f6f08.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/e7af6cb7c49a984614fd953e823f6f08.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+米 x
+目
+基础信息
+O PID
+4 4
+388
+786
+5 行
+句柄信息
+43,714
+专
+取证分析
+可提取文件
+Handle 0x100c 0x23b8 0x1734
+浏览器取证 4.048
+Object
+时间线
+Shimcache D
+专
+0xffffc6843e3ccce0 Oxffffc6843ff3dda0 0xffffc6843e3ccce0
+fY1JkMaRauzu-1765182 fY1JkMaRauzu-1765182743786
+182743786
+?
+安全分析
+应用兼容
+Access 100003 12019f 100003
+日
+注册表痕迹
+命令行
+田应用痕迹
+旦环境变量
+Type Event File Event
+④USB存储
+Tag Even File Even
+fY1JkMaRauzu-1765182743786
+MaRauz
+传
+1765182
+HandleCount
+0x2 0x1 0x2
+KN
+Device
+HarddiskVolume4
+传
+fY1JkMaRauzu-1765182743786
+fY1JkMaRauzu-1765182743786
+Description
+LanmanServerAnnounceEvent VeraCryptivolumeslaaa.ho LanmanServerAnnounceEvent
+fY1JkMaRauzu-1765 fY1JkMaRau
+fY1JkMaRauzu-1765182743786
+fY1JkMaRauzu-1765182743786
+765182743786
+Q
+vera
+字符串搜索窗口已打开
+100/页
+2743786
+fY1JkMaRauzu-1765182743786
+182743786
+1-3/3
+K
+1/1
+>1
+回 v2.0.1

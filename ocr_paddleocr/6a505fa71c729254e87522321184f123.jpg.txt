@@ -1,0 +1,13 @@
+# OCR: 6a505fa71c729254e87522321184f123.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/6a505fa71c729254e87522321184f123.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+APVE服务器
+三序号 1 口2 口3 口4 口5
+三名称过滤
+嵌套证据识别
+vm-100-disk-0.qcow2 vm-101-disk-0.gcow2 vm-102-disk-0.qcow2
+vm-110-disk-0.raw vm-111-disk-0.vmdk
+Y

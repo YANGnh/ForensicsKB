@@ -1,0 +1,14 @@
+# OCR: a7d03e5a4f103a9f43fee1edfebfe914.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/a7d03e5a4f103a9f43fee1edfebfe914.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+oot@openwrt:n#
+scp
+0ot@192.168.31.2's oot@192.168.31.2's assword_collector oot@openwrt:#
+password_co11ectorroot@192.168.31.2:/root
+password: password:
+100%4819KB
+4.7MB/s
+00:01

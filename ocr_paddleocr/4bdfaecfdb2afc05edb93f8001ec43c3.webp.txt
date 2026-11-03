@@ -1,0 +1,20 @@
+# OCR: 4bdfaecfdb2afc05edb93f8001ec43c3.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4bdfaecfdb2afc05edb93f8001ec43c3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+Superuser
+org.fdroid.fdroid
+G
+Gboard
+com.google.android.inputmethod.latin GooglePlayServicesforAR
+com.qoogle.ar.core GoogleWallet
+com.google.android.apps.walletnfcrel
+Jami cx.ring
+LinuxDeploy
+ru.meefik.linuxdeploy
+10140
+urmegiskcs0
+LocalSend
+org.localsend.localsend_app

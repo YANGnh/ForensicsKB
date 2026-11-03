@@ -1,0 +1,7 @@
+# OCR: 2c173306a538fb0f3b916fb6e343e46f.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/2c173306a538fb0f3b916fb6e343e46f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+在IP封包分析中，IP封包中的TTL（TimetoLive）值最能榜助推断封包经过的距离。TTL值是一个在IP 封包头中设置的数值，用于限制封包在网络中的存活时间。每当封包通过一个路由器时，其TTL值就会减少1。当TTL值达到O时，封包将被丢弃，并且向发送源发送一个ICMP报文。因此，通过检香封包的工值，可以估计封包经过的路用器数量，从而推断封包经过的距离，

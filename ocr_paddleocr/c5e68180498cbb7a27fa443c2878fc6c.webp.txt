@@ -1,0 +1,25 @@
+# OCR: c5e68180498cbb7a27fa443c2878fc6c.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/c5e68180498cbb7a27fa443c2878fc6c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+搜索
+图片上传替换
+13文件中有27个结果-在编辑器中打开警config.phpapplicationlapi
+0最白
+Aa ab *
+AB
+//图片上传类型ossUpload阿里云OsS，localU... ComUpload.phpapplicationlapilcontroller
+json[error=>1message=>图片上传失败)
+替 +
+config.php× application>api>
+config-php
+<?php
+2 m 4
+6 7 8 9
+return
+模板设置
+图片上传类型 upload_type
+ossupload阿里云oss， =>'ossUpload
+localUpload本地存储

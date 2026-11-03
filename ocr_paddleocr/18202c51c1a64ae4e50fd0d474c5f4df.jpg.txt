@@ -1,0 +1,19 @@
+# OCR: 18202c51c1a64ae4e50fd0d474c5f4df.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/18202c51c1a64ae4e50fd0d474c5f4df.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+名称.git 自1.txt
+2021-12-21-mssb.xls 国2024-05-22-mssb.xls
+目command.txt LICENSE.md README.md
+windows-exploit-suggester.py
+修改日期
+2024/4/2815:48 2024/5/2210:52 2021/12/2123:43 2024/5/2210:54 2021/12/2123:43 2021/4/2413:36 2021/4/2413:36 2021/4/2413:36
+类型文件夹文本文档
+XLS工作表 XLS工作表文本文档
+Markdown File MarkdownFile Python源文件
+大小
+2KB
+2.045KB 2.045KB
+1KB 35KB 6KB 68KB

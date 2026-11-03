@@ -1,0 +1,100 @@
+# OCR: 1e0fa76dfe5e521d54d46c1c01bbb1f7.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/1e0fa76dfe5e521d54d46c1c01bbb1f7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+0 吕
+W 8
+中 10:48 专
+口
++
+文件打开会话
+V
+S 首页
+查看密码
+连接
+导航名称
+o
+编辑
+快速连接
+查看
+宏/脚本宏
+《主机》
+管理
+工具
+窗口
+复制用户名和密码
+仪表板
+o
+LocalDataSource
+o Linux
+我的MAC ®
+O
+搜索》
+动作
+Linux
+O 打开会话
+编辑?
+新建条目
+x
+·
+帮助
+复制用户名
+o
+在功能区中搜索
+o
+复制密码
+剪贴板
+复制主机复制域复制名称
+概述
+主机 192.
+属性
+用户 root
+密码创建 2025 创建 DESI
+2条目
+DESKTOP-ROUF72C|Saki
+复制粘贴
+★ 收藏
+状态 V
+插入日志注释
+杂项
+RemoteDesktopManager-Linux
+常规
+通用说明
+用户界面 ①条目信息连接
+QVPN/SSH/网关查看
+InventoryManagement
+高级模式
+Apple远程桌面（ARD）
+用
+变量
+人
+名称文件夹显示主机凭据
+通用
+i
+搜索属性
+设置
+主机
+Linux
+嵌入式(选项卡)
+自定义自定义
+高级
+RemoteDesktopManager「仪表板
+192.168.114.51
+用户名密码
+root uika
+弱
+0
+端口 2月份
+回
+关闭
+默认
+LO 确定
+口
+取消
+x
+免费2022.3.12.064-bit（试用版）
+包
+X ★
+切备份

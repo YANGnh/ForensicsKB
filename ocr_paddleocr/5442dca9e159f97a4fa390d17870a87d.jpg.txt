@@ -1,0 +1,17 @@
+# OCR: 5442dca9e159f97a4fa390d17870a87d.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/5442dca9e159f97a4fa390d17870a87d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+Alice的安卓手机>
+三序号口1
+三头像过滤
+谷歌地图alicecutter94@gmail.com
+扫用户ID 过滤
+三内部ID 过滤
+108500760868724..
+三昵称过滤
+显示名过滤
+alicecutter94@gmail.com

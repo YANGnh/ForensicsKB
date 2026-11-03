@@ -1,0 +1,20 @@
+# OCR: d2f291a07a8523d328c473c4b9fbd5b8.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/d2f291a07a8523d328c473c4b9fbd5b8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+g
+8Nginx服务器>
+集群服务器003>
+目站点信息
+口三序号口1 口2 口3
+三服务名称过滤
+www.xzavqianxian.com www.xzavqianxian.com
+三服务口过滤了
+80 80 80
+=根目录过滤
+/usr/share/nginx/html
+/opt/yuanyuzhou/124.220.17.5_20220425_215416/public/opt/yuanyuzhou/124.220.17.5_20220425_215416/public
+=Index文件过滤
+index.html index.ht.. index.html index.ht..

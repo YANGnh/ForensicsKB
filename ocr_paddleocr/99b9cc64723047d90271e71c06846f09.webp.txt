@@ -1,0 +1,69 @@
+# OCR: 99b9cc64723047d90271e71c06846f09.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/99b9cc64723047d90271e71c06846f09.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+RH Resource Hacker -wcry.exe
+文件(F)
+编辑(E)
+视图V
+As
+XIA
+★2058：1033
+版本信息清单
+349635/100F0
+操作(A)
+帮助(H)
+000100F0 00010100 00010110 Q0010120 00010130 0Q010140 00010150 00010160 00010170 00010180 00010190 000101A0 000101B0 000101C0 000101D0 000101E0 000101F0 00010200 Q0010210
+50 6D
+BF 44 84 12
+F8 44 55 AB 84
+BE 14 A9
+6 5 E8 48
+编辑器视图(D
+HH H
+E
+二进制视图(N)
+8
+D8
+选择-偏移量：0长度：0
+马产 BE F
+Dialog Mer+
+E 0
+HH
+21 2E
+PK mgT?
+口
+x
+XIA:2058:1033
+J! b.
+$&5jK
+wnryP8
+*
+E_ /4 =
+/(# -2 _w
+U
+f-f:N
+Dr
+一， kr
+X
+Q
+=H
+D
+<
+#
+mo[r x
+Ja OG
+UQ 8 & n</6
+$5 dc
+$ sMW Hu RA
+A8 >
+Uyr D!
+** Q
+r
+5
+Vc
+］ E
+1 J
+W' D1

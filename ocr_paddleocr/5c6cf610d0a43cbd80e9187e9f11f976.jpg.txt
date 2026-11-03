@@ -1,0 +1,17 @@
+# OCR: 5c6cf610d0a43cbd80e9187e9f11f976.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/5c6cf610d0a43cbd80e9187e9f11f976.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+g
+PVE服务器 A
+序号口1 2 口3 4 口5
+三名称过滤
+·
+嵌妻证据识别
+vm-100-disk-0.qcow2 vm-101-disk-0.qcow2 vm-102-disk-0.qcow2 vm-110-disk-0.raw vm-111-disk-0.vmdk
+三操作系统过滤
+三磁盘文件名过滤
+三磁盘文件路径过滤
+data.E01/分区4/images/100/vm-100-disk-0.qcow2 data.E01/分区4/images/101/vm-101-disk-0.qcow2 data.E01/分区4/images/102/vm-102-disk-0.qcow2 data.E01/分区4/images/110/vm-110-disk-0.raw data.E01/分区4/images/111/vm-111-disk-0.vmdk

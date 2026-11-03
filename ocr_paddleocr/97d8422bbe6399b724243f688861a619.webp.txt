@@ -1,0 +1,17 @@
+# OCR: 97d8422bbe6399b724243f688861a619.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/97d8422bbe6399b724243f688861a619.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+APK Messenger
+。 HQ
+应用名：包名：版本名：版本号：加固：
+zh_CH
+Google Service Framework
+com.ex ample.reverseshell2 1.0
+加固
+所有信息读取完成
+x 廊廊
+?A口★
++

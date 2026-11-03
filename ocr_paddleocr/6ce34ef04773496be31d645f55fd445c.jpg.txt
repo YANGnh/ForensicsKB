@@ -1,0 +1,16 @@
+# OCR: 6ce34ef04773496be31d645f55fd445c.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/6ce34ef04773496be31d645f55fd445c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+A存储服务器
+口三序号口1 口2 口3 口4
+三容器ID 过滤
+docker>docker>
+a42dfbe981e3337ade3e2359fc83c... 41945cbed0274b0dc6305434dbc5.. b28698e5320af420fd12d6f57adb2... 85c6f203ba5b996d47d27a2d6c67a...
+容器列表三使用的镜像过滤
+prophet310/alist-encrypt:beta soulteary/flare
+louislam/uptime-kuma:1 corentinth/it-tools:latest
+三自动分配的容器名称过滤
+alist-encrypt flare-flare-1 uptime-kuma it-tools

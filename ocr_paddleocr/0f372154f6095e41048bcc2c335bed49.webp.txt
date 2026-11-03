@@ -1,0 +1,49 @@
+# OCR: 0f372154f6095e41048bcc2c335bed49.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/0f372154f6095e41048bcc2c335bed49.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+192.168.137.200-WindTerm
+会话编辑
+搜素
+文件管理器筛选
+选择
+转到
+会话
+Openssh sessions shell sessions
+r***@192.168.137.200
+192.168.217.11 192.168.31.150
+>admin:powershell67 ■k***@192.168.217.12
+ONoahServerBeijing NoahServerchengdu NoahserverHongKong ≥powershell67
+1r***@192.168.217.188
+r***@192.168.217.6 1r***@192.168.217.7
+就绪
+查看
+模式 X
+工具
+窗口帮助
+1.powershell6/7
+o
+1 23456789
+@
+2.192.168.137.200
+x
+BusyBoxv1.36.1（2025-02-0323:09:37UTc)bui1t-inshe11
+18 11 12 13
+0penWrt24.1e.e，r28427-6df0e3d02a root@openwrt:~#
+远程模式
+窗口33×90
+0
+行13字符16
+linux
+(ash）
+2025/5/2721:47
+Q
+户隧道
+X
+口
+宣专注模式
+WindTerm Issues
+X
+锁屏

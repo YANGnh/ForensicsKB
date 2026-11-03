@@ -1,0 +1,42 @@
+# OCR: a49f82dbe16cfc2701811e34afee7ab5.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/a49f82dbe16cfc2701811e34afee7ab5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+计算器程序员国
+三
+IHEX
+口
+DB5
+DB5
+110110110101 3,509
+6665
+DEC OCT BIN
+%
+QWORD 位移位
+V 按位
+D
+A
+B
+MS >
+（
+Mv CE
+）
+7
+区% 9
+8 5
+× 6
+-
+3
+2
+4
+C
+D
+E
+1 +/
+F
+0
++
+取证布衣
+公众号

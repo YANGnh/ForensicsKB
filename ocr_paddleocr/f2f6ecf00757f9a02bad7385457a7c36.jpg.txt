@@ -1,0 +1,17 @@
+# OCR: f2f6ecf00757f9a02bad7385457a7c36.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f2f6ecf00757f9a02bad7385457a7c36.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+查找查找
+替换、文件查找工程中查找标记查找目标(E)：[192.168.71.100|
+■反向查找全词匹配 ■四配大小写（C)?循环查找
+查找模式普通心
+O扩展μ（nito..)
+正则表达式(G)
+，匹配新行
+计数：15次匹配在整个文件中
+V
+■选取范围内()
+区

@@ -1,0 +1,31 @@
+# OCR: 264b35cdfe30f1d74e8e2a47bb75968b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/264b35cdfe30f1d74e8e2a47bb75968b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+G:/2025FIC决赛\exports/recphrase
+文件类型 ELF32
+①文件信息画MIME OELF 程序
+0009
+扫描自动
++
+文件大小
+43.08 MiB 党内存映射图可视化
+节
+001d
+反汇编 8搜素
++
+字节序
+LE
+编译器：GCC((Debian12.2.0-14)12.2.0) 语言：Python
+库：GLIBC(2.7)[DYNARM-32] 打包工具：Pylnstalle
+附加：Binary[偏移=0xa000.大小=0x02b0ab1c] 未知：未知
+基址（BA)
+00000000
+十六进制#哈希
+模式
+32位
+國字符串泰信息摘
+架构
+ARM

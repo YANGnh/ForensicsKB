@@ -1,0 +1,17 @@
+# OCR: e1f2c5a780949ed10d61c00de095df30.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/e1f2c5a780949ed10d61c00de095df30.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+雷电模拟器-1 设置
+性能设置机型设置游戏设置音频设置网络设置快捷键基他设置
+安卓9.0(64位）ID:1
+手机品牌：手机型号：
+手机号码： IMEI编码：
+blackshark SKW-AO 常规机型列表
+352746028023556
+未启动
+120顿机型列表
+启动随机
+X

@@ -1,0 +1,27 @@
+# OCR: fbdf1328a4f53224e828773b8954197f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/fbdf1328a4f53224e828773b8954197f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+g
+义言的计算机
+三序号口1 口2 □3 口4 □5 口6 07 口8 口9 口10 11
+三名称过滤
+基本信息》
+USB设备信息
+=设备描述过滤
+SamsungPortableSSDT5USBDevice WDElementsSESSDSCSIDiskDevice BluetoothDevice(PersonalAreaNet...
+VMwareVirtualUSBHub VMwareVirtualUSBHub
+SamsungPSSDT7USBDevice
+SamsungPortableSSDT5SCSIDisk ...@System32)drivers|usbxhci.sys,#10...
+VMwareVirtualUSBMouse VMwareVirtual USBHub Pixel
+基他名称：SamsungPortableSSDT5USBDevice,Samsun... 基他名称：WDElementsSESSDSCSIDiskDevice,Element.. 基他名称：BluetoothDevice（PersonalAreaNetwork
+基他名称：GenericUSBHub 基他名称：GenericUSBHub
+其他名称：SamsungPSSDT7USBDevice,HBB：实际容量：其他名称：SamsungPortableSSDT5SCSIDiskDevice,Sa... 其他名称：@System32driversusbxhci.sys#1073807361;%.. 其他名称：USBCompositeDevice
+其他名称：GenericUSBHub 其他名称：ADBInterface
+三设备序列号过滤
+007018654321 2335NM400370
+X12720BROSNWT6S
+007018654321 FA6A80312283
+三设过滤 Stor Stor Net Unk Unk Stor Stor Unk Inpu Unk Con

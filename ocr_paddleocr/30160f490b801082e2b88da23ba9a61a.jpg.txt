@@ -1,0 +1,24 @@
+# OCR: 30160f490b801082e2b88da23ba9a61a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/30160f490b801082e2b88da23ba9a61a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+对象
+鼠开始事务 id
+1 2 3 4 5 6 7 8 9 10
+transactions@main (MoneyLovers2)...
+自文本、了筛选排序
+amount
+created date
+158202022-02-01 4152023-07-17 8002022-02-13 5112023-04-16 3312022-05-24 5022023-10-21 4302022-05-14 1052022-01-17 280 2022-06-07 157752022-03-01 3122023-07-23
+*无标题·查询
+导入导出肿数据生成
+display_date 2022-02-01 2023-07-17 2022-02-13 2023-04-16 2022-05-24 2023-10-21 2022-05-14 2022-01-17 2022-06-07 2022-03-01 2023-07-23
+cat id
+创建图表
+note 36(Null) 1(Null) 9(Null) 1(Null) 1(Null) 1(Nulh) 1(Null) 19(Null) 11(Null) 36(Null) 1/Nul
+longtitude
+categorie
+latitude
+0 0 0 0 0 0 0 0 0 0 0

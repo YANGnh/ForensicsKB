@@ -1,0 +1,42 @@
+# OCR: ae394ee2d69241eb986b23f1e4d3e961.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ae394ee2d69241eb986b23f1e4d3e961.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+应用列表（194/0）×
+来源应用应用列表
+应用列表
+3 10 11 12 13 14
+应用列表应用列表应用列表应用列表应用列表应用列表应用列表应用列表应用列表应用列表应用列表应用列表
+图来源应用
+删除
+标签
+应删除恢复
+图标 B 器 O 用
+C 小红书 8
+?清除过滤器
+应用标识
+com.apple.weather com.apple.iBooks
+com.kingsoft.office.g.wpsoffice com.baidu.BaiduMobile
+com.apple.Fitness com.apple.calculator
+com.fish.stream com.apple.facetime
+net.whatsapp.WhatsApp com.apple.mobilemail com.apple.Passbook com.xingin.discover com.apple.Home com.jiangjia.gif
+应用名称天气图书
+wPsoffice
+百度健身计算器 Stream
+FaceTime通话 WhatsApp
+邮件钱包小红书家庭快手
+版本 3.1
+9.1
+11.33.82 13.57.0
+1.0 1.0.0 1.0.6 36
+24.10.4 1.0.0 1.0 8.37 7.0 12.4.20
+应用安装包
+①标签
+导出
+private/var/containers/Bundle/Application/D06B2984-1B67-487D-B..
+C重新载入权限数
+private/var/containers/Bundle/Application/670B377E-C921-4A67-8F. private/var/containers/Bundle/Application/CDD528C5-E6DE-495B-9.. private/var/containers/Bundle/Application/3EE2EBB8-FC6F-4536-84.. private/var/containers/Bundle/Application/16C99CF0-8D43-4FD4-B7.. private/var/containers/Bundle/Application/099CE783-1C5C-498D-84. private/var/containers/Bundle/Application/6BF6BE34-173E-49C8-89. private/var/containers/Bundle/Application/4CAABBC7-8F8F-4D69-96.. private/var/containers/Bundle/Application/E73BF557-D3FA-409A-86.. private/var/containers/Bundle/Application/621D264C-A52B-4ABE-88.. private/var/containers/Bundle/Application/C47B8494-B906-497B-B1.. private/var/containers/Bundle/Application/FB16CA03-7B80-4794-81.. private/var/containers/Bundle/Application/BABC5630-CAE2-47E4-9C.
+orvate/varl
+3797-4601-AE

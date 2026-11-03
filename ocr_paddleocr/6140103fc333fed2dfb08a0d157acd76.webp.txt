@@ -1,0 +1,10 @@
+# OCR: 6140103fc333fed2dfb08a0d157acd76.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/6140103fc333fed2dfb08a0d157acd76.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+详细信息
+文件名：BitLocker恢复密钥E7DB6C0E-43A4-40A3-940E-BE3BDD951164.TXT 密钥：012507-559669-054527-667557-173448-699171-415833-700755
+标识符：E7DB6C0E-43A4-40A3-940E-BE3BDD951164 创建时间：2024-11-0922:55:00
+源文件：检材计算机.001/新加卷/Document/FLFG/BitLocker恢复密钥E7DB6C0E-43A4-40A3-940E-BE3BDD951164.TXT 已删除：否

@@ -1,0 +1,31 @@
+# OCR: cc2468377f13d241421eddeb36b1ab2c.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cc2468377f13d241421eddeb36b1ab2c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+目应用列表（463/35）×
+文件除
+标签
+图标.
+Q
+图来源应用
+应用标识
+应删除恢复
+清除过滤器
+com.samsung.android.knox.containercore com.google.android.documentsui
+com.samsung.android.knox.containeragent
+0 o
+com.sec.android.app.myfiles com.samsung.knox.securefolder
+应用名称
+工作配置文件文件
+工作配置文件
+我的文件安全文件夹
+版本 1.0
+5_aml_310733000
+2.7.05001015 13.1.03.501 1.7.03.10
+应用安装包
+?标签
+o导出
+C重新载入
+data/app/~~FNyyEholneiaSCozcq6gOQ==/com.sec.android.app.myf. data/app/~~UXhLz2DL3AVKJipgihogQA==/com.samsung.knox.secu..

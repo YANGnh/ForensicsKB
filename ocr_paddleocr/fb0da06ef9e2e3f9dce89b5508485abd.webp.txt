@@ -1,0 +1,14 @@
+# OCR: fb0da06ef9e2e3f9dce89b5508485abd.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/fb0da06ef9e2e3f9dce89b5508485abd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+检材2.tarldatalcom.clover.daysmatterifiles 口了文件名称一
+，=com.clover.daysmatter(37)
+. = files (8).realm.temp (0) appcenter(0)
+default.realm.management(3)
+error(O)
+8fbb6ee5aadcc41568fd75aeaa555217.png
+default.realm default.realm.lock profilelnstalled
+profileinstaller profileWrittenFor lastUpdateTime.dat

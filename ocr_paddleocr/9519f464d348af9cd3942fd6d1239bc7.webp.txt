@@ -1,0 +1,17 @@
+# OCR: 9519f464d348af9cd3942fd6d1239bc7.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/9519f464d348af9cd3942fd6d1239bc7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+root@izbp1qna2uf9hvsnbu9mdkz
+datal#
+cat
+127991
+LocaLhost
+etchosts
+LocaLhost.LocaLdomainLocaLhost4LocaLhost4.Lo locaLhost.Localdomainlocalhost6LocaLhost6.Loca
+LocaLhost
+:1
+192.168.71.146izbp1qna2uf9hvsnbu9mdkzizbp1qna2uf9hvsnbu9mdkz
+168.71.155rm-bp18td28bsh13f5jy.mysql.rds.aliyuncs.com 192.

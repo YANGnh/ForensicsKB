@@ -1,0 +1,13 @@
+# OCR: 9ea5af5fa1ae1af3c4095cbdf822dca7.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/9ea5af5fa1ae1af3c4095cbdf822dca7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+现在北京时间
+北京时间在线标准北京时间校准
+首页
+时间万年历
+世界时间
+2025年4月9日星期三
+农历三月十二 13:36:18

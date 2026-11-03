@@ -1,0 +1,25 @@
+# OCR: edac96012aa53865fc886c254b676671.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/edac96012aa53865fc886c254b676671.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+口计算器国
+程序员三
+4C3F
+4C3F IHEX
+19,519 DEC
+46077 OCT
+0100110000111111 BIN
+Mv MS
+QWORD%
+V 位移位
+v 按位 D
+区 CE >
+A
+%）（ B
+× 9 8 7 C
+-6 5 4 D
++ 3 2 1 E
+取证布衣喝公众号
+0 +/ F

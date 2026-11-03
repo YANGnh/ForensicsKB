@@ -1,0 +1,9 @@
+# OCR: 6bb8c639747de866371b34a7a7b8d5ae.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/6bb8c639747de866371b34a7a7b8d5ae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+P C:1UserslAdministrator> nslookup -type=mx -query=txt hl.chen.foren645.79.133.98 服务器：unknown
+Address:45.79.133.98
+***UnKnown找不到hl.chen.foren6：Non-existentdomain

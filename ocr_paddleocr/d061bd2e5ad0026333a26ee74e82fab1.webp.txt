@@ -1,0 +1,38 @@
+# OCR: d061bd2e5ad0026333a26ee74e82fab1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/d061bd2e5ad0026333a26ee74e82fab1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+PC.E01>
+同三序号
+1 口2 口3 口4 口5 口6 口7 口8
+目基本信息用户列表
+三名称过滤
+Administrator Guest
+DefaultAccount
+WDAGUtilityAccount
+admin SYSTEM
+LocalService
+NetworkService
+三用户类型*
+本地账户本地账户本地账户本地账户本地账户本地账户本地账户本地账户
+Y
+三最后登录时间
+起始
+结束
+2025-05-20 17:59:31
+三最后登录失败时间
+起始
+结束
+2025-05-2015:10:04
+三最后修改密码时间
+起始
+结束
+2025-05-1615:14:21 2025-05-1615:18:38
+Y
+三登录次数
+等于 41
+三登录错误次数
+等于
+过滤

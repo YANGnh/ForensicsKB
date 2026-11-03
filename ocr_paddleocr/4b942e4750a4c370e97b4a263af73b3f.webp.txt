@@ -1,0 +1,22 @@
+# OCR: 4b942e4750a4c370e97b4a263af73b3f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/4b942e4750a4c370e97b4a263af73b3f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+帮助 Y
+9
+操作说明搜索
+Q
+A
+三
+落
+好好学习！
+Good-Word（末经授权产品）
+AaBbCcDi 正文
+AaBbCcDi。无间隔
+AaBk
+AaBbc
+标题1
+标题2
+AaBbo 标题

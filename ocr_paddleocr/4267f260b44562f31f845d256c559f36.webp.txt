@@ -1,0 +1,28 @@
+# OCR: 4267f260b44562f31f845d256c559f36.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4267f260b44562f31f845d256c559f36.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+C
+不安全 A
+OpenWrt
+192.168.137.100/cgi-bin/luci/admin/s...
+状态
+系统
+WireGuard状态实例“myvpn"
+myypn 对端
+端口51820
+网络
+VPN
+退出
+卓
+ABP
+VB9Kj18/10gr1HodkYzxdXk4h2BzpOBDrruUgH6NwG0=
+传输端点
+已接收
+无数据
+@ 已发送
+字
+国上次握手
+X 刷新

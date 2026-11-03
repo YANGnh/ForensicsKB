@@ -1,0 +1,9 @@
+# OCR: dffbdaea4079c3661130f4929a731bfa.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/dffbdaea4079c3661130f4929a731bfa.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+56 57
+root root
+java-jar/home/service/jinyi/api/jinyi.api.api-1.0.0.jar--spring.profiles.active=prod java-jar/home/service/jinyi/web/jinyi.web.web.jar--spring.profiles.active=prod

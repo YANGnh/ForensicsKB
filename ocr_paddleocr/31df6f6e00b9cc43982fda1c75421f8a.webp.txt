@@ -1,0 +1,21 @@
+# OCR: 31df6f6e00b9cc43982fda1c75421f8a.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/31df6f6e00b9cc43982fda1c75421f8a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+g
+PC.E01>
+三序号口1 □2 口3
+三项目名称
+过滤 11.png
+用户痕迹>
+第一次公告.txt
+①最近访问的项目
+三路径过滤
+C:\Users\admin\Pictures\11.png
+C:\Users|admin\Desktop)第一次公告.txt
+ms-photosspareprocess-vi...
+三类型过滤文件文件文件
+三文件大小等于
+99.26KB 319B

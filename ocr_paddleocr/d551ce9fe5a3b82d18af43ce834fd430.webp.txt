@@ -1,0 +1,24 @@
+# OCR: d551ce9fe5a3b82d18af43ce834fd430.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/d551ce9fe5a3b82d18af43ce834fd430.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+三序号口1 □2 口3 口4 口5 口6 口7 口8 口9 10 □11 □12 13 □14 □15 16
+三名称过滤
+设备名称型号名称设备型号系统版本编译版本硬件模型序列号 UDID IMEI MEID GUID
+最后备份时间是否加密
+Y
+最后登录(AppleID)iCloud 位置服务
+AppleID登录历史
+三内容过滤 Phone
+iPhone6 iPhone7,2
+12.5.7 16H81 N61AP
+F4RNLH9RG5MP
+Y
+a7aeea8e39521fe28f002cdaa15207b4c3a53101
+355902061236947 35590206123694
+6BEB125DAC1C780AA9C3590C189CCF69
+2025-09-1721:46:03 是
+3032324653@qq.com 开启
+zhaoleyun0428@icloud.com; 8613067819508; ..

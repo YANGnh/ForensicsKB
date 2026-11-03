@@ -1,0 +1,14 @@
+# OCR: df795085b2f7b640e22f1e3a97f0b98e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/df795085b2f7b640e22f1e3a97f0b98e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+备份助记词
+#01#04#07#10
+solution faculty series ramp
+#02#05#08#11
+mule generat loop bring
+#03#06#09#12
+rug upon
+express hamster

@@ -1,0 +1,53 @@
+# OCR: 5f98d504072111d3a1f45f3bf3a010ea.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/5f98d504072111d3a1f45f3bf3a010ea.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+Vmage.ziplprivatevarlinstalldLibrary/LogsMobilelnstallation 了文件名称一
+=Logs(2)
+=Mobilelnstallation(2)
+mobile installation.log.0 mobileinstallation.log.1
+Users\ADMINl~1VAppData\Local\Tempmobile_installation.log112528.0[文本模式]-Ndd
+编辑(E)
+区
+查找(S) 慢
+区
+1.py
+视图
+编码(N)
+run_info.py
+语法(L)
+器 x
+设置
+列与宏冈
+111.py
+X
+工具(O)
+插件
+?措述存在的，… 存在的，…
+了文件类型
+存在的，…
+0
+存在的，.．1
+对比(C) C
+game_log.txt
+区
+反馈注册
+台
+key.txt
+丫路径
+63分钟以前
+Vmage.zip/privatelvar/installd/Library
+Vmage.zip/privatelvar/installd/Library/Log Nmage.zip/privatelvarlinstalld,Library/Log/mage.zip/privatelvar/installd/Library/Log
+?
+?
+dict.txt
+GO 区
+面
+国
+容器密码.txtα
+Thu-Apr-17.10:51:39.2025.[334].<notice>.(0x16d2eb000).-[MIclientConnection-uninstal1Identif
+.WaitForstorageDeletion.=.l;
+Thu-Apr-17.10:51:39.2025.[3341.<notice>.（0x16d2eb000).
+-[MiUninstaller.uninstallBundlewithIdentifier:waitForDeletion:uninstallReason:error::. Uninstalling-identifier-ph.telegra.Telegraph

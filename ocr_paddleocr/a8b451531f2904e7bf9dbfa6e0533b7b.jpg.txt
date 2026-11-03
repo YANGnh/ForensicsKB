@@ -1,0 +1,28 @@
+# OCR: a8b451531f2904e7bf9dbfa6e0533b7b.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/a8b451531f2904e7bf9dbfa6e0533b7b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+合
+个
+RecoverFilePassword
+recoveryPage_tabs_files
+recoveryPage_tabs_report
+.shop1.zip
+文件位置C:）Users）32622）Downloads
+recoveryPage_tabs_resources
+文件类型Zip2.0一ExtractionPassword,DefaultEncryption，可以使用Zip明文攻击
+复杂度 MD5:
+密码为：
+Brute-force-Fast
+324620CBAA8A5B5F911D012418CB7606
+File-Open
+22Ga#ce3ZBHV&Fr59fE#
+工具
+帮助
+recoveryPage_tabs_performance
+?
+口
+x
+recoveryPage_tabs_attacks

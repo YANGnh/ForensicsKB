@@ -1,0 +1,23 @@
+# OCR: 7c183965b6c0c3607ae75d1c8527a368.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/7c183965b6c0c3607ae75d1c8527a368.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+伏季雅的计算机>
+二序号口15 口16 口17 18 口19 口20 口21 口22 23 24 口25
+三标题过滤
+Chrome浏览器>民历史记录
+豆瓣-Google搜索
+豆瓣电影豆瓣电影豆瓣电影豆瓣电影
+北京-在线购票&影讯北京-在线购票&影讯坠落的审判（豆瓣）
+bilibibli-Google搜索 bilibibli-Google搜索
+哗哩哗哩（)口干杯~-bilibili
+EURL 过滤
+https://www.google.com.hk/search?g=豆瓣&newwindow=1&sca_esv=
+https://m.douban.com/movie https://douban.com/movie/
+https://www.douban.com/movie/ https://movie.douban.com/
+https://movie.douban.com/cinema/nowplayingh
+https://movie.douban.com/cinema/nowplaying/beijing/
+https://movie.douban.com/subject/35633650/?from=playingposter
+https://www.google.com.hk/search?q=bilibibli&newwindow=1&sca_es https://www.google.com.hk/search?g=bilibibli&newwindow=1&sca_es https://www.bilibili.com/

@@ -1,0 +1,12 @@
+# OCR: 172ed3c86b2705e75c1db44fbe382f80.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/172ed3c86b2705e75c1db44fbe382f80.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+psC:iuserslAdministrator>nslookup
+p type=mx query=txt blog.chen.foren6 45.79.133.98
+服务器：Unknown Address:
+45.79.133.98
+blog.chen.foren6
+canonical name = chewhaoN.github.io

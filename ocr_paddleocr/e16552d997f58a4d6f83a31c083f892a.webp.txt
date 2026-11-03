@@ -1,0 +1,14 @@
+# OCR: e16552d997f58a4d6f83a31c083f892a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/e16552d997f58a4d6f83a31c083f892a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+命令提示符-pinglaozhao.com
+Microsoftindows［版本10.Q.19045.4651
+MicrosoftCorporation。保留所有权利。 C:\Users\zhaohong>pinglaozhao.com
+，具有32字节的数据：
+正在Ping1aozhao.com[172.16.10.200]
+172.16.10.200的回复：
+字节=32时间<1msTTL=64
+来自

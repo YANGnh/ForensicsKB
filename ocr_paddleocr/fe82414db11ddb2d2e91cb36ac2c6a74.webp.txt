@@ -1,0 +1,28 @@
+# OCR: fe82414db11ddb2d2e91cb36ac2c6a74.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/fe82414db11ddb2d2e91cb36ac2c6a74.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+应用列表（463/35）×
+搜素
+.
+# 373 374 375 376 377 378
+来源应用应用列表
+应用列表应用列表应用列表应用列表应用列表
+Q
+来源应用
+删除?
+标签
+应删除恢复
+图标 1 service C 中 Pro
+·
+?清除过滤器应用标识
+com.sina.weibo
+com.skt.skaf.OA00018282
+com.android.phone com.vmos.pro
+com.android.shell
+com.samsung.cmfa.AuthTouch
+应用名称微博
+电话服务 VMOSPro Shell
+CMFA AuthTouchService

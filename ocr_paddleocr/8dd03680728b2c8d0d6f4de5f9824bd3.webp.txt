@@ -1,0 +1,41 @@
+# OCR: 8dd03680728b2c8d0d6f4de5f9824bd3.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/8dd03680728b2c8d0d6f4de5f9824bd3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+【Wireshark·追踪HTTP流(tcp.streameq191)·tcpdump_tj.cap
+POST/peiqi.phpHTTP/1.1 Host:222.2.2.180
+Accept-Encoding:gzip,deflate
+User-Agent:Mozi1la/5.e (Windows NT 6.1)ApplewebKit/537.36 (KHTML,1ike Gecko)Chrome/41.8.2228.e Safari/537.36 Content-Type:application/x-ww-form-urlencoded
+Content-Length:29772 Connection: close
+g8eaa563eee8ce=2WL3d3dy93d3dyb29eL3d3dy5ecHNob3AuY29
+90050776E4B69742D4578706C6F69742D6D61696 55554850001C83D
+3BD1DCF66E DF0703
+567F86CABA846DDA
+92ADC49D549A0C95A68756AEB966943C4D
+分13037
+整个对话（30kB）查找：
+1turn(sl点击送率
+Showdataas
+ASCII
+滤掉此流
+打印
+另存为.
+口
+88814800 454F534 7C30D9
+72A5 486C879 S2056F0
+58A6
+1896332
+682822 122DE
+6523
+9CDCDEC
+CFFD A08
+88957484
+E7A5 37795
+C0F8954D043F94CE31AB6008
++
+流191图查找下一个（ND
+返回
+关闭
+帮助

@@ -1,0 +1,53 @@
+# OCR: 0342e8943bd19e3788f3fa6e6779cad9.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/0342e8943bd19e3788f3fa6e6779cad9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+DBBrowserforSQLite-C:\Users\32622)DesktopL义言privacysafe.db
+文件(F)
+编辑（E)
+新建数据库（H）
+数据库结构创建表(C) 名称
+查看(V）工具(T) 打开数据库（0)
+浏览数据
+编辑杂注
+创建索引(I)
+圃表(10)
+BOOKMARK FILE_INFO HIDE_APF IMEI
+INTRUDER_SHOOT
+LOCK_APP NOTE
+PAY_ORDER SAFE_BOX
+属SAMPLE 索引(0) 视图(0) 触发器(0)
+帮助(H)
+写入更改（W）
+执行SQL
+>>
+倒退更改（R）
+编辑数据库单元格(C)
+模式：
+文本
+餐
+当前在单元格中的数据的类型
+当前在表中的数据的大小远程(R)
+身份
+打开工程（P）
+选择要用于连接的凭据
+DBHub.io 福名称
+SQL日志(L)
+当前数据库
+本地
+图表(P)
+数据库架构(M）
+自保存工程（v）
+上次修改
+远程(R)
+附加数据库（A）
+大小
+提交
+口
+X关闭数据库(C)
+x x
+应用
+品x
+加密的 UTF-8

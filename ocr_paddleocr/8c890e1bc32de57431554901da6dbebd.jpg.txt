@@ -1,0 +1,22 @@
+# OCR: 8c890e1bc32de57431554901da6dbebd.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/8c890e1bc32de57431554901da6dbebd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+口
+■三序号口1
+vm-111-disk-0.vmdk/文件系统/ubuntu-vg(phrKJm-7EL6-Q8kE-BR4T-3yvG-CNcy-rGlGq)/分区0/home/service/jinyi/web
+無名称过滤
+jinyi.web.web.jar
+三大小等于 91.10..
+三创建时间
+起始
+结束
+2024-03-1421:37:08
+三修改时间
+起始
+结束
+2024-03-2510:31:20
+三全路径过滤
+ubuntu-vg(phrKJm-7EL6-Q8kE-BR4T-3y

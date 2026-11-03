@@ -1,0 +1,22 @@
+# OCR: b4c71c2c333ae5c7932ee8d6b0dc0248.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/b4c71c2c333ae5c7932ee8d6b0dc0248.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+GET/upload.htmlHTTP/1.1 Host:192.168.209.147
+user-agent:Mozilla/5.0(WindowsNT 10.0;Win64;x64)Appl
+Accept-Encoding:gzip,deflate,br accept：*/*
+Connection:keep-alive accept-rncoding:
+keep-alive:timeout=15,max=1eeo cache-control:max-age=e
+HTTP/1.1 200OK Server:nginx
+Date:Mon,05Aug202408:16:30GMT
+Content-Type:text/html Content-Length:252
+Last-Modified:Mon,o5Aug202403:0o:1eGMT Connection:keep-alive
+ETag:"66b0403a-fc" Accept-Ranges:bytes
+<html> <body>
+<formaction="upload.php"method="post" enctype="multipart/form-data">
+<labelfor="file">Filename:</label>
+<inputtype="file"name="file"id="file"/> <br/>
+<inputtype="submit"name="submit"value="submit"/>
+</form> </body> </html>

@@ -1,0 +1,22 @@
+# OCR: bb564e01f529b104ce9bbe09984f4572.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/bb564e01f529b104ce9bbe09984f4572.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+g
+202509222139.E01>
+序号
+□1
+三IP 过滤
+192.168.19.1
+WinSCP>-缓存账户
+三端口号过滤
+三用户名过滤 sshuser
+三密码过滤
+MySecret123@
+Y
+三连接名称过滤
+sshuser@192...
+三时间起始
+结束

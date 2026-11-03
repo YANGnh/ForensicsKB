@@ -1,0 +1,21 @@
+# OCR: 3981cabfaec92b514d92c3c695510651.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/3981cabfaec92b514d92c3c695510651.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+g
+伏季雅的计算机>
+序号
+口1 口2 口3 口4 口5 口6 口7 口8 口9 口10 口11 口12 口13 口14
+三标题过滤
+Edge浏览器>民历史记录
+TroubleshootingMattermostissues-Mattermost documentation
+MVBOX虚拟视频播放器，是国内的卡拉OK.录歌k歌软件-MVBOX官方网站 MVBOX虚拟视频播放器，是国内的卡拉OK录歌.k歌软件-MVBOX官方网站
+MicrosoftEdge|新增功能 MicrosoftEdge新增功能 MicrosoftEdge|新增功能 MicrosoftEdge|新增功能 MicrosoftEdge|新增功能 MicrosoftEdge新增功能 MicrosoftEdge新增功能
+MVBOX虚拟视频播放器，是国内的卡拉OK录歌k歌软件-MVBOX官方网站 MVBOX虚拟视频播放器，是国内的卡拉OK录歌，k歌软件-MVBOX官方网站 MVBOX虚拟视频播放器，是国内的卡拉OK录歌.k歌软件-MVBOX官方网站 MVBOX虚拟视频播放器，是国内的卡拉OK.录歌,k歌软件-MVBOX官方网站
+EURL 过滤
+https://docs.mattermost.com/ins
+http://www.mvbox.cn/ https://www.mvbox.cn/
+https://go.microsoft.com/fwlink/ https://www.microsoft.com/edge https://go.microsoft.com/fwlink/ https://www.microsoft.com/edge https://www.microsoft.com/zh-c https://www.microsoft.com/zh-c https://www.microsoft.com/zh-c
+http://www.mvbox.cn/ https:/www.mvbox.cn/ http://www.mvbox.cn/ https://www.mvbox.cn/

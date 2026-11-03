@@ -1,0 +1,25 @@
+# OCR: 3913ab0d7b6893f2ec6d86c6dcb00726.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/3913ab0d7b6893f2ec6d86c6dcb00726.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Recipe SM3 Length 256 Rounds 64
+a
+?
+Input
+1.3cR CR
+AaNoO,8"6EngA. OoiAAAf-
+6EnDAcoU%iEcOUEDAiEEA oowua.cR
+x0%.41A%
+OAIDA,AAAfoNEg.OiS
+"@wifcR CR
+EgwiAE%ioNOEnDA3.3GA
+RLE1996
+三58
+Output
+Filedetails
+Name: Size:
+吵群技巧.txt 1.996bytes
+TT Raw BytesLF 用密
+4767951e073483956c0ae67c6e8920eba840c7f45691a0c70 0ace9810887ae1

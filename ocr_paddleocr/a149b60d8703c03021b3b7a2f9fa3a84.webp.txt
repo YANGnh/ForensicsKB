@@ -1,0 +1,23 @@
+# OCR: a149b60d8703c03021b3b7a2f9fa3a84.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/a149b60d8703c03021b3b7a2f9fa3a84.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+计算机检材》
+口二序号口1 2
+三连接名过滤
+Navicat>
+AMySql
+三数据库类型过滤
+192.168.2.200 192.168.2.201
+MySQL MySQL
+地址过滤
+192.168.2.200 192.168.2.201
+三端口过滤 3306 3306
+三数据库名称过滤
+三用户名过滤
+www_mtbtsdafda... root
+三密码过滤
+在N
+Ea1KMSRBnY2eB...(=3)Zwjt#W

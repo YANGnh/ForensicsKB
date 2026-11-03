@@ -1,0 +1,20 @@
+# OCR: 46532e36689dd89f1cabaea4b999a0b9.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/46532e36689dd89f1cabaea4b999a0b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+对象
+admin@motx5dw（2025解牙杯服务.
+国表配置文件、
+id
+#int(11)
+3 4
+原开始事务
+username Bcvarchar(12
+admin yeguolili
+单元格编辑器筛选&排序用列
+password
+eBcvarchar(64)
+品数据分
+de9369f810db1f06d5197211314e04db9609d595 2176711577958a37913e9e1f5333932521824950

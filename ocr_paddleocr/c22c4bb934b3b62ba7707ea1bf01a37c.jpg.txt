@@ -1,0 +1,22 @@
+# OCR: c22c4bb934b3b62ba7707ea1bf01a37c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c22c4bb934b3b62ba7707ea1bf01a37c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+100%-导出向导
+口
+我们已收集向导导出数据时所需的全部信息。点击开始1按钮开始导出。（5/5）
+源表：总计：已处理：时间：
+membermoneytotal
+91,952 91,952 00:21.08
+[EXP]Exportstart
+[EXP] Export Format - Excel file[EXP]GettingandExportingdata[EXP]Exporttable[member]
+[EXP]Exportto-C:Users|32622/Desktop]member.xlsx[EXP]Exporttable[membermoneytotal]
+[EXP]Exportto-C:\Users|32622\Desktop]membermoney_total.xlsx[EXP]Finishedsuccessfully
+保存
+打开.
+上一步
+开始
+关闭
+x

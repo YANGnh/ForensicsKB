@@ -1,0 +1,27 @@
+# OCR: 63712a7500b740143ebeae194679a6ac.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/63712a7500b740143ebeae194679a6ac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+200 200 200 20e 200 200 200 200 20e 200
+5KB 5KB 5KB 5KB 5KB 5KB 5KB 35KB 33KB
+nttp:l
+/user
+168
+/192.168.11.5/user.asp
+http:
+/192.168.11.5/user/
+http:
+/192.168.11.5/user-php
+http:/
+/192.168.11.5/user.txt
+http:/
+/192.168.11.5/user/e
+http:/
+http: http: http:
+/192.168.11.5/user.html
+/192.168.11.5/user/login.php/192.168.11.5/user/login/
+12KBhttp:/192.168.11.5/www.zip
+[root@localhost
+http192.168.11.51#

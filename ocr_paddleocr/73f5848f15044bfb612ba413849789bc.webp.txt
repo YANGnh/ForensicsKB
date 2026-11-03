@@ -1,0 +1,20 @@
+# OCR: 73f5848f15044bfb612ba413849789bc.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/73f5848f15044bfb612ba413849789bc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+图Alice的Macbook>
+三序号 □1 口2 口3
+三名称过滤连接ID 端口名称
+上次使用Mac地址
+TeamViewer>
+配置信息
+三英文名称过滤
+CLIENTID PORT
+LAST USEDMAC
+Y
+三值过滤
+358639376 6039
+F4:5C:89:A1:C0:07

@@ -1,0 +1,23 @@
+# OCR: b3a3db0df4f295712ec9d014b62bdc8f.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/b3a3db0df4f295712ec9d014b62bdc8f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+C
+0 品名称
+>
+fix2_sign.apk
+2025平航杯
+血
+人
+20250415 181118
+排序
+修改日期
+查看
+2025-04-1015:12
+浏览器Download 类型
+Idmng.apk
+大小
+在浏贸
+3,291KB

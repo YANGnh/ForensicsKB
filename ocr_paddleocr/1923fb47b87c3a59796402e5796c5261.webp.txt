@@ -1,0 +1,15 @@
+# OCR: 1923fb47b87c3a59796402e5796c5261.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/1923fb47b87c3a59796402e5796c5261.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+31 32 33 34 35 36 37 38 39 40
+健康检查端点
+app.get('/api/health' res.json(
+status:
+ok
+(reg,res)
+'serviceisrunning'
+message:
+timestamp: new Date().toIsostring());

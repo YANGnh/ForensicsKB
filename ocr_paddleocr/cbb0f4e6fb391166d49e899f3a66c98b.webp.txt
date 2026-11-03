@@ -1,0 +1,16 @@
+# OCR: cbb0f4e6fb391166d49e899f3a66c98b.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/cbb0f4e6fb391166d49e899f3a66c98b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+公务人员.xlsx属性
+常规属性说明标题主题标记类别备注来源作者
+HashTab
+最后一次保存者
+安全值
+输出转换
+Tuojie Liquor
+详细信息
+以前的版本
+x

@@ -1,0 +1,37 @@
+# OCR: 9de8273bb81c15f62a97160a119b5da8.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/9de8273bb81c15f62a97160a119b5da8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+婴用户栗面国基本信息国系统信 e默认测览器?用户列表国账户操作记录本地凭据登录信息开关机时间?
+熄屏唤醒时间
+?·
+自启动程序品默认打开方式系统服务安装软件软件快捷方式可执行程序邮USB设备信典
+2231 22
+8 173
+11 15 9
+179 586 96 51 259 5
+USB最近使用记
+养硬件值典》网络配量
+14 163 32
+回
+ActionTime+
+国三序号 1 口2 口3-4 口5 6 07 口8 口9 口10 11 口12
+理操作过滤接入弹出弹出弹出接入弹出弹出接入弹出接入弹出接入
+单操作时间起始
+结束
+2023-02-17 16:51:21 2023-02-1716:51:21 2023-02-1716:51:21 2023-02-1716:51:21 2023-02-17 16:51:21 2023-02-17 16:51:21 2023-02-17 16:51:20 2023-02-17 16:50:55 2023-02-17 16:27:35 2023-02-17 16:16:11 2023-02-16 15:55:20 2023-02-16 15:49:43
++
+单设备名过
+External HDD ExtemalHDD ExtemalHDD ExternalHDD ExternalHDD External.HDD ExtermalHDD ExternalHDD ExtremeSSD ExtremeSSD ExtremeSSD ExtremeSSD
+三厂商过滤 iODD iODD iODD iODD iODD iODD iODD iODD SanDisk SanDisk SanDisk SanDisk
+普序列号过滤
+S3JKNX0JA05097Y S3JKNX0JA05097Y S3JKNX0JA05097Y S3JKNX0JA05097Y S3JKNX0JA05097Y S3JKNX0JA05097Y S3JKNX0JA05097Y S3JKNX0JA05097Y
+195320401111 195320401111 195320401111 195320401111
+Y
+邮版本过滤
+1012 1012 1012 1012
+容量等于
+476.93GB 476.93GB 476.93GB 1.81TB 1.81TB
+过

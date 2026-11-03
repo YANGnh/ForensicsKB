@@ -1,0 +1,45 @@
+# OCR: a931cdf44e4df4dcc7139df31eca27d6.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/a931cdf44e4df4dcc7139df31eca27d6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+DD盾v2.1.5.4[试版】 ADV
+Q OK 回
+扫描结束
+D盾
+主动防御，默默为你的网站保驾护航！
+http://www.d99net.net
+扫描结束
+检测文件数：7251发现可疑文件：14用时：10.50秒
+文件（支持拖放目录和扫描）
+c:lusers132622/downloadsitouzilicai.comlindex.php c:lusers/32622/dowrloadsttouzilicai.com/con2.php
+c:lusers/32622/downloadsltouzilicai.com/tmpbnyhp.php c:lusers/32622/downloads/touzilicai.comltmpugklv.php c:lusers/32622/dowrloadsltouzilicai.com/tmpbpbhw.php c:lusers/32622/downloads/touzilicai.comltmpuuwpj.php c:lusers/32622/dowrloadsltouzilicai.com/tmpbfuoa.php c:lusers/32622/downloads/touzilicai.comltmpuivok.php
+c:lusers/32622/downloadsltouzilicai.comldbs.php  c:lusersl326221dowrloadsltouzilicai.comdabaol.phy c:lusers/32622/downloads/touzilicai.comlgnlindex.php
+c:lusersl32622idowrloadsltouzilicai.comlvendorlcompose... c:lusers/32622/downloadsltouzilicai.comlpublicthomelcs. c:lusers32622idowrloadsltouzilicai.comlpublicthomelcs..
+主页
+查杀
+工具
+规则
+记录
+级别说明
+5 4 4 5 4 5 4 5 3 3 4 2
+2 选项
+已知后门
+Ea后门参数$POST[2335]](内藏）system后门【参数：$_REQU. 上传后门
+(内藏)system后门[参数:$_REQU. 上传后门
+(内藏)system后门[参数:$_REQU.
+上传后门文件管理 ZIF打包 eral后门
+Eval后门[参数:$s(未知内容)]...[可疑]file_get_contents
+参数
+[可疑]file_get_contents
+参数
+大小
+返回修改时间
+2024-04-2715:46:08 1822
+292024-04-2518:56:22
+866 975 866 961 866 970
+61039 12795 5032 117 3359 3494
+2024-04-25 18:51 :49 2024-04-25 18:51 :48 2022-05-06 15:00:56 2022-05-06 15:00:54 2021-05-10 11 :24:02 2021-05-10 11:24:02 2021-04-15 23: 14:50 2021-04-15 23:08:00 2021-04-15 19:29 : 44 2021-04-14 16:11:06 2020-09-29 13:26:10 2020-09-29 13:26:10
+口
+x

@@ -1,0 +1,75 @@
+# OCR: 35ba3bdbc978cf3494eff6fc60712db3.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/35ba3bdbc978cf3494eff6fc60712db3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+口 G
+E Q
+出
+8
+欢迎
+127.0.0.1:7474/browser/
+*（17088) User
+Device person
+RelationshipTypes
+*(10017) TRUSTS
+FROM_IP
+X
+Login
+HASLOGIN
+USING DEVICE
+PropertyKeys
+address deviceid last_login
+name since
+city
+email
+country
+ip_address
+log_id
+real name
+time
+Connected as
+Username:
+Roles: Admin:
+Database
+Version: Edition: Name: Size:
+nformation QueryList
+搜索
+mobile reg_city
+user_id
+neo4j admin
+o'serveruser list 0:server user add
+3.5.14
+Community graph.db 9.01MiB Q:sysinfo Qqueries
+neo4j@bolt://127.0.0.1:7687-Nex
+$:playstart
++
+neozjl
+:serverconnect
+Connected to Neo4i Nicetomeetyou
+回
+区
+LearnaboutNeo4i Agraphepiphanyawaitsyou
+What is a graph database?
+HowcanIquerya graph?
+Whatdopeopledo withNeo4j?
+Start Learning
+Jump into code UseCypher,thegraphquery language.
+Codewalk-throughs RDBMSto Graph@Write Code
+Copyright@Neo4j.lnc2002-2019
+Youareconnectedasuserneo4j tobolt://127.0.0.1:7687
+Connectioncredentialsarestoredinyourwebbrowser
+as
+?
+☆
+System information Keysystemhealthandstatus metrics.
+Storesizes IDallocation Pagecache
+Transactioncount@Monitor
+M中国银行+1.41%
+★
+英
+?
+司
+10:36 2025/4/21
+x

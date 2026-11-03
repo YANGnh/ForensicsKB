@@ -1,0 +1,15 @@
+# OCR: 43a45e69564c45129a64ca7d5f63633e.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/43a45e69564c45129a64ca7d5f63633e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+计算机检材>
+三序号口1
+三标题过滤
+微软便(StickyNotes）
+三摘要
+Y
+过滤
+三内容过滤
+密码：WAXD9128@

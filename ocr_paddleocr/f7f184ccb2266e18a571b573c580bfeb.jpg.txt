@@ -1,0 +1,74 @@
+# OCR: f7f184ccb2266e18a571b573c580bfeb.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/f7f184ccb2266e18a571b573c580bfeb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+httpcontainsphpinfo
+No.
+Time
+Source
+1903176.405617192.168.85.130 1915177.476605192.168.85.250 2018197.619101 192.168.85.250
+Destination
+192.168.85.250 192.168.85.130 192.168.85.130
+Protocol Lengtl Info
+HTTP HTTP HTTP
+1026PoST/phpmyadmin/import.phpHTTP/1.1（application/x-www-form-urlencoded） 71HTTP/1.1200OK
+(text/html)
+71HTTP/1.1200OK
+(text/html)
+Frame 1903:1026 bytes on wire (8208 bits),1026 bytes captured (8208 bits) on interface (DevicelNPF_(9F
+Ethernet II,Src:VMware f3:b8:de
+Dst:VMware_a3:c7:cf(00:0c:29:a3:c7:cf)
+(00:0c:29:f3:b8:de)，
+InternetProtocolVersion4,Src:192.168.85.130,Dst:192.168.85.250
+Transmission Control Protocol,Src Port:49868,Dst Port:8o,Seq:1,Ack:1,Len:960 Hypertext Transfer Protocol
+FormURLEncoded:application/x-www-form-urlencoded
+HTML V
+Form Form Form Form >
+Form
+> > >
+Form
+"is_js_confirmed”="e"
+item: item：
+"token"="o0aa696fe7b68db6bo4860b3d0a862a1""pos"-"o"
+item:
+"goto"="server_sql.php"
+item:
+item: item：
+item:
+Form
+Form Form Form
+item: item:
+"message_to_show"="YoursQLqueryhasbeenexecutedsuccessfully"
+salqueryn
+nrey
+"sql_query"="SELECT"<?phpphpinfo()?>""
+delimiter
+sqi
+"show_query"="1"
+"ajax_request"="true"
+item：
+"_nocache"="1560431213443661324"
+item:
+Form
+000 ee1e 8828 ee3e 9048 ee58 668 8078 2080 0090 ooao oebe eoce oede BQee oefe e100 eie e120
+e0
+ec f4
+93
+fa 55
+e0 7b 69 54
+es bd 6e 50
+2e 32
+65 61 78 30 31 41 65 2d 63 7a 66
+72 2f 20 29 20 63 70 55 65 69 65
+29 5d c2 19 50 2f 2f 31 2d 35 78 20 46 63 74 53 70 70 72
+a3 df cc 5c 4f 69 31 36 41 2e 38 47 69 65 2d 2c 74 2c 65
+c7 40
+00 53 6d 2e 38 67 30 36 65 72 70 4c 65 2d 20 72
+cf 58 54 76 31 2e 65 20 5f 63 65 74 61 6e 45 64 3a
+e 40 e3 01 20
+Qo 06 99 01 2f
+72 6f
+ed 38 6e 28 36 6b 66 3a 6e 3b 6e 65 20
+Qa 35 74 58 34 6f 6f 26 67 71 63 66 68

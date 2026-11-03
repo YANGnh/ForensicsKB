@@ -1,0 +1,50 @@
+# OCR: 9d4843d2f6bec1d69a5937c892116740.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/9d4843d2f6bec1d69a5937c892116740.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+DeDetect It Easy v3.10[Windows10Version2009] (x86_64) 文件名
+C:/Users)Administrator/Downloads/192.168.31.2\202505281848\password_collector
+文件类型 ELF64
+0文件信息每MIME
+OELF 程序
+0006
+扫描自动
+ELF64
+文件大小
+4.71MiB
+党内存映射图可视化
+节
+001a
+蛋反汇编 0搜素
+字节序
+基址（BA）
+D000000000000000
+回十六进制#哈希
+模式
+LE
+操作系统：UbuntuLinux(AB:3.7.0)[AARCH64.64位，EXEC)
+编译器：Gcc((Ubuntu13.3.0-6ubuntu2~24.04）13.3.0）语言：C
+附加：Binarv[偏移=0x00400000.大小=0x000b4b481
+签名目录
+标志日志
+数据库
+64位
+國字符串来信息熵
+架构
+入口点
+000000000001780
+国签名 Y提取器
+AARCH64
+241毫秒
+VirusTotal
+YARA 类型
+EXEC
+S S S
+???
+扫描
+口
+x
+高级选项 <T>符号重组
+快捷键容选项 0关于 X退出

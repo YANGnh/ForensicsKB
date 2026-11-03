@@ -1,0 +1,24 @@
+# OCR: 4148a360d78527f1ab5ca49061f97e09.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/4148a360d78527f1ab5ca49061f97e09.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+g
+手机检材>
+三序号口1 口2 口3 4 口5 口6 口7 口8 口9 口10
+三名称过滤
+操作系统 Android ID 蓝牙名称
+基本信息>
+蓝牙MAC地址
+IMEI1 IMEI2 MEID ICCID 时区
+允许模拟位置
+民
+设备信息
+三内容
+Y
+过滤 Android
+868ca2a91a8a10fe AndroidBluedroid 48:87:59:76:21:0f 865647062581055 865647062581063 99001894630051
+<null>.89860321245124114178
+Asia/Shanghai False
+Y

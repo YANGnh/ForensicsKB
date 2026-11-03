@@ -1,0 +1,58 @@
+# OCR: 13ecb2bb28967fff2dc97e6cb63d4d10.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/13ecb2bb28967fff2dc97e6cb63d4d10.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+流量包pcap
+文件(E)
+编辑(E)
+ALAO ftpllftp-data
+No.
+视图
+能转(G)
+X
+9
+捕获()
+分析(A)
+统计(S)
+电话
+无线w)
+业日电8正用
+Source
+Time
+283821 2825-89-23 e925:39.295584
+283823 2025-09-23 09:25:39.295984 203838 2025-09-23 e9:25:39.297466 2e4276 2e25-09-23 09:25:48.88e136 284278 2025-09-23 09:25:40.800565 284292 2825-89-23 e9:25:48.882769 284294 2025-09-23 09:25:40.803218 204296 2025-09-23 e9:25:40.883505 284313 2825-e9-23 e9:25:4.816793 2e5632 2025-09-23 e9:25:45.387342 2e5634 2825-09-23 e9:25:45,387575 205638 2025-09-23-09:25;45.389734 20564e 2025-09-23 e9:25:45.39ee84 2e5653 2825-89-23 e9:25:45.392153 2056552025-09-2309:25:45-392826 295673：2825
+2656652625-65-259125145-466581 212e57 2025-89-23 e9:26:88.988971 212059 2025-89-23 09:26:08.989205 21264 2025-09-23 09:26:08.990883 212066 2025-09-23 09:26:08.990428
+192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.1 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.246 192.166.1.3 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1
+工具D
+帮助(E)
+Destination 192.168.1.244 192.168.1.244 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.244 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1. 192-168.1.244 192.168.1.1 192.168.1.244 192.168.1.1 192.168.1.244
+Protocol FTP
+FTP-DATA
+FTP FTP FTP FTP FTP
+FTP-DATA
+FTP FTP FTP FTP FTP FTP FTP
+FTP-DATA FTP-DATA
+FIP FTP FTP FTP FTP
+Length
+Info
+ii Response: 1se Here cones the directory listing 196 FTP Data:124 bytes (EPASV)(NLST /)
+96 Response: 226 Directory send OK. 78 Request: EPSV
+12e Response: 229 Entering Extended Passive Mode (111500491) 84 Request:NLST /hone
+111 Response:15e Here comes the directory listing 83 FTP Data: 11 bytes (EPASV) (NLST /home)
+96 Response:226 Directory send OK. 8e Request: TYPE I
+1e3 Response: 20e Switching to Binary mode. 78 Request: EPSV
+12e Response: 229 Entering Extended Passive Mode (lll5e7e4])
+97Request:STOR /hone/ftp/flag.zip 94 Response:15e Ck to send data
+PData
+249T
+49fTCP
+9oKesponse:2z61 Be Request: TYPE A
+102 Response:2ee Switehing 78 Request: EPSV
+o
+x
+-+
+(STOR/home/ftp/flag.zin)
+众号·小谢取证 teASefmod
+12e Response: 229 Entering Extended Passive Mode (l1[58635])

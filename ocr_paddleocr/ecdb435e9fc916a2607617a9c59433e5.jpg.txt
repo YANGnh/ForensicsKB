@@ -1,0 +1,16 @@
+# OCR: ecdb435e9fc916a2607617a9c59433e5.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/ecdb435e9fc916a2607617a9c59433e5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+Phone-192.168.100.102:5555 4:17S
+Q搜素应用
++ 抖音
+B 通讯录
+WebView..
+日历图库
+o 设置
+文件
+口时钟 Search
+x

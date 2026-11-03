@@ -1,0 +1,19 @@
+# OCR: cef4ebdb36c3d5116b3f7941ee6fdc3e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/cef4ebdb36c3d5116b3f7941ee6fdc3e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+[root@wns~#bt5 正在执行（5）--
+请输入新的面板密码：123456
+-用户名：s6wh8tig-新密码：123456[root@wns~]#bt14
+正在执行（14）
+BT-Paneldefault info!
+外网面板地址：内网面板地址：
+http:183.214.173.22639802/39c115ad http://192.168.137.5:39802/39c115ad
+username：s6wh8tig password:********
+If you cannot access the panel
+release thefollowingpanel port[398e2]in the securitygroup
+端口
+若无法访问面板，请检查防火墙/安全组是否有放行面板[39802
+注意：初始密码仅在首次登录面板前能正确获取，其它时间请通过bt5命令修改密码[root@wns~#

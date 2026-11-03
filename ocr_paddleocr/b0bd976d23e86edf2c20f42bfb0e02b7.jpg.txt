@@ -1,0 +1,56 @@
+# OCR: b0bd976d23e86edf2c20f42bfb0e02b7.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/b0bd976d23e86edf2c20f42bfb0e02b7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+HEK WinHex -[RAM_Capture_David_Laptop.raw]
+HEX文件(E)编辑(E)搜索(S) 光图
+RAMCaptureDavid Laptop.. 位置管理器(全部）
+Offset
+搜素结果
+导航(N)
+169B06D80infantfragile
+offset 169B06D10 169B06D20 169B06D30 169B06D40 169B06D50 169B06D60 169B06D70 169B06D80 169B06D90 169B06DA0 169B06DB0 169B06DC0
+0 E5 E5 E5 E5 E5 E5 E5 69 67 6F 64 6E
+1 E5 E5 E5 E5 E5 E5 E5 6E 72 76 6F 20
+2
+E5 E5 E5 E5 E5 E5 E5 66 6c 65 76 74
+查看(V
+工具
+1012
+3
+E5 E5 E5 E5 E5 E5 E5 61 69 20 65 65
+E5 E5 E5 E5 E5 E5 E5 6E 63 62 20 72
+5
+E5 E5 E5 E5 E5 E5 E5 74 20 6c 61 6D
+专业工具(D)
+选项(O)
+美
+ARHE
+6
+E5 E5 E5 E5 E5 E5 E5 20 62 61 65 20
+E5 E5 E5 E5 E5 E5 E5 66 72 64 72 65
+8 E5 E5 E5 E5 E5 E5 E5 72 61 65 6F 64
+9 E5 E5 E5 E5 E5 E5 E5 61 63 20 62 75
+窗口W +
+A E5 E5 E5 E5 E5 E5 E5 67 6B 73 69 63
+B E5 E5 E5 E5 E5 E5 E5 69 65 74 63 61
+帮助(H) C
+E5 E5 E5 E5 E5 E5 E5 6c 74 69 20 74
+D
+E5 E5 E5 E5 E5 E5 E5 65 20 63 73 65
+E E5 E5 E5 F5 E5 E5 E5 20
+6B 70 E5
+F E5 E5 E5 E5 E5 E5 E5 67 74 20 69 E5
+时间
+2024/11/1015:45:49 ANSI ASCII
+aaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa infant fragile g arlicbracketst ovebladestick dove aerobic spi n term educateaa
+口广口
+口口
+口口口口口口口
+口口
+UTF-8
+口口
+口口
+infant fragile g arlic bracketst ove bladestick dove aerobic spi n term educate

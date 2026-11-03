@@ -1,0 +1,30 @@
+# OCR: 942ceb2b5bc2a4a5bd6f8c34471710f3.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/942ceb2b5bc2a4a5bd6f8c34471710f3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+John的笔记本>
+三序号口15 口16 口17 口18 口19 口20 口21 口22
+三名称过滤
+固件
+固件版本系统根路径路径名
+画
+基本信息》
+最后一次正常关机时间最后访问时间已启用
+注册所有者工作组
+胃系统信息三英文名称过滤
+FIRMWARE
+FIRMWAREVERSION
+SYSTEM_PATH PATH_NAME
+LAST_LOGOUT_TIME
+NTFS LAST_ACCESS_UPDA.
+REGISTEROWNER PC_GROUP
+三值过滤
+Dell Inc. 1.31.3
+C:IWINDOWS C:IWINDOWS
+2024-08-20 17:40:05 未知
+John.Killer
+WORKGROUP
+Y

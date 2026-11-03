@@ -1,0 +1,20 @@
+# OCR: ddee4b1ba655840f7354a59da0682958.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/ddee4b1ba655840f7354a59da0682958.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+Thomelandroid 文件名称一. =
+home(3,021)
+.=android (3,021)
+.cache(1.904).config（461)）
+.dbus(1).gnupg(4).local(9).pki （4) 口.vnc (4) Desktop（0)
+Downloads(2) Xpass(0)
+门rtl8812au(619).bashrc
+.bashlogout.ICEauthority.profile
+.Xauthority
+xinitrc.xsession
+install7.0en.sh Xreco
+recphrase
+tf11willow1.jpg
+xVideo2025-05-0915-40-06.webm XVideo2025-05-0915-40-10.webm

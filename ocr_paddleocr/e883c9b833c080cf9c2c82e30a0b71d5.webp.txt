@@ -1,0 +1,9 @@
+# OCR: e883c9b833c080cf9c2c82e30a0b71d5.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/e883c9b833c080cf9c2c82e30a0b71d5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+！
+可疑行为(6) 静态文件特征
+样本使用了Pylnstaller打包器

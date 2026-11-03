@@ -1,0 +1,14 @@
+# OCR: 9d1054af749bf6e06be9f1cdc9828cce.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/9d1054af749bf6e06be9f1cdc9828cce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+受害人手机检材.tarlmedialovDownload 了文件名称～
+..=0(4,445)
+.=Download(13) DLManager（O)
+downloadedrom(（4）
+QQBrowser（O） Weixin(3)
+app-release.apk
+boot.img data
+magiskpatched-24300s6xzA.img

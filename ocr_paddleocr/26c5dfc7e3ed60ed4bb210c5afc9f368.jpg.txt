@@ -1,0 +1,36 @@
+# OCR: 26c5dfc7e3ed60ed4bb210c5afc9f368.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/26c5dfc7e3ed60ed4bb210c5afc9f368.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+12 14
+cat
+custom-datatas-tane
+f"category"
+default
+custom-datatag-tage
+58""use-chunk"euse-
+"category
+default
+decoder.dafaulte"httnconfLh custom-datatae-taaa
+Soossuse-chunk:eruse-custom-datata
+http://49.65.205.115/con.php
+UTES
+ldkk1G0aitvz6n78-1
+"defauit'
+uoload-fna
+dku2Ctsilr7dcy
+encoder"pdetault upload-frasm
+Pnds9DFowLA732Q8-)"UTFB""encoder"
+unload
+mwx6Knazd
+69744132324810:
+UTEB
+onmand-path
+"default
+ache:8."noload-
+169746444172.1d:n2tX1ydx51HuR1X5
+Find
+FindPre
+apSe

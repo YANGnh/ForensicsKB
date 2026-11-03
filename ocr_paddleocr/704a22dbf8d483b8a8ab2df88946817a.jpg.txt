@@ -1,0 +1,11 @@
+# OCR: 704a22dbf8d483b8a8ab2df88946817a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/704a22dbf8d483b8a8ab2df88946817a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+账号请辅入您的账号 B密码请辅入您的密码
+验证码记住密码
+后台管理系统
+登录
+5

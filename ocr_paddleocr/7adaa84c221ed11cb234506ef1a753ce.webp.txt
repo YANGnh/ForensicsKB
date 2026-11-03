@@ -1,0 +1,18 @@
+# OCR: 7adaa84c221ed11cb234506ef1a753ce.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/7adaa84c221ed11cb234506ef1a753ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+对象
+昆开始事务 id
+Android@main(laixi)-表自文本了筛选排序 onlyMark
+导入已导出数据生成咖创建图表
+markName
+9e6c9838dafe7ba0R3CR30FE23Y
+2fcbafe04ac02bf4900a7fb5b 3fcbafe04ac02bf4900f16a79
+43f8ca5810c4b7e23RFCW716YW8D
+SM-G996N
+V1916A SKW-AO SM-F9460
+markNo
+@ 1Cn 2n 3n 4n

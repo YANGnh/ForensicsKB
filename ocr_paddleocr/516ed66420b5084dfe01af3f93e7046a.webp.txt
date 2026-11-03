@@ -1,0 +1,24 @@
+# OCR: 516ed66420b5084dfe01af3f93e7046a.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/516ed66420b5084dfe01af3f93e7046a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+Alice的安卓手机
+三序号口1 口2
+详细信息
+三名称过滤
+基本信息>
+20240723 213709jpg 20240723220854jpg
+名称：20240723_213709.jpg 大小：4.46MB
+创建时间：2024-07-2321:37:09 修改时间：2024-07-2321:37:09
+图片> Y
+相机三大小等于
+4.46MB 4.84MB
+三创建时间起始
+结束
+2024-07-23 21:37:09 2024-07-23 22:08:54
+手机中路径：/storage/emulated/0/DCIM/Camera/20240723_213709.jpg
+本地路径：AliceMobile.bin/1/media/0/DCIM/Camera/20240723_213709.jpg 目录名称：相机
+源文件：Alice_Mobile.bin/1/data/com.android.providers.media/databases/external.db 已删除：否

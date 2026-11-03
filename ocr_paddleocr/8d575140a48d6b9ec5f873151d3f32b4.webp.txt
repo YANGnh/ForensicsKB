@@ -1,0 +1,22 @@
+# OCR: 8d575140a48d6b9ec5f873151d3f32b4.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/8d575140a48d6b9ec5f873151d3f32b4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+Hawk2.xmlx
+<?xml <map>
+version='1.o'encoding='utf-8'standalone='yes'
+>
+<string
+name="MXT_PwD">jaVa.lang.String##OV@AQIyVJCPbg6w2hKI+KPvUaPjwTd7F3keK7n+GQ8e+gE=</string>
+<stringname="pOLICY">ava.lang.Boolean##0V@AQIcFMPpVI//VFOsFCJ+uciuB6ibyvea3Mp59hx08fz7sw==</string> <string
+name="RISK_CONTENT">java.1ang.String##0V@AQISAcb7hGEjgw1JZUw89rmOChkUhOdMzh9+U09iiNcAN59LzWbTnuQeDMgmX6g4vjjMm8t2c3
+<string
+name=L0CK">java.lang.String##0V@AQLk2HE2VYmQb05p1d37u0byCdx+FeyJr8/DuZhlrnd4+P7w</string>
+name="LOCK_CHECK">java.lang.string##OV@AQKMffGLJm4NxLOzbADQkETXNDJJYU1JzZNIfln/8jqx9s+TMlgt2xw=</string>
+<string <string
+name="LOCK_ACTIVITY">jaVa.lang.Boolean##0V@AQIbEqxTBGsrG87pZ+Q2wXnsNgD9Kn3t7TA3MQdl4Y0diw==</string>
+<stringname="LCK_STATE">java.lang.Boolean##OV@AQIfF8YYT4XHrX0IZEQ6aT5y1FUmHTdQcOiyMit2az5pfgk=</string>
+射取证ng
+<stringname="LOCK_CHECK_POSITION">java.lang.Integer##OV@AQJnCOiDsuQPGPzwZI27naSTfsFZZnSzDiDcPDoDpwGFBNa*Au <stringname="R_PwD">java.lang.String##OV@AQLqs1P78yqjHNfIR26UIJujoFbmSUyDouqvBrwbmxw=</string>

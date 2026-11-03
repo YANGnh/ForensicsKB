@@ -1,0 +1,19 @@
+# OCR: 1f86807ceafb8fd1bda40dd16bb2d86c.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/1f86807ceafb8fd1bda40dd16bb2d86c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+p
+义言的计算机
+口地序号口1
+三连接名过滤威尼斯
+Navicat>
+MySql 数据库类型
+过滤 MysQL
+邮地址过滤
+192.168.137.125
+無端口过滤 3306
+三数据库名称过滤
+推用户名过滤 root
+邮密码过滤 root

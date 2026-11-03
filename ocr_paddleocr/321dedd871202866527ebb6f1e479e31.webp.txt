@@ -1,0 +1,18 @@
+# OCR: 321dedd871202866527ebb6f1e479e31.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/321dedd871202866527ebb6f1e479e31.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+对象
+user@mysql（2025平航杯）-表
+自开始事务
+Host%
+文本Y筛选县排序
+User root
+localhost.localdomain
+127.0.0.1 1
+root root root
+男导入肥出
+Password
+*9660F81C4F1CD5F9E*9660F81C4F1CD5F9E*9660F81C4F1CD5F9E*9660F81C4F1CD5F9E

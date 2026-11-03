@@ -1,0 +1,8 @@
+# OCR: 49dcede143debb95dd3cbadb631d664b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/49dcede143debb95dd3cbadb631d664b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+全
+https://blog.chen.foren6

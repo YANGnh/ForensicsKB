@@ -1,0 +1,19 @@
+# OCR: deb76a745b3ad832d6a56a1b6f84b0a5.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/deb76a745b3ad832d6a56a1b6f84b0a5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+David的苹果手机>
+基本信息>
+短信>
+(Telegram)(2024-08-2121:27:20)
+Telegramcode
+84298
+Youcanalsotaponthislinktologin
+https://t.me/login/84298 oLeg9AcOZkT
+(Telegram)(2024-08-3010:36:12)
+联系人>
+Telegram
+2024-08-2121:27-20 2024-08-3010:36:12
+因您的帐户被投已被限制，将在24小時俊自動注销，请及时登入官方網站https://c.telrgram.xyz:4433解除限制

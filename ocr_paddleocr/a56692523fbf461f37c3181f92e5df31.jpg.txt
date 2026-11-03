@@ -1,0 +1,35 @@
+# OCR: a56692523fbf461f37c3181f92e5df31.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/a56692523fbf461f37c3181f92e5df31.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+MysoL
+SQLServer
+MongoDB
+Redis
+PgSQL
+After adding the database,be sure to [Cron] page adds scheduled backuptasks to ensure your data security
+AddDatabase
+Rootpassword
+Database name website
+Pleasechoose
+phpMyAdmin
+Usemame
+website Execute
+RemoteDB
+Password
+ceeetrees
+#
+Sync all
+Get DB from server
+Quota Notset
+Backup
+Notexstlmport
+Changedatabasepassword
+Rootpassword
+1790e54236111213
+Position Localhost
+Close
+Notes website
+Submit

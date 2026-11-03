@@ -1,0 +1,12 @@
+# OCR: 82d886f6f110c50df578ae28a3733d7e.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/82d886f6f110c50df578ae28a3733d7e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+DIAMETADATATY
+nageProperties nageProperties nageProperties nageProperties nageProperties nageProperties nageProperties nageProperties nageProperties
+ZORIGINALFILENAME
+IMG_0001.PNG IMG_0003.HEIC IMG 0004.HEIC IMG_0002.HEIC IMG_0005.PNG IMG_0006.PNG IMG_0007.PNG IMG_0008.HEIC IMG_0009.HEIC
+ZORIGINATINGASSE1
+Nully(Null)(Null)(Null)(Null)(Null)(Null)(Null)(Null)

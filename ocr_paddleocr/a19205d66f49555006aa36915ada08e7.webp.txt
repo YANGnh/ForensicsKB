@@ -1,0 +1,33 @@
+# OCR: a19205d66f49555006aa36915ada08e7.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/a19205d66f49555006aa36915ada08e7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+应用列表（463/35）×
+智谱
+41
+来源应用应用列表
+Q
+国来源应用
+除
+标签
+应制除恢复
+图标
+?清除过减器
+应用标识
+com.zhipuai.qingyan
+应用名称智错清言
+版本 2.2.5
+应用安装包
+标签
+ea导出
+C重新载入
+data/app/~~oxqzMcH9ctmaXX1sqwBMNg= =
+概要图标
+应用标识应用名称版本
+应用安装包
+com.zhipuai.qingyan
+智谱清言 2.2.5 data/app/
+~~oxqzMcH9ctmaXX1sqw8MNg==/ com.zhipuai.qingyan
+Q-8cXhNQuLxGaw7jSF6xTQ==/ base.apk

@@ -1,0 +1,29 @@
+# OCR: b84c2cca476a52c2294d1b16033f543d.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/b84c2cca476a52c2294d1b16033f543d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+持有人：John
+John的笔记本
+V
+EEA
+Documents KingsoftData My Music MyPictures MyVideos
+self happy 奥通
+志田千陽
++
++
+a
+beauty
+jpn y
+WindowsPowerShell
+Downloads Favorites
+709561 130 0 0 0 0 128 128 4 16 6 2 0 100 0 133
+日
+YExtinc"mp4'
+三序号口40 口41 口42 口43 口44 口45 口46 口47 口48 口49 口50
+三名称过滤
+3989d647a4ef4a12a4a5d8259bc96d89.mp4 INGVID808169510s.mp4
+a8sCdrxXKCB6c162864463210s.mp4 anGru79M3g5EN158736383210s.mp4
+5d6c3eed87074651b0ddf13acda5fd44.mp4 abJ4NFqTiWFgc162183057310s.mp4
+a9676bfc81fd47238c140477b15fb13a.mp4 d4e94e9647957c8518118e40d2e6df9a.mp4 bd3f25716decc932cfc393bca68cbbdc.mp4 13dd346778a27c24fe1d29a8dd6e4718.mp4 445cda4ecc54f0e22a1d4dcb05fe31e4.mp4

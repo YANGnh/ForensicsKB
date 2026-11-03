@@ -1,0 +1,11 @@
+# OCR: edc905421f9d0adc2281287acfd2ed4d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/edc905421f9d0adc2281287acfd2ed4d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+loatauseruoesion.cooeux.authoass.toroiolaoo
+文件名称
+..=design.codeux.authpass.fdroid(o).app flutter (o)
+AppData.json DiacData.json ■我的密码.kdbx
+tutte

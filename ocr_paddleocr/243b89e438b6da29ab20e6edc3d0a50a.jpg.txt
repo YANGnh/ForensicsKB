@@ -1,0 +1,57 @@
+# OCR: 243b89e438b6da29ab20e6edc3d0a50a.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/243b89e438b6da29ab20e6edc3d0a50a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+[rootelocalhost
+#
+ifconfig
+flagS=4163zUp BR0ADcST
+ens33:
+192.168.100.100
+inet
+RUNNING.MULTICAST>
+mtu 15
+netmask255.255.255.0
+broadcast 192.168.100.255
+inet6fe80::5642:5868:de23:af71
+pref ixlen 64
+ether 00:0c:29:bb:4b:91 txqueuelen 1000 RX packets 0bytes 0 (0.0 B)
+RX errors  dropped  overruns  TX packets 44 bytes 2784 (2.7 KiB)
+TX errors  dropped  overruns
+1o:f1agS=73<UP,LO0PBACK,RUNNING>
+inet 127.0.0.1
+inet6 ::1
+loop
+frame
+scopeid 0x20<link>
+(Ethernet) F
+carrier
+mtu65536
+netmask 255.0.0.0
+prefixlen 128scopeid 0x10<host>
+txqueuelen 1
+(Local Loopback)
+RX packets 104  bytes 9386 (9.1 KiB)
+RX errors  dropped 0overruns 0 frame
+bytes 9386 (9.1 KiB)
+TX packets 104
+dropped  overruns
+TX errors
+carrierA
+collisionsi collisions
+[rootelocalhost "J# cat etc/sysconfig/network-scripts/ifcfg-ens33
+TYPE-"Ethernet" BOOTPROTO="none" DEFROUTE="yes
+IPU4 FAILURE FATAL="nO" IPU6INIT-"yes"
+IPU6_AUTOCONF="yes" IPU6_DEFROUTE="yes"
+IPU6 FAILURE FATAL="nO"
+IPU6ADDR GEN MODE="stable-priacy" NAME=-"ens33"
+UUID=59163f93-09f0-48c5-89a9-17c11c6c5ae8 DEUICE-"ens33"
+ues
+ONBOOT=
+192.168.188.180
+IPADDR PREFIX=
+GATEWAY="192.168.100.1"
+DNS1="192.168.100.1" IPU6 PEERDNS-"yes"
+IPU6 PEERROUTES-"UeS IPU6 PRIUACY="nO

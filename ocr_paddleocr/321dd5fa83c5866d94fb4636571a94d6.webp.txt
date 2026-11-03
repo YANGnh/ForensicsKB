@@ -1,0 +1,35 @@
+# OCR: 321dd5fa83c5866d94fb4636571a94d6.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/321dd5fa83c5866d94fb4636571a94d6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+WinXray
+口了文件名称一
+口.=（根目录）
+.=WinXray (4)
+xray-core (3) WinXray.exe
+一分区
+文件
+NT Authority\System S-1-5-18
+Grant Full Control Authenticated User
+S-1-5-11 Grant c
+Builtin\Users S-1-5-32-545 Grant R
+预览
+详细
+S-1-5-21-37503620-462879402-3397714388-513 Group
+从文件中抽取的内部元数据
+os Type
+Version Company
+Description Product
+口缩略图
+时间轴图例说明
+IM
+了措述
+存在的，已查看
+存在的存在的存在的
+同步
+NTWINDOWS32 APP
+4. 4. 0. 0 WinXray
+养
+fGAC'UAIf- OAZI& TE WinXray

@@ -1,0 +1,23 @@
+# OCR: b906e18fb23fce2ac7f1ccde561c8f44.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/b906e18fb23fce2ac7f1ccde561c8f44.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+新建连接（MongoDB)
+常规
+高级
+数据库 2
+Navicat
+?使用SSH隧道
+主机：端口：用户名：
+验证方法：密码：
+SSL
+SSH
+E o
+SSH服务器
+192.168.8.16
+22 root 密码
+.?保存密码
+数据库
+x

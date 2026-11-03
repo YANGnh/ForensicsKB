@@ -1,0 +1,31 @@
+# OCR: f41bb72ecead1098082a693a27b6743f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/f41bb72ecead1098082a693a27b6743f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+SYSTEMBOOT@1729670250611.lost SYSTEMBOOT@1729740434784.txt
+Xsystemserverwtf@1726651226405.lost Xsystemserverwtf@1726651226462.lost xsystemserverwtf@1726795509051.lost Xsystemserverwtf@1726795509605.lost
+一分区 offset
+文件 0
+2290376704 2290376720 2290376736 2290376752 2290376768 2290376784 2290376800 2290376816 2290376832 2290376848
+69 OA 69 64 72 61 52 6c 64 49
+1
+73 42 61 65 2F 72 65 6F 69 33
+回预览
+2 50 75 6F 76 72 64 76 61 6F 0A
+3 72 69 6D 31 65 77 69 64 3A 4B
+贝详细
+4 65 6c 69 30 6c 61 73 65 20 65
+5
+76 64 2F 33 65 72 69 72 47 72
+69 3A 4 3 61 65 6F 3A 39 6E
+时间戳转换器
+时间：时间戳类型：时间载的时区：
+目标时区：转换结果：作者：WXjzc
+口
+1729740434784 UNIX
+Asia/Shanghai Asia/Shanghai
+2024-10-2411:27:14
+转换
+x V

@@ -1,0 +1,21 @@
+# OCR: 5df022372d4e97e7a78e116d1b56f851.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/5df022372d4e97e7a78e116d1b56f851.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+g
+三序号口166 口167 口168 口169 口170 口171 口172 口173 口174 口175 口176 口177 □178
+机.tar>
+图Linux基本信息>UUID/1>历史命令
+三用户名过滤 root root root root root root root root root root root root root
+Shell类型过滤丫
+三命令过滤
+在历
+pip install matplotlib --break-system-packages
+pythonreco.py vi reco.py
+python reco.py vireco.py
+pythonreco.py python reco.py vi reco.py
+python reco.py ipup
+upx dist/reco Is
+rmreco*

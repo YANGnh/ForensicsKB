@@ -1,0 +1,17 @@
+# OCR: ac8265fef5c15522113b9a802bc07ba4.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/ac8265fef5c15522113b9a802bc07ba4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+9:25
+A
+用户名昵称密码
+确认密码
+欢迎注册
+用户名昵称密码
+确认密码
+我已阅读并同意政策》
+》和《隐私
+《用户协议》
+注册并登录返回登录页面

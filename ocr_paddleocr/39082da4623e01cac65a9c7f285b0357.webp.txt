@@ -1,0 +1,27 @@
+# OCR: 39082da4623e01cac65a9c7f285b0357.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/39082da4623e01cac65a9c7f285b0357.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+123456
+78
+65
+666163
+0000
+00
+4946
+00
+00 01
+90 31 29 01
+AB 00 35 01
+CD 00 00 00
+EF 00 00 60
+12 00 FF 00
+34 60
+56 00 FE 00
+78 00 EO 00
+90 00 00 FF
+AB 00 10 E1
+CD 00 4A 00
+EF 00 46 22

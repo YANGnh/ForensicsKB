@@ -1,0 +1,18 @@
+# OCR: 154b0ff054de2e4b9a6e010c986e7618.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/154b0ff054de2e4b9a6e010c986e7618.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+义言的计算机
+三序号口1
+三连接名过滤威尼斯
+finalshell>finalshell会话
+三登录用户
+过滤 root
+三登录密码
+过滤 root
+三密钥过滤
+三主机过滤
+192.168.137.97
+三端口过滤 22

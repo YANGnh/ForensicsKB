@@ -1,0 +1,14 @@
+# OCR: db862fb5cf3a74725d44b8bf04f4dff7.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/db862fb5cf3a74725d44b8bf04f4dff7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+admin@192.168.71.133
+admin 可config local 可lok1
+集合13
+西 app_admin
+app_admin_cate 雷 app_admin_log 西app_admin_menu app_appconfig 西app_attachment 田 app_card
+田app_emailconfig
+ app_mobile 田app_smsconfig  app_urlconfig app_user
+田app_webconfig

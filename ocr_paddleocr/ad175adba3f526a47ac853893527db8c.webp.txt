@@ -1,0 +1,15 @@
+# OCR: ad175adba3f526a47ac853893527db8c.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/ad175adba3f526a47ac853893527db8c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+KIWX
+mangheshenhe manghe_vip
+name pwd
+sitename sitetime
+14312140724
+0 1
+admin
+a66abb5684c45962d887564f08346e8d
+小飞机交友盲盒系统 2021-10-20

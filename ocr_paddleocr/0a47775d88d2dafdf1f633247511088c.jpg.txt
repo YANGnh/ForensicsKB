@@ -1,0 +1,36 @@
+# OCR: 0a47775d88d2dafdf1f633247511088c.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/0a47775d88d2dafdf1f633247511088c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+g
+Clara的安卓手机
+四图片（12)
+微信>Clara(wxidt7zgo57i9moj22)>
+视频(1)
+好友消息David（wxidrmi3m2o8ngxe22）
+爱你喔想爱的[爱心]
+2024-08-2815:39:06
+David(wxidrni3m2o8ngxe22)(2024-08-2815:39:06)
+2024-08-2815:40:00
+David(wxidrni3m208ngxe22)(2024-08-2815:40:00）湾牌于下年2里上港热ehecin
+跳转到
+详细信息
+发送者：David
+发送者ID：wxidrni3m2o8ngxe22
+Clara
+接收者：
+接收者ID：wxidt7zgo57j9mOj22 发送时间：2024-08-2815:39:06
+消息内睿：[圈片消息] 消息类型：
+图片
+在David(wxidrni3m2
+智无数据十研判分析
+ClaraSmartphone.bin/分区24/data/com.tencent.mm/MicroMsg/fb5f7edb03c7bba3e104aa263619a007/image2/ff/ed/ffedc529d831f3b5acf2c8f9190ebdb8.jpg
+原始路径：
+ClaraSmartphone.bin/分区24/data/com.tencent.mm/MicroMsg/fb5f7edb03c7bba3e104aa263619a007/image2/ff/ed/thffedc529d831f3b5acf2c8f9190ebdb8
+缩路图路径：文件大小：0B
+来源账号：wxidt7zgo57j9moj22
+7/EnMicroMsg.db
+源文件：ClaraSmartphone.bin/分区24/data/com.tencent.mm/MicroMsg/fb5f7edb03c7bba3e104aa263619aot 已删除：否
+C

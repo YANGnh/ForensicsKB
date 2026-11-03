@@ -1,0 +1,17 @@
+# OCR: 6dc308dc1c3c84168068acdcb65f3ceb.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/6dc308dc1c3c84168068acdcb65f3ceb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+id
+4aisr8yy5tntdxj9i8cc4qe3ww dpqyctmqif8imjunikk3iqi8hy 3muf9j8o97rbfy3k7b7wbz6ana pet47zfy7fk7ejw4s4rzfzi5r
+_changed
+display_name
+status created created created created
+create_at
+13926729187 13926729185
+creatorid
+'13942726688aqceyadrxbrajq8bpuk89v'13954957536jrmi9kx8pfg9drc7b9dczh7
+delete_at
+display_name ooff-Topic O TownSquare 0maoxueliu ofujiya

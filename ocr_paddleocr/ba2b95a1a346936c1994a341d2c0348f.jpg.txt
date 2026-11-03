@@ -1,0 +1,8 @@
+# OCR: ba2b95a1a346936c1994a341d2c0348f.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/ba2b95a1a346936c1994a341d2c0348f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+顺丰1k.xlsx S
+自顺丰2k.xlsx 国顺丰2k.zip 自顺丰3k.xlsx 国顺丰3k.zip 自顺丰4k.xlsx 国顺丰4k.zip

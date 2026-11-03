@@ -1,0 +1,53 @@
+# OCR: 4a20a4fd8127e43824c4066ea1fd3626.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/4a20a4fd8127e43824c4066ea1fd3626.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+原类型视图
+offset
+geh 1eh 20h 30h 4eh 5eh 60h 7h 8eh 9eh Aeh Beh ceh Deh Eeh Feh 1eeh 110h 120h 13eh
+? 64 5D BB F4 73 5B 34 Ac F1 68 3A 26 D6 ec 87 84 94 A1 D2 31
+1 F4 5c 5 37 E4 FA DC F7 10 9D C7 1A D4 99 9c 2D CE 1A 8E 69
+分页大小：2kb
+文本视图
+2 E2 A8 AD D2 91 56 CF 99 FA D1 37 4B 26 93 38 66 C7 8E 33 2A
+3 1C 40 88 eE B9 3
+6D 8A 2B 7c 89 14 C5 3D 8E DD BD A2 3c
+4 1E AC 8A E1 CA 44 99 99 c4 D7 Fe 98 ED 21 34 FF E1 D7 85 1E
+5 4c CF FA 9F 84 DD 16 FB 8F FD F9 6A 8A 2E 15 BB 3F 43 A9 B9
+十六进制视图
+6 C3 95 C2 BF D1 2D 66 A8 75 E6 B7 79 93 82 96 75 A4 B5 67 A1
+当前页：1
+7 A6 16 6E 47 4E AD DA B4 BC
+DD 95 54 89 5D 12 7C 6E E 1B
+8 81 92 FD B7 CE De 12 F2 FD 54 92 AF C3 ED 87 A5 28 14 Ee 4B
+9 37 88 e5 92 C8 2F
+14 OF 69 AC 98 77 F4 3B 4B 68 D5 37 E7 2B
+A DA DE cc 37 1D 8B
+9C 5A 98 AE E3 77 9B B1 BE 8c D5 18 c 4c
+B 79 5B 43 75 1E 76 59 A3 De A6 E5 98 E9 eD 22 31 34 8A E1 cc
+c E7 F8 6c 75 47 1c 35 65 BE BB B4 1D 7F 8 AD 81 E3 BF 9D 92
+D
+E
+F973 5B
+5D 4A E2 55 BA
+DC 80 17 Fe 32 84 FD C5 F9 37 23 44 13
+ACD7 5424
+54 97 B3 0 E
+E2 46 9B 31 67 9E 38 71 8E 2E 39 A D9
+3B F5 33 42 80 40 7B 67 B8 9c FD 84 8B 3c 8A Ac 3A
+9123456789ABCDEF d....L...7.y.[.s J..@.......[.]..
+..n...C1JT$...G..7uu.T..N....GU..
+[.V.D.-../.V...3
+4.
+..f....Y5..B
+..m. h..+.:.7
+z.e
+.u..i....F@
+.1g
+&.K..jy..ww..2g..&.
+...8.
+..8=4..].K."..q..-f...u..h.1..
+.?.(..4.7.&1t.c.n.7...#9.
+..3...g......D.. 1i*&lt;....K+L.

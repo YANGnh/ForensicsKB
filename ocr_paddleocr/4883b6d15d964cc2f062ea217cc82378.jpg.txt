@@ -1,0 +1,18 @@
+# OCR: 4883b6d15d964cc2f062ea217cc82378.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/4883b6d15d964cc2f062ea217cc82378.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+g
+检材1-手机>
+三序号口1 口2 口3
+三名称过滤
+P
+基本信息>
+圆设备信息
+三内容过滤
+AndroidID 蓝牙名称
+蓝牙MAC地址
+47e4d1e787c346d2
+XiaomiMI3W Oc:1d:af:88:c0:f5

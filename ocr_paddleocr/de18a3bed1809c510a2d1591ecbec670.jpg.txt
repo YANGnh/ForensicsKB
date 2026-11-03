@@ -1,0 +1,31 @@
+# OCR: de18a3bed1809c510a2d1591ecbec670.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/de18a3bed1809c510a2d1591ecbec670.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+《PROXMOXVirtualEnvironment8.1.4搜素
+服务器视图
+数据中心 pve
+110 (nginx) 100(Router) 101(node1) 102(node2) 103（node3）
+111 (javaserver) 112(sglserver） 120(luck）
+localnetwork(pve）
+local(pve) local-lvm（pve） local2(pve）
+虚拟机100(Router)在节点'pve'上
+没有标记。
+概要控制台口硬件
+Cloud-Init 选项
+国任务历史
+?
+监视器
+百备份好复制快照防火墙 0
+权限
+Xpve-ProxmoxConsole-用户配置1-MicrosoftEdge
+不安全/htp5://192.168.71.133:8006/?console=kvm&xtermjs=1&vmid=100&vmname
+startingserialterminalon interface serialo
+BusyBoxv1.36.1
+(2023-11-14 13:38:11 UTC)
+built-inshell
+Openwrt 23.05.2. root@OpenWrt:/#
+r23630-842932a63d
+(ash)

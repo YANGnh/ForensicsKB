@@ -1,0 +1,8 @@
+# OCR: 3e640f8813f8c68ea272c042fe3a0c48.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/3e640f8813f8c68ea272c042fe3a0c48.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+垃圾桶
+35罗被开除了，公司不仁，别怪我不义 35岁被开除了，公司不仁，别怪我不义

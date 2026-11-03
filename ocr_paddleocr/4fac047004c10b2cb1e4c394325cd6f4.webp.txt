@@ -1,0 +1,10 @@
+# OCR: 4fac047004c10b2cb1e4c394325cd6f4.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/4fac047004c10b2cb1e4c394325cd6f4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+对方卡号
+花小猪打车球球小鑫北京鸿易博
+陈金荣南翔便利
+670 241 207 181

@@ -1,0 +1,72 @@
+# OCR: 2c3d3a6d5329ef345a3df50a63d0c53b.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/2c3d3a6d5329ef345a3df50a63d0c53b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+圆案件
+回文件
+网分析
+? 位置
+时间线 Q 搜素
+笔记自报告
+研判白工具箱
+刷新
+详情/预览
+请选择/输入持有人/检权
+Duncan lapt... LAM KH lapt.... Nginx服务器
+IIS服务器 8
+用户痕迹缩略图
+围
+基本信息服务日志事件日志
+11/93772 34376
+4 1 327 244 1118 4405 20169
+Windows日志
+吉设置吉系统吉应用台安全
+应用程序和.
+0
+事件日志分析
+用户桌面任务计划
+快捷方式分析 ShimCache
+远程桌面 S
+9934 10 5629 3032 1263 10235 1398
+8 83 153 1319 56 88
+日
+拦序号口16 口17 口18 口19
+详细信息
+"security-e...
+x
+拦事件ID
+等于 4729 4728 4732 4732
+事件序号：0 事件ID：4732
+过滤
+分析结果搜索
+YDatainc"S-1-5-21-2447...
+事件摘要
+security-enabled
+A
+A member was removed from a se... Amember was addedtoasecurity.. Amemberwas addedtoasecurity.. A member was added to a security...
+拦数据
+S-1-5-2 <EventDat.. <EventDat... <EventDat... <EventDat..
+三事件类型
+过滤信息信息信息信息
+画
+Q
+在安全中搜索
+三分类过滤
+Security Security Security Security
+Q
+口
+x
+高级
+设置列
+X
+事件摘要：Amemberwasaddedtoasecurity-enabledlocalgroup.%n%nSubject:%n%tSecurityID:%t%t%6%n%tAccountName:%t%t%7%n%tAccount
+Domain:%t%t%8%n%tLogonID:%t%t%9%n%nMember:%n%tSecurityID:%t%t%2%n%tAccountName:%t%t%1%n%nGroup:%n%tSecurity ID:%t%t%5%n%tGroupName:%t%t%3%n%tGroupDomain:%t%t%4%n%nAdditionalInformation:%n%tPrivileges:%t%t%10
+数据：<EventData><DataName="MemberName">-</Data><DataName="MemberSid">S-1-5-21-244795756-2605320691-3516395164-1004</Data>
+<DataName="TargetUserName'>Administrators</Data><DataName="TargetDomainName">Builtin</Data><DataName="TargetSid">S-1-5-32 544</Data><DataName="SubiectUserSid">S-1-5-18</Data><DataName='SubiectUserName'>CEO-PCS</Data><Data
+Name="SubjectDomainName">WORKGROUP</Data><DataName="SubiectLogonld">0x000o03e7</Data><DataName="PrivilegeList">-</Data>
+</EventData> 事件类型：信息分类：Security 机器名：CEO-PC
+事件源：Microsoft-Windows-Security-Auditing
+Aun
+CAOA063ECA70A0OAAEDA2C2D0S30C20D

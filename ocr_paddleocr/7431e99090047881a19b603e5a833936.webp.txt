@@ -1,0 +1,26 @@
+# OCR: 7431e99090047881a19b603e5a833936.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/7431e99090047881a19b603e5a833936.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+G：（tmp>2024数证杯个人>comm
+ex-
+F3
+[提示]-[提示」
+>正在提取FinalShell连接信息 >正在解密连接密码
+<FinalShell连接信息>
+连接名
+HuanQiuShangMao
+PC-Server
+[提示]-
+地址
+39.108.126.128 172.30.26.189
+端口 22
+用户名
+root jlbvpc
+>如果内容显示不全；请将终端全屏后再次热行
+Author: wXjzc 密码
+HQSM#20231108@gwWeB
+j1b654321
+01.P

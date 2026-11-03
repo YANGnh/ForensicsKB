@@ -1,0 +1,19 @@
+# OCR: e6eea58acb0910e6bc1ad69496d584d9.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/e6eea58acb0910e6bc1ad69496d584d9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+HardwareInformation：
+X64
+Architecture：
+PhysicalMemory：4GB
+Max Address: CPU:
+MB Vendor: MB Product: BIos Vendor:
+System Vendor:
+762486694245
+ox13fffffff
+11th Gen Intel(R)Core(TM)i7-1165G7 @2.80GHz IntelCorporation
+44oBxDesktopReferencePlatform
+VMware,Inc. VMware,Inc.
+fY1JkMaRauz

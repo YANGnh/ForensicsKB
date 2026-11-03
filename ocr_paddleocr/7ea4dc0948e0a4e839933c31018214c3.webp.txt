@@ -1,0 +1,27 @@
+# OCR: 7ea4dc0948e0a4e839933c31018214c3.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/7ea4dc0948e0a4e839933c31018214c3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+Recipe
+From HTML Entity
+FromBase64 Alohabet
+A-Za-z0-9+/= strictmode
+a
+??
+Removenon-alphabetchars
+Input
++
+口
+巴
+VGhpcyBpcyBaGUgcHJ1Zm14IGZvciBhIGxpc3QurOeABXNyABNqYXZhLnVealhuQXJyYX1MaXNEeIHSHZnHYZeDAAFJAARzaXpleHAAAAABdwQAAAAB
+dADueyJpZCI6IjUxZDgzZWQeLWEzYzYtNDg1Y5e5YmNiLTI3ZGM4NGU5MU5MiIsImZpbGVOYW11 Ijoi15bGP5bmV5oiq5Zu+IDIwMjHtMDYtMDEgMTQxHDUxLnBuZyIsImZpbGVUeXB1Ijoial/1hZ2Ui LCJwYXRoIJpudwXsLCJzYXZ1ZFRvR2FsbGVyeSI6dHJ1zSw1ZmlsZVNpenUi0jEeMDI2Nyw1c2Vu ZGVyQWxpYXMi0iJIYW5kc29tZSBPcmFuZ2UiLCJeaw11c3RhbXAi0iIyMDIeLTA1LTIyVDAz0jQy ojI1LjUnMDQeNloifXg-
+： 446 output
+TrRaw Bytes
+日
+石
+用
+LF
+This is the prefix for a list.-iILEsrsuLcajava.util.ArrayListx-0cs*Ca*TNULsowIswuLEorsizexpwLLULsowWsoruLNIusostwui("id":"51d83ed4-a3c6-485a-9bcb-27dc84e91e92","fileName":"a±·*·+a-x223-86-81
+14151.png","fileType";"image","path":null,"savedToGallery":true,"filesize":14e267,"senderAlias":"Handsome Orange","timestamp："2e24-5-22Te3:42:25.5ee446z"}x

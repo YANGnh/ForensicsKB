@@ -1,0 +1,10 @@
+# OCR: 1b8ff277ed8558d0ec8a51265ba2b3e6.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/1b8ff277ed8558d0ec8a51265ba2b3e6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+[root@yourcodetmpi#bt5 正在执行（5）-.
+请输入新的面板密码：123456
+用户名：3om1hxmd 新密码：123456
+[root@yourcode tp]#

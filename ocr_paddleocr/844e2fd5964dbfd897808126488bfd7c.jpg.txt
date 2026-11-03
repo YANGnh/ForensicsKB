@@ -1,0 +1,62 @@
+# OCR: 844e2fd5964dbfd897808126488bfd7c.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/844e2fd5964dbfd897808126488bfd7c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+导航器国主机
+管理监控
+品虚拟机
+Openwrt&wireGuard
+监控
+github&密钥服务器
+监控
+品渗透测试机
+监控
+病毒研发机
+监控
+更多虚拟机.
+目存储
+目datastore2
+监控
++datastore1
+更多存储…
+网络
+2 2
+uuDG密销服务
+图github&密钥服务器
+CentoS Linux 7 (Core)
+Kerne1 3.10.0-862.e17.x86_64 on an x86 64
+localhost login: root Password:
+Lastlogin:FriFeb 25 05:47:46 from 192.168.200.20[rootqlocalhost l#ifconfig
+ens192:f1agS=4163<UP,BROADCAST,RUNNING,MULTICAST>
+mt.15R
+192.168.200.201
+netmask255.255.255.0
+br0adcast 192.168.200.255
+inet
+inet6fe80::177d:b732:d77e:655f
+prefixlen 64
+ether 00:0c:29:c9:ac:fbtxqueuelen 1000 RX packets 127bytes 11949 (11.6 KiB)
+scopeid 0x20<link>
+(Ethernet)
+Rx errors 0dropped 0overruns 0:
+frame
+packets 179
+TX
+bytes 16394(16.0KiB)
+Tx errors 0 dropped 0 overruns 0
+n:
+carrierb
+f1agS=73<UP,L00PBACK,RUNNING>.mtu 65536
+inet 127.0.0.1netmask 255.0.0.0
+inet6 ::1 prefixlen 128scopeid 0x10<host>
+looptxqueuelen 1000(Local Loopback) RXpackets3495bytes2851396(2.7MiB)
+overrunsframe
+dropped 0
+RXerrors
+TX packets 3495bytes 2851396 (2.7 MiB) TX errors
+dropped  overruns0carrier 0
+[rootQlocalhost
+1#
+collisions 0 collisions 0

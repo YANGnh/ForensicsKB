@@ -1,0 +1,26 @@
+# OCR: 7f4a4eac8de178578952910876d5a1d6.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/7f4a4eac8de178578952910876d5a1d6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+stealures.xt listpackages.txt
+list_packages.txt-Notepad2
+Eile EditYiew
+Settings?
+2024/9/53.20 2024/9/53:20
+DEOQE 13package:com.oculus.preshutdcFindText 14package:com.android.document
+15package:com.android.externa 16package:com.oculus.browser 17package:com.android.htmlviel 18package:com.whatsapp
+19package:com.android.companic 20package:com.oculus.os.vr1ocl 21package:com.oculus.cvp
+22package:com.meta.curio.toybc 23package:com.android.provider 24package:com.meta.curio.rulel 25package:com.android.networks 26package:com.oculus.accountso
+SearchString: whatsapp
+Matchcase
+X1文件 TXT文件
+Matchwholewordonly
+Matchbeginningofwordonly
+Regularexpressionsearch Iransformbackslashes
+27package:com.meta.frameworkpackagestubs
+3KB 6KB
+Don'twraparound Closeafterfind
+GotoReplace(Ctrl+H)
+EindNext FindPrevious Close

@@ -1,0 +1,10 @@
+# OCR: 2dda5d8bfe3099bcd85352af8f73971b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/2dda5d8bfe3099bcd85352af8f73971b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+文件名称：欠条
+文件大小：2.00MB(2,097,152字节）
+MD5:83DA62AABC88CB1B23E9469142B67B80
+SHA1:9068EDCDE2BA72B9CC306A11A3FA92916E32BF38

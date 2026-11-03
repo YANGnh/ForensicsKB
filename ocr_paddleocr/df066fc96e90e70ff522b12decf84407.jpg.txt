@@ -1,0 +1,49 @@
+# OCR: df066fc96e90e70ff522b12decf84407.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/df066fc96e90e70ff522b12decf84407.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+droid@nodei:
+D
+CONTAINER
+NAMES
+451a0978d664
+dockerps
+SUn IMAGE
+-
+redroid/redroid:12.0.0-1atest
+loving_shtern
+054c638ab04f
+redroid/redroid:12.0.0-1atest
+agitated_gauss
+e00c2808fc54
+redr0id/redroid:12.0.0-1ates
+goofu euclid
+bd3fe2e57421
+sueet_pare 380e5b2c8b98
+redroid/redroid:12.0.0-1atest redroid/redroid:12.0.0-1atest
+pricelessknuth droid@node1:~s
+COMMAND
+"/initandroidboot.h...""/initandroidboot.h..""/init androidboot.h..""/init androidboot.h.." Jinitandroidboot.h...
+CREATED
+2months ago 2 months ago 2 months ago 2months ago 2monthsaga
+STATUS Exited
+(255)
+Exited
+(255)
+Exited(255) Exited
+(255)）
+Exited
+(255)
+weeks 8
+ago
+8 weeks ago 8 weeksago About an hour
+ago
+About
+anhour
+agc
+PORTS
+0.0.0.0:5555->5555/tcp,
+:::5555->5555/tc
+0.0.0.0:4444->5555/tcp,:::4444->5555/tc 0.0.0.0:3333->5555/tcp,:::3333->5555/tc 0.0.0.0:2222->5555/tcp，:::2222->5555/tc 0.0.0.0:1111->5555/tcp,:::1111->5555/tc

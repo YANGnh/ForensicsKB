@@ -1,0 +1,18 @@
+# OCR: aa13d6e04f9359527c1676f9b0c430ea.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/aa13d6e04f9359527c1676f9b0c430ea.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+ot.C:windowslsystem32cmd.exe
+MicrosoftWindows版本10.0.19044.1381(c）MicrosoftCorporation。保留所有权利。
+C:lUserslAdministrator>netaccounts 强制用户在时间到期之后多久必须注销？
+密码最短使用期限（天）：密码最长使用期限（天）：密码长度最小值：
+保持的密码历史记录长度：锁定阈值：
+锁定持续时间（分）：锁定观测窗口（分）：
+计算机角色：命令成功完成。
+C：lUsersAdministrator
+从不
+0 68 0
+None 从不 30 30
+WORKSTATION

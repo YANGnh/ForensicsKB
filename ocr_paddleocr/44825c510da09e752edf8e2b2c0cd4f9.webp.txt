@@ -1,0 +1,23 @@
+# OCR: 44825c510da09e752edf8e2b2c0cd4f9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/44825c510da09e752edf8e2b2c0cd4f9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+检材2-计算机 VEFIBoot
+检材2-计算机，分区1
+■丫文件名称，
+=EFI (391)
+Boot(11)
+originalbootx64.vcbackup
+bootx64.eti.962abcb9-714a-420d-9660-7d5a0d5bbeb2) bootx64.efi.[77a3832d-ffaf-4945-9ceb-baf2d2815ae8) bootx64.efi.[6ccf8eb2-4250-444c-9a83-8faedf9135d6] bootx64.efi.(4c399690-6194-402e-b01b-0784a81194ba)
+3
+bootx64.efi.
+bootx64.EFi
+2
+?ootx64.EFi?ootx64.EFi?ootx64.EFi?ootx64.EFi
+描述存在的存在的存在的
+曾经存在，内睿可能已改变曾经存在，内容可能已改变曾经存在，内容可能已改变曾经存在，内容可能已改变曾经存在，内容可能已改变存在的
+曾经存在，内容可能已改变曾经存在，内客可能已改变曾经存在，内容可能已改变曾经存在，内容可能已改变
+丫文件类型 vcbackup(962abcb.. 77a3832...[6ccf8eb2...[4c39969.
+efi efi efi efi efi

@@ -1,0 +1,95 @@
+# OCR: da9acab467b039edc06a261479cd1569.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/da9acab467b039edc06a261479cd1569.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+日
+@ 田
+File 目
+Config
+登
+BasicAnalyzer
+BaseInfo
+Certificate AliAPIs
+Alistrings Appstrings AliUris
+View S
+AndroidManifest
+Malscan Resources
+Dexclass
+田日
+用田田田
+申MTT
+android.suppo
+日田田由电由电电由由
+电由
+由日
+田田
+中
+M
+Tools C
+F
+Help B
+index
+package
+[FileBase Info]
+File Name:
+GDA4.02(Free Edition)
+++
+H
+ariu
+declare
+串
+Entry
+C：usersiNEkoNDesktop/山东出题i检材v周宇APk文件/uni.owry.apk
+Package Name:uni.owry
+Main Activity:
+File size: MD5:
+Packed:
+MinSDK:
+Target SDK:
+activity
+permission
+io.dcloud.PandoraEntry
+21184244bytes
+c5ea689ea806ed2318bccbbc2cba5198
+NotPacked
+19 28
+GDAxml
+services
+receiver
+O
+all
+OpenXM
+Save
+回
+区
+Dump 回
+区
+Cancel
+app
+droid"android:versioncode="82g"android:yersionName-"8.2.9"android:compilesdkvelsion="23"android:compilesdkversioncoder
+INotifidion="28"> C
+cance cance notify
+c.
+INotifig INotifid
+creens-"true"android:normalscreens-"true TERNALSTORAGE"
+RemoteAcETWORKSTATE"
+graphics.dr os
+IFISTATE">
+androidtransc PACKAGEs"
+androidx
+bolts com
+dc.squareup fun.learnlife io
+INSTALLPACKAGES" ETWORKSTATE"
+MOUNT_FILESYSTEMS）
+javax.annotati
+kotlin.annotations.jvm
+net.iingala.zip4j org
+pl.droidsonroids.gif uni.owry
+android:largescreens="true"android:resizeable-"true"
+android.permission.WRITE_EXTERNAL SToRAGE android.permission.ACCESS_NETwORKSTATE
+android.permission.ACCESS_WIFISTATE android.permission.INsTALLPAckAGEs
+android.permission.REQUEsTINsTALL_PACKAGEs android.permission.CHANGE_NETwORKSTATE
+android.permission.MoUNTUNMoUNT_FILEsYsTEMs
+android.permission.VIBRATE andrnid.nermissinn.RFADIOGs

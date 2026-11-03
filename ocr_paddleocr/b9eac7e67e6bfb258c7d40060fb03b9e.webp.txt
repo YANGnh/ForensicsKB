@@ -1,0 +1,23 @@
+# OCR: b9eac7e67e6bfb258c7d40060fb03b9e.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/b9eac7e67e6bfb258c7d40060fb03b9e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+ForensicsTool
+密钥计算数据库解密数据提取注册表分析关于
+file
+G:12025盘古石杯\普级赛\export
+用户信息
+1 2 3 4 5
+密码信息用户名
+Administrator DefaultAccount Guest
+WDAGUtilityAcc... 贾韦码
+【G:V2025盘古石杯】晋级赛\EXPORT/NTUSER.DAT】
+SID
+S-1-5-21-3733482367-3411043098-2536183883-1001
+系统信息
+口
+开始
+x
+密码提示

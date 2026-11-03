@@ -1,0 +1,9 @@
+# OCR: 4ddacc4fa95fae619ef90e3455ac22ed.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/4ddacc4fa95fae619ef90e3455ac22ed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+类型
+群组屏蔽列表管理员列表
+理论上，IDs支持无限多个， 6575583603

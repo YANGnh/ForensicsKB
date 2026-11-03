@@ -1,0 +1,23 @@
+# OCR: 3ec701346a756dbaf9676cb708381e45.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/3ec701346a756dbaf9676cb708381e45.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+config.ini-记事本
+文件(F)编辑(E)格式(O)查看(V)帮助(H)
+[common]#窗口标题
+WindowTitle=QtScrcpy
+#推送到安卓设备的文件保存路径（必须以/结尾） PushFilePath=/sdcard/
+#最大fps（仅支持Android10以上） MaxFps=0
+#是否染过期视频顺（跳过过期视频顿意味着更低的延迟） RenderExpiredFrames=0
+#视频解码方式：-1自动，0软解，1dx硬解，2opengl硬解 UseDesktopOpenGL=-1
+#scrcpy-server的版本号（不要修改） ServerVersion=2.1.1
+#scrcpy-server推送到安卓设备的路径
+ServerPath=/data/local/tmp/scrcpy-server.jar#自定义adb路径，例如D:/android/tools/adb.exe AdbPath=
+#编码选项“"表示默认
+#例如CodecOptions="profile=1,level=2"
+#更多编码选项参考https://d.android.com/reference/android/media/MediaFormat CodecOptions=
+#指定编码器名称(必须是H.264编码器)，""表示默认
+#例如CodecName="oOMX.qcom.video.encoder.avc" CodecName="
+# Set the loglevel (verbose,debug,info,warn,error) LogLevel=verbose

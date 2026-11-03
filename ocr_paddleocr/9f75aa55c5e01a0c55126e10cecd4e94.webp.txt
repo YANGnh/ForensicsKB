@@ -1,0 +1,28 @@
+# OCR: 9f75aa55c5e01a0c55126e10cecd4e94.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/9f75aa55c5e01a0c55126e10cecd4e94.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+745762198.289407 745806706.02484 745828801.033399 745832562.093108 745925966.356129 745998589.29084 746352950.070264 746440526.738382 746692798.229586 746693298.839502 746694723.960979 746697721.060631 746698058.897805 746698245.618945 746698359.354313
+0
+39534470
+.09 @ DCode v4.02a (Build: 9306)
+DCODE ConvertData toDate/TimeValues
+Add Bias:
+DecodeFormat:
+Example：
+Value to Decode:
+Date&Time:
+UTC+08:00
+MAC: Absolute Time 219216022
+746440526.738382
+hk
+(Null)
+Windowontop
+Tue,27August202416:35:27+0800
+www.digital-detective.co.uk
+Cancel
+Clear
+(Null)? 电 Decode

@@ -1,0 +1,19 @@
+# OCR: 4a23a5176045638b52805ae981911269.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/4a23a5176045638b52805ae981911269.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+对象
+冒开始事务 id
+Android@main(laixi)-表
+导入只导出两数据生成咖创建图表
+自文本了筛选排序
+onlyMark
+9e6c9838dafe7ba0R3CR30FE23Y
+2fcbafe04ac02bf4900a7fb5b 3fcbafe04ac02bf4900f16a79
+43f8ca5810c4b7e23RFCW716YW8D
+markName SM-G996N
+V1916A SKW-AO SM-F9460
+markNo
+? 10 2 30 40

@@ -1,0 +1,26 @@
+# OCR: 0b6e9b9063cbc04edafb56e462df93b3.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/0b6e9b9063cbc04edafb56e462df93b3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+终端×
+droid@node2:$ CONTAINER ID
+451a0978d664 55->5555/tcp drotd@node2.$ 451a0978d664/
+sudo docker ps
+IMAGE NAMES
+redroid/redroid:12.e.e-latest Loving_shtern
+sudodockerexec-it45/bin/sh
+#find1
+-namebase.apk
+COMMAND
+/initandroidboot.h"
+CREATED
+2months ago
+STATUS
+Up 2 minutes
+/data/app/wBhWcXqxofFWnwmFrhZvg==/com.Ss.android.ugc.aweme-V_GSezKj2egAP31ox7Iazw==/base.apk
+451a0978d664:
+#
+PORTS
+Q.0.e.0:5555->5555/tcp.::55

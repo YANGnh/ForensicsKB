@@ -1,0 +1,17 @@
+# OCR: dfe77421f1b29f5367bf1d2486bb1922.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/dfe77421f1b29f5367bf1d2486bb1922.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+In[153]:data=[0b11100111101,0b11000000001,0b11111010110,0b01101010000,0b11000110110 0b00000000101.0b100010010
+:00.0b11001111010,0b000011110000b00001100001.
+0b00000011001.0b10001011011
+In[154]:data2=［-^1988for-indata]
+In「155l:memeric=".join(
+In【156]: 0ut[156]：
+memernic
+-1
+words[
+快以摇首捕督选捞驾搅呼！
+for -in data2])

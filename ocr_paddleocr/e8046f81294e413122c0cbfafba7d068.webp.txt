@@ -1,0 +1,12 @@
+# OCR: e8046f81294e413122c0cbfafba7d068.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/e8046f81294e413122c0cbfafba7d068.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+sso-user@vcsaF/etc$catos-release NAME="vMwarePhotonos"
+VERSION="4.Q" ID=photon
+VERSION_ID=4.O
+PRETTY_NAME="VMwarePhotonOS/LinUx" ANSI_COLOR=134″
+HoME_URL="https://vmware.github.io/photon/"
+BUG_REPoRT_URL="https://github.com/vmware/photon/issues"

@@ -1,0 +1,32 @@
+# OCR: 155802c7257dd98e58052ccca3ebecad.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/155802c7257dd98e58052ccca3ebecad.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+nodet-5 nodet-2 node1-3 nodet-4 nodet-1
+IncomingiPv4
+来自
+wan
+此设备，请口15555 到
+IncomingiPv4
+来自
+wan
+到此设请口12222
+IncomingiPv4
+来自
+wan
+到此设备钱口13333
+IncomingiPw4 来奥won
+到此设备，端口14444
+IncomingiPy4 来白won 到
+此设备：端口111
+转发至lan 转发至lan
+转发至
+lar
+转发至lan
+转发至
+lan
+IP192168:100.NO/口5555 IP192.168.100.101#口2222 IP192.168.100.1013333 IP192168.100.101口4444 P192.168.100:101#口311
+编罐编求
+型除量除

@@ -1,0 +1,14 @@
+# OCR: ad5eafa1cb30c3f10873001c569dad62.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/ad5eafa1cb30c3f10873001c569dad62.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+Clara的安卓手机
+Clara
+未获得个性签名
+ID：未获得用户ID
+微信>Clara(wxidt7zgo57i9mOj22
+内部ID:wxidt7zgo57i9m0i22
+：+85263791704：未获得邮箱信息
+：未获得位置信息

@@ -1,0 +1,20 @@
+# OCR: 5e5fa21202de68040e7420a563b813be.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/5e5fa21202de68040e7420a563b813be.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Qapp_s
+在以下位置搜素：
+类名
+■方法名
+字段名
+√代码
+名门资源门注释
+搜素选项：
+V忽略大小写
+正则表达式
+sg = ok(oj(oi(FakerApp.activityx), R.string.app_s)):
+Create(Bundle)1
+FakerActivity.sg=ayz(ay(ayx(this),R.string.app_s))
+ionCreatesosFakel

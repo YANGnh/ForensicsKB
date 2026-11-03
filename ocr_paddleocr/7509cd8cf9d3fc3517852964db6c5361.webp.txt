@@ -1,0 +1,75 @@
+# OCR: 7509cd8cf9d3fc3517852964db6c5361.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/7509cd8cf9d3fc3517852964db6c5361.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+dede_comment @xinlongxs (xinlongs) -表 - Navicat Premium
+文件
+连接
+Nqi5qaz root sg
+xinlong
+查品新建童询
+information_schem
+xinlongxs 表
+dede_697 book dede_697_ chapter dede 697 hash dede_addonarticle
+dede_addon
+收量卖
+ages
+dede_addoninfos dede addonshop dede addonsofi dede addonspec dede_admin
+dede_admintype
+dede_advancedsearch
+dede_arcatt dede.arccache dede_archives dede_arcmulti dede_arcrank dede_arctiny dede_arctype dede_area
+dede_channeltype dede_co_htmls dede_co_mediaurls dede_co_note dede_co_onepage dede_co_urls dede_comment dede_diyforms dededilog dede_downloads dede_erradd dede_feedback  dede flink
+dede_flinktype dede freelist
+dede_homepageset dede keywords dede los
+工具
+帮期
+fx
+规图
+曾数
+象
+用户
+开始事务 cid
+3 4 5 6 7 8 9 10 11 12 13
+文本 id
+8709 8711 8713 8716 8718 8722 8712 8709 8712 8712 8720 8714 8708
+其它 eok e
+选 name
+查询
+rticle_cat.
+0 蛋份
+三排序列
+就要吸牛奶
+我想我会一直我单郑大世
+给忆的密你不操
+自动港行
+模型
+cash@km
+小图表
+cashchar
+G入G导出
+画数据生成中创建国表
+commen
+只要你写下去，我就会看下我眼质儿这么一，就动道
+什么长发及量不如短发凉#好东西大家顶
+逼家梦想
+*阳光烂下的小优伤用花开，
+Yeah 不透无名
+累人的题在性照票
+买汤没得喝，喝个骨头先！顶！！！
+天天营看中。完作者能活说净实是这样，小时娱是
+写得很好，作者加油！此东西值得你用有
+恩来看：了天天道看中，
+需型作者能
+SELECT FROM xinlongxs'dede_comment" LIMIT 0,1000
+senddate
+1761108806 1761108810 1761108922 1761108925 1761108952 1761109242 1761110259 1761112076 1761118314 1762660838 1762661704 1762661721 1762661729
+mid
+0 o 0 o 0 0 0 0 0 o 0 0 o
+F+1+±0
+国国
+00
+型 text
+不是n 默认值注释
+宽5条记景（共13

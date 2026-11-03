@@ -1,0 +1,17 @@
+# OCR: 11e74694e0d76cad22fbfdd8f320a250.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/11e74694e0d76cad22fbfdd8f320a250.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+检材3》
+口序号 1
+Chrome浏览器>adm1n>品保存的密码
+三叠录URL 过滤
+https://aff01.dgy02.com/
+邮账号过滤
+tcggvip2025@126.com
+三密码过滤
+在保存的密码中搜索
+Q
+Q高

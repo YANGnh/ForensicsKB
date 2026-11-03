@@ -1,0 +1,19 @@
+# OCR: 52fd3db057d386d4121151abfde68c14.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/52fd3db057d386d4121151abfde68c14.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+ExtremeSSD/2025-04-18-104854.previous)MacintoshHD-Data/Users\applelLibrary/Containers
+口文件名称一
+Library (13,741)
+Containers (11.741)
+Icom.apple.mlhost.CloudWorker(39)
+Icom.apple.mlhost.TelemetryWorker(37) Icom.apple.MobilesMS(35)
+Icom.apple.MobileSMS.MessagesActionExtension (38)
+Icom.apple.MobileSMs.MessagesPluginNotificationExtension(35) Icom.apple.mobiletimer-framework.MobileTimerlntents(37)
+Icom.apple.Music.MusicCacheExtension(37) com.apple.Notes (44)
+Icom.apple.Notes.IntentsExtension(37）
+tensinn135
+了描述存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+了文件类型

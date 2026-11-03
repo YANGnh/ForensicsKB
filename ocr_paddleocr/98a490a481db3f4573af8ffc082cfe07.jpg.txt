@@ -1,0 +1,32 @@
+# OCR: 98a490a481db3f4573af8ffc082cfe07.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/98a490a481db3f4573af8ffc082cfe07.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+a 圆案件口文件呕分析
+位置时间线 Q 搜素尊笔记自报告贸研判
+白工具箱
+刷新
+详情/预览预览位置导出报告
+检材1-手机检材2-服务器检材3-计算机
+文件
+基本信息
+国终端历史记录
+9 2 2
+检材3-计算机>
+三序号 G1 口G2 口G3 口G4 口G5 G6 口
+G7 口
+口G8 口G9
+详细信息
+名称：run.py 扩展名：txt 类型：文件大小：95B
+三名称_run.py_run.py
+文件
+eager_function_run.py mirrored_run.py
+op_run.py run.py run.py run.py
+test_run.py
+创建时间：2024-03-1416:1343 访问时间：2024-03-1417:13:17 修改时间：2023-07-2100:39:49 MetaAddr:42683
+全路径：检材3-计算机.E01/新加卷/roop1.3.2d/run.py
+加密类型：未加密已删除：否
+三扩展名
+txt txt txt txt txt txt txt txt txt

@@ -1,0 +1,7 @@
+# OCR: 2ef3f707552567d60400263fc45f1110.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/2ef3f707552567d60400263fc45f1110.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+c".ut="1920d08971c".v

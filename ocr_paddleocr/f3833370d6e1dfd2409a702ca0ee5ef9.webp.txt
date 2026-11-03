@@ -1,0 +1,29 @@
+# OCR: f3833370d6e1dfd2409a702ca0ee5ef9.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/f3833370d6e1dfd2409a702ca0ee5ef9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+C:\Users\NEKON\Desktop\山东|出题\检材苹果手机）苹果备份plist文件\Manifest.plist FileEditViewHelp
+XMLView
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 5992 21 22 23 24 25 26 27 28 29 30 31 32 33
+ListView
+<?xmlversion="l.o"encoding="uTF-8"?>
+<!DoCTYPEplistPUBLIC"-//Apple//DTDPLIST1.O//EN""http://wwW.apple.con/DTDs/PropertyList-l.O.dtd">
+<plist version="l.o"> <dict>
+<key>IsEncrypted</key> <true/>
+<kev>Version</key>
+<string>l0.0</string> <key>Date</key>
+<date>2025-04-08T14:12:48z</date> <key>SystemDomainsVersion</key>
+<string>24.0</string> <key>ManifestKey</key> <data>
+AwAAAGCuz6LDlHgkBVrnERoOpjn2Xlp8xCZac2o2uuEbUbJGreVGn7B+eGo= </data>
+<key>WasPasscodeSet</key> <false/>
+<key>Lockdown</key>
+<key>com.apple.MobileDeviceCrashCopy</key> <dict>
+<key>ShouldSubmit</key>
+<false/> </dict>
+<key>com.apple.TerminalFlashr</key>
+<dict> </dict>
+<key>com.apple.mobile.datasync</key) <dict>
+<key>Notes</key> <dict>
+<key>AccountNames</key>

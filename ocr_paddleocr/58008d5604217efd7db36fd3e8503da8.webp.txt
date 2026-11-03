@@ -1,0 +1,35 @@
+# OCR: 58008d5604217efd7db36fd3e8503da8.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/58008d5604217efd7db36fd3e8503da8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+ForensicsTool GUI WorkBench
+模式任务 file
+password
+imei token uid
+【1】表示解密数据库，支持的type值为1、2、4-7、15【4】高德的girfsync.db
+{G:/tmp/2024数证杯个人lgirfsync.db] 解密的密码，处理钉钉和高德时不适用
+微信获取到的IMEI或MEID，在sharedprefs/DENGTA 野火iM系应用的用户token，sharedprefs/config.xml白默往（通常在sharedprefs/im.xml中的userld的值）、
+Run
+高德地图数据库解密》
+提示][提示］[成功]
+uin wxid device
+口
+x v V
+微信用户的uin，可能是负值，在sharedprefs/authinfo 数据库所属的wxid，一般情况下在解密EnMicroMsg.db 钉钉解密需要的内容，通常在sharedprefs/com.alibab
+Author:WXjzc
+>正在获取数据库文件大小
+>正往解密嵩德数据库girf_syc.db，解密密钥为<a4a11bb9ef4b2f4c> >正在修补数据库女件买
+>girt_sync.db解密成劲，解密后数据库在源文件同目录下girf_sync_dec.db
+python C:UsersVAdninistratorDesktop\workspace\ForensicsTool\ForensicsTool.py -m 1 -t 4 -f G：7tmp/2024数证杯个人>girf_sync.db
+3 RX
+《高德地图数据库解密》[
+->正在获取数据库文件大小
+察察[功]-
+Author:WXizc
+->正在解密嵩德数据库girf_sync.db，1
+解密密钥为<a4a11bb9ef4b2f4c>
+->正在修补数据库安件实
+-->girf_symc.db解密成功，
+解密后数据库在源文件同目录下girf_symc_dec.db

@@ -1,0 +1,10 @@
+# OCR: 4f21670d71324efc15f3dcfff9335de7.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/4f21670d71324efc15f3dcfff9335de7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+名称
+A:苹果手机lmage.zipprivatevarr
+productldentifiers.plist
+SBMedia.db SBMeitu.db SBUserlnfo.db Userlnfo.plist

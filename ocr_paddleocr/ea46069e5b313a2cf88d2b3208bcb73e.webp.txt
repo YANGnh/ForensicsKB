@@ -1,0 +1,22 @@
+# OCR: ea46069e5b313a2cf88d2b3208bcb73e.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ea46069e5b313a2cf88d2b3208bcb73e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+共享
+>
+查看
+本地磁盘(C:)>财务
+名称
+★ ★ ★
+图tjexe
+tj_encrypt file.exe.exe 销售额.txt_encrypted
+修改日期
+2023/9/814:07 2022/4/42:32 2023/9/814:10
+类型
+应用程序应用程序
+TXT ENCRYPTED...
+大小
+2,966KB 5,790KB
+1KB

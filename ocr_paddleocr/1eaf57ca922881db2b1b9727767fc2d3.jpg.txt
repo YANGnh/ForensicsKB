@@ -1,0 +1,23 @@
+# OCR: 1eaf57ca922881db2b1b9727767fc2d3.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/1eaf57ca922881db2b1b9727767fc2d3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+恶意
+flashcenterppaxinstall cn.exe
+首次提交：2024/05/11
+文件大小：引擎检出：威肋分类：场景标签：场景描述：
+HASH SHA256 MD5: SHA1:
+2.6MB 9/27
+?
+未次提交：2024/05/11
+未次分析：2024/05/1120:09:08
+文件类型：
+PE32+executable(GUD)x86-64,forMSWindov
+分析环境：木马家族：
+CobaltStrike检测
+Win10(190364bit.0ffice2016) CobaltStrike
+根据云沙箱综合检测系统判定，该样本属CobaltStrike木马家族
+ca5b8de264c4e2a3efec5fd3cc5bf934751d72db59159423483067dec05e590d 1877379d9e611ea52befbbe2c2c77c55
+69de0e2b60ef67a349ffe58592374255f2c304f3

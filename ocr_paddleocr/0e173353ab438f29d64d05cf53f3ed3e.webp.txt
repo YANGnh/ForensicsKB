@@ -1,0 +1,22 @@
+# OCR: 0e173353ab438f29d64d05cf53f3ed3e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/0e173353ab438f29d64d05cf53f3ed3e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+Internet协议版本4(TCP/IPv4）属性
+常规
+备用配置
+如果网络支持此功能，则可以获取自动指派的IP设置。否则，你需要从网络系统管理员处获得适当的IP设置
+.
+自动类得IP地址（O)
+O使用下面的IP地址(S):
+IP地址(0)：子网掩码(U)：默认网关(D)：
+O自动英得DNS服务器地址(B 使用下面的DNS服务器地址(E)：
+首选DNS服务器（P)：备用DNS服务器(A)：
+口退出时验证设置（L)
+139.144.68.241 139.144：68.242
+高级M.
+确定
+取消
+×

@@ -1,0 +1,13 @@
+# OCR: 9cf7b2e85d353d84e59c2479c4a2422c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/9cf7b2e85d353d84e59c2479c4a2422c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+20004130 80004138
+00004140AE5_IV 90004146
+90004140 90004146
+data
+align20h db
+0123456789012345 ends
+.dat;DATA;decr

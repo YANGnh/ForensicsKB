@@ -1,0 +1,11 @@
+# OCR: 5c6bfab828037e608eca410973eb3e97.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/5c6bfab828037e608eca410973eb3e97.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+VMuareESxi6.7.0(vMKernelReleaseBuild8169922) VMuare,Inc.vMuare20,1
+AMD Ryzen 7 4800H μith Radeon Graphics 1oGiBMemory
+To manaqe this host qoto:
+http://192.168.8.112/(STATIC)
+http://[fe80::20c:29ff:fe7b:d0e61/(STATIC)

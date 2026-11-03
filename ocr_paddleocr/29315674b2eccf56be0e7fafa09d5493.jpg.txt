@@ -1,0 +1,13 @@
+# OCR: 29315674b2eccf56be0e7fafa09d5493.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/29315674b2eccf56be0e7fafa09d5493.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+server
+listen 8888;
+#抽奖页面
+location
+root
+indexindex.html
+/www/server/nginx/guanwang

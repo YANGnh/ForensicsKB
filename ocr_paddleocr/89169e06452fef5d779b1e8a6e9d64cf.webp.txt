@@ -1,0 +1,37 @@
+# OCR: 89169e06452fef5d779b1e8a6e9d64cf.webp
+# 来源: ./01-取证技巧/07-服务器云/89169e06452fef5d779b1e8a6e9d64cf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+『网站card
+84VUR5F7M7H 助(H)
+Teb -记事本
+文件(F）编辑(E）格式(O）查看(W)帮助(H)
+WIH-
+<?xml version="1.0"?>
+注意：除了手动编辑此文件以外，您还可以使用
+Web管锂工真莱置应角程序的设置。可角Visual Studio中的
+“Asp.Net"配置”选项。
+“网站”->“"
+设置和注释的完整列表在
+machine.config.comments中，该文件通常位于
+WindowsMicrosoft.Net>Frameworkv2.xConfig中 <configuration>
+<configSections>
+<section name="RewriterConfig" type="URLRewriter.Config.RewriterConfigSerializerSectionH
+</configSections> <RewriterConfig>
+<Rules>
+<RewriterRule>
+<LookFor>~/(tylyymhjwrwlxxxnzxzzqg)([1-9]?)/?</LookFor> <SendTo>~/by/$i/$i$2.aspx</SendTo>
+</RewriterRule> <RewriterRule>
+<LookFor>/(hdigallzxlxxhtjhds1df)([1-9]?)(!)?/?</LookFor> <SendT>~/zf/$i/$1$2.aspx</SendTo>
+</RewriterRule> <RewriterRule>
+<LookFor>~/iptj([1-6])</LookFor>
+<SendTo>~/res/ip/tj$1.aspx</SendTo>
+</RewriterRule> <RewriterRule>
+<LookFor>~/u/?</LookFor>
+<SendTo>~/ur/sl/slmain.aspx</SendTo>
+</RewriterRule> <RewriterRule>
+<LookFor>~/g/?</LookFor>
+<SendT>~/gr/gmain.aspx</SendTo>
+</RewriterRule>

@@ -1,0 +1,51 @@
+# OCR: e79e165956b35480ccf21bff09e4860f.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/e79e165956b35480ccf21bff09e4860f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+回
+YText incidx'
+排序号口1 详细信息
+三名称过滤
+e61ab074425cf3ee2cbcf.97144867188a359cfo
+栏置信度（0-100 等于
+三识别文本 idx
+上午9：580口全国国我的
+名称：e61ab074425cf3ee2cbc0fc977448b7f88a359cf646f77a024b87a6d9c8f5d33.0
+识别文本：上午9：580口全国国我的小新82684@立一无所有IDX：35248617复制0。1粉丝关注等级充值送冠靓号优惠充值送蓝冠还差600元利余8天去获得>钱包我的等级商城我的伴eQ粉丝榜联系我们直播间管理设置推荐排行关注我的
+类型：二维码文件路径：
+data.tar/media_435/0/Android/data/com.miui.gallery/files/gallery.diskcache/fullsize/e61ab07442 5cf3ee2cbc0fc97448b7f88a359cf646f77a024b87a6d9c8f5d33.0
+2025-01-23 09:58:14
+感改时间：
+营文件路径过递
+data.tar/media_435/0/Android/data/com.
+原类型视围
+文本视图
+十六进制视图
+上午9:58日6 我的
+在图片文本内容中授索
+国
+?
+小新82684®
+一天两
+DX:35248617
+0 关注
+充值送冠无慢送动惠手柜
+弹款· B系mO
+? 推5
+n e
+0 兰
+FM
+1
+视号优惠 20牌
+我的导会
+普保湾管理
+融豆楼? 美津
+我的择微署
+·
+Q
+高级
+设置列
+0
+x

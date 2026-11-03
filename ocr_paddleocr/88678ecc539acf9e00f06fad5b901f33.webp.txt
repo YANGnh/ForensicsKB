@@ -1,0 +1,28 @@
+# OCR: 88678ecc539acf9e00f06fad5b901f33.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/88678ecc539acf9e00f06fad5b901f33.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+1.计算机检材.E01>
+三序号 □1 □2
+三操作过滤接入弹出
+基本信息>
+三操作时间
+起始
+结束
+USB最近使用记录
+三设备名过滤
+2025-10-0920:56:43 2025-10-0920:57:10
+PSSDT7 PSSDT7
+三厂商过滤
+Samsung Samsung
+三序列号过滤
+X778002T0SNDT5S X778002T0SNDT5S
+三版本过滤
+0 0
+在USB最近使用记录中三容量
+等于
+1.81TB 1.81TB
+Y
+过派

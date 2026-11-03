@@ -1,0 +1,21 @@
+# OCR: 3c81fae1d06387f337f8ade7256a77c5.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/3c81fae1d06387f337f8ade7256a77c5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+选择磁盘
+田由
+逻辑驱动器
+逻辑驱动器无盘符
+物理驱动器一软盘0 品软盘1
+HD0:YMTCYMSS2ED08D25MC(954GB,NVMe）
+HD1:ZHITAITiPlus50002TB（1.9TBNVMe) HD2:StorLibVirtualStorage(8.0GB,ATA) HD3:StorLibVirtualStorage(2.0GB,ATA) HD4:StorLibVirtualStorage(288GB,ATA) HD5:StorLibVirtualStorage(8.0GB.ATA) HD6:StorLibVirtualStorage(2.0GB,ATA)
+Hn7.StorHhirtuaStorar
+(139GBAIA)
+HD8:UFSXmeiyatest2(427GB,iSCSI)
+列出没有盘符的卷
+2确定(O)
+取消(A)
+帮助(H)
+X

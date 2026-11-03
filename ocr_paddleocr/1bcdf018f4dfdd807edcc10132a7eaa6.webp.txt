@@ -1,0 +1,50 @@
+# OCR: 1bcdf018f4dfdd807edcc10132a7eaa6.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/1bcdf018f4dfdd807edcc10132a7eaa6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+Au Aup
+TAuR Aur Aue
+16 16
+16 16
+16 16 16 16 16
+2e24 2824 2824 282 2e24 202 282 2824 2824.
+17:48:121
+TUNNIN
+LZO-ASYMinitswap-e
+asym-
+vpnbook@5.196.64.231:25eee(5.195.64.291)
+17:48:121EVENT::41:261EVENT
+CONNECTED
+DISCONNECTED[AUg 16,
+2824
+17:47:13)Frame=512/2112/512mssfix-ctr1=125e
+17:47:131NOTE:
+This
+conteueatoncontain
+:47:131Unsupn
+resoly:
+17:47:1318
+optlon(enored
+[infinite】
+retry)
+17:47:13] 1 [persist-key] 17:47:1312[oersist-tun
+ via /UDP on TUN_wIN/10.18.e.94/ gw=[18.18.e.93/] mtu=(default)[Aug 16, 2024, 17:48:12] EVENT:
+COMPRESSION
+17:47:13) OpenVPN core 3.1e_qawin x86_64 64-bit OVPN-DC0 bui1t on Jul 17 2e24 14:22:15
+ooton
+that were
+notused
+delay][2]
+2e24.
+17:47:1313
+route-
+2824
+17:47:13)EVENT
+RES0LVEE[Aug16,2e24,17:47:13]Contacting145.239.252.2e5:25eeeviaUDP
+17:47:13] EVENT:WAIT[Aug 16,2024,17:47:13] wincommandAgent:transmitting bypass routeto 145.239.252.205
+2024.
+"host："145.239.252.285"
+ipv
+:false

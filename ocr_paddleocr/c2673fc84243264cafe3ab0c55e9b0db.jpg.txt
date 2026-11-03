@@ -1,0 +1,26 @@
+# OCR: c2673fc84243264cafe3ab0c55e9b0db.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c2673fc84243264cafe3ab0c55e9b0db.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+PROXMOXVirtualEnvironment8.1.4搜素
+文件夹视图
+数据中心 >LXC容器 >圆节点 V虚拟机
+100(Router) 101(node1)
+102(node2) 103(node3)
+111 (javaserver) 112 (sqlserver) 120(luck)
+>SDN 存储
+安
+虚拟机103（node3）在节点'pve'上
+概要 >控制台中硬件
+Cloud-lnit 好
+选项
+自任务历史
+?
+监视器
+备份西
+好复制 ③快照
+添加y
+没有标记。移除
+用户/群组/API令牌 Lu2k@pve

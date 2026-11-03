@@ -1,0 +1,73 @@
+# OCR: 85b1365fd317e7ebff4b41336c2ee574.webp
+# 来源: ./02-WriteUp/2026/2026-南宁-初赛/85b1365fd317e7ebff4b41336c2ee574.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+De
+PE
+重新加载
+O
+信息
+Nauz File Detector (NFD) Detect It Easy (DiE)
+Yara rules VirusTotal
+Visualization
+十六进制反汇编
+哈希字符串签名
+内存映射信息提取器搜索工具集
+IMAGEDOSHEADER Dos stub
+IMAGE NT HEADERS
+IMAGEFILEHEADER
+TMAGEOPTIONALHEADER
+TMAGE DIRECTORV ENT..
+节
+信息导入
+信息
+异常 TLS
+TLS 回调附加
+类型 PE64
+Code page
+Numbery
+359 360 700 711 719 856 1425 1436 1444 1576 1704 1825 1834 1975 1986 1994 2118 2228 2298 2310 2318
+Q
+节
+偏移
+00026e05 00026e1c
+0002ddb1 0002dea4 0002df23 0002f183 00032580 00032673 000326f2 0003330a 0003408b 00034b23 00034bed 00035ea4 00035f97 00036016 00036f20 00037ccd 00038a8c 00038b89 00038c08
+选项
+ANSI
+地址
+00429005 0042901c 004351b1 004352a4 00435323 00436583 00439980 00439a73 00439af2 0043a70a 0043b48b 0043bf23 0043bfed 0043d2a4 0043d397 0043d416 0043e320 0043f0cd 0043fe8c 0043ff89 00440008
+C:/Users)Administrator!
+UTF8
+Unicode
+节(2)[.rdata 节(2)[".rdata'T
+节(10).. 节(10)... 节(10)... 节(10)... 节(10).. 节(10)... 节(10).. 节(10)... 节(10)... 节(10)... 节(10)... 节(10)... 节(10)... 节(10).. 节(10).. 节(10)... 节(10)... 节(10).. 节(10)...
+Null-terminated
+过滤器 flag
+大小类型 16
+A
+18 Oe oc 06 09 Oe oc 06 10 05 05 05 Oe oc 06 05 ob Oe oc 06
+IDA - easyre.exe C:\Usel
+De
+A A A A A A A A A A A A A A A A A A A A
+链接字符串
+Min size
+5
+flagtoh you find me!!) sorry.you can't get flag
+ExceptionFlags ContextFlags
+EFlags 8dwFlags
+ExceptionFlags ContextFlags. EFlags
+VersionAndFlags
+flag flag flags
+ExceptionFlags ContextFlags
+EFlags Flags
+LoaderFlags ExceptionFlags ContextFlags. EFlags
+Detect It Easy v3.10 [Wir
+RegExp
+了
+英
+x
+只读
+搜索保存
+14:04:15 2026/6/23

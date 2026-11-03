@@ -1,0 +1,17 @@
+# OCR: 50481ce3d97cea54b85a9780c62e39df.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/50481ce3d97cea54b85a9780c62e39df.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+计算机
+三序号 1
+详细信息
+三标题过滤
+微软便(Sticky Notes)
+三摘要过滤
+内容：vCpwd:5thGoldenEyesCup123456 创建时间：2023-02-1716:18:42
+三内容过滤
+VCpwd:5thGoldenEyesCup123456
+作者过滤
+源文件：计算机.E01/分区2/Users/admin/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes8wekyb3d8bbwe/LocalState/plum.sglite 已删除：否

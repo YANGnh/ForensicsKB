@@ -1,0 +1,23 @@
+# OCR: 61c345edc28cd4da3690ae99eba12246.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/61c345edc28cd4da3690ae99eba12246.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+件咖
+编辑项目
+工具
+项目文件夹
+帮助(H)
+AIThinkerESP32-CAM
+CameraWebServer
+CameraWebServer.ino
+31 32 33 34 35 36 37 38 39 40 41 42 43
+app.httpd.cpp
+camera index.h
+//#defineCAMERAMODELESP32S3CAMLCD
+camerapins.h
+//#defineCAMERAMODELDFRobotFireBeetle2ESP32S3////#defineCAMERAMODELDFRobotRomeoESP32S3//HasPS#include"camerapins.h"
+EnteryourWiFicredentials constchar*ssid="cMcc-7e2"
+constchar*password="88888888" voidstartCameraServer()
+void setupLedFlash(int pin):

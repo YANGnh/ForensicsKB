@@ -1,0 +1,19 @@
+# OCR: 5b8b15ec36fa8344e5f5cc518d8130a6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/5b8b15ec36fa8344e5f5cc518d8130a6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+助拍的购
+只有通过调试才能获取直实的f1a值
+(req,res)>
+router.get(/flag2'
+//调用getflag2函数：
+该函数包含反调试逻辑，只在调试状态下
+const flag - getflag2();
+//不直接返回flag值，确保只有通过调试器才能获取 res.ison()
+success:true,
+flag
+message:
+result:
+请使用gdb调式器进行调式获取！

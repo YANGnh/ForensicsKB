@@ -1,0 +1,21 @@
+# OCR: 06d8066a19a8e8ecb600d955e30ca5d2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/06d8066a19a8e8ecb600d955e30ca5d2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+g
+检材2>
+三序号 1
+详细信息
+三标题过滤
+基本信息>便签
+三摘要过滤
+电脑密码1列2列，
+Y
+三内容过滤
+电脑密码
+标题：电脑密码1列2列，google秘钥环：明明存在这里面啊，怎么不见了内容：电脑密码
+创建时间：2025-04-1115:59:39 修改时间：2025-04-1116:08:16
+检材2.tar/data/com.miui.notes/databases/note.db
+源文件：已删除：否

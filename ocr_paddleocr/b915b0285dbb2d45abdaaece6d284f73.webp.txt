@@ -1,0 +1,30 @@
+# OCR: b915b0285dbb2d45abdaaece6d284f73.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/b915b0285dbb2d45abdaaece6d284f73.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+资源管理器 V笔记-副本 >ets
+Vresources base vmedia
+background.png foreground.png layeredimage.json
+astartlcon.png vprofile
+backup_config.json main_pagesjson
+≤.pages.info modulejson pack.info
+pkgContextlnfo.json =resources.index
+modulejsonX
+(module.json>()app
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+"app"：
+"iconId":16777218,"debug":true,
+"icon":"Smedia:foreground"
+DULOMOOE
+oeoug
+"labei"："sstring:app_name""bundleType"："app"
+"versionName":"1.0.o""versioncode":1oooooo,"appEnvironments"：[]，
+"compilesdkType":"Harmonvos""labelId":16777216,
+"compileSdkVersion":"5.o.5.16o"
+"targetAPIVersion"：5ooo5o17，"vendor":"example",
+"bundleName"："com.example.pgsdsj""apiReleaseType":"Betai"
+"module"：
+"yirtualMachine".
+1ark12.0.6.01

@@ -1,0 +1,9 @@
+# OCR: e0872dca8fa812b15c55b2b4d9a2f736.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e0872dca8fa812b15c55b2b4d9a2f736.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+[root@localhost~#bt5 正在执行（5）
+请输入新的面板密码：123456
+用户名：j9oehwoa-新密码：123456

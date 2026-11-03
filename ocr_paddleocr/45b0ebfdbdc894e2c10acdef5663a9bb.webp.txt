@@ -1,0 +1,71 @@
+# OCR: 45b0ebfdbdc894e2c10acdef5663a9bb.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/45b0ebfdbdc894e2c10acdef5663a9bb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Session#1Ubuntu-Server18 文件名称一
+（根目录
+Session#1
+L.disk(3) boot（208) Idists(8) doc(89)
+linstall（432) pool(1,553) Ipreseed(8
+自md5sum.txt
+光盘 offset 00000336 00000352 00000368 00000384 00000400 00000416 00000432 00000448
+■文件
+0 30 35 69 72 6D 65 36 20
+C:\Users)ADMINI~1VAppData)Local\Temp)md5sum775.txt[文本模式]-Ndd
+文件(F
+区 779 780 781 782 783 784 785 786 787 788 789 790 791 792 793 794 795 796 797 798
+卢
+编辑(E)
+查找(S) 响
+视图V
+ThunderForensic.json
+X
+编码(N)
+5
+语法(L)
+c
+器
+设置
+AppData 21833. json
+列与宏
+工具(O)
+插件
+DiacData 21834.json
+fa4248afb2eff997f3e36b48b3291076..
+对比(C) C
+反馈注册
+Packages 2008.list
+./pool/main/l/lvm2/libdevmapper
+?
+?
+GO
+用
+properties_conf
+面区
+国
++
+settings_conf 23..
+.bash_history
+event1.02.11.02.145-4.1ubuntu3.18.04.3arm64.d
+36f7a30fef42691694631a4792d91440.../poo1/main/1/1vm2/1iblvm2app2.22.02.176-4.1ubuntu3.18.04.3arm64.deb 865ae6258600ae16d2b35689db795873.../poo1/main/1/1vm2/1ib1vm2cmd2.022.02.176-4.1ubuntu3.18.04.3arm64.deb 287d9d65bd1acad1197826d538ce1bbe.../poo1/main/1/1vm2/1vm22.02.176-4.1ubuntu3.18.04.3arm64.deb
+6c88eee42f15f30b77d7a3ceae94423b.
+./pool/main/1/1zo2/1iblzo2-2-udeb2.08-1.2arm64.udeb
+3757eb7e1bbd9ab13589ce43a80e15f5.../poo1/main/1/1zo2/1iblzo2-22.08-1.2arm64.deb
+924f13d10e5804216c3d0394f09d6be0.../pool/main/1/1ive-installer/1ive-installer51ubuntu3arm64.udeb 28755f05a77a66e09881c08e6172b8e3.../pool/main/1/1ocalechooser/1ocalechooser.2.71ubuntu3arm64.udek 6af826d82dc3454caf4add05e8bb92fc.../pool/main/1/1owmem/1owmem.1.45ubuntu1al1.udek
+4ab57ec54bled571ec993179fc6bb2c4.../pool/main/1/1owmem/1owmemcheck1.45ubuntularm64.udeb
+8cb93d485cea11613707d7c5c24336f6.../pool/main/1/1inux-firmware/nic-firmware1.173.20al1.udeb
+./pool/main/l/linux-firmware/scsi-firmware1.173.20all.udeb
+7ee636c9bb9e506c2e7301d00c63e232.. 6795fb3c7cc887a0180a68d766703ece..
+./pool/main/l/linux-firmware/linux-firmware1.173.20all.deb
+5fb633b89321b07427c836aaf58ae8d5.../pool/main/1/1z4/1iblz4-10.0~r131-2ubuntu3.1arm64.deb ef4949e1a374747ed34a6454f8219b93..
+./pool/main/l/linux-base/linux-base4.5ubuntul.6all.deb
+00f2801ed00f81342453a77c1c4c22e7.
+./pool/main/1/1inux-meta/1inux-generic4.15.0.156.145arm64.deb
+cd72c2abfff6df3ecbcb6c3fc9d9e144.../pool/main/1/1inux-meta/1inux-headers-generic4.15.0.156.145arm64.deb
+877432ee218deb261bc6ce36bfe3fe7c.
+./pool/main/1/1inux-meta/1inux-image-generic4.15.0.156.145arm64.deb
+fa16e89a0cc3e8a88256255dcb0b0a78.../poo1/main/1/1inux-meta-hwe-5.4/1inux-generic-hwe-18.045.4.0.84.94~18.04.75a
+ec0278dcfff663eee9ce5203723fb5c7.
+./pool/main/1/1inux-meta-hwe-5.4/1inux-headers-generic-hwe-18.045.4.0.84.94~18

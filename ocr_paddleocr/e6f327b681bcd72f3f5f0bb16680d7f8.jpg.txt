@@ -1,0 +1,29 @@
+# OCR: e6f327b681bcd72f3f5f0bb16680d7f8.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/e6f327b681bcd72f3f5f0bb16680d7f8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+虚拟机设置硬件
+选项
+设备圆内存处理器
+日硬盘(IDE）
+CD/DVD(SATA）
+品网络适配器品网络适配器2 图USB控制器
+合声卡吕打印机口显示器
+摘要 4GB 2
+50GB（预先分配）自动检测
+自定义（VMnet9）
+NAT 存在
+自动检测存在
+自动检测
+设备状态
+已连接（C)
+冈启动时连接（0) 网络连接
+桥接模式（B)：直接连接物理网络
+■复制物理网络连接状态（P)
+NAT模式(N)：用于共享主机的IP地址 ①仅主机模式(H)：与主机共享的专用网络
+①自定义(U)：特定虚拟网络 VMneto（自动桥接） OLAN区段(L):
+LAN区段(S)...
+高级(V)..
+x

@@ -1,0 +1,25 @@
+# OCR: ea4eaec2d281d73556eeb9573b5298a2.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/ea4eaec2d281d73556eeb9573b5298a2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+FileStation
+Home docker music photo video 刘福荣
+#recycle
+、1月丶2月 ¥3月 ■公务
+新增名称
+C
+刘福荣》公务
+上传
+公务人员.xlsx 新导入.xlsx
+操作、
+工具、大小
+21.4KB 21.6KB
+设置
+文件类型 XLSX文件 XLSX文件
+★
+Q-搜索
+修改日期
+？
+2025-04-0215:06:3 2025-04-0215:22:1

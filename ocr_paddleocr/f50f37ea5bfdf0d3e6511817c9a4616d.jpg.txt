@@ -1,0 +1,15 @@
+# OCR: f50f37ea5bfdf0d3e6511817c9a4616d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f50f37ea5bfdf0d3e6511817c9a4616d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+VPN服务器图Linux基本信息>cl(qL22HH-QUSZ-IVyk-BmWw-Yitp-K1MH-NIgxkc)/分区1国网络信息>网络接
+门三序号口1
+#名称过滤 ens33
+拦描述过滤
+IP地址过滤
+192.168.217.188
+拦Mac地址过滤
+DHCP地址过滤
+=DHCP网关过滤

@@ -1,0 +1,18 @@
+# OCR: 3ba3a2deaebdb2efbe8d7191c678710e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/3ba3a2deaebdb2efbe8d7191c678710e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+《/>表达式表达式字段
+Cron表达式
+秒
+00**0
+最近5次运行时间
+2024-05-1900:00:00 2024-05-2600:00:00 2024-06-0200:00:00 2024-06-0900:00:00 2024-06-1600:00:00
+分钟
+小时
+月
+星期?
+年
+反解析

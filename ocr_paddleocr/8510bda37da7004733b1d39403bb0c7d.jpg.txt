@@ -1,0 +1,33 @@
+# OCR: 8510bda37da7004733b1d39403bb0c7d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/8510bda37da7004733b1d39403bb0c7d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+电脑>新加卷(D）>GPT-SoVITS-beta0217>logs>voice3
+名称
+3-bert
+4-cnhubert 5-wav32k
+eval logs_s1 喝logs_s2
+2-name2text.txt
+6-name2semantic.tsv config.json
+events.out.tfevents.1713874586.DESK... 目train.log
+train.log-记事本
+文件(F)编辑(E)格式(O)查看(V)帮助(H)
+2024-04-2320:16:26.217
+voice3
+INFO
+f'train':f'loginterval:100,'eval interval':500
+: [3, 7, 11], 'resblock dilation sizes': [1, 3, 5], [1, 3, 5], [1, 3, 5], 'upsample_rates': [10, 8, 2, 2, 2], 'up
+2024-04-2320:16:28.875 2024-04-2320:16:29.122 2024-04-2320:16:58,154 2024-04-2320:16:58.155 2024-04-2320:18:05.408 2024-04-2320:18:43,543 2024-04-2320:19:20,828 2024-04-2320:19:59.401 2024-04-2320:20:00.247 2024-04-2320:20:01,136 2024-04-2320:20:01.137 2024-04-2320:20:02.983 2024-04-2320:20:02.983 2024-04-2320:20:40.361 2024-04-2320:21:18.029 2024-04-2320:21:55.991 2024-04-2320:22:35,115 2024-04-23 20:22:36,561 2024-04-2320:22:37.813 2024-04-2320:22:37.814
+voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3 voice3
+INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO
+loadedpretrainedGPTSoViTS/pretrainedm loadedpretrainedGPTSoVITS/pretrainedm Train Epoch: 1 [0%]
+[2.660064697265625,1.9924430847167969,1 ==== > Epoch: 1
+=>Epoch:2 ==>Epoch:3
+Savingmodeland optimizer stateat iteratior Savingmodelandoptimizerstateatiteratior savingckptvoice3e4:Success
+====> Epoch: 4 TrainEpoch:50%]
+[2.68928861618042,1.8848315477371216,10
+=> Epoch:5 ==> Epoch: 6 =>Epoch:7
+Saving model and optimizer state at iteratior Savingmodelandoptimizerstateatiteratior
+saving ckptvoice3_e8:Success. ====> Epoch: 8

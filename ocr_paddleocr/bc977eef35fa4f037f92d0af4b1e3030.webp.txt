@@ -1,0 +1,11 @@
+# OCR: bc977eef35fa4f037f92d0af4b1e3030.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/bc977eef35fa4f037f92d0af4b1e3030.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+用户名 igmxcdsa
+密码
+41fc77abd2607bb361e4ed722f7b4f2a
+0a
+438u4ae4a8tr

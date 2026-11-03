@@ -1,0 +1,27 @@
+# OCR: b6bf45b13ab04bab8c1fbd1615e6af5c.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/b6bf45b13ab04bab8c1fbd1615e6af5c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+文件
+视面
+导航
+3.verify.apk
+源代码资源文件 assets
+lookme META-INF
+工具
+帮助
+res
+AndroidManifest.xml
+classes.dex classes2.dex classes3.dex resources.arsc APK signature 国Summary
+assets/lookme
+“国?e
+EEE
+*3.verify-jadx-gui
+OpE10B5kBAA42E58F0+B00JEF03E1070B水E（VS500E
+lookme
+txt
+EBC28
+BE
+0包国包s国0可2s国包8m<%的的包i国人国！国国小，（包

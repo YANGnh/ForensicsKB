@@ -1,0 +1,23 @@
+# OCR: 591ac449801aef315b0ae3cd367b8d9c.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/591ac449801aef315b0ae3cd367b8d9c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+BASIC ATTACKS
+字典 Xieve 爆破掩码
+已知密码/部分
+PreviousPasswords SPECIAL ATTACKS 加密密钥提取
+GROUPS Join攻击
+新的掩码攻击
+掩码攻击检查与指定模式或掩码匹配的密码。 SETTINGS
+掩码文件（可
+选) 语言 MASKS
+单击此处选择或拖动文件
+English
+Pgs?d?d?d?dd3j
++添加掩码自定义字符集
+想要了解更多
+V
+X
+浏

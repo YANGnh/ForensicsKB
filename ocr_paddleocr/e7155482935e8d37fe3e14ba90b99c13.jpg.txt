@@ -1,0 +1,44 @@
+# OCR: e7155482935e8d37fe3e14ba90b99c13.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e7155482935e8d37fe3e14ba90b99c13.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+QtSrepy
+自用精滴模式精简模式
+津VIFI连接
+双击连接：
+津USB连接
+自动刷新
+Phone-192.168.100.102:5555 Phone-192.168.71.100:25555
+ad
+sd命令：
+davices
+server startfinish in0.335s
+执行
+终止
+AdbProcessInpl:out:[server] DEBUG:Using video enoder:
+CM.google.h264.enooder
+updatedevices., adbrun
+清理
+AdbProcessInpl out:List of devices attached
+offlime
+192168.100101-1111
+192.168.100.102:5555 192.168.71.100:25555
+device device
+自动配置
+比特持率：
+2
+录制格式：
+ep4
+呆蒙保存路径：
+录制屏篇商口贵顶 USB线
+设备名称
+Phene
+设备序列号：停止所有服务
+安装sndepy 无线
+192:16801
+phone-192.168.71.100:25555 3:285
+Google
+口
+x

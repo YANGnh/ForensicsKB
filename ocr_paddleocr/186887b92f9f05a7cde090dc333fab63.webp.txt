@@ -1,0 +1,60 @@
+# OCR: 186887b92f9f05a7cde090dc333fab63.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/186887b92f9f05a7cde090dc333fab63.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+金材1-手机.tar/dataluser/Ocom.ivanovsky.passnotes)sharedprefs 文件名称一
+I.=com.ivanovsky.passnotes(o) = shared prefs (O)
+com.ivanovsky.passnotes_preferences.xml
+了描述存在的存在的，. 存在的，…
+了文件类型 xml
+C:\Users\ADMINI~1VAppData\Local\Temp]com.ivanovsky 9952.xml [文本模式] - Ndd
+文件(F)
+编辑(E) 日
+shot.cdo.Py
+1 2 3 4 5
+卷 offset
+00000000 00000016 00000032 00000048 00000064 00000080 00000096
+文 3d 21 6 2 2 31 74
+6 7
+9 10 11 12 13
+区
+查找(S)视图(V)
+唱
+1. Py
+@
+区
+编码(N)
+c
+run_info.py
+<?xml-version= l<map>
+语法(L)
+区
+器
+设置塔
+列与宏國
+game log.txt
+工具(O)
+区
+'utf-8!
+encoding=
+了路径
+检材1-手机.tarldataluserlo
+20分钟
+检材1-手机.tarldataluserlo/com.ivanovsky 检材1-手机.tar/dataluser/o/com.ivanovsky
+插件?
+dict.txt
+对比(C) 区
+standalone
+反馈注册
+vc容器密码.txt
+yes
+25
+x
+<boolean-name="isLockNotificationvisible".value="true"./> <boolean-name="isBiometricUnlockEnabled".value="true"./>
+<string-name="autoLockDelayInMs">300000</string>.<string-name="gitUserName">chewhaoN</string>
+.<string-name="gituserEmaii">fic@wjcwgc.com</string> <string-name="searchType">STRICT</string>
+.<boolean-name="isPostponedsyncEnabled".value="true"./>
+-<string-name="autoclearclipboardDelayInMs">30000</string>.<boolean-name="isLogToFileEnabled".value="false"./>
+</map>

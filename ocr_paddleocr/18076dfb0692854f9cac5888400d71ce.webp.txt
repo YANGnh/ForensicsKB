@@ -1,0 +1,26 @@
+# OCR: 18076dfb0692854f9cac5888400d71ce.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/18076dfb0692854f9cac5888400d71ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+adb)cal(int
+54
+qetAeskev(
+=（int）0x76224f894180
+（qdb）x/32xbx76224f894180 0x76224f894180<aeskey.0>: x67
+<aeskey>
+ox7a
+0x76224f894188<aeskey.0+8> x67
+0x76224f894190<aeskey.0+16> x67
+0x76224f894198
+x67(gdb)
+<aeskey.0+24>
+Ox7a Ox7a ex7a
+@x68@x68@x68 0x68
+@x61@x61 0x61 0x61
+ex6f ex6f ex6f ex6f
+@x68@x68@x68 0x68
+ex6f ex6f ex6f ex6f
+Ox6e Ox6e Ox6e ex6e
+0? 0

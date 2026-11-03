@@ -1,0 +1,10 @@
+# OCR: 072efdd89010266c84dc7aea332b36b1.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/072efdd89010266c84dc7aea332b36b1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+管理员：命令提示符
+Microsoft windows[版本10.0.19045.4291
+保留所有权利。
+(MicrosoftCorporation。 C:windowslsystem32>

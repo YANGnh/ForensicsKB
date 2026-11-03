@@ -1,0 +1,29 @@
+# OCR: 9e7ebc4fc78900d07b210ee6a42f2cd2.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/9e7ebc4fc78900d07b210ee6a42f2cd2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+10-41:23.768[main]DEBUGo.m.s.SqlSessionUtils-[debug,49]-Closing no ults.DefaultSqlSession@4f824872l
+1o-41-24.568[mainlINF0s.d.s.w.WebMvcPropertySourcedRequestMappinqHand 2api-docs1ontomethod[springfox.documentation.swagger2.web.Swagger2Con
+10-41:26.105[main] 10-41-26.235[main]
+INFO TNEO
+o.a.c.h.Http11NioProtocol[log,173]-Startin s.d.s.w.p.DocumentationPluginsBootstrapper-[s
+1o:41:26.241[main]INFos.d.s.w-p.DocumentationPluginsBootstrapper-[b ationplugin(s)
+S.d.s.w.s.ApiListingReferenceScanner-[scan,44
+INFO
+10-41:26.489[main]
+s.d.s-p.CachingModelPropertiesProviderprope
+10-41-26.541[mainlWARN
+com.jiasoft.conmon.core.donain.AjaxResult)->ModelContextfgroupName=defa urnType=true,view=Optional.emptylnull
+10:41:26.687[main]INF0 0.g.c.QuartzScheduler-[start,547]-Scheduler
+c.j.JiaApplication[logstarted,61]Started
+10:41-26.711[main]
+INFO
+JIA启动成功
+0
+http://localhost:9032/
+Local: Druid：
+http://127.o.1.1:9032/druid/login.html
+Swagger文档：
+http://1270.1.1-9032/doc.html

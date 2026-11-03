@@ -1,0 +1,77 @@
+# OCR: 9c090096f128e264f19b52377c6c19c9.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/9c090096f128e264f19b52377c6c19c9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+口
+区
+口三序号 1 口2 3 口4
+详细信息
+Alice_Macbook.e01 / 分区5 / OS X Base System - Data / Users /alice_c / Desktop
+邮名称过滤
+Personal details 2 xisx 恒
+DDSStore DJocalized 国
+Screenshot2024-08-19at10.16.13AM.png
+名称：
+Personal_details _2.xlsx
+扩展名：xlsx 类型：
+文件
+15.52KB
+大小：创建时间：
+2024-08-23 17:31:53
+间时间：
+2024-08-23 17:32:35
+2024-08-28 10:24:30
+修改时间：
+12885183554
+MetaAddr:
+Alice_Macbook.e01/分区5/OSXBaseSystem-
+全路径：
+Data/Users/alice_c/Desktop/Personal_details_2.xlsx
+加密类型：未加密已删除：否
+邮扩服名过滤 xlsx ds_store localized png
+=类型 Y 文件文件文件文件
+三大小等于
+，
+15.52KB 6.00 KB OB
+1.66MB
+原类型视图 PAGE 1
+N 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+过滤
+文本视图
+ZooM
+HIGHLIGHT
+A Full Name
+Rhonda Clark Michael Jones Carlos Martin Brianna Lopez ScottNguyen Pamela Schultz Mark Conley Mary Munoz DanielTanner Brian Wilson
+Samantha Orozco
+Paul Vargas JimmyBell Andrew Parker
+Samantha Mosley Alexander Walker Aimee Gonzalez JohnFranco
+Timothy White Cory Chambers Megan Williams
+23
+Frik.lacksnn
+Sheatt
+在Desktop中搜素
+三创建时间
+起始
+结束
+Y
+2024-08-2317:31:53 2024-06-13 14:39:18 2007-07-25 02:17:46 2024-08-19 10:16:30
+十六进制视图
+B
+三访间时间
+起始
+结束
+Q
+2024-08-2317:32:35 2024-08-30 17:22:15 2024-06-13 11:35:30 2024-08-30 17:26:34
+ea 三修改起始 2024 2024 2024 2024
+容
+c
+ID/PassportNumberMonthlyIncome(UsD)
+Y9523480 A8251166 Y1233502 D2348710 D9704284 D9940556 A9394495 Y9690100 A1252681 D6090161 D7872086 A4559063 Z2906234 Y9038442 Z4559809 D4978143 Y4119630 A2679786 A4628380 D9000175 Z6097086 73417697
+0-2500 0-2500 0-2500 0-2500 0-2500 0-2500 0-2500 0-2500 0-2500 0-2500 0-2500 0-2500
+10000-20000 10000-20000 10000-20000 10000-20000 10000-20000 10000-20000
+20000+ 20000+ 20000+ 2nnn0+
+0?
+phor
++85295 +85297 +85265 +85293 +85267 +85266 +85258 +85293 +85297 +85295 +85254 +85258 +85293 +85292 +85297 +85292 +85255 +85255 +85298 +85295 +85266 +852 64

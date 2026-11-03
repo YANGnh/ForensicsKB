@@ -1,0 +1,28 @@
+# OCR: 7e6492e1caf240f28f4c27c473f0e552.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/7e6492e1caf240f28f4c27c473f0e552.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+vindow
+window,分区2
+export-disk0-000002
+Type
+BOOT_TIME INITPROCESS
+LOGINPROCESS USER_PROCESS BOOTTIME
+INITPROCESS
+LOGINPROCESS RUNLVL
+PID 0 867 867 867 0 840 840 51
+export-disk0-000002,分区...
+export-disk0-000002,分区
+Line Etyl tty1 ttyl
+ty Etyl
+wtmp
+Log-in Entries
+User reboot
+LOGIN root reboot
+LOGIN bunlevel
+Host
+3.10.0-514.el7.x8664 3.10.0-514.el7.x8664 3.10.0-514.el7.x86 64
+Time
+2022/02/231223:49+8 2022/02/231223:57+8 2022/02/2312-23:57+8 2022/02/231224:03+8 2022/02/231423:36+8 2022/02/2314-23:44+8 2022/02/2314:23:44+8 2022/02/2314-23:48+8

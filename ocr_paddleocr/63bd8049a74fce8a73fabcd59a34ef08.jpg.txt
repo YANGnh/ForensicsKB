@@ -1,0 +1,64 @@
+# OCR: 63bd8049a74fce8a73fabcd59a34ef08.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/63bd8049a74fce8a73fabcd59a34ef08.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+终端X
++
+[root@localhost]#dockerps
+CONTAINERID 85c6f203ba5b::8080->80/tcp
+IMAGE
+NAMES
+corentinth/it-tools:latest
+it-tools
+b28698e5320a
+Louislan/uptime-kuna:1
+:::3001->3001/tcp
+uptine-kuna
+soulteary/flare
+41945cbed027:80->5005/tcp
+flare-flare-1
+[root@localhost~|#netstat-anpt
+COMMAND
+"/docker-entrypoint..""/usr/bin/dumb-init"flare --nologin=e"
+ActiveInternet connections.(serversandestablished)
+ProtoRecv-oSend-oLocalAddress
+00.0.0.0:111
+tcp tcp tcp tcp tcp tcp tcp tcp6 tcp6 tcp6 tcp6 tcp6 tcp6 tcp6
+e
+? e? e e e e 9 0 e e e e
+0.0.0.0-8080 e
+00.0.0.0:80 00.0.0.0:22
+0.00.0-3001 e
+127.0.0.125 e
+192.168.217.131:22 36
+e:::111：::8980 e
+::80::22
+e e e e
+:::3001:1:25：：5244
+ForeignAddress
+0000 0000* 0000:* 0000:* 0.0.0.0:* 0000k
+192168.217.126974
+-*-*
+--*·*
+光
+CREATED
+2 weeks ago 2 weeks ago 2 weeks ago
+STATUS
+Up 2minutes
+Up2minutes（healthy） Up 2minutes
+PID/Progran name
+State
+LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN
+793/rpcbind
+2961/docker-proxy 2916/docker-proxy 1115/sshd
+2936/docker-proxy 1498/master
+ESTABLISHED9171/sshd:root@pts
+LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN
+793/rpcbind
+2967/docker-proxy 2925/docker-proxy 1115/sshd
+2943/docker-proxy
+1498/master 1123/alist
+PORTS
+e.0.0.0:8080->80/tcp, 0.0.0.0:3001->3001/tcp, e.0..0:80->5005/tcp.

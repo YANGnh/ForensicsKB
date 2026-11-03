@@ -1,0 +1,13 @@
+# OCR: a7d1dd206b99e29bb670cd05bcaf2657.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/a7d1dd206b99e29bb670cd05bcaf2657.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+$wget192.168.75.132:2000/help.php
+iEW.PP
+-2024-07-3115:03:35--http://192.168.75.132:2000/he1p.php Connectingto192.168.75.132:2000...connected.
+HTTP
+on
++
+2000K

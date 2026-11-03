@@ -1,0 +1,8 @@
+# OCR: 6e3a5655bb5dbab6a2b52b055ce51c2a.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/6e3a5655bb5dbab6a2b52b055ce51c2a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+F:BaiduNetdiskDownload/2024龙信杯exportswcry.exe
+名称 msg u.wnry taskse.exe taskdl.exe t.wnry s.wnry r.wnry c.wnry b.wnry

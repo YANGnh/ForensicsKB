@@ -1,0 +1,26 @@
+# OCR: 43723104cdc74cca472348c08af06c93.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/43723104cdc74cca472348c08af06c93.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+新建连接（MySQL)
+常规
+高级
+数据库
+SSL
+连接名称：
+主机：端口：用户名：密码：
+连接成功服务鑫版本：8.0.29
+测试连接
+SSH
+HTTP
+Navicat 档案MysQL 222.2.2.2
+3306 root
+保存密码
+?
+数据库
+上一步
+确定
+取消
+x

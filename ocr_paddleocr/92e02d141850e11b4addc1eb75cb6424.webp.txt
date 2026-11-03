@@ -1,0 +1,14 @@
+# OCR: 92e02d141850e11b4addc1eb75cb6424.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/92e02d141850e11b4addc1eb75cb6424.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+ackage>
+kage.name="com.gedai23.tio.chat".codePath="/data/app/com.
+geda123.tio.chat-uDwr-8Hv4
+<sigs-count="1".schemeversion="1">
+<cert.index="o"./>
+</sigs> <perms>
+.<item-name="com.gedal23.tio.chat.permission.PRocEssPusH MsG".granted="true".fi.<item-name="android.permission.AcCEss FINELocATIoN".granted="true".flags="o"./.<item-name="android.permission.MoDIFYAUDIosETTINGs".granted="true".flags="o".<item-name="android.permission.sYsTEMALERTWINDow".granted="true".flags="o"./>.<item-name="android.permission.CHANGE_NETWORK_sTATE".granted="true".flags="o"./.<item-name="android.permission.FoREGRoUND ERVIcE".granted="true".flags="o"./>
+.<item-name="android.permission.BLUETooTH".granted="true".flags="o"./>.<item-name="android.permission.GETTAsKs".granted="true".flags="o"./> <item-name="android.permission.INTERNET".granted="true".flags="o"./>

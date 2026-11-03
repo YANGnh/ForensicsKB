@@ -1,0 +1,25 @@
+# OCR: 06563d6799bd9837b5a8395b22631ecd.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/06563d6799bd9837b5a8395b22631ecd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+量：Clara的安卓手机圆图片（25)
+微信>Clara(wxidt7zgo57j9mOj22)>
+好友消息Emma（wxidItrpgdhvilso22）
+2024-08-2915:59:35
+(2024-08-2915:59:35)(wxidt7zgo57i9m0i22)Clara
+定的
+2024-08-2916:02:11
+Emma(wxidltrpgdhvilso22)(2024-08-2916:02:11)，我剧剧經酒店，到David谁入酒店
+2024-08-2916:02:21
+Emma(wxidltrpgdhvilso22)(2024-08-2916:02:21)
+CONRAD
+2024-08-2916:02:49
+(2024-08-2916:02:49)(wxidt7zgo57j9m0j22)Clara
+封喔，今天是我假的结婚调年【爱心]
+2024-08-2916:02:59
+(2024-08-2916:02:59)(wxidt7zgo57j9m0j22)Clara
+他约我去度祝
+2024-08-2916:03:35
+Emma(wxidltrpgdhvilso22)(2024-08-2916:03:35) 對喔，我都忘了今天是你假的纪念日子

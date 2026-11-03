@@ -1,0 +1,39 @@
+# OCR: 506e07b3a983ea813ce573f6a77b0b7a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/506e07b3a983ea813ce573f6a77b0b7a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+终端×
+[root@locaLhost~|#docker
+IMAGE
+CONTAINERID
+[root@localhost~]#docker
+CONTAINER ID
+IMAGE
+ps ps
+NAMES
+mysql.5.7
+3ba5cba800fe
+e..:13306->3306/tcp
+-a
+mysaL-web
+a2aae89e3ac8->6379/tcp
+[root@localhost~]#
+redis
+redis-web
+COMMAND COMMAND
+CREATED
+CREATED
+"docker-entrypoint.s"docker-entrypoint.s_"
+2 months ago 2months ago
+STATUS
+STATUS
+PORTS
+Exited(255)About anhour
+ago
+Exited(255)Aboutan
+hour
+ago
+NAMES PORTS
+33060/tcp,0. Q.@.0.016379

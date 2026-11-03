@@ -1,0 +1,17 @@
+# OCR: 97cd889f6858c63be864532defe2cf1a.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/97cd889f6858c63be864532defe2cf1a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+g
+clara的安卓手机>
+P
+基本信息>
+短信》
+联系人>
+ Wechat
+(WeChat)(2024-07-1016:52:52)
+2024-07-10 16:52:52
+在 Wechat 中搜素
+[WeChatlWeChatverificationcode(945025)mayonlybeusedoncetoverifymobilenumber.Foraccountsafety,don'tforwardthecodetoothers

@@ -1,0 +1,27 @@
+# OCR: 2da22847c01f57567f8ab1a46c61b876.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/2da22847c01f57567f8ab1a46c61b876.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+UuSeuSVc 371srv
+382 storgosflt
+386 SunloginService 397 tcpipreg
+454VGAuthService 478 VMTools
+ServerSMBl.xxxDriver
+c
+StorageQosFilterDriver SunloginService
+TCP/IPRegistryCompatibility
+VMwareAliasManagerandTicketService VMware Tools
+UIUIL SYSTEM SYSTEM SYSTEM
+SERVICE AUTO START SERVICEAUTOSTART SERVTCEAUTOSTART SERVICE AUTO START SERVICEAUTOSTART SERVICE AUTO START
+SERVICE RUNNING SERVICE RUNNING SERVICE RUNNING SERVICE RUNNING SERVICE RUNNING SERVICE RUNNING
+110CESS Driver Driver Process Driver Process Process
+U
+FILESYSTEMDRIVOx2e49fb5d9System32\DRIVERS\srV.sys
+FILESYSTEMDRIV0x2e49fb617system32/drivers/storgosflt.sys
+OWN
+KERNEL DRIVER
+OWN OWN
+Ox2e49fb616"c:/ProgramFiles|0Oray/SunLoginSunlog 0x2e49fb622System32\drivers\tcpipreg.sys
+0x2e49fb688"c:/ProgramFileslVMwarelVMwareTools 0x2e49fb663"c:ProgramFilesVMwarelVMwareToolsl

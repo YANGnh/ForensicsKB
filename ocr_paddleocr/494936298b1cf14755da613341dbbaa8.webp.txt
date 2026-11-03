@@ -1,0 +1,15 @@
+# OCR: 494936298b1cf14755da613341dbbaa8.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/494936298b1cf14755da613341dbbaa8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+我不想努力了
+1 (2).jpg 共享
+详细信息
+类型大小
+文件位置
+修改日期分辨率
+JPG文件 275KB D:\test
+2025/5/1513:59
+598x643

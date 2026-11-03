@@ -1,0 +1,10 @@
+# OCR: e855f81ad2937cc16882888c7c475fd7.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/e855f81ad2937cc16882888c7c475fd7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+title
+url
+021點玩家指南-了解如何https://casino.bet365.com/player-guides/zh-CHT/blackjack
+numc

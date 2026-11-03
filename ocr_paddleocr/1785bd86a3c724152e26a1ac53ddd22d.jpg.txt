@@ -1,0 +1,24 @@
+# OCR: 1785bd86a3c724152e26a1ac53ddd22d.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1785bd86a3c724152e26a1ac53ddd22d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+：Clara的安卓手机
+口三序号口1 口2 口3 口4 口5 口6 07 口8 口9 □10 □11 □12 口13
+名称过滤名称
+操作系统
+操作系统版本 Android ID
+厂商型号
+蓝牙名称
+蓝牙MAC地址
+IMSI 时区广告ID
+P基本信息
+已启用位置服务允许模拟位置
+设备信息三内容过滤 Ige
+Android 8.0.0
+6d818c2840b29753 LGE
+LG-H930 Claraaaaaa
+08:d4:6a:7f:1a:ed 454000082753084 Asia/Hong_Kong
+970b57ce-46c7-4f55-b253-e5d4f30ddc82
+True False

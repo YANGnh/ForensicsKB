@@ -1,0 +1,11 @@
+# OCR: ed15c73f09aa9f8387b65e698a9e2c4c.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/ed15c73f09aa9f8387b65e698a9e2c4c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+V
+网站服务器 2828 二表 v
+think_admin
+think_admin_config think_admin_log
+think_caji think_cajin think_config thinkfenadd think_fenxia think _fh

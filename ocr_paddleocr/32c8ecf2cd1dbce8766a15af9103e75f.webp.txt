@@ -1,0 +1,15 @@
+# OCR: 32c8ecf2cd1dbce8766a15af9103e75f.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/32c8ecf2cd1dbce8766a15af9103e75f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+9:25
+A
+人
+用户名密码
+欢迎登录
+我已阅读并同意
+政策》
+《用户协议》和《隐私登录
+没有账号，前往注册

@@ -1,0 +1,33 @@
+# OCR: 5567fb25e346162b7a739c9d9ff1f069.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/5567fb25e346162b7a739c9d9ff1f069.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+?
+我的密码.kdbx-KeePass
+File
+Group
+白我的密码
+Group:我的密码 0of5selected
+Entry 8
+Find
+Ready
+View Title baidu gate.io
+Tools
+Help 间
+Search...
+UserName chenhaobei chewhaoN
+4throadempty
+勿念陈媛
+PC
+Pgithub
+haobei chewhao
+Password ★******* ★★★★★★★★ ★★★★★★*★ ★★★★★★★★ ★★*★★★*★
+URL
+bing.com qithub.com
+sidajiekong.com diannao
+duckduckgo.com
+Notes
+口
+x

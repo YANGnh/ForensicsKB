@@ -1,0 +1,13 @@
+# OCR: b5f4ca0eb3f876c42849ece62d7fe19a.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/b5f4ca0eb3f876c42849ece62d7fe19a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+用户信息(1）
+Okk
+8617314950004
+账号
+用户昵称电话号码是否已删除
+8617314950004 Okk
+8617314950004 否

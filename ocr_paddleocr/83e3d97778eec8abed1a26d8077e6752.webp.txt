@@ -1,0 +1,47 @@
+# OCR: 83e3d97778eec8abed1a26d8077e6752.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/83e3d97778eec8abed1a26d8077e6752.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+迪
+数据库取证工具V2.9.0.3180
+5数据预览
+Q、请验入表名膜全选
+默认排序V 总表数：122已送：0
+实例1
+[F:Vforensics)anjlan)茗信.
+mysql
+ information_schema performance_schema  sys
+xiaoshuo  chapters mcontents novels
+c
+9
+8
+a
+Q致据解析表记录
+状恶
+@
+P
+表结构
+日导出表记录
+novel_id
+口
+回
+口
+e
+T
+D
+迪
+novel_name hongloumeng liaozhaizhiyi sanguoyaryi shuihuzhuan xiyouji
+:0.10KB/s 1:0.10KB/s
+create_time
+2025-10-21 15:39:27 2025-10-21 15:39:28 2025-10-21 15:39:29 2025-10-21 15:39:29 2025-10-21 15:39:29
+CPU: 29 % CPU: 内存：23%38℃
+器 A
+民服务管理
+eo
+? 500/页^
+中 M
+=3× 详情视图
+别第1页
+2025/vg 15:42

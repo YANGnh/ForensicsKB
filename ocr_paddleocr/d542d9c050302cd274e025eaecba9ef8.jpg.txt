@@ -1,0 +1,23 @@
+# OCR: d542d9c050302cd274e025eaecba9ef8.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/d542d9c050302cd274e025eaecba9ef8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+g
+个人计算机
+三序号口1 □2 口3 口4 口5 口6 口7 口8
+IP 过滤
+MobaXterm>会话
+三端口号过滤
+192.168.71.137 192.168.71.137 192.168.71.137 192.168.71.137 192.168.71.100 192.168.71.100 192.168.71.100 192.168.71.100
+22 122 22 122
+用户名过滤 root root droid droid root root droid droid
+密码过滤
+OP2024fic OP2024fic droid2024fic droid2024fic OP2024fic OP2024fic droid2024fic droid2024fic
+三连接名称过滤
+三时间起始
+结束
+三协议类型
+过滤 ssh
+ssh ssh ssh

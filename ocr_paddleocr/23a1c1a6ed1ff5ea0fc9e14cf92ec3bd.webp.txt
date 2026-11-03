@@ -1,0 +1,14 @@
+# OCR: 23a1c1a6ed1ff5ea0fc9e14cf92ec3bd.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/23a1c1a6ed1ff5ea0fc9e14cf92ec3bd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+"power_bookmark_meta"： name"：“宝塔Linux面板"，"show_icon"：false,
+"user_add",
+"source":
+"url"
+"type"：
+"https://172.22.4.253:16724/c38b336a*
+"uri"：
+"visit_count"：1

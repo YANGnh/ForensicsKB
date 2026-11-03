@@ -1,0 +1,28 @@
+# OCR: f917b055565e9b5345ee192f345bd142.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/f917b055565e9b5345ee192f345bd142.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+基本设置主要
+节点列表
+DNS
+节点订阅
+Core 运行中
+日志
+FAQ
+高级设置
+主开关
+节点
+路由器本机代理
+节点Socks监听端口
+负载均衡
+组件更新
+规则管理
+访问控制
+百度连接点我检测
+Hysteria2：[us美国洛杉矶01-hy2] 当勾选时，
+路由器本机可以透明代理
+1070
+服务器端编辑日志
+查看日志

@@ -1,0 +1,29 @@
+# OCR: 6ce8d739c6fcadec3640bbb91dd844db.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/6ce8d739c6fcadec3640bbb91dd844db.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+importmatplotlib.pyplotasplt
+frommatplotlib.font_manager import FontProperties importstring
+fig,axes=plt.subplots(nrows=4,ncols=3,figsize= axes=axes.flatten()
+word_codes_1ist=[[115，101，115,115,105,111,11 for iword_codesinenumerate(iterable=wordcodes1
+ax =axes[i]
+ax.set_xlim(o，len(word_codes)+1)
+ax.set_ylim(o，3) ax.set_xticks([]) ax.set_yticks([)
+word =.join([chr(code) for code in word_codes ax.text(o.5,1.5,word,fontsize=24,ha='left',
+plt.tight_layout) plt.show()
+输出
+调试控制台
+终端
+端口
+2025FIC决赛\exports\phishing>Python-u"g:12025FIC沃 2025FIC决赛\exports\phishing>Python-u"g:2025FIC法
+&Figure1
+区
+session crouch approve square
+B
+fever ticket village also
+sponsor
+twist finish cook
+口
+x

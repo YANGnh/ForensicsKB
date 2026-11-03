@@ -1,0 +1,23 @@
+# OCR: 03e91f60721b7fa62b23507ae7a4c339.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/03e91f60721b7fa62b23507ae7a4c339.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+firefox.exe
+TreeDepth
+156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171
+0 0 0 0 0 0 O O
+0 0 0 0 O o
+7388 2768 10684 9240 3108 5224 8732 7496 10580 10520 10448 5568 10332 11336 11356 11496
+行159:firefox.exe 行160:firefox.exe 行161:firefox.exe 行162:firefox.exe 行163:firefox.exe 行164:firefox.exe 行165:firefox.exe 行168:firefoxexe 行196:firefox.exe
+PID
+PPID 844 844 704 5260 9240 9240 9240 9240 9240 9240 4520 10448 9240 10448 10448 10448
+ImageFileName ShellExperienc RuntimeBroker WUDFHost.exe
+firefox.exe firefox.exe firefox.exe firefox.exe firefox.exe firefox.exe firefox.exe chrome.exe chrome.exe firefox.exe chrome.exe chrome.exe chrome.exe
+offset(V) Ox818a2d341080 Ox818a2f7e82c0 Ox818a2fb6b340 Ox818a38ff5300 0x818a2f8:4080 0x818a382cc2c0 Ox818a2de442c0 0x818a2de3b080 Ox818a2fb7e080 0x818a3a2d60c0 Ox818a374d60c0 Ox818a2df020c0 0x818a36fd4080 0x818a391cc080 Ox818a318f4080 0x818a372ce080
+Thr 11
+4 6 75 33
+22 24
+15 41
+15 17 17 C

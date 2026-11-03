@@ -1,0 +1,12 @@
+# OCR: 23ed895667eb524b9105c1c4470cf237.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/23ed895667eb524b9105c1c4470cf237.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+用户名或者码输入错误，请重新输入！
+弘连比武-档案系统
+admin.
+5A76k
+登录
+Xz6k

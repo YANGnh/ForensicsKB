@@ -1,0 +1,61 @@
+# OCR: e9f242122bc31a3a5217ee4452655489.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/e9f242122bc31a3a5217ee4452655489.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+home\haobeiy.local/share\Mousepad
+口文件名称一.=
+share(6)
+门.
+=Mousepad (1)
+autosave-0
+一分区 offset 00000000 00000010 00000020 00000030
+文件
+0
+63 3A
+1
+68 20
+64
+25
+00
+00
+回预览
+2 72 63 64 00
+3 6F 68 0A 00
+?措述
+存在的，已添加标记..
+存在的存在的
+详细
+5
+4 6D 65 00 00
+65 77 00 00
+了文件类型
+口缩略图 6
+20 68 00 00
+7
+70 61 00 00
+时间轴
+8
+61 6F 00 00
+9 73 4E 00 00
+A 73 40 00 00
+路径
+Thomelhaobeiy.local
+home\haobei.local/share
+home\haobei.local/share/Mousepad
+图例说明
+B 77 25 00 00
+c 6F 64 00 00
+D 72 25 00 00
++
+E
+64 64 00 00
+F 20 25 00 00
+同步
+UTF-8
+chrcme1
+password
+chewhaoN@%d%d%
+d%d
+00000000000

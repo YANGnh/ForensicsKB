@@ -1,0 +1,75 @@
+# OCR: 5e03ca306b6d09e48429c16688d03759.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/5e03ca306b6d09e48429c16688d03759.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+区G
+应用显示过滤器
+..≤Ctrl-
+分组详情
+Options:宽窄
+lo.
+V
+字符串
+Time
+350.024619 360.025620 370.025620 380.026618 390.027620 400.028620 410.028620 420.029620 430.030620 44 0.031160 450.031160 460.032138 47 0.033138 48 0.033138 490.034138 500.035139 510.035740 520.036266 530.037245
+价 V
+devicename
+V口区分大小写
+?
+@
+OBackwards
+亚品@
+Multiple occurrences
+Source
+07:a3:79:06:60:1a 07:a3:79:06:60:1a 3b:5e:85:e0:8c:92 3b:5e:85:e0:8c:92 3b:5e:85:e0:8c:92 2b:50:45:71:9d:64 2b:50:45:71:9d:64 2b:50:45:71:9d:64 26:29:94:00:5b:f1 26:29:94:00:5b:f1 26:29:94:00:5b:f1 80:e1:26:33:32:31 80:e1:26:33:32:31 64:6d:69:c8:99:30 80:e1:26:33:32:31 80:e1:26:33:32:31 50:c9:17:73:9f:d5 80:e1:26:33:32:31 36:a5:5e:6a:e5:82
+Destination Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast
+80:e1:26:33:32:31
+Broadcast Broadcast
+80:e1:26:33:32:31
+Broadcast Broadcast
+O...=SimultaneousLEandBR/EDRtoSameDeviceCapable(Controlle.1.=BR/EDRNotSupported:true（ox1)
+..1.=LEGeneralDiscoverableMode:true(oxl)..o=LELimitedDiscoverableMode:false（Oxo)
+DeviceName:Flipper123all
+Length:15
+0000 0010 0020 0030
+03 79
+33 d6
+ofo9
+00 be 46
+030282
+03 89 6c
+4f 8e 69
+Protocol
+LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL
+el 20 70
+02 20 70
+Oa 31 65
+0obo
+30
+02
+Oa
+91 32
+25 33
+72 20 852c
+28 26
+00 el
+31
+32
+Length Info
+63ADVNONCONNIND 63ADV NONCONN IND 63ADV NONCONN IND 63 ADV NONCONN IND 63ADV NONCONN IND 63ADVNONCONNIND 63ADV NONCONN IND 63 ADV NONCONN IND 63ADV NONCONN IND 63 ADV NONCONN IND 63 ADVNONCONN IND
+58ADVIND 58 ADV IND 38SCANREQ 32SCANRSP 58ADV IND 38SCANREQ 32SCANRSP
+63ADvNONcoNNIND[MalformedPacket
+00 80 33
+5c 02
+51 01
+d8 06
+61
+6c
+6c
+-3..0...%(..Q
+y....
+123&.
+.-Flippe r 123all..0...
+查找

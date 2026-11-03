@@ -1,0 +1,39 @@
+# OCR: dc411a2f32008d66a8afcfa7793f614e.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/dc411a2f32008d66a8afcfa7793f614e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+面板日志
+网站：
+网站日志
+www.gsjksu2kig.com
+网站日志清理日志
+操作日志导出日志
+192.168.2.180 192.168.2.180 Safari/537.36"
+日志审计旨需求反馈
+web日志分析
+【26/Jun/2024:16:15:37+0800]【26/Jun/2024:16:1537+0800]
+SSH登录日志
+GET"GET
+软件日志
+/admin.phpHTTp/1
+392
+/admin.php/login/index.html
+"Mozilla/5.e（windowsN
+HTTP/1.1"
+209869
+Moz
+-[26/Jun/2024:16:15:37+0800]"GET/admin.php/captcha.htmlHTTP/1.1"20e590"http://www.gs
+192.168.2.180-
+(KHTML,1ikeGecko)Chrome/126.0.0.0 Safari/537.36"
+192.168.2.180--[26/Jun/2024:16:15:49+0800]"P0ST/admin.php/1ogin/1ogin.htmlHTTP/1.1" ApplewWebkit/537.36（KHTML，likeGecko）Chrome/126.0.0.eSafari/537.36
+192.168.2.180--[26/Jun/2024:16:15:50+0800]"GET/admin.php/index/index.htmlHTTP/1.1" Applewebkit/537.36（KHTML,1ikeGecko)Chrome/126.0.0.0Safari/537.36
+200111
+2002642
+192.168.2.180-
+-[26/Jun/2024:16:15:54+0800]"GET/admin.php/authgroup/index.htmlHTTP/1.1"
+ApplewebKit/537.36（KHTML1ikeGecko)Chrome/126.0.0.0Safari/537.36
+"http://"http://
+"htt
+2002364

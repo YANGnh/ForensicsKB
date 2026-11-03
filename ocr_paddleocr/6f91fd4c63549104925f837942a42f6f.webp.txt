@@ -1,0 +1,20 @@
+# OCR: 6f91fd4c63549104925f837942a42f6f.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/6f91fd4c63549104925f837942a42f6f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+=-ORDERBY
+create_time
+1510885948 1606565764 1655207512 1684548848 1718333398
+update_time
+1718331413 1719212406 1655209845 1684548848 1718453225
+Dlogin_timey
+Dname
+1728223881mradmin
+iiangtx
+1719211782
+1655209845 1683832456 1718453225
+9wwdNdTteif8 xYpMLuROhN 9Ld210X33E
+Dnich mradmi wfhwei
+李吴 rr

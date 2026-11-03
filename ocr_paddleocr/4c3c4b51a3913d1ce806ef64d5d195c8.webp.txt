@@ -1,0 +1,36 @@
+# OCR: 4c3c4b51a3913d1ce806ef64d5d195c8.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/4c3c4b51a3913d1ce806ef64d5d195c8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+F 3 4 0 3
+F2 FD 89 F2 52 4D
+451
+cc 16 E9 69 35 66
+7F F5 4A AD 2D A5
+4568
+BD F4 05 40
+6A 07
+5F 87 34 88 52 63 FF
+37 FC F6 DA 60 50
+FE B3 A5 9D 25 03
+D9
+31
+CD 1F AE 45 4 29
+5F EF 73 14 51 3B
+EA
+21
+57 Ao 00 52 D2
+85 4D 9B 01 D2
+FE 5B BE A9 45 ZF
+AF6B 00
+73 F4
+BE
+9E
+c6
+5E
+B4 B494 14
+5002 155201
+3437393633323538
+?oi.y 7bf é!y.k.y.0ou3.iw...[sz A%eJ40??sM%0EA 0i-@"U.E..>@*." R5-#R*%.QR.E.P Mf?jcP.);00..R oQEh.yU147963258

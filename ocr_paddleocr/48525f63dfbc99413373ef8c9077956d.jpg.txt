@@ -1,0 +1,17 @@
+# OCR: 48525f63dfbc99413373ef8c9077956d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/48525f63dfbc99413373ef8c9077956d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+设置通知通知类型
+ServerChan(Server酱）显示名称
+ServerChan通知（1） SendKey
+SCT36712MKSYUBEO7flBN7F05lwixlb6t
+默认开启
+新的监控项将默认启用此通知，您仍然为每个监控项单独禁用，
+应用到所有现有监控项
+删除
+测试
+保存
+x

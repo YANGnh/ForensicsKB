@@ -1,0 +1,19 @@
+# OCR: 8586599f52a6181ee2407d8272b8b127.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/8586599f52a6181ee2407d8272b8b127.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+g
+品App分析>
+骨：检材1-手机.tar>！
+APK列表
+三序号口1
+三图标过滤
+三名称过滤
+LinuxDeploy
+三包名 linux
+ru.meefik.linuxdeploy
+三版本号过滤 3.1.0
+三大小等于
+34.48MB

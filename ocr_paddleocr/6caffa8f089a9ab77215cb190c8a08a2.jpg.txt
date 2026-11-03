@@ -1,0 +1,23 @@
+# OCR: 6caffa8f089a9ab77215cb190c8a08a2.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/6caffa8f089a9ab77215cb190c8a08a2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+http&&httpcontains'phpmyadmin&&httpcontainsversion
+No.
+Time
+Source
+1678134.013911
+192.168.85.250
+1754134.240819192.168.85.130
+Destination
+192.168.85.130 192.168.85.250
+ProtocolLengtlInfo
+HTTP HTTP
+711
+HTTP/1.1 200
+oK
+(text/html)
+743GET/phpmyadmin/version_check.php?&_nocache=1560431171279220602
+HTTP/1.1

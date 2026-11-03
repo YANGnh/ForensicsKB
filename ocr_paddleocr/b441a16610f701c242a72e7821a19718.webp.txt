@@ -1,0 +1,27 @@
+# OCR: b441a16610f701c242a72e7821a19718.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/b441a16610f701c242a72e7821a19718.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+Detect It Easy v3.10 [Windows 10 Version 20091 (x86 64 文件名
+C:(Users/25046)Desktop)APKMessenger4.1/a
+文件类型 PE32 扫描自动 PE32
+文件大小
+3.11MiB
+字节序
+LE
+操作系统：WindoWs(95)[1386,32位，GUl
+链接程序：MicrosoftLinker(8.0) 语言：C#
+库：.NETFramework(v4.5.2.CLRv4.0.30319) 工具：VisualStudio
+模式
+(Heur)保护:Obfuscation[Virtualization+Watermark]
+32位
+架构
+1386
+类型
+GUI SS S S S S
+？
+口
+x
+高级选项

@@ -1,0 +1,28 @@
+# OCR: 116e64bdb7d37cd41fc2ad8f1f3c2155.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/116e64bdb7d37cd41fc2ad8f1f3c2155.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+232024/08/2300:03:02.691 242024/08/2300:03:02.790
+25start: 26version:
+9208 9208
+4100S0 4100S0
+2024/08/2300:03:02.767 15.55.3(64-bit)
+27Versionshorthash:65211o9ofce 28ID:
+29Loglevel: 30License:
+31IC: 32CPU:
+33cPuextensions:
+34os: 35IP： 36MID: 37MIDV:
+38Proxy-settings: 39IE
+40AppPath:
+4lUserAccount: 42
+Info 0
+-1189461294
+Desiredservices:waitingforser(UTC-7:00)
+Inte164Family6Mode1183Stepping1,GenuineIntel 19
+win_10.0.19045_w（64-bit) 192.168.182.128
+0x000c2964d3a01d5acdec86241be3196037202 o
+Type=lIP=User= 11.3636.19041.0
+C:\ProgramFiles|TeamViewer\TeamViewer_Service.exe SYSTEM
+50a

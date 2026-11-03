@@ -1,0 +1,34 @@
+# OCR: 377c2cea19a79ac6533d223b6c5abf35.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/377c2cea19a79ac6533d223b6c5abf35.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+命令提示符
+X
++
+Watchdog:Temperature abort trigger set to 9oc Host memory required for this attack: 1473 MB 2c8b52dcc3af1307f868dd326535a763:881015@zy666
+Session. Status
+Hash.Mode
+Hash.Target. Time.Started.
+Time.Estimated. KerneltFeature. Guess.Mask.
+Guess.Charset Guess.Queue
+Speed.#1 Recovered Progress. Rejected.
+Restore.Point. Restore.Sub.#1.
+hashcat Cracked
+1000 (NTLM)
+2c8b52dcc3af1307f868dd326535a763 MonApr2121:50:572025(6secs) Mon Apr 21 21:51:03 2025 (0 secs) PureKernel
+?d?d?d?d?d?d@?1?1?1?1?1[12!
+-1 ?d?l,-2 Undefined,-3 Undefined,-4 Undefined 1/1 (100.00%)
+11205.6MH/s(9.44ms)@Accel:128Loops:125Thr:256Vec:1 1/1(1oo.0o%)Digests
+65003520000/60466176000000（0.11%） 0/65003520000（0.00%
+64880640/60466176000（0.11%)
+Salt:oAmplifier:o-125Iteration:o-125
+Candidate.Engine：DeviceGenerator
+Candidates.#l.
+123482@90are->912763@4p012
+Hardware.Mon.#l..:Temp:66cUtil:94%Core:1777MHzMem:700oMHzBus:8
+Started：MonApr2121:50:552025 Stopped:MonApr2121:51:042025
+E：4.学习调研工具集/T-BoXforJelly\工具（3密码工具）【（8hashcat\hashcat-6.2.5>
+口
+x

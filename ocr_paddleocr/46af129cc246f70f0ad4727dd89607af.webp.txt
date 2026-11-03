@@ -1,0 +1,44 @@
+# OCR: 46af129cc246f70f0ad4727dd89607af.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/46af129cc246f70f0ad4727dd89607af.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+对象
+mhuser@g3xiwj（2025解手杯服务.
+表配置文件、
+id
+#int(10)
+35 36 37 38 39 40 41
+site
+昆开始事务
+upsite
+Bcvarchar
+分站(Null)(Null)(Null)(Null)(Null)(Null)(Null)
+景筛选&排序用列
+单元格编辑器
+user
+#int(11) 上级站点
+0 0 0 0 0 0 0
+aBcvarchar(255)
+123 ewrty yresf
+34wedfrtg 5432ef fdaty5
+ZrAuyMT1tyo
+pwd
+aBcvarchar(255) 123
+erdfgthj 453g54r 534
+tr54edfr r567
+ZrAuyMT1tyo
+斤品工具、
+数据分析
+rmb
+#decimal(12
+8848.00 542.00 4561.50 78.50 2784.00 408.00
+451000.00
+jifen
+Bcvarchar
+20 0 0 0 10 0 o
+name
+cvarchar
+(Null)(Null)(Null)(Null)(Null)(Null)(Null)
+sex#

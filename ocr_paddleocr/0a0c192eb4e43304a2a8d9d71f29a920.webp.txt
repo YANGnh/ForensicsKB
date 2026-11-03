@@ -1,0 +1,42 @@
+# OCR: 0a0c192eb4e43304a2a8d9d71f29a920.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/0a0c192eb4e43304a2a8d9d71f29a920.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+De Detect It Easy v3.10 [Windows 10 Version 2009] (x86 64) 文件名
+>
+文件类型 PE64 扫描自动 PE64
+文件大小
+5.65MiB
+字节序 LE
+.tj_enorypt_file.exe.exe
+模式 64位
+操作系统：Windows(Server2003)[AMD64,64位，控制台] 链接程序：MicrosoftLinker(14.32.31328)
+编译器：MicrosoftVisualC/C++(19.32.31328)[C]
+语言：C/C++ 语言：Python
+工具:VisualStudio(2022version17.2)
+打包工具：Pylnstaller 附加：Binary
+数据：ZLIBdata[ZLIBcompressionbest]
+存档记录[unpacked]：Binary
+格式:Python Compiled Module(3.7b5)[Magic tag:3394]
+签名目录
+?递归扫描
+日志
+√深度扫描
+所有类型
+■启发式扫描
+详细
+>
+架构 AMm64
+348毫秒
+类型控制台
+S S
+S S S S
+S S
+扫描
+??? 2???
+？?
+口
+x
+高级选项快捷键选项关于退出

@@ -1,0 +1,16 @@
+# OCR: e6aaef0bdd1caf1c776fe0ec417eb181.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/e6aaef0bdd1caf1c776fe0ec417eb181.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+3:br-09fa523470e9:<BROADCAST,MULTICAST,UP,LOWER_UP>mtu1506 roupdefault
+Link/ether2e:5b:61:01:36:21brdff:ff:ff:ff:ff:ff
+inet172.19.0.1/16brd172.19.255.255scopeglobalbr-09fa
+validlft foreverpreferredlftforever
+inet6fe80:2c5b:61ff:fe01:3621/64scopelink
+validlftforever preferredlft forever
+4:br-3b4688fabaf1:<BROADCASTMULTICAST,UPLOWERUP>mtu1506 roupdefault
+link/ether 4a:5f:e7:24:8b:53 brd ff:ff:ff:ff:ff:ff
+inet172.18.0.1/16brd172.18.255.255scopeglobalbr-3b46
+validlft forever preferredlft forever

@@ -1,0 +1,54 @@
+# OCR: 76d0d45740ed940aff665592f38d3c96.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/76d0d45740ed940aff665592f38d3c96.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+JsersladminAppDatalLocal/D
+文件名称一
+=Microsoft.Micros =LocalState(6)
+DiagOutputDir(2) Ecs.dat
+plum.sqlite
+plum.sqlite-shm plum.sqlite-wal
+DBBrowserforSQLite-G:2025FIC决赛\exports\plum.sqlite
+文件(F)
+编辑(E)
+新建数据库（H）数据库结构(D) 表(T)：国Note
+过滤
+查看(v)
+工具(T)
+帮助(H)
+打开数据库（0）写入更改（W）
+浏览数据(B)
+Iext
+编辑杂注(R)
+执行SQL(x)
+过滤
+id=c404e8a8-2939-420e-82a3-9e11e26... 1id=e42e3016-61a2-4c25-90f3-8385351.../Nid=4134cea7-c61e-4afd-..
+倒退更改(R）
+国
+A
+品
+会销(u）
+过滤任何列
+WindowPosition
+ManagedPosition=
+ManagedPosition=DeviceId:l?.. ManagedPosition=DeviceId:?..
+打开项目(P）
+IsOpen 过滤
+0 1 1
+保存项目（s) IsAlwaysOnTop 过滤
+营附加数据库（A）
+X关闭数据库（C)
+编辑数据库单元格（C）模式：文本
+口
+x
+-420e-82a3-9elle262a6ccspecialyear:pass=(wo+rd)*2
+CreationHot 过滤
+NULL 0
+0 0
+NULL NULL
+编辑行=1_：
+类型：文本／数字：大小：67个字符数据库架构（M）
+应用
+品x

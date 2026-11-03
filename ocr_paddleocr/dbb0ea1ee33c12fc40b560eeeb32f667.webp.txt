@@ -1,0 +1,11 @@
+# OCR: dbb0ea1ee33c12fc40b560eeeb32f667.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/dbb0ea1ee33c12fc40b560eeeb32f667.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+4ooGET/upload.aspxHTTP/1.1
+762HTTP/1.14o4NotFound（text/h 399GET/up1oad.phpHTTP/1.1
+486HTTP/1.12000K（text/html） 399GET/up1oad.jspHTTP/1.1
+762HTTP/1.1404NotFound（text/h
+4eoGET/up1oad.htmlHTTP/1.1 548HTTP/1.12000K（text/html）

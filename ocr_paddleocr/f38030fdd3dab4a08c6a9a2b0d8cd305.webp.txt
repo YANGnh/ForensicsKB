@@ -1,0 +1,61 @@
+# OCR: f38030fdd3dab4a08c6a9a2b0d8cd305.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/f38030fdd3dab4a08c6a9a2b0d8cd305.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+59/72
+Community
+Score
+DETECTION
+DETAILS
+O59/72securityvendorsflaggedthisfileasmalicious
+f3e1df88cdf8321780ff08558cdaf834d698f354054646347c4e783121a3fe97 2fb6cd83-7fdc-4cc0-9975-fddb588b691a.tmp
+pedl
+overlay
+RELATIONS
+detect-debug-environment
+BEHAVIOR
+COMMUNITY
+JoinourCommunity.andenjoyadditional community insights andcrowdsourceddetections,plus anAPlkeyto automatechecks.
+Popularthreat label Otrojan.meterpreter/marte Securityvendors'analysis
+Acronis(StaticML)
+AliCloud Antiy-AVL ArcticWolf AVG
+BitDefender
+ClamAV CTX
+Deeplnstinct
+Suspicious
+Threat categories
+Exp:Win/Meterpreter.51b00d96
+Trojan/Win32.Zenpak.ger Unsafe
+Win32:MsfShell-J[Trj]
+Generic.ShellCode.Marte.2.97F14F98 Win.Exploit.Meterpreter-9777172-0
+Dll.unknown.marte MALICIOUS
+trojan
+pua
+FORENSIX
+hacktool
+AhnLab-V3
+ALYac Arcabit Avast
+Avira(nocloud) BkavPro
+CrowdStrikeFalcon
+Cynet DrWeb
+Size
+CReanalyze
+SimilarV
+LastAnalysisDate
+172.59KB
+哆 Familylabels
+meterpreter
+2
+29minutesago
+marte
+shellcode
+MoreV DLL
+Doyouwanttoautomatechecks?
+Backdoor/Win.Meterpreter.R578801 Generic.ShellCode.Marte.2.97F14F98 Generic.ShellCode.Marte.2.97F14F98
+Win32:MsfShell-J[Trij] TR/Dropper.Gen2
+W32.AIDetectMalware
+哆 FORENSIX.
+Win/malicious_confidence_100%(w) Malicious(score:100)
+BackDoor.Meterpreter.274

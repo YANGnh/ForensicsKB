@@ -1,0 +1,24 @@
+# OCR: 582a31a9c0839637ba3338d580e1fedf.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/582a31a9c0839637ba3338d580e1fedf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+2 3 A 5 6 1 8 9 10 11 12
+A
+Cname
+曹香陈夷茂窦茹锐黄木发马伟苗华伍晓菁向芬郑洪安支婉静
+B
+Gender
+F E F M M F M F M
+Birthday 19810501 19740713 19830825 19680721 19800728 19740313 19830606 19820907 19700307 19810319
+D
+Mobile
+E EMail
+18851082222yaoda***@163.com 1831194333319740***6@qq.com
+18752084444dour***ui@hotmail.com
+18960765555xmww***1@sina.com 18921286666marwe***@163.com
+18823707777miaoh***.m@qmail.com 18721708888hhhhy***@qmail.com
+18396059999zheng***ngxu520@sina.com.cn
+18943191111zhon***n@126.com 18561928865ipave***163.com
+F

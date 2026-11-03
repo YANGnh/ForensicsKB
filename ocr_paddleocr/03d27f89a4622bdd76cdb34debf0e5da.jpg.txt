@@ -1,0 +1,30 @@
+# OCR: 03d27f89a4622bdd76cdb34debf0e5da.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/03d27f89a4622bdd76cdb34debf0e5da.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+终端
+root@pve:~# qm list
+VMID NAME
+10e Router 101 node1 102node2 103node3
+111javaserver 112sqlserver 12eluck
+root@pve:~#qmstop1e2 trying to acquire lock.. OK
+root@pve:-# gmstart 1o2
+STATUS running running running stopped stopped stopped stopped
+MEM（MB）
+256 4096 4096 4096 2048 4096 4096
+BOOTDISK(GB）PID
+0.501200 50.001323 50.002189
+50.00 20.00 80.000 60.00
+WARN:no efidisk configured!Using temporaryefivars disk
+Taskfinishedwith1warning(s)! rootdpve:~#qmlist
+VMIDNAME 10e Router 101 node1 102node2 103node3
+111javaserver 112sqlserver 120luck
+root@pve:~#
+STATUS running running unning stopped stopped stopped stopped
+MEM（MB）
+256 4096 4096 4096 2048 4096 4096
+BOOTDISK(GB）PID
+0.501200 50.001323 50.002928
+50.00 20.00 80.000 60.000

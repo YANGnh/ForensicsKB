@@ -1,0 +1,16 @@
+# OCR: 3fcdee179c754cb4f7f3f7dbcd41e767.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/3fcdee179c754cb4f7f3f7dbcd41e767.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+od 文道德义道德义道德义道德义道德文道德义道德
+仁文道义道德
+文道穗仁义道湾仁义道博忙义道德
+仁义道
+仁义道德义道
+仁义道
+文道德义道德
+仁义道德仁义道德仁义道义道捷文道德义道德仁文道德仁义道德仁义道德
+义仁义仁义义义
+义仁义

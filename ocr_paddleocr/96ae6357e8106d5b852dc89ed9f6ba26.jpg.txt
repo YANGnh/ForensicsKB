@@ -1,0 +1,22 @@
+# OCR: 96ae6357e8106d5b852dc89ed9f6ba26.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/96ae6357e8106d5b852dc89ed9f6ba26.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+对象
+history_items @main (History)-表
+国表配置文件 id
+#INTEGER
+78 79 80
+开始事务 history_item#INTEGER
+2 13 44
+history_visits@main(History)-表
+单元格编辑器筛选&排序列
+visittime#REAL
+743991738.125929 743991761.336405 743991772.077655
+title ABCTEXT
+数据分析工具
+loadsuc#BOOLE
+宝馬资香港宽馬
+【百家樂萬用懒人包】玩法介绽六合彩-Google 搜寻

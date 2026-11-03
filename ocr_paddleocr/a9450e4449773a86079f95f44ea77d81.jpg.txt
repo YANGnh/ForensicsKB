@@ -1,0 +1,30 @@
+# OCR: a9450e4449773a86079f95f44ea77d81.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/a9450e4449773a86079f95f44ea77d81.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+node2-5 node2-1 node2-3 node2-2 node2-4
+到
+IncomingIPy4
+来自
+wan
+此设备，端口25555 IncomingiPv4
+来自
+wan
+到
+此设备，端口21111 IncomingiPv4
+来自
+到到到
+wan
+此设备，端23333 IncomingIPy4
+来自
+wan
+此设备，端口22222 IncomingIPy4
+来自
+wan
+此设备
+端口24444
+转发至转发至转发至转发至转发至
+lan lan lan lan lan
+IP192.168.100.102端5555 IP192.168.100.102端口1111 IP192.168.100.102端3333 IP192.168.100.102端2222 IP192.168.100.102端4444

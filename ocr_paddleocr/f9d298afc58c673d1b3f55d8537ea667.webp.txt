@@ -1,0 +1,16 @@
+# OCR: f9d298afc58c673d1b3f55d8537ea667.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/f9d298afc58c673d1b3f55d8537ea667.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+名称：personal_data.xlsx
+扩展名：xlsx 类型：文件
+大小：10.67KB
+创建时间：2024-08-1916:23:56 访问时间：2024-08-1916:23:56 修改时间：2
+2024-08-1916:23:56
+MetaAddr:131695
+AliceMobile.bin/1/media/o/WhatsApp/Media/WhatsAppDocuments/personaldata.xlsx
+全路径：
+MD5：5457D5A68673B8D093D7666D515CCCB2
+加密类型：未加密已删除：否

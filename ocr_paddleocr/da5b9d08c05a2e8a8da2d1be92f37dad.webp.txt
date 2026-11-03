@@ -1,0 +1,31 @@
+# OCR: da5b9d08c05a2e8a8da2d1be92f37dad.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/da5b9d08c05a2e8a8da2d1be92f37dad.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+格式
+6
+显示
+窗口
+帮助
+品
+今天 Nas
+14:14LFR iphone
+廊
+10:5131216487945656415
+Aa
+用
+网
+202
+Nas LFR
+i+sCh/8TSpl
+AES CBC
+口
+[A]
+Q
+0
+4月22日周二14:14
+查询“i+sCh/8TSp8rS4Kq2aqaLQ==” 翻译"i+sCh/8TSp8rS4Kg2aqaLQ==” 用“Baidu”搜索
+剪切拷贝粘贴
+段落样式

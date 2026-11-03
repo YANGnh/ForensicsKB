@@ -1,0 +1,13 @@
+# OCR: 8003d83bd2a58d0ee00b066d57b98c8c.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/8003d83bd2a58d0ee00b066d57b98c8c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+23 22 21 20 19 18
+hl123 hl123 hl123 hl123 hl123 hl123
+文件管理数据库管理安装器网站管理数据库管理面板配置
+/data/2023.cn/public/admin.php]重命名为/data/2023.cn/public/4008003721.php]
+备份数据库[shop1]成功！添加安装任务[-74成功
+添加网站[www.hl2023.cn]成功！添加数据库[shop1]成功！
+设置面板端口[8888]域名几默认备份路径[/data/backup默认网站路径[/datal.服务器IP[192.168.157.237授权IP

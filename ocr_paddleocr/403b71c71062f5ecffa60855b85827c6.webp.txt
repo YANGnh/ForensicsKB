@@ -1,0 +1,9 @@
+# OCR: 403b71c71062f5ecffa60855b85827c6.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/403b71c71062f5ecffa60855b85827c6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+.compiiesdkversion=
+android:compileSdkVersionCodename
+package="com.lxlxlx.luoliaon platformBuildVersionCode="28'

@@ -1,0 +1,13 @@
+# OCR: 81216197916ecd237c9a8e0f2629b715.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/81216197916ecd237c9a8e0f2629b715.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+http://112.124.62.187:8080/shell.aspx
+URL
+hitp://112.124.62.187:8080/shell.aspx
+命令执行虚拟终端文件管理内网穿透反弹
+基本信息
+C:/Server/WebSits/admin/>whoam iisapppooaa
+C./ServerWebSits/admin/

@@ -1,0 +1,20 @@
+# OCR: b755a39e0ea03bcf1273e22f477b61d3.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/b755a39e0ea03bcf1273e22f477b61d3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+检材2>
+三序号口1 口2 3
+三标题过滤
+Chrome浏览器>
+Y
+WiresharkPortable643....
+Eraser6.2.0.2993.exe encrypt_file.exe
+下载记录
+URL 过滤
+Y
+https://2.na.dl.wireshark.org/win64/WiresharkPortable... https:/sourceforge.net/projects/eraser/files/Eraser%2... http://192.168.100.100/public/upload/encrypt_file.exe
+三保存位置过滤
+Y
+C:/Users)Administrator/Downloads)WiresharkPortable64.. C:(Users)Administrator)Downloads)Eraser 6.2.0.2993.exe C:Users\Administrator\Downloadslencrypt_file.exe

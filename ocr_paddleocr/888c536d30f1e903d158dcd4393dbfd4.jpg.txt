@@ -1,0 +1,29 @@
+# OCR: 888c536d30f1e903d158dcd4393dbfd4.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/888c536d30f1e903d158dcd4393dbfd4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+192.168.50.162
+首页网站 FTP 数据库园
+监控
+?
+安全
+口文件
+资首页数据库管理
+请在添加数据库后，务必到计划任务】页面添加定时备份任务，以确保您的数据安全。
+添加数据库
+数据库名
+root密码
+yourcode_xyz
+同步选中
+同步所有
+phpMyAdmin
+用户名 yourcode_xyz 从服务器获取
+密码
+**********
+国?
+备份
+无备份【导入
+备注
+yourcode.xyz

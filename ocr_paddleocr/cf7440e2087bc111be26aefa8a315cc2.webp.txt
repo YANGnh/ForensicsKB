@@ -1,0 +1,23 @@
+# OCR: cf7440e2087bc111be26aefa8a315cc2.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/cf7440e2087bc111be26aefa8a315cc2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+ntj encrypt file.exe.exe extracted
+ encrypt_file.py encryptfile.pyc pyinstxtractor.py
+fltj.encryptfile.exe.exe Puncompyle6.exe
+.C:Windows|System32)cmd.exe
+2024/7/614:34 2024/7/614:36 2024/7/614:34 2022/10/294:54 2022/4/42:32 2022/11/119:56
+Microsoft windows
+[版本10.0.19045.4046
+保留所有权利。
+(c) Microsoft Corporation.
+文件夹 PY文件 PYC文件 PY文件应用程序应用程序
+11KB 3KB 17KB
+5.790KB 101KB
+pyinstaller打包程序逆向>unconpyle6.exeencrypt_file.pyc>encrypt_file.py
+中
+file encrypt_file.pyc Deparsing stopped due
+e to parse
+error

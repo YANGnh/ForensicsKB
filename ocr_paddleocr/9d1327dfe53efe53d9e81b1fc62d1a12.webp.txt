@@ -1,0 +1,19 @@
+# OCR: 9d1327dfe53efe53d9e81b1fc62d1a12.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/9d1327dfe53efe53d9e81b1fc62d1a12.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+g
+口三序号口1 口2
+目Linux基本信息>centos_study(BvkCiG-72hF-V5kt-tVIH-h78l-CmcZ-c04GRi)/分区0>网络信息>
+三名称过滤 ens33 lo
+三描述过滤
+三IP地址过滤
+127.0.0.1
+三Mac地址过滤
+4a9f9c89-591a-465..
+三DHCP地址过滤
+网络接口
+192.168.137.22
+三DHCP网关M 过滤

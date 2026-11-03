@@ -1,0 +1,10 @@
+# OCR: 62e54b6cc9fe78e1325296574c7fd902.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/62e54b6cc9fe78e1325296574c7fd902.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+StegSolve1.3byCaesum
+File Analyse Help Colour Inversion (Xor)
+口
+X

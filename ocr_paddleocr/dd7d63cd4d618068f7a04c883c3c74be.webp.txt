@@ -1,0 +1,22 @@
+# OCR: dd7d63cd4d618068f7a04c883c3c74be.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/dd7d63cd4d618068f7a04c883c3c74be.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+详细信息
+名称：WillWight-CradleSeries(Books1-12)-MoBl.torrent^Zone.ldentifier 扩展名：Identifier
+类型：流文件大小：247B
+创建时间：2024-11-1214:10:04 访问时间：2024-11-1214:10:04 修改时间：2024-11-1214:10:04 MetaAddr:1155
+全路径：检材计算机.001/新加卷/Document/DYPG/WillWight-CradleSeries(Books1-12) MoBl.torrentaZone.ldentifier
+加密类型：未加密已删除：否
+原类型视图
+PAGE
+文本视图
+ZoOM
+HIGHLIGHT
+[ZoneTransfer] ZoneId=3
+十六进制视图
+好 G
+ReferrerUrl=http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kgjefnw4wg4ulcad.onion/Thread-Cradle-Series-by-will-wight
+HostUrl=http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kgjefnw4wq4ulcad.onion/attachment.php? aid=4130

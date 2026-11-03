@@ -1,0 +1,39 @@
+# OCR: 7cbd19fb68d2e80b3bea7bb1d7a4eff5.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/7cbd19fb68d2e80b3bea7bb1d7a4eff5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+05/2207:5038UTC
+[inputl <neo>shell net user waferdel
+05/2207:50:38UTC
+[taskl<T1o59>Taskedbeacontorun:netuserwafer/del
+05/2207:50:38UTC
+[checkin] hostcalledhome,sent:5o bytes
+?5/2207:50-38UTC
+[output]
+received output: 命令成功完成。
+05/2207:50:42UTC 05/2207-50-42
+UTC
+[input]
+<neo>netusers
+[error]
+net error:argumentusersisnot a net command
+05/2207-50-46UTC
+[inputl <neo> shell neet users
+05/2207:50-46UTC
+[taskl<T1o59>Taskedbeacontorunneetusers
+e5/22e7:5o:46UTc[checkin]hostcalledhome.sent:41 bytes 05/2207-5046UTC
+[output]
+received output
+"neet！不是内部或外部命令，也不是可运行的程序或批处理文件。
+05/2207:50:50UTc[inputl<ne0>shell netusers 05/2207:50-50UTC
+[task]<T1o59>Tasked beacon torun:net users
+05/2207-50-50UTC
+[checkinl host called home,sent4e bytes
+05/2207:50:50UTC receivedoutput
+[output]
+INDEXUSER的用户帐户
+Administrator 命令成功完成。
+Guest
+www

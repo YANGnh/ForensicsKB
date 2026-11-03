@@ -1,0 +1,17 @@
+# OCR: 057bb868ef30b62f8df0d1d9ee441fe7.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/057bb868ef30b62f8df0d1d9ee441fe7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+ecipe
+romBase64 Alphabet
+A-Za-zo-9+/ Strict mode
+romQuotedPrintable
+：
+Remove non-alphabet chars
+Input
+UE9sVDezMzg5
+12 ABC
+1
+Output PORT389

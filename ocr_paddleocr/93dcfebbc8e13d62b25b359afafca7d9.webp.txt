@@ -1,0 +1,48 @@
+# OCR: 93dcfebbc8e13d62b25b359afafca7d9.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/93dcfebbc8e13d62b25b359afafca7d9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+docker-cluster
+0-3
+品 o
+test
+/3
+》
+C
+MUSTfield1='str'field2=num_id
+1759133154643-77116481759133157932 1759133261482-94571261759133263904 1759802660454-57420281759802661443
+刷新
+SHOULDfield1='str',field2=num
+详细
+索引
+ccy.gro.. ccy.gro.. ccy.gro...
+类型 doc doc doc
+分数
+3/6
+class
+MUSTNOTfield1='str,field2=num
+id
+com.only.c... com.only.... com.only.c...
+175913.. 175913.. 175980...
+messageld
+1759133154643-7... 1759133261482-9.. 1759802660454-5..
+想保存常用查询？桌面版有开发者工具脚本管理功能
+ccygroupmessageindex
+ORDERfield1asc,field2desc
+groupld
+5b88454883f.. 7e4ad820a5ff... 7e4ad820a5ff...
+groupName e
+通知福利群β1> 通知福利群β1>
+groupHead
+head/group/2024/... head/group/2024/... head/group/2024/...
+3b30daa19...
+邮
+userld
+? 四
+76d866ae4.. 76d866ae4..
+? Q
+3.2.1
+userHead head/user/2 head/user/2
+head/user/2

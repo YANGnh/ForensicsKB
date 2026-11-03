@@ -1,0 +1,29 @@
+# OCR: 5a9c6b91e81400b6d92791b67c536d32.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/5a9c6b91e81400b6d92791b67c536d32.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+对象
+wymadminuser@bd4nqn45ej(20.
+品表配置文件、
+id
+#smallin
+开始事务
+username
+哆varchar(20 管理员用户名
+admin
+单元格编辑器筛选&排序用列
+password
+Bcvarchar(50) 管理员密码
+89a3c60d437512217b2daed9c5b2e58e
+数据分析工具，
+status
+#tinyint( 状态1启.
+createtime datetime 创建时间
+2016-10-1815:28:37
+lastlogin_time
+datetime 最后登录时间
+2024-06-2619:14:56
+lastlogin_ip Pcvarchar(20) 最后登录IP
+192.168.2.180

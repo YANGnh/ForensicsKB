@@ -1,0 +1,28 @@
+# OCR: 17ef779407e77c8342d0be7a76f66c0f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/17ef779407e77c8342d0be7a76f66c0f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+火眼仿真取证4.3.8.2115
+创建虚拟机
+*磁盘或镜像：操作系统：
+?账户信息：*虚拟机：共享目录：*生成位置：
+请选择系统盘的盘/精像自动险调
+暂未识别到用户信息请输入虚拟机名称
+清选降虚拟机共学目录
+E:VirtualMachines\PC.raw
+磁盘配置自定义账户信启高级设置打开目录打开目录
+开始创建
+选择磁盘或镜像：
+默认勾选的第一个磁盘或镜像为系统盘
+保存路径
+口口
+L\PHYSICALDRIVEO(C:,D:)\\NPHYSICALDRIVE1 (E:) AL.\PHYSICALDRIVE2(F:) A:
+A:\sys.E01 A:ldata.Eo1
+添加镜像
+了容量
+476.93GB 1.86TB 931.51GB 79.99GB 8.57GB 33.78GB
+取消
+x? =t@t@
+确定

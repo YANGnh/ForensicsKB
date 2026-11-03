@@ -1,0 +1,10 @@
+# OCR: f2e1e04d1262983d2b161bf2028af513.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/f2e1e04d1262983d2b161bf2028af513.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+了文件名称一
+.=(根目录）. = app (48)
+com.chengxin.talk-1(37)
+com.fankes.tmoreplus-1(3) tv.danmaku.bili-1(8)

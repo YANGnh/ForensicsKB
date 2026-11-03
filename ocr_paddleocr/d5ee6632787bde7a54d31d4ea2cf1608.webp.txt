@@ -1,0 +1,23 @@
+# OCR: d5ee6632787bde7a54d31d4ea2cf1608.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/d5ee6632787bde7a54d31d4ea2cf1608.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+原类型视图未删除记录
+文本视图
+androidmetadata
+folder notes
+roommastertable
+sqlitesequence widgets
+十六进制视图
+时
+3 1 1
+三value
+inotes.db
+感谢您喜欢我的iOS风格的应用程序。该应用程序.. 美好的一天从现在开始！unitAESDecrypt；interfac... 压缩包解密密码：xinglo-chat
+三type
+0 0 0
+pathlmage
+！！！
+X 设置 1列 17 17

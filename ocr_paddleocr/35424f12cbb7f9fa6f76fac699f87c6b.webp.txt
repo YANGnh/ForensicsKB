@@ -1,0 +1,34 @@
+# OCR: 35424f12cbb7f9fa6f76fac699f87c6b.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/35424f12cbb7f9fa6f76fac699f87c6b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+MySQL
+SQLServer
+MongoDB
+Redis
+PgSQL
+①请在添加数据库后，务必到计划任务】添加定时备份任务，以确保您的数据安全。温警提示：通过第三方或者MySQL命令行创建的数据库需要点击从服务器款
+添加数据库
+Toot密码
+数据库名 bd4nqn45ej
+www mtbtsdafda c 请选择批量提作
+远程数据库
+用户名 bd4nqn45ej
+高级设置
+wwwmtbtsdafda c 批量提作
+密码
+*kRRRk
+同步数据库V
+?
+间
+修改root密码*数据库密码
+回回收站
+容量? 未配未配置
+AMySQL5.7.4411 备份
+点击备份|导入点击备份|导入
+19931aaa0f82b132
+取消
+目需求反溃 G
+确定

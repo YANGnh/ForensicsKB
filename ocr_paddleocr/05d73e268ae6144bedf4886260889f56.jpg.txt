@@ -1,0 +1,25 @@
+# OCR: 05d73e268ae6144bedf4886260889f56.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/05d73e268ae6144bedf4886260889f56.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+g
+序号口1
+计算机/特征不符/文档/Excel工作表
+通名称过滤
+顺丰1kZiR 自
+重大小等于
+81.04KB
+三创建时间
+起始
+结束
+2023-02-1716:18:02
+三修改时间
+起始
+结束
+2023-02-1614:48:06
+道全路径过滤
+在Excel工作表中搜索
+计算机.E01/分区2/Users/admin/Documents/新建文件夹/顺丰1k.zip
+Q

@@ -1,0 +1,34 @@
+# OCR: 7a190a63c7c417a62039fccbe8f45537.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/7a190a63c7c417a62039fccbe8f45537.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+WWPSOffice
+三文件格式刷
+姓名
+2 3 4 5
+可[
+2
+品
+%
+粘贴 E27
+A
+张伟主芳季伟王静
+找稽壳模板宋体
+B
+1?
+fx
+名单xlsx S
+开始田
+B 工资
+28300 45600 32700 23400
+插入 11
+A c
+页面
+At
+A D
+x 公式三
+三
+十数据
+E

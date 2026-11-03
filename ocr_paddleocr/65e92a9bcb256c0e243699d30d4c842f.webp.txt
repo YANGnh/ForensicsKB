@@ -1,0 +1,26 @@
+# OCR: 65e92a9bcb256c0e243699d30d4c842f.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/65e92a9bcb256c0e243699d30d4c842f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+详细信息
+名称：REGPREF.xml
+MD5：D5A8CCAC7571CE30A2CF454401FF4432
+扩展名：xml 类型：文件大小：255B
+创建时间：2025-09-1710:41:28 访问时间：2025-09-1710:41:28 修改时间：2025-09-1710:41:28 元数据地址：262521
+全路径：鲁堪安卓手机.vmdk/分区4/data/com.yinxiang/sharedprefs/REGPREF.xml
+加密类型：未加密已删除：否
+原类型视图
+文本视图
+十六进制视图
+lversion=1.o'encoding='utf-8”standalone=yes
+?xml <map
+"REGPREFATTEMPTED0TP">036801</string
+Kstringname="
+"REGISTRATION_APP_VERSION">10.8.38</string
+Kstringname=
+Kstringname=
+</map
+"REGPREFATTEMPTEDMOBILE”>18063142470</string）
+15:55

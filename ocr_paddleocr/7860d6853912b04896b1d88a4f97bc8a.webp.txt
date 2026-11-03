@@ -1,0 +1,14 @@
+# OCR: 7860d6853912b04896b1d88a4f97bc8a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/7860d6853912b04896b1d88a4f97bc8a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+务器运行在端口服务
+3090
+访
+http://localhost:3000/api/health 启动服务
+正在加载libJiami.so加密库加密库路径：/app/libJiami-so 成功加载lbJiami.so加密库
+MySQL数据库连接成动！正在操作数据库
+务器运行在端口3000 服务品
+访间：http=//localhost:3000/api/health

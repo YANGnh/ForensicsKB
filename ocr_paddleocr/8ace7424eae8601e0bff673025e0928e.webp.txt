@@ -1,0 +1,20 @@
+# OCR: 8ace7424eae8601e0bff673025e0928e.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/8ace7424eae8601e0bff673025e0928e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+详细信息
+名称：03aws 类型：文件大小：13B
+创建时间：2025-08-1114:41:20 访问时间：2020-01-3000:05:35 修改时间：2020-01-3000:05:35 元数据地址：1257
+全路径：7.物联网检材.E01/分区4/etc/board.d/03aws
+加密类型：未加密已删除：否
+原类型视图
+PAGE
+文本视图
+ZOoM
+HIGHLIGHT
+十六进制视图
+who are you?
+?
+X

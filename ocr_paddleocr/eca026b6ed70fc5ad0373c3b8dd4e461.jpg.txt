@@ -1,0 +1,32 @@
+# OCR: eca026b6ed70fc5ad0373c3b8dd4e461.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/eca026b6ed70fc5ad0373c3b8dd4e461.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+请在添加数据库后，务必到计划任务页面添加定时备份任务，以确保您的数据安全，温馨提示：通过第三方或者MySQL命令行创建的数据库需要点击从服务器获取“才能在计划任务中备份
+添加数据库
+数掘库名 2828
+root密码
+请选择批腺揭作
+phpMyAdmin
+用户名 2828
+批量损作
+远程服务器
+企业增量备份密码
+同步所有
+从服务器获取
+从文件导入数据库从本地上传
+文件名 2828.sql
+前回收站
+容量修改时间
+2024/05/1210:40:01
+仅支持sql、zip、sql.gz(tar.gzlgztgz)
+酱份
+大小
+285.74MB
+zip、tar.gz压缩包结构：test.zip或test.tar.gz压缩包内，必需包含test.sq
+：著文件过大，您还可以便用SFTp工具，将数掘摩文件上传到/www/backup/database
+数掘库位置
+操作导入|删除
+X

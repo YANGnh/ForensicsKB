@@ -1,0 +1,25 @@
+# OCR: 21fda92c98b1c1833549f82420db8204.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/21fda92c98b1c1833549f82420db8204.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+p
+基本信息>国SIM卡使用记录
+手机检材》
+国联序号口1
+盖手机号码过滤
+推IMST 过滤
+460115143563428
+EICCID 过滤
+89860321245124114178
+ESIMID 卡2
+监运营商过滤
+蓝显示名称过滤
+中国电信
+三MCC 过减了 460
+EMNC 过滤？ 11
+三上一次更新时间
+起始
+结束
+在SIT

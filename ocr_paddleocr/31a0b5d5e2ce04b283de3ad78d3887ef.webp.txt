@@ -1,0 +1,20 @@
+# OCR: 31a0b5d5e2ce04b283de3ad78d3887ef.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/31a0b5d5e2ce04b283de3ad78d3887ef.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+g
+202509222139.E01>
+三序号 □1 2 3
+三标题过滤
+Chrome浏览器>
+三URL
+Y
+com.ezteam.lantern.apk
+VeraCryptSetup1.26.24.exe FileHash.exe
+过滤
+下载记录
+https://ttzz.94g.com/api/download.php?pa... https://launchpad.net/veracrypt/trunk/1.26... http://www.ip33.com/file/FileHash.exe
+三保存位置过滤
+C:\Userslpk/D C:\Users\pk\D C:\Users\pk\D

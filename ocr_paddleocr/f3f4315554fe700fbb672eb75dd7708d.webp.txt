@@ -1,0 +1,125 @@
+# OCR: f3f4315554fe700fbb672eb75dd7708d.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/f3f4315554fe700fbb672eb75dd7708d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+自动发卡平台2.38 微信对摄配置
+微信途口配置小
+微信订制
+关健字营理
+0
+关注白动品无就认回尔微信草单制
+微信验丝营理
+粉丝标签巴关注粉丝
+中
+粉丝需名单
+泰材资及售理
+医 B
+图文列装加文
+0系统管理
+电微信管理
+微信接口配置
+URL(服务器地址)
+P网关通通
+内容管理
+普用户管理
+http:/192.168.50.53:7869/wechat/apihtml
+血商品管理
+交易明细
+请复制此URL地址填写在公众号平台【开发>>基本配置1中URL（服务器增址）】
+注章：URL主城名必需蛋案，微信服易摄口只要80流口（htp）和443领口（htps）
+AppID (破用ID) * AppSecret(应用常期)
+Token (今牌)* Encoding AESKey 率存通膜吸ID 售卡遇无摄返ID
+wxbd2715b339faa4b6
+公众号皮用ID显所有接口金要参款，可以在公众号平台【开发>>基本配置】面获取 7e8055384f9c4ff5991c46cacd336ad9
+公众号安用密销量所有童口必要参数，可以在公众号平台【开发>>基本配重】页量湿段后获取 mytoken
+公众号平台与系统对接认证Token，请优先填写此参数并湿存，然后需在微高公众导平台摄作对握 KHyoWLoS7oLZYkB4PokMTFA5sm6Hrqc9Tzgn9iXc0VH
+公众导平台接口没置为加图式，消惠加密图钢必需殖写并器持与公众号平台一致
+库存通如膜极ID 售卡通知领板ID
+保存配置
+财务管理
+控制备
+(00cTEPE hem))
+Gts] Lanp"ab-entle) Cadm(/hasd)
+-Cbodr clati
+源/来源
+网络
+cace-runirspace-done')
+ace-itactiw(/div) avetk-topbar>@(/div)
+性脂
+内寻
+trsautk-bedy frammork-sidshar-tal1)
+(iv clasp"tramsmeck-aidebar@(/din)
+(div elasp-'tramneek-eontainr framark-sidebar-full)(divelasp-"Sbes"
+(diy el
+(diy elasr'ibes
+lat>o/)
+content
+应用 +
+隐量安生
+计简弹式
+*iest. 1t7ie
+Larai-itpat,
+布
+92
+X
+事件监器》
+th s +,
+284.t025119915:2
+Ln7astestare8 diglar block wdth:100 sedinp-laft
+:100x
+Lalsa
+La7as-srpat
+(fareessabaitretunfeise:sntion-http://192.168.S0.5 3:7868/wechat/ecndig/indez.html?sgm-s-f1-63"data-wuto-"tra"method-poat"ciatptonm-hariaostal"tylepadding-to p:2osdata-lsatacptru"navalidate-zoalidate)
+rog>m(/dit)
+ (div clann"fon) y cla
+"hr-lina-dashad"(/div
+lveiassfon-on@/4l-(dlv eiass-"fer-eroo
+ (laba] cla-'col-im2 contrai-label label-meguired/iabe)
+(dilaascol1m8)
+时入3公心
+reare.
+beit:Stex
+9251109152
+bardar: > ips rolid tebeba6
+rt:
+der-radiu:  2
+al.s025110915:2
+Laras-btr Larl-ineut, ertar
+gutiire:0 i
+ 1 .3
+as-sszszE:boroer-bc
+1d号p5ae（2）alu805384
+battos, irpet
+19c4775991e6a00336ad9
+siasia7iinets
+3220tr0-9
+oclasr-is-1ock）全众号应用格钢是所有换口心要参款，可以往业心号平台（开发》看丰配室】文国读权因庆
+E/eiv) attao
+/
+>(dveiass-"fer-eroe'(/dlv) >(dlyeiass'fem-eroem(/dl)(liv elesr-"hr-iLst-dashed/eiv)  (dir clasr'fermgog lapui-fo
+it">(div)
+ (di clar-'fes-pog laui-famite')(/div) Cedvlarphr-itn-dashe"/eiv)
+(4ivclasp-cel-4colm-aftset-g)(/eiv)
+(/feem)()
+(/d)(/dst)(/dsr)
+(dEx t3ass-"laul-Laer-Boe"/6E)
+bods(/atal)
+tapl.co025119915:
+Emat-femilyi inbarit: font-stsie: inherit faatsght:inharit tline- 0
+bLockgass
+H2, i3, $4, h5, h6, inout, 1i, cl, 1, gra, td, taatares, th, ul
+marin:>0: saddit0
+at-calar:
+(0, 0, 0, 00
+attos,fnet
+seert, testare(
+seffoidinx.iu:45
+Liae-hesrht:
+inberit
+isput
+buttam, Ensut optgrp, slect,
+in Snherit
+tamlir.la:323 glias.le:257
+bootatrse.c5:1062

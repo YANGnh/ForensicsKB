@@ -1,0 +1,13 @@
+# OCR: 546b46c5e402f0ab0fba73b8ada641c9.webp
+# 来源: ./01-取证技巧/02-网络取证/546b46c5e402f0ab0fba73b8ada641c9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 13:55
+
+Find/Replace
+Find n
+Globalmatch Dot matches all
+REGEXY
+Replace Ir
+Case insensitive
+Multiline matching

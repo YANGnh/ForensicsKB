@@ -1,0 +1,24 @@
+# OCR: 5b02876f1ec2ea5add69dda3b1780d7d.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/5b02876f1ec2ea5add69dda3b1780d7d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+文件
+文档
+共享
+查看
+此电脑
+文档》
+名称
+*快速访问图文档
+?WPS云盘此电脑 3D对象日视频 ■图片
+leidiang Navicat WPSDrive
+A
+backup20240625153457.npbk dididi.saz
+修改日期
+2024/6/1417:15 2024/6/2515:51 2024/6/1410:39 2024/6/2515:35 2024/6/2515:34
+类型文件夹文件夹文件夹
+Nox.npbk SAZ文件
+大小
+1.045.335. 10,917KB

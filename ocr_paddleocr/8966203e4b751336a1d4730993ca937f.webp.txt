@@ -1,0 +1,30 @@
+# OCR: 8966203e4b751336a1d4730993ca937f.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/8966203e4b751336a1d4730993ca937f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+G 本
+.1 1
+H
+J
+应用安权限数权限
+肌升序内客筛选
+降序
+K
+M
+N
+安装时更新时程序类档案路
+日颜色排序
+颜色筛选
+●关高级模式?
+F文本筛选
+立清空条件
+（支持多条件过滤，例如：北京上海）
+名称十
+计数+
+（全选反选）（194）
+Hidden(17) System(157) User（20）
+Q
+P导出三选项
+orivate/v 2rivate/y

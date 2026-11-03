@@ -1,0 +1,63 @@
+# OCR: 6fd2561df6c75abd7cd46863e6d7804a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/6fd2561df6c75abd7cd46863e6d7804a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+检材2.tarlsystemluserso 口文件名称一
+.=users(14).= 0 (12)
+registered services (2)
+appwidgets.xml app idlestats.xml
+package-restrictions.xml photo.png
+runtime-permissions.xml
+settings_global.xml settings secure.xml settings ssaid.xml settingssystem.xml wallpaper info.xml
+卷
+文件
+回预览
+磁盘快照后出现的数据
+这件名称状态猫述
+描猫述扩展名
+文件类型签名状态文件分类分类描述证据项
+settings_glob
+存在的 xml xml 未验证
+Misc Document 检材2.tar
+文件(F)
+编辑(E)
+上
+图
+查找(S)
+视图(M)
+core.py.lshot.cdc.py x
+1 2 3
+5 6
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+编码(N)
+5
+c
+语法(L)
+器
+设置
+列与宏因
+core. py. lshot. das
+x
+工具(O)
+2. py
+插件 +
+区
+对比(C) C
+反馈注册
+密码.txt
+区
+<?xml.version=1.o'.encoding='uTF-8!
+.standalone='yes'.?>
+<settings.version="17o">
+?
+GO
+persistent_prope..
+x
+面
+理
+settings glob
+.<setting-id="269".name="sysuifloatversion".value="1744358960727"-package="com.android.s.<setting-id="io6".name="mobiledatao".value="1"-package="com.android.phone".defaultValue:..<setting.id="io7".name="mobile datal".value="i"-package="com.android.phone".defaultvalue?.<settingid="44".name="lowbattery sound timeout".value="o"-package="android".defaultvalu..<setting-id="35".name="car_undock_sound".value="/system/media/audio/ui/Undock.ogg"-packag..<setting-id="257".name="show notification channel warnings".value="o"-package="com.androi..<setting-id="233".name="com.xiaomi.market.superscriptcount".value="61"-package="com.xiao.<setting-id="261".name="development settingsenabled".value="i"-package="com.android.sett..<setting-id="io".name="window animation scale".value="l.o"-package="android".defaultvalue.<settingid="24g".name="wifi coverage extend feature enabled".value="o"-package="android'..<setting-id="121".name="personalizedad time".value="1230739235652"-package="com.android..<setting-id="8g".name="use gesture version three".value="o"-package="com.miui.home".defau..<setting-id="258".name="forceallow on external".value="o".package="com.android.settings'..<setting-id="g5".name="multi sim data call".value="-1"-package="com.android.phone".defaul..<setting-id="6i".name="show zen settings suggestion".value="i".package="android".default.<settingid="252".name="tether offload disabled".value="1".package="com.android.settings..<setting-id="125".name="com.miui.personalassistant.preferences.bgcolor".value="16250871'.<settingid="78".name="systemui fsgversion".value="io"-package="com.android.systemui".de..<setting.id="g"name="mode ringer".value="2"-package="android".defaultvalue="2".defaultsy..<setting-id="3g".name="default install location".value="o"-package="android".defaultValue..<setting-id="24".name="wifi display on".value="o".package="android".defaultvalue="o".defa..<setting-id="47".name="device_name".value="Redmi.6.Pro"-package="android".defaultvalue="F..<setting-id="ioi".name="wifi networks available notification on".value="o"-package="com.a
+-package="android".defaultvalue="
+.<setting.id="i37".name="zen settingsupdated".value="i"

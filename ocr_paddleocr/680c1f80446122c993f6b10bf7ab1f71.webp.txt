@@ -1,0 +1,12 @@
+# OCR: 680c1f80446122c993f6b10bf7ab1f71.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/680c1f80446122c993f6b10bf7ab1f71.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+打升
+选
+赵光辉的OPPO手机数据备份>com.ifeimo.audiorecord>
+日期
+类型
+大小

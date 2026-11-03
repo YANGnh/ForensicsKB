@@ -1,0 +1,75 @@
+# OCR: 9fe4a3b6f5f153f7d7b9e093e84b705c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/9fe4a3b6f5f153f7d7b9e093e84b705c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+新建任务口序号
+口1 口2 口3 口4
+详细信息
+文件名过滤
+BaidulME.apk BaiduIME.apk defaultrealm sgim blfix.bin
+文件名：
+default.realm
+F50h 偏移：
+中最重要日内容：
+utf8
+命中编码：命中关健词：
+最重要
+MD5:
+SHA1:
+服 偏移等于
+oY
+19BDD88h 19DDDA9h
+E5Dh 1A352h
+103add00d798bf611a8cf81d573f91b1
+■内容过滤
+你最重要的4 中会你重要的会心 9中最重要日40 最重要最
+10078f5785466b024f66edof39f0cd3f306a44f9
+SHA256:
+ef6878921eb4bd5a64a92abbcf149ee2e70a2b55976ec68c15d4e7e79959de5b
+漂文件：
+检材2.tar/data/com.clover.daysmatter/files/default.realm
+已期除：
+否
+命中编码
+过滤 utf8 utf8 utf8 utf16le
+原类型视图
+■命中关键词
+过滤最重要最重要最重要最重要
+文本视围
+AAAA
+JUBCC AAAAD
+I=M
+AAAA
+AAAA
+IC
+CeventId 品
+C-48-
+Cid
+MD5 过遮
+d0b84b2cc9044e3.. d0b84b2cc9044e3. 103add00d798bf6 Ofe32998d86c832.
+十六进制视图
+AAAA 品
+AAAA
+口源文件去重
+SHA1 过滤
+b208dcf071eea5c.. b208dcf071eea5c.. 10078f5785466b0. c10ef434a3b42fdd..
+397841c86121684eAAAAe
+categoryId
+口哈希值去重
+SHA256 过滤
+61a503e038c5c 61a503e038c5c ef6878921eb4k Oe22af89ed36e
+0
+0000
+设置列
+x AAA
+o ot
+Google
+成立NewYear我一生中最重要日子
+陈老桃
+M星期六：
+eventID
+CcreatedAt
+CAAAA
+AAL

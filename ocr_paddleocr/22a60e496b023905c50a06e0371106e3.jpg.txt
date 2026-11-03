@@ -1,0 +1,56 @@
+# OCR: 22a60e496b023905c50a06e0371106e3.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/22a60e496b023905c50a06e0371106e3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+文件
+视图
+G
+日
+导航区
+工具
+jinyi.web.web.jar
+源代码
+帮助 Q
+aj.org.objectweb.asm bch.qos.logback
+cn.hutool bcom
+Ddefpackage
+Beu.bitwalker.useragentutils io
+bjavassist
+javax lombok Binet org Doshi reactor
+blschemaorg_apache_xmlbeans.system springfox
+资源文件 BBOOT-INF vlclasses
+.com >
+>
+i18n mapper
+mybatis >
+application-dev.yml application-prod.yml application-test.yml application.yml
+banner.txt logback.xml
+>lib
+MMETA-INF
+org 国Summary
+口
+日
+iBOoT-INF/classes/application-prod.yml erven:
+port:9032
+"jinyi.web.web-jadx-gui
+database:
+url:jdbc:mysql://192.168.1ee.112:133e6/jinyi?tinyInt1isBit-false&allowMultiQueries=true&serverTimezone=Asia/Shanghai username: root
+passuard:hanglianzoa1 redis:
+9 18 11 32 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 38 31 32 33 34 35 36 37
+host:192.168.1ee.112 port:
+16379
+timeout:5000 druid:
+username: admin
+password:zhangjie.123
+#swagger knife4j:
+#开启生产环境屏蔽 production:true
+jinyi: api:
+url:http://localhost:9e31 position:
+5e8667a439c68f5145dd2fcbecfe2209
+sign_key: wmsnotify: item_code:
+warehouse_code:JNe1 owner_code:yunmao
+customer_id:C20220816151515
+server_url:http://data.cisicn.com/wms/api/qm/direct app_key:33448833
+apP_secret：56C155623D81E38FDF5A95DB97CC38DC

@@ -1,0 +1,11 @@
+# OCR: 615dd72e2486f9b104b606b136bbe167.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/615dd72e2486f9b104b606b136bbe167.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+详细信息
+名称：SAFEIMAGER
+串号：020040321087903020000094
+ClassGuid:feec5ad98-8080-425f-922a-dabf3de3f69al
+设备实例ID：SWD/WPDBUSENUM/??USBSTOR#Disk&VenPansafe 兼容ID：wpdbusenum)fsSWD\Generic

@@ -1,0 +1,11 @@
+# OCR: 3a70a95a21f5c907038fca164eb153f1.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/3a70a95a21f5c907038fca164eb153f1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+D6
+o
+ATge/wwwtihopcom/idexphp/drin/adn
+监理中心
+o

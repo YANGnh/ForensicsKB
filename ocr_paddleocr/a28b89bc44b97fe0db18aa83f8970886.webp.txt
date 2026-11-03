@@ -1,0 +1,18 @@
+# OCR: a28b89bc44b97fe0db18aa83f8970886.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/a28b89bc44b97fe0db18aa83f8970886.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+g
+John的笔记本》
+口三序号口1
+三路径过滤
+基本信息>国网络位置
+169.254.43.127UohnKiller
+三登录账户过滤
+johnkiller
+三密码过滤
+Jk19800101
+三挂载位置
+过滤 ZA

@@ -1,0 +1,27 @@
+# OCR: bcd913fa3950b5fac89e0070ce958fc0.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/bcd913fa3950b5fac89e0070ce958fc0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+学冰蝎v4.0.6动态二进制加密Web远程管理客户端
+代理导入
+传输协议
+网站分类
+分类列表 defauilt
+批量检测
+网站列表
+Q输入关健字搜素
+编号
+URL
+1http://112.124.62.187:8080/shelaspx
+IP
+112.124.62.187
+脚本类型 aspx
+OS类型
+microsoftwindows
+备注
+添加时间
+2024/05/2210:08:16
+状态
+x

@@ -1,0 +1,16 @@
+# OCR: 0fab7afc88e72712f84d4f15afafe9b9.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/0fab7afc88e72712f84d4f15afafe9b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+C:Users)Administrator/Deskt
+X
+levelfee
+Author:wxjzc
+【！]请确保只有顶层用户的上级ID为空值，其他用户必须要有上级[+]请拖入文件，只包含id和上级id，以制表符分割，无需表头：
+"G：\2025盘古石杯|晋级赛\exportl1.txt?[V]处理完成，
+耗时0.10秒
+按任意键退出程序
+口
+X

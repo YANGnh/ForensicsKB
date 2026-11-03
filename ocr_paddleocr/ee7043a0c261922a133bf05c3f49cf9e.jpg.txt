@@ -1,0 +1,25 @@
+# OCR: ee7043a0c261922a133bf05c3f49cf9e.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/ee7043a0c261922a133bf05c3f49cf9e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+member_profittotal
+memberdeal member_account membermessage
+maintainmessagelog member
+memberupdate_record actmemberticketlog
+act_member_ticket member_balance
+0 0 0 0 0
+663153 34359
+0 0 0
+3600KB 2576KB 2576KB 31328KB 16KB 20016KB 2576KB 16KB 16KB
+2301952...
+InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB InnoDB
+25536 10472 6523 183831
+9 51766 34400
+0 0
+8862915
+会员收益总表会员提现表会员提现账号会员消息表
+会员消息推送日志会员信息表
+会员信息自助修改记录
+会员优惠券日志表会员优惠券主表会员余额流水

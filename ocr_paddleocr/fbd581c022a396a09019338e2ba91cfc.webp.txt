@@ -1,0 +1,31 @@
+# OCR: fbd581c022a396a09019338e2ba91cfc.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/fbd581c022a396a09019338e2ba91cfc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+XMLView
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+ListView
+<?xmlversion=1.o"encoding="uTF-8?>
+<!DOCTYPEplistPUBLIC"-//Apple//DTDPLIST1.0//EN""http://wwW.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.o"> <dict>
+<key>rateDone</key> <true/>
+<key>rateTriggerCount</key> <integer>io</integer>
+<key>onboardingDone</key> <true/>
+<key>whatsNewManager.lastversion</key> <string>3.2</string>
+<key>conf</key> <string>(
+"twitter":"cloak_app","cSYZHBH3hDruGXj"：1
+1</string>
+<key>settings</key> strina>
+"passcode":"147258",
+restoreReguirepasscoce
+"biometric":false </string>
+true,
+<key>totalGroupsCreated</key> <integer>2</integer>
+<key>appsConfiguration</key> <string>
+"groups"
+：
+"selection"：(
+"untokenizedApplicationIdentifiers"：［，
+"untokenizedcategoryIdentifiers"：［

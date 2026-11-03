@@ -1,0 +1,48 @@
+# OCR: 1399f45788a423d6a13b705f5aa9d167.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/1399f45788a423d6a13b705f5aa9d167.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+对象
+原开始事务 id
+sxolink@shop1（精武杯服务器）-表
+自文本简选三排序导入导出数据生成咖创建图表
+name
+uniapp主题 1
+12AmazeUI
+13英奇哥的博春 14ThinkPHP 15ShopxO
+16Gitee 17GitHub
+18ShopXO应用商店
+20宝塔面板 21西部数码 22弘连网路
+url
+https://gitee.com/zongzhige/shopxo-uniapp
+http://amazeui.shopxo.net/ http:/gong-gg/
+http://www.thinkphp.cn/ http://shopxo.net
+https://gitee.com/zongzhige/shopxo
+https://github.com/gongfuxiang/shopxo http://store.shopxo.net/
+https://www.bt.cn/?invite_code=MV9kZHh6b2Y=
+https://www.west.cn/active/freetc/?ReferencelD=934057 https://www.forensix.cn
+describe
+ShopXO主题uniapp端源码
+sort
+AmazeUI国内首个HTML5
+英可可的博音 ThinkPHP
+ShopXO企业级B2C免费开
+代码托管平台代码托管平台
+ShopXO应用商店宝塔服务器控制面板
+西部数码国内知名服务器提上海弘连网络科技有限公司
+is_enable
+1 4 2 3 0 0 0 0 5 6 0
+1 1 1 1 1 1 1 1 1 1
+is_new_window_open
+1
+1 1 1 1 1 1 1 1 1
+addtime
+1486292373 1486353476 1486353528 1487919160 1533711881 1547450105 1547450145 1563088117 1566531114 1566531132 1594273577
+upd_time
+1635056246 1563088005 1592320862
+0
+1592320866 1626528557 1563088069 1563088129
+0 0
+1676530949

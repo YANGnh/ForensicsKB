@@ -1,0 +1,13 @@
+# OCR: 59194b7b1734a93760f98c085e02c615.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/59194b7b1734a93760f98c085e02c615.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+HTTP/1.12990K
+Server:nginx/1.15.11
+Date:Tue,16Sep202513:20:10GMT Content-Type:text/html;charset=utf-8
+Transfer-Encoding:chunked Connection:close
+X-Powered-By:PHP/7.3.4 Pragma:no-cache
+Cache-Control:no-cache,must-revalidate Expires:Tue,23Jun200912:00:00GMT
+<!DOCTYPEhtml>

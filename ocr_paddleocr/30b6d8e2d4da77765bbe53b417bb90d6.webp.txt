@@ -1,0 +1,22 @@
+# OCR: 30b6d8e2d4da77765bbe53b417bb90d6.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/30b6d8e2d4da77765bbe53b417bb90d6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+检材信息
+金材名称：孙大海TG
+身份证号：设备名称：设备内存：制造厂商： MEI
+产品序号：内置存储：
+oot状态：未Root
+VIFI地址：蓝牙地址：
+检材人姓名：孙大海
+手机号码：服务商信息：设备型号：系统版本： CPU架构： MEID
+设备标识：外置SD卡：
+备份密码：无 ICCID:
+取证时间：2025-04-0912:42:19 结束时间：2025-04-0913:04:17 取证时长：00:21:58
+取证方式：TelegramApp验证码取证取证内容：Telegram
+云应用：数据量：输入密码：检材备注： OAID IDFA:
+ICCID2:
+罚案你
+案案审核审核案采案

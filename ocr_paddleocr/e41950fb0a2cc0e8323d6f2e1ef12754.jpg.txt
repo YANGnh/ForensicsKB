@@ -1,0 +1,37 @@
+# OCR: e41950fb0a2cc0e8323d6f2e1ef12754.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e41950fb0a2cc0e8323d6f2e1ef12754.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+疼端X
+root@localhost~# ss-napt
+State LISTEN
+Recv-QSend-Q
+128
+users:（("sshd".pid-1116,fd=3)）
+LISTEN
+9
+100
+users:（（"master".pid=1292,fd=13)）
+ESTAB
+A
+180
+users:（("sshd".pid-1534,fd-3)）
+TSTEN
+e
+128
+users:（（"sshd".pid=1116,fd=4)）
+TSTEN
+9
+100
+users:(("master"pid-1292,fd-14))[root@localhost~]#
+Local Address:Port
+*22
+127-0.0.125
+192-168.8.142-22
+[::]:22[::1]:25
+Peer Address:Port
+*-**-*
+192.168.8.1:36868
+[=-]:*[:]:*

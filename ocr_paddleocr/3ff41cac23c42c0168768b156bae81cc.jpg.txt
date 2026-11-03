@@ -1,0 +1,33 @@
+# OCR: 3ff41cac23c42c0168768b156bae81cc.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/3ff41cac23c42c0168768b156bae81cc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+Stable DiffusionT/ckpt
+v1-5-prum 文生团
+onty.safetensors[6ce0161689]-
+图生阻
+高清化
+图像信版
+high way,china,Atankertruckcatchesfire,caron f Ecense plate, confusio, people
+生战罗数(Generation) 聚拌器
+OPM++SDEKaras 高分册率修复
+宽度理
+提示询得版阳像生成子
+本 None
+谢入/Embedding
+国
+模型合并
+设图
+超格(Hypernetworks)
+果样形敏
+细化器
+502 512
+扩膜插件 Checkpoints
+冰每次数量
+低秩微聘模型(LoRA)
+20
+14/75 6/75
+生康
+A

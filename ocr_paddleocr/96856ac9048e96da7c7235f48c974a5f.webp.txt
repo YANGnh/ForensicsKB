@@ -1,0 +1,16 @@
+# OCR: 96856ac9048e96da7c7235f48c974a5f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/96856ac9048e96da7c7235f48c974a5f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+g
+1
+赠：检材1-手机.tar>
+三序号口1 口2
+三名称蓝牙
+蓝牙名称
+蓝牙MAC地址
+基本信息>
+设备信息三内容过滤
+Redmi K40 Gaming A4:55:90:15:2E:76

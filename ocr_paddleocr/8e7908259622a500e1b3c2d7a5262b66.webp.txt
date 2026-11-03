@@ -1,0 +1,37 @@
+# OCR: 8e7908259622a500e1b3c2d7a5262b66.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/8e7908259622a500e1b3c2d7a5262b66.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+文件类型 PE64
+文件信息
+PE 全部节
+0006
+扫描自动
+PE64
+MME
+入口点
+0000000180002730
+哈希导出
+时间戳
+字符串导入表
+反汇编全部签名
+资源
+镜像大小
+2025-09-25 14:26:05
+编译器：MicrosoftVisualC/C++(-)[-
+字节序 LE
+链接程序：MicrosoftLinker(14.42**)[DLL64]
+0002b000
+模式 64位
+基址
+0000000180000000
+十六进制
+HET 架构 AMM64
+信息摘
+TLS 资源
+显示
+内存映射 VirusTotal 附加
+版本类型 DLL
+公众号·小谢取证？

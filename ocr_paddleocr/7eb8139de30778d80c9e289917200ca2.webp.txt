@@ -1,0 +1,17 @@
+# OCR: 7eb8139de30778d80c9e289917200ca2.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/7eb8139de30778d80c9e289917200ca2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+ptr
+2b02.3t
+ptr：260740
+[UNRAIDER]】
+:Startingemhttpd.
+emhttp:
+Unraid Seruer OS version:
+7.0.1
+IPu4 address: 192.168.56.129 IPu6 address:not set
+Towerlogin:root Password:
+rooteTower："#

@@ -1,0 +1,25 @@
+# OCR: cec565b7e070afb141ff3f7e46b56247.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cec565b7e070afb141ff3f7e46b56247.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+#
+公共配置
+#Copyright(c)1993-20o9MicrosoftCorp#
+#ThisisasampleHOSTSfileusedbyMicrosoftTCP/IPforWindows.#
+#Thisfilecontainsthemappingsof IP addressesto hostnames.Each#entryshouldbekeptonanindividual line.TheIPaddressshould
+#beplacedinthefirstcolumnfollowedbythecorrespondinghostname#TheIP addressand thehostname should beseparated by at least one
+#space.#
+#Additionally,comments(suchasthese)maybeinsertedonindividual
+#linesorfollowingthemachinenamedenotedbya'#symbol.#
+#Forexample:#
+##
+102.54.94.97 38.25.63.10
+rhino.acme.com x.acme.com
+#sourceserver#x clienthost
+#localhostnameresolutionishandledwithinDNsitself
+##
+127.0.0.1:1
+localhost localhost
+192.168.217.188website.com 192.168.217.188platform.com

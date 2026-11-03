@@ -1,0 +1,20 @@
+# OCR: 19668bc8423484caf84b7b5b35c8c9fc.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/19668bc8423484caf84b7b5b35c8c9fc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+QLocalSend
+个
+历史
+打开目录
+删除历史
+1716359381698.jpg
+2024/5/2214:31-85.5KB-CoolOnion 1716348519842.jpg
+2024/5/2214:31-67.7KB-CoolOnion
+douyin/sharefffd02ee753d7facd6d47ed51274f775.mp4 2024/5/2214:23-1.9MB-CoolOnion
+douyin/share_ff8a0e3eebc1cd76037fc26693656a60.mpz 2024/5/2214:23-5.0MB-CoolOnion
+douyin/share_fedb9b86b621ae1059129bf949195c7e.mp 2024/5/2214:23-6.0MB-CoolOnion
+douyin/sharefe37fe3e00361d3cdcac6f2eecf9089b.mp4 2024/5/2214:23-9.7MB-CoolOnion
+..
+x

@@ -1,0 +1,57 @@
+# OCR: 8d9b197b2561cbf35cad4908dc65a7dd.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/8d9b197b2561cbf35cad4908dc65a7dd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+libmpathcmd.so.0 libmpathpersist.so.0
+libmpathutil.so.0 libmultipath.so.0
+os-release sftp-server
+一分区 offset 00000000 00000010 00000020 00000030 00000040
+■文件
+0
+50 6E 0A 45 22
+1
+52 74 4E 52 0A
+国预览 2
+3
+45 75 41 53 56
+54 20 4D 49 45
+详细 4
+5
+54 32 45 4F 52
+59 34 3D 4E 53
+6
+5F 2E 22 5F 49
+缩略图 7
+4E 30 55 49 4F
+8
+41 34 62 44 4E
+存在的存在的存在的存在的存在的存在的
+时间轴
+A 9
+4D 2E 75 3D 3D
+45 31 6E 22 22
+图例说明
+B
+3D 20 74 32 32
+c 22 4c 75 34 34
+0 0 0 o
+symlink
++
+D
+55 54 22 2E 2E
+E
+F
+62 53 0A 30 30
+75 22 56 34 34
+同步
+lusrylib lusrylib Jusrylib lusrlib usrylib lusrylib
+MO
+UTF-8
+PRETTY NAME="Ubu
+24.04.1 LTS"
+ntu
+NAME="Ubuntu"V ERSION
+ID="24.04
+VERSION="24.04

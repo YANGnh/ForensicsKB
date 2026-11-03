@@ -1,0 +1,17 @@
+# OCR: be4eb58f8ca6de179cd9d1c079648851.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/be4eb58f8ca6de179cd9d1c079648851.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+root@kali
+-/桌面/Forensics/volatility3
+python3vol.py-f/mnt/Sharewithwinlo/PC.memwindows.dumpfiles.DumpFiles--virtaddroxab86631laeco
+Volatility3Framework2.4.o
+Progress:1oo.oo CacheFileobject
+ImageSectionobject
+PDBscanningfinished
+FileName
+Result
+oxab86631laecoFTImaqer.exe
+file.oxab866311aeco.0xab866oce67bo.ImageSection0bject.FTKImager.exe.img

@@ -1,0 +1,41 @@
+# OCR: 590d0cd871bf6c65218ab52154333338.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/590d0cd871bf6c65218ab52154333338.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+终满X
+droid@nodei:ssudodockerps
+CONTAINER ID 380e5b2c8b98 111->5555/tcp
+IMAGE NAMES
+redroid/redroid:12.e.e-latest priceless knuth
+droid@nodei:snetstat-anpt
+COMMAND
+"/init androidboot.h_"
+(Not all processes could be identified,non-owned process info will not be shown,you would have to be root to see it all.) Active Internet connections (servers and established)
+ProtoRecv-oSend-oLocalAddress
+tcp tcp tcp tcp tcp tcp6
+® e e
+e
+tcp6
+droid@nodel:$
+00.0.0.0.22
+0127.0.0.53.53 00.0.0.0:1111
+192.168.100:101:22
+52 A
+192.168.100.101:22
+e A
+:22:::1111
+ForeianAddress
+0000* 0000:★ 0000
+192.168.100:100:57101 192168.100100:57100*
+CREATED
+2months ago
+State LISTEN LISTEN LISTEN
+ESTABLISHED ESTABLISHED
+LISTEN LISTEN
+STATUS
+Up29 seconds
+PID/Progrannane
+PORTS
+e.e.e.e:1111->5555/tcp..1

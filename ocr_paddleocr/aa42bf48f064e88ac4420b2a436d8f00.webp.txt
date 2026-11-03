@@ -1,0 +1,12 @@
+# OCR: aa42bf48f064e88ac4420b2a436d8f00.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/aa42bf48f064e88ac4420b2a436d8f00.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+文
+事件
+检材：Ben的ios手机任务：文件解析
+请输入iOS备份密码（Ben的iOS手机）：请输入密码
+取消
+确定

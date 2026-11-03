@@ -1,0 +1,13 @@
+# OCR: 199b7e35cece565521f8d843c6b51399.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/199b7e35cece565521f8d843c6b51399.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+NoahTie@LAPT0P-H91IARREC/h/1/检/s/e/0/1/r/2025-05-09-10-29-40-844-USer_0 >adbdevices
+*daemonnotrunning;startingnowattcp:5o37
+*daemonstartedsuccessfulLy List of devices attached
+a8c785da
+device
+NoahTie@LAPT0P-H91IARREC/h/1/检/s/e/0/1/r/2025-05-09-10-29-40-844-User_0
+>adbinstall.lbase.apk Performing Streamed Instal

@@ -1,0 +1,16 @@
+# OCR: a570ce7f6f4f903be11b674eb76665b4.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/a570ce7f6f4f903be11b674eb76665b4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+David的苹果手机
+口二序号口1
+三名称过滤
+AndroidAP8822
+基本信息》>
+移动热点
+三密码
+A
+过滤
+wdfj5674

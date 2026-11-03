@@ -1,0 +1,39 @@
+# OCR: 0722ae7f58475e3f18d8aff88c87f214.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/0722ae7f58475e3f18d8aff88c87f214.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+蓝易面板
+首页网站
+费FTP 数据库 Docker 国监控
+?
+安全
+o
+MysQL
+SQLServer
+MongoDB
+Redis
+PgSQL
+请在添加数摄库后，
+务必到[计划任务】页面添加定时备份任务，以确保您的数据安全，温馨提示：通过第三方或者MySQL命令行创建的数据库需要点击“从服务器获取才能在计划任务中备份
+添加数据库
+数据库名 ji-mei
+root密码
+清选择批量续作
+phpMyAdmin 用户名 ji-mei 批量操作
+远程服务器
+企业增备份
+密码
+JnzsscCsp2NCpcjA@自
+同步所有
+从服务器获取
+面回收站
+MysQL5.7.44
+额量未配置
+葡份
+首需求反馈
+数据库位置
+点份入
+192.168.8.142
+鲁注 ji-mei

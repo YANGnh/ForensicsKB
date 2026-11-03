@@ -1,0 +1,16 @@
+# OCR: 72ec2726435fb74012324b68a1399585.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/72ec2726435fb74012324b68a1399585.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+Storageproperties.
+Storageinformation Storagetype
+Name Capacity Sectors
+Deviceserialnumber Path
+- Storage geometry Sectorsize(bytes)
+Heads Sectors Cylinders
+×
+VirtualRAID meivatest:2 426.69GB 894826752
+F2680701684F19624EDF44FD00A6635B BasicRAID
+512 255 63 55701

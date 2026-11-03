@@ -1,0 +1,20 @@
+# OCR: d67d47f41611a59212af46e46e31dcac.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/d67d47f41611a59212af46e46e31dcac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+口口口口口口
+4 5 6 7 8 9
+000b.0000.0000.005.000.00... o00b.0000.0000.005.000.00... USBRootHub(USB3.0)
+2024-11-09 15:21:54 2024-11-09 15:21:54 2024-11-09 15:21:54
+KingstonDataTraveler3.0U...Disk&VenKingston&ProdData...2024-11-0917:52:54
+SanDisk CruzerBladeUSB... aigoU310ProUSBDevice
+Disk&VenSanDisk&Prod Cruz..
+2024-11-09 18:24:02
+Disk&Venaigo&ProdU310Pro...2024-11-0916:06:16
+2024-11-1211:03:06 2024-11-12 11:03:06 2024-11-12 11:03:05 2024-11-09 20:52:19 2024-11-09 18:25:18 2024-11-09 17:52:23
+2024-11-1211:03:06 2024-11-12 11:03:06 2024-11-12 11:03:05 2024-11-09 17:52:54 2024-11-09 18:24:02 2024-11-09 16:06:16
+F:
+admin 张三 admin
+USBIn USBIn USBRo USBM USBM USBM

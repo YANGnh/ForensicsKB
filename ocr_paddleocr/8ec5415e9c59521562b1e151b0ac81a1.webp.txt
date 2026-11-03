@@ -1,0 +1,28 @@
+# OCR: 8ec5415e9c59521562b1e151b0ac81a1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/8ec5415e9c59521562b1e151b0ac81a1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+后同厨 +
+窗不安全
+vmw 摘要监控访问网络防火墙时间服务更新
+https://vcsa.pgs.cup:5480/#/ui/access
+vCenterServer管理
+系统管理 Syslog 备份
+Mon06-09-202505:16PMCST 访问设置
+SSH登录 DCUI
+编辑访问设置
+激活SSH登录激活DCUI
+激活控制台CLI 激活BASHShell
+访问-VMware设备管理
+已激活已激活
+超时 (分钟)：
+60
+取消
+?★
+帮助V
+确定
++ 操作√
+root
+编辑

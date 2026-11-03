@@ -1,0 +1,18 @@
+# OCR: fde766c8bdea668088144b01916e2052.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/fde766c8bdea668088144b01916e2052.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+各选项对应区块链域名系统的特点 1.ETH(ENS)
+。支持.eth后缀的域名（如example.eth），主要用于将以太坊地址映射为易读的名称①（4。
+。不涉及自定义顶级域名（如".foren6"），因此排除选项A。 2.HNS (Handshake)
+o专为去中心化顶级域名设计，充许用户注册自定义顶级域名（如".foren6"）28。
+o通过竞拍机制分配顶级域名，域名数据存储在区块链上，无需依赖传统DNS机构，符合“.foren6
+这类自定义顶级域名的特性。
+3.BTC（Bitcoin）
+。比特市网络本身不提供域名注册服务，其核心功能是作为数学货市系统，因此排除选项C 4.Namecoin
+。最早的去中心化域名系统之一，支持.bit后缀的域名（如example.bit）910。
+。主要用于替代传统DNS的某些功能，但不支持自定义顶级域名（如".foren6"），因此排除选项 D。
+结论
+题目中的".foren6”是一个自定义顶级域名，而Handshake（HNS）是当前唯一支持此类域名注册的区块链系统。因此正确答案为B.HNS。

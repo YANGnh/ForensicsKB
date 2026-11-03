@@ -1,0 +1,18 @@
+# OCR: 4cba98b6a2b0a759b146c6bb125b0436.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/4cba98b6a2b0a759b146c6bb125b0436.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+检材3-计算机文件系统
+568349
+V检材3-计算机E01568348
+*
+分区11(E:)
++分区6(C:) +分区8
++ + +
+口首
+微软保留分区新加卷(D:) NONAME
+文件分类特征不符
+1 499463
+39 68227 604 9 6

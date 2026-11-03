@@ -1,0 +1,37 @@
+# OCR: 490b1335cf9106f5e1d241a1ea7ca213.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/490b1335cf9106f5e1d241a1ea7ca213.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+Https
+图标 0 品
+Websocket
+方法 POST GET
+URL
+HTTP1
+HTTP2
+JSON
+XML
+文本
+HTML
+JS
+https://api.sxb1.com/user/v2/login?password=e10adc.. ws://127.0.0.1:10007/download
+图片
+媒体
+应用程序
+二进制
+1xx
+总览
+192.168.0 msedge
+2xx 原始
+3xx
+4xx
+参数(5)
+5xx
+请求头(11)
+请求体
+https://api.sxb1.com/user/v2/login?password=e10adc3949ba59abbe56e05 nType=0&mobile=13913911391&time=1732066877&secret=bcbb321b18
+状态方法协议 Cnde
+Completed POST
+HTTP/1.1 200

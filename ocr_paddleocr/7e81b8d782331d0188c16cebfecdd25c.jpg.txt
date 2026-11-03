@@ -1,0 +1,10 @@
+# OCR: 7e81b8d782331d0188c16cebfecdd25c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7e81b8d782331d0188c16cebfecdd25c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+E：取证检材/2024FIc决赛>certuti1
+-hashfi1evm-112-disk-0.gcow2SHA256
+SHA256的vm-112-disk-0.qcow2哈希：
+0a7d9f77a5903bece9290f364b410a233a8415dabb35bc1ef585d837681d44e3 CertUtil：-hashfile命令成功完成

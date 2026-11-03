@@ -1,0 +1,104 @@
+# OCR: 1d9e8b2d81a91859ec9c33319f332365.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1d9e8b2d81a91859ec9c33319f332365.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+@颜工作台联证分析
+取证结果证据文件全局搜素
+时间轴口摘录
+报告心需象分析工具集
+0控素
+索件20241109092519
+星需 Partitlono(46) 检材列表
+出
+-
+全部
+密
+搜索结果更多v
+品 David_Laptop_64GB.e01
+o o
+o
+品 melya_test2
+品 syno_vg_reserved_area
+品 John_NAS_1.E01  John_NAS_2.E01
+volume_1 品 John_VR.zip 证要文件
+Quest_3 2GOYC5ZFB307D7(81) android_shared(72)
+0
+ sdcard(57) Alarms(0) DCIM(55)  v(50)  profile(6)
+文件分类
+David_USB_8GB.e01 证损文件
+Partitiono(46) 文件分类
+Q
+高级瘦索
+因数姆恢复
+日希计算
+全部> Davld_USB_8G8.e01>延费文件>Partitlon0->
+请检人有营净号 15 16 17 18 19 20 21 22 23 24 25
+要
+文件名
+eep
+ sUpCase+SInfo 国sVolume
+ (Root directory)
+Q
+E (Root directory)+STXF DATA Bitiocker.exe
+Bitlocker.exe+SmartScreen
+ bitiocker_key Jpg 要失文件
+ MFT Allocation Bitmap
+ System Volume Information 国未分配浆
+预宽
+文件名：bitlocker_keyjpg 扩展名：jpg
+透编大小（字节）：1796178
+访间时间：2024-08-2814:20:28
+2024-08-28 14:20:28
+创建时间：
+2024-08-28 11:28:20
+修改时间：文件类型：
+删除文件图形图像
+文件分类：
+剃除信息：平均水平(待检测)）物理大小(字节)：1796608 物理位置：9993728
+文本
+/Partitiono/bitlocker_key.jpg
+原始路径：
+顾
+6
+始希库管理
+打开
+导出 T扩服名
+漂加摄录
+ntfsstream ntfsstream exe
+ntfsstream Jpg
+十六进制
+0
+遵量大小（字节.
+32 o 4096 56 32256
+1796178
+0 4104 280
+8027058176
+口
+T
+访问时间
+设（0）
+2024-08-28 12:10:20 2024-08-28 14:23:26
+2024-08-28 14:23:26 2024-08-28 14:20:28
+2024-08-28 14:22:32
+100% 创建时间
+2024-08-28 12:10:20 2024-08-28 12:10:20
+2024-08-28 14:21:41 2024-08-28 14:20:28
+2024-08-28 12:10:28
+88
+admin
+全显下级文件效时间
+自定义列
+o
+x
+图
+时间
+2024-08-28 12:10:20 2024-08-26 14:22:13
+2024-08-28 11:18:13 2024-08-28 11:28:20
+2024-08-28 12:10:30
+S
+公众号·取证布衣
+创英
+1954
+昆

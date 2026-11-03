@@ -1,0 +1,34 @@
+# OCR: 0771b60a6a165f8c8ae8efdf53c313bc.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/0771b60a6a165f8c8ae8efdf53c313bc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+B
+套件中心
+S 已安装所有套件 Beta套件
+Q
+搜索
+SMB
+2023-05-23 打开
+OAuthService
+2023-05-23 打开
+SMBService
+2023-05-23 打开
+Universal Search
+2023-05-23 打开
+SAN
+2023-05-23 打开
+Python2 2023-05-23
+已安装
+SAN Manager
+2023-05-23 打开
+？
+手动安装
+2023-05-23 打开
+QuickConnect 2023-05-23
+已安装
+SecureSignIn服务
+2023-05-23 已安装
+口
+设置

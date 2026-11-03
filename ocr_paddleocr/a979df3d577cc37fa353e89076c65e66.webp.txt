@@ -1,0 +1,62 @@
+# OCR: a979df3d577cc37fa353e89076c65e66.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/a979df3d577cc37fa353e89076c65e66.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+a 圆案件口文件网分析? 位置
+州时间线
+Q 搜素
+笔记自报告
+研判白工具箱
+刷新
+详情/预览
+请选择/输入持有人/检
+Duncan_lapt... LAM KH lapt.... Nginx服务器 IIS服务器 8
+用户痕迹缩略图
+围包
+基本信息服务日志事件日志
+事件日志分析
+用户桌面任务计划
+快捷方式分析
+ShimCache
+远程桌面
+11/93772 34376
+4 1 327 244 1118 4405 20169 1398
+8 83 153 1319 56
+远程连接过本机.
+Firefox浏览器 IE浏览器
+基他浏览露(EB...
+56
+2259 543 134
+其他浏览露(WV2.. 其他浏览器WV2...
+42 33
+88
+ LAM KH laptop.eo1 >
+拦序号口4 口5 口6 口7
+详细信息
+拦对方IP 过滤
+182.239.117.11 182.239.117.11
+本機本機
+对方IP：182.239.117.11 登录账户：CEO-PCICEO 连接状态：断开连接
+连接时间：2025-04-1311:49:42
+远程桌面登录账户过滤
+CEO-PC)CEO CEO-PC)CEO CEO-PC)CEO CEO-PC)CEO
+分析结果搜索
+扫连接状态过滤
+连接成功断开连接连接成功连接成功
+扫连接时间起始
+结束
+画 Q
+2025-04-13 11:43:41 2025-04-13 11:49:42 2025-04-13 11:50:07 2025-04-1311:58:46
+在远程桌面中搜索
+拦对方主机名过滤
+Q
+拦源文件过滤
+口
+x
+高级
+设置列
+LAM_KH_laptop.e0. LAM_KH_laptop.e... LAM_KH_laptop.e0.. LAM_KH_laptop.e0..
+X
+源文件：LAMKHlaptop.e01/分区3/Windows/System32/winevt/Logs/Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx 已删除：否

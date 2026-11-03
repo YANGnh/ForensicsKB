@@ -1,0 +1,20 @@
+# OCR: f98d074764b845359a42425ea13c59b2.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/f98d074764b845359a42425ea13c59b2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+@MainActivity
+HttpRequest
+CMultiLayerEncryption
+ersionCode-"36"platformBuildVersionName-"16"android:versionCode-"ie12
+7 11 13
+l-"signature"/> 17
+AndroidManifest.xml
+android;versionName-"3.e.12"
+droid:compilesdkVersion="36"android:compilesdkVersionCodename-"16"
+19
+map/ic_launcher"android:name="com,stub,StubApp"android:allowBackup="true"android:supportsRtl-"true"android:extractNativeLibs="true" android:fullBackupContent="@xml/back 36
+"true">
+457114 41
+公众号。金星路406取证人

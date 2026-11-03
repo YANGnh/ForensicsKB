@@ -1,0 +1,28 @@
+# OCR: 4199bf0ec8183d69910e3686735df782.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/4199bf0ec8183d69910e3686735df782.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+状态文系统产服务
+Docke 电网络
+接口 DHCP 主机名静态路防火墙网络诊
+退出
+接口WGO 常规设置
+高级设置
+防火墙设置
+DHCP服务器
+状态协议
+开机自动运行
+私钥
+对端
+设备：wgo
+运行时间：Oh21m36s 接收：OB（O数据包）发送：OB（O数据包） IPv4:192.168.8.1/32
+WireGuardVPN
+必须，此接口的Base64编码私钥
+生成密钥监听端口
+IP地址无主机路由
+生成密钥 12345
+可选，用于传出和传入数据包的UDP端！， 192.168.8.1
+推荐，WireGuard接口的IP地址。
+x +

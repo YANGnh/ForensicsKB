@@ -1,0 +1,22 @@
+# OCR: 41f2f4d3dd06403c2146a89493f9d8aa.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/41f2f4d3dd06403c2146a89493f9d8aa.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+p
+理检材3-计算机>图基本信息》四终铺历史记录>Powe/Shel
+口邮序号口1 口2
+详细信息
+内穿过油
+Apython./run.py--source"E/dsto1.jpeg"--target"E:/1.pipg--outputE:/dbjpg"--frame-processorf..lpython.lrun.py-source"E:/dsto1jpeg--target"E:/2.png"-output"E:/dbjpg".-frame-processorf.
+来源过速
+t
+在PowerShell中搜素
+Q
+高级
+口
+X
+内:Apython../run.py --source"E:/dst01jpeg"--target "E:/1.pjpg" -output "E:/dbjpg--frame-processor face swapperface enhancer --similar-face-distance 0.85 --temp-frame-format png -temp-frame-quality 18 --output-video-
+quality 18 --max-memory 4 --execution-provider cpu --execution-threads 4 泉源：1
+源文件：检材3-计算机.Eo1/分区6/Users/L/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/ConsoleHosthistory.txt 型除：香

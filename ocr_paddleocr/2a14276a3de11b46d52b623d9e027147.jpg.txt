@@ -1,0 +1,38 @@
+# OCR: 2a14276a3de11b46d52b623d9e027147.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/2a14276a3de11b46d52b623d9e027147.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+e 7
+文件
+视图
+G
+品
+导航区
+工具
+帮助
+Q
+application-0.0.1-SNAPSHOT.jar
+源代码
+Dlaj.org.objectweb.asm bantlr
+bch.qos.logback
+bcn.hutool com
+defpackage
+bio.jsonwebtoken bjavassist
+Bjavax blombok
+net.bytebuddy
+>borg 资源文件
+BOOT-INF META-INF >maven
+MANIFEST.MF
+>org 国Summary
+限
+益
+META-INF/MANIFEST.MF Manifest-Version:1.e
+Implementation-Title:application
+Implementation-Version:e.e.1-SNAPSHOT
+Start-class:com.kcanly.application.Application Spring-Boot-classes:BooT-INF/classes/
+Spring-Boot-Lib:BooT-INF/lib/ Build-Jdk-Spec:1.8
+Spring-Boot-Version:2.2.5.RELEASE Created-By:Maven Archiver3.4.0
+10 11 12
+Main-class:org.springframework.boot.loader.JarLauncher

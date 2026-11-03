@@ -1,0 +1,9 @@
+# OCR: 10eeebca7f7d0ad62b99aa6eca1c1dc5.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/10eeebca7f7d0ad62b99aa6eca1c1dc5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+ICBC国 U震LCD型
+中国工商银行
+净号：7835266409

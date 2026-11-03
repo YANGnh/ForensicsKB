@@ -1,0 +1,30 @@
+# OCR: 3f5680d2bdd3b12297a055db728ab190.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/3f5680d2bdd3b12297a055db728ab190.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+田田日
+s
+JohnKiller@tmp
+@userpreference
+JohnKiller#recyde@eaDir Newfolder
+beauty
+田田
+c jpn
+奥逼
+志田千隔
+ectedEile"TNGy
+AR
+Name
+HE
+17d121f65b2e648499cc2dce2e545aa45.mp4&
+8
+83f2d46403824248972ca95cbc6b84ca.mp4 896074c64c6d421e8b4bc0658409894e.mp4
+8d32ef0fb1fe40c196f2967e1e972669.mp4&
+8f2c556ecb6b42988889572238d81053.mp4 98fbcc1d6d804937b7d480cd37a06ab2.mp4 9e685e220a6145b7af3ecdd209ba3197.mp4
+ING_VID_8081695_10s.mp4
+a173671bdb574f40a90ec08c0ec500c0.mp4 a6b2f1d65438f46c7a32eef84d192dd3.mp4 a9676bfc81fd47238c140477b15fb13a.mp4 a_8sCdrxXKCB6c1628644632_10s.mp4
+Date
+16.08.2024 16:43:07 20.08.2024 08:41:23 19.08.2024 20:00:55 19.08.2024 20:01: 10 19.08.2024 19:32:36 20.08.202409:24:13 16.08.2024 17:38:05 08.08.202410:59:40 19.08.2024 15:15:01 27.08.2024 16:38:37 20.08.2024 09:26:40 08.08.202411:02:05
+Type File File File File File File File File File File File File

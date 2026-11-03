@@ -1,0 +1,22 @@
+# OCR: 1b842e5254c13a38abab92e631e79e5f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/1b842e5254c13a38abab92e631e79e5f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+Docker docs
+GPTSoVITS GPT_weights
+鼎i18n logs output 福runtime
+SoVITS_weights
+TEMP tools
+.dockerignore
+gitignore api.py
+batchinference.py colab_webui.ipynb config·py
+dockerbuild.sh
+docker-compose.yaml
+Dockerfile ffmpeg.exe ffprobe.exe go-webui.bat go-webui.ps1 gweight.txt install.sh LICENSE
+2024/4/2516:32 2024/4/2516:32 2024/4/2516:32 2024/4/2516:32
+文件夹文件夹文件夹文件
+2024/4/2516/C:\WINDOWS\system32/cmd.exe 2024/4/2516
+2024/4/2516D:\GPT-SoVITS-beta0217>runtime\python.exe webui.py 2024/4/2516Running on local URL:http://0.0.0.0:9874
+2024/4/2516 2024/4/2516 2024/4/2516 2024/2/1717 2024/2/1717 2024/2/1717 2024/2/418:4 2024/2/1717 2024/2/1717 2024/2/1717 2024/2/1717 2024/2/1717 2021/2/2820 2022/4/1611 2024/2/1717 2024/2/1717 2024/4/2515 2024/2/1717 2024/2/1717

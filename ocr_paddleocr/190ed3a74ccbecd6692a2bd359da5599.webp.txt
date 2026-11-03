@@ -1,0 +1,16 @@
+# OCR: 190ed3a74ccbecd6692a2bd359da5599.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/190ed3a74ccbecd6692a2bd359da5599.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+名称 login login
+element-icon5.d2f69a92.wof
+X标头
+、常规请求URL:
+引用站点策略：响应标头(0)
+预览
+响应
+发起程序
+计时
+http://47.96.140.186:8082/admin/index/login strict-origin-when-cross-origin

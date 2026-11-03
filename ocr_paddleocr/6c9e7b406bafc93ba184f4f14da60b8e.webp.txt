@@ -1,0 +1,14 @@
+# OCR: 6c9e7b406bafc93ba184f4f14da60b8e.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/6c9e7b406bafc93ba184f4f14da60b8e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+详细信息
+名称：WillWight-CradleSeries(Books1-12)-MoBl.torrent.Ink
+扩展名：Ink 类型：文件大小：678B
+2024-11-1214:10:04
+创建时间：。
+访问时间：2024-11-1214:10:04 修改时间：2024-11-1214:10:04 MetaAddr：37500
+全路径：检材计算机.001/分区3/Users/admin/AppData/Roaming/Microsoft/Windows/Recent/WillWight-CradleSeries(Books1-12)-MOBl.torrent.lnk MD5:C9980C5260D4DE5A9A5A0C39D27932BF
+加密类型：未加密已删除：否

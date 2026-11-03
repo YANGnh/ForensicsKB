@@ -1,0 +1,35 @@
+# OCR: 26f1cf52ae5c483b50c551ac16fca3d4.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/26f1cf52ae5c483b50c551ac16fca3d4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+虚拟网络编辑器
+名称 VMneto VMnet1 VMnet8 VMnet9
+VMnet信息
+类型
+桥接模式仅主机. NAT 模式仅主机.
+外部连接
+RealtekPCIeGbEFamilyCo.. NAT模式
+①桥接模式(将虚拟机直接连接到外部网络)B
+已桥接至(G：RealtekPCIeGbEFamilyController
+②NAT模式(与虚拟机共享主机的IP地址)(N) ①仅主机模式(在专用网络内连接虚拟机)(H) √将主机虚拟适配器连接到此网络V
+主机连接已连接已连接已连接
+添加网络E)..
+主机虚拟适配器名称：VMware网络适配器VMnet9 M使用本地DHCP服务将IP地址分配给虚拟机D）
+子网IP()：
+192.168.100.
+还原默认设置(R)
+导入.
+DHCP 已启用已启用已启用
+子网地址 192,168.47.0 192.168.71.0 192.168.100.0
+移除网络()
+子网掩码(M)：255.255.255，0
+导出..
+确定
+取消
+X
+重命名网络w... 自动设置. NAT设置(S)..
+DHCP设置(D).
+应用(A)
+帮助

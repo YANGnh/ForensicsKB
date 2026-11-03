@@ -1,0 +1,18 @@
+# OCR: 0e7664793dbc51a3af3356278945aec5.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/0e7664793dbc51a3af3356278945aec5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+systemmenu  systemqueue  systemuser 田user
+ user_member 田video
+2 3 4
+&idy
+ name
+8015
+VIP贵宾
+8016 8017 8018
+普通会员钻石贵宾黑金贵宾
+value
+1 3 2 0
+rate

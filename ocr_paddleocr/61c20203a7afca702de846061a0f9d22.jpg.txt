@@ -1,0 +1,32 @@
+# OCR: 61c20203a7afca702de846061a0f9d22.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/61c20203a7afca702de846061a0f9d22.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+DavidUSB8GB 文件名称一 SExtend(根目录）
+SystemVolumeInformation
+SAttrDef sBadClus $Bitmap $Boot $LogFile SMFT SMETMirr nsSecure sUpCase $Volume
+Bitlockerexe bitlockerkey.jpg 老浅国全用
+空余空间(net）口空闲空间
+描述存在的存在的存在的存在的
+存在的，已查看
+存在的存在的存在的存在的存在的
+存在的,已查看存在的
+存在的,已查看存在的
+文件
+大小创建时间
+超出边界1 超出边界1 超出边界1
+2.5KB超出边界1 0B超出边界1 1.9MB超出边界1 8.0KB超出边界1
+13.1MB超出边界1 256KB超出边界1 4.0KB超出边界1
+0B超出边界1 128KB超出边界1
+0B超出边界1 31.5KB超出边界1
+曾经存在，内睿可能已改变jpg
+腾拟出的（便于分析）虚拟出的（便于分析）虚拟出的（便于分析）
+1.7MB超出边界1 0.5KB超出边界1 7.5GB超出边界1
+？超出边界1
+￥修改时间超出边界1 超出边界超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界超出边界1 超出边界1 超出边界超出边界1 超出边界1 超出边界1 超出边界1
+记录更新时间
+超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界1 超出边界↑ 超出边界1 超出边界1 超出边界1 超出边界1 超出边界
+文件属第1扇区
+SH SH SH SH SH SH SH SH SH SH SH SH SH A A

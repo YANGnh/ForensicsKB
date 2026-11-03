@@ -1,0 +1,19 @@
+# OCR: a5f25a5d87e2b38333666f2ddcd7d127.webp
+# 来源: ./02-WriteUp/2026/2026-南宁-初赛/a5f25a5d87e2b38333666f2ddcd7d127.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+你提供的文本中只有这两个字符交替出现，这很可能是用两种字符代表二进制数据（0和1），然后按8位一组转换成Ascl字符，最终得到隐藏的flag。
+我帮你提取并转换了一下（假设弦=0，址=1，或者反过来），结果如下：转换结果
+（=0，址=1）：
+text
+0110011001101100011000010110011101111011
+解码后得到： text
+flagt...} 完整flag是： text
+flag(Binary_Hidden_In_Unicode)
+如果你需要我展示完整的解码过程
+?复制复制?复制
+（包括分组、二进制转ASCII），或者验证另一种映射方式，
+也下载下载下载
+我也可以一

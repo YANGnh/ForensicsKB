@@ -1,0 +1,23 @@
+# OCR: cdc07cc185ce3359ad8a6f6af418c70a.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/cdc07cc185ce3359ad8a6f6af418c70a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+g
+，15pm计算机检材.e01>
+三序号口1 口2 口3 口4
+三发送方蓝牙地过滤
+向日葵>
+三发送方设备名过滤
+HW***22 HW***22 HW***22 HW***22
+文件传输记录
+三接收方蓝牙地过滤
+传入文件记录
+三接收方设备名过滤
+三传输文件名过滤
+A
+新場新場 Snipaste2024-05-1017-5.. Oae364c055e3b83f50bf2e...
+三大小等于 OB OB OB OB
+Y
+三文件路径过滤

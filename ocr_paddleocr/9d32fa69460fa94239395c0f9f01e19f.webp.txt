@@ -1,0 +1,37 @@
+# OCR: 9d32fa69460fa94239395c0f9f01e19f.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/9d32fa69460fa94239395c0f9f01e19f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+27:66:30:78:c7:40 fe:0e:d3:ba:ab:d0 52:00:52:10:13:14 92:00:52:10:13:14 10:73:7c:56:e7:86 34:81:9f:63:fa:4d 34:81:9f:63:fa:4d 55:79:c6:86:8d:13 55:79:c6:86:8d:13 55:79:c6:86:8d:13 17:26:d1:b3:80:42 27:66:30:78:c7:4c
+Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast Broadcast
+ts),56bvtescaptured(448bits)oninter
+1
+0000 0010 0020 0030
+0331 00
+03bf
+LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL LE LL
+e9
+afd6be898e
+20
+020a 1e14
+63ADVNONCONNIND
+61ADIND[MalformedPacket 56ADVIND
+56ADIND[MalformedPacket
+63 ADV NONCONN IND 63ADVNONCONNIND 63 ADV NONCONN IND
+50ADVIND 50ADVIND
+5oADIND[MalformedPacket
+63ADVNONCONNIND 63ADV NONCONNIND
+0000146d5d
+0126.2c
+131052
+90
+52.02
+0d0951515f57465f
+5350384f4f4e
+1218020a00fd20d0
+01 06 0302
+1
+-&,..m] R.R.
+.-00WFSP800N

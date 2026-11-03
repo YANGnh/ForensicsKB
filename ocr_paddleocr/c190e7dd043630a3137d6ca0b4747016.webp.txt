@@ -1,0 +1,44 @@
+# OCR: c190e7dd043630a3137d6ca0b4747016.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/c190e7dd043630a3137d6ca0b4747016.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+754017F70 754017F80 754017F90 754017FA0 754017FB0 754017FC0 754017FD0 754017FE0 754017FF0
+Al B4 73 63 20 OA 44 00 00
+FA OE 6B 75 69 50 65 00 00
+01 BB 20 72 73 72 6c 00 00
+E8 07 72 72 20 65 20 00 00
+扇区61.472.959/61.472.960
+03 00 65 65 63 73 74 00 00
+00 CL 61 64 6F 73 6F 00
+F4 00 6D 20 20 00
+EB EB 20 OD 70 43 72 00
+FD F2 65 0A 72 74 65 00 A7
+8B 42 65 73 00
+Fo OT
+4F 73 60 74 00 BH
+AC 0A 6F 4F 73 2E 61 00
+偏移地址：
+3C 41
+54 65 41 72 00
+00 20
+4D 64 6C 74 00
+74 64 6F 47 00 74 OD 00 hh
+09 69 63 52 OD 2B 0A 00 AA
+iüé》
+oey<i-< t i AA di
+sk read curred
+error oc BOOTMGR
+is compressed
+Press
+Ctrl+Alt+
+Del to restart
+ss
+Ua
+复制（C）31474155406"（十进制
+国
+7540178
+复制（C）"754017F8E"（十六进制）
+相对记录偏移地址(L) 帮助(H)
+= TUU 选块：

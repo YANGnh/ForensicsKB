@@ -1,0 +1,19 @@
+# OCR: c58fd4c07addec15afc276fdc2fc0271.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/c58fd4c07addec15afc276fdc2fc0271.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+三包名
+com.sonelli.juicessh com.sonelli.juicessh
+三版本名称过滤
+三应用分类*
+其他
+三应用类型*
+Y
+非系统(非预装
+三安装时间
+起始
+结束
+2025-09-1711:05:26
+三最后使用日起始

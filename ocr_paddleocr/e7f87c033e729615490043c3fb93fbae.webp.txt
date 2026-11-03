@@ -1,0 +1,8 @@
+# OCR: e7f87c033e729615490043c3fb93fbae.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/e7f87c033e729615490043c3fb93fbae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+E：\取证检材\FIc2o25\检材\检材1>certutil-hashfile取证录像.mp4sha256 SHA256的取证录像.mp4哈希：
+2753da22fe23cadaadc14fe4c1d5096a153360d9f91097ea376846431f5c1567 Certutil：-hashfile命令成功完成。

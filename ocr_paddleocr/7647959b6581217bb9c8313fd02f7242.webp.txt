@@ -1,0 +1,79 @@
+# OCR: 7647959b6581217bb9c8313fd02f7242.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/7647959b6581217bb9c8313fd02f7242.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+IDA - libJiami.so.i64 (libJiami.so) F:)ficWPVlibJiami.so.i64
+File
+Edit
+Jump
+Search
+0
+View
+Debugger
+m
+田
+Lumina
+A
+Options
+Help
+Windows
+里口m口Hdebugger
+Library function
+Data
+Regular function
+Instruction
+国Functions Function name
+cra_finalize
+cleanup setup
+deregister_tm_clones register_tm_clones do_global_dtors_aux
+frame_dummy getAeskey
+init_tls_flag2 free_result compute_flag2
+is_debugger_present
+于
+get_flagi get_flag2 encrypt decrypt_term_proc
+pthread_getspecific pthread_setspecific isoc99_sscanf
+■alloc fopen
+EVP_DecryptInit_ex
+BIO_push fgets
+ip_free strlen
+口
+品
+x
+Segme-plt.g.text.text.text.text.text.text.text.text.text.text.text.text.text.text.text.fini ertern ertern extern ertern ertern extern extern ertern ertern ertern
+Unexplored
+External symbol Lumina function
+IDA View-A
+Name
+f
+setup
+get_flag2 encrypt cleanup
+compute_flag2
+is_debugger_present decrypt
+init_tls_flag2
+get_flagl free_result.init_proc term_proc
+区
+Pseudocode-A
+区
+Address
+VIGEEE
+Stack of getAeskeyx
+Ordinal
+0000000000001270 0000000000001750 00000000000017C0
+0000000000001260 0000000000001560 0000000000001690 0000000000001920 0000000000001520 0000000000001740 0000000000001540 0000000000001000 0000000000001A20
+[main entry]
+Pseudocode-E
+x
+Hex View-1
+区
+Strings
+区
+Local Types
+区
+通
+Imports
+区
+国
+Exports
+x 区

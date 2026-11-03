@@ -1,0 +1,27 @@
+# OCR: 8643f88f7626d81633e2eab667ea3b20.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/8643f88f7626d81633e2eab667ea3b20.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+用户信息
+2 3 4 5 6 7 8 9 10 11 12 13 14 15
+密码信息
+键
+Build版本计算机名称版本信息
+安装时间(本地时.
+系统名称发行ID 产品ID
+注册所有者注册组织
+产品密钥备份(非. 系统时区
+上次正常关机时. 上次登录的用户默认浏览器
+【G:V2025盘古石杯】晋级赛\EXPORT/NTUSER.DAT]
+值
+18362
+DESKTOP-L3HKMID Enterprise
+2025-04-1511:55:30 Windows10Enterprise
+贾韦码
+96YNV-9X4RP-2YYKB-RMQH4-6Q72D
+(UTC+08:00)北京，重庆：香港特别行政区，乌鲁木齐
+2025-04-1811:20:54 八贾韦码
+ChromeHTML
+系统信息

@@ -1,0 +1,66 @@
+# OCR: 4742c288e41a8767dc5128b8471f4bdd.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/4742c288e41a8767dc5128b8471f4bdd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+PuTTY ④
+新建国文档因图片音乐视频 money log work
+个% ★
+=money (E:)
+此电脑
+DVD驱动器（D·
+网络 ALinux
+10个项目
+G
+品名称
+LICENCE pageant
+母plink pscp 雪psftp putty fputty puttygen README website
+选中1个项目834KB
++
+此电脑 AD
+A
+money (E:)
+回
+software
+排序
+修改日期
+PuTTY Configuration
+Category: 日·Session
+L. Logging
+白Teminal
+Keyboard Bell
+Features 白Window
+Appearance Behaviour Translation Selection Colours
+白·Connection
+-Data Proxy Telnet Rlogin 由·SSH..Serial
+About
+Help
+查看
+PuTTY
+类型
+?
+Basic optionsforyourPuTTY session
+Specify the destination you want to connect to
+HostName(orIPaddress)
+41.32.118.21 Connectiontype:
+OTelnetORloginQSSH
+ORaw
+Loadsaveordeleteastoredsession
+SavedSessions 1
+Default Settings
+Close window on exit :
+OAlways
+ONever
+Port 22
+大小 +
+OSerial Load Save Delete
+OOnlyoncleanexit
+Open
+Cancel
+2KB 07KB 03KB 13KB 29KB 77KB 35KB 98KB 2KB 1KB
+在PuTTY中搜索
+没有预览。
+口
+X Q
+预览

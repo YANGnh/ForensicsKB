@@ -1,0 +1,9 @@
+# OCR: 803aa7bee0cee079fa05b592423b27a8.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/803aa7bee0cee079fa05b592423b27a8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+在网络取证中，为了验证TCPP数据包在传输过程中是否受到了破坏，您需要检查数据包的校验和
+(Checksum）。校验和是一个错误检测机制，用于确保数据在传输过程中的完整性。如果数据包在传
+输过程中发生了变化，校验和可以帮助检测到这种变化，。因此，正确答案是： c.校验和（checksum）

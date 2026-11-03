@@ -1,0 +1,18 @@
+# OCR: 9879014bbfa21247be5e2089d1e515a9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/9879014bbfa21247be5e2089d1e515a9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+Root Zone Records
+DS NS NS
+37231132e0f330ac9dc23a11cbf49db04310c3d2fd60d95d26acd0fc4b3cda201b172377 ns1
+45.79.133.98 ns2
+45.79.133.98
+BidHistory
+Bid 06
+Date Aug 31,2022
+Amount 200.00HNS
+o.ooHNS Blind
+Lockup 200.00HNS
+Status CONFIRMED

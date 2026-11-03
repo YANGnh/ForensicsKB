@@ -1,0 +1,23 @@
+# OCR: 775d5bd11697b505741af3f7a03efcc2.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/775d5bd11697b505741af3f7a03efcc2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+C:/Users/Administrator/Desktopresourcehacker
+新建
+个主文件夹
+桌面昌文档业下载因图片 WPS云盘此电脑国视频图片
+%
+resourcehacken
+圆力力
+回
+排序
+名称 help
+samples 目changes.txt 旨ReadMe.txt
+RHResourceHacker.exe oResourceHacker.ini wWechat.exe
+查看
+修改日期
+2023/10/78:04 2018/6/420:32 2023/11/1918:10 2024/5/239:45 2023/11/1918:07 2024/5/2222:39 2024/5/2215:23
+类型文件文件文本文本应用 INI 应用
+C

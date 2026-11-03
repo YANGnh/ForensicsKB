@@ -1,0 +1,17 @@
+# OCR: 635b27cd50bf07ff561ca48f7505d6f6.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/635b27cd50bf07ff561ca48f7505d6f6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+Avm-111-disk-0.vmdk V目Linux基本信息
+ubuntu-vg(phrkKJ...
+国系统信息?用户组 >8用户列表》。登录日志
+?
+开关机时间
+》国历史命令
+软件信息服务列表定时任务
+卷USB使用记录》国网络信息开机启动项
+>Linux日志解析
+1138 1138 14 58 34 20
+57 737 177 4 6 2 28 19736

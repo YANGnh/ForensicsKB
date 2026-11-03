@@ -1,0 +1,14 @@
+# OCR: 63c4c3df15f9885504967a61e6d60d25.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/63c4c3df15f9885504967a61e6d60d25.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+TYPE="Ethernet"
+PROXY_METHOD="none" BROWSER_ONLY="no" BOOTPROTO="static" DEFROUTE="yes"
+IPV4_FAILURE_FATAL="no" IPV6INIT="yes"
+IPV6_AUTocONF="yes" IPV6_DEFROUTE="yes"
+IPV6_FAILURE_FATAL=no"
+IPV6_ADDR_GEN_MODE="stable-privacy"
+NAME="ens33" DEVICE="ens33" ONBOOT="yes"
+IPADDR=192.168.2.199 GATEWAY=192.168.2.1

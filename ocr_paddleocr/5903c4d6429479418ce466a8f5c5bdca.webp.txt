@@ -1,0 +1,32 @@
+# OCR: 5903c4d6429479418ce466a8f5c5bdca.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/5903c4d6429479418ce466a8f5c5bdca.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+来=0品中
+查找"delet”（6处命中在1文件）
+C:\hlnet\6-1758777252\202509222139.E01\分区3\Users\pk\AppData\Local\Temp\winscp.1og（6命中）
+行行
+1：
+Deletinqfile"test.bat"
+2025-09-17093516.101
+59：
+. 2025-09-17 09:36:28.536 Recycle bin: Delete to: No, 0verwritten to: No, Bin path:
+行
+ 290: . 2025-09-1709:43:02.034 Recyclebin: Delete to:No,Overwritten to:No,Binpath:
+行
+410：
+，2025-09-17
+行行
+487：
+2025-09-17
+548
+查找"delete" 查找″192.168
+2025-09-17
+09:49:3l.620 Recycle bin: Delete to: No, Overwritten to: No, Bin path:
+Deletingfile"PW.rar".
+09:49:39.354
+2l:l9:55.4l2 Recycle bin: Delete to: No, Overwritten to: No, Bin path:
+(0处命中在1文件）
+(0处命中在1文件）

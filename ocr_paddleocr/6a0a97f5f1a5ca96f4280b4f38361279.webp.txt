@@ -1,0 +1,40 @@
+# OCR: 6a0a97f5f1a5ca96f4280b4f38361279.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/6a0a97f5f1a5ca96f4280b4f38361279.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+后
+?不安全
+vmw 摘要监控访问网络防火墙时间服务更新
+htps://vcsa.pgs.cup:5480/#/ui/backup
+vCenterServer管理
+系统管理 Syslog 备份
+Mon06-09-202505:00PMCST
+备份-VMware设备管理
+帮助√
+实
+操作√
+在进行备份之前，必须已设置和配置备份服务器，以便vCenterSerVer可以访问它。支持备份的协议为FTPS、HTTPS、SFTP、FTP、NFS、SMB和 HTTP。
+备份调度
+状态调度
+备份位置备份数据
+要保留的备份数活动
+备份位置
+ftp://ftp.pgs.cup/vCenter/s... ftp://192.168.10.201/vCente. ftp://192.168.10.201/vCente.. ftp://192.168.10.201/vCente.. ftp://ftp.pgs.cup/vcenter/s..
+类型手动手动手动已调度已调度
+状态完成错误错误错误完成
+@ i G
+已激活
+按天，22:59Asia/Chongqing ftp://ftp.pgs.cup/
+Stats,Events,and Tasks
+Inventoryand configuration 保留所有备份
+数据已传输 880.72MB 880.46MB 880.48MB 9.08KB
+878.73MB
+持续时间 00:00:33 0Q:05:53 00:02:28 00:00:25 00:00:40
+编辑
+结束时间
+取消激活
+rootv 删除
+立即备份
+Mav20.2025.11:10:41AM May192025,11:43:45PM May19.2025.11:37:39PM May19,2025.11:30:12PM May182025.11:59:48PM

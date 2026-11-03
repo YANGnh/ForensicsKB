@@ -1,0 +1,19 @@
+# OCR: 7d0c351f2759b80cd47aff242b2d0eb6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/7d0c351f2759b80cd47aff242b2d0eb6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+Mnemonic Language
+BIP39Mnemonic BIP39Passphrase
+(optional) BIP39Seed
+Coin
+BIP32RootKey
+English
+Italiano号oCestinaPortugues
+日本语Espanol中文(简体）中文(繁體）
+Francais
+sessionfeversponsorcrouchtickettwistapprovevillagefinishsquarealsocook Oshowsplitmnemonic cards
+e08478b0ca12153b4ae26d05fc50e5bbf122307d7d431c9d59e1f6bc7d9a835c7d3d384bb4011aeb7540acef56129ad620839d24383a1308997905c9 c0586611
+BTC-Bitcoin
+xprv9s21ZrQH143K3KJns8yVAu3NjKZXFbbWm3K7fmoyYSXztNkHRUwB7zrXzK42EVne6fvNVXtcbtxWF5MXsnzTCVTyNJ6sT3i5MaHccs9nDqN ShowBIP85

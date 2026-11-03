@@ -1,0 +1,36 @@
+# OCR: cfc77e4c14c0c03a32f05130afe8f1b9.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/cfc77e4c14c0c03a32f05130afe8f1b9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+OpenWrt
+存系摄  isore 服务网
+m DHCBONS R
+限
+IG
+a
+防火增-端口转发
+NALNPE
+FEN
+编口转发 redess oa
+noana rede4 roet 2-oded
+reowwg.m
+MUGRN
+口
+amwgn
+R
+meonrg.n
+a
+口aa
+camirg/oy
+mg
+第口2
+neamirga w
+0
+is
+F2002
+00.0133
+NNETNOA
+型家
+0

@@ -1,0 +1,21 @@
+# OCR: 81d871024cee2aa66be0af78d3d0cd75.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/81d871024cee2aa66be0af78d3d0cd75.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+containers:
+name: kube-flannel
+image:quay.io/coreos/flannel:vo.14.0 command:
+/opt/bin/flanneld args：
+-ip-masg
+--kube-subnet-mgr
+resources: requests:
+cpu:"100m"
+memory: limits:
+"50Mi"
+cpu:"100m"
+memory:"5oMi"
+securityContext
+privileged: false capabilities:
+add:［"NET ADMIN"，"NETRAW"]

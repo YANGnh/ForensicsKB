@@ -1,0 +1,20 @@
+# OCR: bc144662674275db083aad4521a1d1f0.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/bc144662674275db083aad4521a1d1f0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+曲tp_admin@tpshop2.0（2025平航杯）
+事务 id
+自文本、篇选是排序
+username 1admin
+2 bjgonghuo1 3 shhaigonghuo1
+4wyp001 5dengyunrui
+6tpshop 7234567
+email
+入出
+password
+admin@forensix.cn bj@163.com
+shanghai@163.com wyp001@126.com dengyunrui@qg.com 11
+234567
+35f834d6b70c29ed050520d1f94c829c 519475228fe35ad067744465c42a19b2 4146fecce77907d264f6bd873f4ea27b 519475228fe35ad067744465c42a19b2 667ae4b6e626a668fd5e083cead7ef66 519475228fe35ad067744465c42a19b2 6536f192ad8c471edd14ba68d7c33f3a

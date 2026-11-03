@@ -1,0 +1,11 @@
+# OCR: d4cbc5d3a88302fe0603d25372a220ad.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/d4cbc5d3a88302fe0603d25372a220ad.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+文件上传
+Configure fileupload and storage. 文件上传已启用
+文件上传大小限制（以字节为单位） 104857600
+将其设置为-1以删除文件大小限制。支持的媒体类型
+以逗号分隔的媒体类型列表，留空表示允许所有媒体类型阻止的媒体类型

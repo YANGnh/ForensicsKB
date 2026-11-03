@@ -1,0 +1,66 @@
+# OCR: a115b6ab08408df1981d4601b68b29fd.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/a115b6ab08408df1981d4601b68b29fd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+分区类型：GPT 了文件名称
+. =(根目录)
+恢复的文件(1)
+肉3pgs.rar我]
+一磁盘 offset
+1DFFF00000 1DFFF00010 1DFFF00020 1DFFF00030 1DFFF00040 1DFFF00050 1DFFF00060 1DFFF00070 1DFFF00080 1DFFF00090 1DFFFO00A0 1DFFF000B0
+文件 0
+00 00 00 00 52 00 00 66 96 61 65 05
+1
+00 00 00 00 61 05 04 69 F1 2B 61 04
+国预览
+2 00 00 00 00 72 01 A4 6c 68 47 57 00
+3 00 00 00 00 21 01 00 65 81 63 68 00
+详细
+4 00 00 00 00 1A 80 20 2E AC 47 2B 00
+5
+00 00 00 00 07 80 1E 6B DB 39 53 00
+6
+00 00 00 00 01 00 DO 65 01 76 37 00
+缩略图 7
+00 00 00 00 00 c5 E3 79 65 62 74 00
+8
+00 00 00 00 33 D9 4E 66 6D 4F 67 00
+?描述存在的虚拟出的... 从扇区.
+图例说明
+9 00 00 00 00 92 98 80 69 5A 57 3D 00
+A 00 00
+00 00 B5 BE 00 6c 7A 76 3D 00
+B 00 00
+00 00 E5 2B 00 65 35 68 1D 00
+门 C 00 00 00 00 OA 02 OF OA 59 75 77 00
+?文件类型 rar
+同步
+E D
+00 00 00 00 01 03 6B 03 71 6D 56 00
+00 00 00 00 05 OB 65 02 67 53 51 00
+F
+00 00 00 00 06 A4 79 42 35 70 03 00
+路径
+恢复的文件养
+Rar!000030 00O
+UTF-8
+品
+key
+file.kevfile B
+口
+口
+mzz5Ygg5
+a+GcG9vboWvhumSp eawh+s7tg==wv 000000000000000
+文件大小创建时间
+2.0MB 114B 114B
+编解码与加解究 <ase64X
+编解码/Base64/解码
+UnicodeX
+UnicodeX
+emZz5Ygg5a+GcG9vbOwvhumSpealwh+S7tg=:
+Base64
+解码V
+zfs加密pool密钥文件
+编码入

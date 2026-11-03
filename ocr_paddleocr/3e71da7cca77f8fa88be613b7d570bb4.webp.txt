@@ -1,0 +1,30 @@
+# OCR: 3e71da7cca77f8fa88be613b7d570bb4.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/3e71da7cca77f8fa88be613b7d570bb4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Recipe FromHex Delimiter Auto
+a
+?
+Input ex7a@x68 ex61 ax6f
+232 RIC
+Output
+@x68 ex61 ex6f@x68
+ex61 ex6f ex68 ex6f
+ex6f 9x68 ex6f ex6e
+ex68 ex6f ex6e x67
+zhaohongzhaohongzhaohongzhaohong
+ex6f ex6e
++
+口
+ex6e
+ex670x7a
+ex670x7a
+ex670x7a
+9x68
+@x68 ex61
+Tr Raw Bytes
+个
+a石
+因

@@ -1,0 +1,47 @@
+# OCR: 4bc56c38d4f2ac34dabddeab3fdf6057.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/4bc56c38d4f2ac34dabddeab3fdf6057.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+园图由
+e 靓国
+向 G
+0
+登录-VMwareESXi
+A不安全后台管理系统
+首页
+系统管理系统监控系统工具
+国
+表单构建代码生成系统接口
+用户管理内容管理商城管理靓号管理支付管理
+X
+192.168.8.89/tool/swagger
+蓝易云面板
+首页/系统工具！系统接口
+首页
+·系统接口
+Swagger
+SMARTBEAR
+x
+Qbcrypt在线加密-提素
+集美好物接口文档 http://192.168.8.89/prod-api/v3/api-docs
+接口链接前缓：http://apijmhw.sdxfwl.top Servers
+http://192.168.8.89:80-InferredUrl
+版本号：3.8.2
+app软件信息
+SoftwarePackageApiController
+协议页面
+AgreementPageController
+商城相关ShopController
+OAS3
+X
+在线Bcrypt密码生成工具-Bejs
+系统接口
+后自管理系统
+A
+☆
+Q
+搜索
++
+Selecta

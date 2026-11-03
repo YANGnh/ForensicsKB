@@ -1,0 +1,57 @@
+# OCR: 9e0db9f0209a645afde5fd2a4fb10fc5.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/9e0db9f0209a645afde5fd2a4fb10fc5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+SYSTEM
+Commontasks
+ Export to REGEDIT4 format.
+H Save Report... Explorertasks 等 File Information  Security Records OSAM
+, windows Installation
+Hardware User Data
+Startup Applications  Services and Drivers Network Configuration ewindows Firewall Settings
+福Environment  Shell Folders
+Outlook Express 品RawData
++ +
+团国
+由庄
+ACPI
+品
+ACPI_HAL BTH
+DISPLAY HDAUDIO HID
+HTREE
+PCI PCIDE ROOT SCSI
+STORAGE
+SwD USB
+USBSTOR
+白·Disk&Ven TOSHIBA&Prod_EXTER
+20211113005552F0  Device Parameters Properties
+Hardware Profiles
+Policies Services
+DriverDatabase
+Value
+ab DeviceDesc
+器
+Capabilities
+Address
+ab
+ContainerlD
+HardwarelD
+ab ab
+CompatiblelDs ClassGUID
+Service abs
+abDriver abMfg
+ab FriendlyName ConfigFlags
+Type REG_SZ
+REG_DWORD BEG DWORD REG_SZ
+REG_MULT... BEG MULTI...
+REG_SZ REG_SZ REG_SZ REG_SZ REG_SZ
+REG_DWORD
+Data
+@disk.inf,%disk_devdesc%;Disk drive
+0x00000010 0x00000001
+(fe9cc9ce-4dad-56cc-9205-919c0712481a) USBSTOR'DiskTOSHIBA EXTERNAL USB USBSTOBADiskUSBSTORRAWGenDisk(4d36e967-e325-11ce-bfc1-08002be10318) disk
+{4d36e967-e325-11ce-bfc1-08002be103180001@disk.inf,%genmanufacturer%;[Standard disk drives]
+TOSHIBA EXTERNAL_USB USB Device 0x00000000
+USBSTOR'DiskTOSHIBA EXTEBNA

@@ -1,0 +1,27 @@
+# OCR: 7cb96f94d6c050d1837872fcc8730dba.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/7cb96f94d6c050d1837872fcc8730dba.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+3.敏感凭证和支付信息（取证关键信息）
+这些信息可以直接用于追踪或接管网站的通知、邮件和资金流
+字段
+USDT收款地址（USDT 收款地址)：
+TelegramBotToken: TelegramUserID:
+SMTP邮箱(username)：
+SMTP密码(password)：
+田
+导出到Google表格
+信息内容
+TPNYhBjSLTLgtxwXYbdzkwQUagg4z3rJi8
+8378348497:AAGSu7pC5rrDicjMqa7Mv9atvB1iE5NAZeY
+6213151597 ituzz@qq.com
+hxobygicmubhddhb
+敏感等级
+极高（资金流向)
+高（通知/推送到账)
+中（Bot推送目标ID)
+高邮件通知/
+找回密码）极高（邮件发送凭证）
+公众号·金星路406取证

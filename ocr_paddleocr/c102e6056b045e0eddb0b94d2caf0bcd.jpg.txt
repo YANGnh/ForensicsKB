@@ -1,0 +1,18 @@
+# OCR: c102e6056b045e0eddb0b94d2caf0bcd.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c102e6056b045e0eddb0b94d2caf0bcd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+root@javaserver:#netplanapply
+WARNING:root:Cannot call Open vswitch:ovsdb-server.service is not running. root@javaserver:#ipa
+1: lo: <LO0PBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+1ink/1o0pback00:00:00:00:00:00brd00:00:00:00:00:00 inet 127.0.0.1/8 scope host lo
+valid_lft forever preferred_lft forever inet6 ::1/128 scope host
+valid_lft forever preferred_lft forever
+2: ens33:<BROADCAST,MULTICAST,UP,LOWER_UP> mtu 150o qdisc fq_codel state UP group default qlen 1000
+1ink/ether 00:0c:29:55:e1:02 brd ff:ff:ff:ff:ff:ff altnameenp2s1
+inet192.168.100.111/24brd192.168.100.255scopeglobalens33
+valid_lft forever preferred_lft forever
+inet6 fe80::20c:29ff:fe55:e102/64 scope 1ink valid_lft forever preferred_lft forever
+root@javaserver：~#

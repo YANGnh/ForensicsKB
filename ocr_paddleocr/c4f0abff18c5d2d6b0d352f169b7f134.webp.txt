@@ -1,0 +1,15 @@
+# OCR: c4f0abff18c5d2d6b0d352f169b7f134.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/c4f0abff18c5d2d6b0d352f169b7f134.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+用户信息.zip
+文件位置D：》2o25山东联赛》output
+文件类型Zip2.0一ExtractionPassword,DefaultEncryption,可以使用Zip明文攻击
+复杂度 MD5:
+密码为：
+..·Brute-force-Fast
+99AB2D29FBD8EAA4AA2E26F725373A4B
+File-Open
+16623019512

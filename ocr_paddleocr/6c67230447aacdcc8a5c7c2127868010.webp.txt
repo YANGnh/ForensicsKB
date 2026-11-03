@@ -1,0 +1,26 @@
+# OCR: 6c67230447aacdcc8a5c7c2127868010.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/6c67230447aacdcc8a5c7c2127868010.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+bip39.onekey.so
+助记词派生路径派生地址更多信息
+12个单词
+S生成
+sessionfeversponsorcrouchtickettwistapprovevillagefinish square also cook
+如果随便输入您自己选的助记词，可能不管用（因为随机摘的质量通常得不到保证，
+且依据协议，最
+后一个词是校验词，它和前面的词有存在一定关联）。
+English Cestina
+日本语
+Espanol
+Portugues
+BIP39密码（Passphrase) BIP39种子
+中文(简体)
+中文(繁體)
+Francais
+Italiano
+可选
+e08478b0ca12153b4ae26d05fc50e5bbf122307d7d431c9d59e1f6bc7d9a835c7d3d384bb4011ae
+b7540acef56129ad620839d24383a1308997905c9c0586611 币种

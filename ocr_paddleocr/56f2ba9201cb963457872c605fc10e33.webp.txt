@@ -1,0 +1,24 @@
+# OCR: 56f2ba9201cb963457872c605fc10e33.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/56f2ba9201cb963457872c605fc10e33.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+高级设置处理器
+处理器内核数：内存
+虚拟机的内存（M）： 0
+512MB8GB 启动参数
+16GB
+重置所有用户密码绕过Windows密码
+修复黑苹果重置PIN密码
+网络配置
+桥接模式仅主机模式
+o
+NAT模式禁用网卡
+32GB
+2
+4096
+修复数据盘挂载安装VMTools 启用嵌套虚拟化
+取消
+vCPU MB
+64GB 确定

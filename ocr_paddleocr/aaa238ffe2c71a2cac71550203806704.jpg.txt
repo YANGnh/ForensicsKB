@@ -1,0 +1,29 @@
+# OCR: aaa238ffe2c71a2cac71550203806704.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/aaa238ffe2c71a2cac71550203806704.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+证据项No.1(唯—ID:37)
+项目名称/编号
+内部名称：注释(C):
+哈希值SHA-1 哈希值MD5
+图确定(O)
+检材3-计算机
+[A:检材3-计算机.E01]
+创建日期：2024/04/27d13:19:17
+文件大小：80.0GB 图伴
+案件描述(D):
+Case EvNo:
+e01内部描述信息：untitled
+Examiner: Notes
+AppVer:ADI4.7.1.2 OSVer:Win201x
+Acquiredon:2024/03/22d08:34:28 块大小：64×512字节=32.0KB
+2.621.440块expected.2.621.440块actually referenced
+总容量：85.899.345.920字节=80.0GB 每扇区字节数：512
+扇区统计：167.772.160
+FFD2777C0B966D5FC07F2BAED1DA5782F8DE5AD6
+2EBF2DEB771FB1198FF3CA9F7773B5DD 取消(A)
+校验哈希(M) 校验哈希M
+2帮助(H）
+x

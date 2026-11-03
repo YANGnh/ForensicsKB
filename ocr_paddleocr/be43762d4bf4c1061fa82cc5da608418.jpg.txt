@@ -1,0 +1,12 @@
+# OCR: be43762d4bf4c1061fa82cc5da608418.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/be43762d4bf4c1061fa82cc5da608418.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+终端×
+[root@server/1#ls/data/backup/
+atabase
+shop1.sgl
+[root@server#
+ste

@@ -1,0 +1,26 @@
+# OCR: 838fbc821efbee480c6c08b4d4932b0f.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/838fbc821efbee480c6c08b4d4932b0f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+新消磁碟压(D:)
+名糕
+A
+export-token-0x56E7A6dd8aA1c78ba...
+Record_A_2023-24.xlsx Record_B_2023-24.xlsx RecoverySeed jpg
+修改日期
+9/9/202416:29 30/8/202417:03 30/8/202417:03 30/8/202417-12
+RecoverySeedj.
+類型
+CSV榴案 XLSX猫 XLSX榴票 JPG福需
+图
+o
+目
+大小
+7KB 12KB 12KB
+1.130KB
+3
+fragile infant
+0
+心

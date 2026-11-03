@@ -1,0 +1,38 @@
+# OCR: 8414f5718830629453ae33d1870f8b4e.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/8414f5718830629453ae33d1870f8b4e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+Session settings
+SSH
+Telnet
+Rsh
+BasicSSHsettings
+Remotehost
+区 Xdmcp
+192.168.71.100
+AdvancedSSHsettings
+RDP
+VNC
+Terminalsettings
+FTP
+Specifyusername
+SFTP
+Serial
+droid
+Network settings
+SecureShell(SSH)session
+SoK
+X
+File
+Shell
+Browser
+Bookmarksettings
+Cancel
+Mosh
+AwsS3
+Port
+122
+WSL
+x

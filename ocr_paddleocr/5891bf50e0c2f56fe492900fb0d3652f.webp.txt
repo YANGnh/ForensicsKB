@@ -1,0 +1,33 @@
+# OCR: 5891bf50e0c2f56fe492900fb0d3652f.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/5891bf50e0c2f56fe492900fb0d3652f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+证据项No.2(唯一ID:1)
+项目名称编号
+内部名称注释(C)
+哈希值1无哈希值²无
+分区2
+UFSXmeivatest2[FBFE1BADlP2
+根据当前文件系统的时区显示时间：UTC
+图确定(O)
+取消(A)
+案件描述(D)
+创建日期：2024/11/13d13:00:09
+大小：426GB 文件：1,952 天+n云牛.
+文件系统：Ext4
+17.024字节=426GB
+扇区统计：893.386.752
+每扇区字节数：512 每簇字节数：4.096
+空余簇：109.214.136=98%空余族总数：111.673.344
+NumberofInodes:27.918.336
+NumberoffreeInodes:27.916.364 Numberofblockgroups:3.408
+Blockspergroup:32,768 Inodespergroup:8192 Inodesize:256
+Usessparsesuperblocks:是 UsesFlexibleBlockGroups:是 UsesMetaBlockGroups:否
+FScreationtime:1970/01/19d11:35:02+8 Lastmounttime:1970/01/01d08:01:05+8
+计算哈希值(m).. 计算哈希值(m)
+显示时区
+压缩（C)
+帮助(H)
+×

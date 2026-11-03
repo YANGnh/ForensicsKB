@@ -1,0 +1,30 @@
+# OCR: cf79bc85304d5b9794e647e2da95a69d.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/cf79bc85304d5b9794e647e2da95a69d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+/名称 2/144139
+3 47 12
+24533
+12 3273 20349 792 4 1
+Akali64位.vmdk-计算机.Eo1>
+三序号 □1 口2 □3 口4 口5 6 口7
+三标题过滤
+Kali Linux Kali Linux
+404NotFound Get the pikachu Getthepikachu
+Firefox浏览器>
+kali历史记录
+三URL 过滤
+https://portswigger.net/in-product/community/proxy/intercept
+在历史记录中搜索
+Q
+三最后访问时间
+起始
+结束
+2025-05-0910:30:26
+https://portswigger.net/burp/documentation/desktop/tools/proxy/getting-started-intercept?utm_s..
+file:///usr/share/kali-defaults/web/homepage.html file:///usr/share/kali-defaults/web/homepage.html http://www.forensix.test.com/bf_form.php
+http://www.forensix.test.com/vul/burteforce/bf_form.php http://www.forensix.test.com/vul/burteforce/bfform.php
+2025-05-0910:30:26 2025-05-0915:45:14 2025-05-0915:45:18 2025-05-0915:45:49 2025-05-0915:46:04 2025-05-0915:46:32
+Q高

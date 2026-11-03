@@ -1,0 +1,11 @@
+# OCR: 18fa534b58e4786a9a2719828bfc066d.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/18fa534b58e4786a9a2719828bfc066d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+编码小助手
+base64解码x
+aHR0cDovLzU5LjE1Mi4yMTEuMTE6NDQ0ND9tb2RIbD0= 结果http://59.152.211.11:4444?model=
+/
+Alt+1

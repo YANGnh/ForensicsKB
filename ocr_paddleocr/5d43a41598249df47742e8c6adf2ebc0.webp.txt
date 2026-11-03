@@ -1,0 +1,20 @@
+# OCR: 5d43a41598249df47742e8c6adf2ebc0.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/5d43a41598249df47742e8c6adf2ebc0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+对象
+家开始事务 Host
+localhost localhost localhost localhost
+user (mysql (localhost_3306)-表
+文本、筛选排序
+User
+mysql.infoschema mysql.session
+mysql.sys root
+职导入肥导出
+Select_priv
+Y Y
+Insert_priv
+H H H Y
+Upds H H Y

@@ -1,0 +1,22 @@
+# OCR: 31b1995e07914d47e02e0d56661cfd41.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/31b1995e07914d47e02e0d56661cfd41.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+义言的手机》
+■三序号
+口1 □2
+详细信息
+三名称过滤
+基他应用>Mattermost
+base.apk oat(3)
+名称：base.apk
+扩展名：apk 类型：文件
+大小：57.60MB
+修改时间：2023-02-1615:2127 MetaAddr：3822807552
+应用目录
+三大小等于 57.60 OB
+全路径：Pixel.tar/data/app/com.mattermost.rn-Sg5JffnKAHFRLxOAlxiaTA==/base.apk
+加密类型：未加密已删除：
+香

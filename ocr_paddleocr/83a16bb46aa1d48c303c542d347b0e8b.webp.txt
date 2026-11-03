@@ -1,0 +1,48 @@
+# OCR: 83a16bb46aa1d48c303c542d347b0e8b.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/83a16bb46aa1d48c303c542d347b0e8b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+项目
+操作系统名称版本
+其他操作系统描述操作系统制造商
+系统名称系统制造商系统型号系统类型系统SKU 处理器
+BIOS版本/日期 SMBIOS版本
+嵌入式控制器版本
+BIOS模式主板制造商主板产品主板版本平台角色
+安全启动状态 PCR7配置
+Windows目录
+系统目录启动设备区域设置硬件抽象层
+用户名时区
+已安装的物理内存（RAM）
+总的物理内存可用物理内存总的虚拟内存可用虚拟内存页面文件空间页面文件
+内核DMA保护
+基于虚拟化的安全性
+基于虚以化的安全性要求的安全属性基于虚以化的安全性提供的安全属性
+基于虚拟化的安全服务已配置基于虚拟化的安全服务正在运行商用应用控制政策
+商用应用控制用户模式政策自动设备加密支持
+已检测到虚拟机监控程序，将不显示HVper-V所需的功能
+值
+MicrosoftWindows11专业版
+10.0.26100版本26100 没有资料
+Microsoft Corporation DESKTOP-8RM6G90
+MECHREVO YAOSHISeries
+基干x64.的电脑 0001
+Intel(R)Core(TM)Ultra9275HX，2700Mhz，24个内核，24个逻辑处理器 AmericanMegatrendsInternational,LLC.N.1.13MRO17,2025/4/25
+3.5 1.14 UEFI
+MECHREVO
+VAOSHLSeries-X6AR55xV Standard
+移动启用
+需要提升才能查看 C:Windows
+C:/Windowssystem32
+/Device\HarddiskVolume1 中国
+版本="10.0.26100.1"
+DESKTOP-8RM6G9ONoahTie 中国标准时间
+32.0GB 31.5GB 18.8GB 37.0GB 24.1GB 5.50GB
+C:pagefile.sys 启用
+正在运行
+基本的虚拟化支持，安全启动，DMA保护，UEFI代码只读，SMMSecurityMiti..
+虚拟机监控程序强制执行的代码完整性虚拟机监控程序强制执行的代码完整性
+已实施审核
+需要提升才能查看

@@ -1,0 +1,67 @@
+# OCR: a0e3e096d17cd8487b20501746c2c207.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/a0e3e096d17cd8487b20501746c2c207.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+检材1-手机.tar/datauser/O/com.miui.notes)databases 口丫文件名称一
+..=com.miui.notes(o)
+.=databases (O) dbpref.db
+dbpref.db-journal note.db
+note.db-journal
+note.db-shm note.db-wal todo.db
+htdadh.iaurnal
+三DBBrowserforSQLite-G:\2025FIC决赛\exports)note.db
+文件(F）主
+编辑(E)
+新建数据库（H）
+数据库结构（D）表(T)：回data
+查看(v)
+帮助（H)
+工具(T)
+打开数据库（0)
+浏览数据(B)
+V
+mime_type
+写入更改（w）
+编辑杂注(R)
+执行SQL(x)
+note_id
+过滤
+1 d.android.cursor.item/text note
+倒退更改（R）
+A
+created_date 过滤
+了描述存在的存在的存在的存在的存在的存在的存在的存在的存在的友在的
+?文件类型 db
+db-journal db
+db-journal db-shm db-wal db
+Ahiaurnal
+撤销(u)
+品
+过滤任何列
+modified_date
+过滤
+117471251530001747125153000
+了路径
+检材1-手机.tarldatalusero
+11分钟以前
+检材1-手机.taridatauser/Ocom.miui.notes
+检材1-手机.taridataluser/O/com.miui.notes)databases 检材1-手机.taridataluser/Ocom.miui.notes/databases 检材1-手机.taridata\user/O/com.miui.notes)databases 检材1-手机.taridataluseriO/com.miui.notesidatabases 检材1-手机.taridataluser/O/com.miui.notes/databases 检材1-手机.taridataluseriO,com.miui.notesdatabases 检材1-手机.tar/dataluser/O/com.miui.notes)databases tatti.T机tardatalucariocmmiuinntacldatahacac
+打开项目（P）
+过滤
+【保存项目（s） content
+附加数据库（A）
+X关闭数据库（C)
+编辑数据库单元格(C) 模式：文本
+文件大小
+了创建时间
+OB OB
+24.0KB 0.5KB 48.0KB 4.5KB 32.0KB 165KB 20.0KB 05KR
+口
+x
+PAOO
+<text indent="i">Save my P Ass.</text>
+2
+<text indent="i">Save my P Ass.</...
+<text indent="i">here is password for keepass</tex

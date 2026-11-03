@@ -1,0 +1,15 @@
+# OCR: eba1717548dffe78d66211c5fe6bae41.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/eba1717548dffe78d66211c5fe6bae41.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+搜索76000514(76121523：35:58 IPCAM
+K
+00:00:04/00:00:18S/W
+AAC2.1
+AVC1
+360
+3D
+目
+安

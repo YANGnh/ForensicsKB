@@ -1,0 +1,20 @@
+# OCR: 64eebe173750f9e8d3e9cca6b1916c58.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/64eebe173750f9e8d3e9cca6b1916c58.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+cmd='cd/www/wwwroot/192.168.209.147;catwp-config.php
+response=<?php*火
+*WordPress基础配置文件
+*这个文件被安装程序用于自动生成wp-config·php配置文件
+大您不必使用网站，可以将这个文件复制到「wp-config·php」并填写这些值本文件包含以下配置选项
+*数据库设置*＊密钥
+*数据库表名前缀*ABSPATH
+@linkhttps://wordpress.org/documentation/article/editing-wp-config-php 大
+@package WordPress
+*大数据库设置－您可以从您的主机获取这些信息*//*WordPress数据库名称*
+define（DB_NAME192_168_209_147);/*数据库用户名*/
+define(DB_USER192_168_209_147**数据库密码*
+define('DB_PASSWORD
+X847Z3QzF1a6MHiR'

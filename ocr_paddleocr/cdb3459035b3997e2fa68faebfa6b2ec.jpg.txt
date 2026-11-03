@@ -1,0 +1,39 @@
+# OCR: cdb3459035b3997e2fa68faebfa6b2ec.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cdb3459035b3997e2fa68faebfa6b2ec.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+052207:47:29UTC
+[checkin]
+05/2207:47:36UTC
+[checkin]
+05/227-47:38UTc[checkin] e5/22e7-47-43UTc[checkin]
+hostcailed hostcalled hostcalled
+home, home home,
+sent:
+19bytes
+sent:
+52bytes
+sent:
+56bytes
+hostcalled
+home,
+sent:68bytes
+host called home,sent:74 bytes
+e5/22e7-47-54UTc[checkin]
+host called home,sent:63 bytes
+e5227-48:6UTc[checkin]
+e5/22e7:48:e7UTc[checkin]hostcalledhome,sent:7ebytes
+e5/22e7:48:e9UTc[input]<neo>downloadC:Users|AdministratorDesktop|Ww\Www\commonconfiglconfig-php
+e5/22e7:48:o9UTc[task]<T1005>TaskedbeacontodownloadC:|Users/Administrator|Desktop|www\www/commonlconfiglconfig-php
+e5/22e7:48:e9uTc[checkin]hostcalledhome,sent:71bytes 5/22e7:48:09UTc[output]
+starteddownloadofC:Users/AdministratorDesktop|Www)www/commonconfiglconfig-php（448bytes) 05/22e7:48:09UTc[output]
+downloadofconfig-phpiscomplete
+05/2207:48:39UTc[checkin]hostcalledhome,Sent:
+4ebytes
+5/22e7:48:53UTc[checkin]hostcalledhome.
+sent:71bytes
+722 A5
+97-49-A3UTC
+outnut

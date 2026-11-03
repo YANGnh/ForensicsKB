@@ -1,0 +1,12 @@
+# OCR: a7609ede8276eb7c8339c4ed90e8ced6.jpeg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/a7609ede8276eb7c8339c4ed90e8ced6.jpeg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+终端x
+[root@localhost/]#cd/var/lib/docker/volumes/uptime-kuma/_data root@localhostdata#ls
+docker-tlskumadb
+kuma.db-shmkuma.db-wal
+root@localhostdata#
+screenshotsupload

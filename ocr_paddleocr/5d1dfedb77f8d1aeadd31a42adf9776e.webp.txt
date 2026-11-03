@@ -1,0 +1,7 @@
+# OCR: 5d1dfedb77f8d1aeadd31a42adf9776e.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/5d1dfedb77f8d1aeadd31a42adf9776e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+当内容管理扩展管理充值管理油卡充值话费充值提币管理三菜单管理

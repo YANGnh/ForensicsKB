@@ -1,0 +1,9 @@
+# OCR: 78e3562a5c4b57f59c7ecb99d0ba6432.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/78e3562a5c4b57f59c7ecb99d0ba6432.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+671唐承珍 672谢媛 673钟霜 674陆俊梅 675肖冬花
+13005968861 13200559177 15079030469 15979503550 13755162542
+2 2 2 2 2

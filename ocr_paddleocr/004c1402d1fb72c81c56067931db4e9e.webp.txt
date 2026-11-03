@@ -1,0 +1,57 @@
+# OCR: 004c1402d1fb72c81c56067931db4e9e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/004c1402d1fb72c81c56067931db4e9e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+厂支件名称
+=ru.meefik.linuxdeploy (O)
+I. = shared prefs (O) properties_conf.xml settingsconf.xml
+一卷 offset 00001440 00001456 00001472 00001488 00001504 00001520 00001536 00001552
+文件 0
+0A 65 2E 20 3D 2F 6F 5F
+1
+20 3D 55 20 22 73 6c 61
+国预览
+3 2
+20 22 54 20 64 74 65 73
+20 6c 46 20 65 72 61 79
+回详细
+5 4
+20 6F 2D 3c 73 69 6E 6E
+3c 63 38 73 6B 6E 20 63
+口缩略图
+7 6
+73 61 3c 74 74 67 6E 22
+74 6c 2F 72 6F 3E 61 20
+8
+时间轴
+10 9
+72 65 73 69 70 OA 6D 76
+69 22 74 6E 22 20 65 61
+6E 3E 72 67 3E 20 3D 6c
+11
+图例说明
+12
+67 7A 69 20 78 20 22 75
+20 68 6E 6E 66 20 69 65
+了描述存在的存在的
+存在的，… 存在的
+15
+13 6E 5F 67 61 63 3c 6E 3D
+14
+61 43 3E 6D 65 62 69 22
+6D 4E 0A 65 3c 6F 74 66
+文件类型
+xml xml
+同步
+了路径
+检材1-手机.tarlda 检材1-手机.tarida 检材1-手机.tarida 检材1-手机.tarida
+养
+UTF-8
+<stringnam
+e="locale">zh CN.UTF-8</string>
+<string name
+="desktop">xfce</string>
+<bo
+olean name="init async"value="f

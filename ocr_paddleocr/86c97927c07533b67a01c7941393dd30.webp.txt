@@ -1,0 +1,39 @@
+# OCR: 86c97927c07533b67a01c7941393dd30.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/86c97927c07533b67a01c7941393dd30.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+回
+YMd5inc2bdfcdbd6c63..
+=序号 1
+详细信息
+=名称过滤旨
+important.dox
+名称：important.docx
+?
+=MD5 过滤
+2BDFCDBD6C63EFC094AC.
+SHA256:CCEC6C9A61DF5FD600C40F01F0F71D3857223278E7934CE36A331E29C2F1932E SHA1:9A261E957436CA9915A6AF7EA7B421E99E7A9D94
+2BDFCDBD6C63EFC094AC154A28968B7D
+MD5：
+扩展晨名：docx 类型：文件大小：34.36KB
+2025-04-14 11:54:25
+创建时间：：访问时间：
+2025-04-15 14:37:49
+修改时间：：
+2025-04-1411:46:35 37488791
+MetaAddr:
+全路径：检材3.E01/分区8/home/adm1n/图片/important.docx 加座类型：
+未加密
+已删除：否
+三哈希集过滤
+原类型视图
+PAGE
+=SM3 过滤
+文本视图
+ZooM
+HIGHLIGHT
+十六进制视图
+我用来存储助记词
+在检

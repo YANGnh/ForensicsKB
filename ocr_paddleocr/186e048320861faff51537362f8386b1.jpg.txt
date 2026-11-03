@@ -1,0 +1,41 @@
+# OCR: 186e048320861faff51537362f8386b1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/186e048320861faff51537362f8386b1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+G
+不安全htps//192.168.71.133:8006/evi:址:4.node%2Fpve:4:25=:6:5 XPROXMOnuaEmomenm814
+服务递视照醒致据中心 opve
+110 (nginx) 100 (Router) 101(node1) 102 (node2) 103 (node3):111 (Javaserver) 112 (sglserver) 120 (luck)
+ localnetwork(pve)
+local (pve) locai-hm(pve) localr2 (pve)
+节点pve
+Q搜表我您 D注  Shel 系统
+·凭证 eDNS o机 0选项时间  Syslog 更所存锈库药火增
+ LVM
+LVM-Thin
+Har 22 18:10:48 pve peeproe(1209) startisg 1 worker(s) Mer22t:10:48pepeprao(1209mortlersa5started
+Mar 2218:13:20 pekend: munet300003:0.0e60: NOC UsksDemm Har221813:20pekedl mbro:pont1(en160)enteredcabledstate
+e2000000N0CU00
+Mar221:13:25peked:mbr0:pat(e60) eteredBlocngstat Mar 22 18:13:25 pve kemel: vmbro: port 1(ens160) entered ferearding statt
+destroy
+Nar221:15:8pepeetaemon(1200]:roopam>end taskUPID:pve001236:0035C96:65FD83Cmgroy01:roetoosm0K Mar2218:15:epepepr(4967)aer
+Mar2218:15:10 pekedmmet300003:00e60: NOCUnkisD Mar2218:15:10pvekene:mbrport1(en160) enteretdeabiedstate
+Ne1e00000.060N0C100
+Mar 22 t8:15:15 pve kemet: vmdrt: port 1(ens160) entered blocing stete Mar221815:15peke mbrpart1(en60) eteredfewadings
+ro0am>tatngtastPDpe0001AG8:002DSCSA35:ede13tm
+Nar 22 18:15:17 pve pvedaenon[1201]: Mer2218:15:17prepredeemar[6811]:
+detioyM113:UPDve:001AS8:0031D3:6SPDA35qndestro:113:rootepem
+Mar2218:15:18pevetaemon[1201]rootpam>endtakUPIDpve0001A9B:00231D:65F05A35et13etamOK Nar2218:15:25pepiedeemon[1202];rootepm
+>startingtaskUPIDpve:00001ABB:00Z3515:6SF05A3D:emstart111:rootepam
+Mer22:15:25pedemon[6840]:ta11UPDpe0001A8800023515:S0A3D:mtet:rootpem Mar2218:15:26peysten[1Sated111cope
+Mar2218:15;27pekedtap:esteredgrmiscuoesmade
+Mer2218:15:27pekeel:vmbr:part(hupr11p0) erteredblocengtate Mar 22 18:15:27 pve kenel: vmbrd: part 5(hwpr11p0) enteree disatled state
+Mar2218:15:27pekendfwp11pl:eteredalmicastmode Mar2218:15:27pvekeel:fupr1lipoerteedproniscususmeode
+Mar221:15:27peked:mirpantS(hg1p0)rtedblscing Mar2218:15:27pekend:mr:portS(hw11p0) etenwarngstate Mar 22 18:15:27 pve kenel: fwtr111i0t gort 1(fmln1L10) entered blodking state Mar2218:15:27pvekemel: fubr111l:port(fuln1130) ertered durabled state
+Mar 2218:15:27 pvekemel: fwint11it: entered alinuticast mede Har221815:27pvekemehwhenteredpremcucusmode
+Her2218:15:27pekee:futrpo(fal0)erteredblocorgtate Mer228:15:27 pekend: hatr: port (folsi0) ertered foiadingsat
+司A合 X
+40/40
+Uve模式通择时

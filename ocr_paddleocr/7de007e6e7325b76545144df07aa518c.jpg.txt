@@ -1,0 +1,21 @@
+# OCR: 7de007e6e7325b76545144df07aa518c.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/7de007e6e7325b76545144df07aa518c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Recipe
+URLDecode FromBase64 Alphabet
+A-Za-z0-9+/= strictmode
+日
+? On
+Removenon-alphabetchars
+Input
++口
+田
+Y2QgIi93d3cvd3d3cm9vdC93d3cudHBzaG9wLmNvbS9hcHBsaWNhdGlvbiI7dW56aXAgZ29vbj3fbG1uLnppcDt1Y2hvID1mN2Rk03B3ZDt1Y2hvIGR1YTc1 YWY3NDMxNQ%30%3D
+w136 Output
+9136
+cd"/ww/wwroot/wwi.tpshop.com/application";unzipgoon2_1in.zip;echo9f7dd;pwd;echodea75af74315
+TrRaw Bytes 日
+L

@@ -1,0 +1,15 @@
+# OCR: 92eff6bd099e90dd874d283a10378057.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/92eff6bd099e90dd874d283a10378057.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+1天您的余额
+3个月1
+1周1个月
+5022915.66IDFC
+接收
+发送
+InternationalDigital ForensicsCoin活云 8月20于12:32pm
+已接收IDFC个已确认
+333333.33

@@ -1,0 +1,17 @@
+# OCR: 6c7c565dad11692541eadec5e5235835.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/6c7c565dad11692541eadec5e5235835.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+羊细信息
+名称：xcpersistence
+美型：文件小：4KB
+修改时间：2025-05-2610:02:42
+元数据地址：190437888 全路径：
+ndroid.tar/com.xcthings.fchan.o.tar/com.xcthings.fchan.o/data/user/o/com.xcthings.fchan/f
+原类型视图
+文本视图
+十六进制视图
+X
+@privacy_f1lag图login_account图13877144642country_codecNHMs_ToKENutIQA

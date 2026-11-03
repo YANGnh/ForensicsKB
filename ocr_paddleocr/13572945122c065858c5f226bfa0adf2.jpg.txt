@@ -1,0 +1,15 @@
+# OCR: 13572945122c065858c5f226bfa0adf2.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/13572945122c065858c5f226bfa0adf2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+检材3-计算机》目基本信息》
+口序号口1
+三浏览器过滤
+GoogleChrome
+e默认浏览器
+三用户过滤 L
+三系统过滤
+4
+分区6/Win..

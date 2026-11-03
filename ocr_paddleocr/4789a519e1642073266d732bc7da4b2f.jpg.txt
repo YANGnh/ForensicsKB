@@ -1,0 +1,28 @@
+# OCR: 4789a519e1642073266d732bc7da4b2f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/4789a519e1642073266d732bc7da4b2f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+docker
+品容器列表
+存储服务器
+docker>
+国排座号口1 口2 口3 口4
+三容器ID 过速
+a42dfbe981e3337ade3e2359fc83c.. 41945cbed0274b0dc6305434dbc5.. b28698e5320af420fd12d6f57adb2.. 85c6f203ba5b996d47d27a2d6c67a.
+排使用的镜摄过速
+prophet310/alist-encrypt:beta soulteary/flare
+louislam/uptime-kuma:1 corentinth/it-tools:latest
+非自动分配的客器名过速
+alist-encrypt flare-flare-1 uptime-kuma it-tools
+启动容器时运行的命令过速
+flare,--nologin=0 node,server/server.js nginx-g.daemon off;
+容器状恋
+过速 Running Running Running Running
+在容器列表中搜索
+单文件挂鞋过速
+Q
+单容器端口信电过速
+5344/tcp: 5005/tcp: 3001/tcp: 80/tcp:
+sa高级#新屋网过速 bridge flare_d bridge bridge

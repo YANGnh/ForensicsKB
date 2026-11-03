@@ -1,0 +1,68 @@
+# OCR: 691382b7a69e928a8a5e79d23594d564.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/691382b7a69e928a8a5e79d23594d564.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+/home)android).config/chromium/Default 口文件名称一
+口.
+chromium(430) Default (195)
+shared_proto_db(10)
+SiteCharacteristicsDatabase(5)
+SyncData(5)
+VideoDecodeStats(2 WebStorage(2)
+X.org.chromium.Chromiur AffiliationDatabase
+AffiliationDatabase-jour
+Bookmarks Cookies
+Cookies-journal DIPS
+DIPS-shm DIPS-wal Favicons
+Favicons-journal
+heavyad interventiono heavy ad intervention o History
+History-journal
+了描述存在的存在的存在的存在的
+了文件类型
+DB Browser for SQLite - C:\Users\ADMINI~1VAppData\Local\Temp\History 266127
+文件(F)
+编辑(E)
+新建数据库（H) 数据库结构(D)
+查看(V)
+工具(T)
+帮助(H）
+打开数据库（0）写入更改(W)
+浏览数据（B）
+表(T)：downloads
+guid
+过滤
+编辑杂注(R)
+执行SQL(x)
+含倒退更改(R)
+国o
+A
+了路径
+Thomelandroid/.config
+homelandroidy.config/chromium
+homelandroidy.configlchromiumDefault homelandroidy.confialchromiumiDefault
+会撤销(u)
+品
+【打开项目(P）
+过滤任何列
+current_path
+过滤
+c843d945-cc05-4dcd-88f4-9e64febfce80 1
+/home/android/Downloads/
+过滤
+【月保存项目(s）
+附加数据库（A）
+X关闭数据库（C）
+编辑数据库单元格（C）模式：文本
+target_path
+/home/android/Downloads/..
+文件大小创建时间 28.2MB2025/05/09
+15:21:00+8
+6.9MB2025/05/1218:58:12+8 15.8KB2025/05/1218:58:12
++8
+13KB2025/05/1218:58:12
++8 口
+#A#
+/home/android/Downloads/reshackersetup.exe
+X 点

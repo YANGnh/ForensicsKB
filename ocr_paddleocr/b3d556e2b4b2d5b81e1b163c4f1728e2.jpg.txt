@@ -1,0 +1,12 @@
+# OCR: b3d556e2b4b2d5b81e1b163c4f1728e2.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/b3d556e2b4b2d5b81e1b163c4f1728e2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+??
+初始化值连接到服务器配置连接协议认证用户信息
+Local ident:'SSH-2.0-ssh2js1.15.0
+Client: Trying192.168.47.133 onport22 Socketconnected
+Socketerror:readECONNRESET readECONNRESET
+Connectionlostbetorehandshake

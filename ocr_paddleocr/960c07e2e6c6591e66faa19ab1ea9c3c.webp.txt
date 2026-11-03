@@ -1,0 +1,17 @@
+# OCR: 960c07e2e6c6591e66faa19ab1ea9c3c.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/960c07e2e6c6591e66faa19ab1ea9c3c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+A
+命令提示符
++
+Microsoftwindows「版本10.0.22ooo.2538(c）MicrosoftCorporation。保留所有权利。
+口
+x
+E：\4.学习调研\工具集\T-B0XforJelly\工具】【3】密码工具】【8】hashcat\hashcat-6.2.5>hashcat-a3-m10002c8b52dcc3af1307
+f868dd326535a763-1?d?l?d?d?d?d?d?d@?1?1?1?1?1 hashcat(v6.2.5)starting
+Device#lwARNING!Kernelexectimeoutisnotdisabled
+This may cause "CL_OUT_OF_RESoURCEs" or related errors Todisable
+e

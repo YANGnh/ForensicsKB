@@ -1,0 +1,21 @@
+# OCR: 39b3e001d710af92e719040c67061294.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/39b3e001d710af92e719040c67061294.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+1716359381... 2024042122.. 屏幕截图202..
+msf6exploit(nulti/handler)>usepayload/windows/x64/meterpreter/bind_tcp msf6payload(windows/x64/nmeterpreter/bind_tcp)
+>showoptions
+Moduleoptions(payload/windows/x64/meterpreter/bindtcp):
+Name
+EXITFUNC
+LPORT RHOST
+Current Setting
+RequiredDescription
+process 4444
+yes yes no
+Exitlechnique(Accepted: TheListen port
+The target address
+View Lhe full module info with Lhe info, or info -d command. msf6payload(windows/x64/neterpreter/bind_tcp)
+seh,thread,

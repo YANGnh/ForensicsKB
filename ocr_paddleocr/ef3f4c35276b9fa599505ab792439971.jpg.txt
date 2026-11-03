@@ -1,0 +1,32 @@
+# OCR: ef3f4c35276b9fa599505ab792439971.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/ef3f4c35276b9fa599505ab792439971.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+对象圖保存字段名
+membermoneytotal@jinyi (112My.
++ 素引
+memberid
+添加字段外键
+available_money recharge_money compoundcoin change_coin purchase_coin deal_sum_money pay_sum_money trsin_sum_money trsoutsum_money
+recharge_sum_money index_number
+?插入字段触发器选项
+删除字段
+注释类型
+主键
+SQL预览
+varchar bigint bigint bigint bigint bigint bigint bigint bigint bigint bigint bigint
+个上移
+业下移
+长度 32 20 20 20 20 20 20 20 20 20 20 20
+小数点
+不是null
+区区区区区区
+区区区
+虚拟口口口口口口口口口
+口
+键
+61
+注释会员Id 零钱
+现金积分抵用券购物券拼券积分提现总金额支付总金额转入总金额转出总金额充值总金额排序号

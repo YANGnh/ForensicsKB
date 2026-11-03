@@ -1,0 +1,25 @@
+# OCR: 254bb56af7f8fcacef4e13cc5ff19bdb.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/254bb56af7f8fcacef4e13cc5ff19bdb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+g
+^集群服务器001>目Linux基本信息>集群服务器001.E01/分区4>胃系统信息
+口三序号口1 口2 口3 口4 口5 口6 口7 口8 口9 口10
+三名称过滤主机名
+操作系统类型操作系统版本操作系统名称父发行版本
+系统版本号（小写）
+系统主页
+Bug反馈地址内核版本
+三英文名称过滤
+hostname OS_TYPE OS_NAME
+MATERIALS NAME ID_LIKE
+VERSION_ID PRETTY_NAME HOME_URL
+BUGREPORTURL Kernel
+三值过滤
+k8s-master Centos Linux
+7.9.2009 (Core) centos
+rhel fedora 7
+CentOS Linux 7 (Core) https://www.centos.orgh https://bugs.centos.org/ 3.10.0-1160.el7.x86_64
+Y

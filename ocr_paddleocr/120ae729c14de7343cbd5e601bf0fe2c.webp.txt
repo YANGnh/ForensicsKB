@@ -1,0 +1,17 @@
+# OCR: 120ae729c14de7343cbd5e601bf0fe2c.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/120ae729c14de7343cbd5e601bf0fe2c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+商品编号 10906
+商品名
+Apple iPhone12 Pro (A2408) 128GB海蓝色支持移动联通电信5G双卡双待手机
+商品简介
+A14仿生芯片，6.1英寸超视网膜XDR显示屏，激光雷达扫描仪，超瓷晶面板，现实力登场！
+商品图片
+商品库存 2000
+商品售价 8499
+上架状态←
+销售中
+创建时间 2020-10-14 18:32:55

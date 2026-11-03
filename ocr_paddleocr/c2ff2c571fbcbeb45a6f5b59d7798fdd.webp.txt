@@ -1,0 +1,28 @@
+# OCR: c2ff2c571fbcbeb45a6f5b59d7798fdd.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/c2ff2c571fbcbeb45a6f5b59d7798fdd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+详细信息
+IMG_0011.PNG 名称：
+扩展名：png 类型：文件大小：4.68MB
+2024-08-08 10:14:04
+修改时间：
+MetaAddr:73344512 全路径：
+BeniPhone.tar/BeniPhone/Media Log/IMG_0011.PNG
+加蜜类型：未加密已删除：否
+原类型视图
+文本视图
+十六进制视图 10:14
+S
+Joshelnvestment
+ 40
+nvestwitdly
+FowerofYou Wherelnvestm ComeTruel
+AA
+ josheidfc.info
+凸
+中
+aanon e 口
+口

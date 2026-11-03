@@ -1,0 +1,32 @@
+# OCR: cb2699c621e7c04fccfa7ddc32552dce.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/cb2699c621e7c04fccfa7ddc32552dce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+?4 口5
+详细信息
+名称：11.png 扩展名：png 类型：文件
+大
+大小：99.26KB
+11png
+desktop.ini
+2025-05-1921:30:46
+创建时间：
+访问时间：
+2025-05-1923:34:08
+2025-05-1921:30:44
+修改时间：
+MetaAddr:37574
+99.26KB 504B
+全路径：PC.E01/分区6/Users/admin/Pictures/11.png
+加密类型：未加密已删除：否
+2025-05-1921:30:46 2025-05-1615:18:53
+2025-05-1921:30:44 2025-05-1615:18:53
+原类型视图
+PC.E01/分区6/Users/admin/Pictures/11.png
+PC.E01/分区6/Users/admin/Pictures/desktop.in
+to
+文本视图
+十六进制视图
+ONE PIECE MonkeyDLufy G

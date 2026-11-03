@@ -1,0 +1,27 @@
+# OCR: b70c7abf47ec215f503eed2c31b5a16b.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/b70c7abf47ec215f503eed2c31b5a16b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+文件
+hosts 编辑
+查看
+#Copyright(c)1993-2009MicrosoftCorp#
+#ThisisasampleHOSTSfileusedbyMicrosoftTCP/IPforWindows#
+#ThisfilecontainsthemappingsofIPaddressestohostnames.Each# entryshould bekeptonanindividual line.TheIP address should
+#beplaced inthefirstcolumnfollowedbythecorrespondinghostname.#TheIPaddressandthehostnameshouldbeseparatedbyatleastone
+#space.#
+#Additionally,comments(suchasthese)maybeinsertedonindividua
+#linesorfollowingthemachinenamedenotedbya'#'symbol.#
+# Forexample:#
+##
+102.54.94.97 38.25.63.10
+rhino.acme.com x.acme.com
+#sourceserver# x client host
+#localhostnameresolutionishandledwithinDNsitself
+##
+127.0.0.1::1
+localhost localhost
+#PGS2025EXSi
+192.168.10.100vcsa.pgs.cup

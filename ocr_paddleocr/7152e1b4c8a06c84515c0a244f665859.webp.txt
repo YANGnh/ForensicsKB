@@ -1,0 +1,14 @@
+# OCR: 7152e1b4c8a06c84515c0a244f665859.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/7152e1b4c8a06c84515c0a244f665859.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+Obi!Center@44e25l.:.{
+.-Super!singlechildRenderobiectwidget.:.
+.offcobi!Text@44e32l.:.f off_c：."pgs比武专用"，
+off14obi!Textstyle@44d241.:.{.off8:.true,
+.offcobi!color@44ed2l.:.
+.off 8:double(1),-off 10:-double(l),.off18:-double(1),-off20:-double(l)
+off28obi!colorSpace@4530c1.:. Super!Enum.:.
+.-off 8:-int(0x0),.off1O:."sRGB"

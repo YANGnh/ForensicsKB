@@ -1,0 +1,91 @@
+# OCR: b84f8566e33fa0a6dbedf015480c89d8.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/b84f8566e33fa0a6dbedf015480c89d8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+Winde
+成功洁除DNS解能器快收。
+succeedec
+TAP:ARP Flush
+TAphandle:
+5fee0eeeee
+Connected via TUN_WIN
+[Aug16,
+2824,16:35:53
+AUR AHR
+AG
+2824 284 2024 2824 2024
+17:48:861 17:40:06
+UDF UDR
+UDE
+send
+exception
+send
+exception exception exception:
+Send
+exception
+ception
+17:48:07)C1ient
+terminated
+send: send: send:
+An
+operation
+on
+ooerationon asocket
+be
+syster syste systen
+Derformed
+Ibecause
+the svsten
+lacked
+sufricientbuffer
+space spac
+queue queue
+space or because a queue snaceor becauseaaueue
+Ful fuli
+fuli
+was
+full
+the systen lacked sufficient buffer space or because a queue
+wasful1
+An
+operation on a socket could not be performed because
+operationona
+send:
+An
+eration
+o
+restarting in 2eee ms
+Performed
+because the systen lacked
+couldnot
+be
+sufricientbuffer
+syster
+17:40:87]SetupC1ient:
+signaling tun destroyevent
+PAuSE network_unavailable[Aug 16, 2824, 17:40:e8]
+17:48:88)
+EVENT:
+48:8
+EVENT
+MATT
+[Aug16
+2824
+17:48:88
+WinConmandAgent:
+EVENT:RESUME
+EirAug 16,
+sufficient
+space or because a queue
+wasful1
+because:
+wasfull
+17:40:08]EVENT:RECONNECTING[Aug16,2824,17:48:08]EVENT:
+224
+transmitting
+bvpass
+to
+5.196.64.231
+RE

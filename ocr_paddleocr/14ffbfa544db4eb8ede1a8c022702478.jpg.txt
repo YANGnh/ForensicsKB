@@ -1,0 +1,10 @@
+# OCR: 14ffbfa544db4eb8ede1a8c022702478.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/14ffbfa544db4eb8ede1a8c022702478.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+TeateCT
+& 国
+root@pamy MySettings Password TFA
+Color Theme Language Logout

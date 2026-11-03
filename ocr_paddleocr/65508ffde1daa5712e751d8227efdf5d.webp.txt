@@ -1,0 +1,17 @@
+# OCR: 65508ffde1daa5712e751d8227efdf5d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/65508ffde1daa5712e751d8227efdf5d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+A2 A2 A2 A2 D 00 00 00 00
+9 8 8
+器
+C C
+nn
+选块起始位置选块尾部
+nn
+添加至用户搜索结果.. 将选块视为文件..
+添加书签.. 编辑(E)
+0
+Alt+1 Alt+2

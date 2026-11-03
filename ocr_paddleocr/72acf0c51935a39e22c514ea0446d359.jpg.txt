@@ -1,0 +1,30 @@
+# OCR: 72acf0c51935a39e22c514ea0446d359.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/72acf0c51935a39e22c514ea0446d359.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+义言的计算机曾义言的手机基本信息圆设备信息短信
+图Wi-Fi连接记录·
+移动热点应用列表
+应用申请权限
+四图片音频?视频文档文件
+5/8168
+5 11 14 1 256 6746 17 51
+1059
+回
+YAppNameinc浏览器
+口序号口1 口2
+邮名称过滤
+悟空浏览器 Chrome浏览器
+三包名过滤
+com.cat.readall
+com.android.chrome
+三版本名称过滤
+三版本号过滤 12320
+y
+424019833
+三应用分类其他
+上网浏览器
+安装位
+0 0

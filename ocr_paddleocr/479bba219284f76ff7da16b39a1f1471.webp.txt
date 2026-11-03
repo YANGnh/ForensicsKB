@@ -1,0 +1,13 @@
+# OCR: 479bba219284f76ff7da16b39a1f1471.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/479bba219284f76ff7da16b39a1f1471.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+HWf-=PXe:?M
+.cbbf9691e009G6oqKP+t4ABWAVLT4dExMHs6Ylw85a89e92c410f0UraaYXp&IVH4H
+Date:Wed，31Jul202415:07:54GMT Server:Apache/2.2.22(Ubuntu)
+X-Powered-By：PHP/5.3.1o-1ubuntu3.26 Vary:Accept-Encoding
+Content-Length:6 Connectionclose
+Content-Type：text/html
+dzINRguo2g6mkn7ycbbf9691e009G6pSUAZWgTBjNUtkPw==85a89e92c410

@@ -1,0 +1,9 @@
+# OCR: b409b0cdf330aff5a04fc3de735b233e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/b409b0cdf330aff5a04fc3de735b233e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+文本筛选(E) 搜索
+(全选） cw hx 口jk 国mk Lzk
+>

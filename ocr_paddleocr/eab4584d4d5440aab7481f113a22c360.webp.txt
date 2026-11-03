@@ -1,0 +1,46 @@
+# OCR: eab4584d4d5440aab7481f113a22c360.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/eab4584d4d5440aab7481f113a22c360.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+加卷 (X) S云盘 eDrive
+脑对象频片档
+乐面
+共享
+查看
+<本地磁盘(C:)>ProgramFiles>Oray>SunLogin>SunloginClient>log
+名称
+desktop.agent.20241109-16371 desktop.agent.20241109-16435
+history-记事本
+文件(F)编辑(E)格式(O) 2024-11-09 16:37:17
+desktop.agent.20241110-14533
+2024-11-0916:38:54
+history
+shell.20241109-162011
+2024-11-0916:39:04 2024-11-0916:39:50
+sunloginservice.20241109-162d
+2024-11-09 16:40:55
+sunlogin_service.20241109-1631 sunloginservice.20241109-1642  sunlogin_service.20241109-1642 sunloginservice.20241109-165
+2024-11-09 16:43:55 2024-11-09 16:44:46 2024-11-0916:44:46 2024-11-09 16:44:46
+sunlogin_service.20241109-1800
+2024-11-09 16:44:58
+sunlogin_service.20241109-1831
+地磁盘(C:) 加卷(E:) 地磁盘(V:)
+sunlogin service.20241109-1913 sunlogin_service.20241109-1934 sunlogin_service.20241109-201 sunlogin_service.20241109-2016
+2024-11-10 14:53:31 2024-11-1014:54:51 2024-11-10 14:56:35
+查看(V)帮助（H）
+18***14开始桌面控制（识别码方式）
+18***14桌面控制（识别码方式） 18***14桌面控制（识别码方式）
+搜索"log
+口
+X
+?
+传入K-LiteCodecPack1794Standard.exe(K-LiteCodecPack179 传入vsBuildTools.exe(vsBuildTools.exe)
+18***14桌面控制(识别码方式)）传入Dism.zip(Dism.zip)
+18***14结束桌面控制（识别码方式） 18***12开始桌面控制（识别码方式）
+18***12桌面控制（识别码方式） 18***12桌面控制（识别码方式)
+传入2e1957ebdb2b0fb25622a01410daeb7.jpg(2e1957ebdb2b0fb25 传入7de84988a6b8a4d082c4daa4fd07cb1e.png(7de84988a6b8a4d0
+18***12桌面控制（识别码方式）传入0b46f21fbe096b6361d9c11f09338744eaf8acb9.png(0b46f21fbe
+18***12结束桌面控制（识别码方式） 18***12开始桌面控制（识别码方式）
+18***12桌面控制(识别码方式）传入我们走在大路上.doc(我们走在大路上.doc) 18***12结束桌面控制（识别码方式）

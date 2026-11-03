@@ -1,0 +1,12 @@
+# OCR: 96938cba62982eea0c5ae253a6e40d9d.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/96938cba62982eea0c5ae253a6e40d9d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+力西
+星分区3(1)
+品分区4(91,185) $Extend(16) sRecycle.Bin(4)
+S-1-5-21-2119920595-1839877
+DocumentsandSettings(O) 宝PerfLogs(O)
+口文件名称一 ext4.vhdx.gz Virtural-PC.vhdx 我的文件，vhd.lnk

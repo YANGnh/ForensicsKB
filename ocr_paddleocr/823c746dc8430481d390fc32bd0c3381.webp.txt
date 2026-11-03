@@ -1,0 +1,61 @@
+# OCR: 823c746dc8430481d390fc32bd0c3381.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/823c746dc8430481d390fc32bd0c3381.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+createtableuser
+id
+primary
+phone name idcard auth
+password password2
+top qg
+member money
+frozenmoney
+value income
+Logintime
+cock giandao inteana
+int unsigned auto_increment comment
+序号
+key,
+varchar(50） varchar（20） varchar（18) int
+varchar(32） varchar(32) int
+varchar(15) int
+decimal(1o.
+2)
+decimal(10, 2) int
+decimal(1o.
+2）
+varchar(20) int
+varchar(20) int
+defauit'o' default无 default“无 default  defaulto' defaulto' default
+default default o
+default 0.00 default 0.00 default
+default o.00 defaulto' default  defaulto' default a
+not null comment notnulcomment notnuizcomment not null comment not nul comment notnulcomment notnuil
+comment
+not null comment
+notnull notnui
+comment comment
+notnull
+comment
+notnuil
+comment
+notnui
+comment
+notnull
+comment
+notnuil
+comment
+not null comment
+o
+not
+comment
+手机号账号“姓名
+！身份证号码
+是否认证，0未认证/1已认证
+登录密码！交易密码推荐人 qq
+会员等级“余额冻结金额“成长值
+总收益金额登录时间！
+是否锁定，0否/1是
+“签到时间！和分

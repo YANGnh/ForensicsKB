@@ -1,0 +1,18 @@
+# OCR: 9539fdf7ddd0dfba15844de4bdd5269f.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/9539fdf7ddd0dfba15844de4bdd5269f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+[root@server[root@server
+2023
+Gn
+~# ~#
+backup
+rootdserver
+#
+ount
+/dev/sdb
+/data
+Lost+found
+/data

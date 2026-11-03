@@ -1,0 +1,21 @@
+# OCR: 6b7fa11cae626252af787f54b61f9185.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/6b7fa11cae626252af787f54b61f9185.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+对象
+开始事务 jobid
+sys_user@ji-mei(2024FIC)-表
+文本筛选排序
+job_name
+100红包过期处理 105红包立即退回
+job_group DEFAULT DEFAULT
+sysjob@ji-mei(2024FIC)-表
+【导入【导出两数据生成咖创建图表
+invoke target
+cronexpression
+redPacketTask.redPacketlo0/2***?
+redPacketTask.redPacketl00011?2023,2024
+misfire_policy
+1 1

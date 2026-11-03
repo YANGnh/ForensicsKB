@@ -1,0 +1,34 @@
+# OCR: c367c86fe91147c6f84a9bd7faf5526d.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/c367c86fe91147c6f84a9bd7faf5526d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+详细信息
+名称：deltazero.amarok.prefs.xml
+扩展名：xml 类型：文件大小：438B
+修改时间：2025-09-2523:23:38
+元数据地址：18909165056 全路径：
+2.lmage.tar/lmage/data/data/deltazero.amarok/sharedprefs/deltazero.amarok.prefs.xm
+加密类型：未加密已删除：否
+原类型视图
+?xml map
+文本视图
+十六进制视图
+version='1.o'encoding='utf-8”standalone="
+yes
+<booleanname="enableObfuscateFileHeader”
+value:
+true
+<stringname="amarokPassword">c33367701511b4f6020ec61ded352059</string） <boolean name-"showWelcome"
+value-"false"
+Ksetname="hideFilePath”
+Kstring>/storage/emulated/o/Private</string）
+</set>
+<booleanname="isHidden”
+Kintname= </map
+appHiderMode”
+value-"true" value-"i"
+Snipaste2.10.8免费版（微软商店版）
+截屏快捷键：F1 贴图快捷键：F3 贴图：0[Default]
+X

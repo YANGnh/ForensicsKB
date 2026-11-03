@@ -1,0 +1,20 @@
+# OCR: 6fd81dae8b5690359384424dad510251.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/6fd81dae8b5690359384424dad510251.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+244日 245 246 247 248 249 250 251 252 253 254 255 256 257 258
+root@openwrt:~#1s
+chinadns-ng_2025.03.27-r1_aarch64_generic.ipk
+dns2socks_2.1-r2_aarch64_generic.ipk geoview_0.1.9-r1_aarch64_generic.ipk hysteria_2.6.1-r1_aarch64_generic.ipk ipt2socks_1.1.4-r3_aarch64_generic.ipk microsocks_1.0.5-r1_aarch64_generic.ipk
+naiveproxy_135.0.7049.38-r1_aarch64_generic.ipk passwal1_packages_ipk_aarch64_cortex-a72.zip
+passwall_packages_ipk_aarch64_generic.zip password_collector
+privkey pubkey
+shadowsocks-rust-sslocal_1.23.2-r1_aarch64_generic.ipk shadowsocks-rust-ssserver_1.23.2-r1_aarch64_generic.ipk
+shadowsocksr-1ibev-ssr-local_2.5.6-r11_aarch64_generic.ipk shadowsocksr-1ibev-ssr-redir_2.5.6-r11_aarch64_generic.ipk shadowsocksr-1ibev-ssr-server_2.5.6-r11_aarch64_generic.ipk simple-obfs_0.0.5-r1_aarch64_generic.ipk
+sing-box_1.11.9-r1_aarch64_generic.ipk tcping_0.3-r1_aarch64_generic.ipk
+trojan-plus_10.0.3-r2_aarch64_generic.ipk tuic-client_1.0.0-r1_aarch64_generic.ipk v2ray-geoip_202504050136.1_all.ipk
+v2ray-geosite_20250430053132.1_a11.ipk
+v2ray-plugin_5.25.0-r1_aarch64_generic.ipk
+xray-core_25.4.30-r1_aarch64_generic.ipk xray-plugin_1.8.24-r1_aarch64_generic.ipk

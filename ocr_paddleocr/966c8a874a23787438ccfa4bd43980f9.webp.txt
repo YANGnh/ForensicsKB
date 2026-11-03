@@ -1,0 +1,70 @@
+# OCR: 966c8a874a23787438ccfa4bd43980f9.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/966c8a874a23787438ccfa4bd43980f9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+e 四蒙口文件图分析
+检置 Q 曾自翡店國
+白工具箱
+0 新
+口
+自
+预宽位置导出报告
+请选择/输入持有人/检权
+计算机检材.E01 E, VM-EXSi Server.E01
+手机tar 文件
+ web - VM-EXSi Serve..
+文洋密缩量板室任务计始
+ nas - VM-EXSi Server.. ■文件
+a
+0 0 6 6
+5 1
+1 回
+ web - VM-EXSi Server.E01 > 口里序号
+里名称
+0G1 详细信息
+采集正版（收蒸）小说
+采集正版（收费）小说名称：
+执行周期：每小时，第30分执行预.面：2025-10-22 05:39:47 扶惠：停用
+是香保存别本地：吾类型：Shell本
+宝墙置板>三任务计划
+出执行周期
+添加时间
+每小时，
+2025-10-22 05:39...
+状恋停用
+是吾保存到本三保存数量香
+caji 甲类型 She本
+=备份到
+xQ
+理备份目录
+用规则
+*l/bin/bas..
+? = Uri址
+昆
+三热行次数 0
+-
+ox
+三源文件 centos(T1r..
+seu:wl/bln/bash BASE URL=
+https:/www.xinglo.com LIST_PATH="/article" SAVE_DIR="/www/xiaoshuocaji" USER_AGENT="Mozll/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0
+Safari/537.36" DELAY=3 ERROR_DIR="S(SAVE_DIRI/error_logs ERROR_FILE="S[ERROR_DIRI/error_$(date +%Y%m%d_%H'.txt" mkdir -p *SSAVE_DIR""SERROR_DIR II [ echo "$(date +"%Y-%m-%d %H:%M:%S) 目景创建失: $SAVE DIR  $ERROR DIR* >> *$ERROR FILE' exit 1 ) check dependencyO ( it ! command -v "$1* &> /dev/null; then echo "S(date +%Y-%m-%d %H:%M:%S) 侬凝失: $1 >> *SERROR _FILE" exit 1 fi } check dependency curl
+check_dependency sed check_dependency grep [ -w *$SAVE_DIR" 1Il [ echo *S(date +%Y-%m-%d %H:%M:%S) 无写入权限: $SAVE_DIR* >> *sERROR_FILE" exit 1} TMP_LISTS(mktemp) IIf echo *S(date +*%Y-%m-%d %H:%M:%S) 临时文件创建失败” >> “SERROR_FILE" exit 1 ) ist_page=S(curl -5 -A “SUSER_AGENT" -w “%(http_code)" “S(BASE_URL)S[LIST_PATH)") http_code=S(echo “SIlst_page"I tall -n1) Iist_content=S(echo SIlst_page" | head -n -1) [
+"Shttp_code"-eq 200] &&[-n "Slist_content"] (echo“S(date +"%Y-%m-%d %H:%M:%S)列裘页清求失败:状态码 Shttp_code”>>“SERROR_FILE" rm -f"STMP_UST"exit 1] echo “Slist_content"Igrep -oP'<a href=(/article/[^"]+)"[>]+class="article-title'[^>]*>([^<]+)</a>'>STMP_LIST" [-s"STMP_LIST" 1 Il [echo “S(date +%Y-%m-%d %H:%M:%S') 未理取到文章列表" >>"SERROR_FILE" rm -f"STMP_LIST" exit 1] while IFS= read -r line; do link=$(echo
+"sline"| grep -oP href="K/article/[*]+7 full_link="s(BASE_URL)$[link]" raw_title=$(echo "Sline" Igrep -oP '>(*≤]+)</a>"[sed -E's/^ >//; s/<Va>$//; s/&/&/g; s/"//g') safe_title=$(echo "Sraw_title" [sed -E s/TV:*?"<>[/_/g; s/ +//g: s/^ /; s/ S//) save file="s(SAVE DIRI/s(safe title].txt" [-f "ssave file"] && continue article page=S(curl -s -A "sUSER AGENT" -w "%(http code)" "stfull link') article http codes(echo 'sarticle page'| tail -n1)
+T
+口
+回
+·
+?
+8
+®
+1:0.98KB/s I: 1.45 KB/s
+CPU: 37% CPU: 内存：65%52*℃
+A
+图
+eo
+M
+中
+2025/1g 23:03

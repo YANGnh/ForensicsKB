@@ -1,0 +1,21 @@
+# OCR: 52f5b6f187ef1db81dbc8dd9d0ba65ee.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/52f5b6f187ef1db81dbc8dd9d0ba65ee.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+us_hnegiato
+ds integrationexchange
+dsjiangli ds jinbidetail dsjyzx
+dskeshoudetail
+dskoufei ds log ds_member
+dsmembergroup ds_members_sign ds_message
+32024-002009.2.1 32024-06-2609:23:37 22024-06-2609:23:37 7062024-06-2615:41:33 112024-06-2615:36:07 582024-06-2615:41:33 22024-06-2609:23:37 1882024-06-2619:38:16 23382025-02-241332:44 82024-06-2609:23:37 562024-06-2615:34:43 12024-06-2609:23:37
+TKDMyISAV 1KBMyISAM 1KBMyISAM 48KBMyISAM 1KBMyISAM 4KBMyISAM 1KBMyISAM 17KBMyISAM 12KBMyISAM 1KBMyISAM 3KBMyISAM OKBMyISAM
+2 2 1
+705金币明细
+6 57
+购物券明细 1
+187系统操作日志
+30会员 6
+55签到分享表 0站内信息表 40

@@ -1,0 +1,20 @@
+# OCR: e120b80da9198a3b4a6bc214bde56fdb.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/e120b80da9198a3b4a6bc214bde56fdb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+业务员培训
+个人收藏
+?
+最近使用应用程序
+回
+桌面文稿下载
+? 位置
+iCloud云盘
+?
+mactools
+话术1
+业务员培训
+话术2
+话术3

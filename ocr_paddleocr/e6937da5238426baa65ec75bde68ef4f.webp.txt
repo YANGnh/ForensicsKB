@@ -1,0 +1,29 @@
+# OCR: e6937da5238426baa65ec75bde68ef4f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/e6937da5238426baa65ec75bde68ef4f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+合
+RecoverFilePassword
+flag.zip
+文件位置E:）10月份工作目录）1.题目解析）解析
+Zp 2.0—Extraction Password,Default Encryption,可以便用Zip明文致击
+文件类型
+复杂度 MD5:
+密码为：
+ee+++ Bruite-force - Fast
+3DABC5B3E130F0338B8C374FB010BDF9
+File-Open
+4321
+Files
+PasswordsFound
+Resources
+工具
+助
+Performance
+?
+Attacks
+Log
+公众号·小谢取证
+X

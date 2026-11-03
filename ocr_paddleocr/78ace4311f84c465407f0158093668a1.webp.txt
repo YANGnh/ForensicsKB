@@ -1,0 +1,17 @@
+# OCR: 78ace4311f84c465407f0158093668a1.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/78ace4311f84c465407f0158093668a1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+应用名称应用大小
+Joshe Invest... APK文件
+JosheInvestment 56.72MB
+应用类型证据编号
+其他
+20241111130032544
+应用包名创建时间
+ahmyth.mine.king.ahmyth 2024-11-1113:00:33
+x 添加
+应用版本
+自运 1.0

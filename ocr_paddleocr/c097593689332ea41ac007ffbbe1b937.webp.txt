@@ -1,0 +1,19 @@
+# OCR: c097593689332ea41ac007ffbbe1b937.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/c097593689332ea41ac007ffbbe1b937.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+Psc:lUsers\Administrator>nslookup
+-type=mx
+默认服务器：dns.google Address:
+8.8.8.8
+server45.79.133.98 默认服务器：．
+45-79-133-98.ip.1inodeusercontent.com 45.79.133.98
+Address:
+>chen.foren6 服务器：
+45-79-133-98.ip.1inodeusercontent.com
+Address:
+45.79.433.98
+chen.foren6
+MX preference = 0,mail exchanger = mail.163.com

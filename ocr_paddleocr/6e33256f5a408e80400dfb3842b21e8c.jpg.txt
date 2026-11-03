@@ -1,0 +1,40 @@
+# OCR: 6e33256f5a408e80400dfb3842b21e8c.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/6e33256f5a408e80400dfb3842b21e8c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+滑Clara的安卓手机>
+WhatsApp>clara(85263791704@s.whatsapp.net)
+临时会话消息
+2024-08-0113:43:57
+(2348083047048@s.whatsapp.net)(2024-08-0113:43:57) 你好你最近怎度q
+2024-08-0113-43:59
+消息和通话者
+OOAOOOOAAAOOA
+详细信息
+2348083047048@s.whatsapp.net
+发送者ID：
+clara
+接收者：
+85263791704@s.whatsapp.net
+接收者ID：
+发送时间：2024-08-0113:43:57 消息内容：你好你最近怎度檬q
+消息类型：文本文件大小：OB
+85263791704@s.whatsapp.net
+来源账号：
+源文件：
+已删除：
+0+1203A00021A16.6
+对话之外的任何人都无法读取或收听
+会进端对质加
+2024-08-0113-43:59 特殊系统消息
+2024-08-0215:32:23
+(2024-08-02
+2024-08-0314:16:26
+跳转到
+原类型视图
+ClaraSmartphone.bin/分区24/data/com.whatsapp/databases/msgstore.db
+香
+文本视图
+十

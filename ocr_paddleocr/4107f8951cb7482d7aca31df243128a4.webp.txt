@@ -1,0 +1,12 @@
+# OCR: 4107f8951cb7482d7aca31df243128a4.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/4107f8951cb7482d7aca31df243128a4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+c
+服务器： Address：
+UnKnown
+>nslookupchen.foren6
+192.168.196.2
+***UnKnown找不到chen.foren6：Non-existentdomain

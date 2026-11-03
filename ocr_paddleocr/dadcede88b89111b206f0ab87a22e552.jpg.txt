@@ -1,0 +1,12 @@
+# OCR: dadcede88b89111b206f0ab87a22e552.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/dadcede88b89111b206f0ab87a22e552.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+verify
+密钥验证器
+请输入密钥：Whosekeyaml?
+验证
+密钥正确，快去解密吧！
+2:36

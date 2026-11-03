@@ -1,0 +1,18 @@
+# OCR: c46d174cdc01c7d893d6bd077cee04cb.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/c46d174cdc01c7d893d6bd077cee04cb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+Sitemodification[platform.coml--Timeadded[2024-05-2006:01:47] DomainManager
+Adomainperline,thedefaultport is80
+Subdirectory binding
+Sitedirectory Limitaccess Trafficcontrol URLrewrite
+Default indexes Config
+Wildcarddomainformat:*.domain.com
+Toaddanotherporttheformatiswww.domain.com:88
+Domainname 192.168.217.188 platform.com
+Please choose delete
+Port 59204 80
+Add
+OPT Del Del

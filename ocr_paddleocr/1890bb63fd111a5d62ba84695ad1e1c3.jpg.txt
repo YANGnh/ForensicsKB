@@ -1,0 +1,26 @@
+# OCR: 1890bb63fd111a5d62ba84695ad1e1c3.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1890bb63fd111a5d62ba84695ad1e1c3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+getsids 724
+TreeDepth
+33 34 35 36 37 38 39 40
+0 0 0 O
+0 0
+PID 704 704 704 724 724 724 724 724 844
+Process
+services.exe services.exe services.exe Isass.exe Isass.exe sass:exe sassiexe sass.exe svchost.exe
+S-1-1-0 S-1-5-11
+S-1-16-16384 S-1-5-18
+S-1-5-32-544
+S-1-1-0 S-1-5-11
+S-1-16-16384 S-1-5-18
+SID
+Everyone
+Authenticated Users
+SystemMandatory Level
+Local System Administrators Everyone
+Authenticated Users
+System Mandatory Level LocalSystem

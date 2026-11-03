@@ -1,0 +1,12 @@
+# OCR: f9975a4f134aba58056f49a50bb6855c.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/f9975a4f134aba58056f49a50bb6855c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+受害人手机检材.tar/miscadb 口了文件名称一
+口
+..=misc(595) =adb (2)
+口
+adbkeys
+adbtemp.keys.xml

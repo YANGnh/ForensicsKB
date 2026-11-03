@@ -1,0 +1,15 @@
+# OCR: b51fe647492e130057c586fdb0deaa05.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/b51fe647492e130057c586fdb0deaa05.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+rootelocaihost
+1(2）(3）(4）(5）(6）
+(7)(22:(23）(24)(25)(日)
+#
+bt
+MySQL BasicAuth
+(8)(9)(10）(11)(12)(13)(14:（15）(16）(17)
+(18)
+IP

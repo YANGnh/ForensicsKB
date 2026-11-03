@@ -1,0 +1,21 @@
+# OCR: a2d5963b9501c6119be9f5f280406f0a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/a2d5963b9501c6119be9f5f280406f0a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+1
+三序号口1 口2 3 4 5 6 7 8 9 10 11 12 □13 14 15 16 17
+PC.E01/System/Users/Administrator/AppData/Local/sqlmap/output
+名称过滤
+gg.aigua666.com（21） 103.195.49.205（3) 103.195.49.206（3） 156.227.26.51(3) 18.163.189.20（3) 38.181.22.7Q(3) 43.142.67.58（3) 47.76.163.233（3) csr.aven.com (3)
+jyh28.demo666.xyz(3) kejinlianmeng.com(3) manager.cexlook.com(3)
+www.342jgj.com（3） www.02939.com（3) yanshi.wuuym.cc (3) yxjyzh.com
+3)
+206.119.77.11(2)
+Y
+三扩展名过滤
+三类型文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹
+三大小等于 560B 464B 464B 464 B 464 B 464B 464B 464 B 464 B 464 B 464B 464 B 464B 464 B 464B 464B 240B
+过
+Y

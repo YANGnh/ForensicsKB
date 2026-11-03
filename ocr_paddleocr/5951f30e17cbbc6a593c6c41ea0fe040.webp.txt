@@ -1,0 +1,20 @@
+# OCR: 5951f30e17cbbc6a593c6c41ea0fe040.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/5951f30e17cbbc6a593c6c41ea0fe040.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+23 24 25 26 27
+667953267a2800002f006f3d 667953267a2800002f006f3e 667953267a2800002f006f3f 667953267a2800002f006f40 667953267a2800002f006f41
+admin admin admin admin
+1516951071系统管理员管理，
+系统管理员列表：
+15169511633
+新增/修改系统管理员：
+1516951224
+删除管理员。
+1516951253
+1516951353
+权限分组。
+index publish delete
+admincate

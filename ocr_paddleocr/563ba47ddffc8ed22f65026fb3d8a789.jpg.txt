@@ -1,0 +1,46 @@
+# OCR: 563ba47ddffc8ed22f65026fb3d8a789.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/563ba47ddffc8ed22f65026fb3d8a789.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+流量分析.pcapng
+文件(日
+编辑(E
+应用显示过滤器
+图V
+转（G)
+Q
+Ctrl-/>
+捕（) 64
+分析(A)
+Wireshark·Conversations·流量分析.pcapng
+ConversationSettings 睡解折名称
+国绝对开始时间
+■显示过滤器的限制
+Ethernet·1
+AddressA
+统计(S) IPv4·1
+AddressB
+电话
+无线(W)
+?
+@@
+IPv6
+TCP·1372
+分组
+Bytes
+192.168.85.130192.168.85.2506.613
+2MB
+工具(D) UDP
+帮助(H)
+BytesA→B
+Packets A→B
+PacketsB→A BytesB→ARelStart持续时间
+3,381
+849kB
+3,232
+1MB0.000000666.1983
+Bits/sA→BBits/sB→A
+10kbps
+17kbps

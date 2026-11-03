@@ -1,0 +1,52 @@
+# OCR: 1c8c83134adb7085a6a4f9ab250d2d58.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/1c8c83134adb7085a6a4f9ab250d2d58.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+AX
+文件
+>·
+p· c
+视图区
+导航
+tasks util
+ZipFile
+org
+··
+工具
+帮助
+Q
+Q
+@
+个
+chromium.support_lib_boundary mozilla.universalchardet
+prober·
+CharsetListener Constants
+EncodingDetectorInputstream EncodingDetectoroutputstream ReaderFactory
+UnicodeBOMInputStream c
+UniversalDetector c
+pl.droidsonroids.gif uni.owry
+资源文件 assets
+apps
+UNI7CB999B
+www data
+,dcloud_configs.json dcloud control.xml 2dclouderror.html
+dcloud properties.xml
+?dcloud_url.json fonts
+?unincomponents.ttf res
+? dcloud_beep.ogg
+dcloud_prograss_snowl.png HBuilder.png
+ point.png 39285FFA
+梦
+=
+ng
+?dcloud_url.json
+"0.1.1"
+version":
+"data":{ 4
+*uni.owry -jadx-gui
+dcloudproperties
+? dcloud_error.html
+ dcloud_control.xml
+?dcloud_cor

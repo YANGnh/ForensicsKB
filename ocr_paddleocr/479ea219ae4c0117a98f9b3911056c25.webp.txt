@@ -1,0 +1,46 @@
+# OCR: 479ea219ae4c0117a98f9b3911056c25.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/479ea219ae4c0117a98f9b3911056c25.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+Cyber
+CyberChef ×Utools
+Operations img
+BlurImage CropImage FlipImage CoverImage DitherImage ImageFilter Invert Image RenderImage Resize Image Rotate Image Contain Image
+eOnacit
+440
+Recipe
+FromBase64 Alphabet
+A-Za-z0-9+/=
+Removenon-alphabetchars
+Strictmode InvertImage
+STEP
+BAKE!
+a
+Lastbuild:5monthsago
+Input
+? 2 M
+AutoBake
+?
+④
+Options
+口
+About/Support +口日
+X 印
+WOPHNPa1aXkYhNF4qs9qrrogkBL7/fMYyW1S+R+Xfo5yG9nz4PtTa2fq94awGPf1b I7tIR9m6N9i65w+
+1t7mfq++5vU6Tz9IJHeV8qaw+Faz3J4TqcaTR0+cLc5GehIzBsRe81mRFmVm9G+I7 Cpx7MMRezeBX9bM
+/YYqzJYa1H/krFNbnnZnQznEa8mvnb912FFYycii/pzTykjXaqvKLi4gF2pNS1QHe 5zmtuB7t8gpxrwF
+d6kRTa8ds7yYT6h8FqkLsJiVe6sgUq1YpvUXni/yMISNMn8KfeiZQfJT87vu4HsY UeL2Cd+NrpnmRxA
+Rs2bZb67kK1F6hP51aiepPuAZ+1K4PLIPxC+15FUc2t3879gT628F1Kn5Jn75s8aJ moGDvmnBf1PzsaH
+ru.uhvn7-anc6y 5914=74
+Output
+oDanPDannlnlD
+anaha/mr
+TrRaw BytescRLF(detected)
+a石因
+备用机号：18877332134
+RICO
+1
+?14ms
+TT Raw Bytes NEL (detected)

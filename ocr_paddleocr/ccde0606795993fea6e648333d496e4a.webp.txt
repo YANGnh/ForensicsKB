@@ -1,0 +1,28 @@
+# OCR: ccde0606795993fea6e648333d496e4a.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/ccde0606795993fea6e648333d496e4a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+Paxful注册认证买卖教程docx
+Shakepay买币，提币流程加拿大的（2).ppt
+Shakepay买币，提币流程加拿大的.pptx Shakepay买币，提币流程.ppt
+UKFusion交易软件MT4下载教程-已转档.pdt 世界上各地区货市.doc
+交易所：Crypto.com买币教程.pptx
+offset 02CC6000 02CC6010 02CC6020
+0 Do 00
+1
+2
+11
+CE 00
+00
+0600
+3 EO 00
+A 0
+0000 00
+docx
+Shakepay买币，提币流程.ppt
+44.378[省略：2,737] 簇47.116
+总计：2,739 片段：1
+x
+5

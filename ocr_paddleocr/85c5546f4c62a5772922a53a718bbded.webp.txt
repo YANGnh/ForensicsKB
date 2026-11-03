@@ -1,0 +1,18 @@
+# OCR: 85c5546f4c62a5772922a53a718bbded.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/85c5546f4c62a5772922a53a718bbded.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+选择文件
+序号 1
+文件
+选择文件夹
+C:/UsersABc/Desktop/2024hflexport/1200\邮件附件2 02412031040261火眼-邮件附件导出-20241203-10403 0-308295800新建文件夹(2).rar
+大小
+TT
+979.39KB
+MD5SHA-1SHA-256SM3CRC32CRC64ECMA
+修改时间 2024-12-03 10:40:30
+哈希值
+MD5:6cf25f7d2882dbf5722b3b9e382b5f

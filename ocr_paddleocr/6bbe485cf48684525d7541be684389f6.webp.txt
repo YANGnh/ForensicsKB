@@ -1,0 +1,36 @@
+# OCR: 6bbe485cf48684525d7541be684389f6.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/6bbe485cf48684525d7541be684389f6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+PID 3572
+5888 6176
+PPID 6000
+fY1JkMRauzu-17624 5876
+3572
+Y1JkMaRauz
+904572
+State 0 0 0
+ShortName
+photolaunch.ex
+wps
+.exe
+photolaunch.ex
+AA57
+Name
+photolaunch.ex e
+wps
+.exe
+photolaunch.ex e
+tegtyLeveiy
+High 62486904572 High
+High
+fY1JkMaRauzu-17624869
+User
+DOMAINUSERR ID
+DOMAINUSERR ID
+DOMAINUSER_R ID
+CrE 202 11:
+202 11:
+202 11:

@@ -1,0 +1,49 @@
+# OCR: e1d33fb9908eb397a3f851443c4a282e.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/e1d33fb9908eb397a3f851443c4a282e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+data/default/captchaBot/runtime/captchaimage
+in oot ata
+k8sdata
+default
+captchaBot
+config
+Tconfig.toml dict
+decword.txt runtime
+captcha images log
+图log20250917.log 图log20250918.log
+captcha-bot config.toml
+dujiaoka mysql80
+config.toml
+X
+dec_word.txt
+同
+祥系统设置
+2 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+23 24 25
+26 27
+终端
+[system]
+app_debbug=false
+?
+1o9_20250917.1og
+Q
+1og_28250918.1og CRLF
+joinhintafterdeltime=6e#加群验证提示消息多久删除，秒
+captchatimeout=12e#验证超时时间，秒 runtimepath=“/runtime”#：缓存目录
+#telegram配罩[telegram
+config.toml
+bot_token="8378348497AAGSu7pC5rrDicjMqa7Mv9atvB1iE5NAZeY"#机器人apitoken api_proxy="http://kk.xilika.cc"#telegramapi代理，仅大陆地区服务器需要
+manage_users=[6213151597】超级管理员userid数组，以英义退号分剧，例如123456，789
+#日志配置[log]
+max_size=32 max_age=7
+maxbackups=3
+#消息模板[message]
+joinhint="欢迎【%s（%s）加入%s\nA本群已开启新成员验证功能，未通过验证的用户无法发言ln 超时未完成验证会被移除本群！n本条消息%d秒后自动删除n点击下方按钮自助解除禁言
+captcha_image="欢迎您加入[%snA本群已开启新成员验证功能。In→为了正明您不是机器人请发送以上图片验证码内容\n机器人将自动验证您发送的验证码内容是否正确\n本条验证消息有效期[%d秒
+verificationcomplete=“恭喜您成功通过【人机验证l，系统已为您解除禁盲限制。\n如若还是无法发部，请重启telegram客户端\n请同时注意群内发言规范，以防永久禁止
+blockhint=“1l#封禁预警\n%s]（%s）请注意，您的消息中含有部分违禁词\nA您已被系统判断为高风险用户，已被封禁\n系统已向超管发送预警信息诺由超管判定为误杀会及时将您解除封禁，n您的违禁调包舒%s
+#广告用
+公众号·金星路406取证人

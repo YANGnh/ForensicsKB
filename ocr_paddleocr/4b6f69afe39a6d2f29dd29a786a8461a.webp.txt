@@ -1,0 +1,35 @@
+# OCR: 4b6f69afe39a6d2f29dd29a786a8461a.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/4b6f69afe39a6d2f29dd29a786a8461a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+请选择/输入持有人/检
+每手机绘材 D基本信息自带浏览器品App分析其他应用图片文本内客
+35449 25372 34 79 5926 4038
+回
+YTextinc“会议号
+门三序号口1 口2 3
+详细信息
+示名称过滤
+6d350b96b5c87bad174275da2e8844c99e52bc f8fe21f4e57e454c29513a1d9e9396757efalee8 eeb9a8f1b853a6b7ed552078b66a9c5617c244
+三置信宽（0-100
+三识别文本
+等于
+会议号
+历史会议全部会议收藏会设重强壮的小鸭子强免费. 个人中心头像强昵称强壮。
+名称：f8fe21f4e57e454c29513a1d9e9396757efa1ee8bb80e492933511b63ec4cbed.0
+识别文本：设置强壮的小鸭子强免费版个人会议号2679823922会议设置意见反摄美题虚拟背景关于
+类型：二维码文件路径：
+data.tar/media_435/0/Android/data/com.miui.gallery/files/gallery_disk_cache/full_size/f8fe21f4e57 e454c29513a1d9e9396757efa1ee8bb80e492933511b63ec4cbed.0
+2025-01-2310:03:52
+修改时间：
+三文件路径过源
+data.tar/media_435/0/Android/data/com.. data.tar/media_435/0/Android/data/com.. data.tar/media_435/0/Android/data/com...
+原类型视图
+文本视图
+十六进制视圈
+在照片文本内容中设置
+强壮的小鸭子免
+个人会议号会议设置意见反馈美慕
+2679823922

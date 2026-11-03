@@ -1,0 +1,23 @@
+# OCR: c18401e2883d7bbac5d5c81d97ab8805.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/c18401e2883d7bbac5d5c81d97ab8805.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+Extract属性
+常规
+安全
+文件类型：
+描述：位置：大小：
+占用空间：创建时间：修改时间：访问时间：
+属性：
+以前的版本
+详细信息 Extract
+文件 Extract
+D:Googledownload
+20字节(20字节) 0字节
+2024年5月11日，22:1911 2024年5月11日，2219:11 2024年5月11日，22:19:11
+只读(R)
+口隐藏(H)
+高级(D).
+x

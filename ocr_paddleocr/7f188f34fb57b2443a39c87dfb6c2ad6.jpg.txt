@@ -1,0 +1,15 @@
+# OCR: 7f188f34fb57b2443a39c87dfb6c2ad6.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/7f188f34fb57b2443a39c87dfb6c2ad6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+备
+账号：zhiwanjing id:219 钱包：35000.00今日盈亏：0
+充值记录提现明细下注明细
+提款信息提款密码
+修改登录密码联系客服
+退出
+充值
+动
+我的

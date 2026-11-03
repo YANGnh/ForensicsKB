@@ -1,0 +1,25 @@
+# OCR: 90321b6e3a515ca3440d34f07ae0428c.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/90321b6e3a515ca3440d34f07ae0428c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+192.168.100.100 首页
+网站無FTP 自数据库监控國
+?安全口文件国终端
+计划任备
+-
+分首页网站管理
+使用宝塔Linux面板创建站点时会自动创建权限配置，统一使用www用户。建站成功后，请在[计划任务】页面添加定时备份任务
+添加站点
+修改默认页
+网站名
+demo.tjshop.com test1.tjshop.com www.tjshop.com 192.168.100.100
+请选择批量操作
+默认站点批量操作
+PHP命令行版本
+状态运行中运行中运行中运行中
+分类：全部分类
+备份无备份无备份无备份无餐份
+根目录
+/www/wwwroot/demo.tjshop.com/www/wwwroot/test1.tjshop.com/www/wwwroot/www.tpshop.com/www/wwwroot/192.168.100.100

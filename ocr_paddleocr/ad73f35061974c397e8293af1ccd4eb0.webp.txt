@@ -1,0 +1,8 @@
+# OCR: ad73f35061974c397e8293af1ccd4eb0.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/ad73f35061974c397e8293af1ccd4eb0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+接口接口
+乙太绸路3

@@ -1,0 +1,41 @@
+# OCR: e8d2552f097342985972106818cb2995.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/e8d2552f097342985972106818cb2995.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+A Aug
+Au
+18 18
+a 18 Ta 18
+Aug
+2824 2824
+262 282
+2824 2824. 2824
+TUNWIN
+21:84:891 Lzo-ASYM initswap=e asyn=1
+cONNECTEDvpnbook@142.4.216.196:443(142.4.216.196)via/TCPonTUN_IN/1e.9.8.102/gw-[10.9.0.301/]ntu=(default)E[Aug18,2024,21:84:89] EVENT;CONPRESSION_
+21:84:891EVENT:
+DISCONNECTED[Aug1e,2e24,21:e5:83]OpenVPNcore3.1e_qawinx86_6464-bitOVPN-DCobui1ton3ul172e2414:22:15
+21:84:211EVENT:1
+21:85:831Frane=512/2112/512mssfix-ctr1=125e
+21:e5:e3] NOTE: This configuration contains options that were not used: 21:85:83) Unsuppol
+prtedoption(ignored)
+21:85:83] e[resolv-retry][infinite]
+21:e5:83] 1[persist-key] 21:05:0312
+persist-tun
+[route-delay][2]
+2e24
+21:85:8313
+2e24,21:85:83] EVENT:RES0LvE[Aug 18,2824,21:85:e3] Contacting5.196.64.231:25e8e viaUDP
+2e24,21:85:03] EVENT:WAIT[Aug 10,2024,21:05:03] winCommandAgent:transmitting bypass routeto 5.196.64.231
+"host":
+"5.196.64.231"
+iov6":false
+[Aug 18, 2e24, 21:85:83] Connecting to [5.196.64.231]:25eee (5.196.64.251) via UDP
+Aue18
+2824.
+21:e5:84] EVENT: CONNECTING [Aug 10, 2e24, 21:05:e4] Tunnel Options:V4,dev-type tun,1ink-ntu 1558,tun-mtu 15ee,proto UDPv4,comp-1zo,cipher AES-256-CBC,auth SHA1,keysize 256,ke
+2824.
+Usernane/Password
+21:e5:a41Creds:

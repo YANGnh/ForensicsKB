@@ -1,0 +1,16 @@
+# OCR: 33ae8bcb48cafe08dbf2e29c570202ae.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/33ae8bcb48cafe08dbf2e29c570202ae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+4.1 6.31
+赶快扫码报名加入我的私域课程。
+一把梭工具这量没有答案
+国二维码助手二维码内容
+二维码×
+学好nginx 学好网络攻防
+回热回
+解码
+https://fic.forensix.cn
+中 21:49:03

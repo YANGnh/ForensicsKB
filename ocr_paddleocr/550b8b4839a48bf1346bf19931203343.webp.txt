@@ -1,0 +1,32 @@
+# OCR: 550b8b4839a48bf1346bf19931203343.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/550b8b4839a48bf1346bf19931203343.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+Applications.plist X
+C:>hlnet>6-1749087347>Image.tar>private>Applications.plist
+4
+12973 13039 13040 13041 13942
+13043 13044
+13045 13046
+13047 13048 13049 13050 13051 13052 13053 13054 13055 13056
+<array>
+<dict>
+4C62-B8E7-893F37B14477Aaab,
+JMASC
+<key>EnvironmentVariables</key> <dict>
+<key>CFFIXED_USER_HOME</key>
+1of4
+<string>/private/var/mobile/Containers/Data/Application
+228286AC-3593-4C62-B8E7-893F37B14477</string> <key>TMPDIR</key>
+<string>/private/var/mobile/Containers/Data/Application/
+228286AC-3593-4C62-B8E7-893F37B14477/tmp</string> <key>HOME</key>
+<string>/private/var/mobile/Containers/Data/Application 228286AC-3593-4C62-B8E7-893F37B14477</string>
+</dict>
+<key>cFBundleNumericVersion</key> <integer>o</integer>
+<key>SequenceNumber</key> <integer>1920</integer <key>IsDemotedApp</key> <false/>
+<key>CFBundleIdentifier</key>
+<string>com.fabian.hasse.haushaltsbuch</string> <key>NsUserActivityTypes</key
+个
+?

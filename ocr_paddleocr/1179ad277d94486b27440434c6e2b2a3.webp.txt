@@ -1,0 +1,16 @@
+# OCR: 1179ad277d94486b27440434c6e2b2a3.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/1179ad277d94486b27440434c6e2b2a3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+QRResearch 文件日工具口
+:
+解码失败
+帮助(H)
+数据
+纠错等级 H(30%) 版本 Auto Au
+口
+掩码 Auto 尺寸 4
+司
+X

@@ -1,0 +1,30 @@
+# OCR: 38cd73900900594589a05600c223eb72.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/38cd73900900594589a05600c223eb72.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+Key
+白Root
+/sEncrypted
+Version Date
+SystemDomainsVersion ManifestKey
+.WasPasscodeSet Lockdown
+Type dict
+boolean string date string data boolean dict
+..com.apple.MobileDevicedict
+com.apple.TerminalFlashdict-com.apple.mobile.datasdict +-com.apple.Accessibilitydict
+ProductVersion·ProductType BuildVersion
+string string string
+com.apple.mobile.iTunesdict +.com.apple.mobile.wirele:dict
+UniqueDevicelD SerialNumber DeviceName
+Applications
+string string string dict
++.com.apple.DiagnosticsSedict
+Value true 10.0
+2025-04-0822:12:48
+24.0 false
+17.5.1
+iPhone12.1 21F90
+00008030-000A0C883C32802E
+C6KZRWJNN745 iPhone

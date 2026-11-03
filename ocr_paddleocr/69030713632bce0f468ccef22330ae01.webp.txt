@@ -1,0 +1,30 @@
+# OCR: 69030713632bce0f468ccef22330ae01.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/69030713632bce0f468ccef22330ae01.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+XMLView Key
+Root
+ListView
+WFWorkflowActionldentifier..WFWorkflowActionParameters
+WFURLActionURL UUID
+WFWorkflowActionldentifier WFWorkflowActionParameters 白
+WFWorkflowActionldentifier·WFWorkflowActionParameters 中
+WFWorkflowActionldentifier WFWorkflowActionParameters 日
+WFWorkflowActionldentifier..WFWorkflowActionParameters 中
+WFWorkflowActionldentifier·WFWorkflowActionParameters E
+WFWorkflowActionldentifier..-WFWorkflowActionParameters.WFlnput
+.Value
+OutputUUID Type
+OutputName
+-WFSerializationType UUID
+Type array dict string dict string string dict string dict dict string dict dict string dict dict string dict dict string dict dict string dict dict dict string string string string string
+Value
+is.workflow.actions.url
+https://h5publish.gamelaoyou.com/MahjongNative/huizhou/config.json 84AF9A41-FAB0-4A73-BF6A-62E0A80E09BC
+is.workflow.actions.downloadurl is.workflow.actions.getvalueforkey is.workflow.actions.getvalueforkey is.workflow.actions.getvalueforkey is.workflow.actions.generatebarcode is.workflow.actions.savetocameraroll
+F9251815-EA3C-44BA-8440-468984AE9391
+ActionOutput 二维码
+WFTextTokenAttachment
+F4A49D8C-3C6F-422F-872D-2BE0F569B6A7

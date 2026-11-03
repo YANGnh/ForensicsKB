@@ -1,0 +1,27 @@
+# OCR: a56bfe7c0e30f8b99f66cf90cfb70caa.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/a56bfe7c0e30f8b99f66cf90cfb70caa.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+对象
+users@rocketchat(2024FIC聊天服
+开始事务自文本、简选三排序
+id
+rocket.cat
+yWx9JgmsSenrfAaSe b8WfFZZWh8Y3cPs7f 3GTu3JiCurNaejsbT
+createdAt
+P4全部折叠）类型颜色
+avatarOrigin
+2024-03-1408:13:53.219local
+2024-03-14 08:19:54.951 2024-03-141232:07.691 2024-03-1412:33:47.422
+(N/A)(N/A)(N/A)
+6导入民导出分析
+删数据生成
+name
+Rocket.Cat MoneyMoney
+Laoli laosu
+username rocket.cat
+Zhao Laoli laosu
+status online away offline offline
+0

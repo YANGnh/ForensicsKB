@@ -1,0 +1,23 @@
+# OCR: 19c340f8400a6785a369eae7dab3ceb6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/19c340f8400a6785a369eae7dab3ceb6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+010 Editor-C:hlnet)4-1748330449\ubuntu-vg(724yif-HwVN-jBku-w1Pu-NWGz-6oom-H2H4N1))..
+FileEdit
+Select
+Find
+my_twofactorpwdfilex
+View
+Format
+Scripts
+Templates
+Debug
+Project
+Tools
+king:$2aS10SV/8GUI5aTNSnbFodPjP7Zu6vCFSXmvdd9oKHGtWv/vbT3Q4LLTCcW
+Window Hex
+Help
+口
+x

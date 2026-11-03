@@ -1,0 +1,13 @@
+# OCR: ea24b27dd956a59ad2be7aee07ac89ee.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ea24b27dd956a59ad2be7aee07ac89ee.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+查询结果：未查到
+密文：类型
+S2y$10$ZZeYefOm5jaq4QV9/TivL.Ufh1Lr3i2ed.s1hy5Nc
+3200
+查询
+加密
+帮助

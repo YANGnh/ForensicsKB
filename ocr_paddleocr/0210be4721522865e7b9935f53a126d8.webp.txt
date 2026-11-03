@@ -1,0 +1,77 @@
+# OCR: 0210be4721522865e7b9935f53a126d8.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/0210be4721522865e7b9935f53a126d8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+main(Photos）-在数掘库中查找
+T查询创建工具米美化SQL（）代码段
+V
+main
+*无标题·查询
+V
+运行、口停止跆解释
+ELECT*FROM"main"."ZEXTENDEDATTRIBUTES"
+WHERE"main","ZEXTENDEDATTRIBUTES"."Z PK"LIKE"%iPhone XR back camera4.25mm f/1.8%' ESCAPE'}'OR"main"."ZEXTENDEDATTRIBUTES"."
+·OR"main"."ZEXTENDEDATTRIBUTEs"."z_oPT"LIKE%iPhoneXRbackcamera4.25mmf/1.8%'ESCAPE
+%iPhoneXRbackcamera4.25mmf/1.8%
+ESCAPE"'
+ZFLASHFIRED"
+LIKE
+%iPhoneXRback
+camera4.25mmf/1.8%
+ESCAPE'OR"main""ZEXTENDEDATTRIBUTES""ZFOCALLENGTHIN35MM"LIKE
+\'OR“main."ZEXTENDEDATTRIBUTE
+'%iPhoneXRback
+camera4.25mmf/1.8%
+ESCAPE
+main"."ZEXTENDEDATTRIBUTES"."ZISo"LIKE'%iPhone XR back camera4.25mmf/1.8%'ESCAPE"\'OR"main"."ZEXTENDEDATTRIBUTES"."ZMETERINGMODE"LIKE
+'%iPhone XR back camera 4.25mm
+"ZEXTENDEDATTRIBUTES"."ZSAMPLERATELIKE'%iPhoneXRbackcamera4.25mmf/1.8%ESCAPE
+，OR“main"."ZEXTENDEDATTRIBUTES","ZSLUSHPRESET”LIKE'%iPhone）
+SCAPE'OR
+"main"
+amera4.25mm
+f/1.8%
+ITKE
+'aiphnne
+ESCAPE
+XR
+hark
+病要信息
+结果1
+GITUDE
+(Null)(Null)(Null)(Nul)
+114.16993 03333333 14.172845 453333333
+OR"main"."ZEXTENDEDATTRIBUTES"."ZSLUSHVERSION"LIKE%iPhoneXRbackcamera4.25mmf/1.8%'
+ESCAPE
+"1'OR"main"."ZEXTENDEDATTRIBUTES"."ZTIME
+"'OR"main"
+"7FYTFNDENATTRTRIITFS"
+125mmf/1F<CAPF
+"7TRACKFORMAT"|TKE
+giphnneYharkramera425mmf/1y'
+rampra d
+ZSHUTTERSPEED
+0.01666667 0.01666667 0.01098901
+0.01 0.0044843 0.00150602
+0.02
+0.01666667
+ZSLUSHSCENEBIAS
+(Null)(Null)(Null)(Null)(Null)(Null)(Null)(Null)
+ZSLUSHWARMTHBIAS
+ZCAMERAMAKE
+(Null)(Null)(Null)(Null)(Null)(Null)(Null)(Null)
+Apple Apple Apple Apple Apple Apple Apple Apple
+ZCAMERAMODEL
+iPhoneXR iPhoneXR iPhoneXR iPhoneXR iPhoneXR iPhoneXR iPhoneXR iPhoneXR
+ZCODEC
+(Nul)(Null)(Nul)(Null)(Null)(Null)(Null)(Nul)
+ZLENSMODEL
+FSrAPF'OR"main"
+单元格编辑器
+数据分析
+ZTIMEZONENAME
+iPhoneXRbackcamera iPhoneXRbackcamera iPhoneXRback camera iPhoneXRback camera iPhoneXRbackcamera iPhone XR back camera iPhone XRback camera iPhoneXRbackcamera
+GMT+0800 GMT+0800 GMT+0800 GMT+0800 GMT+0800 GMT+0800 GMT+0800 GMT+0800
+ZORIE

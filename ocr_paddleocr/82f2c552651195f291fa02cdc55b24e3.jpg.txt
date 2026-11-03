@@ -1,0 +1,32 @@
+# OCR: 82f2c552651195f291fa02cdc55b24e3.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/82f2c552651195f291fa02cdc55b24e3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+X 组织
+x 标题字段匹配·member_money_total.xisx/member_money_total 园
+V 组织构·资金交易数据
+③关键字段匹配成功，数据可导入
+快速清洗口未匹配列作为属性列导入
+待匹配关键字段：无
+?此刻不导入交易金额?此刻不导入?此刻不导入此列不等入此列不导入此列不等入
+index_number reeharge_sum_money trsout_sum_money trsin_sum_money pay_sum_money deal sum_money hase_coin
+10 0 0 0 0 0
+334 o o 0 215200
+2000
+299 o 0 0 100000
+N 0 0 0 0 0
+13352 o 0 0 5445500 310000 po0o
+269 0 0 0 108000
+0 D000
+283 0 0 0 o 0 pooo
+0 0 0 0 0
+129 0 0 0 108000
+0 pooo
+2 o o 0 0 o
+m o 0 0 7400 0
+180 0 0 0 115400
+0 booo
+确定取消
+当前仅提供100条数据预览

@@ -1,0 +1,24 @@
+# OCR: 1cab3dc9f428b899784abe84acfe1924.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/1cab3dc9f428b899784abe84acfe1924.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+区
+口序号口1 口2 3 4
+计算机.E01/分区2/Users/admin/Documents/新建文件夹
+通名称过滤
+白
+顺丰1k.zip 顺丰2k.zip 顺丰3k.zip storage
+大小等于
+81.04KB 138.58KB 136.48KB 100MB
+=创建时阅
+起始
+结束
+2023-02-1716:18:02 2023-02-1716:18:02 2023-02-1716:18:02 2023-02-1716:18:07
+三修改时间
+起始
+结束
+2023-02-1614:48:06 2023-02-1613:57:39 2023-02-1716:05:16 2023-02-1616:48:34
+全路径过滤
+计算机.E01/分区2/Users/admin/Documents/新建文件夹/顺丰1k.zip 计算机.E01/分区2/Users/admin/Documents/新建文件夹/顺丰2k.zip 计算机.E01/分区2/Users/admin/Documents/新建文件夹/顺丰3k.zip 计算机.E01/分区2/Users/admin/Documents/新建文件夹/storage

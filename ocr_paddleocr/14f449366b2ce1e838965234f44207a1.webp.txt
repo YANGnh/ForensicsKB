@@ -1,0 +1,19 @@
+# OCR: 14f449366b2ce1e838965234f44207a1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/14f449366b2ce1e838965234f44207a1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+G:\2025盘古石杯\普级赛\export
+用户信息
+5 6 7 8 9 10 11 12 13
++ +
+密码信息类型
+png png png png
+[G:\2025盘古石杯】晋级赛\EXPORT/NTUSER.DAT]
+文件路径
+S
+120210330144207.png 120210330144252（1).png
+Apgscup.zip 13pgscup.rar
+Vid_cards_info.xlsx 120210330142430.png 120210330143652.png 120210330143942.png 120210330144252.png
+系统

@@ -1,0 +1,58 @@
+# OCR: a3ee187fc75c6bf5d101472b47204591.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/a3ee187fc75c6bf5d101472b47204591.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+(haobeikali)-[/var/log/journal/daf7e906a0214e6c8e0a957ab4826c47 slast
+lightdm lightdm lightdm lightdm root
+lightdm haobei lightdm root
+lightdm haobei Lightdm lightdm haobei haobei haobei haobei Lightdm root
+Lightdm
+tty9 tty9 tty9 tty9 pts/o tty9 tty8 tty8 tty7 ttvz tty7 tty7 tty8 ssh ssh ssh ssh tty8 pts/1 tty7
+:2:2:2:2
+:2:1:1:0:0:0：0:1
+192.168.3.253 192.168.3.253 192.168.3.253 192.168.3.253
+:1:
+/var/lib/wtmpdb/wtmp.dbbeginsThuMay
+284:55
+Wed May
+Wed May Wed May
+2803:58 28 03:03
+WedMay
+28 02:00
+@5:02 04:17 03:04 02:14
+WedMay2801:36-
+01:41
+WedMay2801:00 WedMay28@0:4 Wed May 28 00:40 Wed May
+28
+@0:39
+WedMav2800:37 ThuMay1510:01 ThuMay1510:00
+Thu May Thu
+May May
+Thu
+Thu
+May
+May
+Thu Thu
+May Thu May Thu May
+15 15 15 15 15 15 15
+03:49 03:30 03:30 03:22 03:22 02:20 02:01
+803:57
+803:57:542025
+01:12
+(00:07)（00:19）（00:01)（00:13）(00:04（00:12）
+still logged in
+@0:40
+-
+stiul 00:39
+(00:00 Logged in(00:02
+still logged in
+10:01 04:17 03:30 03:30 stilu
+--
+stiul
+03:21
+stiul-
+stiil
+00:00）（00:27）(00:00（00:00 logged in loggedin(01:01)
+loggedin loggedin

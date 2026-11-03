@@ -1,0 +1,57 @@
+# OCR: ea77485498a1af5e2cd942555f694fae.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ea77485498a1af5e2cd942555f694fae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+XMLView Key
+·DRoot
+白
+List View
+Type array dict
+WFWorkflowActionldenti string·-WFWorkflowActionParardict
+中日
+dict
+-WFWorkflowActionldenti string +WFWorkflowActionParadict
+dict
+·WFWorkflowActionldenti string
+...WFWorkflowActionParamdict
+·WFlnput
+WFVariableName
+中
+dict string dict
+WFWorkflowActionldenti string +WFWorkflowActionParardict
+日日
+dict
+WFWorkflowActionldenti string·WFWorkflowActionParardict
+dict
+-WFWorkflowActionldenti string WFWorkflowActionParardict
+国WFInput
+WFVariableName
+dict string dict
+WFWorkflowActionldenti string..WFWorkflowActionParardict
+WFSSHScript
+WFSSHPassword
++WFSSHHost·UUID
+WFSSHPort WFSSHUser
+string dict dict string string string dict
+WFWorkflowActionldenti string WFWorkflowActionParardict
+I.....WFInput
+Value
+OutputUUID Type
+OutputName
+dict dict string string string
+WFSerializationTypestring
+Value
+is.workflow.actions.gettext
+is.workflow.actions.base64encode is.workflow.actions.setvariable host
+is.workflow.actions.gettext
+is.workflow.actions.base64encode
+is.workflow.actions.setvariable pwd
+is.workflow.actions.runsshscript bt14
+0BA1F553-2085-4E4C-AECC-AADA6D0942CA
+22852 root
+is.workflow.actions.documentpicker.save
+0BA1F553-2085-4E4C-AECC-AADA6D0942CA
+ActionOutput Shell脚本结果
+WFTextTokenAttachment

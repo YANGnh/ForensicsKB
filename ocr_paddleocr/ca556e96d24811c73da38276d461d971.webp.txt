@@ -1,0 +1,13 @@
+# OCR: ca556e96d24811c73da38276d461d971.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/ca556e96d24811c73da38276d461d971.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+#pwd
+/data/app/el2/1oo/database/com.example.pgsdsj/entry/rdb#ls
+key
+#
+Lock
+notepad.db
+notepad.db-shmnotepad.db-wal

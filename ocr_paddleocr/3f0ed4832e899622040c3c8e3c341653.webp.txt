@@ -1,0 +1,27 @@
+# OCR: 3f0ed4832e899622040c3c8e3c341653.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/3f0ed4832e899622040c3c8e3c341653.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+田合
+·
+控制面板
+Q
+搜索
+文件共享
+共享文件夹文件服务用户与群组域/LDAP
+连接性外部访问
+SMB
+AFP
+SMB设置
+NFS
+启用SMB服务工作群组：
+FTP
+不可访问以前版本
+rsync
+高级设置
+WORKGROUP
+对没有权限的用户隐藏共享文件夹启动传输日志
+日志设置高级设置
+查看日志

@@ -1,0 +1,22 @@
+# OCR: 1f1ad30ab813a4400a533b8a69a630a0.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/1f1ad30ab813a4400a533b8a69a630a0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+田名称
+A:三星手机>/mage.zip)data\data\com.vmos.pro)
+大小
+losimg rom cache files
+code_cache app_webview
+romex dpt-libs databases vmb
+app_sslcache conf
+shared_prefs rom_use_time shortcuts
+19 872661635 1176480531
+49156763 13273445 9211298 4421284 549372 488376 458752 310860 11278 5582 3637
+0 175
+压缩后大小 19 872 661635 1176480531
+49156763 13273445 9211298 4421284 549372 488376 458752 310860 11278 5582 3637
+0 175
+修改时间
+2024-05-231..

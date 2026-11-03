@@ -1,0 +1,52 @@
+# OCR: 8900b9a5f26ee4d93c7f12c6938035b5.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/8900b9a5f26ee4d93c7f12c6938035b5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+回
+Q助记词
+三序号/2
+详细信息
+三名称过滤
+x
+imtoken助记词1.PNG
+Y
+imtoken助记词22.PNG
+名称：imtoken助记词22.PNG
+扩展名：PNG 类型：文件
+大小：13.68KB
+创建时间：2025-11-0708:27:57 访问时间：2025-11-0708:27:57
+2025-09-2515:56:29
+修改时间：2 元数据地址：
+0
+全路径：
+三MD5 过滤
+三大小等于
+15.05KB 13.68KB
+三创建时间
+起始
+结束
+Y
+2025-11-0708:28:06 2025-11-0708:27:57
+原类型视图
+三修改时间
+起始
+结束
+Y
+2025-09-2609:34:31 2025-09-2515:56:29
+文本视图
+助记词
+三全路径过滤
+xQ
+data/media/o/DCIM/imtoken助记词1.PNG
+高级
+设置列
+data/data/com.yiqiang.xmaster/vprom/sys/syso1/storage
++
+十六进制视图
+助记词2：foil delaypaddleobtain
+data/data/com.yigiang.xmaster/vprom/sys/sys01/storage/emulated/o/importFile/sdcard/im portFile/imtoken助记词22.PNG
+加密类型：未加密已删除：否
+Snipaste2.10.8免费版（微软商店版
+截屏快捷键：F1 贴图快捷键：F3 贴图：0[Default]

@@ -1,0 +1,21 @@
+# OCR: 0715bbeb732fec17eb4fdf29cd734b60.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/0715bbeb732fec17eb4fdf29cd734b60.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+.env
+MX
+dujiaoka>.env
+APP_NAME=独角数卡
+2 6 8 9 10 11 12 13 14 15
+APP_ENV=local
+APP_KEY=base64:UudHxLyk7HqpUcTQ99p6NZMFxC7eInhkagTLks8oYfk= APPDEBUG=true
+APpURL=http://xi11ka.com:31669
+LOG CHANNEL=StaCk#数据库配置
+DBCONNECTION=mySgI
+DBHOST=192.168.59.80 DB_PORT=30627
+DBDATABASE=dujiaoka
+DBUSERNAME=root
+DBPASSWORD=LKKD23mjak1213dmmm
+公众号·金星路406取证人

@@ -1,0 +1,89 @@
+# OCR: 9114ce9f6a5fbbb5a8818e3e6b857612.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/9114ce9f6a5fbbb5a8818e3e6b857612.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+79.736
+浏览数据(B)
+V
+检材2.taridatalcom.bijoysingh.yang/databases 口了文件名称一
+=com.bijoysingh.yang(133)
+databases (4)
+evernotejobs.db
+evernotejobs.db-shm evernotejobs.db-wal note-database
+编辑杂注(R)
+description
+过滤
+"note"..."note". t"note"...
+文件名称状态描述描述
+签名状态分类描述证据项路径
+绝对路径上多日录
+执行 SQL(X)
+民
+A
+品
+过滤任何列
+displayTimestamp 过滤
+note-database
+存在的未验证
+其他/未知类型检材2.tar
+timestamp 过滤
+1744179576037 1744183164493 1744357816127
+color 过滤
+-2937041-2937041
+了描述存在的存在的存在的存在的存在的存在的，…
+state 过滤
+DEFAULT TRASH
+DEFAULT
+-29370411
+A检材2.taridatalcom.bijoysingh.yangvdatabases
+?文件类型 db
+db-shm db-wal
+locked 过滤
+0 0
+tags
+了路径检材2.. 检材2.. 检材2.. 检材2.. 检材2.. 检材2..
+6分钟以前
+文件大小了创建时间
+9.9MB 144KB 4.0KB 32.0KB 56.4KB 52.0KB
+updateTimestamp
+过滤
+过滤
+1744179806083 1744183390731
+0NULL
+检材2.taridatalcom.bijoysingh.yangvdatabases/note-database
+1744357867371
+pinned
+过滤
+0 0
+过滤
+uuid
+了修改时间
+2025/04/0914:19:30
++8
+2025/04/1116:00:05
++8
+2025/04/1010:24:06
++8
+2025/04/1413:09:36
+?记录更新时间
+编辑数据库单元格（C）模式：JSON
+meta 过滤
+ede1213e-a24e-4325-8c0a-472ff7172b3e c9f6a7b2-ec60-4cfa-a05e-ba3ef75b112a
+0e87ace85-924a-48ba-ae2c-70fb22cda848
+NULL NULL NULL
+1
+2 3 4 5 6 7 8 9 10 11 12
+百
+了文件属性了
+c c
+發
+"note":[
+4文件，0 Pseu
+第1扇区
+CD8AE 9867BD 8D9C5F 645595
+自马店
+"format"："HEADING"
+"text"："pc密码""format""TEXT","text":"lqaz2wsx"
+1

@@ -1,0 +1,11 @@
+# OCR: c2e36be5e0c9e7a48ecbdc4b43412d25.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/c2e36be5e0c9e7a48ecbdc4b43412d25.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+原类型视图
+文本视图
+0:00/0:21
+十六进制视图
+DF_2024_08_29_10_01_27_906.mp4

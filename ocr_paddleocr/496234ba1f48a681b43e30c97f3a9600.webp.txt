@@ -1,0 +1,18 @@
+# OCR: 496234ba1f48a681b43e30c97f3a9600.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/496234ba1f48a681b43e30c97f3a9600.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+x
+一级卡.xlsx
+文件位置文件类型 Protection
+复杂度 MD5:
+D：）检材题目）2025数证杯初赛）导出
+MSOffice2013-2019—OpenPassword,Hardwareaccelerationpossible,Instant
+AES256-bitEncryption,SHA-512....0Brute-force-Slow
+52EE2947370ED03286CE583B1EEE7E9F
+Passwords:File-Open
+File-Modify
+688561
+好像没有设置密码捏

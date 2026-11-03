@@ -1,0 +1,50 @@
+# OCR: cc0e228d2b7f2f4aa35635c402ba57e8.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/cc0e228d2b7f2f4aa35635c402ba57e8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+IDA Viev-A
+Address
+000000140022000 0000000140022008 0000000140022010 蹈
+0000000140022018 0000000140022020 0000000140022028 0000000140022030 0000000140022038
+蹈
+0000000140022040 000000140022048 0000000140022050 0000000140022058 面
+0000000140022060 面
+0000000140022068 0000000140022070
+蹈
+0000000140022078 0000000140022080
+0000000140022088 0000000140022090 0000000140022098 面
+00000001400220A0 00000001400220A8
+简
+00000001400220B0 蹈
+00000001400220P3 00000014030co Line1of82
+区 Ordinal
+回
+Hex: Yiew-1
+Name
+RtlCaptureContext RtlLookupFunctionEntry RtlVirtualUnwind
+UnhandledExceptionFilter SetUnhandledExceptionFilter
+GetCurrentProcess TerminateProcess
+IsProcessorFeaturePresent QueryPerformanceCounter
+GetCurrentProcessld GetCurrentThreadld
+GetSystemTimeAsFileTime
+InitializeSListHead IsDebuggerPresent GetStartuplnfoW GetModuleHandleW
+RtlUnwindEx GetLastError SetLastErro
+EnternticalSection YeaveCriticalSection DeleteCriticalSection
+区
+InitializeCriticalSectionAndSpinCount
+TlsAlloc Tlea
+国
+Struotures
+区
+国
+Library KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KERNEL32 KEDACL
+Enans
+区
+蹈
+Inports
+区
+团
+Exports
+区

@@ -1,0 +1,91 @@
+# OCR: e333b0042cd53f8cb77edc5336b9063b.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/e333b0042cd53f8cb77edc5336b9063b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+日
+@ 田
+田日
+田田
+田 + 田
+File 目
+Config
+登
+BasicAnalyzer
+BaseInfo
+Certificate AllAPIs
+Alistrings Annst
+AllUris
+View S
+AndroidManifest
+Maiscan Resources
+Dexclass
+申MTT
+android.suppo
+日田田电电电电由
+中由电由
+由日
+田田田由中
+app
+C C C·
+INotifid
+M
+Tools C
+F
+Help B
+index
+package
+[FileBaseInfo]
+File Name:
+GDA4.02(FreeEdition)
+++
+H
+xru
+declare
+免
+Entry
+C：usersiNEkoNDesktop/山东\出题i检材v周宇APk文件/uni.owry.apk
+Package Name:uni.owry
+Main Activity:
+File size: MD5:
+Packed:
+MinSDK:
+TargetSDK:
+activity
+permission
+io.dcloud.PandoraEntry
+21184244bytes
+c5ea689ea806ed2318bccbbc2cba5198
+NotPacked
+19 28
+GDAxml
+services
+receiver
+o
+all
+OpenXM
+Save
+回 Dump
+回
+区
+Cancel
+2.9
+android:compilesdkversion="23android:compilesdkversioncodename"6.e-2438415"package-"uni.owry"platforhBuildversio
+cance
+screens-"true"android:resizeable-"true"
+cance notif
+INotifid INotifid RemoteAc
+graphics.dr os
+androidtransc androidx
+bolts com
+dc.squareup fun.learnlife io
+javax.annotati
+kotlin.annotations.jvm
+net.iingala.zip4j org
+pl.droidsonroids.gif uni.owry
+android.permission.WRITE_EXTERNAL_STORAGE android.permission.ACCESS_NETwORKSTATE
+android.permission.ACCESS_WIFI_STATE android.permission.INSTALLPACKAGES
+android.permission.REQUEST_INSTALL_PACKAGES android.permission.CHANGENETwORKSTATE
+android.permission.MoUNT_UNMoUNTFILEsYsTEMs
+android.permission.VIBRATE android.nermissinn.RFAnIOGs

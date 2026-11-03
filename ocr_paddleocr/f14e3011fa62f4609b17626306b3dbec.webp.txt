@@ -1,0 +1,33 @@
+# OCR: f14e3011fa62f4609b17626306b3dbec.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/f14e3011fa62f4609b17626306b3dbec.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+pkcg cation
+Authenticator
+080000 chenhaoren
+☆
+?
+elopermode
+TimeSettings Timezone:
+Clock
+Time and Date Settings..
+Calendar
+Time and Date Settings
+Timezone: Configuration:
+Time: Date:
+?Help
+0
+Asia/Shanghai Manual
+54
+May
+Sun 1 8 15 22 29
+Mon 25 2 9 16 23 30
+Tue 26 3 10 17 24 31
+Wed 4 11 18 25
+Thu 28 5 12 19 26
+Unlock
+Fri 29 6 13 20 27
+2022 Sat 30 7 14 21 28
+x Close

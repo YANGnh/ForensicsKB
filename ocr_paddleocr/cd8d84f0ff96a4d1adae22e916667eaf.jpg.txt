@@ -1,0 +1,42 @@
+# OCR: cd8d84f0ff96a4d1adae22e916667eaf.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/cd8d84f0ff96a4d1adae22e916667eaf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+圆烟串
+? 国
+情报IOC 行为检测情报检测配置提取多维检测引擎检测静态分析动态分析
+Win10(190364..
+处置建议执行流程进程详情运行载图网络行为释放文件
+Win7(64bit.Offic.
+品运行截图（3）网络行为
+指纹 2
+指纹：2
+协议 HTTP HTTP
+地址
+ThreatBook
+HTTP 1
+目的IP 目的IP
+TCP 1
+192.168.137.77:80 192.168.137.77:80
+域名 0
+指纹类型
+DNS 0
+clientHeaderHash hfingerHash
+ThreatBook
+HTTPS 0
+描纹哈希
+UDP 0
+2
+SMTP 0
+fd48d92e7cbb339a9c68733065f18101 b5f234012864458a341da62a20f9cf40
+ICMP 0
+详情
+ThreatBook
+IRC 0
+Hosts 0
+3
+Dead-Hosts
+0
+user_agent,host,connection,cache_control 0.7|1|0.6l|GE|1|us-ag,ho,co,ca-cous-ag:b7 3aa60a/co:Ke-Al/ca-co:ncll

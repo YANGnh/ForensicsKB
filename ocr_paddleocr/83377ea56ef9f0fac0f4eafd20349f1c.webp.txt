@@ -1,0 +1,22 @@
+# OCR: 83377ea56ef9f0fac0f4eafd20349f1c.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/83377ea56ef9f0fac0f4eafd20349f1c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+文件(F)
+编辑(E)
+选择(S)
+查看(V)
+转到(G)
+受限模式旨在实现安全地浏览代码。信任此窗口以启用所有功能
+webSettings.xml X
+管理
+了解详细信息
+D：>检材题目>2o25取证能力验证>导出>助记词>word>webSettings.xml
+Q
+Q 搜素
+品m0
+w:id="719o16727"><w:marLeftw:val="o"/><w:marRightw:val="o"/><w:marTopw:val="o"/><w:marBottomw:val="o"/><w:divBdr><w:top
+w:val="none"w:sz="o"w:space="o"w:color="auto"/><w:leftwval="none"w:sz="o"w:space="o"w:color="auto"/><w:bottomw:val="none" w:sz="o"w:space="o"w:color="auto"/><w:rightw:val="none"w:sz="o"w:space="o"w:color="auto"/></w:divBdr></w:div></w:divschild></ w:div></w:divschild></w:div></w:divsChild></w:div></w:divschild></w:div></w:divschild></w:div></w:divschild></w:div></w:divschild></
+w:div></w:divsChild></w:div></w:divs><w:optimizeForBrowser/><w:allowPNG/></w:webSettings>zhujiciMnemonicPhrase>extendvolume theoryobjectenforcesweet</zhujiciMnemonicPhrase>

@@ -1,0 +1,25 @@
+# OCR: c2be731acfbbf09195d8062e4b2dbe17.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/c2be731acfbbf09195d8062e4b2dbe17.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+g
+毛雪柳的手机》
+序号口1 口2 口3
+详细信息
+三名称过滤
+其他应用>icost记账-快速简洁好用的理财助手>
+default.realm
+default.realm.lock
+default.realm.management(3)
+名称：default.realm 扩展名：realm
+类型：文件大小：128KB
+修改时间：2024-04-252250:23 MetaAddr：2584240128
+应用目录
+三大小等于 128KB 1.42KB OB
+三创建时间
+起始
+全路径：iPhoneXR.tar/private/var/mobile/Containers/Data/Application/9B67631C-CDFD-48FF-979C 36A785B58D8B/Documents/default.realm
+加密类型：未加密已删除：否
+结束

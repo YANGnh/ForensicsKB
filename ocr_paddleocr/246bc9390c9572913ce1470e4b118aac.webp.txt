@@ -1,0 +1,37 @@
+# OCR: 246bc9390c9572913ce1470e4b118aac.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/246bc9390c9572913ce1470e4b118aac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+VeraCrypt
+Volumes
+System
+DriveVolume
+Favorites
+A:E:jetbra Beifen
+SB: F: G: DH: e：
+K: L M: EN:
+Create Volume Volume
+V VeraCrype
+E:ljetbra|Belifen
+Tools
+Never save history
+Dismount
+Settings
+Help
+Encryption Algorithm
+Size 1023MB
+AES
+Yolume Properties...
+V
+Volume Tools...
+Auto-Mount Devices
+Dismount All
+Type Normal
+口
+x
+Homepage
+A
+Wipe Cache Select Eile... Select Dgvice....
+Exit

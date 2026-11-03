@@ -1,0 +1,14 @@
+# OCR: f953561c6d9ba991f8abec125cf96219.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/f953561c6d9ba991f8abec125cf96219.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:41
+
+Home o FileSystem
+Trash 16.jpg 10.jpg NewFolder
+FileActions
+EditViewHelp
+kali@kali:
+(kalikali)-[~]
+$steghideextract-sf'/home/kali/Desktop/1o.jpg
+9:42

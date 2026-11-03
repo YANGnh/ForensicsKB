@@ -1,0 +1,27 @@
+# OCR: 50dcd5a8bd99f2c78c34b3286473f96a.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/50dcd5a8bd99f2c78c34b3286473f96a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+.0.21P
+zico-history.tar.gz
+$ ls -lh total9.oM
+-rw-rw-r--
+1zicozico493KJun14
+zicozico 4.0KJun 19
+drwxrwxr-x18
+4.0KAug19
+drwxrwxr-x
+-rw-rw-n drwxr-xr-x
+rw-rw-n nw-rw-
+zico zico
+1zicozico
+61Jun19
+5zicozico4.okJun19 zicozico8.5MJun19
+zicozico1.2KJun
+8
+2017bootstrap.zip 2017jo0mla
+2016startbootstrap-business-casual-gh-pages
+2017todo.txt 2017 wordpress
+2017wordpress-4.8.zip 2017zico-history.tar.gz

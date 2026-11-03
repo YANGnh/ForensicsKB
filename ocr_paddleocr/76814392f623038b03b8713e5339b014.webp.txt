@@ -1,0 +1,28 @@
+# OCR: 76814392f623038b03b8713e5339b014.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/76814392f623038b03b8713e5339b014.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+9FTKImager.exe属性
+常规属性
+兼容性安全
+值
+说明
+文件说明类型
+文件版本产品名称产品版本
+版权大小
+修改日期语言
+合法商标
+详细信息
+FTKImager 应用程序 4.7.1.2
+以前的版本
+AccessDataFTK?Imager 4.7.1.2
+@2022AccessDataGroup,Inc.All Rights Re... 24.5MB
+2024-06-0923:10 英语(美国)
+FTK, Forensic Toolkit, and AccessData are re..
+原始文件名FTKImager.exe 册删除属性和个人信息
+确定
+取消
+应用(A)
+x

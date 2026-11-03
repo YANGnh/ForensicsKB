@@ -1,0 +1,27 @@
+# OCR: 68c43a80f2b97e78fb9e2211297e8ede.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/68c43a80f2b97e78fb9e2211297e8ede.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+A7
+A
+?
+fx
+ID
+百
+上级ID
+15979503550
+B
+15079402079
+c
+所处层级
+4
+D
+下线层数
+1
+E
+下线数量
+推孝链条
+F
+60->15209029326->15079402079->15979503550

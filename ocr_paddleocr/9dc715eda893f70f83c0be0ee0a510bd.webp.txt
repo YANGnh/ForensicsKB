@@ -1,0 +1,37 @@
+# OCR: 9dc715eda893f70f83c0be0ee0a510bd.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/9dc715eda893f70f83c0be0ee0a510bd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+(storagelemulatedo 口文件名称一
+口口.
+=
+emulated (1,062)
+口口.
+0 (1,062) =
+Alarms (1) Android (978) Audiobooks (0) backups(0)
+com.milink.service (0) com.miui.voiceassist(O)
+DCIM (2) Documents
+1）
+Download (4)
+口MIUI (2) Movies(3) Music(3)
+Notifications
+Pictures (4) Podcasts(1) ramdump(0)
+1
+Recordings (0) Ringtones(1)
+.oukdtft.userReturn
+Magisk-v27.0.apk
+Neo_Backup_8312_release.apk output.log
+scrcpy-server.jar UUID
+了措述存在的存在的存在的存在的存在的，… 存在的，… 存在的，… 存在的，… 存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的，… 存在的，… 存在的存在的存在的存在的存在的存在的存在的存在的
+了文件类型
+apk apk log jar
+了路径 storage
+Istoragelemulated(storagelemulated/o Istoragelemulated/o Istoragelemulatedo(storageemulated/o storagelemulated/o Istoragelemulated/o storagelemulatedo storagelemulated/o(storagelemulated/o Istoragelemulated/o(storagelemulated/o Istoragelemulated/o Istorage(emulated/o Istoragelemulated/o(storagelemulated/o storagelemulated/0(storagelemulated/o Istoragelemulated/o Istoragelemulated/o storagelemulated/o storagelemulated/o Istoragelemulated/o storagelemulatedo storagelemulated/o storagelemulatedo
+1分钟以前
+文件大小 24.7GB2 24.7GB2
+0B2 107MB2
+0B2 0B2 0B2 0B2 0B2 88B2
+128MB2 1.9KB2 36B2 36B2 0B2 73B2 0B2 0B2 0B2 0B2 313B2 74B2
+11.9MB 10.2MB2 4.6KB2 45.0KB2 24.4GB2

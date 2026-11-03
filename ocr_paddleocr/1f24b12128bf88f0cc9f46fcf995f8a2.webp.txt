@@ -1,0 +1,18 @@
+# OCR: 1f24b12128bf88f0cc9f46fcf995f8a2.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/1f24b12128bf88f0cc9f46fcf995f8a2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:11
+
+IMG20220504112011.Jpg IMG20220723_083615.jpg IMG20220828165227.jpg IMG20220828_171200.jpg IMG20221023201537jpg IMG20221026113235.jpg IMG20230225_164128.jpg IMG20230504_140853.jpg IMG 20230504_140907jpg IMG20230504144454.jpg IMG20230505_095509.jpg IMG20230505_095519.jpg
+分区
+文件
+网预览
++LO详细
+存在的
+存在的，已查看
+存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+口缩略图时间轴图例说明看器组文本
+jpg ipg jpg jpg jpg jpg jpg jpg jpg jpg jpg jpg
+养
+5.1MB2024/ 5.2MB2024/0 2.2MB2024/0 1.6MB2024/0 2.4MB2024/0 2.1MB2024/0 1.3MB2024/C 5.0MB2024/0 3.0MB2024/0 3.8MB2024/C 3.8MB2024/0 4.0MB2024/0

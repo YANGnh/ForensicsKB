@@ -1,0 +1,15 @@
+# OCR: 5657867f81d2ace6611bb3b78eeb15de.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/5657867f81d2ace6611bb3b78eeb15de.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+fautts
+C
+①127.0.0.1/m/1og
+Fastdfs
+欢迎您来到弘连档案系统
+ClickHere
+上连批-专用
+更新 COE
+84 2024/1/6

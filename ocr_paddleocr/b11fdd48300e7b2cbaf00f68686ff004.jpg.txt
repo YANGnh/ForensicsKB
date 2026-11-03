@@ -1,0 +1,28 @@
+# OCR: b11fdd48300e7b2cbaf00f68686ff004.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/b11fdd48300e7b2cbaf00f68686ff004.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+Avm-112-disk-0.qcow2
+三序号口1 口2
+推容器ID 过滤
+a2aae89e3ac84ec3df4.. 3ba5cba800fe85786e.
+docker>
+docker>
+三使用的镜像
+过滤 redis
+mysql:5.7
+品
+容器列表
+璀自动分配的容过滤
+redis-web mysql-web
+三启动容器时运行的命令过滤
+redis-server mysqld
+容器状态
+过滤 Running Running
+三文件挂载过滤
+三容器端口信息过滤
+6379/tcp: 3306/tcp:3..
+三所属网络
+过滤 bridge bridge

@@ -1,0 +1,36 @@
+# OCR: b19d0b8b362ef311ac94888766e7d482.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/b19d0b8b362ef311ac94888766e7d482.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:38
+
+非常好的问题
+获Fus
+你提到的日志显然是从客户端埋点数据（如抖音、TikTok的上报包）抓到的。
+全网播放量字段可能是什么
+在这种客户端上报（如VIDEOREQUEST，VIDEOPLAYQUALITY）里，确实不会直接包含“全网播放量字段
+因为那是服务器端统计的指标。不过我可以告诉你：
+在不同类型的数据包或接口中，全网播放量（作品播放数、viewcount、playcount）通常出现在以下字段名中。
+多一、常见全网播放量字段名汇总
+平台类型
+抖音/TikTok 抖音/TikTok
+抖音/TikTok
+西瓜视频／今日头条快手
+哔哩哔哩(B站） YouTubeAPI
+1
+询问任何问题
+9，询问ChatGPT"play_count
+"view_count"
+"statistics":("play_count":123456)"video_play_count"
+"view"或"play_times""stat":("view":10000)
+"statistics":{"viewCount";"123
+示例值 1234567 98765
+object 530021 10200 object string
+ChatGPT也可能会犯错。请核查重要信息。
+含义
+视频总播放量（全网累计）浏览次数（通常与播放量近似）
+嵌套在statistics对象中
+视频播放数播放量
+视频播放数总）官方视频总观看数
+Q
+包

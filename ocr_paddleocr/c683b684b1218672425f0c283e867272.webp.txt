@@ -1,0 +1,40 @@
+# OCR: c683b684b1218672425f0c283e867272.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/c683b684b1218672425f0c283e867272.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+请选择/输入持有人/脸
+手机检材基本信息
+自带测范器器App分析母其他应用图片文本内容
+35449 25372 34 79 5926 4038
+YTextinc会议号
+国际序号口1 2 口3
+详细信息
+邮名称过源
+6d350b96b5c87bad174275da2e8844c99e52bc f8fe21f4e57e454c29513a1d9e9396757efalee8 eeb9a8f1b853a6b7ed552078fb66a9c5617c244
+三置信度(0-100）
+识刷文本
+等于
+会议号
+历史会议全部会议收藏会设置强壮的小鸭子强免费个人中心头像强昵称强社
+名称：eeb9a8f1b853a6b7ed552078fb66a9c5617c2448b7b90f7ddbbde4d69fb2938b.0
+识别文本：个人中心头像强昵你强杜的小鸭子>企业免费版手机17751125237个人会议号267-982 3922退出登录注销账号
+类型：二维码文件路径：
+data.tar/media_435/0/Android/data/com.miui.gallery/files/gallery.disk.cache/full_size/eeb9a8f1b8 53a6b7ed552078fb66a9c5617c2448b7b90f7ddbbde4d69fb2938b.0
+2025-01-23 10:09:49
+稳改时间：
+西文件路径过滤
+datatar/media_435/o/Android/data/com. data.tar/media_435/o/Android/data/com... data.tar/media_435/0/Android/data/com.
+原类型视固
+文本视图
+十六进制视图
+在图片文本内容
+个人中心
+买像
+昵称企业
+手机
+个人会议号
+强性的小子
+免费版 17751125237 267482-3922
+湛出查录

@@ -1,0 +1,12 @@
+# OCR: df4f9c8ed44958421b9d74718486269f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/df4f9c8ed44958421b9d74718486269f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+客服小美
+未获得个性签名
+ID：未获得用户ID
+内部ID:wxidf4s0jmpvrc522
+：17859628390
+:未获得

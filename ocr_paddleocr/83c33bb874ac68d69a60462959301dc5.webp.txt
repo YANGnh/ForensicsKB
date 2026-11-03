@@ -1,0 +1,19 @@
+# OCR: 83c33bb874ac68d69a60462959301dc5.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/83c33bb874ac68d69a60462959301dc5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+列表
+附件
+当前版本
+安装版本
+安装时间
+2024-01-15 10:53:28
+更新时间
+2024-01-1510:55:38
+卸载时间
+包名
+已筛选记录1条×
+com.quark.browser
+国快捷#

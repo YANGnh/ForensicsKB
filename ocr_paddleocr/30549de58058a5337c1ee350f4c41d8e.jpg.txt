@@ -1,0 +1,23 @@
+# OCR: 30549de58058a5337c1ee350f4c41d8e.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/30549de58058a5337c1ee350f4c41d8e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+附件1：
+服务器备注服
+务器服务器
+虚拟机
+虚拟化平台
+虚拟化平台网络存
+储
+openwrt&wireguard Github&密钥服务器
+渗透测试机病毒研发机
+台账 IP地址
+222.2.2.250 222.2. 2. 200 192.168.200.1 192.168.200.201 192.168.200.10 192.168.200.20
+用户名 root
+root root kali root
+密码
+!Honglian7001 honglian7001
+kali
+honglian7001

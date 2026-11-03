@@ -1,0 +1,27 @@
+# OCR: c6d4ca186eef08bb02d7007d2dcc77f8.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/c6d4ca186eef08bb02d7007d2dcc77f8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Wireshark·追踪HTTP流(tcp.streameg141)·tcpdump_tj.cap
+HTTP/1.1200OK Server: nginx
+Date:Fri,04 Mar2022 07:17:53 GMT
+Content-Type:text/html;charset=UTF-8
+Transfer-Encoding:chunked Connection:close
+Vary:Accept-Encoding Content-Encoding:gzip
+c7f5bArchive:goon2_lin.zip
+inflating：goon2 lin 9f7dd
+/ww/wwroot/ww.tpshop.com/application
+dea75af74315 7eca416a9f9
+分组8344,1客户端分组，0服务器分组，0tum(s点击选择
+整个对话（342bytes）查找：
+滤掉此流
+打印
+Showdata as 另存为.…
+UTF-8 返回
+关闭
+口
+x
+流141图查找下一个（N）
+帮助

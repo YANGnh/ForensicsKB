@@ -1,0 +1,10 @@
+# OCR: bdbad786f773d16d02d3c4d94b67334f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/bdbad786f773d16d02d3c4d94b67334f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+C:(Users}Luck(Desktop>certutil -hashfile 备忘录.txt SHA1 SHA1的备忘录.txt
+哈希：
+fded9342533d92fa46fc4aabd113765a7a352ceb
+CertUtil：-hashfile命令成功完成。 C:/Users\Luck\Desktop>

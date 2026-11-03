@@ -1,0 +1,37 @@
+# OCR: a5eefa50d7e60a7a7c4aabd5c62cdc2a.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/a5eefa50d7e60a7a7c4aabd5c62cdc2a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+创建名称汁 ens160 ens36 vmbro vmbr1
+名
+@pam
+编辑售设备各各设备 LinuxBridge LinuxBridge
+说明
+移除
+碰用配逼运行中
+香是是
+自动启动
+否香
+编辑：LinuxBridge
+名称：
+IPv4/CIDR: 网关(IPv4) IPv6/CIDR 网关(IPv6):
+VM112-启动
+vmbr1
+VLAN
+香香香香
+192.168.100.0/24
+端口从属 ens160
+Bond模式
+启动
+VLAN 桥接端口：备注：
+区口
+CIDR
+192.168.71.133/24 192.168.100.0/24
+ens36
+高级
+OK
+Reset
+网关
+192.168.71.2

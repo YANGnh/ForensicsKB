@@ -1,0 +1,9 @@
+# OCR: 390c4360056aaac7a7281b02616f0fce.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/390c4360056aaac7a7281b02616f0fce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+127..0.1: : 1
+1ocalhost1ocalhost.localdomain1ocalhost41ocalhost4.localdomain4 localhost1ocalhost.localdomain1ocalhost61ocalhost6.1ocaldomaine
+192.168.2.199k8s-master 192.168.2.200k8s-node1 192.168.2.201k8s-node2

@@ -1,0 +1,25 @@
+# OCR: d087f742a14b4f214f15ad0c3e87a898.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/d087f742a14b4f214f15ad0c3e87a898.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+田田田田
+1.44.1-69057(Ext2/3/4at25728onmeiya_tes...
+.s
+@userpreference
+1.44.1-69057(Ext2/3/4flesystem)
+@s2S
+@SynoFinder-etc-volume@SynoFinder-og
+@database@eaDir
+@synoconfd@tmp
+@userpreference JohnKiller
+AB
+Name
+@administrators SYSTEM_ADMIN
+admin johnkiller system
+Date
+HE
+01.01.197008:08:52 13.11.203716:58:06 04.01.1970 18:47:07 04.01.1970 18:47:07 13.11.2037 16:57:48
+Type
+File folder File folder File folder File folder File folder

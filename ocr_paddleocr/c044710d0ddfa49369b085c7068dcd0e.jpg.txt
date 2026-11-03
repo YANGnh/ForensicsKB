@@ -1,0 +1,25 @@
+# OCR: c044710d0ddfa49369b085c7068dcd0e.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/c044710d0ddfa49369b085c7068dcd0e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+一导入向导
+对你的表结构进行了一些猜测，你现在可以进调整
+源表：目标表：
+源字段邮箱账号?姓名身份证四密码电话
+result result
+目标字段
+邮箱账号姓名身份证密码电话
+类型 varchar varchar varchar varchar varchar varchar
+长度
+255 255 255 255 255 255
+上一步
+比例
+0
+主键
+0 0 0 0 0
+下一步
+口
+x A
+取消

@@ -1,0 +1,21 @@
+# OCR: ad6dcd056f53577ba74605c8bd036593.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/ad6dcd056f53577ba74605c8bd036593.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+原类型视图未删除记录 account
+文本视图
+android metadata
+data note
+sqlite sequence
+1 1
+十六进制视图
+=note_id
+pr.item/text_n..
+4
+=created_date 1744358379000
+note.db
+modified_date 1744358379000
+=content
+钥环1qaz2wsx3edc

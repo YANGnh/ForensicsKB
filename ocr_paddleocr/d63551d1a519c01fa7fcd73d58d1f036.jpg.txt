@@ -1,0 +1,39 @@
+# OCR: d63551d1a519c01fa7fcd73d58d1f036.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/d63551d1a519c01fa7fcd73d58d1f036.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+合
+个
+RecoverFilePassword
+recoveryPage_tabs_files
+a.xls 文件位置文件类型复杂度 MD5:
+Passwords:
+recoveryPage_tabs_report C:)Users)32622)Desktop
+recoveryPage_tabs_resources
+MSExcel97-2003OpenPassword,CSPEncryption....Brute-force-Slow
+FE51051CAB5C446D5A36B78541DCA0B4
+File-Open File-Modify
+Unprotected file:
+密码查找详情 2
+密码分析
+22,866,138,098
+品打印
+TIMEELAPSED 58minutes,46 seconds
+：保存结果
+P1sswOrd
+已移除
+RSWSCUBWYSWQYSX
+生成已移除
+C:)Users)32622)Desktop)a-unprotected.xls MD5:C9BEEF85040287BF642B430E63F8B159
+工具
+帮助
+recoveryPagetabs_performance
+重新进行攻击
+?
+保存报告
+口
+x
+recoveryPage_tabs_attacks
+完

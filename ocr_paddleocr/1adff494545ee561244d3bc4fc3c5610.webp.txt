@@ -1,0 +1,13 @@
+# OCR: 1adff494545ee561244d3bc4fc3c5610.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/1adff494545ee561244d3bc4fc3c5610.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+fakeupdate.net/win1oue/bsod.htmlm3m3mmm<RET><F7><F7><F7><F7>111111「+热行成功，结果如下：
+bao<SPACE>bao,zui<SPACE>jin<SPACE>you<SPACE>ge<SPACE>nan<SPACE>sheng<SPACE>xiang<SPACE>zhui<SPACE>Wo,ta<SPACE>jiaao<SPACE>WWang<SPACE>qi<SPACE>zhao<DEL><DEL><DEL><DEL>qi<SPACE>Zao<SPACE>Wang<SPACE>ta<SPACE>shuo<SI E>ta<SPACE>ai<SPACE>Wo,dan<SPACE>shi<SPACE>cong<SPACE>bu<SPACE>baang<SPACE>Wo<SPACE>na<SPACE>kuai<SPACE>di,hao<SPACE>fan<SPACE>acmd<RET>BDFGGHIIKLNNOOMLJJIIHIIJKLLKHIGGFEEDBCAAABBBABCEDEEDEEEFEGGIFFCBBAACCCFFHGFED
+BBABEEEGFFDCA<SPACE>whoami<RET>net<SPACE>user<RET>net<SPACE>user<SPACE>qianqianwoainiS<SPACE>abcdefghijk<CAP>i<CAP>mn<SPACE>/add<RET>net<SPACE>localgroup<SPACE>administrators<SPACE>qianqianwoainiS<SPACE> add<RET>net<SPACE>user<SPACE>iangianwoainiS<SPACE>/delCGIKLLMMLLJJHHHFECB<RET>net<SPACE>localgroup<SPACE>administrators<SPACE>qiangianwoainiS<SPACE>/
+add<RET>rund1132<SPACE>url.d1l,<CAP>f<CAP>ile<CAP>p<CAP>rotocol<CAP>h<CAP>andler<SPACE>https"//fakeupdate.net/win1oue/bsod.htmlGJKGECCAAA<RET>CEGHKMMNNLLJHFDE[+]处理后的结果如下：
+bao bao,zui jinyouge nan shengxiang zhui wo,tajiaaowwang qi qi zao wangta shuo ta ai wo,dan shi congbu baangwo na kuai di,haofan
+acmd<RET>BDFGGHIIKLNNOOMLJJIIHIIJKLLKHIGGFEEDBCAAABBBABCEDEEDEEEFEGGIFFCBBAACCCFFHGFEDCCBBABEEEGFFDCAwhoami<RET>netuser<RET>netuserqianqianwoainisabcdefghijkImn/add<RET>net1ocalgroupadministrators qianqianwoainis/add<RET>netuserqianqianwoainis/delcGIKLLMMLLJJHHHFECB<RET>netlocalgroupadministratorsqianqianwoainis/add<RET>rundll32url.dll,FileProtocolHandlerhttps"//fakeupdate.net/win1eue/
+bsod.htmGJKGECCAAA<RET>CEGHKMMNNLLJHFDB[+删除的字符如下：

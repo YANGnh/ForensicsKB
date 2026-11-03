@@ -1,0 +1,12 @@
+# OCR: d37147783a0045030d07b7848ae6cb5b.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/d37147783a0045030d07b7848ae6cb5b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+In【21]：importpyotp
+In[22]：importdatetime
+In[23]:old_day=datetime.datetime(2022,5,12,0,54,10)
+In[24]:totp=Pyotp.TOTP('LIANHONGQIANQIAN In25l:totp.at(old_day)
+0ut25]
+080000

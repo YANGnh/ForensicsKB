@@ -1,0 +1,19 @@
+# OCR: ba72759c946623d5163909fb93ea6b27.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/ba72759c946623d5163909fb93ea6b27.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:36
+
+Playground
+select * from members m Left join 'tree't on m.member_id = t.ID wheret.所处层级=1
+国输出
+y
+西Result2
+2
+Dmember_idY M020038
+Q
+B
+DnameY 杨俊
+registration_date Y 2020-01-01 00:00:00
+Dstatusy active
+Dphon

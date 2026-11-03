@@ -1,0 +1,9 @@
+# OCR: d5282427f3ec8ad4f50138cf8a15348b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/d5282427f3ec8ad4f50138cf8a15348b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+C:\Users\Luck\Desktop>certuti1-hashfile老婆.pngSHA256 SHA256的老婆.png
+哈希：
+02139bf305630ceffadd6926c202bae655c79d25a64f5c7a1c62bc4c91c9ccf1 CertUtil：-hashfile命令成功完成。

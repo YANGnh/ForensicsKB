@@ -1,0 +1,29 @@
+# OCR: fad420ac63a79b03708e6cac69387a06.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/fad420ac63a79b03708e6cac69387a06.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+236日 237 238 239 240 241 242 243
+root@openwrt:~#df
+Filesystem/dev/root
+efivars tmpfs
+/dey/loope
+overlayfs:/overlay tmpfs
+1K-blocks
+4352 256
+2012008 8292024 8292024
+512
+UsedAvailableUse%
+Mountedon
+4352
+2 168
+582972 582972
+0
+100%/rom
+254
+2911840 7799952 7709052
+512
+1%/sys/firmware/efi/efivars 8%/tmp
+7%/overlay
+7%/%/dev

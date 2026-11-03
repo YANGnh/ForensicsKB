@@ -1,0 +1,9 @@
+# OCR: 401475b26e606ef345032c4380b91b50.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/401475b26e606ef345032c4380b91b50.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+(gdb)call(char*)getflag1()
+$1=0x595f9bo"flaq1(hong1122337'(gdb)call(char*)get_flag2()
+$2=0x595fa40"flag2(hong](qdb)

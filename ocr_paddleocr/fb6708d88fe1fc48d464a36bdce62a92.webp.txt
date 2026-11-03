@@ -1,0 +1,9 @@
+# OCR: fb6708d88fe1fc48d464a36bdce62a92.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/fb6708d88fe1fc48d464a36bdce62a92.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+本人李安弘久陈造北款额
+80000元（大：捌万元）
+欠款人，李守3 身证，×××、2年月

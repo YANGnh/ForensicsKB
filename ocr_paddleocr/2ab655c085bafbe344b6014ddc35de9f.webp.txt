@@ -1,0 +1,17 @@
+# OCR: 2ab655c085bafbe344b6014ddc35de9f.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/2ab655c085bafbe344b6014ddc35de9f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+RootZoneRecords
+NS NS DS
+ns1.varo. ns2.varo.
+15099132c806438b11067e9f27916d604142ece815cd6c37174702a0ac7800e3a1bbe5a9
+Bid History
+Bid 01
+Date Jan13.2025
+Amount 10.00HNS
+90.00HNSBlind
+Lockup 100.00HNS
+Status WINNER

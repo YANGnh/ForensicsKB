@@ -1,0 +1,76 @@
+# OCR: 8baef54207d148fa8d61ed49f8c50806.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/8baef54207d148fa8d61ed49f8c50806.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
+预览
+文件
+专克文件修改查看
+国Bitcoin测究器交器
+Co
+编辑
+显示
+前往
+工具
+窗口
+截屏2025-04-0512.11.082
+历史记录
+书篮标签页室口帮助
+帮助
+?
+oklink.com/zh-hans/btc/tx/1bc934ef06cda3053a6e93774cc8e8c980a5b95a6fa27984caf1c628e336a385
+DHLINH 交易详情
+浏宽器
+请上AML
+上天限V
+APIEaas
+1bc934ef06cda3053a6e93774cc8e8c980a5b95a6fa27984caf1c628e336a385
+概宽
+区块高度
+8909846个区块已确认出块时间
+2025/04/0511:44:04(26分钟前）
+交易索引 586
+交易特征
+Segwit 交易输入
+Faproot
+RBF
+bc1q4s5g43yyrf4fkd0r8fhwq23jra24f7e57p2zno
+费用明细
+输入1输出数量
+Q地址/交易/代币/闪电网络
+21.17522533BTC121.17521975BTC 手续费
+0.00000558 BTC ($0.46) 资年
+3.957脱/虚拟字节多置2倍
+(1)
+21.17522533 BTC
+12
+输出
+交易明细总交易大小 222字节虚拟交易大小 141虚数字节
+权重 561wu
+O
+☆
+bc1qvffm36xra02aymwqcajhjzcrg6h8q2jwdn0kjec bc1q6lylw6rtuh6kdarh0dqma3g5zpqc9uxrw3amngO
+口
+O口口m
+拼?
+向
+Q
+0 Q
+QQ
+84月5日周六12:11
+?
+EA总结
+0 交易明细
+(2) 0.5BTC
+20.67521975 BTC
+21.17521975BTC
+stv
+万
+4月12日周六14:54
+未命名
+Skype-8.138.0.214
+.dmg ZIP
+截屏2025-04-05 12.11.08.zip
+截屏2025-04-05
+12.11.08

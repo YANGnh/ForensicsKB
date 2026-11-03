@@ -1,0 +1,67 @@
+# OCR: 5eada19c1593d6128ce44865f63e0755.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/5eada19c1593d6128ce44865f63e0755.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+络端
+[root@localhost alist]# dockerps
+CONTAINER ID 85c6f203ba5b 080->80/tcp
+IMAGE
+NAMES
+corentinth/it-tools:latest
+it-tools
+b28698e5320a
+Loutslan/uptime-kuna:1
+:3001->3001/tcp
+uptine-kuma soulteary/flare
+41945cbed027
+e->5005/tcp
+flare-flare-1
+a42dfbe981e3
+prophet3ie/alist-encrypt:beta
+5344->5344/tcp
+alist-encrypt
+[root@localhostalisti#netstat-anpt
+COMMAND
+"/docker-entrypoint._""/usr/bin/dumb-init-"
+"flare--nologin=o""node index.js"
+ActiveInternet connections (servers and established)
+ProtoRecv-oSend-oLocalAddress
+tcp tcp tcp tcp tcp tcp tcp tcp tcp6 tcp6 tcp6 tcp6 tcp6 tcp6 tcp6 tcp6
+e e e e e e e e
+e e e e e e
+00000:111 00000.8080 0000080 00.0.0.0:22 00.0.0.0:3001 012700.1.25 00000-5344
+192168217131:22
+36
+e111：：:8080
+e e e e e
+80 22:3901::1:25
+：：5244·
+G
+：5344
+Foreiqn Address
+0.0.00:k 00.0.0:* 0000* 0.0.0.0.* 0.0.0.0:* 0000* 00.0.0:*
+192.168.217.1:26974
+**
+8-*·*
+CREATED
+2 weeks ago 2weeks ago 2weeksaqo 2 weeksago
+State LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN
+STATUS
+Up2hours
+Up2hours（healthy）
+Up2hours Up2hours
+PID/Programnane 793/rpcbind
+2961/docker-proxy 2916/docker-proxy 1115/sshd
+2936/docker-proxy 1498/master
+9565/docker-proxy
+ESTABLISHED9171/sshd:root@pts
+LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN
+793/rpcbind
+2967/docker-proxy 2925/docker-proxy 1115/sshd
+2943/docker-proxy
+1498/master 1123/alist
+9571/docker-proxy
+PORTS
+e.0.0.0:8080->80/tcp.:::8 e.e.0.e:3001->3001/tcp:: 0.0.0.0:80->5005/tcp.:::8 e.e.e.e:5344->5344/tcp.::

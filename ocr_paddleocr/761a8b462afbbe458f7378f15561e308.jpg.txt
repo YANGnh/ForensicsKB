@@ -1,0 +1,17 @@
+# OCR: 761a8b462afbbe458f7378f15561e308.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/761a8b462afbbe458f7378f15561e308.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+五
+回
+国 froot
+boot data dey etc home media mnt opt patch proc root
+.cache-pip pki
+.bash_history.bashlogout.bashprofile
+.bashrc.cshrc
+DPINSTIOG
+精武杯服务器 o
+终端×
+Last login:Thu.Apr 25 10:04-07 2024[root@server~]#

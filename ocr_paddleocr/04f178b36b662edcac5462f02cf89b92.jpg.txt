@@ -1,0 +1,40 @@
+# OCR: 04f178b36b662edcac5462f02cf89b92.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/04f178b36b662edcac5462f02cf89b92.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+原类型视图未删除记录 addr
+calendar call log
+文本视图
+15
+canonical addresses contact
+contactgroup deviceinfo
+part pdu sms
+systeminfo threads
+5 4 9 25
+Ca 13
+十六进制视图
+曹序号
+2 3 4
+6 8 9 10 11 12 13
+domain Version Make Device Identifier
+SimOperator Siminformation
+Network AndroidiD SerialNo
+IMEI IMEI2 IMSI
+Timezone
+key! Code Maker Board
+Macaddress
+Code Country Type ID D ID D ID ID
+datal 28
+samsung msm8998
+Contents.db
+02:00:00:00:00:00
+45400 hk 0
+e04d024efolb431fb 988a1b38534f465742 354763081327319 354764081327317 454000082753072 Asia/Hong_Kong
+=key2 Release Model Device
+PhoneNumber Name
+SerialNumber
+data2 SM-G9500
+dreamqltechn Lucky HK
+8985200000827530728

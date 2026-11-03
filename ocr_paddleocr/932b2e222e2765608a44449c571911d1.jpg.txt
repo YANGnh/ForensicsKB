@@ -1,0 +1,13 @@
+# OCR: 932b2e222e2765608a44449c571911d1.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/932b2e222e2765608a44449c571911d1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+vMuare ESxi 6.7.0 (vMKernel Release Build vMuare.Inc.vMuare20,1
+AMDRyzen74800HuithRadeonGraphics 4GiBMemory
+To manage this host go to: http://222.2.2.250/(STATIC)
+8169922
+http://[fe80::20c:29ff:fee5:f6e81/(STATIC)
+<F2>CustonizeSysten/vieuLogs
+<F12>ShutDoun/Restart

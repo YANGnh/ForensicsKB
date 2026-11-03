@@ -1,0 +1,83 @@
+# OCR: 2d71bb42b182017e0471af22b41ad6b0.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/2d71bb42b182017e0471af22b41ad6b0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+回
+Mtime>=*2023-04-15...
+口序号口1
+详细信息
+名称过滤
+x
+四IMG20230415190036jpg
+名称：IMG20230415_190036.jpg
+扩展名：jpg 类型：文件大小：2.92MB
+2023-04-1519:00:36
+修改时间：
+元数插地址：19671597568
+Y
+大小等于
+V
+2.92MB
+三创建时间
+起始
+FORENSI
+全路径：2.lmage.tar/lmage/data/media/0/DCIM/Camera/IMG_20230415_190036jpg
+加密类型：未加密已删除：否
+FORE
+结束
+三修改时间
+2023-0
+2023-0Y
+2023-04-1519:00:36
+原类型视图 offset
+e 7eh
+ee
+8eh 9eh Aeh Beh ceh Deh
+ee ee 76 56 ee 39
+Eehee
+1 14 ee e4 6F
+q0 3A 91
+分页大小：2kb
+文本视图
+2 ee 87 ee ee
+96 36 ee
+m e 69 ee 76
+91 30 e
+4
+三全路径过滤
+在Camera中搜索
+2.lmage.tar/lmage/data/media/0/DCIM/Camera/IMG_20230415_190c
+FORENS
+十六进制视图
+6
+ee 8 ee 69 9e 32 3A 82
+B8 84 e1 76 ee 36 33 9A
+92 ee ee 6F ee
+36 82
+当前页：1
+13 ee ee 2e 48
+99 9D
+8 e e 6 58 e 3A 96 e
+9 83 e1 8E 2e ee 38 26 95
+A ee ee ee 46 9e
+82
+B ee ee ee 6F a1
+A 9e
+C ee 96 97 6C a
+9e 99
+D 91
+87 54 ae
+35 91
+F 1 e
+88
+25
+69 76 3320
+48 e
+28 e
+31
+eeee
+Q123456789ABCDEF vo.vivoXFold3 Pro....H.......H
+2023:04:151
+9:00:36..&

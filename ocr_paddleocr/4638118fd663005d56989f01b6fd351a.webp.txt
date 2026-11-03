@@ -1,0 +1,10 @@
+# OCR: 4638118fd663005d56989f01b6fd351a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4638118fd663005d56989f01b6fd351a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+NoahTie@LAPToP-H91IARRE
+>ssh-Yandroid@192.168.31.150 android@192.168.31.15o'spassword
+Linuxlocahost4.19.324-perf+#1SMPPREEMPTWedMar2600:43:59UTC2025aarch64
+DebianGNu/Linux12(bookworm)[runningviaLinuxDeploy android@localhost:s

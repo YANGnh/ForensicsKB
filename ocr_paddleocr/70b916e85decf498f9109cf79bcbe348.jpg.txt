@@ -1,0 +1,47 @@
+# OCR: 70b916e85decf498f9109cf79bcbe348.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/70b916e85decf498f9109cf79bcbe348.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+root@openwrt:/# netstat-anpt
+(servers and established)
+Active Internet connections
+Proto Recv-QSend-QLocal Address
+tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp tcp
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 o 0 0 0 0 0 0
+root@openwrt：/#
+0.0.0.0:443 0
+00.0.0.0:8080
+127.0.0.1:53 0
+192.168.100.1:53 0
+0.0.0.0:22
+0
+192.168.71.100:53
+192.168.71.100:8080 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+192.168.71.100:8080 192.168.71.100:8080 192.168.71.100:8080 192.168.71.100:8080 192.168.71.100:8080 192.168.71.100:8080 192.168.71.100:8080 fd24:2cf2:d6f8::1:53
+:::443:1:53:::8080
+Foreiqn Address
+0.0.0.0:* 0.0.0.0:* 0.0.0.0:* 0.0.0.0:* 0.0.0.0:* 0.0.0.0:*
+192.168.71.1:36098 192.168.71.1:36088 192.168.71.1:36100 192.168.71.1:36092 192.168.71.1:36095 192.168.71.1:36099 192.168.71.1:36091 192.168.71.1:36089
+:*:::
+fe80::be24:11ff:feef:6796:53
+:::w
+:::22
+:::w
+B:::*
+fe80::be24:11ff:fe47:9811:53
+State LISTEN LISTEN LISTEN LISTEN LISTEN LISTEN
+PID/Program
+name
+1824/uhttpd 1824/uhttpd 2770/dnsmasg 2770/dnsmasg 1343/dropbear 2770/dnsmasg
+ESTABLISHED 1824/uhttpd ESTABLISHED1824/uhttpd ESTABLISHED1824/uhttpd ESTABLISHED1824/uhttpd ESTABLISHED1824/uhttpd ESTABLISHED 1824/uhttpd ESTABLISHED1824/uhttpd ESTABLISHED1824/uhttpd
+ISTEN LISTEN LISTEN LISTEN
+LISTEN
+LISTEN
+LISTEN
+2770/dnsmasg 1824/uhttpd 2770/dnsmasg 1824/uhttpd
+2770/dnsmasq
+1343/dropbear
+2770/dnsmasg

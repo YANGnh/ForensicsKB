@@ -1,0 +1,13 @@
+# OCR: d3afc52ab3225937797b382a667ac649.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/d3afc52ab3225937797b382a667ac649.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+【+]请输入文件名
+system_config_prefs
+[+]请输入mmkv的加密密钥，如未加密请直接回车
+defaultuin':
+"bool':True
+int32：326674411 uint32：326674411, int64'：326674411， uint64':326674411,
+'float':o.0, bytes':b' string

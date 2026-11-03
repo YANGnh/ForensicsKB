@@ -1,0 +1,15 @@
+# OCR: dd8e49b9c328d21929dcc41cb416e452.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/dd8e49b9c328d21929dcc41cb416e452.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+不安全[192.168.8.89/gim
+-%2Fmde:
+语密码
+后台管理系统
+Copyripnto2021-2022JIDu
+Q限发
+c书
+中
+@

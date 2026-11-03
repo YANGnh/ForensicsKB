@@ -1,0 +1,25 @@
+# OCR: 2bce7573f75378b0c24544a362acea94.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/2bce7573f75378b0c24544a362acea94.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+导入向导
+对你的表结构进行了一些猜测，你现在可以进调整
+源表：目标表：
+源字段
+f1 f2 f3 f4 f5 f6 因f7
+Sheet1
+information
+目标字段
+id 姓名电话地址省份市数量
+类型 varchar varchar varchar varchar varchar varchar varchar
+长度
+255 255 255 255 255 255 255
+上一步
+比例
+0 0 0 0 0 0 0
+下一步>
+主键
+取消
+X

@@ -1,0 +1,12 @@
+# OCR: 37551c8125a9b56b8f69e235ccab9c90.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/37551c8125a9b56b8f69e235ccab9c90.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:17
+
+7:47
+A
+保险箱
+没有文件
++
++

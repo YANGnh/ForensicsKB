@@ -1,0 +1,29 @@
+# OCR: 455084b55534192f8469647a3353e3b9.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/455084b55534192f8469647a3353e3b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+x
+>
++ A
+M2101K9C20250422105738
+区
+名称
+排序
+>
+20250422105241.mp3 20250422105241.wav
+App 查看
+20250422105241.wav.txt
+com.ifeimo.audiorecord
+标题
+>
+ef
+FmAudio
+在FmAudio中搜索
+参与创作的艺术家
+唱片集
+口
+x Q
+预览
+非列、

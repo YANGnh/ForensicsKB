@@ -1,0 +1,38 @@
+# OCR: 8db00e342936d2e41415cbd8fe5e3c37.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/8db00e342936d2e41415cbd8fe5e3c37.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+? 概览
+系统后台
+管理中心
+0
+系统信息
+服务器操作系统：
+服务器环境： Mysql版本：文件上传限制：最大执行时间： zlib支持：
+8
+0
+今日订单总数
+今日待审评论数
+Linux
+0
+今日会员总数 0
+今日访问量
+nginx/1.20.2 5.6.50-log
+50M 300s YES
+待处理订单 335
+版本信息程序版本：程序开发：官方授权：
+TPshopv2.0.5
+商品数量 105
+深圳搜豹网络有限公司商业授权
+服务器域名/IP：
+PHP版本： GD版本：最大占用内存：安全模式： Curl支持：
+白文章数量 28
+更新时间：版权所有：官方论坛：
+www.tpshop.com[3.33.139.32] 5.6.40
+bundled(2.1.0compatible)
+128M NO YES
+2017-01-01 盗版必究
+TPshop交流论坛
+会员总数 2571

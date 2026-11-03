@@ -1,0 +1,18 @@
+# OCR: 186970d26c67081472e0910a8fe35f3a.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/186970d26c67081472e0910a8fe35f3a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+Result:
+Pass: Salt: Hash:
+123456GWwRbMOPJYZCvE5gembG 49ba59abbe56e057
+加密
+base64:MTIzNDU2R1d3UmJNT1BKWVpDdkU1Z2VtYkc=
+md5:89a3c60d437512217b2daed9c5b2e58e md5middle:437512217b2daed9
+md5(md5($pass)):ea7e4aa542f79b6d07d62fecff08afbd
+md5(md5(md5($pass):c7a14aafeb8112de083e77d126eb430c md5(unicode):7e4ac3c0a8dc14b8b6336c63f100a481
+md5(base64):iaPGDUN1EIF7La7ZxbLljg== mysql：4885e9825f2a8667
+mysql5:e3d87a6dda72abe0050d55c3482721d8a6e29c3a ntlm:013dbbbc4c79a930ee772e1ddd9c4229
+UTF8 ■HEX
+S[HEX

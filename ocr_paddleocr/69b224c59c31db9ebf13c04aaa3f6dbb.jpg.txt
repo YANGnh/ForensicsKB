@@ -1,0 +1,8 @@
+# OCR: 69b224c59c31db9ebf13c04aaa3f6dbb.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/69b224c59c31db9ebf13c04aaa3f6dbb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+Clara_Smartphone.bin David_Laptop_64GB.e01 国David_Smartphone_1.zip David_USB_8GB.e01 图国Emma_Mobile_Image.zip
+RAM_Capture_David_Laptop.rar

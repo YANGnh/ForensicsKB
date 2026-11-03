@@ -1,0 +1,30 @@
+# OCR: 32a66ce074aaf97615b58a65634b96dc.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/32a66ce074aaf97615b58a65634b96dc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:19
+
+快速分析：计算机
+口
+Android
+ios Windows macos Linux
+口
+浏览器即时通讯境外通讯邮箱工具下载
+网络云盘视频音频办公软件安全软件基它工具
+口耗时任务
+耗时任务
+NTFS日志.. 网图片Exif信
+文本素引色情图片文.
+windows.. 图片分类注册表视频分析
+快速搜索事件日志恢.
+OCR
+图片文本识. 持征分析隐写识别
+Q 哈希分析图片深度恢. 特征恢复
+C
+重新分析
+特征分析
+文件类型及加密信息的解析
+文件类型识别，office文件加密检测，TrueCrypt容器检测，rar zip压缩包加密检测
+插件版本：取消
+1.0.0
+确认

@@ -1,0 +1,16 @@
+# OCR: 66fabe8eeef24aab42557dfefe679335.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/66fabe8eeef24aab42557dfefe679335.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+个人计算机
+序号 ■187 188 189 ■190 口191
+三标题过滤 Google Clash Clash
+Edge浏览器>
+StableDiffusion 404NotFound
+民历史记录
+EURL 127
+https://www.google.com/
+http://192.168.71.100:9090/ui/dashboard/#/proxies http://192.168.71.100:9090/ui/dashboard/#/proxies
+http://127.0.0.1:7860/ http://192.168.71.100/

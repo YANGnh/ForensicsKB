@@ -1,0 +1,62 @@
+# OCR: 20530f42119a0407bdeaea421b9d7e2a.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/20530f42119a0407bdeaea421b9d7e2a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+Ndd
+G
+0 名称
+param2
+?
+2025-3-10 @..
+arsing"
+? 区
+App
+GO
+用
+回
+com.android.browser
+排序
+修改日期
+files
+三查看
+2025-04-1518:10
+面
++
+ui-2025-03-12-14. : :
+口区
+口
+7
+analytics
+类型文件
+H descript.xml x
+/1/192.168.180.107:6262/
+"url":"http:}
+大小
+31KB
+param_2×
+"pid":18438,"spydy":"1"
+:"http:/\/192.168.180.107:6262\/","pid":18438,"spydy":"1","ruleid":0,"
+:"http:\/\/192.168.180.107:6262\/fix.apk","pid":18438,"spydy":"1"
+"uri"
+"http:\/\/192.168.180.107:6262\/fix.apk"
+"pid":18438,"spydy"
+"uri"
+"rulei
+"http:\/\/192.168.180.107:6262\/","pid":18438,"spydy":"1"
+,"rulei
+"http:/\/192.168.180.107:6262\/","pid":18438,"spydy":"1","ruleid":0,"n arsing","ur1":"http:\/\/192.168.180.107:6262\/","pid":18438,"spydy":"1"
+:"http://192.168.180.107:6262/"
+""pid":18438,"spydy"："1'
+"ruleid":o,"
+:"http:\/\/192.168.180.107:6262\/fix2.apk","pid":18438,"spydy":"1"
+"uri"
+"http:\/\/192.168.180.107:6262\/fix2.apk","pid":18438,"spydy":"1","rule,"ur1":"http://192.168.180.107:6262\/","pid":18438,"spydy":"1","rulei
+"http:\/\/192.168.180.107:6262\/","pid":18438,"spydy":"
+arsing"
+"ruleid":o,"n
+:"http:\/\/192.168.180.107:6262\/","pid":18438,"spydy":"1",
+"uri":
+:"http:/\/192.168.180.107:6262\/","pid":18438,"spydy":"1","ruleid":0,","ur1":"http:\//192.168.180.107:6262\/fix2sign.apk","pid":18438,"spydy"http:/\/192.168.180.107:6262\/fix2sign.apk","pid":18438,"spydy":
+,"url":"http:/\/www.miui.com\/res\/doc\/privacy.html?region=cN&lang=zh"http://www.miui.com/res\/doc/privacy.html?region=cN&lang=zhcN","pi

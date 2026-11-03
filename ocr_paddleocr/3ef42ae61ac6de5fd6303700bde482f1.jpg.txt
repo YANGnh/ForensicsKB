@@ -1,0 +1,14 @@
+# OCR: 3ef42ae61ac6de5fd6303700bde482f1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/3ef42ae61ac6de5fd6303700bde482f1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+操作系统：案件名称：案件编号虚拟机名称：系统盘：
+检材2-服务器 2024-04-2719:47:49
+8vCPU B
+面
+VMwareESXi6.7.0
+空（点击添加案件名称）空（点击添加案件编号）检材2-服务器
+A:\检材2-服务器.E01
+10GB

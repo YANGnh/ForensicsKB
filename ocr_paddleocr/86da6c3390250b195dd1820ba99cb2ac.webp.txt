@@ -1,0 +1,17 @@
+# OCR: 86da6c3390250b195dd1820ba99cb2ac.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/86da6c3390250b195dd1820ba99cb2ac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+Date
+July op t
+stock clay
+segment talk
+avocado light
+grab
+sadness
+ancient
+elder
+oil
+toe

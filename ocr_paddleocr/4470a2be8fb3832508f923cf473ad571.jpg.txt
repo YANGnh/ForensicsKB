@@ -1,0 +1,14 @@
+# OCR: 4470a2be8fb3832508f923cf473ad571.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/4470a2be8fb3832508f923cf473ad571.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+g
+检材3-计算机>
+序号口1
+标题过滤
+?Chrome浏览器>民历史记录
+URL 过滤
+新约佛论禅/佛日加密-PcMoe!
+http://hi.pcmoe.net/buddha.html

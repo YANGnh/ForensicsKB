@@ -1,0 +1,74 @@
+# OCR: 695483d5a49a397a5be154e53c5e7e54.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/695483d5a49a397a5be154e53c5e7e54.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+ox2364f4:add Ox2364f8:1dr
+x16,PP,#0xd,1s1#12;[pp+0xd3do] x16，「x16，#0x3do]
+//0x2364fc:StoreField:r0->field_1b=r16
+ox2364fc:stur
+/0x236500:r16=Instance_Text
+/
+0x236500:add 0x236504:1dr
+w16，【x0，#0x1b]
+x16，PP，#0xd，1s1#12 x16，[x16，
+#0x3d8]
+G:\2025盘古石杯\晋级赛\export)objs.txt[文本模式]-Ndd
+件(E
+编辑(E)
+Φ
+日
+查找(S)
+视图M
+园
+core. py. lshot. cdc. py
+546 547 548 549 550 551 552 553 554 555 556 557
+区
+编码(N)
+语法(L)
+c
+亚
+1.py
+-off_8:-int(0x0),.off10:.int(0x0)
+Obj!MyApp@44e271.:. Obj!Text@44e281.:.
+器区
+设置 ha
+列与宏图
+;[Pp+0xd3d8]
+工具(O)
+run_info.py
+区
+..offc：."声音阈值：.70分贝\n静音时间：.4秒"-off14Obj!Textstyle@44d0f1.:.(
+亚
+插件
+Obj!SizedBox@44e211 Obj!Texte44e281
+对比(C)
+111.py
+区
+反馈注册
+1
+?
+game_log.txt
+区
+四
+?
+GO
+key.txt
+用
+区
+亚
+面
+甲
+dict.txt
+口区
+口
+田
+口
+图
+扇
+容器密码.txt
+区
+亚
+obis.txt区
+pp.txt x

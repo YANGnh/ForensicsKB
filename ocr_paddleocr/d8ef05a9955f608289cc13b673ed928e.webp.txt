@@ -1,0 +1,11 @@
+# OCR: d8ef05a9955f608289cc13b673ed928e.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/d8ef05a9955f608289cc13b673ed928e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+bttomcatweb data
+mysql
+performance_schema tpshop2@002e0
+db.opt 口
+auto.cnf

@@ -1,0 +1,48 @@
+# OCR: 2f8468476e39d6979ef3b53433f38ecd.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/2f8468476e39d6979ef3b53433f38ecd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+p
+docker>
+容器列袋
+Avm-112-disk-0.qcow2>
+docker>
+话序号口1 口2
+详细信息
+邮容器D 过滤
+a2aae89e3ac84ec3df4. 3ba5cba800fe85786e...
+撼使用的镜像
+过滤 redis mysql:5.7
+■自动分配的客过滤
+redis-web mysql-web
+画启动寄强时运行的命专过滤
+redis-server mysqld
+数器ID：
+3ba5cba800fe85786eb9fe86e575ffdb8f1c2302630aaed35c182a9736526c3b
+使用的镜您：mysql:5.7
+自动分配的客器名称：mysql-web 追动婴器时运行的命令：mysqld
+赛器状态：Running 客器创建时间
+2024-03-14.17:14:26 2024-03-1818:40:01
+富器洁策时间：
+穿器满口信号：
+3306/tcp;33060/tcp;
+斯星网络：
+bridge
+环境变量：
+照察器状态
+过滤 Running Running
+量文件挂载过速
+稳客器满口供息
+过源 6379/tcp: 3306/tcp:3.
+通所医网络
+过速 bridge bridge
+MYSQL_ROOT_PASSWORD=honglilan7001,PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin,GOSU_VERSION=1.16,MYSQLMAJOR=5.
+速文件：
+vm-112-disk-0.qcow2/分区7/var/lib/docker/containers/3ba5cba800fe85786eb9fe86e575ffdb8f1c2302630aaed35c182a9736526c3b 已带除：否
+在容器列表中搜素
+Q 穿
+总高口
+MYSQLSHELL_VERSION=8.0.35-1.eI7
+MYSQLVERSION=5.7.44-1.el7

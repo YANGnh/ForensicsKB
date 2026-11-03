@@ -1,0 +1,20 @@
+# OCR: 1974a94cc4d2f23ff6578667d68e788f.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/1974a94cc4d2f23ff6578667d68e788f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+自动取证导出
+Johndesktop.e01
+加入摘要
+系统痕迹
+跳转到源文件
+系统信息用户信息
+打开关联文件用户状态
+tforadministeringthecomputer/d...禁用 itforguestaccesstothecomputer...禁用
+managedbythesystem
+禁用
+managedandusedbythesystem...禁用
+启用
+所在用 Admir Guests Systen
+Admir

@@ -1,0 +1,46 @@
+# OCR: b10f8b988d748c6e8628b628a4c5c2ce.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/b10f8b988d748c6e8628b628a4c5c2ce.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:18
+
+DHLINH:
+Bitcoin 交易详情
+浏览器
+链上AML
+链上天眼
+API
+地址/交易/代币/闪电网络 Q
+交易哈希：4630a72ad8e7339e553cdba67a1dc7d33716a1db0cf7b44ec281ae08ac6249f8
+概览
+区块高度 840799
+出块时间
+2.190个区块已确认
+2024/04/2517:51:43（16天前）
+交易索引 4246
+交易特征
+SegWit BTC转账输入(1)
+Taproot
+RBF
+bc1puq3evrtuaky9sk08sf5dnmifx4yuwc5c63yl...7fifo 输入脚本
+费用明细
+输入输出数量
+0.07364352BTC0.07358247BTC 手续费
+0.00006105BTC ($3.71) 费率
+54.63聪/虚拟字节有效费率
+54.903聪/虚拟字节最佳 0.07364352BTC($4.702.75)
+0.07364352BTC
+输出 (1)
+CPFP
+主页
+区块链
+交易明细总交易大小 162字节
+虚拟交易大小 111虚拟字节
+校重 444wu
+bc1pvunxx2eyt0ljpzs9wp9tcrrdvssra97nnwl..ak850
+铭文
+开发者√
+登录
+更多√
+0.07358247BTC($4.698.85)
+0.07358247BTC

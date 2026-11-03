@@ -1,0 +1,17 @@
+# OCR: a252ea22d7a00c003aa0497d99c467c9.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/a252ea22d7a00c003aa0497d99c467c9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:40
+
++
+田由
+S W
+HD2: 由
+新
+ZIP
+VDO:
+全
+保存分区表(F8) 备份分区表（F2) 还原分区表（F3)
+搜索已丢失分区（重建分区表)L）已删除或格式化后的文件恢复(U)
+重建主引|导记录（MBR（M）清除保留扇区(E)

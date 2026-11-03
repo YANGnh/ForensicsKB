@@ -1,0 +1,31 @@
+# OCR: df846e1742e57b35de6ed4ba0aaf31ae.webp
+# 来源: ./02-WriteUp/2026/2026-南宁-团队赛/df846e1742e57b35de6ed4ba0aaf31ae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:39
+
+套件中心控制面板 FileStation DSM说明
+111.txt-文本编辑器
+文件、 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+编辑
+搜素
+偏好设置
+账号：user_357密码：m8@cJ5#y 账号：winnie9e密码：Pq7%rGf4 账号：alex_sky密码：6$dF*Nk9 账号：luna_star密码：hT2&mB3@ 账号：tom_198密码：eW5#sL7^
+账号：rose_garden密码：Qz8!pY4@
+账号：jack_adventure密码：9$gH*jM3
+账号：amy_music密码：Rf6%nK2# 账号：1eo_world密码：3@bT*fL7 账号：sophia_dance密码：yu4&mP9# 账号：david_sport密码：Kp8%hN3s 账号：emily_art密码：5$tG*rB2
+账号：wi1liam_travel密码：Lq7#ds4@
+账号：olivia_read密码：xM2&fK6# 账号：noah_cook密码：4@zT*pL8
+状态：读取/写入
+编码：Unicode（UTF-8）
+行：14，栏：26
+？
+Text
+口
+x
+★
+Q搜索
+修改日期
+2025-04-0215:25:17
+1个项目
+C

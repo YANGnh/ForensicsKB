@@ -1,0 +1,17 @@
+# OCR: 1a753ce5d137bf16d80c954ae61f61fd.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/1a753ce5d137bf16d80c954ae61f61fd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+此电脑
+卤>文档>QtScrcpy-win-x64-v2.2.0>config
+口 ★
+名称
+ config.ini userdata.ini
+修改日期
+2024/3/1216:39 2024/3/2119:13
+类型
+配置设置配置设置
+大小
+1KB 2KB

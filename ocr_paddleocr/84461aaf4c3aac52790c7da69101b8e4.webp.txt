@@ -1,0 +1,16 @@
+# OCR: 84461aaf4c3aac52790c7da69101b8e4.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/84461aaf4c3aac52790c7da69101b8e4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+Manifest.plist 文件位置
+2024美亚杯团体赛
+文件类型
+iTunesBackup17.3.1—OpenPassword,Hardwareaccelerationpossible
+复杂度 MD5
+密码为：
+....Brute-force-Slow
+D007BB2EA50DE09D284F714DF4100139
+File-open
+0000

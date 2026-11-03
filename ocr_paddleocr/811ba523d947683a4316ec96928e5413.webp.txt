@@ -1,0 +1,11 @@
+# OCR: 811ba523d947683a4316ec96928e5413.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/811ba523d947683a4316ec96928e5413.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+sigs>
+..<proper-signing-keyset.identifier="i"./>/package>
+package-name="com.zs.filecompress".codePath="/data/app/~~jzJxEiovvVW2odDRNsdw==/com.zs.filecompress-rGjcoW-RvxJmIwAD522NA=="..<sigs.count="i".schemeversion="2"
+<cert-index="29".key="308202bb308201a3a00302010202041bfd9350300d06092a864886f70d01010b0500300e310c300a060355040313037a687
+./sigs>

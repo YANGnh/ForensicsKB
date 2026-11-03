@@ -1,0 +1,13 @@
+# OCR: aa653555cf66ea265bb009dcb5e4179c.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/aa653555cf66ea265bb009dcb5e4179c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+后台登录·新源代源码
+C
+A不安全
+jiedaiOrmr.com/index.php?g=Admin&m=lndex&a=login
+新源代源码用户名密码
+忘记密码
+登录

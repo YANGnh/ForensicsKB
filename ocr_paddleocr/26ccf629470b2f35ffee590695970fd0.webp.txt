@@ -1,0 +1,38 @@
+# OCR: 26ccf629470b2f35ffee590695970fd0.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/26ccf629470b2f35ffee590695970fd0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+987 125.675230 1070 152.393898 1071 152.394764 24172 153.313468 24174153.313629 79027 155.473166 79030155.473411 118761 157.231830 118766 157.231866 134507 201.809214 134508 201.809533
+VMware_0f:e6:38 VMware_0f:e6:38 VMware_ab:28:dd VMware_ab:28:dd VMware_el:eb:19 VMware_0f:e6:38 VMware_el:eb:19 VMware_ab:28:dd VMware_f:e6:38 VMware_0f:e6:38 VMware_e1:eb:19
+Broadcast Broadcast
+VMware_0f:e6:38 VMware_e1:eb:19 VMware_ab:28:dd VMware_e1:eb:19 VMware_0f:e6:38 VMware_0f:e6:38 VMware_ab:28:dd VMware_e1:eb:19 VMware_ef:e6:38
+ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP ARP
+42who has192.168.91.255?Tel1 192.168.91.145 42Whohas
+192.168.91.143?Tel1192.168.91.145
+60192.168.91.143is at00:0c:29:ab:28:dd 6eWhohas
+192.168.91.2?Te11192.168.91.143
+qe:5e:56:e1eb:19
+60192.168.91.2isat
+192.168.91.2?Te11192.168.91.145
+42Who
+has
+60 192.168.91.2
+is
+at
+00:50:56:e1:eb:19
+6ewho
+192.168.91.145
+192.168.91.143
+has
+Tell
+42192.168.91.145
+00:0c:29:0f:e6:38
+is
+at
+42Who
+192.168.91.2? has
+Tell
+192.168.91.145
+60 192.168.91.2 is at 00:5:56:e1:eb:19

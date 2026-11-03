@@ -1,0 +1,45 @@
+# OCR: d9d5e62255321caf29e727fbf6382e2c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/d9d5e62255321caf29e727fbf6382e2c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+家印
+元素
+《<!DOCTYPEhtml> <html>scroll
+控制台
+><head></head《<body>
+::before
+v<divid="container"） ><divid="wrap">
+源代码/来源
+<headerid=header"）
+::before
+<divid="banner"></div>
+Home 网络
+<divid-"header-outer"class="outer")
+::before
+老博客
+a.main-nav-link Color
+75×60 口#FFFFFF
+Font14px-apple-system,BlinkMacSystem...
+Padding
+ACCESSIBILITY
+Name Role
+Keyboard-focusable
+性能
+内存
+<divid="header-title"class="inner"></div)
+<divid-"header-inner"class="inner" v<navid=main-nav")
+应用
+><a id="main-nav-toggle"class="nav-icon"></a) <aclass="main-nav-link"href-"/">Home</a)
+<a class="main-nav-link"hr </nav>
+<navid="sub-nav"></nav>
+隐私与安全
+f="http://forensix2025.work.gd">老
+><divid="search-form-wrap"></div》
+20px15px
+老博客 link?
+Lighthouse
+客</a>==S0
+记录器
+Hac

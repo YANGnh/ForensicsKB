@@ -1,0 +1,9 @@
+# OCR: 09e45508795cb57d52e3d212a875819b.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/09e45508795cb57d52e3d212a875819b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+flag4{104864DF-C420
+04BB5F51F2671
+test test test

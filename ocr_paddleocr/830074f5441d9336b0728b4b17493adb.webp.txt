@@ -1,0 +1,16 @@
+# OCR: 830074f5441d9336b0728b4b17493adb.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/830074f5441d9336b0728b4b17493adb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+国Bookmarks
+Contacts Calendars·Notes
+.com.apple.Accessibility
+ProductVersion ProductType BuildVersion
+dict dict dict dict dict string string string
+.com.apple.mobile.iTunesdict com.apple.mobile.wirele:dict
+UniqueDevicelD SerialNumber
+string string
+17.5.1 iPhone11,8 21F90
+00008020-000C18843C2A402E DX3F20PJKXLY

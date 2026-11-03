@@ -1,0 +1,15 @@
+# OCR: b936c98d83e527028e47d275468a3dd7.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b936c98d83e527028e47d275468a3dd7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:16
+
+排序
+Program Files >WindTerm > .wind > profiles >default.v10 > terminal > ssh
+名称
+known_hosts
+修改日期
+2024/5/23 1234
+类型文件
+大小
+5KB

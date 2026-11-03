@@ -1,0 +1,21 @@
+# OCR: 420161bc653661a908efa659d7033dc1.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/420161bc653661a908efa659d7033dc1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+G o
+品名称
+>
+TMP
+>
+园
+4.15.0-156-generic
+initrd~ 回
+lib> 排序
+firmware
+查看V
+修改日期
+2021/9/155:44
+类型文件夹
+大小

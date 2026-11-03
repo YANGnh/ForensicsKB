@@ -1,0 +1,36 @@
+# OCR: b74910df4b8314a400a887e2d89b1e8c.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/b74910df4b8314a400a887e2d89b1e8c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+g
+ PC.E01 >目基本信息>
+三序号口9 10 口11 口12 13 口14 口15 口16
+三软件名称过滤
+安装软件
+Microsoft Visual C++2012 x64 Mini... ClawsMail
+Google Chrome Microsoft Edge
+MicrosoftEdgeWebView2Runtime PrivaZer
+Microsoft Visual C++ 2022 X86 Mini... Microsoft Visual C++ 2012 Redistrib...
+三版本名称过滤
+11.0.61030 3.21.0-1
+136.0.7103.114 136.0.3240.76 136.0.3240.76
+4.0.101.0 14.40.33810 11.0.61030.0
+三公司名称过滤
+MicrosoftCorporation
+claws-mail.org Google LLC
+Microsoft Corporation Microsoft Corporation Goversoft LLC
+Microsoft Corporation MicrosoftCorporation
+三安装时间起始
+结束
+2025-05-16 15:37:11 2025-05-1912:15:28 2025-05-16 16:17:25 2025-05-1910:37:48 2025-05-1910:38:43 2025-05-19 17:19:09 2025-05-1911:49:22 2025-05-16 15:37:19
+在安装软件中搜索
+三安装路径过滤
+C:/Program Files/Claws Mail
+Q
+C:/Program Files/Google/Chrome/Application
+C:/ProgramFiles (x86)/Microsoft/Edge/Application
+Q高级
+C:/ProgramFiles (x86)/Microsoft/EdgeWebView/Applic. C:/ProgramFiles(x86)/PrivaZer/
+C:/ProgramData/PackageCache/(33d1fd90-4274-48a1..

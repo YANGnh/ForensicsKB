@@ -1,0 +1,23 @@
+# OCR: d2f9a46bd1e69d4eaed52490a89bb5af.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/d2f9a46bd1e69d4eaed52490a89bb5af.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+g
+围基本信息>巨网络配置>
+John的笔记本>
+三序号口1 口2 口3
+三名称过滤
+Local Area Connecti.. Wi-Fi
+Local Area Connecti..
+三描述过滤
+网络连接
+三IP地址过滤
+WANMiniport(PPP.. Intel(R) Dual Band .. Microsoft Wi-Fi Dire..
+Y
+三Mac地址过滤
+Y
+A4-34-D9-72-D2-B0 A6-34-D9-72-D2-B0
+DHCP地址过滤
+172.20.10.2

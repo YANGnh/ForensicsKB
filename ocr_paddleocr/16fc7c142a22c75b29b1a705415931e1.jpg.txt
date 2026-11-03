@@ -1,0 +1,36 @@
+# OCR: 16fc7c142a22c75b29b1a705415931e1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/16fc7c142a22c75b29b1a705415931e1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+G
+?
+蓝易云面板
+首页网站
+FTP
+数据库 Docker
+国
+监控?
+安全
+?
+WAF
+不安全
+o
+https://192.168.8.89:14131/site
+PHP项目添加ava项目
+项目名称
+Java项目
+JAVA环境管理
+Node项目
+Go项目
+Java项目教程
+服务状态
+请选择批量操作
+批量操作
+项目类型
+Python项目
+自需求反馈
+端口
+其他项目 CPU
+内存

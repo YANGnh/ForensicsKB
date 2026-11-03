@@ -1,0 +1,11 @@
+# OCR: ab9749d055b83fc0f2a0a4f1f10ca9d1.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/ab9749d055b83fc0f2a0a4f1f10ca9d1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+后台管理系统
+813761669531
+admin123
+工
+登录

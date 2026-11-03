@@ -1,0 +1,10 @@
+# OCR: 865162b0d125c5bc5a25d8c81e504242.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/865162b0d125c5bc5a25d8c81e504242.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+deal status
+类型 int(11)
+不是null 是
+默认值注释提现状态

@@ -1,0 +1,13 @@
+# OCR: 958ef39dc8bea0a864e04e34dfba12b1.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/958ef39dc8bea0a864e04e34dfba12b1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+(kalikali)-~/Desktop siproute
+defaultvia192.168.200.1
+deyethoprotostaticmetric1oo
+192168.2990724
+etho
+Cey
+proto kernel scopelink src192.168.200.10 metric 100

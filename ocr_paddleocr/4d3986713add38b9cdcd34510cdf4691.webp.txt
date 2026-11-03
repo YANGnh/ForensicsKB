@@ -1,0 +1,24 @@
+# OCR: 4d3986713add38b9cdcd34510cdf4691.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/4d3986713add38b9cdcd34510cdf4691.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+冒f415IZMF.zip
+抖音账号数据.xisx windows 10 x64.vmx
+00
+17s 5h38m
+1240 000 p/s
+4920 p/s
+op/s
+otal:14,notstarted:3,paused:0,waiting:0,recovered:10,notrecovered:1,notencrypted:1,failed:0
+Attacks
+Mutations
+Result
+Comment
+0 p/s o p/s 0p/s
+69.290 %
+recovered
+recovered
+100.000%
+o.ooo %not encrypted

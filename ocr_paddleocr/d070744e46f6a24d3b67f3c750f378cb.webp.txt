@@ -1,0 +1,23 @@
+# OCR: d070744e46f6a24d3b67f3c750f378cb.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/d070744e46f6a24d3b67f3c750f378cb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+] StegSolve 1.3 by Caesum
+FileAnalyse Help Alphaplane6
+口
+QRResearch
+文件(日
+工具口
+已解码数据1：
+帮助(H)
+位置(14.0.11.1)-(162.7,11.1)-(14.0,159.6)-(162.6,159.6)
+颜色正常，正像版本：5
+纠错等级:H.掩码:0 内容
++13170010703 解码完成
+纠错等级 H(30%)
+版本 Auto Auto
+口
+码 Auto 尺寸 4
+x

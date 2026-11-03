@@ -1,0 +1,13 @@
+# OCR: 9b3b497715697c651f64dc54cbfca3fd.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/9b3b497715697c651f64dc54cbfca3fd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:10
+
+2024FIC网站服务器×
+终端×
+2024FIC数据库服务器×
+[root@localhostwebapp]#shstart.shstart 准备关闭当前项自已存在进程
+项目未运行开始启动
+V
+[root@localhost webapp]#nohup:appendingoutputtonohup.out

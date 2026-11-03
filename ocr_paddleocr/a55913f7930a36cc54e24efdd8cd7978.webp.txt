@@ -1,0 +1,27 @@
+# OCR: a55913f7930a36cc54e24efdd8cd7978.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/a55913f7930a36cc54e24efdd8cd7978.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+文件个
+?
+主页
+个
+本机图片
+音乐音乐
+WPS云盘 OneDrive 此电脑 3D对象
+共享
+查看
+管理驱动器工具
+此电脑》
+本地磁盘（B：名称
+本地磁盘(B:)
+saki自运营社工bot（企划中）.txt 盒bot公民信息必备.txt
+老牌bot必备.md 新建文本文档.txt
+修改日期
+2025/10/514:21 2025/10/514:17 2025/10/514:17 2025/10/514:18
+类型文本文档文本文档
+Markdown源文件文本文档
+在本地磁盘(B:)中搜索大小
+1KB 2KB 11KB 7KB

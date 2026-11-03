@@ -1,0 +1,21 @@
+# OCR: 6d964873b3c63a643a8d22db57dae411.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/6d964873b3c63a643a8d22db57dae411.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+Q
+细
+收目
+开发板管理器
+带助
+ALThinkerESP32-CAM
+筛选搜索结果..
+类型：
+全部
+ArduinoAVRBoardsbyArduino 1.8.6已安装
+Boardsincluded inthispackage:ArduinoMegaor Mega2560,ArduinoMegaADK,ArduinoRobot Control, Arduino Gemma, Arduino Esplora.. 更多信息
+1.8.6
+移除
+Cameral
+60 61 62 63 64 65 66 67 68 69 70 71 72 73 74

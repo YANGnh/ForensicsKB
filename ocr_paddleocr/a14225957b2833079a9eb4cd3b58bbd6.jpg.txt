@@ -1,0 +1,28 @@
+# OCR: a14225957b2833079a9eb4cd3b58bbd6.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/a14225957b2833079a9eb4cd3b58bbd6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:08
+
+XPROXMOXVirtualEnvironment8.1.4
+搜素
+文件夹视图数据中心 VOLXC容器
+110(nginx)
+>圆节点 >虚拟机 >SDN 存储
+·
+节点pve上的容器110（nginx）
+目概要控制台 >
+资源三网络 DNS?
+选项安
+任务历史备份复制快照口防火墙 5权限
+nginx
+没有标记。
+状态
+?高可用状态
+圆节点·无特权
+猫CPU利用率内存使用率 SWAP使用率日引导磁盘大小
+QUbuntu stopped
+无 pve 是
+0.00%的1CPU(s)
+0.00%（0B的512.00MiB） 0.00%（0B的512.00MiB）
+8.00GiB

@@ -1,0 +1,21 @@
+# OCR: 7716b3e7a0346b0e4fa73882e90907f4.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/7716b3e7a0346b0e4fa73882e90907f4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+LO
+:/boot/Logs#docker
+REPOSITORY
+www-web web-web
+ghcr.io/ggerganov/lama.cpp
+php nginx mysql
+bigmandave/doge-node skanehira/docker.vim php
+maqes TAG
+Latest latest server latest latest 5.7
+latest latest 5.6
+IMAGEID
+f9102471076f ea406274d67f 3d8bea5d76aa 1aa29812d5b4 4cad75abc83d 5107333e08a8 1932ec6c0656 a5a6e859276f 36c3c974e6ee
+CREATED
+4 weeks ago 4weeksago 4 weeks ago 5 weeks ago 3monthsago 17monthsago 2 years ago 3 years ago 6 years ago
+SIZE 1.33GB 1.07GB 95.5MB 548MB 192MB 501MB 150MB 118MB 344MB

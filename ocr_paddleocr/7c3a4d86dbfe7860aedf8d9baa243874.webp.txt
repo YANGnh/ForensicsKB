@@ -1,0 +1,44 @@
+# OCR: 7c3a4d86dbfe7860aedf8d9baa243874.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/7c3a4d86dbfe7860aedf8d9baa243874.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+x文本搜索：currenttime 搜素文本：
+Q-currenttime 在以下位置搜素：
+■类名
+■方法名
+口字段名
+因代码
+口资源
+节点
+注释
+搜索选项：
+团忽略大小写
+.androidx.appcompat.app.TwilightManager.isStateValid()boolean
+■正则表达式
+口只在当前页搜素
+口
+x
+M自动搜素
+currentTimeMillis();
+return this.mTwilightState.nextUpdate> System.
+androidx.appcompat.app.TwilightManager.updatestate(Location)void
+)void
+mandroidx.appcompat.app.TwilightManager.updateState(Location)
+m.androidx.appcompat.app.TwiiightManager.updatestate(Location)
+void
+mandroidx.appcompat.app.TwilightManager.updateState(Location)
++void
+m.androidx.appcompat.app.TwilightManager.updateState(Location)
+void
+m.androidx.appcompat.app.TwilightManager.updatestate(Location) mandroidx.appcompat.app.TwilightManager.updateState(Location)
+void void
+long
+currentTimeMillis();
+currentTimeMillis=System.
+twilightCalculator.calculateTwilight(currentTimeMillis-864ee000, twilightcalculator.calculateTwilight(currentTimeMillis,location.ge twilightCalculator.calculateTwilight(currentTimeMillis+8640eeoe,
+currentTre验2oeeo；金星路406取证人
+if
+（currentTimei金）
+elseif（currentTimeMillis>j2)f

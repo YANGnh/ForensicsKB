@@ -1,0 +1,10 @@
+# OCR: 3e7f9dc1f13018b607d4bf5c83daae8c.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/3e7f9dc1f13018b607d4bf5c83daae8c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+[root@localhost~]#dockerswarmjoin-tokenworker
+Toaddaworkertothisswarm,runthefoulowingcommand:
+dockerswarmjoin--tokenSwMTKN-1-0ncv2cki4lydumxjb4ewj64568qz3mggehxxonvgyqg7ntcopr-bd29kooa3t7ydba4kqnr2hgic172.16.8o.104:2377[root@localhost]#dockernetworkls
+SPE

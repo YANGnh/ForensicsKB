@@ -1,0 +1,83 @@
+# OCR: be2ae026965e3d5820198ead43a42a90.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/be2ae026965e3d5820198ead43a42a90.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+Computer Management
+File
+Action
+View
+Help
+回
+Xae
+Computer Management (Local v f1 System Tools
+>  Task Scheduler Event Viewer > Shared Folders
+g Local Users and Groups
+ Users Groups Perfermanct  Device Manager
+vStorage
+ Disk Management >s Senvices and Applications
+》
+Name
+国Administrator DefaultAcco..
+医Guest John.Killer WDAGUulity
+Ful Name
+DefaultAcceunt Preperties
+General
+MenberOf Prole DefauitAccourt
+Ful nane
+Desotptor
+Description
+Buit-in account for administering A user account managed by the ... Built-in account for guest access t.
+Auser account managed and use...
+?
+Auseracoourtmanaged bythesystem
+ User must change password at neit loegon User cannt change password
+Password never espires Accourt is disabled JAccount is locked eut
+Guest Properties Generi
+MenberOf Profile Guen
+Fd name
+Desctption
+Buftin accourtfor guest acoess to the oomputer/doman
+ Usermust change password at next logan User camnot charge pasword
+Password never expies  Account is disabiled  Acount is locked out
+oK
+Cancel
+Apply
+X X
+Help
+WDAGUlityAccount Properties
+General
+MemberOf Profie WDAGUtityAcoourt
+Ful name
+Description:
+x
+Auteraccourtmanaged and used by the sytem[lor Windows Defender Aplcation Guard scenatios.
+User mut change password at net logon User carnot change password
+Password never expires Accourt is dsabied  Accourt is lecked out
+Administrator Properties General MemberOt Prdtle
+Aoniritata
+Fullname:
+Descrption
+Butinaccourtforadinisteringthe computer/tboman
+ Ueer must change pasrword at nest logon Uaer cannct change patewod
+Passiword never expires Accsurt is disabiled Accourt is locked out
+OK
+Cancel
+Apoly
+Hep
+x
+Actions Users
+More Actions WDAGUtlityAccount More Actiong
+lehn.GIler Preperties
+General
+Member OfProfik John Kller
+Ful namt Desciption
+x 5
+ User mut change password at nest logor User carnot change passward
+Password never expires Account is dsabied Account is locked ou
+oK
+Canoel
+Apply
+Hel
+x

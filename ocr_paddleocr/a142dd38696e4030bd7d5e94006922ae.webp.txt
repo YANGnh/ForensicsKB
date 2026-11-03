@@ -1,0 +1,32 @@
+# OCR: a142dd38696e4030bd7d5e94006922ae.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/a142dd38696e4030bd7d5e94006922ae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:27
+
+流程未设量
+0
+命令提示符·pinglaozhao.com
+MicrosoftwindowsL版本10.0.19045.4651
+（
+icrosoftCorporation。保留所有权利
+C:lUserszhaohong>ping1aozhao.com
+仕菜来来
+[172.16.10.200]
+Ping1aozhao.com
+的回
+复：
+5=32 字
+172.16.10.200 172.16.10.200 172.16.10.200
+的回的回
+电：
+李
+节
+T=32
+字节=32
+具有32字节的数据：间<ims
+TTL=64
+时
+间
+<1ms 时间<1ms
+TTL=64 TTL=64

@@ -1,0 +1,80 @@
+# OCR: 03fc88778d63d396f926248e5f391623.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/03fc88778d63d396f926248e5f391623.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+(L)
+编辑(D)
+ESD(O） Intel (O) Model (5) paddle(O) PerfLogs(O)
+由ProgramFiles（25,309)
+ProgramFiles(x86)（1,929)
+ProgramData(2,652) Recovery(2)
+Sandbox(5,954）白起早王（5952）
+diary (5,950) 白.drive（5.908)
+白(5,908)
+ Program Files (x8 由RedNotebook
+白user(28)
+由口all（2
+白current(25)
+白.rednotebook(16
+白data(2)
+templates(12
+tmp(0) 由AppData (9) 白public（1)
+I..Desktop（)
+ ssl key (0)
+SystemVolumeInformation（4) Users(39.735)
+windowwindow，分区2
+ISandbox起早王/diary/userlcurrent).rednotebook/data 口文件名称一
+.rednotebook (16) data(2)
+2025-02.txt 自2025-03.txt
+■文件
+分区
+offset
+00145739776 00145739792 00145739808 00145739824 00145739840 0014
+0
+33 33 8A E5 9C
+1
+3A E6 E5 86 A8
+国预览
+2 OA 97 A4 99 E8
+3 20 A5 A9 E6 BF
+贝详细
+4 20 20 E8 97 99
+5
+74 E9 80 A5 E9
+了描述存在的存在的存在的存在的
+口缩略图
+6
+65 98 83 E8 87
+7
+78 B4 E8 AE 8c
+8
+?文件类型
+txt txt
+时间轴
+9
+74 OA 99 BO E5
+3A 0A 91 EF BA
+10 20 20 E5 BC 94
+了路径 Sand... Sand... ISand.. Sand...
+图例说明
+11 27 20 BC 8c E8
+12 33 20 80 E6 AF
+13 E6 20 E5 94 A5
+14 9c E4 A7 BE E6
+15 88 BB 8B E5 B2
+同步 V 3： 3日
+文件大小创建时间
+20.0KB2025/03/1109:2 6.4KB2025/03/1109:2
+3B2025/03/1109:2 6.4KB2025/03/1109:2
+美中
+UTF-8
+text：13月
+阴
+今
+天考虑开始
+放在
+写
+日记，
+这里应该没E

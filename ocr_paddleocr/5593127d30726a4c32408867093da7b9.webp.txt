@@ -1,0 +1,38 @@
+# OCR: 5593127d30726a4c32408867093da7b9.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/5593127d30726a4c32408867093da7b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+IMG0110.HEIC-IrfanView(Zoom:1876x1407)
+FileEdit Image
+Options
+EXAESO
+Help
+View
+46.V
+项目
+eei?
+运单号（TrackingNumber）
+寄件人（Shipper）收件人（Recipient）
+发件地（Origin）
+目的地（Destination）
+服务类型（ServiceType
+包裹数量（NumberofPieces）重量（Weight）
+申报价值（DeclaredValue 运输方式（ShipmentMethod）付款方式（PaymentMode）备注（Remarks）
+4032x3024x32BPP
+107/10847%4.31MB/46.51MB2025/5/20/02:50:13
+DHLExpress运单
+内容
+78901234567890123456 张伟
+北京市朝阳区建国路88号 Tel:+8613800001111
+李娜
+中新市人民路1119号1栋3单元2502 邮编：315000
+Tel:+8615922223333
+北京，China（CN）中新市，China（CN）
+DHLEXPRESSDOMESTIC
+2.5kg ￥800.00
+快递标准服务寄件方支付
+易碎物品，请轻拿轻放
+口
+x

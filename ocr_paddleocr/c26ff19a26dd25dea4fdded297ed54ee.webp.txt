@@ -1,0 +1,31 @@
+# OCR: c26ff19a26dd25dea4fdded297ed54ee.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/c26ff19a26dd25dea4fdded297ed54ee.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+了文件名称一
+葵花宝典1.doc
+一分区
+文件
+国预览
+磁盘快照后出现的数据
+文件名称状态描述
+猫述扩展名文件类型签名状态文件分类分类描述证据项路径绝对路径
+葵花宝典1.doc V
+存在的 doc doc 床验证
+回详细
+Ms Word
+Text,Word Processing
+24CS Phone,
+分区3
+缩略图
+时间轴
+图例说明
++
+IM
+描述存在的
+同步
+mediavovAndroidvdatalorg.telegram.messengerifilesvTelegramvTelegramFiles
+养中
+media\VAndroid\data\org.telegram.messenger/files\Telegram\TelegramFiles\葵花宝典l.doc

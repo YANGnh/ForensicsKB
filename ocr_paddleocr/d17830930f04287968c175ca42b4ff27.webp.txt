@@ -1,0 +1,30 @@
+# OCR: d17830930f04287968c175ca42b4ff27.webp
+# 来源: ./01-取证技巧/02-网络取证/d17830930f04287968c175ca42b4ff27.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:06
+
+Wireshark·导出·HTTP对象列表文本过滤器：
+分组 358 461 6921 6929 7272 7279 9790 9797
+主机名
+内容类型
+大小
+10.11.4.3:12345application/octet-stream263kB
+文件名 mB9u
+10.11.4.3:12345application/octet-stream48bytes
+cm cm
+10.11.4.3:12345application/octet-stream64bytes
+10.11.4.3:12345application/octet-stream68bytessubmit.php?id=1129373676 10.11.4.3:12345 application/octet-stream 64bytescm
+10.11.4.3:12345application/octet-stream356bytes submit.php?id=1129373676 10.11.4.3:12345application/octet-stream48bytescm
+10.11.4.3:12345application/octet-stream212bytes submit.php?id=1129373676
+1213310.11.4.3:12345application/octet-stream349kB
+cm
+1214210.11.4.3:12345application/octet-stream260bytessubmit.php?id=1129373676
+保存
+全部保存
+口
+x
+ContentType:AllContent-Typesv
+Preview
+关闭
+帮助

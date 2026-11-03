@@ -1,0 +1,14 @@
+# OCR: aa846951912e1aa3661daeb29f8ab57d.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/aa846951912e1aa3661daeb29f8ab57d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+[root@k8s-master~#kubectlgetnodes
+NAME
+k8s-master k8s-node1 k8s-node2
+STATUS Ready NotReady NotReady
+[root@k8s-master~]#
+ROLES master <none> <none>
+AGE 244d 243d 243d
+VERSION v1.18.0 v1.18.0 v1.18.0

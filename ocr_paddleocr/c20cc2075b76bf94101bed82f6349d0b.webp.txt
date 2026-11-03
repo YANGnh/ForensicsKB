@@ -1,0 +1,21 @@
+# OCR: c20cc2075b76bf94101bed82f6349d0b.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/c20cc2075b76bf94101bed82f6349d0b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:33
+
+》此电脑
+口
+新加卷(E:)>jetbra>
+名称
+>
+config-jetbrains plugins-jetbrains scripts
+Beifen
+?ja-nethlter.jar
+修改日期
+2025/2/10 16:13 2025/2/10 16:13 2025/2/1016:13 2025/2/1016:13 2025/2/1014:42 2022/8/114:41
+类型文件夹文件夹文件夹文件夹文件
+JAR压缩文件
+大小
+1,048,576..
+48KB

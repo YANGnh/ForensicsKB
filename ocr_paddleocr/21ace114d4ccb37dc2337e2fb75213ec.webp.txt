@@ -1,0 +1,24 @@
+# OCR: 21ace114d4ccb37dc2337e2fb75213ec.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/21ace114d4ccb37dc2337e2fb75213ec.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:31
+
+三序号 □1 □2 □3 口4
+三名称华为
+华为计算器华为应用市场
+华为图库华为联系人
+三包名过滤
+com.android.calculator2 com.huawei.appmarket com.android.gallery3d com.android.contacts
+三版本名称过滤
+三应用分类*
+系统工具下载工具系统工具系统工具
+三应用类型*
+系统(预装)
+非系统(非预装) 系统(预装)
+非系统(非预装
+三安装时间
+起始
+结束
+Y
+2025-09-2515:05:33 2025-09-2419:37:42 2023-03-2309:11:28 2025-09-2419:51:27

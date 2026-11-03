@@ -1,0 +1,25 @@
+# OCR: 1f5f43b18ccd09bb83fd23be78e2c124.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/1f5f43b18ccd09bb83fd23be78e2c124.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+g
+Ben的JumpStation>
+三序号口4 口5 □6
+详细信息
+三名称过滤
+MicrosoftIP-HTTPS... Etherneto
+BluetoothNetwork..
+名称：Etherneto
+基本信息>巨网络配置巨网络连接
+三描述过滤
+Microsoft IP-HTTPS .. Intel(R) 82574L Giga.. BluetoothDevice(P..
+描述：Intel(R)82574LGigabitNetworkConnection
+Mac地址：00-0C-29-64-D3-A0 DHCP地址：192.168.182.128
+DHCP网关Mac:00-50-56-EF-B7-95 租期获得时间：2024-08-2811:37:45
+过期时间：2024-08-2812:07:45 DHCP服务器：192.168.182.254 DHCPDNS:192.168.182.2
+DHCP网关地址：192.168.182.2 DHCP子网掩码：2
+255.255.255.0
+已删除：否
+三IP地址过滤

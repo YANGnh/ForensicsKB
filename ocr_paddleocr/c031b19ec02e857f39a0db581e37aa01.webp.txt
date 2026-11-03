@@ -1,0 +1,32 @@
+# OCR: c031b19ec02e857f39a0db581e37aa01.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/c031b19ec02e857f39a0db581e37aa01.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+$2a$10$V/8GUI5aTNSnbFodPjP7Zu6vCFSXmVdd9oKHGtWv/vbT3Q4LLTCcV
+Session. status
+Hash.Mode
+Hash.Target.. Time.started.
+Time.Estimated. Kernel.Feature. Guess.Mask
+Guess.Queue.
+Speed.#1. Recovered. Progress. Rejected.
+Restore.Point.. Restore.sub.#l..
+: hashcat
+Cracked
+3200（bcrypt $2s,Blowfish （Unix)）
+:king110
+$2a$1o$V/8GUI5aTNSnbFodPiP7Zu6vCFSXmVdd9oKHGtWy/ybT...LLTCcW
+SunJun01 18:56:582025(1sec) SunJun01 18:56:592025(0secs） Pure Kernel
+king?d?d?d[7] 1/1(100.00%)
+2254H/s（6.80ms）
+@ Accel:1 Loops:16Thr:24 Vec:1
+1/1(100.00%)Digests（totau)1/1(100.00%)Digests(new） 1000/1000(100.00%)
+0/1000(0.00%) 0/1000 (0.00%)
+，
+Salt:0Amplifier:0-1Iteration:1o08-1o24
+Candidate.Engine.:DeviceGenerator
+Candidates.#1..
+.: king199 → king739
+Hardware.Mon.#1..:Temp:48cUtil:100%Core:2707MHzMem:14001MHzBus:8
+started：SunJuno118:56:552025 stopped:SunJun01 18:57:002025

@@ -1,0 +1,27 @@
+# OCR: 201421b0bac521837748b194c96c4137.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/201421b0bac521837748b194c96c4137.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+MobaXterm属性
+常规
+快捷方式兼容性安全
+MobaXterm
+文件类型：
+描述：位置：大小：
+占用空间：创建时间：修改时间：访问时间：
+属性：
+快捷方式(.lnk） MobaXterm
+详细信息
+以前的版本
+C:/Users\Luck/Desktop
+1.53KB（1.575字节） 4.00KB4.096字节）
+2024年3月11日，19:00:14 2024年3月11日，19:00:14 2024年5月19日，10:53:30
+口只读(R)
+确定
+■隐藏(H)
+取消
+高级(D).
+应用(A)
+x

@@ -1,0 +1,23 @@
+# OCR: 2320b76e5d3b3b2a3dc8714a2e4feb0e.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/2320b76e5d3b3b2a3dc8714a2e4feb0e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:07
+
+liffusion-webui >output >txt2img-grids>2024-03-13
+grid-0001.jpg属性
+常规
+grid-0001.jpg
+grid-0001.png
+属性
+安全
+说明标题主题分级标记备注来源作者
+拍摄日期程序名称获取日期版权
+属性修改值
+详细信息
+★★★★★
+以前的版本
+nighway,china,Atankertruck catchesfire,caronfire
+Negativeprompt:licenseplate, confusion,people
+Steps:20,Sampler:DPM++ SDE Karras,CFGscale:7,Seed
+x

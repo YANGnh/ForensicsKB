@@ -1,0 +1,32 @@
+# OCR: 3b74129e2e84371a39460181d919567d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/3b74129e2e84371a39460181d919567d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+istoreos
+搜索菜单
+首页
+网络向导状态
+o 9
+系统 iStore Docker 服务
+PassWall2
+DDNSTO远程控制易有云文件管理器 NasTools
+动态DNS（DDNS）
+硬盘休眠网络唤醒网络共享
+终端 UPnP
+网络存储
+NasTools
+NasTools是汇聚了电影搜索，下载，订阅，观看等等NAs功能的工具集合。官方网站：https://github.com/jxxghp/nas-tools 服务状态
+NasTools的状态信息如下：
+状态
+安装配置
+以下参数只在安装或者升级时才会生效
+端口* 镜像*
+配置文件路径*
+自动更新
+NASTOOLS运行中
+默认用户名：admin，密码：password
+打开NASTOOLS 18888
+nastool/nas-tools
+/root/Configs/NasTools

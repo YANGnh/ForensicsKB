@@ -1,0 +1,62 @@
+# OCR: 5c1500891b79e7bd2032cba965c2aa70.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/5c1500891b79e7bd2032cba965c2aa70.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:35
+
+A不安全192.168.71.139:8080/login
+CRM客户信息管理系统
+*用户名 admin*密码
+崇登录
+的筛选器
+全部名称
+欢迎
+O
+Fetch/XHR
+500ms
+</>元素
+口保留日志
+文档
+src_viewsLogin_vue.js
+Dlogin login
+cSS
+园控制台
+口禁用缓存
+JS
+1.000ms
+字体
+X
+无限制
+Img
+泸源代码
+媒体
+1.500ms
+标头
+、常规请求URL
+引用站点策略、响应标头、请求标头
+负裁
+清单预览
+已显示临时标题。 A
+Accept
+Content-Type Referer
+User-Agent
+网路
+不
+K
+Socket
+Wasm
+2.000ms
+响应
+A性能其他
+燕内存
+2.500ms
+发起程序
+计时
+口应用程序
+口辰
+3.000ms
+http://192.168.100.132:3000/api/auth/logir strict-origin-when-cross-origin
+了解详细信息
+application/json,text/plain,*/* application/json
+http://192.168.71.139:8080/
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) Appl(KHTML, like Gecko) Chrome/136.0.0.0 Safari/53)

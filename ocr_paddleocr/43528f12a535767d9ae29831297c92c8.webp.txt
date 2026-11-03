@@ -1,0 +1,16 @@
+# OCR: 43528f12a535767d9ae29831297c92c8.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/43528f12a535767d9ae29831297c92c8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:32
+
+查询结果：
+密文：类型：
+03ddb77b41e0d41a8a186d4fd87c546d6fe41eec
+sha1
+已查到，这是一条付费记录。请点击购买
+查询
+加密
+V
+[助
+（点击购买才扣费，并立即显示解密结果和加密类型。本站wwW.cmd5.com数据量全球第一，成功率全球第一，支持多种类型，许多密码只有本站才可以查询）

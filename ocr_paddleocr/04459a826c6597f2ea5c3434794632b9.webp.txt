@@ -1,0 +1,15 @@
+# OCR: 04459a826c6597f2ea5c3434794632b9.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/04459a826c6597f2ea5c3434794632b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:37
+
+g
+15pm计算机检材.e01>国基本信息>终端历史记录
+三序号口1 口2
+三内容过滤
+wsreset -i
+sshroot@78.45.24.55
+Y
+三来源过滤
+heikewang heikewang

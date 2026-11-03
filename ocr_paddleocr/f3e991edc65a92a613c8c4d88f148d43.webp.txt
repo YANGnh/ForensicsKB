@@ -1,0 +1,12 @@
+# OCR: f3e991edc65a92a613c8c4d88f148d43.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/f3e991edc65a92a613c8c4d88f148d43.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+ForceRotate:o
+Autolock Managers: false
+RootRotationInProgress:false NodeAddress:172.16.80.1o4
+Manager Addresses: 172.16.80.104:2377
+Runtimes: io.containerd.runc.v2 runc Default Runtime: runc
+Init Binary: docker-init

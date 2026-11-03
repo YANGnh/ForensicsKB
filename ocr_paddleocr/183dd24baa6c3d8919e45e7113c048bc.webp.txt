@@ -1,0 +1,35 @@
+# OCR: 183dd24baa6c3d8919e45e7113c048bc.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/183dd24baa6c3d8919e45e7113c048bc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+包
+检材2-计算机.E01-VMwareWorkstation
+文件(E) 库
+编辑(E)
+查看(M
+在此处键入内客进行搜索口我的计算机
+Debian
+VirtualDisk.vmdk
+pc-disk.E01 Unraidos
+检材3-服务器.E01
+检材2-计算机.E01 检材2-计算机.E01 Ubuntuarm64
+虚拟机（M
+选项卡(D
+帮助(H)
+检材2-计算机.E01
+品
+?
+?
+图
+口
+X
+巧长乐希连船生东东方龍间
+Debian12.x64位Arn RAID0检材2-计算机
+检材3-服务器.E01
+Gtouhwavhaoisy. runaonheeton!
+·英
+要将斯入定向到该虚拟机，请在虚拟机内部单击或按Ctrl+G
+11:3
+2025/5/1

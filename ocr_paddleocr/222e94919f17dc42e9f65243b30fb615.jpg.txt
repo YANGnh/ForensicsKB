@@ -1,0 +1,19 @@
+# OCR: 222e94919f17dc42e9f65243b30fb615.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/222e94919f17dc42e9f65243b30fb615.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+口15 洋细信息
+Screenshot20240828-153836.Gmailjeg
+名称：Screenshot_20240828-153836_Gmailjpg 大小：373.33KB
+创建时间：2024-11-0922:23:21 移改时间：2024-08-2815:38:36
+373.33KB
+2024-11-0922:23:21
+本地路径：DavidSmartphone_1/Active/media/0/DCIM/Screenshots/Screenshot20240828-153836Gmailjpg 目录名称：截屏
+原文件：David_Smartphone1/Active/media/0/DCIM/Screenshots/Screenshot_20240828-153836_Gmail.jpg 已删除：否
+2024-08-2815:38:36
+原类型视图
+文本视图
+十六进制视图
+e3

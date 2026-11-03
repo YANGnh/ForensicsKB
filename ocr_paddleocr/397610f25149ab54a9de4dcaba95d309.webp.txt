@@ -1,0 +1,48 @@
+# OCR: 397610f25149ab54a9de4dcaba95d309.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/397610f25149ab54a9de4dcaba95d309.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:25
+
+DeDetect ItEasyv3.10[Windows10Version2009] (x8664) 文件名
+C/Users/NoahTielDownloads/password_collecton
+文件类型 ELF64
+①文件信息每MIME OELF 程序
+0006
+扫描自动 ELF64
+文件大小
+4.71 MiB
+党内存映射图可视化
+节
+001a
+反汇编 0搜索
+字节序
+LE
+基址（BA)
+0000000000000000
+回十六进制#哈希模式
+64位
+操作系统：UbuntuLinux(ABl:3.7.0)[AARCH64,64位，EXEC]
+國字符串来信息摘
+架构
+入口点
+0000000000001780
+国签名 Y提取器
+类型
+AARCH64
+编译器:gcc((Ubuntu13.3.0-6ubuntu2_24.04) 13.3.0)[EXECAARCH64-64] 附加：Binary[偏移=0x00400000,大小=0x000b4b48]
+Audio:SAMCoupe/E-Trackerfile(.COP..SNG)
+签名目录
+标志
+日志
+数据库
+66毫秒
+VirusTotal
+YARA EXEC S
+s s
+扫描
+??
+口
+x
+√高级选项 <T>符号重组
+快捷键容选项 0关于 X退出

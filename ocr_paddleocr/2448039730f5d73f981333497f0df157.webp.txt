@@ -1,0 +1,10 @@
+# OCR: 2448039730f5d73f981333497f0df157.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/2448039730f5d73f981333497f0df157.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+改 10 建 0
+专属便签 vcmm:1233211234567
+blmy:284823-127259 606056-037972-369479
+625636-281259-517407

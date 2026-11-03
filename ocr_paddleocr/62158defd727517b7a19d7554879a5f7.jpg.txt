@@ -1,0 +1,17 @@
+# OCR: 62158defd727517b7a19d7554879a5f7.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/62158defd727517b7a19d7554879a5f7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+检材2>
+二序号口1
+用基本信息国网络配置
+国网络连接
+三名称过滤
+Etherneto
+三描述过滤
+Intel(R) 82574L Giga..
+三IP地址过滤
+Y
+192.168.100.254

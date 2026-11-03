@@ -1,0 +1,49 @@
+# OCR: 2f0c58f41aec715425ef7e8c20d524bb.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/2f0c58f41aec715425ef7e8c20d524bb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+文件个
+=[roop1.3.2d
+主个
+柔快速访问 ■桌面下载图文档 ■图片
+鲁shuju (E:)
+共享
+>
+查看
+此电脑
+名称
+★ ★ ★ ★
+本地磁盘(A:)
+WPS云盘 OneDrive 此电脑 3D对象视频 ■图片国文档 +下载小音乐 ■桌面
+=本地磁盘(A:) 本地磁盘(C:) 新加卷(D:) shuju (E:) 网络
+新加卷(D:）>roop1.3.2d
+.idea data
+edgeview ffmpeg gfpgan models ooai8 python3 roop
+.flake8 gitignore
+CONTRIBUTING.md
+LICENSE mypy.ini README.md
+requirements.txt
+requirements-headless.txt
+run.bat run.py
+run_batchswap.py
+run_j2v.py run_v2i.py venv.bat venv-cmd.bat
+venv-run-cpu.bat venv-run-cuda.bat
+venv-run-swapper-enhancer.bat WebView2Loader.dll
+单图换脸ROOP1.3.2d使用说明.txt 解压密码：www.ooai8.com.txt D圈圈Al吧Roop启动器v0.6.exe
+修改日期
+2024/3/1119:11 2023/8/2920:51 2023/8/83:31 2023/8/413:24 2023/8/413:24 2023/8/2921:10 2023/8/2921:45 2024/3/1116:40 2023/8/413:49 2023/8/2921:46 2023/7/210:39 2023/7/210:39 2023/8/413:22 2023/7/21-0:39 2023/7/210:39 2023/8/413:22 2023/8/413:22 2023/8/413:22 2024/3/1116:16 2023/7/210:39 2023/8/272:02 2023/8/2820:27 2023/8/2522:00 2023/8/82:29 2023/8/82:30 2023/8/82:30 2023/8/82:32 2023/8/82:35 2023/5/117:21 2023/8/2922:02 2023/7/200:35 2023/8/2921:49
+类型文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹文件夹
+FLAKE8文件
+GITIGNORE文件
+MD文件文件
+配置设置 MD文件文本文档文本文档
+Windows批处理..
+PY文件 PY文件 PY文件 PY文件
+Windows批处理.. Windows批处理.. Windows批处理.. Windows批处理.. Windows批处理.. 应用程序扩展
+文本文档文本文档应用程序
+大小
+1KB 1KB 1KB 35KB 1KB 6KB 1KB 1KB 2KB 1KB 1KB 1KB 1KB 2KB 1KB 1KB 1KB 1KB
+113KB 3KB OKB
+2,903KB

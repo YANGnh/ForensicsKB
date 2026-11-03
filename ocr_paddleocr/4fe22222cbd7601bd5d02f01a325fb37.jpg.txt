@@ -1,0 +1,30 @@
+# OCR: 4fe22222cbd7601bd5d02f01a325fb37.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/4fe22222cbd7601bd5d02f01a325fb37.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+g
+David Laptop>
+三序号口1 2 3 口4 口5 6 07 口8 口9 □10 □11
+三名称过滤
+用基本信息>
+4
+操作系统名称操作系统类型操作系统版本操作系统位数
+系统时区安装时间产品密钥发行ID 产品ID
+当前版本号
+当前Build版本号
+系统信息三英文名称过滤
+MATERIALSNAME
+OS_TYPE OS_NAME OS_BITNESS
+OS_TIME_ZONE INSTALL_TIME PRODUCTKEY RELEASE_ID
+OS_PRODUCT_ID
+CVERSION VERSION
+三值过滤
+Windows10Pro
+Windows Professional 64位
+Y
+(UTC+08:00）北京，重度，香港特别行政區... 2024-07-3110:18:26+0800CST
+V64MN-86E8K-FDH7E-OHY9V-WK86C 2009
+00342-50409-84439-AAOEM 10
+19043.928

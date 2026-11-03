@@ -1,0 +1,14 @@
+# OCR: 32e0d733abd02dae488e6a8bd9e15f4a.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/32e0d733abd02dae488e6a8bd9e15f4a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:29
+
+文件Hash计算工具v1.3
+文件名称：文件大小：计算结果口4 5•SHA1 SHA256
+C：Usersipk1鲁堪ios手机-备份密码Abc789.rar 1.52GB
+C76D8F8AC92204175DA4BBBF56891642
+大写
+小写
+浏览复制复制复制复制
+x

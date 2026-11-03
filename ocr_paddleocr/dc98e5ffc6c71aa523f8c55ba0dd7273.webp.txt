@@ -1,0 +1,14 @@
+# OCR: dc98e5ffc6c71aa523f8c55ba0dd7273.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/dc98e5ffc6c71aa523f8c55ba0dd7273.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+43t3baaag
+4
+#root@ql-n117-45.117.1e.203in/opt/bl.dsnbbaj686.fit/www/public/uploads/admin/adminthumb/202406 1421:49:24]
+$sha256sum*.zip
+43773026a0aa05fd712992fe7d6a8ddeac6de376b3cad3fde3cod5cb9fe89f26f4I5IZMF.zip
+UeOupJ14.zip
+b204ad1f475c7716daab9afb5f8d61815c508f2a2b1539bc1f42fe2f212b30d1
+9fa8cfdb84622536ccafdef20ca1b6c5281801014afb81b7ab91071fa39effd9wjw04.zip

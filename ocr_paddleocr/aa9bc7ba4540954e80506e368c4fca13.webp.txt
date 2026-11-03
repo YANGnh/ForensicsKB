@@ -1,0 +1,19 @@
+# OCR: aa9bc7ba4540954e80506e368c4fca13.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/aa9bc7ba4540954e80506e368c4fca13.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:30
+
+这是一个非常典型的针对OracleWebLogicServer的远程代码执行（RCE）攻击流量包。
+根据数据包的特征，这是利用CVE-2019-2725（CNVD-C-2019-48814）漏洞进行的攻击尝试。
+以下是详细的分析报告： 1.基本信息概览
+：攻击目标：192.168.111.80:7001（Port7001是WebLogic的默认端口）。·攻击类型：远程代码执行(RCE)/反序列化漏洞。
+漏洞编号：CVE-2019-2725（针对/_async/AsyncResponseService组件）。
+(表示服务器已接收并开始处理请求，意味着攻击大概率成功)。
+响应状态：202Accepted（ FORENS
+2.请求头分析 <>Http
+PoST/async/AsyncResponseServiceHTTP/1.1
+Host:192.168.111.80:7001 Content-Type:text/xml
+FORENSIX.CN 金
+FOREN 茶
+URL（/_async/AsyncResponseService）：这是WebLogic的WebService组件（AsyncResponseService）。CVE-2019-2725正是利用了该组件在处理 SOAP请求时的反序列化缺陷。

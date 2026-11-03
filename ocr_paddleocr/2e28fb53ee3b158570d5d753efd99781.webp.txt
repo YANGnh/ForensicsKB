@@ -1,0 +1,11 @@
+# OCR: 2e28fb53ee3b158570d5d753efd99781.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/2e28fb53ee3b158570d5d753efd99781.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+mm326674411
+1 Key
+MD5
+默认计算MD5，传入Key值时则计算HmacMD5
+a0b534ccdb7db6ab0acbec2945cb2748

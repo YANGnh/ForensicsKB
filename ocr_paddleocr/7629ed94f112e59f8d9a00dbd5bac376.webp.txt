@@ -1,0 +1,9 @@
+# OCR: 7629ed94f112e59f8d9a00dbd5bac376.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/7629ed94f112e59f8d9a00dbd5bac376.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+网路位置【6:1tmp】2024数证杯个A/NTUSER.DAT12
+地址
+11192.168.188.1\NAS 11192.168.8.11shares

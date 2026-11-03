@@ -1,0 +1,33 @@
+# OCR: 9c95c3515df4433893a547fceec1d4ec.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/9c95c3515df4433893a547fceec1d4ec.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+证据项No.1（唯—ID:0)
+项目名称/编号
+内部名称：注释(C):
+哈希值SHA-256 哈希值无
+David_USB_8GB
+[A:\David_USB_8GB.e01]
+创建日期：2024/11/10d09:38:03
+小：7.5GB 文件：34
+案件描述(D)
+File system:NTFS
+Totalcapacity:8.053063.680bytes=7.5GB Sector count:15.728.640
+Bytespersector:512 Bytespercluster:512
+Freeclusters:15.677.849=100%free Total clusters:15.728.639
+NTFS version:3.1 Volumeflags:0x0080
+SerialNo.:242835A4(hex)
+Serial No.:A4352824 (hex,rev) Serial No.:2754947108 (dec,rev)
+.e01内部描述信息：DriveJ
+Examiner:HongKongPoliceForce AppVer:XWF20.2
+OSVer:Win10.Build19045(64bit) Acquiredon:2024/08/28d14.24:55
+C07B887A8B497BBE550658E93C68434C0185B851E3EBE823
+根据当前文件系统的时区显示时间：UTC
+图确定()
+取消(A)
+校验哈希(V 计算哈希值(m)..
+白压缩(C)
+帮助(H)
+x

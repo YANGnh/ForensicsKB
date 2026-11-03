@@ -1,0 +1,16 @@
+# OCR: ef8b9077b33610cb2893be1d321ac337.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ef8b9077b33610cb2893be1d321ac337.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:14
+
+Recipe
+URLDecode FromBase64 Alphabet
+A-Za-zo-9+/= Strictmode
+：
+??
+Removenon-alphabetchars
+Input
+L3d3dy93d3dyb29eL3d3dy50cHNob3AuY29tLw%3D%3D RIC44
+Output
+/www/wwwroot/www.tpshop.com/

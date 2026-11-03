@@ -1,0 +1,16 @@
+# OCR: b45784e6b7ecf03e6f2db0fdfe375f09.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/b45784e6b7ecf03e6f2db0fdfe375f09.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:34
+
+g
+三序号 4 口5 口6
+Image.zip
+三名称过滤
+系统版本编译版本硬件模型
+基本信息
+配
+设备信息
+三内容过滤
+16.3.1 20D67 D63AP

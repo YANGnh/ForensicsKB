@@ -1,0 +1,51 @@
+# OCR: 79bc8a081b2b5afef9f8ae00d197743c.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/79bc8a081b2b5afef9f8ae00d197743c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:22
+
+对象
+chatf6b680e85ab3ca24f9da291a87..
+国表配置文件 CreateTime#INTEGER 1724313712 1724313755 1724314470 1724314540 1724314559 1724315765 1724315807 1724318786 1724320105 1724321201 1724321223 1724321233
+文本 1 2 3
+4 5 6
+8 9 10
+国开始事务 Des
+#INTEGER
+1 0 0 1 1 0 1 1 1
+十六进制
+图像
+专筛选&排序
+列
+单元格编银器
+数据分析西工具 Message
+MesLocallD
+ImgStatus#INTEGER
+-1-2
+网页
+<?xml version-"1.e"?> <msg
+#INTEGER
+215 216 217 218 219 220 221 222 223 224 225 226
+HRCTEXT
+我现在在他新公室哦
+要基率资讯含不會有麻烦的不會的，只是想看看而已
+想看看例他的加口密背韩钱包，钱包的recoveryseed之赠
+最我看看嘛，始第? 等等我那我找一找哦
+但Recoveryseed是基蒙子的
+你试我，一组大的有12至24字的字需我找找看
+?xml.version=1:0r?>msgimg aeskeys"1ca4a497dddc7aa412b02ea38581a71e encryver=1.cdnthumbaeskey="1ca4a497ddd
+我在他单記海理看到這宿是遮些字听
+MesSvrID#INTEGER
+50828411413 76588438984 89092519850 04980357691 97463997488 28434403297 44612091476 64579871549 24981341060 38630687131 39731632703 69486874021
+中
+Status#INTEGE
+<imgaeskey="1ca4a497dddc7aa412be2ea38581a71e"encryver="1"cdnthumbaeskey="ica4a497dddc7aa412be2ea38581a71e"cdnthumbur1=
+3052820100044b38498201008204a1116e4002038f52590284727d9b2be26466c70db0042462333863303236372d646338352d346535352d626638322d6533383237363035333334348204811da828281868408*
+"cdnthumblength
+"358s"cdnthunbheight-"12e"cdnthumbwidth-"9e"cdnmidheight-"e"cdnmidwidth-"e"cdnhdheight-"e"cdnhdwidth-"e"cdnmidimgur1-
+"3052020100044b30490201600204a1116e4002030f52590204727d9b2be20466c78db0042462333863303236372d646330352d346535352d626638322d6533383237363035333334340204011des02020100040e1ength-25386
+md5="8f6ffa5ce49c5f17e2e15be2848cc365"hevc_midsize="25386"origins0urcemd5="5d472f73e06ade8ab966b91ec8fa774a"/> <platformsignature/>
+<imgdatahash /> <ImgSourceInfo>
+<ImgSourceurl/>
+<BizType>e</BizType>
+</ImgSourceInfo> </msg>

@@ -1,0 +1,18 @@
+# OCR: 417cb4e994568fecc11b620202d5ddbe.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/417cb4e994568fecc11b620202d5ddbe.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:09
+
+g
+检材3-计算机
+口啡序号口1 口2
+登录URL 过滤
+昆保存的密码
+Chrome浏览器>
+http:/192.168.8.5:18888/
+http://192.168.8.5/cgi-bin/luci/
+三账号过滤
+root
+邮密码过滤
+hl@7001

@@ -1,0 +1,11 @@
+# OCR: 7448ca35fe49f3c28bb35b02fb364902.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/7448ca35fe49f3c28bb35b02fb364902.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+android:screenorientation="portrait"/>
+<activity
+android:name="com.changbo.pro.ui.home.MainActivityl android:launchMode="singleTop"
+android:screenorientation="portrait"
+android:configChanges-"screensize|orientation|navigationkeyboardHidden|keyboard"/ <activity

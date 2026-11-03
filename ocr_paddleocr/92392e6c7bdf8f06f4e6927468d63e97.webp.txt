@@ -1,0 +1,67 @@
+# OCR: 92392e6c7bdf8f06f4e6927468d63e97.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/92392e6c7bdf8f06f4e6927468d63e97.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:23
+
+受害人手机检材.tarldatalcom.mostone.lifelsharedprefs
+口了文件名称～
+..=com.mostone.life（360)
+.=shared_prefs (80) applogstats540060.xml
+bdtrackerdrmigratedetector.xml
+BUGLYCOMMONVALUES.XmI ccg_sp_config_file.xml
+com.mostone.lifepreferences.xm
+com.video.ttvideosetting.xml crasnrecord.xm
+delayedtransmissionflagnew.xm
+dpSdkClassVerifierSp.xml headercustom540060.xml 国im.xml
+lastspsession540060.xml life.xml
+login.xml
+卷 offset 00000000 00000016 00000032 00000048 00000064 00000080 00000096 00000112 00000128 00000144 00000160 00000176 00000192 00000208 00000224 00000240 00000256 00000272 00000288 00000304 00000320 00000336 00000352 00000368 00000384
+■文件 0
+3c 2E 66 27 20 22 6F 73 69 22 62 53 66 67 4F 34 46 6F 57 5A 73 67 76 38 2F
+3F 30 2D 79 20 73 73 74 6E 3E 4B 4E 71 4E 48 54 61 52 44 4D 74 20 61 34 6D
+2
+78 27 38 65 20 6F 74 72 67 45 51 61 51 67 64 64 53 62 6E 78 72 6E 6c 31 61
+预览
+3 6D 20 27 73 3c 63 6F 69 20 61 4c 58 6B 30 75 74 4D 71 50 4c 69 61 75 33 70
+4 6c 65 20 27 73 22 6E 6E 6E 69 47 2F 47 67 4B 34 64 6B 69 48 6E 6D 65 33 3E
+5 20 6E 73 20 74 3E 65
+67 61 4A 35 37 61 43 6F 53 49 34 67 50 67 65 3D 39 0A
+贝详细
+6 76 63 74 3F 72 77 74
+3E 6D 45 6F 47 58 65 6B 38 30 4B 46 70 3E 3D 22 33
+7 65 6F 61 3E 69 73 65
+0A 65 61 58 64 37 56 6E 2B 47 62 6E 54 0A 22 31 39
+?描述存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+缩略图
+8 72 64 6E 0A 6E 73 63
+20 3D 6D 42
+9 73 69 64 3c 67 3A 68 20 22 50 52
+69
+39 66
+59
+53 36 62 62 71 48 31 20 75 38 32
+51 2B 6E 31 63 5A 42 20 73 33 30
+10 69 6E 61 6D 20 2F 2E 20 74 48 6B 56 54 7A 46 74 2F 35 4c 65 20 65 36 22
+11 6F 67 6c 61 6E 2F 63 20 6F 6E 4A 6E 6B 48 77 70 74 68 72 48 20 72 30 20
+时间轴
+12 6E 3D 6F 70 61 77 6F 3c 6B 57 74 6E 30 44 48 77 72 4D 78 73 3c 49 34 2F
+13 3D 27 6E 3E 6D 73 6D 73 65 34 36 43 39 47 73 7A 4D 50 71 3D 6c 64 32 3E
+了文件头了
+xml xml xml xml xml xml xml xml xml xml xml xml xml xml
+图例说明
+14 27 75 65 OA 65 2E 3c 74 6E 78 4A 76 6E 76 45 31 71 51 33 3c 6F 22 30 0A
+15
+31 74 3D 20 3D 6D 2F 72 74 30 30 6A 45 7A 4D 33 64 6c 62 2F 6E 20 37 3c
+<?xml
+.01
+文件大小 83.1MB 147KB 473 B 115B 140B 396B 140B 0.5KB 128B 136B 139B 163B 390B 166B 2.3KB 0.5KB 同步
+ANSIASCII version='1
+encoding='ut
+f-8 standalone='yes'?><map>
+<string name="soc">wss://ws.m ostonetech.ccm</
+string>
+<str
+ing name="tokent">EaiJEamPHnW4x0 bKQLG5oXBRkJt6J0 SNaX/7Gdi9nnCvj fqQkGaX7fYTk09nE gNgOgCeVSQzHDGvz OHduKokn6+FwHsEM 4Tdt4s8+bntpwz13 FaSMdI0Gb1/trMgd oRbgk4Kbgc5hMPQl WDnPigFnHzLrxg3b ZMxLHPpT1BeHs=</ string>
+<lon
+gname="userId" value="183604207 8413393920"/></map>

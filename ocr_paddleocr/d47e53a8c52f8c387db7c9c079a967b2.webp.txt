@@ -1,0 +1,17 @@
+# OCR: d47e53a8c52f8c387db7c9c079a967b2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/d47e53a8c52f8c387db7c9c079a967b2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:24
+
+Microsoft-Windows-Terminalservic200491
+级别 ①信息?信息?信息 ①信息 ①信息 ①信息 ①信息 ①信息 Q信息
+事件数：17
+日期和时间
+2025-05-13 0:30:41 2025-05-12 18:34:50 2025-05-12 14:14:12 2025-05-12 14:14:12 2025-05-12 14:14:09 2025-05-12 14:14:02 2025-05-12 13:50:39 2025-05-12 13:50:39 2025-05-1213:50:39
+事件1149，TerminalServices-RemoteConnectiorManager
+常规
+详细信息
+远程桌面服务：用户身份验证已成功：
+用户：admin 域：
+源网络地址：192.168.3.14

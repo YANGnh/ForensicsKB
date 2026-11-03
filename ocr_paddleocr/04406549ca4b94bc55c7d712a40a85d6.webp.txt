@@ -1,0 +1,39 @@
+# OCR: 04406549ca4b94bc55c7d712a40a85d6.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/04406549ca4b94bc55c7d712a40a85d6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:12
+
+响·检材5
+短信国彩信
+Wi-Fi连接记录热点连接设备
+移动热点 Q账号信息  应用列表
+应用卸载记录应用申请权限
+国
+图片
+?视频
+国￥四四
+缩略图
+蓝牙连接记录便签
+SIM卡使用记录
+系统日志
+339/28330 6/13
+2 46 1 1 5 251
+212/710
+18736 306
+6 14/14
+1 3 16 8/10
+回
+PackageName inc'demo...
+口三序号口1 详细信息
+三名称过滤
+包名：demo.honglian 版本号：1
+应用分类：基他
+应用类型：非系统(非预装 apk文件大小：0B
+安装时间：2023-09-1119:07:26
+最后升级时间：2023-09-1119:07:26
+三包名
+demo.honglian demo.honglian
+程序目录：/data/app/demo.honglian-mpZYliXkYv8zw0g2rgA5Q==
+源文件：Xiaomi2309112201-1694430677.img/1/system/packages.xml 已删除：否
+三版本名过滤

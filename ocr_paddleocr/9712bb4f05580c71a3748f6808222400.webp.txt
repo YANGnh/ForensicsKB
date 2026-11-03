@@ -1,0 +1,28 @@
+# OCR: 9712bb4f05580c71a3748f6808222400.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/9712bb4f05580c71a3748f6808222400.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:15
+
+火眼内存分析工具v1.0.0.6015 M
+分析完成，总用时00:01:07
+audiodg.exe(4344) >svchost.exe(5640)  svchost.exe(8672)
+>MiniSearchHost.exe(8348) +.exe(2872)
+进程信息模块列表
+环境变量
+>conhost.exe(5796)
+OpenConsole.exe(11104) WindowsTerminal.exe(8476) RuntimeBroker.exe(6388) cmd.exe(2444)
+>WeChat.exe(9832)
+>mmcrashpad handler64.exe..
+3 5
+40 3
+3 3 3 3
+进程信息进程名：进程号：父进程号：创建时间：结束运行时间：
+包柄数：偏移：会话ID：线程数：
+Wow64o
++.exe
+2872 5596
+2024-05-23 06:37:47 0
+188593676902592
+1 1 否
+x 返回

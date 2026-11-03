@@ -1,0 +1,65 @@
+# OCR: 33e1d112f067757bb248a2ad2cde43ce.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/33e1d112f067757bb248a2ad2cde43ce.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:28
+
+tmp
+口文件名称一
+之.=（根目录)
+=tmp (14)
+vmware-root797-4257069498(0) vmware-root800-2999657415(0) vmware-root801-4248614937(0) Ivmware-root804-2991071810(0) vmware-root808-2965972425(0) Ivmware-root883-4021653483(0) Ivmware-root885-4021784556(0) 自ratlog.txt
+sess065800kph5ailv7cevhu0n0nv4 se5s19tatlsd0s8u6h4p525s7obrt3 sess4lhn09t43ugp8c9ml2epdiv744 sess_afh31makuphvommnr3cr3777t7 sessde43uan7nk13poat1dmbau6v4d sessip81532n0kdcajd6v45ssd92d3 sessj03lji900ru8h0nbe369gbpm6e se5skttb9s00etsbv9aqa94i9uv4o3 sessmdvlagbjdn03bu6v86agujo5v7
+sessmnbmb4ej614bk7gb13lmdmg3d1
+sess_mttmblh1u0dt9qukgvk5li8fp5 sess_nfjb58382ci7h6bnrorj3be326 sess_r5e4k0hp9ko5i3mt572kq52mm7
+一分区 offset
+文件
+0
+12319637504 12319637520 12319637536 12319637552 12319637568
+5B 41 6E 2D 30
+1
+72 6E 33 73 20
+国预览 2
+3
+6F 64 20 68 2D
+6F 72 61 65 70
+回详维
+74 6F 6E 6c 20
+40 52 64 6d 38
+文件(F)
+编辑(E)
+凸
+日
+查找(S)
+愉
+视图
+@
+ratlog18097.txt×
+58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81
+编码(N)
+5
+@
+语法(L)
+器
+设置
+列与宏冈
+工具(O)
+[ERRoR]-Unable-to-connect-to.the-Camera
+Interpreter:/>.takepic-l[INFo]-TakingImage
+[ERRoR]-Unable-to-connect.to.the.Camera
+Interpreter:/>.takepic-1[INFo]-Taking·Image
+[ERRoR]-Unable-to-connect-to.the.Camera
+Interpreter:/>.takepic.l[INFo]-Taking·Image
+播件 +
+对比(C)
+反馈注册
+?
+?
+GO
+[sUccEss]-Succesfully-Saved-in-/root/AndroRAT/Dumps/Image20250410-140555.jpg
+Interpreter:/>.takepic.l[INFo]-TakingImage
+[sUcCEss]-Succesfully-Saved-in-/root/AndroRAT/Dumps/Image_20250410-140605.jpg
+Interpreter:/>.takepic.1[INFol.Taking-Image
+[sUcCEss]-Succesfully-Saved-in-/root/AndroRAT/Dumps/Image_20250410-140622.jpg
+Interpreter:/>.getMACAddress ERRORl.Unknown-Command
+用

@@ -1,0 +1,16 @@
+# OCR: d086b7267f662228dff054e02316df10.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/d086b7267f662228dff054e02316df10.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:13
+
+Recipe
+URLDecode FromBase64 Alphabet
+A-Za-zo-9+/= Strictmode
+a
+??
+Removenon-alphabetchars
+Input
+L3d3dy93d3dyb29eL3d3dy5ecHNob3AuY29tL2FwcGxpY2Feaw9uL2dvb24yX2xpbi56aXA%3D SE74
+Output
+/www/wwwroot/www.tpshop.com/application/goon2lin.zip

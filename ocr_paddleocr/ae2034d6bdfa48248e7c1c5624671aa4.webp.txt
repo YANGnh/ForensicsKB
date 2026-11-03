@@ -1,0 +1,14 @@
+# OCR: ae2034d6bdfa48248e7c1c5624671aa4.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/ae2034d6bdfa48248e7c1c5624671aa4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:21
+
+时间结束
+John的笔记本>
+三用户组ID 过滤
+2207:34:33 2207:34:33 2207:34:33 2207:34:33 2207:34:33
+基本信息>用户列表三账户是否有效
+过滤否否否否是是是是
+三登录等于
+30

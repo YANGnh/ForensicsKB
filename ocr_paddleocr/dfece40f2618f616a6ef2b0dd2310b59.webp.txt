@@ -1,0 +1,21 @@
+# OCR: dfece40f2618f616a6ef2b0dd2310b59.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/dfece40f2618f616a6ef2b0dd2310b59.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 路由: chinese-or-general
+# 生成: 2026-11-03 14:26
+
+o
+名称
+>
+此电脑
+>本地磁盘(Y)
+回
+SystemVolumeInformation 回收站
+欠条左.png
+N排序
+修改日期
+查看
+2025/5/1519:37 2025/5/1519:37 2025/5/1519:56
+类型文件夹文件夹 PNG文件
+大小
+131KB
