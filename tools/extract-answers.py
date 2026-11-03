@@ -10,7 +10,7 @@
   5. 题干后第一行非空文本（兜底）        -> method=first-line（低置信度）
 
 用法：
-  python tools/extract-answers.py "02-WriteUp/2025/2025-FIC-初赛.md"
+  python tools/extract-answers.py "02-WriteUp/2025/2025-FIC-初赛/2025-FIC-初赛.md"
   python tools/extract-answers.py --all --stats
   python tools/extract-answers.py --all --json > answers.json
   python tools/extract-answers.py <doc> --limit 5

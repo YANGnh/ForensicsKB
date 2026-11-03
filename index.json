@@ -1,6 +1,6 @@
 {
     "_comment":  "本文件由 tools/build-index.ps1 自动生成，禁止手改",
-    "generated_at":  "2026-11-02T13:29:59+08:00",
+    "generated_at":  "2026-11-03T11:56:46+08:00",
     "kb_name":  "取证资料库",
     "kb_root":  "取证资料库/",
     "doc_count":  60,
@@ -496,7 +496,7 @@
                      "chars":  934
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-FIC-初赛.md",
+                     "path":  "02-WriteUp/2024/2024-FIC-初赛/2024-FIC-初赛.md",
                      "title":  "2024 FIC 第四届全国网络空间取证竞赛 线上初赛全解",
                      "type":  "writeup",
                      "category":  "",
@@ -524,7 +524,7 @@
                      "chars":  22274
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-FIC-决赛.md",
+                     "path":  "02-WriteUp/2024/2024-FIC-决赛/2024-FIC-决赛.md",
                      "title":  "2024 FIC 第四届全国网络空间取证竞赛 决赛",
                      "type":  "writeup",
                      "category":  "",
@@ -552,7 +552,7 @@
                      "chars":  26707
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-电子取证比武-复盘.md",
+                     "path":  "02-WriteUp/2024/2024-电子取证比武-复盘/2024-电子取证比武-复盘.md",
                      "title":  "某电子取证比武 复盘",
                      "type":  "writeup",
                      "category":  "",
@@ -580,7 +580,7 @@
                      "chars":  23485
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-精武杯-比武.md",
+                     "path":  "02-WriteUp/2024/2024-精武杯-比武/2024-精武杯-比武.md",
                      "title":  "2024 警察大学第七届精武杯 电子数据取证技能比武",
                      "type":  "writeup",
                      "category":  "",
@@ -608,7 +608,7 @@
                      "chars":  17632
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-龙信杯.md",
+                     "path":  "02-WriteUp/2024/2024-龙信杯/2024-龙信杯.md",
                      "title":  "2024 龙信杯 电子数据取证竞赛",
                      "type":  "writeup",
                      "category":  "",
@@ -636,7 +636,7 @@
                      "chars":  19276
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-美亚杯-团队赛.md",
+                     "path":  "02-WriteUp/2024/2024-美亚杯-团队赛/2024-美亚杯-团队赛.md",
                      "title":  "2024 美亚杯 第十届中国电子数据取证大赛 团队赛",
                      "type":  "writeup",
                      "category":  "",
@@ -664,7 +664,7 @@
                      "chars":  45026
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-美亚杯-资格赛.md",
+                     "path":  "02-WriteUp/2024/2024-美亚杯-资格赛/2024-美亚杯-资格赛.md",
                      "title":  "2024 美亚杯 第十届中国电子数据取证大赛 资格赛",
                      "type":  "writeup",
                      "category":  "",
@@ -692,7 +692,7 @@
                      "chars":  30686
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-盘古石杯-晋级赛.md",
+                     "path":  "02-WriteUp/2024/2024-盘古石杯-晋级赛/2024-盘古石杯-晋级赛.md",
                      "title":  "2024 盘古石杯 全国电子数据取证大赛 晋级赛（全解）",
                      "type":  "writeup",
                      "category":  "",
@@ -720,7 +720,7 @@
                      "chars":  26310
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-盘古石杯-总决赛.md",
+                     "path":  "02-WriteUp/2024/2024-盘古石杯-总决赛/2024-盘古石杯-总决赛.md",
                      "title":  "2024 盘古石杯 全国电子数据取证大赛 总决赛（不完全题解）",
                      "type":  "writeup",
                      "category":  "",
@@ -748,7 +748,7 @@
                      "chars":  40640
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-数证杯-初赛.md",
+                     "path":  "02-WriteUp/2024/2024-数证杯-初赛/2024-数证杯-初赛.md",
                      "title":  "2024 数证杯 初赛",
                      "type":  "writeup",
                      "category":  "",
@@ -776,7 +776,7 @@
                      "chars":  27951
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-数证杯-决赛个人赛.md",
+                     "path":  "02-WriteUp/2024/2024-数证杯-决赛个人赛/2024-数证杯-决赛个人赛.md",
                      "title":  "2024 国赛（数证杯）决赛 个人赛（自己写的）",
                      "type":  "writeup",
                      "category":  "",
@@ -804,7 +804,7 @@
                      "chars":  6141
                  },
                  {
-                     "path":  "02-WriteUp/2024/2024-数证杯-决赛团体赛.md",
+                     "path":  "02-WriteUp/2024/2024-数证杯-决赛团体赛/2024-数证杯-决赛团体赛.md",
                      "title":  "2024 国赛（数证杯）决赛 团体赛（自己写的）",
                      "type":  "writeup",
                      "category":  "",
@@ -832,7 +832,7 @@
                      "chars":  5816
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-FIC-初赛.md",
+                     "path":  "02-WriteUp/2025/2025-FIC-初赛/2025-FIC-初赛.md",
                      "title":  "2025 FIC 初赛",
                      "type":  "writeup",
                      "category":  "",
@@ -859,7 +859,7 @@
                      "chars":  8872
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-FIC-初赛参考WP.md",
+                     "path":  "02-WriteUp/2025/2025-FIC-初赛参考WP/2025-FIC-初赛参考WP.md",
                      "title":  "2025 FIC 全国网络空间取证大赛 初赛参考WP（除数据分析）",
                      "type":  "writeup",
                      "category":  "",
@@ -887,7 +887,7 @@
                      "chars":  14113
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-FIC-决赛-WXjzc.md",
+                     "path":  "02-WriteUp/2025/2025-FIC-决赛-WXjzc/2025-FIC-决赛-WXjzc.md",
                      "title":  "2025 FIC 决赛 WP（WXjzc）",
                      "type":  "writeup",
                      "category":  "",
@@ -915,7 +915,7 @@
                      "chars":  17833
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki.md",
+                     "path":  "02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/2025-FIC-决赛-XDforensics-wiki.md",
                      "title":  "2025 FIC 决赛 WP（XDforensics wiki）",
                      "type":  "writeup",
                      "category":  "",
@@ -943,7 +943,7 @@
                      "chars":  109042
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-广西职业技能大赛.md",
+                     "path":  "02-WriteUp/2025/2025-广西职业技能大赛/2025-广西职业技能大赛.md",
                      "title":  "2025 广西职业技能大赛",
                      "type":  "writeup",
                      "category":  "",
@@ -971,7 +971,7 @@
                      "chars":  12396
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-国赛-复盘.md",
+                     "path":  "02-WriteUp/2025/2025-国赛-复盘/2025-国赛-复盘.md",
                      "title":  "2025 国赛 复盘（检材分析1/2/3）",
                      "type":  "writeup",
                      "category":  "",
@@ -998,7 +998,7 @@
                      "chars":  1678
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-龙信杯.md",
+                     "path":  "02-WriteUp/2025/2025-龙信杯/2025-龙信杯.md",
                      "title":  "2025 龙信杯 电子数据取证竞赛 Writeup",
                      "type":  "writeup",
                      "category":  "",
@@ -1026,7 +1026,7 @@
                      "chars":  13353
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-美亚杯.md",
+                     "path":  "02-WriteUp/2025/2025-美亚杯/2025-美亚杯.md",
                      "title":  "2025 美亚杯",
                      "type":  "writeup",
                      "category":  "",
@@ -1054,7 +1054,7 @@
                      "chars":  15103
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-能力验证-培训.md",
+                     "path":  "02-WriteUp/2025/2025-能力验证-培训/2025-能力验证-培训.md",
                      "title":  "2025 能力验证（总队培训）",
                      "type":  "writeup",
                      "category":  "",
@@ -1082,7 +1082,7 @@
                      "chars":  12231
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-盘古石杯-初赛.md",
+                     "path":  "02-WriteUp/2025/2025-盘古石杯-初赛/2025-盘古石杯-初赛.md",
                      "title":  "2025 盘古石杯 初赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1110,7 +1110,7 @@
                      "chars":  25469
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-盘古石杯-决赛.md",
+                     "path":  "02-WriteUp/2025/2025-盘古石杯-决赛/2025-盘古石杯-决赛.md",
                      "title":  "2025 盘古石杯 决赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1138,7 +1138,7 @@
                      "chars":  19003
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-平航杯.md",
+                     "path":  "02-WriteUp/2025/2025-平航杯/2025-平航杯.md",
                      "title":  "2025 平航杯",
                      "type":  "writeup",
                      "category":  "",
@@ -1166,7 +1166,7 @@
                      "chars":  20342
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-山东联赛.md",
+                     "path":  "02-WriteUp/2025/2025-山东联赛/2025-山东联赛.md",
                      "title":  "2025 山东联赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1194,7 +1194,7 @@
                      "chars":  21851
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-陕西联赛-团体赛.md",
+                     "path":  "02-WriteUp/2025/2025-陕西联赛-团体赛/2025-陕西联赛-团体赛.md",
                      "title":  "2025 陕西联赛 团体赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1222,7 +1222,7 @@
                      "chars":  8035
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-数证杯-初赛.md",
+                     "path":  "02-WriteUp/2025/2025-数证杯-初赛/2025-数证杯-初赛.md",
                      "title":  "2025 数证杯 初赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1250,7 +1250,7 @@
                      "chars":  27678
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-数证杯-决赛附加题.md",
+                     "path":  "02-WriteUp/2025/2025-数证杯-决赛附加题/2025-数证杯-决赛附加题.md",
                      "title":  "2025 数证杯 决赛 团队赛附加题试卷",
                      "type":  "writeup",
                      "category":  "",
@@ -1276,7 +1276,7 @@
                      "chars":  2556
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-数证杯-决赛个人赛.md",
+                     "path":  "02-WriteUp/2025/2025-数证杯-决赛个人赛/2025-数证杯-决赛个人赛.md",
                      "title":  "2025 数证杯 决赛 个人赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1304,7 +1304,7 @@
                      "chars":  7447
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-数证杯-决赛团队赛.md",
+                     "path":  "02-WriteUp/2025/2025-数证杯-决赛团队赛/2025-数证杯-决赛团队赛.md",
                      "title":  "2025 数证杯 决赛 团队赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1332,7 +1332,7 @@
                      "chars":  13823
                  },
                  {
-                     "path":  "02-WriteUp/2025/2025-獬豸杯.md",
+                     "path":  "02-WriteUp/2025/2025-獬豸杯/2025-獬豸杯.md",
                      "title":  "2025 第二届獬豸杯 电子数据取证竞赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1360,7 +1360,7 @@
                      "chars":  14081
                  },
                  {
-                     "path":  "02-WriteUp/2026/2026-广西职业技能大赛-初赛.md",
+                     "path":  "02-WriteUp/2026/2026-广西职业技能大赛-初赛/2026-广西职业技能大赛-初赛.md",
                      "title":  "2026 广西职业技能大赛 初赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1389,7 +1389,7 @@
                      "chars":  44822
                  },
                  {
-                     "path":  "02-WriteUp/2026/2026-广西职业技能大赛-决赛个人赛.md",
+                     "path":  "02-WriteUp/2026/2026-广西职业技能大赛-决赛个人赛/2026-广西职业技能大赛-决赛个人赛.md",
                      "title":  "2026 广西职业技能大赛 决赛个人赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1419,7 +1419,7 @@
                      "chars":  66401
                  },
                  {
-                     "path":  "02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛.md",
+                     "path":  "02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/2026-广西职业技能大赛-决赛团队赛.md",
                      "title":  "2026 广西职业技能大赛 决赛团队赛",
                      "type":  "writeup",
                      "category":  "",
@@ -1449,7 +1449,7 @@
                      "chars":  61926
                  },
                  {
-                     "path":  "02-WriteUp/2026/2026-南宁-初赛.md",
+                     "path":  "02-WriteUp/2026/2026-南宁-初赛/2026-南宁-初赛.md",
                      "title":  "2026 南宁 初赛（南宁_农宏洋_220011）",
                      "type":  "writeup",
                      "category":  "",
@@ -1477,7 +1477,7 @@
                      "chars":  7644
                  },
                  {
-                     "path":  "02-WriteUp/2026/2026-南宁-团队赛.md",
+                     "path":  "02-WriteUp/2026/2026-南宁-团队赛/2026-南宁-团队赛.md",
                      "title":  "2026 南宁 决赛团体赛（南宁一队）",
                      "type":  "writeup",
                      "category":  "",
