@@ -1,0 +1,58 @@
+# OCR: 6ed02718851fbc5abdc539ad9b4bfb8f.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/6ed02718851fbc5abdc539ad9b4bfb8f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+RMainActivity
+package.com.hl.easyapk;
+android.os.Bundlej
+import importa
+android.view.View;
+android.widget,Button;
+import import
+android.widget.EditText;
+import
+android.widget,Toast;
+inport
+androidx.appcompat.app.AppCompatActivity;
+2e 21 22 352308 3e 31 5 36 37
+38 39 48
+43 45
+/Loaded from:classes3.dex/
+public class MainActivity extends AppCompatActivity
+public String bl; public Button btn; public String key
+public EditText keyText;
+/JADxINFO:Access modifters changedfrom:protected +/ goverride//androidx.fragment.app.Fragmentactivity,
+androidx,activtty.ComponentActivity,androidx.cone.app.ComponentActivity,android.app.Activity
+public void onCreate(Bundle savedInstanceState)(
+super.onCreate(savedInstanceState);
+setContentview(R.layout.activity_main);
+this.keyText-(EditText)findViewById(R.id.key_text); this.btn
+(Button)findViewById(R.id.btn);
+new cache().getCacheD(this);
+final
+Stringstri final String str2
+-new extCache()-getExtCacheD(this);
+final String str3
+-newfiles().getFilesD(this);
+final String str4
+-new extFiles()-getExtFilesD(this);
+final String str5 -new prefs(this).read():
+this.btn.setOnClickListener(new View.OnClickListener()f//fromcLasst com.ht.easyapk.AlainActivity.l
+Boverride//android.vien.View.Onctickiistener public void onClick(View view)f
+StringBuilder sb-new Stringluilder();
+sb.append("HL("); new sha();
+sb.append(sha.encrypt(str1 +str2+str3+str4 +str5).toLowercase(); sb.append("");
+String result-sb.tostring():
+MainActivity mainActivity =Mainactivity.this;
+mainActivity.key-mainActivity.keyText.getText().tostring(); if (MainActivity.this.key.length() I=40)(
+Toast.makeText(MainActivity.this，“管系错误，维续势力！，).show(）
+((result.substring(e,11)+""+result.substring(11,15)+ if
+Toast.makeText(MainActivity.this，“菩累正瑞！"，1).show()
++result.substring(15,19)
++.
+Jelsef
+Toast.makeText(MainActivity.this，"菩累错读，维续驾力，1).show() 3
+争
++result.substring(19,23).+"
++result.substring(23, 36)).equals(MainActivity.this.key))

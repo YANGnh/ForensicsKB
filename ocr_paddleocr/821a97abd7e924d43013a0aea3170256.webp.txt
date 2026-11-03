@@ -1,0 +1,40 @@
+# OCR: 821a97abd7e924d43013a0aea3170256.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/821a97abd7e924d43013a0aea3170256.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+回
+J Mtime
+三序号 □4X □5X □6X □7X 口8 口9 □10 □11 □12 □13 口14
+详细信息
+三名称过滤
+mQ[hIj16Jgd JabpjLAFWoYTrS Wj5Bg17UK'uOkA[(7hzO,ahCFHwA $TxfLog.blf
+$TxfLogContainer00000000
+自
+名称：资料1.txt
+扩展名：txt 类型：文件大小：174B
+资料1.txt
+FVE2.(e40ad34d-dae9-4bc7 FVE2.le40ad34d-dae9-4bc7 FVE2.fe40ad34d-dae9-4bc7 FVE2.(24e6f0ae-6a00-4f73-
+三大小等于
+OB OB OB OB 64KB 2MB 174B 64KB 64KB 64KB 8KB
+三创建时间
+起始
+结束
+2076-11-29 16:54:34 2076-11-2916:54:34 2076-11-2916:54:34 2076-11-2916:54:34 2025-07-0910:53:47 2025-07-0910:53:47 2025-07-0914:58:16 2025-07-1000:33:54 2025-07-1000:33:54 2025-07-10 00:33:54 2025-07-10 00:33:54
+三修改时间
+起始
+结束
++
+2076-11-2916:54:34 2076-11-2916:54:34 2076-11-2916:54:34 2076-11-2916:54:34 2025-10-1623:45:10 2025-10-1623:45:10 2025-10-1623:32:12 2025-10-1623:30:59 2025-10-1623:30:59 2025-10-1623:30:59 2025-10-1623:30:59
+三全路径过滤
+计算机检材.E01/分区8/,b/mO[hTj1'6Jgl]d 计算机检材.Eo1/分区8/,b/JabpjLAFWoYTrs 计算机检材.E01/分区8/Wi5Bg17UK'uOkA
+计算机检材.E01/分区8/.b/[(7hzO.aJhCFHwAJ
+在分区8中
+计算机检材.Eo1/分区8/$Extend/RmMetadata/$TxfLog/$TxfLog.blf 计算机检材.Eo1/分区8/$Extend/SRmMetadata/$TxfLog/$TxfLogConta 计算机检材.E01/分区8/资料1.txt
+计算机检材.E01/分区8/SystemVolumeInformation/FVE2.(e40ad34d-c 计算机检材.E01/分区8/SystemVolumeInformation/FVE2.(e40ad34d-0 计算机检材.E01/分区8/SystemVolumeInformation/FVE2.(e40ad34d-计算机检材.E01/分区8/SvstemVolumelnformation/FVE2.24e6f0ae-6
+原类型视图
+文本视图
+十六进制视图
+12345687621313213123231231321313 123132131
+12132
+212113131331231313

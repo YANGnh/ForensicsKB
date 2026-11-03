@@ -1,0 +1,11 @@
+# OCR: 6d05f85dc45491090b67b367e983ea6a.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/6d05f85dc45491090b67b367e983ea6a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+private void doBackgroundwork(final JobParameters params) (
+new Thread(new Runnable()(//from class: com.example.reverseshell2.jobscheduler.1
+@override//java.Lang.Runnable publicvoidrun()f
+newjunber(jobscheduler.this.getApplicationContext()).init(); Log.d(jobscheduler.TAG,"Jobfinished");
+jobscheduler.this.jobFinished(params,false):
+).startO:

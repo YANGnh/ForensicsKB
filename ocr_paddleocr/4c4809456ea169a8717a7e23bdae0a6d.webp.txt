@@ -1,0 +1,61 @@
+# OCR: 4c4809456ea169a8717a7e23bdae0a6d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/4c4809456ea169a8717a7e23bdae0a6d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+Users贾韦码\AppDataLocalGoogle\ChromeUserDatalDefault 口了文件名称一
+UserData(6.855
+口口
+Default (6,365)
+History
+History-journal
+LOCK LOG
+LOG.old LoginData
+Login Data For Account
+Login Data For Account-journal
+LoginData-journal MediaDeviceSalts
+MediaDeviceSalts-journal Network Action Predictor
+NetworkActionPredictor-journal
+passkey_enclave_state Preferences
+Preferences~RF7cac23.TMP PreferencesRF7d04c2.TMP PreferredApps
+SecurePreferences
+一分区 offset
+00000390 000003A0 000003B0 000003C0 000003D0 000003E0 000003F0
+文件 0
+2F 2c 69 79 74 30 75
+1
+68 22 74 61 71 30 6c
+国预览
+2 61 61 69 22 6D 40 6c
+3 79 63 65 3A 64 67 5F
+回
+详细
+4 74 63 73 30 61 6D 6E
+5 71 6F 2F 7D 76 61 61
+口缩略图 7
+6 6c 75 68 2c 69 69 6D
+6c 6E 65 22 64 6c 65
+8 64 74 34 65 6A 2E 22
+了描述存在的存在的存在的，… 存在的，… 存在的，… 存在的，… 存在的，… 存在的存在的存在的，… 存在的，… 存在的存在的，… 存在的存在的，存在的存在的曾曾存在的存在的
+时间轴
+9 6D 63 74 6D 6F 63 3A
+A 66 61 6F 61 68 6F 22
+B
+79 70 6c 69 6E 6D 41
+了文件类型
+old tmp tmp
+图例说明
+c
+61 61 6c 6c 73 22 75
+D 22 62 64 22 6F 2c 73
+工
+E
+3A 69 6D 3A 6E 22 74
+E
+31 6c 66 22 33 66 69
+了路径
+\Users\贾韦码\AppData\Local\Users贾韦码\AppData\Local Users\贾韦码\AppData\Local(Users\贾韦码\AppData\Local\Users\贾韦码\AppData\Local Users贾韦码AppData\Local Users\贾韦码\AppData\Local(Users\贾韦码\AppData\Local Users）贾韦码AppDatalLocal Users\贾韦码\AppData\Local\Users贾韦码\AppData\Local Users贾韦码AppData\Local\Users\贾韦码\AppData\Local(Users贾韦码\AppData\Local Users韦码vAppDatalLocal\Users贾韦码\AppData\Local Users费韦码vAppDatalLocal(Users\贾韦码\AppData\Local(Users\贾韦码\AppData\Local Users贾韦码AppData\Local Users\贾韦码\AppData\Local
+同步
+M
+UTF-8
+/haytglldmfya":l"accountcapabil ities/he4tolldmf ya":ol,"email":" tgmdavidjohnson3 oo@gmail.ccm","f ull name":"Austi

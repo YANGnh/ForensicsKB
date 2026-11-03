@@ -1,0 +1,26 @@
+# OCR: d04cf6baf777e68f3ce9011e0e6d1f05.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/d04cf6baf777e68f3ce9011e0e6d1f05.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+eb 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
++
+E
+Cryptoconfig）
+/*renamedfrom:C,reason:collisionwithrootpackagename* publicfinalFixedSecureRandom f2054c;
+/*renamedfrom:d,reason:collisionwithrootpackagename* pub1icbyte[]f2055d;
+/* renamed from:e,reason:collision withrootpackagename * publicbooleanf2056e;
+publicb(Contextcontext,CryptoConfigconfig）{
+StringprefName=a(config);
+this.f2o53b=context.getsharedPreferences(prefName,o):
+this.f2054c = new FixedSecureRandom(); this.f2052a = config;
+publicstaticStringa(CryptoConfigconfig)(
+if（config==CryptoConfig.KEY_128){
+return"crypto";
+return"crypto."+ String.valueof(config);
+@override//b.f.b.g.a
+publicsynchronizedbyte[]b(throwsKeyChainException
+if（!this.f2056e）{
+this.f2055d=b("cipher_key",this.f2052a.keyLength); this.f2056e = true;
+returnthis.f2055d
+公众号·小谢取证

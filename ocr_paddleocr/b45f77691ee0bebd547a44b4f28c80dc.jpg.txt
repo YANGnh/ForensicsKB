@@ -1,0 +1,15 @@
+# OCR: b45f77691ee0bebd547a44b4f28c80dc.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/b45f77691ee0bebd547a44b4f28c80dc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+终端×
+droid@node1-S droiddnodel-S data
+snap
+sudo
+chmod
+LS
+Troot
+droiddnode1:$
+root
+-R777

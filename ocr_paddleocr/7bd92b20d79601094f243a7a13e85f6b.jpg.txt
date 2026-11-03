@@ -1,0 +1,37 @@
+# OCR: 7bd92b20d79601094f243a7a13e85f6b.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/7bd92b20d79601094f243a7a13e85f6b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+<tr><td class=
+<tr><tdclass-e">auto_prepend
+"v">i>novalue</i></td></tr>
+><i>novalue</i></td><tdclass=
+fiie</td><tdciasse
+<tr><tdclass-"e">browscap</td><tdclass-"v"><i>novalue</i></td><tdclass-"v"><i>novalue</i></td></tr> <tr><tdclass-"e">defaultcharset</td><tdclass-"v">UTF-8</td><tdclass="v">UTF-8</td></tr>
+<tr><tdclass="e">defaultmimetype</td><tdclass="v">text/html</td><tdclass="v">text/html</td></tr>
+">disableclasses</td><tdclass="y"><i>novalue</i>×</td><tdclass="v"><i>novalue</i></td></tr>
+<tr><td class="e
+<tr><tdclass-"e">disablefunctions</td><tdclass-"v">system&nbspjpassthru,&nbsp;exec,&nbspjshell_exec,&nbspipopen,&nbspjescapeshellarg,&nbspjescapeshellcmd,&nbspiproc_close,&nbsp;proc_open,&nbsp;dl</td><td.class="v">system,&nbsppassthru,&nbsp;exec&nbsp;shell_exec,&nbsp;popen,&nbsp;escapeshellarg,&nbsp;escapeshellcmd,&nbsp;proc_close,&nbsp;proc open,&nbsp;dl</td×/tr>
+<tr><tdclass="e">display_errors</td><tdclass-"v">on</td><tdclass="v">On</td></tr>
+<tr><tdclass-"e">display_startup_errors</td><td class-"v">On</td><td class="v">On</td></tr>
+<tr><tdclass-"e">docroot</td><tdclass-"v"><i>novalue</i></td><tdclass-"v"><i>novalue</i></td></tr> <tr><tdclass="e">docrefext</td><tdclass-"v"><i>novalue</i></td><tdclass-"v"><i>novalue</i></td></tr> <tr><tdclass="e">docref_root</td><tdclass="v"><i>novalue</i>×</td><tdclass="v"><i>novalue</i></td></tr> <tr><tdclass="e">enabledl</td><tdclass="y">0ff</td><tdclass="v">0ff</td></tr>
+<tr><tdclass-"e">enablepostdatareading</td><td class-"v">On</td><td class-"y">On</td></tr>
+<tr><tdclass-"e">errorappendstring</td><tdclass-"v"><i>novalue</i></td><tdclass-"y"><i>novalue</i></td></tr> <tr><tdclass="e">error_log</td><tdclass="v">i>novalue</i×/td><tdclass="v"><i>novalue</i></td></tr>
+<tr><tdclass="e">error_prepend_string</td><tdclass="v"×<i>novalue</i></td><tdclass="v"><i>novalue</i></td></tr> <tr><tdclass="e">errorreporting</td><tdclass="v">32767</td><tdclass-"v">32767</td></tr>
+<tr><tdclass-"e">exit_on_timeout</td><tdclass-"v">0ff</td><tdclass-"v">0ff</td></tr> <tr><tdclass="e">exposephp</td><tdclass="v">On</td><tdclass="v">On</td></tr>
+<tr><tdclass="e">extension_dir</td><tdclass="v">C:lphpStudy\PHPTutorial\php\php-5.6.27-nts\ext</td><tdclass="v">C:\phpStudy/PHPTutorial\php\php-5.6.27-ntslext</td></tr> <tr><tdclass="e">file_uploads</td><tdclass-"v">On</td><tdclass="v">On</td></tr>
+<tr><tdclass-"e">highlight.comment</td><tdclass-"v"><fontstyle-"color:#FF8eee">#FF8eee</font></td><tdclass-"v"><fontstyle-"color:#FF8eee">#FF8eee</font></td></tr> <tr><tdclass-"e">highlight.default</td><tdclass-"v"><fontstyle-"color:#eeeeBB">#eeeeBB</font></td><tdclass-"v"><fontstyle-"color:#eoeeBB">#eeeeBB</font></td></tr> <tr><tdclass="e">highlight.html</td><tdclass="v"><fontstyle="color:#oeoeee">#eeeeee</font></td><tdclass="v"><fontstyle="color:#oeoeee">#eeeeee</font></td></tr> <tr><tdclass=e">highlight.keyword</td><td.class="v"><fontstyle="color:#ee77ee">#oe77ee</font></td><tdclass="v"><fontstyle="color:#ee77ee">#ee77ee</font></td></tr>
+分组2018,1喜户特分组，1服务赔分组1tum(sl点击进率，
+整个对话（88kB)
+查找：disablefunctions
+Showdataas
+ASCH
+漾掉此流
+打印
+另存为
+返回
+关闭
+流66
+查找下一个(N）
+帮助

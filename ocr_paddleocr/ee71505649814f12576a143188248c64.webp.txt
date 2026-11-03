@@ -1,0 +1,69 @@
+# OCR: ee71505649814f12576a143188248c64.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/ee71505649814f12576a143188248c64.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+司
+cipher-core.js X
+enc-base64.js
+s
+862
+863 864 865 866 867 868 869 870 871 872 873 874 875 876 877 878 879 880 881
+882 883 884 885 886 887 888 889 890
+);
+@example
+encryption.ts
+core.js
+evpkdf.js
+lib-typedarrays.js
+md5.js
+global.js
+module.js
+var plaintext = CryptoJS.lib.PasswordBasedCipher.decrypt(CryptoJS.algo.AES,
+formattedciphertext,
+var plaintext = CryptoJS.1ib.PasswordBasedCipher.decypt(CryptoJS.algo.AES, ciphertextPaIams,
+>>
+团
+'password'.
+ffo
+"password'
+forma
+decrypt:function(cipher,ciphertext,password, cfg)(cipher =(keysize:8,_doReset:f,encryptBlock:f,decryptBloo
+// Apply config defaults
+cfg = this.cfg.extend(cfg);cfg = (ssuper:(..),iv:(..),init:f)
+ConvetstringtoCipherParams
+ciphertext = this._parse(ciphertext,cfg.format);ciphertext = (ssuper: (..), ciphertext: (...), salt: (-.),init:f),// Derive key and other paiams
+derivedParams =($st
+var derivedParams = cfg.kdf.execute(password.cipher,kevsize,cipher.ivsize.ciphertext,salt):// Add IV to config
+cfg.iv = derivedParams.iv;// Decrypt
+cfg = (ssuper: (..), iv:(...),init:f),derivedParams = (ssuper:(..),key: (),iv: (--),
+var plaintext = Serializablecipher.decrypt.Dcall(this,ciphel,ciphertext,derivedParams.key,Dcfg) returnplaintext:
+<Line882,Column57
+(From popup-js)
+Coverage:n/a
++
+ cipher:
+>ssuper:(cfg:(.),blocksize:4,reset:f_doProcessBlock:f._doFinalize:f,
+>decryptBlock:f(t,e) encryptBlock:f(t,e)
+init:f() keysize: 8
+_docryptBlock:f(t,e,,n,i,o,s,a)_doReset: f ()
+>[[Prototype]]:Object
+ciphertext: (ssuper: (...),ciphertext: (..),salt: (...), init:f)- derivedParams:
+($super: (),init: f, tostring: f)
+ ssuper:
+init: wiv
+ssuper: (init: f,tostring:f,concat:f.clamp: f,clone: f,...)
+init:f () siqBytes:16
+>words:(4）[355300631，1773422441，1070554565，-909582375]
+llPrototypejj:object key:
+>ssuper: (init: f, tostring: f, concat: f, clamp: f, clone: f, ...)
+init:f () sigBytes:32
+>words：（12[-276853052，-1081406501，-1850561799，1402755813，-1734454154 >『[Prototvpell:Obiect
+vsalt
+ssuper: (init: f,tostring: f, concat: f, clamp: f, clone: f,..)
+init:f() sigBytes:8
+words:（2)[326095360 >[[Prototype]]:Object >[[Prototype]]: Object
+"123456"
+password:
+-2473676031
+X

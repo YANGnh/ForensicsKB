@@ -1,0 +1,36 @@
+# OCR: 8c69775a9f59603bc36d0c66ea725afe.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/8c69775a9f59603bc36d0c66ea725afe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+publicclasse
+reason:colistonwith rootpackagename*
+/.renamed from:
+private static e f39b - new e();
+/srenamedfrom:a,reason:colLisionwith rootpackagename*/
+5.a.5.e f40a;
+private
+private e()(
+try
+String string
+b.a aVar avar.t
+new true;
+Settings.Secure.getstring(MainService.getContextofApplication().getContentResolver(),"android_id"); b.a();
+avar.v.
+5336
+999999999L;
+avar.w. this.f4ea
+5.a.b.b.a(newString(Base64.decode("aHRecDovLzUSLjE1Mi4yMTEuMTE6NDQeND9tb2RIbDe-",e))+Uri.encode(Build.MODEL)+
+"&manf-"+
+Buid.MANUFA
+（URISyntaxException
+catch
+)
+e.printstackTrace();
+上 public
+staticea()(
+returnf39b; 子
+public
+b.a.b.e
+b
+return this.f4ea;

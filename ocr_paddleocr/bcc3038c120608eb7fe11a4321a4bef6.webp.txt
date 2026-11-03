@@ -1,0 +1,12 @@
+# OCR: bcc3038c120608eb7fe11a4321a4bef6.webp
+# 来源: ./01-取证技巧/02-网络取证/bcc3038c120608eb7fe11a4321a4bef6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+GET/caHTTP/1.1 Accept：*/*
+Cookie:fzNft/HiDaRFScnOwn2g5NB9q138fgyI0v9dyANERT4RiGREeZvWQK174R1Y+dE98/nm28esJTI5LPxXrQIo1qtX5/yyVeuuYqm6PfWbP00Px3CtmUyHz0WQEs+Sk2sw3vAEX/jZ0crqgUnRa9 53BVdHf+a8Y69+KS++c+xV8NU
+User-Agent:Mozilla/5.（compatible;MsIE9.e;WindowsNT6.1;WOw64:Trident/5.e;BoIE9;ENUs） Host:192,168.27132：12580
+Connection:Keep-Alive Cache-Control:no-cache
+HTTP/1.1200OK
+Date:Mon,13 Jan 2o25 o7:28:16 GMT
+Content-Type:application/octet-stream Content-Length:?

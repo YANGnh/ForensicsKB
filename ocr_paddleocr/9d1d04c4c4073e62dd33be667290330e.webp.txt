@@ -1,0 +1,21 @@
+# OCR: 9d1d04c4c4073e62dd33be667290330e.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/9d1d04c4c4073e62dd33be667290330e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+小谢取证-2025数证杯初赛
+1 2 3 4 5
+信息
+SELECTCOUNT（*）
+FRoMttradebetrecordb
+lott
+JoINtlotteryjndj oNb.Issue=j.Issue WHEREb.Keeper=188'
+ANDb.LotteryType='jnd28':
+摘要
+COUNT(*)
+结果1
+92842
+剖析
+状态
+运行、停止解释
+公众号。小谢取证

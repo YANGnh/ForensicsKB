@@ -1,0 +1,18 @@
+# OCR: a51f29afa2e2773c8d304c35cee5c293.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/a51f29afa2e2773c8d304c35cee5c293.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+终端×
+[root@localhostreports#cdhttp192.168.11.89 Troot@localhosthttp192.168.11.891#ls
+24-05-2106-59-55.txtmanage24-05-2107-05-15.txt
+[root@localhosthttp_192.168.11.89]#cat*.txt1grep200 200
+http=//192.168.11.89/1.txt
+1B
+200 200 200 200
+4KB
+http://192.168.11.89/favicon.ico
+24B 121KB 108KB
+http://192.168.11.89/robots.txt http://192.168.11.89/web/
+http://192.168.11.89/manage/www.zip
+[root@localhosthttp_192.168.11.89]#

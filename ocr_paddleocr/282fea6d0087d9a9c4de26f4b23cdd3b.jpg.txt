@@ -1,0 +1,26 @@
+# OCR: 282fea6d0087d9a9c4de26f4b23cdd3b.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/282fea6d0087d9a9c4de26f4b23cdd3b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141
+nc-lvp22222 nc-lvp10000 su
+root
+nmap222.2.2.*
+-5n-PE222.2.2.0/24
+nmap ls
+cd Downloads
+java-jarThinkphpGUI-1.3-SNAPSHOT.jar CD
+Downloads cd
+Downloads ls
+dunzipgoon2Lin.zip
+cd ls
+ping222.2.2.180 ls
+goon2lin
+cd ls
+-/goon2_lin chmod 777
+goon2lin
+:/goon2.lin
+./goon2lin-ip222.2.2.*
+cdAntSword-1oader-v40.3-1inux-x64./AntSword
+kali@kali)-[~/Desktop

@@ -1,0 +1,58 @@
+# OCR: c9ed281a7d3032c26177a47a46ea3bf1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/c9ed281a7d3032c26177a47a46ea3bf1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+App
+Common
+Index Runtime
+Cache Data Logs
+Index
+2108_04.log 图25_04_16.log
+18068 18061 18062 18063 18064 18065 18066 18067 18068 18069 18070 18071 18072 18073 18074 18075 18076 18077 18078 18079
+RunBehaviorShowPageTraceBehavion
+NFO:
+untime:
+INFO:［app_end]--END--[RunTime:0.000093s]
+2021-08-04T13:12:18+05:30
+INFO:
+INFO: INFO: INFO: INFO: INFO: INFO: INFO: INFO: INFO: INFO:
+SOL:
+app init 1--START.
+10.168.1.106
+RunBehavior BuildLiteBehavior
+app init1
+--FND-.
+appbegin1
+--START
+/www9nwcc/login.html
+RunTime:0.000006s
+RunTime:0.000086s
+RunBehaviorlReadHtmlCacheBehaviorrRunTime:o.eaoo77s1 RunBehaviorCheckLangBehaviorRunTime:e.oeo624s
+appbegin view parse
+--END----5TART-
+template filter
+RunTime:0.000734s
+--START-
+Run Behavior/ContentReplaceBehavior[ RunTime:0.000046s
+template
+fiter
+--END--
+RunTime:0.000099s
+SHOW COLUMNSFROM"info
+FRunTime:0.0012s
+RunTime:0.0004s
+SOL:SELFCT
+*FROM
+info'
+ORDERBY id aScLIMIT1
+RunBehaviorParseTemplateBehavior
+RunTime:0.009664s
+INFO:
+INFO： TNFO:
+view_parsej
+--END--
+fiiter
+iew
+[RunTime:0.009693s
+TART

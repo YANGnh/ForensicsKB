@@ -1,0 +1,11 @@
+# OCR: cea5428e1810b75689581e58149de572.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/cea5428e1810b75689581e58149de572.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+root@ql-n117-45.117.10.203in/data/mysql/data[21:16:22]#
+cdlok1 S
+#root@ql-n117-45.117.10.203in/data/mysql/data/lok1[21:16:26]
+s
+Ls
+db.opt

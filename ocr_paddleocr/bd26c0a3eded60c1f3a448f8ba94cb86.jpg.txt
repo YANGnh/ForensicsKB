@@ -1,0 +1,33 @@
+# OCR: bd26c0a3eded60c1f3a448f8ba94cb86.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/bd26c0a3eded60c1f3a448f8ba94cb86.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+对象圖保存
+File@main（aHROcDovLzE5Mi4xNjgu..
+查道创建工具
+aHROcDovLzE5Mi4x
+1
+信息 id
+SELECT 摘要
+FROM 结果1
+活美化SQL
+（）代码段
+main
+"Post"
+hctctn8bnbd7meywjpmk3z9dhh
+Post@main(aHROcDovLzE5Mi4xNjg..
+文本导出结果咖创建图表运行国停止早品解释
+WHERE id IN (SELECT post id FROM File WHERE nameLIKE
+changed
+status created
+channel jid
+无标题-查询*%.mp4)
+create_at
+dpgyctmqif8imjunikk3iqi8h
+1713945630693
+delete_at
+0
+editat
+is_pinned 0
+message 0

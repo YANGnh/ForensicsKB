@@ -1,0 +1,17 @@
+# OCR: 7098d76eab42963abc6ab099e0aaeb2b.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/7098d76eab42963abc6ab099e0aaeb2b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+关于Xshell
+XSHELL7
+Xshell7 (Build o157)
+Copyright(c)2020NetSarangComputer,Inc.All rightsreserved 本产品使用权属于：
+LicenseStatus:NotValidated 模块信息：
+x
+Xshell.exe:7.0.0040,nssock2.dll:7.0.0040,nsssh3.dll:7.0.0040.,nsprofile2.dll:
+7.0.0040,nslicense.dll:7.0.0040,nsutil2.dll:7.0.0040,Xagent.exe:7.0.0040 Xshell is a registered trademark of NetSarang Computer, Inc.SSH is a
+registeredtrademark andSecureShell isatrademarkof SSHCommunications SecurityCorp.(www.ssh.com)Thisproductincludessoftwaredevelopedbythe OpenSSLProjectforuseintheOpenSSLToolkit.Acknowledgmentstothe
+following individuals forlanguagetranslations:MarcMorales (Francais),Alex Silva(Portugues),AndreyKolbasenko(Pyccki)
+https://www.xshell.com
+确定

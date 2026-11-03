@@ -1,0 +1,23 @@
+# OCR: 8850a09e8643df558a3c9eccee0bed8b.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/8850a09e8643df558a3c9eccee0bed8b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+鄂ajax.php
+★
+ajax.php
+admin>
+1 2 3 4 5 6
+8 9 18 11 12 13 14 15 16 17 18 19 20
+<?php
+include'../core/core.php';//小高教学网：www.1258esky.com//爱上收集网：www.issjw.com if($act=='login')
+$name=daddslashes(sPosT['name')??null; $pwd=daddslashes($_PosT['pwd'j)??null;
+if（$name==config（'name'）&&md5（$name.$pwd)==config（'pwd'）) $adminToken=md5($name.$pwd);
+setcookie("adminToken",$adminToken,time()+6e48ee,"/);
+exit(json_encode(['code'=>1，‘msg'=>登录成功'])); felset
+exit(json_encode(['code'=>,'msg'
+！
+：账号或密码错误）
+if（$_cooKIE['adminToken']!=md5（config（"name').config（pwd')))
+，msg=>您未登录"])）
+exit(jsonencode(['code'=),

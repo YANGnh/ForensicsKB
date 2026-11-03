@@ -1,0 +1,23 @@
+# OCR: 9a28088461950ac51a6b4fa02c76094d.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/9a28088461950ac51a6b4fa02c76094d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+[root@master ~]#kubectl get svc
+NAME
+kubernetes mysql
+php-nginx-service redis
+[root@master~]#
+TYPE
+clusterIp NodePort NodePort NodePort
+CLUSTER-IP 10.96.0.1
+10.107.57.176 10.111.46.39 10.111.219.73
+EXTERNAL-IP
+<none> <none> <none>
+<hone公众号
+PORT(S） 443/TCP
+3306:30627/TCP
+AGE 206d 45d
+80:31669/TCP
+45d
+637星367866R证45d

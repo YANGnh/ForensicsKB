@@ -1,0 +1,23 @@
+# OCR: 02884782a669a972cf4ef2797a13354a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/02884782a669a972cf4ef2797a13354a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+aHR0cDovLzE5Mi4x
+main
+D运行口停止星昌解释
+SELECT user id,message,create_at FROM "Post"WHERE channel id ='dpqyctmqif8imjunikk3iqi8hy"ORDER BY create at
+信息
+搞要
+userid
+结果1
+message
+irmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo enf863dp1ifi3ffos7bpduynny ekzparbt4tfdte61yoxy5mrty jrmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo enf863dp1ifi3ffos7bpduynny jrmi9kx8pfg9drc7b9dczh7neo enf863dp1ifi3ffos7bpduynny enf863dp1ifi3ffos7bpduynny ekzparbt4tfdte61yoxyy5mrty ekzparbt4tfdte61yoxyy5mrty enf863dp1ifi3ffos7bpduynny ekzparbt4tfdte61yoxyy5mrty
+但是ai很吃算力，要更新一下显卡才行我的电脑显卡一般，a算出来很慢
+这样啊，租的服务器不行？不然买一些显卡？
+云服务器搭建这个很麻烦而且很贵，不推荐使用
+@yiyan技术这块我也不懂，你和@maoxueliu沟通下，尽量搞性价比高的，等搞到钱再说，也不知道能不能搞成好的
+如果能搞成的适，大家都有钱赚，现在大环境不景气，不懂点技术，赚钱者都难@fujiya你看看之前的话术能不能调整下，等搞好资源，就可以开始干活了可以的
+校友同学的信息有了吗
+@yiyan你负责搞料，@fujiya你搞定话术。有问题及时同步行，保证完成任务
+create

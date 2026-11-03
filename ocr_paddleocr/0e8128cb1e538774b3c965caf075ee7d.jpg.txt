@@ -1,0 +1,21 @@
+# OCR: 0e8128cb1e538774b3c965caf075ee7d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/0e8128cb1e538774b3c965caf075ee7d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+对象高保存
+app.groupmember@ji-mei(2024F.. 宁查询创建工具美化SQL（）代码段
+2024FIC
+1 信息
+ji-mei
+★无标题-查询
+文本导出果咖创建图表运行、国停止星品解释
+SELECTinviter_id AS邀请人ID,COUNT(*）AS邀请人数FROMapP_group_memberGROUP BYinviter_id ORDERBY邀请人数DESC
+摘要
+邀请人ID
+55320342 46046123
+结果1
+析
+邀请人数
+247 97
+状态

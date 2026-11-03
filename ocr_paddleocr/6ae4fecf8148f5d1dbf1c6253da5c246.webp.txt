@@ -1,0 +1,32 @@
+# OCR: 6ae4fecf8148f5d1dbf1c6253da5c246.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/6ae4fecf8148f5d1dbf1c6253da5c246.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+[root@k8s-master~#kubectldescribenode
+Name： Roles: Labels：
+Annotations:
+k8s-master master
+beta.kubernetes.io/arch=amd64
+beta.kubernetes.io/os=linux kubernetes.io/arch=amd64
+kubernetes.io/hostname=k8s-master kubernetes.io/os=linux
+node-role.kubernetes.io/masters
+flannel.alpha.coreos.com/backend-data:{"vNI":1,"vtepMAc":"f2:03:0d:ab:13:b8"} flannel.alpha.coreos.com/backend-type:vxlan
+flannel.alpha.coreos.com/kube-subnet-manager:true flannel.alpha.coreos.com/public-ip:192.168.2.199
+kubeadm.alpha.kubernetes.io/cri-socket:/var/run/dockershim.sock node.alpha.kubernetes.io/ttl:0
+volumes.kubernetes.io/controller-managed-attach-detach:true
+CreationTimestamp:Mon.24Jun.202419:28:11+0800
+laints:
+Unschedulable： Lease:
+HolderIdentity:
+AcquireTime： RenewTime:
+Conditions:
+Type son
+node-roLe.kubernetes.io/master:NoSchedule false
+k8s-master <unset>
+Mon,24Feb202512:02:28+0800
+Status
+LastHeartbeatTime
+Message
+LastTransitionTime
+Rea

@@ -1,0 +1,26 @@
+# OCR: 143b8bf121b60b0759512ea8bf3c52d2.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/143b8bf121b60b0759512ea8bf3c52d2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+C:\ProgramFiles)Laixi\Scripts\自动上滑脚本js (SublimeText)-SublimeText
+文件(F)
+2 3 4 5 6
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+编辑(E)选择(S)查找(U)查看(V)转跳(G)工具(T)项目(P)设置(N)帮助(H)
+自动上滑脚本js"auto";
+consoLe.show();
+consoLe.Log("调整大小..."）; consoLe.setSize(100,100); sleep(1000):
+consoLe.Log("调整位置..."); consoLe.setPosition(o,200); sleep(1000);
+lidinaRCunver
+for(var i =1;i< 10000;i++)
+log("www.laixi.app"); log("
+log("Oviews:"+i)
+sleepTime=randomRangeTime（7.20）：//每个视频随机时间7-20srandomtime7-20s log("oTime："+sleepTime/1oee+"s");
+sleep(sleepTime);//slidingByLine(); slidingByCurve();
+log("exit..."); sleep(2000);
+consoLe.hide();/**
+从下往上滑动，
+随机坐标
+*
+function slidingByLine()

@@ -1,0 +1,26 @@
+# OCR: f909c5bd71627b2bf7aebab14724bc2e.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/f909c5bd71627b2bf7aebab14724bc2e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+Mnemonic Mnemonic Language
+BIP39Mnemonic BIP39Passphrase
+(optional) BIP39Seed
+coin
+BIP32RootKey
+MnemonicCodeConverter
+YoucanenteranexistingBiP39mnemonicorgenerateanewrandomone.Typingyourowntwelvewordswillprobablynotworkhowyouexpect,since
+thewordsrequireaparticularstructure(thelastwordisachecksum) FormoreinfoseetheBiP39spec
+Generatearandommnemonic,orenteryourownbelow.
+Showentropydetails Hideallprivateinfo
+English日本语Espafol中文（简体）中文（繁體）
+Generate
+Francais
+ltaliano
+stockavocadograbclaylightsadnesssegmentancienttoetalkelderoit
+15
+words
+号
+003999cdefdc2adefe8378b379ba9c6dd5c6848ea1d6e8c7a2318af3c5ea2bb7ab4c5e94c1e48ef1651fee6e04a1f3c57c7515053aa140d9115860948e 2a6a4d
+ETH-Ethereum
+xprv9s21ZrQH143K2fNitCvTfZJ58XxPKbQixNdyNGWdjyMWZzXUm2cxCRaTchXQTPf5gUHEAk3v672KcV6VJ1w5qYXzwUtRNZWUzgaZ7s7JHy

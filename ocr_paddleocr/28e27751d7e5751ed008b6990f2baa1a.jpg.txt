@@ -1,0 +1,24 @@
+# OCR: 28e27751d7e5751ed008b6990f2baa1a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/28e27751d7e5751ed008b6990f2baa1a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+图形视图
+表格视图
+个
+名称 1.txt
+/data/data/com.termux/files/home/kali-arm64/root/sqlmap
+路径
+data/data/com.termux/files/home/kali-arm64/root/sqlmap/1.txt
+预览8BB9A33350C0E5073B291C550EBA14B9.txt 1POST/Login/ValidateLoginHTTP/1.1
+2Host:112.124.62.187:8080 3Content-Length:29
+4Accept:application/json,text/javascript,*/*;q=o.e1 5X-Requested-with:XMLHttpRequest
+口
+x
+6User-Agent:Mozilla/5.e(windowsNT1e.e;win64;x64)ApplewebKit/537.36(KHTML,1ikeGecko)Chrome/112
+7Content-Type:application/x-www-form-urlencoded;charset=UTF-8 80rigin:http://112.124.62.187:8086
+9Referer:http://112.124.62.187:8080/Login/index
+1eAccept-Encoding:gzip,deflate 11Accept-Language:zh-cN,zh;q=e.9
+12Cookie:Hm1vt8ee3ec23e73c6dcda2c7c9c489c151aa=1711684076;Hm1pvt8ee3ec23e73c6dcda2c7c9c489c151aa=17
+13Cconnection:close 14
+15userName=admin&password=admin 16

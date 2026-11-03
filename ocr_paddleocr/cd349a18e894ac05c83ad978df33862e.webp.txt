@@ -1,0 +1,60 @@
+# OCR: cd349a18e894ac05c83ad978df33862e.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/cd349a18e894ac05c83ad978df33862e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+ibcrypto-utlis.so
+Users\Administrator/Desktop\libcrypto-utils.so
+dit Jump Search View Debugger Lumina Options Windows Help
+0
+braryfunction ctions
+onname
+AOmNodebugger
+Regular function
+operatordelete(void *).pthread_key.delete
+Instruction
+面 19 20 21 22
+AEs::Decrypt(char const*,char *,ulon...
+cxa_freedependent_exception
+AES::DefEncryptBlock(charconst*,cha.. AES::DecryptBlock(char const*,char *)
+base64_encode(ucharconst*,uint) operatordelete(void*)
+base64decode(std::stringconst&) Decrypt(std::stringconst&)
+AES::DefDecrvptBlock(charconst*.cha..
+cxa_allocate_dependent_exception cxa demangle
+AES::DefEncryptBlock(char const*,cha... AES::DefDecryptBlock(char const*,cha. AEs::DecryptBlock(charconst*,char*) AEs::Decrypt(char const*,char *,ulon...
+base64encode(ucharconst*.uint) base64decode(std::stringconst&） Decrypt(std::string const&)
+Java_com_casual_libcrypto_JniCaliNat...
+operator
+delete(void *)
+23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+Data
+Unexplored
+IDAView-A
+AES
+External symbol x
+GGIEE
+Lumina function
+Pseudocode-A
+a_;//[xsp+1eh][xbp-4ceh]】BYREF
+int64v18;//[xsp+488h][xbp-48h] V2=V1:
+区
+V18=*（_QWORD*）（_ReadStatusReg(TPIDR_ELo）+4o);
+base64decode(strSrc)： n = *(v15 - 3);
+in= operator new[](n + 1) memcpy(in,v15,n+1);
+s=（char*)operatornew[l(n+1):
+memcpy(_s,v15,n + 1); AES::AES(&a_);
+AES::MakeKey(&a AEs::Decrypt(&a v6 =(int)n-1;
+V7=n.
+s[n - i];
+if ( v7 <= v6
+v8 = (unsigned
+"e81wolan12dfw31f"
+Hex View-1
+"gfdertfghjkuyrtg，16,16);
+(const char*)in,s,n,);
+int8]s[n -1];
+while（（unsigned
+s[V6]
+int8
+v8
+日

@@ -1,0 +1,43 @@
+# OCR: 2a930d67d51176e8b23658b5e2f0781d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/2a930d67d51176e8b23658b5e2f0781d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+总览内国腾茶
+自定义排本
+详细倍息
+免过ROOT、模器格测
+O旧HE行
+过ROOT检测（非Frida模 S
+SQLite/Realm数据 S
+AES/DES/RSA等加解密 S
+给希计算
+JS
+JS
+SEM05SHAS62S6OE
+SharedPreferences
+祥
+StringBuffer
+S
+?
+静态权限
+SOLiteReolmt 给定进程
+第三方服务
+?
+网络数据包服示时间
+动态监控
+展示堆线信惠
+贵清歌
+源码分析
+导出教服
+案
+敏感信息
+Frida膜本停止运行 Q0/0个
+[2024-05-11:19:13:07] [android.database.sqlite] SQL: CREATETABLEIF NOT EXISTS app2 (app_id TEXT NOT NULL, first_open_count INTEGER N OTNULL,PRIMARYKEY (appid)
+[2024-05-1119:13:07][android.database.sqlite]SQL:ALTERTABLEapp2ADDCOLUMNpreviousinstallcountINTEGER E2024-05-1119:13:07][android.database
+sqlitelSQL:CREATETABLEIFNOTEXISTSmaineventparams(appidTEXTNOTNULLeventidTEX
+NOTNUULchifdrentoprocessINTEGERNOTNULL,maineventBLOBNOTNULLPRIMARYKEY(appid):
+[2024-05-11.19:13:07].[android.database.sglite]SQL:CREATETABLEIFNOTEXISTSdefaultevent_params(appidTEXTNOTNULLparameters BLOBNOTNULLPRIMARYKEY(aPpid))
+[2024-05-1119:13:19][net.sqlcipher]检测数文件:/storage/emulated/0/.privacy-safe/db/privacy.safe.db，:Rny48Ni8aPjyCnU][2024-05-11 19:13:19] [net.sqlcipher]SQt:selectcount( fromsqlite master;
+[2024-05-11 19:13:19] [net.sqicipher] SQL:PRAGMAuser version;[2024-05-1119:13:19][netsqlcipher]SQL:BEGINEXCLUSIVE
+[2024-05-1119:13:19][net.Sqicipher]SQL:CREATETABLE"BOOKMARKCidINTEGERPRIMARYKEYNAMETEXT'URLTEXT,ICON_URL"T EXT'ICON"BLOB

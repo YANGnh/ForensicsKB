@@ -1,0 +1,20 @@
+# OCR: d7bd735aac54430d10a0d5f639d7506f.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/d7bd735aac54430d10a0d5f639d7506f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+PwdEncryption登录密码加密
+@author@blog
+@version@datetime
+@param aparam@return
+function
+Devil
+http://gong.gg/ 0.0.1
+2016-12-03T21:58:54+0800
+需要加密的密码
+[string$pwd
+【string】$salt【配合密码加密的随机数】
+string]
+[加密后的密码】
+LoginPwdEncryption($pwd,$salt）
+returnmd5($salt.trim($pwd));

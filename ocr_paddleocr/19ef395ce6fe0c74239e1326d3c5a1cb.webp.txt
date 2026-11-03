@@ -1,0 +1,17 @@
+# OCR: 19ef395ce6fe0c74239e1326d3c5a1cb.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/19ef395ce6fe0c74239e1326d3c5a1cb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+@Component
+*
+Loadedfrom:cal-o.o.1-SNAPsHoT.jar:BooT-INF/cLasses/com/rh/cal/task/MobiLeStatusTask.cLa
+public class MobilestatusTask f
+private static final Logger log = LoggerFactorygetLogger((class<?>) MobilestatusTask.cl@Autowired
+private UserService userService;@scheduled(cron="e*
+publicvoidscheduled()
+1og：info（"热行定时任务”，
++Dateutil.formatTime(newDate()):
+try
+this.userService.uptInMobilestatus(): catch（Exceptione）
+log.error("定时任务执行失败：()"，（Throwable）e);

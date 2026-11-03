@@ -1,0 +1,49 @@
+# OCR: cef8ae68fd53804e037ba075f0e54255.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/cef8ae68fd53804e037ba075f0e54255.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+E:>decryptjpg.py
+1 2 3 4 5 6 7 8 9 18 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+importbase64 import
+binascii
+import import
+def
+05 re
+singlerounddecrypt(blob:bytes)->bytes:
+"Reverse1round:xoR exFF->b64decode->b64decode" xored=bytes(bexFFforbinblob)
+once=base64.b64decode(xored) returnbase64.b64decode(once)
+defdecrypt_jpg()
+#
+匹配形如
+xxx_en.jpgxxx_en_en.jpg.
+pat= re.compile(r'(.+?)(?:_en)+$',re.IGNORECASE)
+targets =[f for f in os.listdir()if f.lower().endswith(".jpg")and"_en"in f.lower()] ifnottargets:
+件。"
+print("床找到需要解密的
+*en.jpg
+return
+for enc file in targets:
+stem,ext=os.path.splitext(enc_file)
+m=pat.match(stem) if notm:
+不是我们要处理的命名规则 continue
+rounds=stem.lower().count("_en")
+outstem=m.group(i)+"dec out_file=outstem+ext
+with open(enc_file,"rb")as f:
+data = f.read() try:
+pic_en_en.jpg->rounds=2
+例如
+forinrange(rounds):#
+data =singleround decrypt(data)
+except binascii.Error as e:
+print(f"[!]{enc_file} Base64 continue
+with open(out file,"wb")as f:
+f.write(data)
+解码失败：
+[e")
+解密完成（（(rounds))：enc_file}->【out_file}"）
+print(f"
+i计
+name
+decrypt_jpg()
+main

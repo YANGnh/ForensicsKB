@@ -1,0 +1,25 @@
+# OCR: f18726edb274ef4508cf90bae48816a6.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/f18726edb274ef4508cf90bae48816a6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+2024FIC-编辑连接（MySQL √默认
++新建连接配置文件
+测试连接
+常规连接名：主机：端口：用户名：密码：
+高级
+数据库
+SSL
+SSH
+Navicat
+2024FIC
+HTTP
+192.168.8.142
+3306 root
+9.
+连接成功
+确定
+数据库
+确定
+取消
+X

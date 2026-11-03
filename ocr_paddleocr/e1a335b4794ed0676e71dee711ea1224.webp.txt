@@ -1,0 +1,17 @@
+# OCR: e1a335b4794ed0676e71dee711ea1224.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/e1a335b4794ed0676e71dee711ea1224.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+int_fastcallmain(intargc,const char**argv,constchar**envp)
+int64v3;//x0
+unsignedintv4//wo
+intv7;//[xsp+10h][xbp-120h] intv8//［xsp+14h]［xbp-11ch]
+int64v9//［xsp+18h】［xbp-118h］BYREF int64v10；//［xsp+20h]「xbp-110h]
+BYTEv11[256];//［xSp+28h]［xbp-108h]BYREF
+if（argc<=1 //!(unsigned int)strcmp(argv[1l,"server")) starthttp_server();
+if（!(unsignedint)strcmp(argv[1],"decrypt")) v3=puts(&unk69CE20);
+print_serialNo(v3); puts(&unk_69D160);
+fgets(v11,256LL,stdin);
+v11[strcspn(v11,&unk69D198)1=0:
+if（vii[o]） V9 = OLL;

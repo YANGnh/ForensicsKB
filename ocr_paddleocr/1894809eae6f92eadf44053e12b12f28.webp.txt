@@ -1,0 +1,38 @@
+# OCR: 1894809eae6f92eadf44053e12b12f28.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/1894809eae6f92eadf44053e12b12f28.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+Wireshark·追踪HTTP流(tcp.streameq184)·流量包.pcap
+口
+o"："udp","target"："AccEPT"},"cfgOe92bd"：f".anonymous"：true.".type"："rule",".name"："cfgOe92bd",".index"：13,"name"："wEB","src"："wan”,"src_port":"8o","target":"AccEpT","direction":"in","device"："wgo"},"docker"{".anonymous"false,".type";"zone",".name":"docker",.index"：14,"input":"ACCEPT","output""ACCEPT","forward":"ACCEPT","name"："docker","network":["docker"J)}}J],{"jsonrpc"："2.o","id":2 8,"result":[0,{"data"："710\n"{]}("jsonrpc":"2.0","id":29,"result":[0,{"data"："30720\n""]},("jsonrpc"："2.0""id"：30,"result"：[0,{" onlineusers"：4]]],{"jsonrpc"；"2.0","id"：31,"result":[0,{"dhcp_leases":[{"expires":43096,"macaddr"："8E:39:BD:31:2E:1D","duid"："018e 39bd312e1d","ipaddr"："192.168.1.208"},{"expires"：30281"hostname"："DESKT0p-F5F04Us","macaddr"："00:91:9E:47:C6:D8"，"duid"："0100919e 47c6d8""ipaddr"："192.168.1.138"1,f"expires":43171,"hostname":"kali","macaddr":"98:6E:E8:25:F9:34"，"duid":"01986ee825f934","ipaddr"："192.168.1.244"}{"expires":17985,"hostname":"DESKT0P-R75AHC2","macaddr"："D4:5D:64:B8:66:17"，"duid"："01d45d64b86617","ipaddr"："1 92.168.1.184"}l,"dhcp6leases":[l1,f"jsonrpc":"2.0","id":32,"result":[0,f"values":{"cfg01411c":f".anonymous":true,".type":"dnsma sq",".name""cfg0141lc",".index":o,"domainneeded":"i","localise_queries"："i","rebindprotection"："1"
+,"rebind_localhost":"1","local
+":"/lan/","domain"："lan","expandhosts":"1","min_cache_ttl":"3600","use_stale_cache"；"360o","cachesize"："800o","nonegcache":"1","au thoritative":"i","readethers":"i","leasefile":"/tmp/dhcp.leases","resolvfile":"/tmp/resolv.conf.d/resolv.conf.auto","localservice"
+:"1","dnsredirect":"1","ednspacketmax":"1232","lan":f".anonymous":false,".type":"dhcp",
+".name"："lan"
+".index":l,"interface"："la
+n","start":"100o","limit""15o","leasetime""12h","dhcpv4":"server","dhcpv6":"disabled","ra"："disabled","raslaac"；"1","ra_flags":["other-config"],"max_preferred_lifetime":"27oo","max_valid_lifetime":"54oo"},"wan":(".anonymous":false,".type""dhcp",".name":"wan",".index":2,"interface":"wan","ignore"："1"},"odhcpd":{".anonymous":false,".type":"odhcpd",".name"；"odhcpd",".index":3,"maindhcp":"o","leasefile":"/tmp/hosts/odhcpd","leasetrigger":"/usr/sbin/odhcpd-update","loglevel""4"}}}]},{"jsonrpc"："2.o","id"：33,"result"[0,{"access":true]]),f"jsonrpc":"2.o","id":34,"result"：[o,{"access"true)]},f"jsonrpc""2.0","id"35,"result"：[0,{"values"：{"radi oo":{".anonymous":false,".type":"wifi-device"
+".name"："radio0",".index":0"type"："mac80211""path""platform/soc/18000000.wifi","b
+,"channel""s""cell density":"o","defaultradioo":f".anonymous":false,".type""wifi-iface",".name":"default_radioo",".i
+and"："2g"
+ndex":1,"device"."radioo""network"."lan""mode"："ap","ssid"："laozhaowIFI","encryption";"psk+ccmp","key"："password111o"},
+"radio":
+".name"："radio1",".index":2,"type"："mac80211"，"path"："platform/soc/18000000.wifi+1","ban
+".anonymous":false,".type":"wifi-device"
+d":"5g","channel"："48","htmode":"HE4o","disabled":"o","cell_density"："o"},"default_radio1":{".anonymous":false,".type"："wifi-iface",".name":"default_radio1",".index":3,"device":"radio1","network"；"lan","mode":"ap","ssid"："laozhaowIFI_5G","encryption":"sae-mixe d","key"："passwordi11o","ocv"："o"}]}]
+P0ST/ubus/?1758619081447HTTP/1.1 Host:192.168.1.1
+分组56766,23客户端分组，10服务器分组，20turm(s）点击选择
+整个对话（48kB）查找：password1110
+显示为ASCII
+Nodelta times
+滤掉此流
+x A
+V
+流184
+区分大小写查找下一十个（N)
+公众号金星路406
+打印
+另存为
+返
+关闭
+帮助

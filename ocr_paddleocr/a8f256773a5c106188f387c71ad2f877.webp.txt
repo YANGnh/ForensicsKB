@@ -1,0 +1,29 @@
+# OCR: a8f256773a5c106188f387c71ad2f877.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/a8f256773a5c106188f387c71ad2f877.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+对象昆开始事务
+id《 1
+vm@main(vmos)-表自文本
+篇选排序
+vm_jd
+5 6
+uuid
+1d38fe59a3c4ee883 2a824fed37b89b122
+导入导出数据生成咖创建图表
+rom_info
+env_jinfo
+default_env_info
+property_info
+create_at
+'guestSystemVersi('androidid:52ae067768e0("androidid":5a163590b9ffb635""b('customBatteryLe2024-05-1703:35:46
+Xposed":true)
+("androidid":a358287fcd7f1("androidid":d6f4fe03b841ffa3'."bcf'customBatteryLe2024-05-2008:44:29
+update_at 2024-05-17 2024-05-2C
+>
+{"guestSystemVersion":"ANDRoID_7","halver":2,"hasGooglePlay":false,"hasRoot":false,"hasXposed":false,"isMultiInstance":true,"minEngineVersion":21l,"nsdk":true,"requiredEngineType":"YLINkER,"romVersion":1o399,"supportAbis":"arm,arm64","supportAccelerationSensorPenetrate":true,"supportAdb":true
+"supportAudioPenetrate":true,"supportAutoBootAppManager"：true,"supportBatteryPenetrate":true,"supportCameraPenetrate":true,"supportChangeNavigationBar":
+true,"supportclipboardPenetrate":true,"supportEdxposed":true,"supportFilesExchange":true,"supportFullupdate":true,"supportGooglePlay":true,"supportGpsPenetrate":true,"supportGravitySensorPenetrate":true,"supportGsmPenetrate":true,"supportGyroScopeSensorPenetrate";true,
+"supportHumiditySensorPenetrate":true,"supportLightSensorPenetrate":true,"supportLocationInfoPenetrate":true,"supportMagneticFieldSensorPenetrate":true"supportNetworkProxy":true,"supportNotificationPenetrate":true,"supportorientationSensorPenetrate":true,"supportPartUpdate":true,"supportPreloadedApp": true,"supportPressureSensorPenetrate":true,"supportProximitySensorPenetrate":true,"supportRoot":true,"supportSensorPenetrate":true,
+"supportStepCounterSensorPenetrate":true,"supportTemperatureSensorPenetrate":true,"supportVibratorPenetrate":true,"supportwifiPenetrate":true,"supportxposed":true)

@@ -1,0 +1,17 @@
+# OCR: 3c3547deb2ef1b2f549cedf6e8add343.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/3c3547deb2ef1b2f549cedf6e8add343.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+[root@mastero1 yum.repos.d]# kubectl get pods-n kube-system
+NAME
+coredns-7f6cbbb7b8-52797 coredns-7f6cbbb7b8-lfz79 etcd-mastero1
+kube-apiserver-mastero1
+kube-controller-manager-mastero1
+kube-flannel-ds-4zhy2 kube-flannel-ds-fztvh kube-flannel-ds-h46ss
+kube-proxy-hpg6k kube-proxy-m6llb kube-proxy-t2wgb
+kube-scheduler-mastero1
+READY 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1
+STATUS Running Running Running Running Running Running Running Running Running Running Running Running
+RESTARTS 1(8d ago) 1（8dago） 1（8dago）（8dago） 1(8dago)（8dago） L（8dago）(8dago)（8dago) L（8dago） 1(8dago) 1(8d ago)
+AGE 8d 8d 8d 8d 8d 8d 8d 8d 8d 8d 8d 8d

@@ -1,0 +1,13 @@
+# OCR: 5689d85dad5909604052cc86093cc6dc.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/5689d85dad5909604052cc86093cc6dc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+@Apioperation("后台登录"）
+public ResponseResult login(HttpServletRequest request,@RequestBody AdminLoginDTo dto)
+StringipAddr =Iputils.getIpAddr(request): log.info("调用IP："，ipAddr):
+this.blackListService.isBlackException(ipAddr,BlackTypeEnum.IP.getCode()): checkIp(ipAddr);
+SysUser sysUser=this.sysUserService.getByPhone(dto.getMobile()); Assertutil.notNull(sysUser，"账号不存在"）：
+String redisCode = this.stringRedisTemplate.opsForValue().get(RedisConstant.ADMIN PHONE coDE +
+Assertutil.isTrue(dto.getcode).equals(redisCode)，"验证码错误"); Stringtoken= getToken(sysUser.getId())
+this.stringRedisTemplate.opsForValue().set(RedisConstant.ADMIN_TOKEN_KEY +token, sysUser.getIo return ResponseResult.success(token):

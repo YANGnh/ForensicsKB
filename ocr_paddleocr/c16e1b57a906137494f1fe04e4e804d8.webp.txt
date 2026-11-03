@@ -1,0 +1,33 @@
+# OCR: c16e1b57a906137494f1fe04e4e804d8.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/c16e1b57a906137494f1fe04e4e804d8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+public void b(String str,String str2)(
+int indexof; inti=o:
+boolean z - falsej
+while(i<this.f388a.size(O))f
+a aVar = this.f388a.get(i):
+if(str.equalsIgnoreCase(aVar.f367a))
+if (z){
+this.f388a.remove(i): i-;
+lelse
+String str3 = aVar.f389b;
+(str3null/
+aVar.f389b= z = true;
+登找：b 查找用例：
+mc.b.k.f.b(string,string)void
+节点
+ c.b.k.h.a(string, String) void c.b.k.i.a(a) void
+m c.b.k.i.a(fsa, a[) void c.b.k.i.a(fsa, aj)void m c.b.k.i.a(string, string)
+void
+m c.b.k.i.a(Date) void mc.b.k.i.c(string)void
+mc.b.k.i.e()void mc.b.k.i.e)void
+this.d.b(str,str2):
+this.e.b("From",m.a(6,aVar.tostring())): this.e.b(a2, b2):
+this.e.b("Newsgroups",stringBuffer); this.e.b(str, str2):
+this.e.b("Date", i.format(date)):
+this.e.b("subject",m.a(9,m.a(str,null,null,fals
+this.e.b("MIME-Version", this.e.b("Message-ID",
+"1.0");
++ r.b() + ">"):

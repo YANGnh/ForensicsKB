@@ -1,0 +1,20 @@
+# OCR: a833fff468bd1147391942dcd10e8e23.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/a833fff468bd1147391942dcd10e8e23.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+this.bti
+@override//android.view.View.Onclickiistene public void onClick(View view)(
+newstringBuilderO;
+StringBuildersb sb.append("HL(");
+class:com.hl.easyapk.einActivity.1
+new sha(O;
+sb.append(sha.encrypt(str1 +str2 +str3+str4+str5).toLowerCase())s sb.append(");
+String result -sb.tostring();
+MainActivitymainActivity-MainActivity.this
+mainActivity.key mainActivity.keyText.getText().toString(); if(MainActivity.this.key.length()l=4e)
+Toast.makeText(HainActivity-this，“苦案错误，继续努力！，).show();
+if ((result,substring(e, 11)+"_"+result.substring(11,15)+"_-+result.substring(15,19)+"_+result,substring(19,23)+"_=+result.substring(23, 36)).equals(MainActivity.this.key))
+Toast.makeText(MainActivity.this，案正确！"，1).show(); else
+Toast.makeText(MainActivity.this，普案错误继续努力!，1).showO);
+;

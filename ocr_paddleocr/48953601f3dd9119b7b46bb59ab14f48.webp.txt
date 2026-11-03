@@ -1,0 +1,33 @@
+# OCR: 48953601f3dd9119b7b46bb59ab14f48.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/48953601f3dd9119b7b46bb59ab14f48.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+Ob-Ob
++
+18 19 20 21 22 23 24 25 26 27 28
+/*JADxWARN:Typeinferencefailedfor:ri8v27,types:[object,java.Lang.CLass]*/
+public objectfunc main(objectfunctionobject,objectnewTarget,DatabaseHelperthis)
+newlexenVwithname([4，"DOMAIN_DB"，e，"DB_NAME"，1，"SQL_CREATE_NOTES_TABLE"，2，"SQL_CREATE_NOTES_UPDATE_TRIGGER"，3]，4): lexenv_o_1_="notepad.db";
+module 1 ="notes"; lexenvee=2:
+Uint8Array(createarraywithbuffer([72,117,97,119,101,105,78,111,116，101,80,97,10049,50,51]));
++module1+"(Inid INTEGER PRIMARYKEY AUTOINCREMENT,IntitleTEXT,Incontent TE
+1exenV2=（CREATETABLEIFNOTEXISTS
+lexenv03
+("AnCREATETRIGGERIFNOTEXISTSupdatenotesupdated atInAFTERUPDATEON"
++_module_1_+"AnFOREACHROWnBEGINAnUP
+r18=hole.#~@o-#DatabaseHelper(object2,object3,hole,["initialize","&entry/src/main/ets/utils/DatabaseHelper&.#~@o>#initialize"1 obj=r18.prototype;
+IPython:C:Users/MoxuanWan
+windowsPowerShell
+版权所有（C）MicrosoftCorporation。保留所有权利。
+安装最新的PowerShell，了解新功能和改进！https：//aka.ms/pSwindows
+加载个人及系统配置文件用了846毫秒。 PsC:\Users\Moxuan Wang>ipython
+Python3.13.2packagedbyAnaconda,Inc.1(main,Feb62o25,18:49:14)[Mscv.192964bit(AMD64)] Type'copyright'，'credits'or'license'formoreinformation
+IPython 9.2.0 --An enhanced Interactive Python. Type '?'for help.
+Tip:Wecan'tshowyoualltipsonWindowsassometimesUnicodecharacterscrashtheWindowsconsole,pleasehelp ug it.
+In[1]:[72,117,97,119,101,105,78,111,116,101,80,
+97，100，49，50，511
+116，101，80，97,100，49,50,51
+Out[1]：[72,117,97,119,101,105,78,111, In[2l:foriin
+print(chr(i)，end=)
+HuaweiNotePad123

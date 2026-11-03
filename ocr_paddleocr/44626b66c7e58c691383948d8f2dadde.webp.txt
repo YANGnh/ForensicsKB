@@ -1,0 +1,22 @@
+# OCR: 44626b66c7e58c691383948d8f2dadde.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/44626b66c7e58c691383948d8f2dadde.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Recipe
+URLDecode FromBase64 Alphabet
+A-Za-z0-9+/= Strictmode
+a
+?
+Removenon-alphabet chars
+Input
++
+口
+Y2QgIi93d3cvd3d3cm9vdC93d3cudHBzaG9wLmNvbS9hcHBsaWNhdG1vb117Li9nb29uM19saW4gLWlwIDE5Mi4xNjguMTAwLjAvMjQ7ZWNobyA5ZjdkZDtk d2Q7ZWNobyBkZWE3NWFmNzQzMTU%30
+ 15e Output
+TrRaw Bytes
+a
+石
+cd"/www/wwroot/ww.tpshop.com/application";./goon2_1in-ip192.168.1ee.e/24;echo 9f7dd;pwd;echo dea75af74315
+用
+F

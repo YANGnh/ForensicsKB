@@ -1,0 +1,38 @@
+# OCR: f4d0f67868553d895b08a4a5f42562a8.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/f4d0f67868553d895b08a4a5f42562a8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+@AppActivity
+112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 148 141 142 143 144 145 146 147 148 149
+X
+importorg.cocos2dx.iib.Cocos2dxActivity;
+importorg.cocos2dx.lib.Cocos2dxGLSurfaceView; importorg.cocos2dx.1ib.Cocos2dxHelper;
+importorg.cocos2dx.lib.Cocos2dxJavascriptJavaBridgej importorg.cocos2dx.lib.SoftKeyBoardListener;
+importorg.eclipse.paho.client.mqttv3.MqttTopic;
+importorg.json.JsoNException importorg.json.JsoNobject;
+/*Loadedfrom:cLasses2.dex*
+publicclassAppActivityextendsCocos2dxActivityimplementsIUiListener(
+privatestaticfinalintBLACK=-16777216;
+publicstaticfinalStringPACKAGE_QQ="com.tencent.mobileqq": publicstaticfinalStringPACKAGEwX=
+"com.tencent.mm;
+privatestaticfinalintSDK_AUTH_FLAG=2; privatestaticfinalintSDKPAY_FLAG=1;
+privatestaticfinalStringTAG="AppActivity"
+private static final int WHITE =-1; public staticString wxShareType publicstaticIwXAPIapinull;
+privatestaticAppActivityapp=null; staticJsoNobjectbindDataJo=null;
+privatestaticStringcallbackLuaFunction= public static Stringcode=null;
+privatestaticAlertDialogmExitAppDialog=null;
+ni
+nrivatestatic
+TencentmTencent
+private static final String qqAppId="1108221663";
+ova
+a
+privatestaticStringshareQQLocalPath=null; privatestaticStringurlofQr=null;
+publicstaticStringwxAppId= privateActivityappActivitys
+privateAlertDialog mPermissionDialog; privatebyte[]screenshotData;
+privatestaticMap<String,X5webview>webMap=newHashMap()) private static boolean isRegister=false;
+privatestaticStringwakeupDataHolder=null;
+staticArravList<string>pictureArrayList=
+nel
+Araviist<>()

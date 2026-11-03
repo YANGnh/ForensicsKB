@@ -1,0 +1,37 @@
+# OCR: c2a7723e0e1e52b98020a777c88b2fe0.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/c2a7723e0e1e52b98020a777c88b2fe0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+Jal
+0
+22:49:15.427[main] WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,170]Unable t
+parameter confiquration with dataTvpe:
+dataTypeclass:classjava.lang-Void
+22:49:15.427[main] WARNs.d.s.r.o.OperationImplicitParameterReader -[modelSpecification,170]-Unable parameterconfigurationwithdataType:dataTypeclass:classjava.langVoid
+22:49:15.612[main] WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,170]-Unable parameterconfigurationwithdataType:dataTypeclass:classjava.lang-Void
+22:49:15.613[main]WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,170]-Unablet paraneter configuration withdataType:dataTypeclass:class java.lang.Void
+22:49:15.614[main]WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,170]Unablet
+dataTypeclass:classjava.lang.Void
+parameter confiquration with dataType:
+22:49:15.614[main] WARNs.d.s.r.o.0perationImplicitParameterReader-[modelSpecification,170]
+Unable1
+paraneter configuration withdataType:dataTypeclass:class java.lang.Void
+22-49:15.614[mainlWARNs.d.s.r.o.OperationImplicitParameterReader-modelSpecification.170l-Unable parameter configuration with dataType:,dataTypeclass: class java.lang.Void
+22:49:15.64o[main]WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,170]
+LUnable
+paraneterconfigurationwith dataType:dataTypeclass:class java.lang.Void
+Unable
+22:49:15.640[main] WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,170] parameter configuration with dataType:,dataTypeclass:class java.lang.Void
+22-49-15.640[main1WARNs.d.s.r.o.0perationImplicitParameterReader-modelSpecification.170] paraneterconfigurationwithdataType:dataTypeclass:classjava.lang.Void
+-Unable
+22:49:15.826[main] WARN.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,170]-Unablet parameter configuration with dataType:dataTypeClass:class java.lang-Void
+22:49:15.852[main]WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,17o]-Unablet paraneterconfigurationwithdataType:dataTypeclass:classjava.lang.Void
+22:49:15.852[main] WARNs.d.s.r.o.OperationImplicitParameterReader-[modelSpecification,17o]-Unablet parameter configuration with dataType:,dataTypeclass:class java.lang.Void
+22:49:15.895[main]
+INFO
+22-49:15.913［main1INF0
+39)
+2
+若依启动成功
+o.q-c.QuartzScheduler-[start,547]-Scheduler quartzScheduler_S_NONCLUSTERED C.r.RuoYiApplication-[logStarted,61]-StartedRuoYiApplicationin12.9e9seco

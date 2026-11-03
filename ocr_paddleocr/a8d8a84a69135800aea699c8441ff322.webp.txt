@@ -1,0 +1,9 @@
+# OCR: a8d8a84a69135800aea699c8441ff322.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/a8d8a84a69135800aea699c8441ff322.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+private String digest(String salt, CharSequence rawPassword)
+String saltedPassword = ((object)rawPassword)+ salt:
+byte[] digest = this.digester.digest(Utf8.encode(saltedPassword)):
+String encoded encode(digest); return salt + encoded;

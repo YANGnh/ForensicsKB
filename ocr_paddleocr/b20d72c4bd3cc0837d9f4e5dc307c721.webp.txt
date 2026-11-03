@@ -1,0 +1,12 @@
+# OCR: b20d72c4bd3cc0837d9f4e5dc307c721.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/b20d72c4bd3cc0837d9f4e5dc307c721.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+package
+com.example.reverseshell2;
+/*Loadedfrom:C:lUsers125o461Desktoplworkspo
+public class
+Eonfig
+public static String IP="92.67.33.56";
+public static String port ="800o" public static boolean icon = true;

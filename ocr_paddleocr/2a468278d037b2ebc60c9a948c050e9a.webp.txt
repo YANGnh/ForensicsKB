@@ -1,0 +1,102 @@
+# OCR: 2a468278d037b2ebc60c9a948c050e9a.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/2a468278d037b2ebc60c9a948c050e9a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+a 圆案件
+文件图分析? 位置
+时间线 Q 搜素尊笔记
+自报告
+研判白工具箱
+刷新
+文件全显签名恢复详情/预览
+请选择/输入持有人/检材编号/名称
+文件系统文件分类技术人员手机
+文件系统文件分类特征不符
+Image
+文件系统 Image
+X
+private 文件分类特征不符
+files
+文件系统 files
+LAPPUCATION
+cn.wps.mobileoffice.hap
++ + + + +
++
+com.alipay.mobile.client com.baidu.baiduapp com.baidu.hmmap
+com.ctrip.harmonynext com.easy.hmos.abroad com.huawei.hmos.ailife
+643941
+8 881 875 5
+223852 223839 223839 195034
+7 6
+65986 65975 65975 17968
+32 43 1138
+139 1 5
+com.huawei.hmos.meetimeser...147 com.huawei.hmos.remotecontrol...5
+com.huawei.hmsapp.books com.kuaishou.hmapp
+58 12 贵
+栏序号
+7 口8 口9 口10 口11 口12 口13
+详细信息
+data/storage/el2/base/haps/entry/files/workspaces/siyuan/data/20210808180117-czj9bvb/20200812220555-j3enxa
+拦名称过滤
+20250003222417-2Jp0Vk1
+20210808180320-fqgskfj.sy 20210808180321-hbvl5c2.sy 20210808180320-abz7w6k.sy 20210808180320-gyngv2x.sy 20210808180320-qgr0b3q.sy 20230805222417-2j3dvk.sy 20250519120738-oyjxz53.sy
+名称：20250519120738-0vjxz53.sy
+扩展名：ison 类型：文件大小：1.92KB
+创建时间：2025-06-0510:19:06 访问时间：2025-06-0510:19:06 修改时间：2025-06-0510:19:06
+MetaAddr: 0 全路径：
+拦大小等于
+3.10KB 9.46KB 5.13KB 2.25KB 1.17KB 2.78KB 1.92KB
+拦创建时间
+起始 02
+结束
+O
+2025-06-05 10:19:07 2025-06-05 10:19:07 2025-06-05 10:19:06 2025-06-05 10:19:06 2025-06-05 10:19:06 2025-06-05 10:19:06 2025-06-05 10:19:06
+修改时间
+起始 02
+结束
+TVR.
+2025-06-05 10:19:07 2025-06-05 10:19:07 2025-06-05 10:19:06 2025-06-05 10:19:06 2025-06-05 10:19:06 2025-06-05 10:19:06 2025-06-05 10:19:06
+files/APPLICATION/org.b3log.siyuan.ho/data/storage/el2/base/haps/entry/files/workspaces/siyuan/data/20 210808180117-czj9bvb/20200812220555-lj3enxa/20250519120738-0vjxz53.sy
+加密类型：未加密已删除：否
+拦全路径过滤
+>
+mcs/nLrcnmorv/ory.uuroy.sryuan.o/uata/ storagy files/APPLICATION/org.b3log.siyuan.ho/data/storag... files/APPLICATION/org.b3log.siyuan.ho/data/storag... files/APPLICATION/org.b3log.siyuan.ho/data/storag... files/APPLICATION/org.b3log.siyuan.ho/data/storag... files/APPLICATION/org.b3log.siyuan.ho/data/storag... files/APPLICATION/org.b3log.siyuan.ho/data/storag... files/APPLICATION/org.b3log.siyuan.ho/data/storag...
+原类型视图
+PAGE
+文本视图
+ZooM
+HIGHLIGHT
+["ID"："20250519120738-
+十六进制视图
+在20200812220555-lj3
+ovjxz53","Spec"："1","Type"："NodeDocunent","Properties":["id"："20250519120738-ovjxz53"，"title"："?愤
+?,"type"："doc","updated："20250519180426"1,"children"：［["ID"："20250519175427-Da78uvg","TvDe"."NodeParagranh","ProDerties"：["id"."20250519175427-
+Oa78uv9""updated"："20250519180426"1"Children"：[["Type"："NodeText","Data"："DC
+192.168.0.99/24
+adninistrator/3w.panguite.com
+20200012110428
+ttpserver:Itpitplzs!wt
+nw4yzry","Type"："NodeParagraph","Properties"：["id""20250519175428-nw4yzry","updated"："20250519175428"1i，["ID";"20250519120758-
+36m09p5","Type":"NodeParagraph","Properties"：["id"："20250519120758-
+Q
+36m09p5","updated"："20250519171154"1,"Children":[["Type"："NodeText","Data"："VCSA 192.168.0.100/24r00t/P@99w0rd"1]1,["ID"："20250519171159-
+ipxewc4","Type"："NodeParagraph","Properties":["id":"20250519171159-
+ipxewc4","updated":"20250519171159"],"Children":[["Type":"NodeText","Data":" administrator@pgs.cup/P@99wrd"1]],["ID""20250519171133-
+k2tptq3","Type":"NodeParagraph","Properties":["id":"20250519171133-k2tptq3","updated"："20250519171133"}],{"ID"："20250519171133-
+29i3is6","Type":"NodeParagraph","Properties":["id":"20250519171133-
+29i3is6","updated":"20250519171351"1,"Children":[["Type"："NodeText","Data"："ESXi1 192.168.0.101/24r00t/P@88w0rd"1]1,["ID"："20250519171138-
+lj8ovw1","Type":"NodeParagraph","Properties":["id"："20250519171138-1j8ovw1","updated"："20250519171138"1i,["ID"："20250519171138-
+jpximbi","Type":"NodeParagraph","Properties"：{"id""20250519171138-
+,W000cc1011nn7W1
+w1- 17
+w
+...W.『[WT
+W.W.I.T.-.+W
+包
+x
+高级
+设置列
+X
+?

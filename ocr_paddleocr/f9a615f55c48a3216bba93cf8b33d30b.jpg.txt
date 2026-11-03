@@ -1,0 +1,17 @@
+# OCR: f9a615f55c48a3216bba93cf8b33d30b.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f9a615f55c48a3216bba93cf8b33d30b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+Hos.hst区logx
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+ipconfig whoami
+ipconfigIfindstr/i"ipv4"
+netuser exit
+REG QUERY "HKEYLOCAL MACHINElsYSTEM\CurrentControlSetlControlITerminal ServerIWinStations|RDP-Tcp" /v PortNumber
+dir/a/b/sD:lwebl*.asp wmic logicaldisk get name C:linetpublwwwroot
+dirc:linetpublwwwroot/AD
+dirc:linetpublwwwrootlaspnetclinet/AD Get-ChildItem -Path C:\ -Filter *.asp
+-RecurseSelect-object-PropertyDirectoryName,Name
+dirc:1*.asp /s/P/B
+type C:\Serverlwebsits\adminlshell.aspx exit

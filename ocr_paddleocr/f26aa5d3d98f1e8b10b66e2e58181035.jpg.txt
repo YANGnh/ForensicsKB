@@ -1,0 +1,10 @@
+# OCR: f26aa5d3d98f1e8b10b66e2e58181035.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f26aa5d3d98f1e8b10b66e2e58181035.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+终端
+droid@node1:modprobe binder linux devices="binder.hwbinder.vndbinder" modprobe:ERRoR: could not insert "binder linux': Operation not permitted
+droid@node1s sudo modprobe binder_linux devices-"binder,hwbinder,vndbinder" sudolpasswordfordroid:
+droid@nodelssudomodprobeashmemLinux
+droid@node1:s sudo modprobe binder Linux devices="binderhwbinder vndbinder droid@nodeis

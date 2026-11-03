@@ -1,0 +1,85 @@
+# OCR: 318aa926d2439844b80339832133adfc.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/318aa926d2439844b80339832133adfc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+同
+ASoft Murmur
+Q
+鸿蒙手机·×
+爸华为鸿蒙X
+鸿蒙模拟X
+手把手教化X
+Harmonvc
+沙箱路径白×
+华为鸿蒙柜X
+(49封私信×
+QDevEco St:X
+最新版本·X
+鸿蒙手机力×
+通过外部际×
+sf
+harmonyc
+文件D:/CTF/Program%20Files%20(x86)/CyberChef_v9.21.0/CyberChef_v10.5.2.html#recipe=JSON_Beautify(%20%20%20%20'false,true)Extract_IP_addresses(true,false,false.false.false,false)&input=eyJJRCI6ljlwMjUwNTE5MTlwNzM4...
+知5分钟做一个免费的..
+DownloadCyberChef
+Operations ip
+ParseIPrange ChangeIp format ParseIPy4 header GroupIPaddresses ParseIPv6address Defang IPAddresses ViewBitPlane
+ExtractIPaddresses
+Generate Lorem Ipsum Zip
+RIPEMD
+ImageOpacity Gzip
+Cartesian Product DerivePBKDF2key JavaScriptParser Extractfilepaths FlipImage
+Unzip Gunzip
+C密码学（Crypto）...
+SCTF在线工具-CTF工..HGMISS隐写—图片L.
+Recipe
+JSONBeautify Indentstring
+SortObjectKeys
+ExtractIPaddresses
+IPv4 Sort
+STEP
+IPv6
+简RSA工具集-openssl..
+a
+Formatted
+RemovelocalPy4addresses
+Unique BAKE!
+秀ctf.showoAwesomeWallpape... Last build: 2 years ago
+Input
+ Wallpaper Search: ...
+①搜图114-免费png..
+O maybe-is-a-timeline...
+JSON Beal×
+o
++?
+?程序员制作网站告...
+Options
++
+可
+P门其他收藏夹
+About/Support
+印
+{"ID"："20250519120738-ovjxz53""5pec"："1","Type"："NodeDocument","Properties"：{"id"："20250519120738-ovjxz53","title"："未命名","type"："doc","updated"："20250519180426"},"chi1dren"：[{"ID"："20250519175427-
+oa78uv9","Type"："NodeParagraph""Properties":{"id":"20250519175427-0a78uvg","updated":"20250519180426"},"children":
+[{"Type":"NodeText","Data":"Dc192.168.e.99/24administrator/3w.panguite.comftpserver:ftp/ftp123!@#"}]],{"ID"："20250519175428-nw4yzry","Type":"NodeParagraph","Properties":{"id":"20250519175428-
+nw4yzry","updated"："20250519175428"},{"ID":"20250519120758-36m09p5","Type":"NodeParagraph","Properties"：
+O
+Displaytotal
+AutoBake
+{"id":"20250519120758-36me9p5","updated":"20250519171154"1,"chi1dren":[{"Type":"NodeText""Data":"vCSA192.168.0.100/24 root/P@99w0rd"1ll,f"ID"："20250519171159-ipxewc4","Type"："NodeParagraph""Properties":f"id""20250519171159-
+ipxewc4","updated"："2025e519171159"}"children"：[{"Type"："NodeText","Data"："
+administrator@pgs.cup/P@99werd"jl),
+{"ID"："20250519171133-k2tptq3","Type"："NodeParagraph","Properties"{"id"："20250519171133-
+k2tptq3","updated"："20250519171133"}},{"ID"："20250519171133-29i3is6","Type"："NodeParagraph","Properties":
+["id":"20250519171133-29i3is6","updated":"20250519171351"}],"children":["Type":"NodeText","Data""ESXi1192.168.0.101/24 root/P@88werd"1ll,f"ID"："20250519171138-1j8ovw1","Type"："NodeParagraph","Properties"：f"id"："20250519171138-
+1j8ovw1","updated"："20250519171138"1l,f"ID"："2025519171138-jpximb1","Type"："NodeParagraph","Properties"：["id""20250519171138-jpximb1","updated"："20250519171337"1，"children"：[f"Type"："NodeText""Data"："ESxi2 192.168.8.102/24root/P@88werd"]},{"ID""20250519171145-tq91wbb","Type":"NodeParagraph","Properties":{"id"："20250519171145-tq91wbb","updated"："20250519171145"}},{"ID""20250519171145-
+2oktox1","Type"："NodeParagraph","Properties"：{"id"："2025e519171145-2oktox1","updated"："2025e519171349"},"children"：[{"Type":"NodeText","Data":"ESXi3192.168.0.103/24root/P@88word"}]}]}
+C1965=1 Output
+192.168..99/24 192.168.0.100/24 192.168.0.101/24 192.168.0.102/24 192.168.0.103/24
+5
+RIE83
+?1ms
+Tr RawBytes
+←LF 电
+TT RawBytesLF

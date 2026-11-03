@@ -1,0 +1,20 @@
+# OCR: 1a07a90189eb891967968c94266b6b6b.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/1a07a90189eb891967968c94266b6b6b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+selecta.季度.sum(ts.amount)交易额from（selectmemberid.case
+whenLeft(registration_date7)=2o2o-o1'thenQ1 when Left(registration_date,7) =2020-02then Q1 when left(registration_date,7)=2020-03then Q1 whenLeft(registration_date7)=2o2o-1ethenQ4 when Left(registration_date,7)=2020-11'then Q4" whenLeft(registration_date,7)=2o2o-12thenQ4
+endAs季度
+frommemberswhereleft(registration_date7)in（2020-01'2020-022020-03'2020-10'2020-112020-12))a
+Leftjointransactionstsona.member_id=ts.payer_idgroupbya.季度
+输出
+用
+W
+iResult 49x
+Q
+月
+口季度
+Q1 Q4
+交易额
+9054361.469999973 8824811.370000029

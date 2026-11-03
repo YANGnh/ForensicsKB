@@ -1,0 +1,34 @@
+# OCR: fe74a7e480dc1bda773cf1a5e1c4e3d0.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/fe74a7e480dc1bda773cf1a5e1c4e3d0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:27
+
+upload_aad_time
+current_capital_account
+MMKVVisualizer View MMKV databases online - completely transparent & private.
+OpenFile(s)
+DownloadSampleData
+(hexstring)083230323531303130(hexstring)00
+hymbilldayscount29o75726b10cffec hym_activity_add_bill29075726b10cffec
+table_category_md5 aes_user
+capital_sort29075726b10cffec home.float_button_right
+current income capital account table_bill_md5
+need_sync29075726b10cffec last_update_time
+firstinstall_event_insert_count last_good_appraise_time
+Features
+(hexstring)083230323531303130 (hexstring)083230323531303130
+O
+hexstring)20383466616362343032373964336466333236336534616...
+石国
+(hexstring)cf1469583736467434632f563342565a487661642b6b5574..：
+(hexstring)00 (hexstring)01 (hexstring)00
+hexstring)20303662373239353730393163366333613639386230373...(hexstring)00
+(hexstring)d295ffcc9c33(hexstring)08
+(hexstring)0e3230323531303130313234323335
+石国
+Visualize the most recent key-value pairs, as well as older logged values not available via the native APl.
+(hexstring)00
+hexstring)cf146958373646743
+(hexstring)00 (hexstring) 01 [(hexstring)00
+(hexstring)20656662313637306(hexstring)01
+(hexstring)d295ffcc9c33[(hexstring) 07

@@ -22,8 +22,7 @@
 │   ├── README.md        ← 年份 × 文档 总索引（脚本生成）
 ├── 03-理论知识/         ← 法律法规原文 + 客观题题库（342 题）
 │   ├── README.md        ← 法规/题库导航（脚本生成）
-├── ocr_tesseract/       ← tesseract OCR（代码/终端/命令类截图；<图片文件名>.txt）
-├── ocr_paddleocr/       ← Umi-OCR / PaddleOCR OCR（中文 UI、表格、低质截图；优先检索）
+├── ocr_paddleocr/       ← Umi-OCR / PaddleOCR OCR（全部截图；<图片文件名>.txt）
 ├── templates/           ← writeup / technique 模板
 └── tools/               ← 维护脚本（Windows PowerShell 5.1+，零第三方依赖）
 ```
@@ -43,13 +42,13 @@
 
 ## 给 AI 的使用说明
 
-1. **优先用检索工具**：`.\tools\search.ps1 <关键词>` 一次搜完 60 篇正文 + 3,465 张截图 OCR（`ocr_paddleocr/` 优先、`ocr_tesseract/` 回退），可用 `-Type` / `-Competition` / `-Year` / `-Stage` / `-Tags` 过滤，`-List` 只看命中哪些文档。命中截图时会回指所属文档；若提示“有 N 篇语料未入索引”，先跑 `.\tools\build-index.ps1`。
+1. **优先用检索工具**：`.\tools\search.ps1 <关键词>` 一次搜完 60 篇正文 + 3,465 张截图 OCR（`ocr_paddleocr/`），可用 `-Type` / `-Competition` / `-Year` / `-Stage` / `-Tags` 过滤，`-List` 只看命中哪些文档。命中截图时会回指所属文档；若提示“有 N 篇语料未入索引”，先跑 `.\tools\build-index.ps1`。
 2. 先读本 README，再读 `INDEX.md` 或 `index.json` 选择目标文档（`02-WriteUp/README.md`、`01-取证技巧/README.md`、`03-理论知识/README.md` 是分区导航）。
 3. 检索策略：按 `type` 过滤（writeup / technique / reference / training / quiz）→ 按 `competition`/`year`/`stage` 或 `tags` 过滤 → 打开文档。
-4. 文档内图片为相对路径（相对 md 所在目录），按需打开查看；截图内容先查 `ocr_paddleocr/` 同名文本（Umi/PaddleOCR，中文优先），没有再查 `ocr_tesseract/`（代码/终端保留），再决定是否看图（L2 视觉层）。
+4. 文档内图片为相对路径（相对 md 所在目录），按需打开查看；截图内容先查 `ocr_paddleocr/` 同名文本（Umi/PaddleOCR），再决定是否看图（L2 视觉层）。
 5. **答案信源规则**：答案形态因赛事而异，不统一为单一行格式——2026 广西用 `**答案：**` 行；2024 FIC / 盘古石 / 精武 / 比武复盘把答案放在题干后紧邻的代码块；数证杯、美亚杯等用 `## **N.[题型]…**` 标题 + 正文叙述；部分文档只用 `flag{...}`。检索时以“题干后紧邻内容”为准；需要机器可读结果时跑 `python tools/extract-answers.py --all --json`；截图/OCR 只作证据与佐证，不用于提取答案（噪声隔离，见设计方案 §7.2.1）。
 6. 多篇冲突时以 `status=完整` 且 `source=原创` 者优先，并注明来源文档。
-7. 不确定时搜索 keywords（含 `ocr_paddleocr/` 与 `ocr_tesseract/` 全文，可命中截图内容）而非猜测。
+7. 不确定时搜索 keywords（含 `ocr_paddleocr/` 全文，可命中截图内容）而非猜测。
 
 ## 维护（SOP）
 
@@ -59,20 +58,19 @@
 | 操作 | 命令 |
 |---|---|
 | 全文检索 | `.\tools\search.ps1 关键词`（可加 `-Competition 美亚杯` / `-Year 2025` / `-Tags Volatility`；`-OnlyOcr` 只搜截图，`-List` 只列文档） |
-| 新增比赛复盘 | `.\tools\new-writeup.ps1 -Competition 美亚杯 -Year 2026 -Stage 决赛`，填模板 → 截图入年份目录 → `.\tools\ocr-images.ps1` → `.\tools\build-index.ps1` |
-| 新增复盘（多文件/Word/PDF） | ① `python tools/docx2md.py <x.docx> <tmp.md> <tmp-img>` / `python tools/pdf2md.py <x.pdf> <tmp.md> <tmp-img>`；② `.\tools\merge-writeup.ps1 -Out <目标md> -Files <列表>`；③ 图入年份目录 → OCR → 索引 |
+| 新增比赛复盘 | `.\tools\new-writeup.ps1 -Competition 美亚杯 -Year 2026 -Stage 决赛`，填模板 → 截图入文档目录 → `python tools/ocr-paddleocr.py --start` → `.\tools\build-index.ps1` |
+| 新增复盘（多文件/Word/PDF） | ① `python tools/docx2md.py <x.docx> <tmp.md> <tmp-img>` / `python tools/pdf2md.py <x.pdf> <tmp.md> <tmp-img>`；② `.\tools\merge-writeup.ps1 -Out <目标md> -Files <列表>`；③ 图入文档目录 → `python tools/ocr-paddleocr.py --start` → 索引 |
 | 新增技巧笔记 | 复制 `templates/technique-template.md` 到对应主题目录，填 frontmatter → 重建索引 |
 | 重建索引 | `.\tools\build-index.ps1`（一并刷新 INDEX.md、index.json 与两个分区 README） |
 | 体检 | `.\tools\check-integrity.ps1`（断链/缺frontmatter/缺H1/乱码/缺OCR/非受控标签） |
 | 答案抽取 | `python tools/extract-answers.py --all --stats` 逐篇统计答案形态与对数；`--json` 输出结构化 pair（method/confidence），不改写原文 |
 | 修 frontmatter | `python tools/fix-frontmatter.py --created-from-git --sync-images --drop-tags 标签A 标签B`（默认 dry-run；加 `--apply` 写入，保留 BOM/CRLF） |
-| 图片 OCR（tesseract） | `.\tools\ocr-images.ps1`（需本地 tesseract + chi_sim 语言包；输出 `ocr_tesseract/`，未装时生成待处理清单） |
-| PaddleOCR 路由重做 | `python tools/ocr-paddleocr.py --start --workers 2`（中文/表格/低质→`ocr_paddleocr/`；代码/终端保留 `ocr_tesseract/`；退出自动结束 Umi-OCR 进程树） |
+| 图片 OCR | `python tools/ocr-paddleocr.py --start --workers 2`（Umi-OCR/PaddleOCR，输出 `ocr_paddleocr/`；退出自动结束 Umi-OCR 进程树） |
 | 重生成 frontmatter | `.\tools\apply-frontmatter.ps1 -Force -DryRun` 先预览；确认后再去掉 `-DryRun`（会备份旧值并列出覆盖项） |
 
 ## git 版本管理（本地仓库 + GitHub 远程，2026-09-01）
 
-仓库位于本目录，文本（md/json/ocr_tesseract/ocr_paddleocr/脚本）普通入库，**图片由 Git LFS 管理**（见 `.gitattributes`）：PNG 已压缩为 WebP q90（视觉无损，241.9MB→约120MB），JPG 原样保留，共 3,465 个文件约 184MB。
+仓库位于本目录，文本（md/json/ocr_paddleocr/脚本）普通入库，**图片由 Git LFS 管理**（见 `.gitattributes`）：PNG 已压缩为 WebP q90（视觉无损，241.9MB→约120MB），JPG 原样保留，共 3,465 个文件约 184MB。
 
 ```bash
 git add -A && git commit -m "说明改了什么"   # 改完一批笔记就提交一次（存档）
@@ -89,7 +87,7 @@ git checkout -- <文件>                      # 误改后恢复该文件
 - ✅ 索引：INDEX.md + index.json（60 篇；图片 3,465 张 / 3,490 处引用；index.json 为标准 JSON，可直接被 python/jq 解析）
 - ✅ 目录：`02-WriteUp/` 已按「年份/文档名/」归档，36 篇 md 与 3,439 张图片各自独占目录，正文引用保持裸文件名、零改动
 - ✅ 分区导航：`02-WriteUp/README.md`（年份 × 文档名）+ `01-取证技巧/README.md`（主题 × 文档简介）+ `03-理论知识/README.md`（法规/题库），随索引自动重建
-- ✅ 图片 OCR：3,465 张分双索引：`ocr_tesseract/`（tesseract chi_sim+eng，代码/终端路由 614 张）+ `ocr_paddleocr/`（Umi/PaddleOCR 2,847 份；3 张无文本回退 tesseract）；检索优先 Paddle，未命中再查 tesseract，查询做 NFKC/中文空格归一化。
+- ✅ 图片 OCR：3,465 张图统一使用 `ocr_paddleocr/`（Umi-OCR/PaddleOCR；无文本图写“无可用文本”标记）；检索直接查该目录，查询做 NFKC/中文空格归一化。
 - ✅ 工具链：`tools/search.ps1` 全文检索（正文 + 截图 OCR，支持元数据过滤；会提示未入索引的语料）；受控词表 `tools/tag-vocabulary.json` 由体检校验；`build-index.ps1` 改为扫描三个语料目录（不再依赖手工清单），缺 frontmatter 直接报错终止
 - ⚠️ 待办：`2024-国赛-复盘.md` 因正文有损乱码已从语料排除（原始文件随 `取证笔记/` 一并移出归档，重录后可通过 `tools/new-writeup.ps1` 重新纳入）；若干转载文缺失原图（已注释标记）；个别 `status=待完善` 文档答案留白待补；关键截图 caption/kind 标注（L3 增强，可选）
 - 📌 已完成：git 本地版本管理 + GitHub 私有远程（见上节"git 版本管理"）

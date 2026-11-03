@@ -1,0 +1,32 @@
+# OCR: 46c68abc92ece394aa3cfd470bd54c5b.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/46c68abc92ece394aa3cfd470bd54c5b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+Login.php×
+application>admin>controller>Login.php
+20 26
+27 28 29 3 31 32 33 34 35 36 37 38 39 4 41 42 43 44 45 46 47 48 49 5 51 52 53 54 55 56 57 58 59 68 61 62 63
+return $this->fetch(); 登录验证
+@return string
+public function login)
+if(sthis->reguest->isPost())
+$data
+=sthis->request->only(['username',
+$validate_result = $this->validate(sdata,
+Login');
+(svalidate_result |== true) if
+$this->error($validate_result); else
+swhere['username'] = sdata['username']
+password'，'verify'j);
+swhere[password']=md(sdata['password'].Config::get('salt'));
+$admin_user =Db::name('admin_user')->field('id,username,status')->where(swhere)->find(); if(!empty(Sadmin_user))(
+if (sadmin_user['status'] = 1)(
+sthis->error（当前用户已禁用）： else
+Session::set('admin_id',$admin_user[id'J)
+Session::set('admin_name',sadmin_user['username'J); Db::name('admin_user)->update(
+"last_login_time'=> date('Y-m-d H:i:s',time()
+"last_login_ip id
+=>$this->request->ip(), => $admin_user['id'
+sthis->success（登录成功，‘admin/index/index)
+else

@@ -1,0 +1,21 @@
+# OCR: ae8c42bff1202eef14b21d13823e30b2.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/ae8c42bff1202eef14b21d13823e30b2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+对象保存
+2024FIC
+1 信息
+app_user.withdraw@ji-mei(2024Fl... 查询创建工具美化SQL代码段
+ji-mei
+SELECT SUM(amount)
+摘要
+suM(amount）
+结果1
+35821148.48
+剖析
+无标题-查询
+文本导出结果咖创建图表运行、自停止早昌解释
+appuserwithdraw
+FROM 状态
+WHEREstatus-3

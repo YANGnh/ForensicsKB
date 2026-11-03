@@ -1,0 +1,15 @@
+# OCR: bfb681c341732510c18a8c0e9114fadc.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/bfb681c341732510c18a8c0e9114fadc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+return
+//数据库类型'type
+//服务器地址"hostname'/数据库名"database' 1/用户名'username//密码 password//端口"hostport' 连接dsn
+=>
+'mysql'
+=>172.17.0.4' =>‘lok1'
+=> =>
+'root'
+'root123456
+=>3306

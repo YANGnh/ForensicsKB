@@ -1,0 +1,15 @@
+# OCR: ddc3669e383a1cffcfffdfb980f6ed78.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/ddc3669e383a1cffcfffdfb980f6ed78.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+#root@ql-n117-45.117.1e.203in/opt/bl.dsnbbaj686.fit/www/app[21:38:41]
+S
+Ls
+api
+appmanager
+command.phpconfig-php
+index
+route-php
+database-phpLayuipaginate.phptags.php
+common.php

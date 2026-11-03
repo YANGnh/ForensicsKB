@@ -1,0 +1,24 @@
+# OCR: 09d9edb77f2a81cac2eda48112fc5cf6.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/09d9edb77f2a81cac2eda48112fc5cf6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+LoginAction.class.php X
+App>Modules>Systemlogined>Action>静LoginAction.class.php
+<?php
+2
+3 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+后台登录控制器
+class LoginAction extends Action
+/+
+*后台登录视图
+public functionindex()
+$this->display();
+public function login()(
+//防止直接访问这个视图
+Is_PosTorhalt('页面不存在');//验证码验证
+if(session('verify')l=I('code',,'mds'))
+sthis->error(验证码错误！"）；//验证用户名和密码
+suser=M('user')->where(array('username'=>I('username'),'password'=>I('password',"",'sha1')))->find()
+suseror$this->error(用户名或密码错误！'）;//验证是否已被锁定
+suser【lock'］and$this->error（用户已被锁定！'）//更新最后一次登录的IP和登录时间

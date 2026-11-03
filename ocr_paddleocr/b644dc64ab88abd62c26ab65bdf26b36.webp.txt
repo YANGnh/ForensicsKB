@@ -1,0 +1,25 @@
+# OCR: b644dc64ab88abd62c26ab65bdf26b36.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/b644dc64ab88abd62c26ab65bdf26b36.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+新建连接（MySQL）
+常规
+高级
+数据库
+SSL
+连接名称：
+主机：端口：用户名：密码：
+SSH
+HTTP
+Navicat 档案MysQL 222.2.2.2
+3306 root
+保存密码
+?
+测试失败1130-Host'222.2.2.1'isnotallowedtoconnecttothisMysQLserver
+测试连接
+数据库
+上一步
+确定
+取消
+x X

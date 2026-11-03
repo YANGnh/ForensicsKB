@@ -1,0 +1,45 @@
+# OCR: b9ab9cd608296da3c4e0a0d32794ba8d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/b9ab9cd608296da3c4e0a0d32794ba8d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+≥1.powershell6|7
+2.192.168.217.12
+x
+「［*「0@sshk***@192.168.217.12
+533 534 535 536 537 538 539 540 541 542
+{"streamConfig":,"state":f"Running":false,"Paused":false,"Restarting":false,"ooMKilled":false,"RemovalInProgress":false,"Dead":false,"Pid":0,"ExitCode":137,?"Error"："""StartedAt"："2025-05-28T10:46:00.33073212Z""FinishedAt"："2025-05-28T10:46:38.31477978Z","Health":nu11)."ID"："d4cb231cae7fcef2c84d1418adb31450d37bc? 4bcef00268cd13607971ee8b38f""created":"2025-04-08T06:22:26.605165345z"."Managed":false."Path":"docker-entrypoint.sh"."Args":["sh"."-c"."ulimit-cunlimited1?
+uo026lu026 echo‘启动服务...luo26luo026exec nodeindex.js"]"Config"：("Hostname"："d4cb231cae7f","Domainname"：
+..
+tdout":true,"Attachstderr":true,"ExposedPorts":{"3eee/tcp":(),"Tty":false,"openstdin":false,"stdinonce":false,"Env"
+ot"，"MYSQL_PASSWORD=7001"，"MYSQL_DATABASE=product_db"，"NODE_ENV=development"，"JWT_EXPIRES_IN=24h"，"MYSQL_PORT=3306"
+"User"".
+"Attachstdin"：false,"Attachs?
+JWTSEcRET=zhaohongkey","MYSQL_USER=ro?
+"MYSQL_HOST=127.0.0.1""PORT=3000"PATH=/7
+usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"，"NoDE_VERSION=16.2o.2"，"YARN_VERSION=1.22.19"，"DEBIAN_FRONTEND=noninteractive","DocKER=1"，"DEBUG_? FLAG=1""NoDE_oPTIoNS=--max-old-space-size=4096"],"Cmd"：["sh","-c","ulimit-c unlimited\u0026\u0026echo启动服务...
+lu0026lu0026execnodeindex.js"l"7
+Image"："web-api:latest","Volumes":null,"WorkingDir"："/app","Entrypoint":["docker-entrypoint.sh"],"onBuild":null,"Labels":("com.docker.compose.config-hash"："7f?
+87ddf460fecb69ed4e43a5f56dbe346052743a41a1bd28b8a84c7409774a9f""com.docker.comp0se.container-number":"1"
+."com.docker.compose.depends_on"：""
+."com.docker.compoa
+se.image""sha256:996a32e7200d224c4eada5f87360b8355728530ba10e2c994bb171428589bf3b","com.docker.compose.oneoff"："False","com.docker.compose.project"："web-api"?"com.docker.compose.project.config_files":"/home/king/web-api/docker-compose.yml"."com.docker.compose.project.working_dir":"/home/king/web-api","com.docker.c? ompose.service"："api","com.docker.compose.version"："2.34.o"）)."Image"："sha256:996a32e720d224c4eada5f8736b8355728530ba10e2c994bb171428589bf3b","ImageManifest7
+":null,"NetworkSettings"：("Bridge"："","SandboxID"："
+."SandboxKey"："
+,"HairpinMode":false,"LinkLocalIPv6Address"
+-api_default":("IPAMConfig":null,"Links":null,"Aliases":["web_api","api"],"MacAddress""",
+"LinkLocalIPv6PrefixLen":o"Networks"：f"webz
+."DriverOpts":null."GwPriority":0."NetworkID":"3b4688fabaf11adeddc81b?
+，"Gateway"："""IPAddress".".
+e35d72852c4f13b2088c8f4o98fffa445f07b9b4c3"，"EndpointID"：""
+"IPPrefixLen":."IPy6Gateway":""
+"GlobalIPy6Address"：""."GlobalIPv6Pre7
+fixLen"0,"DNSNames":「"web_api","api","d4cb231cae7f"l."IPAMOperational":false."DesiredMacAddress":""}}"Service":null."Ports":null,"SecondaryIPAddresses":nullz"SecondaryIPv6Addresses":null,"HasSwarmEndpoint":false)."LogPath"："/var/1ib/docker/containers/d4cb231cae7fcef2c84d1418adb31450d37bc4bcef00268cd13607971ee8b387 f/d4cb231cae7fcef2c84d1418adb31450d37bc4bcef00268cd13607971ee8b38f-json.log","Name"："/web_api","Driver"："overlay2""0s"："1inux","ImagePlatform":{"architecture?:"amd64","os":"linux"."RestartCount":44."HasBeenStartedBefore":true,"HasBeenManuallyStopped":true."MountPoints":f."SecretReferences":null."ConfigReferences?
+null"MountLabel"："!
+."ProcessLabel"：""
+，"AppArmorProfile"："docker-default""SeccompProfile"：""
+."NoNewPrivileges":false."WritableCgroups":null."HostnamePath":?
+/var/1ib/docker/containers/d4cb231cae7fcef2c84d1418adb31450d37bc4bcef00268cd13607971ee8b38f/hostname"，"HostsPath":"/var/1ib/docker/containers/d4cb231cae7fcef? 2c84d1418adb31450d37bc4bcef00268cd13607971ee8b38f/hosts"，"ShmPath"："","ResolvConfPath"："/var/1ib/docker/containers/d4cb231cae7fcef2c84d1418adb31450d37bc4bcef0? 0268cd13607971ee8b38f/resolv.conf"LocalLogCacheMeta"：(HaveNotifyEnabled"：false】
+INSERI
+1,935-929
+All

@@ -1,0 +1,14 @@
+# OCR: 88d3d582f7dfc688210a2a69b93f4a54.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/88d3d582f7dfc688210a2a69b93f4a54.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Total: 1
+losingnontransactionalSglSession[org.apache.ibatis.session.defaults.DefaultSqlSession@2269f37a] ody:
+ccountSid=5de1b314fdca1969ef26ac0d822f4d45&to=19521510863&param=&smsContent=%E3%80%90%E5%8D%83%E6%9%A8%E7%A7%91%E6%8A%80%E3%80%91%E5%B0%8A%E6%95%AC%E7%9A%84%E7%94%A8%E6%88%B7%EF%BC%8C%E6%82%A8%E7%9A 84%E9%AA%8C%E8%AF%81%E7%A0%81%3A6918%EF%BC%885%E5%88%86%E9%92%9F%E5%86%85%E6%9C%89%E6%95%88%EF%BC%8%EF%BC%8C%E5%88%87%E5%8B%BF%E6%B3%84%E9%9C%B2%EF%BC%8C%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C E8%AF%B7%E5%BF%BD%E7%95%A5&timestanp=1732086619594&sig=52a94b008f36f3c39a4d48d68a56a5c8&respDataTyp JSON
+CreatinganewSqlsession
+qlSession[org.apache.ibatis.session.defaults.DefaultSqlSession@4f6147f2]wasnotregisteredforsy chronizationbecausesynchronizationisnotactive
+IDBcConnection[com.nysql.cj.jdbc.ConnectionIrpL@34493522]willnotbemanagedbySpring
+Preparing:INSERTINTosend_sms（mobile，status，content）VALUES（？，？，？） =>Parameters:1952151e863(String)，false(Boolean)，6918(String)
+Updates: 1
+losingnontransactionalSqlSession[org.apache.ibatis.session.defaults.DefaultSqlSession@4f6147f2]

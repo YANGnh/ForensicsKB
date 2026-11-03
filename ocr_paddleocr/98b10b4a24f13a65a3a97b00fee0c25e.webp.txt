@@ -1,0 +1,25 @@
+# OCR: 98b10b4a24f13a65a3a97b00fee0c25e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/98b10b4a24f13a65a3a97b00fee0c25e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+if（argc<=1//!(unsignedint)strcmp(argv[1],"server")) start_http_server();
+if（！(unsigned int)strcmp(argv[1]，"decrypt"）） v3=puts（"\n***2025FIC大比武zhaohong开发*****"）; print_serialNo(v3);
+puts("请输入要解密的密文（Base64编码）：")）; fgets(v11,256LLstdin);
+v11[strcspn(v11，&unk_69D198)]= if（v1i[o])
+v9 v4 v7 if
+OLL; striend
+11，v4，&v9);
+base64decode(
+v10 v8 if
+11
+aes_decrypt(v9
+puts("解密失败。") else
+(unsignedint)v7,v1o);
+printf("解密后内容："）;
+fwrite(v1o,1LL,v8,stdout); putchar(10LL);
+free(v9); free(v10);}
+else
+puts("Base64解码失败。"）;
+} else
+puts("输入为空。");

@@ -1,0 +1,41 @@
+# OCR: 99c2793878c30eca507f1c67048f1e68.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/99c2793878c30eca507f1c67048f1e68.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:27
+
+表名： sys user (用户信息表)
+字段数 21
+序号 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+状态
+bhonenu... 三机号码
+15888888888 15666666666
+sex
+用户性别（.
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+avatar 头像路径
+数据量 81
+password 密码
+1e66fc78cba... 8e6d98b904... 271fa46f679... dbe767780d... b0bf528d35... 37f782213a... e483631fdc... b983787421... 774baf726a... b7551df1e5... 6f96c9107d... 4f69caed2ce... 2a41df5534... 2eaf96b762... bcdcef621fa... 8aa0e1d619... f87dbe39e8f... 4ebe0d1599... 2fe1aef27a0...
+salt 盐加密 a9c30d 222222 a3eaad 8fbaaf 8f6c66 69fb7b 7c4051 890eb3 98fc67 037a5a 316e2c f48547 4e8025 19a943 317fdc 7a6a9b ca8766 2c3435 2597bc
+status 帐号状态
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+字符集
+utf8mb4 delflag 删除标志（.
+0 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+login_ip 最后登录IP
+49.70.95.156 127.0.0.1
+18.176.93.44
+127.0.0.1 127.0.0.1
+42.113.173.67 127.0.0.1
+210.0.158.202 14.255.93.242
+login date 最后登录时间
+2022-12-25... 2022-03-13... 2022-03-19... 2022-03-15... 2022-03-15...
+2022-03-21... 2022-10-30... 2022-03-25...
+2022-03-24..
+注释
+用户信息表
+pwd_upd... 密码最后更..
+2022-03-15... 2022-03-13...
+create_by
+创建者 admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin
+设置列

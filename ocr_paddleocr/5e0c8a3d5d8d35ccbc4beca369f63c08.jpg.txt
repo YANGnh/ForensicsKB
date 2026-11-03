@@ -1,0 +1,42 @@
+# OCR: 5e0c8a3d5d8d35ccbc4beca369f63c08.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/5e0c8a3d5d8d35ccbc4beca369f63c08.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+在线文本编辑器
+H保存
+全部保存
+S刷新
+目录：/www/wwwroot/touzilicai.com/.
+→上一级
+S刷新
+config.php db.php
+5
+index.html site.php
+十新建
+Q搜索
+Q搜素
+替换
+db.php× <?php
+2 3 4
+6 8 9 1e 11 12 13 14 15
+V
+16 17
+★跳转行
+工字体
+U主题
+*flagfuu7hPbw7dkTd1w8BfxsASLREVnGdOX
+*-mysql配置*，*/日
+returnarray(
+DBTYPE' DBHOST DBNAME DBUSER DBPWD' DBPORT!
+"mysql'，//数据库类型
+127.6.9.1，//数据库主机
+2828，//数据库名称 root，//数据库用户名 root，//数据库密码 3306//数据库端口#
+→"think_，//数据库前缀
+DBPREFIX'
+本设置
+?快捷键
+DBCHARSET=>utf8，//字符集
+，/数据库调试模式开启后可以记录SQL日志
+DBDEBUG'
+2>

@@ -1,0 +1,26 @@
+# OCR: bad1b9dc9716a1f4b6b53ac3fa59d0b6.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/bad1b9dc9716a1f4b6b53ac3fa59d0b6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+星生
+电
+回
+国
+中
+bin dev etc lib lib64 mbr opt proc tardisks
+tardisks.noauto
+tmp usr var vmfs
+vmimages mtoolsrc altbootbank
+bootbank bootpart.gz bootpart4kn.gz
+local.tgz locker
+productLocker
+sbin scratch store
+vmupgrade
+2024FIC服务器
+终端×
+The time and date of thislogin have been sent to the system logs WARNING:
+Atl commands run on the Esxi shell are logged and may be included in support bundles. Do not provide passwords directlyon the command line Most tools can prompt for secrets or accept them from standard input
+VMwareoffers supportedpowerful systemadministration tools.please seewww.vmware.com/go/sysadmintoolsfordetails.
+TheEsxi Shell can be disabled by an administrative user.See the
+vSphereSecurity documentationfor moreinformation.[root@localhost:~]

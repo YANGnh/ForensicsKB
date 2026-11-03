@@ -1,0 +1,10 @@
+# OCR: ad91d3a929ebea65570cf3df88663e67.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/ad91d3a929ebea65570cf3df88663e67.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+42000 164
+YouhaveanerrorinyourSQLsyntax;checkthemanualthatcorres 10501
+SQLSTATE[4200o]:Syntaxerrororaccessviolation:1o64Youhavea
+taxtousenear'=5oLIMIT1'atline1 SELECT*FROM‘app_admin_menu'
+WHERE=50LIMIT1

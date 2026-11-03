@@ -1,0 +1,74 @@
+# OCR: 7de172c05d7a8fc4aa86f8de478478b1.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/7de172c05d7a8fc4aa86f8de478478b1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+eQ
+role@main(media.20240601)-表-NavicatPremium
+文件
+编辑
+连接
+查看新建查询
+ad _list
+表
+ad_player_ref
+category cut_task group
+group_player_ref group_userref led
+led_send
+play_preset list
+收藏夹表
+play_preset list content play_preset_send_history player
+player_attribute playerupdatetask program
+program_content program_send reserve_schedule
+reserve_schedule_item role
+role_permission role_user_ref scheduling
+scheduling_content screen
+screen_group
+screen_group.task
+screen_group_task item user
+userattr
+user_defined
+视图 A-Z素引 >
+> > >
+触发器查询备份
+工具
+窗
+0 视图
+对象
+昆开始事务 id
+帮助 A-z 索引
+触发器
+用户
+查询
+actionlog@main(media.20240601)..
+自文本、了筛选排序 用列
+name
+ee36d2d5-92dd-4bfb-9: 2e961777-e010-46d8-be
+超级管理员节目编辑员
+5ee9a3d0-d9e4-43eb-9节目审核员
+X
+c
+state
+1 1 1
+备份
+自动运行
+心
+模型
+player_attribute@main(media.2024...
+咖创建图表
+导入导出数据生成
+SELECT*,rowid"NAVICATROWID"FROM"main'.'role"LIMIT0,1000
+图表
+role@main（media.20240601)-表
+rolepermission@main(media.2024.
+画圆
+不
+业
+O
+leid 类型
+?国用
+VARCHAR(64) 不是null 是
+默认值注释
+第1条记录（共3条）于第1页
+口
+x 口

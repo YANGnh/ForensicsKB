@@ -1,0 +1,58 @@
+# OCR: 104e01af3e5da0baecc83eebce5093f7.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/104e01af3e5da0baecc83eebce5093f7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+H保存
+全部保存
+S刷新
+目录：/www/server/nginx/conf
+→上一级
+>
+S刷新
+rewrite vhost
+十新建
+G
+enable-php-00.conf Genable-php-52.conf Genable-php-53.conf Genable-php-54.conf Genable-php-55.conf Genable-php-56.conf Genable-php-70.conf Genable-php-71.conf Genable-php-72.conf Genable-php-73.conf Genable-php-74.conf Genable-php-80.conf G enable-php-81.conf Genable-php.conf G
+fastcgi.conf
+自
+fastcgi.conf.default
+冒fastcgiparams
+自自
+fastcgi_params.default
+koi-utf koi-win
+9 搜索
+Q搜索
+替换
+nginx.conf ×
+★跳转行
+SEerLURESr
+58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 98 91 92 93
+server
+access log off; listen 888;
+server.name
+index root
+工字体
+phpmyadmin;
+U主题
+夺设置
+index.htmlindex.htmindex.php;/www/server/phpmyadmin;
+Location ~/tmp/+
+return 403;
+#error page
+404
+14e4.htmls
+includeenable-php.conf;
+location~.*l.(gifjpg|ipeglpng|bmpswf)$
+expires
+3ed;
+locationw.*).(jscss)?s
+12h;
+expires
+location~/.
+deny all;
+access_log/www/wwwlogs/access.log;
+Lnclude/www/server/panel/vhost/nginx/*.conf;
+文件位置
+nxconi
+?快捷

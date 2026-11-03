@@ -1,0 +1,31 @@
+# OCR: 70b03f682f6630299cb75108bdd0fdaa.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/70b03f682f6630299cb75108bdd0fdaa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+Wireshark·追踪HTTP流(tcp.streameg7)·test.pcap POST/api/auth/loginHTTP/1.1
+Authorization:Bearer{eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbwUiOiJhZG1pbiIsImlhdCI6MTcoMzY1MjExMSwiZ
+XhwIjoxNzQzNzM4NTExfQ.zG0YmNaVw4LcfVA46dG709aLhg3jScvV1HzqwVxA) Content-Type:application/jsor
+Jser-Agent:PostmanRuntime/7.43.2 Accept：*/
+Postman-Token：60f17033-93f9-4700-bb8b-be8afb94ee7b Host:api-server.com
+Accept-Encoding:gzip,deflate,br
+Connection:keep-alive Content-Length:65
+"username":"admin"
+"password":"zhaohong666"
+HTTP/1.12000K
+Server:nginx/1.27.4
+Date:Tue,08Apr202505:16:14GMT
+Content-Type:application/json;charset=utf-8 Content-Length:250
+Connection:keep-alive
+Content-Security-Policy:default-src'self';base-uri'self';font-src'self'https:data:;form-action'self';frame-ancesto rs 'self'img-src 'self'data:jobject-src 'none';script-src 'self';script-src-attr 'none';style-src 'self'https:'unsafe-inline';upgrade-insecure-requests
+Cross-Origin-Embedder-Policy:require-corp
+Cross-Origin-Opener-Policy:same-origin Cross-Origin-Resource-Policy:same-origin Origin-Agent-Cluster:?1
+Referrer-Policy:no-referrer
+Strict-Transport-Security:max-age=15552ooo;includeSubDomains X-Content-Type-Options:nosniff
+X-DNS-Prefetch-Controloff X-Download-Options:noopen X-Frame-Options:SAMEORIGIN
+X-Permitted-Cross-Domain-Policies:none X-xSS-Protection:0
+Access-Control-Allow-Origin:*
+ETag:W/"fa-P5hBqvTo5S4ENoSJw/bL6b9aapg"["success"：true,"message"："登录成功"，
+token"："eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbwUiOiJhZG1pbiIsIn
+1hdCI6MTc0NDA40TM3NCwiZXhwIjoxNzQ0MTc1Nzc0fQ.Fgf8Lfp4FAwHn1UChcjlsv1dwTxkhGKF2WtgHZ5Emo0""user":{"id":1,"username"："admi
+x

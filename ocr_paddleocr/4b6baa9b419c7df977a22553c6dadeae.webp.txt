@@ -1,0 +1,53 @@
+# OCR: 4b6baa9b419c7df977a22553c6dadeae.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/4b6baa9b419c7df977a22553c6dadeae.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+90176 90177 90178 90179 90180 90181 90182 90183 90184 90185 90186 90187 90188 90189 90190 90191 90192 90193 90194 90195 90196 90197 90198 90199 90200 90201 90202 90203 90204 90205 90206 90207 90208 90209 90210 90211 90212 90213 90214 90215 90216
+"personalized-on-preboot"=l;
+"prepare-snapshot"= 1;"splat-enabled"= l;
+"suspended-update-path"="/private/var/Mobilesoftwareupdate/softwareupdate.20113.4Jvghz/";"update-asset-attributes"=
+ActualMinimumsystemPartition=4479
+AssetType="com.apple.MobileAsset.softwareUpd Build=20B82;
+CryptexsizeInfo =
+Cryptexsize = 10;
+CryptexTag="cryptex-app"; Cryptexsize=2528;
+CryptexsizeDelta = 30;
+CryptexTag="cryptex-system-arm64e";
+)
+Installationsize=144363520;
+"Installationsize-Snapshot"=1394995217; Minimumsystempartition = O;
+"16.1"
+osversion =
+PrereguisiteBuild =20a392;
+PrerequisiteosVersion ="16.0.3";
+查找
+查找替换文件查工程中查找标记
+查找目标()：16.1
+选取范围内)
+口反向查找全词匹配口匹配大小写(C) 因循环查找(P)
+查找模式普通
+O扩展α(n,vt,o,x.)）
+O正则表达式(G)
+口，匹配新行
+查找下一个计数口
+在当前文件中查找查找所有打开文件(Q)
+取消
+?通明度B
+①失去焦点后 O始终
+0xa3247e4487bcb8dc223f047cd3074d8d...49acc9cd6297f3741;
+RsEpDigest=length=48.bytes= Ramp=o;
+RescueMinimumsystemPartition=4789;
+SEPDigest=(length=48,bytes=0xa8744ee9e0d51523b5628f78fb11c8be...fe7d93a79a2279691i sUConvRegd = 1;
+sDocumentationID=iosi6ishort;
+sUInstaliTonightEnabled = l; sUMultipassEnabled = 1;
+sUProductsystemName=ios;
+"Apple Inc.";
+sUPublisher =
+SupportedDeviceModels
+D22AP
+);
+SupportedDevices
+"iPhonel0,3"
+（
+x 口

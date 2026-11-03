@@ -1,0 +1,31 @@
+# OCR: d9b558d84e115bd1e90f64d45371c380.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/d9b558d84e115bd1e90f64d45371c380.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+QuickExec]ALT+Q>typeHELPtolearnmore
+GetStarted Headers
+Statistics
+TextView
+Inspectors
+SyntaxView
+AutoResponder
+WebForms
+HexView
+Composer
+Auth
+Fo
+Cookies
+GEThttp://chat.hack.com:sooo/chat/poli?since_id=iz
+HTTP/1.1
+Host:chat.hack.com:sooo
+Proxy-connection:keep-aiive
+FiddlerOrchestraBeta
+Raw
+JSON
+XML
+FiddlerScr
+User-Agent:Mozi11a/5.0(Linux:Android9:RMx1931Bui1d/PQ3B.190801.05281822)App1ewebKit Accept:*/t
+X-Requested-with:mark.via
+Referer:http://chat.hack.com:sooo/chat Accept-Encoding:gzip,defiate
+Accept-Language:zh-cN.zh:q=o.9.en-us:q=o.8.enq=o.7

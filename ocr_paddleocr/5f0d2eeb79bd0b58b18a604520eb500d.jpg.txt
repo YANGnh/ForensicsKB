@@ -1,0 +1,49 @@
+# OCR: 5f0d2eeb79bd0b58b18a604520eb500d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/5f0d2eeb79bd0b58b18a604520eb500d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+@UserInfoController
+手
+X
+@GetMapping("/(id)"})
+@PreAuthorize("@ss.hasPermi('app:user_info:query')")
+133 134
+143 144 145 146 147 149
+151 168 161 162 163 164
+166 167
+178 171 172 173
+175 176 177
+179 181
+186 187
+189
+publicAjaxResult getInfo(@PathVariable("id")Long id)
+return AjaxResult.success(this.userInfoService.selectUserInfoById(id));
+争
+@Log(title=“用户列表"，businessType=BusinessType.INSERT)@PostMapping
+@PreAuthorize("@ss.hasPermi("app:userinfo:add')")
+public AjaxResult add(@RequestBody UserInfo userInfo)(
+userInfo.setPwdUpdateState(1);
+userInfo.setPassword(EncryptionUtils.encryPassWord(userInfo.getPassword(),"!@#qaaxcfvghhjllj788+))(("));
+int i=this.userInfoService.insertUserInfo(userInfo); if(i>o)
+this.userwalletService.updatePassword(userInfo.getId(),userInfo.getPayPassword())
+returntoAjax(i); 争
+@Log(title=“用户列表，businessType=BusinessType.UPDATE)@PutMapping
+@PreAuthorize("@ss.hasPermi(app:userinfo:edit)")
+publicAjaxResultedit(@RequestBodyUserInfouserInfo)
+UserInfo modify = new UserInfo(); modify.setId(userInfo.getId()):
+if(userInfo.getHeadImage()/= null)
+modify.setHeadImage(userInfo.getHeadImage());
+(userInfo.getNickName()!=null) if
+modify.setNickName(userInfo.getNickName());
+UserInfoinfo=this.userInfoService.selectUserInfoById(userInfo.getId()); if(info.getPwdUpdatestate()==null){
+if(StringUtils.isNotEmpty(userInfo.getPassword()))(
+modify.setPassword(EncryptionUtils.md5(userInfo.getPassword())):
+1elseif(info.getPwdUpdatestate().equals(1))
+if(StringUtils.isNotEmpty(userInfo.getPassword()))
+modify.setPassword(Encryptionutils.encryPassWord(userInfo.getPassword(),"!@#qaaxcfvghhjllj788+)_)(("));
+J elseif(info.getPwdUpdatestate().equals(2)&&StringUtils.isNotEmpty(userInfo.getPassword()))(
+modify.setPassword(AEsUtil.encrypt(userInfo.getPassword())):
+if
+(StringUtils.isNotEmpty(userInfo.getPayPassword()))
+this.userWalletService.updatePassword(userInfo.getId(),userInfo.getPayPassword()): return toAjax(this.userInfoService.updateUserInfo(modify));

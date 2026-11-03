@@ -1,0 +1,19 @@
+# OCR: 81b80da993a203b8fa2a29348fb19464.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/81b80da993a203b8fa2a29348fb19464.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+forensix2025.work.gd
+Err0r 1001
+RayID:9374d5d1cc461c68.2025-04-2807:27:06UTC
+DNsresolutionerror What happened?
+You'verequestedapageonawebsite(forensix2025.work.gd)that isontheCloudflarenetwork.Cloudflareiscurrentlyunableto
+resolveyourrequesteddomain(forensix2o25.work.gd).Thereare twopotentialcausesofthis:
+.Mostlikely:iftheownerjustsignedupforCloudflareitcan
+take a few minutes for the website's information to be distributedtoourglobalnetwork.
+Lesslikely:somethingiswrongwiththissite'sconfiquration
+Usuallythishappenswhenaccountshavebeensignedup witha partner organization (e.g.,a hosting provider)and the provider's DNS fails.
+Wasthispagehelpful?
+Yes
+No
+CloudflareRayID:9374d5d1cc461c68.YourIP:Clicktoreveal.Performance&securitybyCloudflare

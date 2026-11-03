@@ -1,0 +1,29 @@
+# OCR: 5b6950001fd5803dd0e2ce6cba1b517b.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/5b6950001fd5803dd0e2ce6cba1b517b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+1og=saber&pwd=root&wp-submit=%E7%99%BB%E5%BD%95&redirect_to=http%3A%2F%2F192.168.209.147%2Fwp-admin%2F&testcookie=1
+HTTP/1.1200OK Server:nginx
+Date:Mon,05Aug2024 08:18:56GMT
+Content-Type:text/html;charset=UTF-8 Transfer-Encoding:chunked
+Connection:keep-alive Vary:Accept-Encoding
+Expires:Wed,11Jan1984e5:00:9eGMT
+Cache-Control:no-cache,must-revalidate,max-age=o
+Set-Cookie:wordpresstestcookie=wp%2oCookie%2ocheckpath=/ X-Frame-Options:SAMEoRIGIN
+Content-Encoding: gzip <!DOCTYPE html>
+<html lang="zh-CN"> <head>
+<meta http-equiv="content-Type" content="text/html; charset=UTF-8" /> <title>登录&lsaquo;web3&#8212;WordPress</title>
+<meta name='robots'content='noindex,nofollow,noarchive'/>
+<linkrel='stylesheet'href='http://192.168.2o9.147/wp-admin/1load-styles.php?c=o&amp;dir=ltr&amp;load%5Bchunk_o%5D=dashicons,button s,forms,l1on,login&amp;ver=6.6.1'media='all'/>
+<metaname='referrer'content='strict-origin-when-cross-origin'/>
+<metaname="viewportcontent="width=device-width"/> </head>
+<bodyclass="login no-js login-action-login wp-core-ui
+locale-zh-cn">
+<script>
+document.body.className= document.body.className.replace('no-js','js'); </script>
+<divid="login">
+<h1><ahref="https://cn.wordpress.org/">基于WordPress</a></h1>
+<divid="login_error"class="noticenotice-error"><p><strong>错误：</strong>为用户名<strong>saber</strong>指定的密码不正确。
+<ahref="http://192.168.2o9.147/wp-login.php?action=lostpassword">忘记密码？</a></p></div>
+infe

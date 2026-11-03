@@ -1,0 +1,16 @@
+# OCR: 70277469f5b03f09ab207ad9c7ac0d3a.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/70277469f5b03f09ab207ad9c7ac0d3a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+if
+($id)
+$form->password('password', trans('admin.password'))
+->minLength(5)->maxLength(20)
+>customFormat（function
+return);
+ else
+$form->password('password
+->required
+minlength(5).->maxLength(20)
+trans（'admin.password')

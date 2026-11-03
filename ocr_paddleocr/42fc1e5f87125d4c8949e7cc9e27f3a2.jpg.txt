@@ -1,0 +1,28 @@
+# OCR: 42fc1e5f87125d4c8949e7cc9e27f3a2.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/42fc1e5f87125d4c8949e7cc9e27f3a2.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+root@server~#rpm-qimdadm-4.1-9.el79.x8664
+Name
+Version Release
+mdadm：4.1
+9.el79
+Architecture: InstallDate:
+Group Size
+License Signature SourceRPM Build Date Build Host Relocations
+Packager Vendor URL
+Summary
+Description
+x8664
+Thu16Feb202301-13:01PMCST SystemEnvironment/Base
+1075374 GPLV2+
+RSA/SHA256,Thu24Feb202209:53:37PMCST,KeyID24c6a8a7f4a80eb5 mdadm-4.1-9.el79.src.rpm
+Thu24Feb202201-09:53AMCST
+x86-o2.bsys.centos.org(notrelocatable)
+Centos BuildSystem <http-//bugs.centos.orgx Centos
+http://www.kernel.org/pub/linux/utils/raid/mdadm/
+Themdadm program controls Linux md devices (software RAID arrays)
+The mdadm program is used to create,manage, and monitor Linux MD (software RAiD)devices.As such.itprovidessimilarfunctionality totheraidtools package.However,mdadmis a singleprogran,and it can perform
+almost all functions without a configuration file, though a configuration
+file can be used to help with some common tasks.[root@server~]#

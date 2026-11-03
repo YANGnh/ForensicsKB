@@ -1,0 +1,16 @@
+# OCR: 63be26cceae28a22bfd781b9a116a90f.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/63be26cceae28a22bfd781b9a116a90f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:32
+
+vcsa
+vMwareuCenterSeruer8.0.3.00500
+Tupe: uCenter Seruer with an embedded Platform Seruices Controller
+Intel(R)Core(TM)i7-9750HCPU2.60GHz
+4x
+7.7GiBMemory
+Please uisit the following URL to configure this appliance: https://ucsa.pgs.cup:5480
+Downloadsupportbundlefrom:
+https://ucsa.pgs.cup:443/appliance/support-bundle https://192.168.10.100/(STATIC）
+<F2> Customize Suystem
+<Fi2>ShutDownRestart

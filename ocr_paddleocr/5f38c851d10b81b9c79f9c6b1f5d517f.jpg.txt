@@ -1,0 +1,16 @@
+# OCR: 5f38c851d10b81b9c79f9c6b1f5d517f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/5f38c851d10b81b9c79f9c6b1f5d517f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+[root@wnsbackup#cat/root/backup.sh#!/bin/bash
+DB_USER="root"
+DBPASSWORD="root" DBNAME="2828
+BACKUPPATH-"root/backup CdSBACKUPPATH
+DATE=S(date+%Y%m%d%H%M%S）
+AEs PAsS=s(echo -n "sDB NAME"/openssl enc -aes-256-cbc -a -salt -pass pass:mysecretpassword -nosalt) BACKUP FILE NAME-"SDB NAME}SDATE).SqL"
+mySqLdump-uSDBUSER-PSDB_PASSWORDSDBNAME>SBACKUPFILENAME File Name-"s(DB NAME].sql.gz"
+tar-czvf-sBACKUP_FILENAMEopenssl des3-salt-ksAES_PASS-outsFile_Name TM-TfSBACKUPFILENAME
+mysqladmin-uSDB_USER-pSDBPASSWORDdropSDBNAME--force
+[root@wns backup]# echo-n"2828"/openssl enc -aes-256-cbc-a-salt -pass pass:mysecretpassword-nosalt
+IvPGP/8vfTLtzQfJTmQhYg= Troot@wnsbackup#

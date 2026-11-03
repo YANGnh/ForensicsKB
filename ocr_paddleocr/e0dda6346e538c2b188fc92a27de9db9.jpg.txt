@@ -1,0 +1,13 @@
+# OCR: e0dda6346e538c2b188fc92a27de9db9.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e0dda6346e538c2b188fc92a27de9db9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+server
+listen8e
+servernameadminjmhw.sdxfwl.top; indexindex.htnl
+root/webapp/dist,#解决页面刷新404问题
+tryfilesSuriSuri//index.html; location/prod-api/
+proxy_passhttp://127.o.o.1:808o/: proxy_setheaderHostshost;
+proxyset_header X-Real-IP Sremote addr proxy_setheaderREMOTE-HOSTSremote addr
+proxy_set_headerX-Forwarded-ForSproxy_addx_forwarded_for;

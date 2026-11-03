@@ -1,0 +1,25 @@
+# OCR: 9f86149d2edf97b838d1060ce65563f9.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/9f86149d2edf97b838d1060ce65563f9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+register.php4x
+website.com>source>reqister.php>.
+51 52 53 54 55 56 57 58 5g 68 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 88 81 82
+$phone=Val（phone，“posT'）：//获取手机号判断格式
+if（empty$username）||pregmatch（/^[lw|x（4eoo-x[9fa5]]2,20）$/ususername））（ShowError（用户格式不正确，$url[register]，重新填写） if（empty（Semai1）1l！pregmatch（/（w+l.）*2lw+e（lw+/.）+lw+s/Semail））ShowError（邮箱格式不正确，$url［register]“重新填写）
+if(lempty（$phone）！preg_match(/（ld(11)s/，$phone））（ShowError(手机格式不正确，surl[register']，重新填写）;//手机验证 if（empty（$userpwd）1|！pregmatch（/6,2e）$/，$userpwd））（ShowError（密码应为6-2e位字符，$url[register]，重新填写）
+stbUser-sdb->tbPrefix.user/用户是否存在
+SuserExisted-sdb->FirstValue("sELEcTCOUNT(*)FROM(StbUser)WHEREuserName(Susername)");
+if（suserExisted>e）ShowError（"用户（susername）已存在"，surl['register']，重新增写） 1/邮箱是否存在
+$emaiIExisted-sdb->FirstValue("SELECT COUNT(*)FROM($tbUser)WHERE email-'{Semail)"");
+if($semailExisted>e）ShowError（"邮箱（semail)已存在"，surl［register]，重新填写)：入库
+sexecuteArr=array(userName=>susername if(sdb->AutoExecute(stbuser,sexecuteArr
+if(!empty(SinviteRow))
+"userPwd=>ocEncrypt(Suserpwd)
+email>semail,'phone=>sphone,'addTime'>time())
+$regUserId-sdb->LastId();
+Sdb->Execute("uPDATE(stbInviteReg)SETisUsed-1,regUserId-"(SregUserId)",regTime-"".time()."WHEREid-"(sinviteRow["id'J)")//自动登录
+Suser->Login(susername,suserpwd,1); Showsuccess（“注册成功，Surl[root']);
+elset
+ShowError（出错了，请与管理员联系）；

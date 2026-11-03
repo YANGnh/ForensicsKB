@@ -1,0 +1,46 @@
+# OCR: f93db24bbc8294db97182e456079ba3d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/f93db24bbc8294db97182e456079ba3d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+#管理后台代理
+20221227
+server3
+servernane
+listen
+root index
+#后台接口服务配置
+location/adminAPI/
+proxy_pass
+Raster.jy-proxy2.jshcloud.cnpaster.jy-proxy-jshcloud.cn, 80
+/usr/share/nginx/html, index.htmlindex.htm;
+http://192.168.100_111-9032/
+SRealIp
+set
+SReaUIP（*）（.*））setSRealIPS1：）#关于cdn多层代理逻辑下客户端真实IP截取20230130
+proxy_setheader proxy_setheader proxy_setheader proxy_setheader
+#新增如下
+proxybuffersize proxy_buffers
+Host
+X-Real-IP
+X-Forwarded-For
+X-Forwarded-Proto
+1024k
+161024k;
+proxy_busybuffers_size2048k
+proxy_temp_file_write size2048k;
+location/
+root
+/home/www/jinyi;
+shost:sserverport
+SRealIP-#Sremoteaddr
+Sproxy_addxforwardedfor:if（
+Sproxy_addxforwardedfor sscheme;
+tryfiles Suri Suri/ /index.html;
+#解决Router(mode："history）模式下，刷新路由地址不能找到页面的问题 if(!-eSrequestfilename)
+rewrite ^(*)s/index.html?s=s1 last; break;
+error_page404/404.html
+Location=
+140x.html3
+errorpage500502503504/50x.html;
+Location=/5ex.htnl

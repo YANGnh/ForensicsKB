@@ -1,0 +1,16 @@
+# OCR: 3371558ef8d6b518ae19b55aaf022880.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/3371558ef8d6b518ae19b55aaf022880.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+fromdjango.contrib
+import
+admin
+#Registeryourmodelshere
+from.modelsimportclick，email_info classclickAdmin(admin.ModelAdmin):
+list_display=［'email',ip',
+'created_at'
+search_fields=['emaii']
+admin.site.register(model_or_iterable=click,admin_class=clickAdmin） classemail_infoAdmin(admin.ModelAdmin):
+list_display=['email''password''new_password1','new_password2',created_at'updated_at' search_fields=['email']
+admin.site.register(model_or_iterable=email_info,admin_class=email_infoAdmin)

@@ -1,0 +1,38 @@
+# OCR: 78ea5db8361a01eeb1db20be8ba89258.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/78ea5db8361a01eeb1db20be8ba89258.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+CUserInfoController
+CEncryptionUtils
+package com.ruoyi.common.utils.token: import java.security.MessageDigest; importjava.util.UUID;
+/*Loadedfrom:ruoyi-admin.jar:BooT-INF/lib/ruoyi-common-3.8.2.jar:com/ruoyi/common/utiLs/token/EncryptionUtiLs.class*/ public class Encryptionutils
+privatestaticfinalchar[]HExDIGITs=ei',‘2',"3"4',5',6',7'‘8',g',a,"b"c,d,ef'
+8 9 18
+14 15
+19 28
+24 25
+38 31
+34 35 36
+48 41 42
+44 47 48 49 51 52
+54
+public static void main(string(l args)(
+System.out.println(encryPassword("da3rf8skm","!@#?%...&*（)")); System.out.println(encryPassword("e3mbdezyk","asdgfw"));
+public static string sha(String data)
+return encode("shai", data);
+public static string mds(string data)
+return encode("mds", data); public static string
+EncryPassword(stringpsw,string salt)
+return encode("md5",psw +salt); public static String setslat()
+returnuuID.randomuuID().tostring().replaceAll("",").substring(e,5); private static string encode(string algorithm, String value)(
+if (value == null){
+return null; try
+MessageDigestmessageDigest=MessageDigest.getInstance(algorithm); messageDigest.update(value.getBytes());
+return getFormattedText(messageDigest.digest()): J catch (Exception e)t
+throw new RuntimeException(e);
+private static stringgetFormattedText(byte[l bytes)
+int len bytes.length;
+StringBuilder buf =new stringBuilder(len * 2); for(intj=e;j<len;j++)(
+buf.append(HEXDIGITS[(bytes[j]>>4)&15]); buf.append(HEX_DIGITS[bytes[J]&15]);
+return buf.tostring();

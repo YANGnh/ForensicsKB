@@ -1,0 +1,13 @@
+# OCR: 23f704dada4129be0be7164921965b4d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/23f704dada4129be0be7164921965b4d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+server
+Listen8e-
+server_namegroupadmin.sdxfwl.top: indexindex.html
+root/webapp/group,#解决页面刷新404问题
+try files Suri Suri//index.html: location /prod-api/f
+proxy_passhttp://127.0.0.1-808o/ proxy_setheaderHostshost:
+proxy_set header X-Real-Ip Sremote addr proxy_set_header REMOTE-HOST Sremote addr
+proxy_set header X-Forwarded-For Sproxyadd x_forwardedfor

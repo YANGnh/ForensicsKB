@@ -1,0 +1,41 @@
+# OCR: 7f1c5b36887abdae2d3f041b06a3e12a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/7f1c5b36887abdae2d3f041b06a3e12a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+CounidbgCUsersAdministrator/Desktop
+B.idea.mvn assets backend
+Caunidbg-android 口src
+vmain vjava
+>com.github.unidbg >net.fornwall.jelf
+>resources
+vtest vjava vcom
+anjuke.mobile.sign baidu.uti
+bytedance.frameworks
+example detective encode holygrail
+运行 C
+川
+TestX
+回国
+16 17 18 19 20 21 22 23 24 25 26
+28 29 30 31 32 33 34 35 36 37
+publicclassTest
+public static final@NotNull string a @NotNull string str) throws NosuchAlgorithmException,UnsupportedEncodino
+stringbiglnteger=newBiglnteger(signum:i,digest).tostring(radix:io) if(32<=bigInteger.LengthO)
+charsequence=bigInteger.subsequence(o.bigInteger.lengthO):
+felsey
+stringBuilder sb = new stringBuilder( capacity:32):
+int length = 32 - bigInteger.length(; if(1<=length)[
+while(true)
+sb.append(o):
+if(i==Length)
+break 16++;
+sb.append((charsequence)bigInteger) charsequence=sb
+return charsequence.tostringO
+public static void main(stringl) args) throws UnsupportedEncodingException,NosuchAgorithmException
+Sustem nt npintinnrstpinn vnluenfri:oo8i)
+suhstpinn(A 1A))
+c:|ProgramFilesJavaljdk-17\binljava.exe o5d8cccb5f
+进程已结束，
+退出代码为0
+性能

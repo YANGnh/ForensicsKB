@@ -1,0 +1,23 @@
+# OCR: f52bcfa09a8917a267fe21a5ddcf4c9c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/f52bcfa09a8917a267fe21a5ddcf4c9c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+char *
+fastcalldecrypt(int64a1)
+int64v1;//rax int64v2;//rbp int64v3;//r12 int64v4;//rdi
+unsigned int v5;//ebx int64v6;//rbp
+int128*Aeskey://r12
+int64v8;//rax int v9;// ebx
+intv11;/[rsp+Ch][rbp-82Ch]BYREF
+charv12[1024];//[rsp+10oh][rbp-828h]BYREF chars[1064];//[rsp+410h][rbp-428h]BYREF
+v1=BIofbase64(); v2-BIOnew(v1)
+v3 =BIOnewmem buf(a1,0xFFFFFFFFLL):
+BI0_set_flags(v2,256LL); v4=BIo_push(v2,v3);
+v5=BIoread(v4,v12,1024LL); BIofreeall(v4);
+V6 = EVP_CIPHER_CTX_new();
+Aeskey = getAeskey(); v8=EVP_aes_256_cbc();
+EVP_DecryptInit_ex(v6,v8,oLL,Aeskey,&AEs_IV);
+EVP_DecryptUpdate(v6,5,&v11,v12,v5): v9=v11:
+EVP_DecryptFinal_ex(v6,&s[v11],&v11); s[v11 + v9] = 0;
+EVP CIPHER CTX free(v6): returnstrdup(s);

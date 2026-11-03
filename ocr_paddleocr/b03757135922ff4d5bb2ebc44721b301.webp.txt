@@ -1,0 +1,6 @@
+# OCR: b03757135922ff4d5bb2ebc44721b301.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/b03757135922ff4d5bb2ebc44721b301.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+# 结果: 无可用文本（Umi-OCR 未识别到文字）

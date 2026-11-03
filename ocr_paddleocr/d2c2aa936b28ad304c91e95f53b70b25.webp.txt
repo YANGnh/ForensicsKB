@@ -1,0 +1,7 @@
+# OCR: d2c2aa936b28ad304c91e95f53b70b25.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/d2c2aa936b28ad304c91e95f53b70b25.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+@override//org.springframework.security.crypto.password.PasswordEncoder publicStringencode(charSequencerawPassword)
+String salt ="{"+this.saltGenerator.generateKey() +"y"; returndigest(salt,rawPassword);

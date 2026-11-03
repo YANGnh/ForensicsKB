@@ -1,0 +1,9 @@
+# OCR: d8e8cdde388c4280b2dd650715f8f75d.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/d8e8cdde388c4280b2dd650715f8f75d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+if（v5）
+v6=sub4021BD(v5v13): if（v6）
+v7=(void（stdcall*)(DWORD,DWORD))sub402924(v6,String1);
+if（v7) v7(0,0);

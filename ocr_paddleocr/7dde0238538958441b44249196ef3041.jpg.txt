@@ -1,0 +1,28 @@
+# OCR: 7dde0238538958441b44249196ef3041.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7dde0238538958441b44249196ef3041.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+格带
+http
+##
+#BasicSettings#
+sendftleon; tcpnopushon;
+typeshashmaxsize2e48# server tokens off;
+# server nanmes hash bucket size 64,
+#server nane inredirect off include/etc/nginx/mine.types:
+default_type application/octet-strean;##
+#SSLSettingS##
+sslprotocolsTLSv1TLSv1.1TLSv1.2TLSv1.3;#DroppingSSLv3ref:PooDLE
+ssl prefer server ciphers on,##
+#LoggingSettings##
+access_log/var/log/nginx/access.log: errorlog/var/log/nginx/error.Log:
+群件
+#GzipSettings##
+gzip on;
+#gzip vary on:
+#gzipproxiedany:#gzip conp level 6,#gzipbuffers16 8k,
+#gziphttpversion1.1;
+#gziptypestext/plaintext/cssapplication/jsonapplication/javascripttext/xmlapplication/xnlappltcation/xnl+rsstext/javascript##
+#VirtualHostConfigs##
+include/etc/nginx/conf.d/*.conf include/etc/nginx/sites-enabled/*

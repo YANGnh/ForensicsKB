@@ -1,0 +1,24 @@
+# OCR: 2d040eedfffe6b7a5f61f93802c1651a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/2d040eedfffe6b7a5f61f93802c1651a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+8263日
+8264 8265 8266 8267 8268 8269 8270 8271 8272 8273 8274 8275 8276 8277 8278 8279 8280 8281 8282 8283 8284 8285 8286
+root@832de6ob9a2d:/#cat/etc/nginx/conf.d/api-server.conf server
+listen80
+server_name api-server.com;
+access_log/var/log/nginx/api-server-access.logmain:
+error_log location/
+/var/log/nginx/api-server-error.logwarn
+proxy.pass
+http://172.16.10.254:3000
+proxy_http_version
+1.1;
+proxy_set_header proxy_set_header proxy_set_header proxy_set_header proxy_set_header proxy_set_header
+UpgradeShttp_upgrade Connection"upgrade"; HostShost;
+X-Real-IP Sremote_addr;
+x-Forwarded-Forsproxy_add_x_forwarded_for; X-Forwarded-ProtoSscheme
+proxy_connect_timeout6os
+proxy_send_timeout proxy_read_timeout send_timeout
+60s 60s; 60s;

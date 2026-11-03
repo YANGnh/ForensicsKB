@@ -1,0 +1,32 @@
+# OCR: a84d0d9d4acba8703827fdd856f6121f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/a84d0d9d4acba8703827fdd856f6121f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+文件个
+llogs
+主页
+快速访问 ■桌面下载国文档国图片视频
+新加卷(D:)
+小音乐 WPS云盘此电脑网络
+共享
+查看
+maoxueliu>AppData>Roaming>Mattermostlogs
+名称
+main.log
+★
+main.log-记事本
+文件(F)编辑(E)格式(O)查看(V)帮助(H)
+修改日期
+2024/5/1117:46
+类型
+文本文档
+大小
+21KB
+[2024-04-2410:34:41.075][error] LoggerLoglevelsetto:info
+[2024-04-2410:34:41.291][warn][Config] Failed to load configurationfilefromthefilesystem.Us[2024-04-2410:34:41.294l[info][ConfiglMigratingconfigitemssuccessfully
+[2024-04-24 10:34:42.215] [info] [App.Config] config.autostart has been configured: true[2024-04-2410:34:42.375][info][App.Config]config.autostarthasbeenconfigured:true
+[2024-04-24 10:34:44.287][error] [MainWindow] Error:ENOENT:no such file ordirectory,open'C: atObject.openSync(node:fs:603:3）
+at Object.func[as openSync] (node:electron/js2c/node_init:2:2214) atObiect.readFileSync (node:fs:471:35)
+att.readFileSync(node:electron/js2c/nodeinit:2:9771)
+atMainWindow.getSavedWindowState(C:/Userslgaotao\AppData\Local/Programs/mattermos atMainWindow.init(C:/Userslgaotao/AppData/Local/Programs/mattermost-desktop/resources

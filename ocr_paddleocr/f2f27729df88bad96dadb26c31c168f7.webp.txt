@@ -1,0 +1,32 @@
+# OCR: f2f27729df88bad96dadb26c31c168f7.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/f2f27729df88bad96dadb26c31c168f7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+@override//org.springframework.security.config.annotation.web.configuration.WebsecurityConfigurerAdapter,org.springf public void configure(Websecurity web) throws Exception {
+web.ignoring().antMatchers("/verifyCode"): web.ignoring().antMatchers("/Code");
+@override//org.springframework.security.config.annotation.web.configuration.WebsecurityConfigurerAdapter protected void configure(AuthenticationManagerBuilder auth) throws Exception (
+auth.userDetailsService(this.userService).passwordEncoder(new MessageDigestPasswordEncoder("MD5")); LoginFilterloginFilter()throwsExceptionf
+LoginFilter loginFilter = new LoginFilter():
+loginFilter.setAuthenticationSuccessHandler(request,response,authentication->(
+response.setContentType("application/json;charset=utf-"): Printwriter out = response.getwriter():
+User user = (User) authentication.getPrincipal():
+String token = this.jwtTokenUtil.generateToken(user):
+UserParam userParam = new UserParam(user, token): Resultresult=Result.ok("登录成功"，userParam); out.write(JsoNUtil.toJsonstr(result)):
+out.flushO): out.closeO:
+）
+loginFilter.setAuthenticationFailureHandler(request2,response2,exception->
+response2.setContentType("application/json;charset=utf-8"): Printwriter out = response2.getwriter():
+Result result = Result.error(exception.getMessage()): if(exception instanceof LockedException)
+result.setMsg("账户被锁定，请联系管理员！"）
+elseif（exceptioninstanceofCredentialsExpiredException)f
+result.setMsg（"密码过期，请联系管理员！"）：
+elseif(exception instanceofAccountExpiredException)f
+result.setMsg（"账户过期：请联系管理员！"）：
+ else if (exception instanceof DisabledException)f
+result.setMsg("账户被禁用，请联系管理员！"）；
+helseif(exceptioninstanceofBadcredentialsException)
+result.setMsg（"用户名或者密码输入错误，请重新输人！"） out.write(JsoNUtil.toJsonstr(result)):
+out.flush(); out.closeO;
+loginFilter.setAuthenticationManager(authenticationManagerBean()):
+loginFilter.setFilterProcessesUrl(DefaultLoginPageGeneratingFilter.DEFAULTLOGIN PAGE URL): returnloginFilter:

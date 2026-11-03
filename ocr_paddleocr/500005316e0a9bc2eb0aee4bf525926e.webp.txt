@@ -1,0 +1,12 @@
+# OCR: 500005316e0a9bc2eb0aee4bf525926e.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/500005316e0a9bc2eb0aee4bf525926e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+IndexAction.class.php
+帮CommonAction.class.phpX
+App>Lib>Action>Admin>CommonAction.class.php
+classCommonActionextendsActiont
+55 56 57
+protected functiongetpass(spass)t
+returnsha1(md5(md5(c（'cfg_adminkey')).md5($pass)

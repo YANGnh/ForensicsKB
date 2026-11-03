@@ -1,0 +1,22 @@
+# OCR: 0f639de5d5424ac4378b8f0c3aaa0cc1.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/0f639de5d5424ac4378b8f0c3aaa0cc1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+注册
+public function register(
+if(c(isopenreg)e)
+sthis->redirect(error ) if(ISPOST)
+if（!ISAJAX)f
+$this->error（提交方式不正确！）； elsef
+susername= trim(I(username) $password=mds(I(password）)
+$res =M(user ->whereusername = if(Isres)f
+sreg data = array
+nickname"=>
+susername,
+username
+susername,
+password'=>$password,
+$username)"")->find();
+headimgurl=>I(headimgurl)"reg time' => time(),
+reg ip'=>get_client_ip()

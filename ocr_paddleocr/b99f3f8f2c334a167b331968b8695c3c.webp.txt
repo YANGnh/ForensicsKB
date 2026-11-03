@@ -1,0 +1,65 @@
+# OCR: b99f3f8f2c334a167b331968b8695c3c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/b99f3f8f2c334a167b331968b8695c3c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+N
+nginx
+conf.d
+api-server.conf
+docker-compose.yml
+test
+web-api
+app
+node modules src
+controllers middleware
+models routes
+auth.routes.js JS
+JS
+product.routes.js
+utils
+JS
+app.js
+indexjs JS
+Ehlian
+10 11 12 13 14 15 16 17 18 19 2e 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37
+终端
+X
+路由导）
+authRoutes=require('./src/routes/auth.routes');
+const
+const
+productRoutes =require('./src/routes/product.routes');
+//中间件导入
+const const
+const const
+errorHandler authMiddleware
+app = express():
+require('./src/middleware/error.middleware');
+= reguire(
+port=
+process.env.PoRT
+//基础中间件
+app.use(helmet()); app.use(cors());
+app.use(morgan('dev")); app.use(express.json());
+./src/middleware/auth.middleware);
+3000;
+app.use(express.urlencoded(( extended:true 3));//路由
+app.use('/api/auth',
+authRoutes);
+app.use('/api/products',
+authMiddlewareproductRoutes):
+1/健康检查端点
+app.get('/api/health'
+(req,res)=>[
+res.json(
+status:'ok'
+'Service is running'
+message:
+tacoctnipafy
+naulnataty
+src/utils/encryption.js: src/utils/encryption.js:
+"获取fLag2失败：
+console.error( get_flag2'
+string
+error);

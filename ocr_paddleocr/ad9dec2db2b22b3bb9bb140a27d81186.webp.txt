@@ -1,0 +1,7 @@
+# OCR: ad9dec2db2b22b3bb9bb140a27d81186.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/ad9dec2db2b22b3bb9bb140a27d81186.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+protected function getpass($pass)
+return md5(c('cfg_adminkey') . md5($pass))

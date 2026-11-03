@@ -1,0 +1,75 @@
+# OCR: d7fd449de5478d941055fa5b6835aecb.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/d7fd449de5478d941055fa5b6835aecb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+被善比电脑
+12
+X
+money (E:)
+回
+稳这个年纪了别玩了 BES
+EE 18
+常见密码-tuojie
+自用
+我们需要你重新登录。
+money
+排序
+搞钱要紧
+13 现热你息品手，没钱
+19
+DRTRERERCH
+查看
+14 JPG
+20
+详细了解登录请求
+穷人翻身必须尝试野路子
+15 File
+邀请加入Teams
+百丝斗会
+10 瞬不着禁信息差月入23万
+16 key
+ E:\money/File.eml - Notepad++ 文件(F)编辑(E)搜素(S)
+视图V
+编码(N)
+语言(L)
+设置(T)
+BoI
+cla
+日File.emlx
+119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152
+工具（O)
+运行(R)
+插件(P)
+宏M)
+质质
+x-Ms-Exchange-organization-MessageDirectionality:Incoming
+窗口W)
+日o
+登录
+-Ms-Exchange-Transport-CrossTenantHeadersStripped:DB5PEPFoooi4BsF.eurprdo2.prod.outlook.com X-MS-Exchange-Transport-CrossTenantHeadersPromoted:DB5PEPFoool4BsF.eurprdo2.prod.outlook.com X-MS-PublicTrafficType:Email
+X-MS-Exchange-Organization-AuthSource:DB5PEPFoool4B8F.eurprdo2.prod.outlook.com
+X-Ms-Exchange-organization-AuthAs:Anonymous X-MS-UserLastLogonTime:4/7/20253:14:12PM
+X-MS-0ffice365-Filtering-Correlation-Id-Prvs:lacbaf02-c23a-440c-adf3-08dd75e72be3
+X-MS-Exchance-EoPDirect: true X-Sender-IP:40.92.53.65
+X-STD-PRA:T.FR072COUTTOOK.COM X-SID-Result: PASS
+X-Ms-Exchange-organization-scL:5
+X-Micr0s0ft-Antispam:BCL:0;ARA:1444111002|2700799026|1302079900619300799024|461199028|47200799021|9
+X-MS-Exchange-CrossTenant-0riginalArrivalTime:07Apr202515:16:32.2760(UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id:f40e3918-05e9-48al-df72-08dd75e72e05 X-MS-Exchange-CrossTenant-Id:84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-Ms-Exchange-CrossTenant-RMs-PersistedConsumer0rg:00000000-0000-0000-0000-000000000000
+X-Ms-Exchange-CrossTenant-
+-persistedconsumerorg:000oo0o0-0o00-000-0o00-0oo00o00ooo
+TS
+X-MS-Exchange-CrossTenant-AuthSource:DB5PEPFoool4B8F.eurprdo2.prod.outlook.com X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped:TYoPRo2MB6o20 X-MS-Exchange-Transport-EndToEndLatency:00:00:04.9331317
+X-MS-Exchange-Processed-By-BccFoldering:15.20.8632.013 X-Microsoft-Antispam-Mailbox-Delivery:
+ucf:0;jmr:0;ex:0;auth:l;dest:J;0FR:SpamFi1terAuthJ;ENG:(5062000308)(920221119095)(90000117)(92022
+X-MesSage-Delivery:VjOxLjE7dXM9MDtsPTA7YTOwOOQ9MjtHRDOxO1NDTD02 x-Microsoft-Antispam-Message-Info:
+=?gb2312?B?bmglb11XaDR4aEo4TVE1THhJbndTV205Sj1MaTFVTk9zSDRQMXNuRVh3eFBi?=
+=?gb2312?B?T1hiYUJ2a01BTFRLTVJtOT1yMnBKeis4WjZZd3QzWUt0ekRVWDByZHhjb0t0?= =?gb2312?B?RUpOamY3eVZOMFz3dlkvUUQ3RFNpbzgwWXclaHhjdmVIdl1gWmglOTdhMklu?= =?gb2312?B?Rmxvck5uVVptWkc2YVNQY31PeWx4Y0FxMlF5VDQzdmE5aThEaDBEODNiMXBm?=
+Normal text file
+length:16.475lines:221
+Ln:128Col:25Sel:0|0
+Windows

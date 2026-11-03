@@ -1,0 +1,56 @@
+# OCR: ba712399665e36fb7885bb5477999088.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/ba712399665e36fb7885bb5477999088.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:28
+
+CobaltStrikeToolswork
+x
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0x0008 server,get-uri 0x0043DNSSTRATEGY
+0xOO44DNSSTRATEGYROTATESECONDS OxO045DNSSTRATEGYFAILX
+OxOO46DNSSTRATEGYFAILSECONDS 0x0o0eSpawnTo
+0x001d spawnto_x86 0x001e spawnto_x64 0x001f CryptoScheme
+0x001a get-verb 0x001b
+post-verb
+0x001c 0x0025
+IttnPos:
+license-id
+0x0024
+ueprecdted
+0x0026 bstagecleanup 0x0o27bCFGCaution
+0xO047MAXRETRYSTRATEGYATTEMPTS OXOO48MAXRETRYSTRATEGYINCREASE 0x0049 MAXRETRY STRATEGY DURATION
+0x00og useragent/5.0: MANM: MANM) Oxoooapost-uri
+Oxooob Malleable C2 Instructions
+Transform Input: [7:Input,4] Print
+oxooochttpgetheader
+0x0003 0x0100192.168.111.128,/__utm.gif
+0x0001 0x0002 0x0002 0x0002 0x0003 0x0003 0x0003 0x0001 0x0003
+0x00020 0x0004-1 0x0004 -1 0x0004 -1
+0x0010 0x0040 0x0040 0x0002 0x0010
+xoElx15xa0x7/82i008ax16*%windir%\lsyswow64\/rundll32.exe'%windir%\lsysnativellrundll32.exe 0
+'GET!
+'POST
+0x0003（
+0x0010
+0x0002
+0x0004
+口
+0x00020x0004391144938Statsuniques->ips/hostnames:183publickeys:155
+0x0003 0x0001 0x0001 0x0002 0x0002 0x0002
+0x0020 0x0002（
+0
+0x0002（ 0x0004（
+0
+0x00040 0x0004（
+0x0100
+0x0003
+d
+ubwW4TL3tPjBw=='
+x
+'Mozilla/5.o（compatibleMsIE9.owindowsNT6.1：wow64：Trident
+'/submit.php
+0x00039
+0x0040
+0x00030x0100 0x00030x0200
+Build Metadata: [7:Metadata,3,6:Cookie] BASE64
+Header Cookie

@@ -1,0 +1,69 @@
+# OCR: 37025bbbba021d865d646bb93ddb4af6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/37025bbbba021d865d646bb93ddb4af6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+pwndbg/mnt/f/ficwP
+R13 R14 R15 RBP RSP RIP
+ox7fffffffe4fo
+? 0
+x
+ox7fffffffe4o0-0 ox7fffffffe3co->
+0x7fffffffe3e6
+0x17500000
+-movrdx,qwordptr
+0x555555555523(main+273）
+0x555555555523 0x555555555527 0x55555555552c
+<main+273> <main+277> <main+282>
+0x55555555552e<main+284> 0x555555555532<main+288> 0x555555555536<main+292> 0x555555555539<main+295> 0x555555555540<main+302> 0x555555555545<main+307>
+0x55555555554a<main+312> 0x55555555554f<main+317>
+mov mov call
+mov mov mov Lea mov call
+mov Leave
+Infile：/mnt/f/ficwP/loader2.c:74
+69 70 71 72 73 74 75 76 77 78 79
+00:0000 01:0008 02:0010 03:0018 04:0020 05：0028 06:0030 07:0038
+-0x10
+[rbp
+qwordptr[rbp-oxlo] rdx,
+e
+eax, rdx
+qwordptr[rbp-8],rax rax,qwordptr[rbp-8] rsi，rax
+rdi, eax,
+[rip+oxbf6]
+printf@plt
+eax,
+printf("\n=-通过偏移量调用函数=-=)n")；
+［DISASM/x86-64/setemuLateon
+［ox7fffffffe3fo]=>0x7ffff7fc5750(get_fLag2】
+RDX，
+EAX=>0 <get_flag2>
+RDI=>0x5555555561364-0x1b01000000007325
+1%s/*
+EAX=> <printf@plt>
+EAX=>0
+SOURCE(CODE)
+getflag2_func getflag2=(getflag2_func)((char*)base_addr +getflag2_offset);
+printf("getflag2函数地址：%p（基地址+0x%lx)\n"，（void*)getfLag2，getflag2_offset)； void*result=getflag2O;
+printf("%s",result); returno;
+STACK
+rsp
+Ox7fffffffe3c0
+-0380x7fffffffe3c8-
+-0300x7fffffffe3d0-o28x7fffffffe3d8-0200x7fffffffe3e0-
+0x7fffffffe3e61-0x17500000
+0x7ffff7fc40004-0x10102464c457f
+0x55555555605f4-/mnt/f/ficwP/libJiami.so ox5555555560784--libJiami.so
+0x5555555592d0->0x7ffff7fc40004-0x10102464c457f
+-0180x7fffffffe3e84-
+@x175@
+-01o 0x7fffffffe3fo->0x7ffff7fc5750（get_flag2)-pushrbp-0080x7fffffffe3f8-0
+BACKTRACE
+0x555555555523main+273
+1 2
+ox7ffff7de8083_libc_start_main+243 ox55555555520e_start+46
+pwndbg>c Continuing.
+flag2(hong3[Inferior1(process28694)exitednormally] pwndbg>
+*/
+pushrbp
+x

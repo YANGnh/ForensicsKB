@@ -1,0 +1,20 @@
+# OCR: e685eca25d2a38f379e6414ab00efcc7.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/e685eca25d2a38f379e6414ab00efcc7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+moduli
+sshd config
+sshdconfig.rpmnew ssh config
+sshhostecdsakey
+sshhostecdsakey.pub sshhosted25519key
+sshhosted25519kev.pub sshhostrsakey
+sshhostrsakey.pub
+一分区
+文件
+同预览
++5
+#possible.butleavethemcommented.Un#defaultvalue
+#IfyouwanttochangetheportonaSELil#SELinux aboutthis change
+#semanageport-a-tssh_portt-ptcp#Po#
+Port12320

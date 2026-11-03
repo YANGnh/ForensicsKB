@@ -1,0 +1,19 @@
+# OCR: aebb1a303541e87104bd832679587be8.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/aebb1a303541e87104bd832679587be8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+//Token:0x0600026cRID:62e RVA:0x0000DC28 File0ffset:0x0000BE28
+publicstaticstring電萱iuF8ciluF7Doag情23luE9B7ueAc5+数（）
+stringresult; try
+stringtext=string.Empty
+stringscope=u32ECluE956\uFFFD薄笑减sluE8CE炜\uFDD2\u2F68浓\uE28D\uFeAD.VistaOrHigher stringqueryString="sELEcT*FRoMFirewaliProduct";
+"rootsecurityCenter
+ootllSecurityCenter2":
+using(ManagementobjectSearcher managementobjectSearcher=newManagementobjectSearcher(scope,querystring)
+foreach（ManagementBaseobjectmanagementBaseobjectinmanagementobjectSearcher.Get())
+Managementobjectmanagementobject=（Managementobject)managementBaseobject; text=text +managementobject["displayName"].Tostring()+":"
+text=厨ueEE7ueF13姣条HuFFFD哭u3217ZuFFFD，丘體历套哥u2611属uFFFD爱（text，2）： result=（(!string.IsNullorEmpty(text)）?text："N/A"):
+catch
+result="Unknown"
+returnresult;

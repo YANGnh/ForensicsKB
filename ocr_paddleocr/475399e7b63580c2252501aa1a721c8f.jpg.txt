@@ -1,0 +1,32 @@
+# OCR: 475399e7b63580c2252501aa1a721c8f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/475399e7b63580c2252501aa1a721c8f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+ubunty 22.Q4.4 LTs node1 tty1
+Hint:NumLock on node1 login: droid Password:
+Welcometo ubuntu22.04.4 LTs (GNu/Linux 5.15.0-101-generic x86_64)
+https://help.ubuntu.com
+ Documentation:
+*Management：* support:
+https://landscape.canonical.com https://ubuntu.com/pro
+System information as ofSunMay1906:51:01 AMUTC2024
+System 10ad:Q.Q80078125
+Usage of /:
+27.9% 0f 47.88GB
+Memory usage: 7%
+Swap usage:
+0%
+Processes:
+Users logged in:
+129
+IPv4 address for docker0: 172.17.0.1
+IPv4 address for enp6s18:192.168.100.101
+* strictly confined Kubernetes makes edge and IoT secure.Learn how MicroKs
+just raised the bar for easy, resilient and secure K8s cluster deployment. https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+ExpandedSecurityMaintenanceforApplicationsisnot enabled 19 updates can be applied immediately
+To see these additional updates run: apt list --upgradable
+EnableEsMAppstoreceiveadditional future securityupdates See https://ubuntu.com/esm or run: sudo pro status
+Thelistof available updates is morethan a week old. To check for new updates run: sudo apt update
+Failed to connect to https://changelogs.ubuntu.com/meta-release-lts. Check your Internet connection or proxy settings
+Last1ogin:SunMay1906:10:06uTc2024from192.168.71.1280npts/0 droid@node1:~$

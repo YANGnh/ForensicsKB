@@ -1,0 +1,19 @@
+# OCR: a2661e38da337f1f059b1314ee1bfd72.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/a2661e38da337f1f059b1314ee1bfd72.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+g
+检材1>自Linux基本信息cl(8v4k2J-1aFd-ZRXS-hKwE-30qd-b8Fi-iDqWyR)/分区1>历史命令root
+三序号口23 口24 口25 □26 口27 口28 口29 口30 口31
+推用户名过滤 o
+root root root root root root root root root
+=Shell类型过滤
+三命令过滤
+nroeo tcpdump-v
+tcpdump --help ifconfig
+sudotcpdump-iens33-w~/tcpdump.cap Is -all
+cat tcpdump.cap
+cd / Is
+logout
+三时间起始

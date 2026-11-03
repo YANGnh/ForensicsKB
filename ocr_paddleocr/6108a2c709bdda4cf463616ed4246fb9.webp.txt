@@ -1,0 +1,13 @@
+# OCR: 6108a2c709bdda4cf463616ed4246fb9.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/6108a2c709bdda4cf463616ed4246fb9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+信息
+select sum(abs(coin)) from ssc2o22_coin_log where uid in (select uid from (select uid,count(
+DIsTINCT(type)）投注彩种fromssc2o22_betsgroupbyuidHAVING投注彩种>1）t）andactionTime >=151473600eandactionTime<154627200e
+结果1
+sum(abs(coin)
+部析
+10721.099
+状态

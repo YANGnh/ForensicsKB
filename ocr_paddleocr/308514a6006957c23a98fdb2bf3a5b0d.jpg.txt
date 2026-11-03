@@ -1,0 +1,21 @@
+# OCR: 308514a6006957c23a98fdb2bf3a5b0d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/308514a6006957c23a98fdb2bf3a5b0d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+圖保存
+T查询创建工具美化SQL代码段
+aHR0cDovLzE5Mi4xV
+main
+文本导出结果创建图表运行、停止星昌解释
+SELECT user id,message,create_at FROM"Post" WHERE channelid =‘4aisr8yy5tntdxj9i8cc4qe3w'ORDER BYcreate_at
+信息
+摘要
+userid
+结果1
+message
+enf863dp1ifi3ffos7bpduynny ekzparbt4tfdte61yoxyy5mrty jrmi9kx8pfg9drc7b9dczh7neo aqceyadrxbrajq8bpuk89wrtuw gdyzexuu4fno8f8pp68ufpdyer 36zguhfox7baipsbp9cq393qkc
+gxyt joined the channel. fujiya joined the channel. yiyan joined the channel.
+maoxueliujoined thechannel. yangyuehua joined the channel. jingguangming joined the channel.
+create_at
+1713926729215 1713927384902 1713927386833 1713927529690 1713928382019 1713928530422

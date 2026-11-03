@@ -1,0 +1,98 @@
+# OCR: 247d561d8e88b3beab6a905d981a6497.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/247d561d8e88b3beab6a905d981a6497.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+间题：
+区
+Q
+android.support.v4 bandroidtranscoder androidx
+bbolts bcom
+balibaba
+>android.bindingx vfastjson
+>annotation
+>basm >parser
+> serializer >spi
+> support vutil
+AntiCollicionHachMap@ASMClassLoader
+@ASMUtils eBase64 BiFunction >
+@FieldInfo Function
+@GenericArrayTypeImpl
+IdentityHashMap C
+Ioutils
+CJavaBeanInfo ModuleUtil
+ParameterizedTypeImpl e
+RyuDouble@RyuFloat
+,ServiceLoader
+@ThreadLocalCache
+@TypeUtils@UTF8Decoder
+> > >
+>
+@JSON
+@JSONArray JSONAware
+JSONException
+@JSONObject@JSONPatch@JSONPath
+@JSONPathException
+JSONPObject@JSONReader
+JSONStreamAware >
+@JSONStreamContext >
+>@JSONValidator JSONWriter
+e146错误
+口
+口
+A14523警告
+JSON
+DcloudApplication
+A
+DCLoudApplicationImpl
+packagecom.alibaba.fastjson.util; import java.util.Arrays;
+/*Loadedfrom:classes.dex*/
+11 13 14 46 17 18 19
+41 42 42
+42 46 5e 52
+55 59
+61
+public class
+Base64
+publicstaticfinalchar[]cA; public static final int[] IAj
+@BuildConfig
+@Base64
+staticf
+char[]charArray="ABCDEFGHIJKLMNOPQRSTUVwXYZabcdefghijk1mnopqrstuvwxyze13456789+/",toCharArray(); CA = charArray;
+int[] iArr new int[256]; IA=iArr:
+reys.F12(iar
+int length = charArray.length;
+(int i=e;i<length;i++) for
+IA[CA[i]] = i; IA[61] = ;
+public static byte[] decodeFast(char[] cArr, int i, int i2) {
+int i3;
+int i4 = e;
+if (i2 == e) (
+return new byte[e]; i5 = (i +i2) - 1;
+int
+while（ii5&&IA[cArr[i]]e)
+i++;
+while(is>e&&IA[cArr[is]]<e)
+i15--;
+''?cArr[i5+(-1)] -''
+?2:1:e;
+int
+i6 =cArr[i5]
+int i7 = (i5 - i) + 1; if (i2>76)(
+i3 =(cArr[76] ==r?i7 / 78 :e) <<1;
+else i3 = e;
+i8 =(((17-i3)*6) >>3) -16; int
+byte[] bArr = new byte[is];
+3
+i9= (i8 / 3) int
+int iie=e; int i11 - e;
+while(iie<i9)
+int[
+iArr = IA:
+int i12 = i + 1;
+i13 = i12 + 1; int
+代码
+Smali
+Simple
+Fallback
+Splitview

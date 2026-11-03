@@ -1,0 +1,21 @@
+# OCR: c10e04b924703dc9fa7d5d1a41a7ae26.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/c10e04b924703dc9fa7d5d1a41a7ae26.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+g
+■三序号口9 ■10 口11 ■12 13 ■14 ■15 ■16 口17 口18 口19 ■20 21
+x基本信息centoscQc8E5-616D-ljWK-6VFY-ebkQ-U2GW-znZmhA)/分区1>历史命令>root
+三用户名过滤 root
+root root root root root root root root root root root root
+Shell类型过滤了
+三命令过滤
+ping114.114.114.114
+yum -y install nfs-utils rpcbind
+vi/etc/exports mkdir/nfs
+chmod 777/nfs vi/etc/exports
+exportfs-rv exportfs exportfs-rv exportfs
+systemctl start rpcbind.service systemctlenablerpcbind.service systemctl start nfs.service
+三时间
+起始
+结束

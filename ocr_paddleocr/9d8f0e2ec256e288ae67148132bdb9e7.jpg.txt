@@ -1,0 +1,24 @@
+# OCR: 9d8f0e2ec256e288ae67148132bdb9e7.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/9d8f0e2ec256e288ae67148132bdb9e7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+12:42:5e.775[http-nio-9032-exec-97]DEBUGo.m.s.SqlSessionUtils-[debug,49]-CreatinganewSqlSession
+12-42:5e.776[http-nio-9032-exec-97]DEBUGo.m.s.SqlSessionUtils-[debug,49]-SqlSession[org.apache.ibatis.session.defaults.Defa ultSglSesston@5d97d25clwasnotregistered for synchronizationbecausesynchronizationisnotactive
+12:42:5o.780[http-nio-9032-exec-97]DEBUG o.m..t.SpringManagedTransaction-[debug,49]-JDBC Connection [conm.alibaba.druid.proxy jdbc.ConnectionProxyInpl@5ec19c57willnotbemanagedbySpring
+12:42:5e.781[http-nio-9032-exec-97]DEBUGc.J.w.m.m.M.selectMemberDealList_cOUNT-[debug.137]==>
+Preparing:SELEcTcount(e)F
+ROMmemberdeal d LEFT JOIN member ON m.member id =d.member id WHERE d.deal status=?AND (d.check date >=? AND d.checkdate <)
+12:42-5e.782[http-nio-9032-exec-97]DEBUGc.j.w.m.m.M.selectMemberDealListCoUNT-[debug.137]-==>Parameters:4(Integer).2020 02-0100-00.00(String).2024-06-0123:59:59(String)
+12-42-50_804[http-nio-9032-exec-97]DEBUGc-j.w.m.m.M.selectMemberDealListCOUNT-[debug,137]-<= 12:42:5e.805[http-nip9032exec97]DrBUGc.j.w.m.m.M.selectMemberDealList[debug,137]
+Total:1
+Preparing:selectd*,m.usernane
+frommemberdealdleftjoinmemberonmnemberid-d.memberidWHEREd.dealstatus=anddcheckdate>
+A.phone,n.invitecode
+=? and d.check date <-
+oraerby d.dealstatus asc,dcreatedatedescLIMIT?
+12:42:50.806[http-nio-9032-exec-97]DEBUGc.j.w.m.m.M.selectMemberDealList-[debug,137]-==>Paraneters:4(Integer),2020-02-01
+ee:0o:0e(String).2024-06-0123:59:59(String).10(Integer）
+12:42:5e814[http-nio-9032-exec-97]DEBUGc.j.w..月.M.selectMemberDealList-[debug.137]-<==
+Total1e
+12:42:5o.815[http-nio-9032-exec-97]DEBUG o.m.s.SqlSessionUtils-[debug,49]-closingnontransactional SqlSession[org-apache.ib atis.session.defaults.DefaultSqlSession@5d97d25c]

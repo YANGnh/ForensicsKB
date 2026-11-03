@@ -1,0 +1,14 @@
+# OCR: 72ffaeedf470b6fb0c6dcfb6e4a00805.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/72ffaeedf470b6fb0c6dcfb6e4a00805.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+[root@wns#cat/root/backup.sh#!/bin/bash
+DBUSER="root"
+DB_PASSWORD-"root" DB_NAME="2828"
+BACKUP PATH"/root/backup" CdSBACKUPPATH
+DATE=S(date+%Y%m%d%H%M%S）
+AEs_PAss-s(echo-n "sDB_NAME"Iopenssl enc -aes-256-cbc -a-salt -pass pass:mysecretpassword -nosalt) BACKUPFILENAME="S[DBNAMESDATE].SqL
+VSgLdUMP-USDBUSER-PSDBPASSWORDSDBNAME>SBACKUPFILENAME FileName="s(DBNAME}-sgl.gz"
+tar-Czvf-sBACKUPFILENAMEopenssl des3-salt-ksAES_PASS-outFile_Name rm-rfSBACKUPFILENAME
+mySladmin-u SDBUSER -PSDB PASSWORD dropSDB NAME--force

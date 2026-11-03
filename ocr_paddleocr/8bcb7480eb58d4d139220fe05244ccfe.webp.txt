@@ -1,0 +1,63 @@
+# OCR: 8bcb7480eb58d4d139220fe05244ccfe.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/8bcb7480eb58d4d139220fe05244ccfe.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+编辑(E) 库（N)）
+查看(V)
+工具(T)
+打开数据库(0)
+浏览数据
+essage 过滤
+编辑杂注 V
+content
+帮助(H)
+自写入更改(W）执行：
+SQL
+鼠
+["extra";"","metadata"·"[\"card\"·.["extra":"","metadata":"["card'":".["extra""","metadata"·"[\"card\"...["extra":"","metadata":"[}"card}".".
+中
+["extra"：""，"text"：”【重要温馨提醒】于近..["extra"：""，"text"：”【cP玩法调整】尊敬的["extra"."","metadata"·"[\"card\"..
+["extra"：""，“text”：“虚拟形象新福利！只要.
+属 status 过滤
+含倒退更改（R）
+韵
+createTime 过滤
+8
+打开工程（P）在所有列中过滤
+userInfo
+过滤
+月保存工程（V）
+3["portraitURL":"https:V..
+2 1718789988418
+2
+["portraitURL":"https:VV...
+1718789988421
+21718789988421["portraitURL"："https:V/... 2 1718789988424{"portraitURL":"https:VV/.. 21718789988430["p0rtraitURL":"https:/.. 21718789988429["p0rtraitURL":"https:/.. 1718789988435["portraitURL":"https:V/... 21718789988436["portraitURL":"https:VV/.. 21718790105203["portraitURL"："https:V/... 21718790128728{"portraitURL";"https:√/>/..
+附加数据库（A)
+isLocal 过滤
+0 0 0 0 0 0 0 0 0 0
+deleteFlag 过滤
+0 0
+X关闭数据库（C)
+contentFlag 过滤
+3 3
+0 0 0 0 0 0 0 0
+3 3 3 3 3 3 3 3
+receiptFlag 过滤
+1 1 1 1 1 1 1 1
+0 0
+historyFlag 过滤
+0 0 0 0 0 0 0 0
+0 0
+pushContent 过滤
+过滤
+pushPayload
+["alert"：["type":1l,"key"："[\"g}["alert".["tvTe".1l."kev"."["。
+编摄数据库单元格（C) 模式：
+JSON
+1
+2 3
+4
+"extra":"]""text"
+愉愉告诉你，我已经存了98万了”

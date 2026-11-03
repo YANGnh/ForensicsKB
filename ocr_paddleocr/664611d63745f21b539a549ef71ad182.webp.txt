@@ -1,0 +1,76 @@
+# OCR: 664611d63745f21b539a549ef71ad182.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/664611d63745f21b539a549ef71ad182.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+decryptpy
+importos import sys
+from Crypto.cipher import AES
+from Crypto.Utit.Padding inport unpad def decrypt_fiLe(encrypted_path):
+三认加之件中IV和基量
+with open(encrypted_path,
+iv = f_in.read(io)
+'rb') as f_in:
+"AE5.DLocK_Size
+salt = f_in.read(32)#从文件中设收到全的教费 data = f_in.read()
+=使用PBKDF2漫生常班
+17
+key=b'g!/xae2/x1fvo/xb6]/xfb(x1f/x8c#创建AES对象开新密数推
+cipher = AES.new(key, AES.MODE_cBC, iv) decrypted_data = unpad(cipher.decrypt(d
+国定单路文路
+file_path = os.path.splitext(encrypted_pati 赛解惠的据与入联的文自路旺
+withopen(file_path,'wb')as f_out:
+f_out.write(decrypted_data)
+print(f"File decrypted successfully: (file
+-name
+.main
+if Len(sys.argv) != 2:
+C:(Windows(System32)cmd.e C.
+\2o2u美亚杯团体赛>pythondecrypt.pysecretExcel.encrypted
+Traceback (nost recent call Last):
+2e24美亚杯团体赛\decrypt.py"，Line4e，in<moduLe>
+File"C:"
+decrypt_fiLe(encrypted_path)
+\2e24美亚杯团体赛\decrypt.py"，Line21，indecrypt_fiLe
+File"C:V
+decrypted_data = unpad(cipher.decrypt(data),
+AES.block_size)
+SAAAAAAA
+File"D:\DevEnv\Python\Python311\Lib\site-packages\Crypto\Util\Padding-py",Line92,in unpad raise ValueError("padding is incorrect.")
+ValueError: Padding is incorrect.
+C:
+2o24美亚杯团体赛>pythondecrypt.pysecretExceL.encrypted
+Traceback (nost recent call last)
+File"C:V
+decrypt_file(encrypted_path)
+2e24美亚杯团体赛\decrypt.py"，Line4e，in<module>
+1224美亚杯团体赛\decrypt.py"，line21，indecrypt_file
+File"C:\
+decrypted_data = unpad(cipher.decrypt(data),
+:AES.block_size)
+AAAAAAAAA
+SAAAAAAAAAAAAAA
+SAAAAAAAAAL
+File"D:\DevEnv\Python\Python311\Lib\site-packages\Crypto\Util\Padding·py",Line 92,in unpad
+raise ValueError("Padding is incorrect.") ValueError: Padding is incorrect
+A2024美亚杯团体赛>pythondecrypt.pysecretExcel.encrypted
+C
+Traceback (nost recent call Last)
+File"C:\!
+呼\2e24美亚杯团体赛\decrypt.py"，Line4e，in<moduLe>
+decrypt_fiLe(encrypted_path)
+=2e24美亚杯团体赛\decrypt.py"，
+File"C:l
+line 21, in decrypt_file
+AES.block_size)
+decrypted_data = unpad(cipher.decrypt(data),
+10040408
+File"D:\DevEnv\Python\Python311\Lib\site-packages\Crypto\Util\Padding.py",Line92,in unpad
+raise ValueError("Padding is incorrect.") ValueError: Padding is incorrect
+224美亚杯团体赛>pythondecrypt.pysecretExcel.encrypted
+C
+File decrypted successfully: secretExcel
+print("usage:pythondecrvpt.py<encrypted_fiie_path>") sys.exit(1)
+encrypted_path  sys.argv[1] decrypt_fiLe(encrypted_path)
+口
+x

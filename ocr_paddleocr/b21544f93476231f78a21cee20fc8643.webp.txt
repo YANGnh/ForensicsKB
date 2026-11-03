@@ -1,0 +1,39 @@
+# OCR: b21544f93476231f78a21cee20fc8643.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/b21544f93476231f78a21cee20fc8643.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+static
+encryptPath(/*Noinfo*/)
+/**addr:ox37oado,size:ox160/ox370ado:EnterFrame
+0x370ado:stp 0x370ad4:mov
+//0x370ad8:A1locStack(0x78)
+Qx370ad8:sub
+fp，1r，[SP,#-0x10]! fp，Sp
+SP，SP，#0x78
+//ox37oadc:SetupParameters(dynamic/★r1=>r2，fp-ox5o*/)
+0x370adc:mov 0x370ae0:stur
+//ox37oae4：Checkstackoverflow
+0x370ae4:1dr 0x370ae8:cmp 0x370aec: b.1s
+//0x37oafo:ro=Encrypter()
+0x370af0:bl
+0x370af4:stur
+/ox37oaf8:ro=Salsa2o
+0x370af8:bl
+0x370afc:stur
+x2，x1
+x1，[fP，#-0x50]
+X16，[THR，#0x38]
+SP，x16#0x370c28
+#0x370ebc
+; THR::stack_limit
+;AllocateEncrypterstub->Encrypter（size=oxc)
+x0，[fP，#-0x58]
+#0x370eb0
+;AllocateSalsa2ostub->
+x0，[fP，#-0x60]
+Salsa20
+(size=0x10)
+//ox37oboo:ro=InitLateStaticField(oxc2o)//[package:liekai/encryption_utils.dart]Encryptionu
+0x370b00
+10Y681

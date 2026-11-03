@@ -1,0 +1,19 @@
+# OCR: ddb3d0ef7b0f330e0c351167b92271e3.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/ddb3d0ef7b0f330e0c351167b92271e3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+weh-aniS
+sudodocker
+comose
+UD
+"version'isobsolete
+/home/king/web-api/docker-compose-yml:theattribute
+ARNT00001
+twillbeignored,
+pleaseremoveittoavoidpotentialconfusion
+Running1/1
+VContainerwebapi
+Started
+cing@api-server-2:~/web-apis
+e.2

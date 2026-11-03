@@ -1,0 +1,43 @@
+# OCR: f89a6fbdfe232ba6ccacd4116ff4a34f.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/f89a6fbdfe232ba6ccacd4116ff4a34f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+renamed from:c,reason:collision withroot package name blicStringf304c="vYyjDLnOMdPvDhyqxr41zQ=-"
+blicStringd="EXodgpoEDz9v3yE9hX2mQcMa9DPzJQ/LPkzDKyiDH6 blicStringe="kbLBbvDVyghscP1Jy6bk7A--";
+blicfinalbooleana() try
+this.f3o3b.put("mail.smtp.host",newString(b.b.a.a.a
+this.f3o3b.put("mail.smtp.auth","true"); this.f3o3b.put("mail.transport.protocol"
+"smtp"):
+this.f3e3b.put("mail.smtp.starttls.enable","true"); this.f3o3b.put("mail.smtp.ssl.checkserveridentity",
+",newString(b.b.i
+this.f3o3b.put("mail.smtp.ssl.trust"
+this.f302a = new i(); return true;
+}catch(Exception e)([
+e.printstackTrace(): return false;
+blic final boolean a(stringstr,String str2,List<tring> try
+this.f3o2a.a(new e(new String(b.b.a.a.a(this.d.getByt
+Operations
+magic Magic
+ImageBrightness Contrast
+DetectFileType
+ScanforEmbedded Files
+Favourites Dataformat
+★
+Encryption/Encoding
+Recipe
+FromBase64 Alphabet
+A-Za-ze-9+/=
+a?
+Removenon-alphabetchars Strictmode
+AESDecrypt Key
+E10ADC3949BA59ABBE56.. IV
+E19ADC3949BA59AR
+? UTF8-
+UTF8
+Input
++
+EXedgp0EDZ9v3yE9hX2mQcMa9DPzJQ/LPkZDKyiDH64=
+944
+RE441 Output
+temp1234@gmai1.com

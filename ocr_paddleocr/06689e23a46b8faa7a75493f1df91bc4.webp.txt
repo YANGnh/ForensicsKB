@@ -1,0 +1,8 @@
+# OCR: 06689e23a46b8faa7a75493f1df91bc4.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/06689e23a46b8faa7a75493f1df91bc4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+@override//Ltd.newbee.mall.service.AdminUserService
+public AdminUserlogin(stringuserName,Stringpassword)throws NoSuchAlgorithmException
+StringpasswordMd5=MD5Util.MD5Encode(password，"UTF-8"); returnthis.adminUserMapper.login(userName,passwordMd5);

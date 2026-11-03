@@ -1,0 +1,16 @@
+# OCR: 41c7e1a0ab83ab2e48a77d3e476a5038.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/41c7e1a0ab83ab2e48a77d3e476a5038.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+kalikali)-~/Desktop ls/etc/tor
+torrc
+torsocks.conf
+kalikaii)-~/Desktop
+$cat/etc/tor/torsocks.conf
+# Thisis the configurationforlibtorsocks（transparent socks)foruse#withtor,whichisprovidingasocksserveronport9o5obydefault.#
+#Linesbeginning with# andblanklines are ignored
+# Much more documentation than provided in these comments canbe found in#
+#torsocks.conf(5),torsocks(1)andtorsocks(8)manpages
+# Default Tor address and port. By default,Tor wiil listen on localhost for# anv Socksconnection andrelaythetraffic ontheTornetwork.
+TorAddress127.0.0.1 TorPort9050

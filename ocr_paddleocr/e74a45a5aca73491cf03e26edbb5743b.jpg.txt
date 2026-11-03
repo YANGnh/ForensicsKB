@@ -1,0 +1,29 @@
+# OCR: e74a45a5aca73491cf03e26edbb5743b.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/e74a45a5aca73491cf03e26edbb5743b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+g
+毛雪柳的计算机
+口三序号口1 口2 口3 口4 口5 口6 07
+详细信息
+三名称过滤
+基本信息>
+VMwareVirtualUSBHub VMwareVirtualUSBHub
+USB设备信息
+三设备描述过滤
+基他名称：GenericUSBHub 其他名称：GenericUSBHub
+BluetoothDevice(PersonalAreaNet... SamsungPSSDT7USBDevice
+@System32drivers)usbxhci.sys,#10..
+VMwareVirtualUSBMouse VMwareVirtual USBHub
+名称：SamsungPSSDT7USBDevice 厂商_产品_版本：SamsungPSSDT70
+其他名称：BluetoothDevice(PersonalAreaNetwork）
+其他名称：SamsungPSSDT7USBDevice,HBB实际容量：其他名称：@System32\drivers|usbxhci.sys，#1073807361;%..
+其他名称：USBCompositeDevice 基他名称：GenericUSBHub
+设备描述：其他名称：SamsungPSSDT7USBDeviceHBB;实际容量：931G
+设备序列号：X12720BR0SNWT6S 设备类型：Storage
+设备实例路径：USBIVID04E8&PID40011S6TWNS0RB02721X
+首次接入时间：2024-04-2519:08:08 最后接入时间：2024-04-2519:54:14 最后弹出时间：2024-04-2519:54:14 服务：USBSTOR
+硬件ID:USBIVID04E8&PID4001&REV0100USBIVID04E8&PID4001
+设备Guid：(36fc9e60-c465-11cf-8056-444553540000) 驱动：(36fc9e60-c465-11cf-8056-4445535400001\0010
+全路径：PC.E01/分区7/Windows/System32/config/SYSTEM 已删除：否

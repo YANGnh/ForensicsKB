@@ -1,0 +1,26 @@
+# OCR: 2675bb2319c9a042973be74158775f2f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/2675bb2319c9a042973be74158775f2f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+<oller
+X
+CPermissionController
+package cn.zwz.data.utils;
+X
+eDict
+importorg.jasypt.encryption.stringEncryptor;
+x
+CDictData
+importorg.jasypt.encryption.pbe.standardPBEByteEncryptor: importorg.jasypt.encryption.pbe.standardPBEstringEncryptor: importorg.springframework.context.annotation.Bean;
+importorg.springframework.context.annotation.Configuration;@Configuration
+CSetting
+CRedisExceptionThrowsConfig
+/*loadedfrom:so48-3.o.o.iar:BooT-INF/classes/cn/zwz/data/utils/zwzstringUtils.class*
+11 12 13 14 15 16
+publieelassZwzstringutils
+@Bean(name="jasyptstringEncryptor"j)
+publicstringEncryptorstringEncryptor)E
+StandardPBEstringEncryptorencryptor=newStandardPBEstringEncryptor(); encryptor.setAlgorithm(standardPBEByteEncryptor.DEFAULT_ALGoRITHM);
+encryptor.setPassword("F*DZ-kZMs5qt"); returnencryptor;
+ezwzstringutils

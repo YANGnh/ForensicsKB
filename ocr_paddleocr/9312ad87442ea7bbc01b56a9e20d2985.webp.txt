@@ -1,0 +1,26 @@
+# OCR: 9312ad87442ea7bbc01b56a9e20d2985.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/9312ad87442ea7bbc01b56a9e20d2985.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+E:>unconpyle6encryptjpg.pyc#uncompyle6version3.9.2
+#Pythonbytecodeyersionbase3.7.0（3394）
+#Decompi1edfrom:Python3.7.0(v3.7.0:1bf9cc5093,Jun272018,04:59:51)[MSCv.191464bit(AMD64)]#Embeddedfilename:encryptjpg.py
+iportbase64，os defencrypt_jpgO：
+jpg_files = [f for f in os.listdir( if f.lower(.endswith(".jpg")] if not jpg_files:
+print("当前文件夹下没有找到JPG文件！"） return
+forinput_fileinjpg_files:
+output_file=f"tos.path.splitext(input_file)[ol)_en.jpg withopen(input_file,"rb")asf:
+original_data = f.readO
+b64_once=base64.b64encode(original_data) b64twice=base64.b64encode(b64_once）
+bit_reversed_data=bytes([byte255forbyteinb64_twicel） withopen(output_file,
+b"
+asf:
+f.write(bit reversed data)
+print（f"加密完成：{input_file)
+if
+name
+encrypt_jpgO
+mair
+#okaydecompilingencryptjpg.pyc
+loutput_file}"

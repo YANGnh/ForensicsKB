@@ -1,0 +1,9 @@
+# OCR: 4e0410a00b4b17374a6fc70e5523b0b0.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/4e0410a00b4b17374a6fc70e5523b0b0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+2024F网站服务器
+终端×
+[root@localhost~]#mysql-uroot -p Enterpassword
+ERRoR 1o45(28ooo):Access deniedfor userroot@'localhost(using password:YES)[root@localhost#

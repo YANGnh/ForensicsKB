@@ -1,0 +1,18 @@
+# OCR: 50b0debcfbe904c972a28586ae7e38b9.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/50b0debcfbe904c972a28586ae7e38b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+forensix2025.work.gd
+不安全
+Erro0r 1001 DNSresolutionerror
+What happened?
+YID:93668ce24ebc166a.2025-042613:50:38.UTC Ray
+You'verequestedapageonawebsite(forensix2025.work.gd)that
+is on the Cloudflare network.Cloudflare is currently unable to resolveyourrequesteddomain(forensix2025.work.gd).Thereare twopotentialcausesofthis:
+Mostlikely:iftheowner justsignedupforCloudflareitcan
+takeafewminutesforthewebsite'sinformationtobe distributedto ourglobal network.
+Lesslikely:somethingiswrongwiththissite'sconfiguration
+Usuallythishappenswhenaccountshavebeensignedup with a partner organization (e.g-,a hosting provider) and the provider's DNS fails.
+Wasthispagehelpful?
+CloudflareRayID:93668ce24ebc166a·Your IP:Click to reveal·Performance&security by Cloudflare

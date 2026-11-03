@@ -1,0 +1,10 @@
+# OCR: 0b31a6f5606c40c544a7c5715cbf0234.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/0b31a6f5606c40c544a7c5715cbf0234.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+l.dsnbbaj686.fit.confmysgl57-community-release-el7-8.noarch.rpm root@ql-n117-45.117.10.203in/etc/nginx/conf.d[20:4350]
+catbl.dsnbbai686.fit.conf erver
+listen8o;
+server_namebl.dsnbbaj686.fit
+root/opt/bl.dsnbbaj686.fit/www/public indexindex.htmlindex.htmindex.php,

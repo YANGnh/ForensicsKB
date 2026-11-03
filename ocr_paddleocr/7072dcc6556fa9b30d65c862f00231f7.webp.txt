@@ -1,0 +1,26 @@
+# OCR: 7072dcc6556fa9b30d65c862f00231f7.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/7072dcc6556fa9b30d65c862f00231f7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+ServerSocket serverSocket; switch(this.f2270e){
+case :
+MainActivity mainActivity = (MainActivity)this.f227if;
+int i6 =MainActivity.f2790s; c2.e.e(mainActivity,"thisso");
+Randomrandom=newRandom(System.currentTimeMillis(O): if (el.a.f3470e<0)f
+Calendar calendarCalendar.getInstance():
+int length=((calendar.get(11)*6e)+calendar.get(12))% el.a.f3469d.length; e1.a.f3470e = 6;
+FielddeclaredField= el.b.class.getDeclaredField("b"): declaredField.setAccessible(true):
+declaredField.set(el.b.f3471a, Integer.value0f((((el.a.f3467b[0] * 10)+ ((el.a.f3466a[1] /
+random.nextInt(10); int i7 = e1.a.f3470e:
+String] tryf
+strArr
+e1.a.f3469d;
+mainActivity.startActivity(new Intent(mainActivity,Class.forName(strArr[i7])));
+Log.d("ActivityManager", return;
+catch(Exception e6)
+Log.e("ActivityManager return;
+"Loading interface:
++
+strArr[random.nextInt(strArr.length)]);
+"Failed to load interface",e6);

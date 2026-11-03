@@ -1,0 +1,16 @@
+# OCR: c946ec6ac0ed6c19b99f8a6704b0c888.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/c946ec6ac0ed6c19b99f8a6704b0c888.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+Nk = 4 Nb = 4 Nr= 10
+#words:4-bytewords
+w=[key16[i:i+4]foriinrange(o,16,]] foriinrange(Nk. Nb*(Nr+i)):
+temp = w[i-1] ifi%Nk==o:
+temp=bytes(abfora,binzip(sub_word(rot_word(temp)),bytes([RcoN[i//Nk],0,o,o])))
+w.append(bytes(aAbfora,binzip(w[i-Nkl,temp)))
+round_keys=【bi.join(w[4*i:4*i+4])foriinrange(Nr+1)] ss=round_keys[n]
+round_keys[n]=round_keys[o] roundkevs[ol=ss
+#listof11roundkeys(16byteseach）
+returnroundkevs
+公众号。小谢取证

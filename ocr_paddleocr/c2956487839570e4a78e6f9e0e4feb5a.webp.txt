@@ -1,0 +1,81 @@
+# OCR: c2956487839570e4a78e6f9e0e4feb5a.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/c2956487839570e4a78e6f9e0e4feb5a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+Sources
+司
+Network
+popup.html
+260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289
+6 characters selected
+Performance
+popup.js
+Memory
+global.js
+Application cipher-core.js
+Promise((resolve)=>
+awaitnew
+Privacy and security
+Accounts.tsX
+() => (
+Browserstorage.remove(oldKeys， resolve():
+):);
+state.state.encryption.updateEncryptionPasswoid( wordAIray.toString()
+await state.dispatch("updateEntries"); elsef
+// --- deciypt using key
+Lighthouse
+popup.ts
+constkey=Cryptojs.AEs.decIypt(encKey.enc,password const isCorrectPassword = await new Promise(
+(value: string) => void)=>
+(resolve:
+>>
+tostring()
+constiframe=document.getElementById("argon-sandbox"); constmessage=3
+action:
+"verify"
+value: key.
+hash:
+encKey.hash
+(itame)
+window.addEventListener("message"
+resolve(response.data.Iesponse):);
+(iesponse)=>(
+// eslint-disable-next-line @typescript-eslint/ban-ts-ignore//@ts-iqnore
+iframe.contentwindow.postMessage(messaqe,
+"+");
+(From popup-js)
+Recorder
+国
+Coveraqe:n/a
+D
+e
+Scope Local
++
+wthis:
++
+[[Prototype]]:
+Obiect
+wp:
+label: 12 OPs:[
+>sent:f () trys:
+Object
+[Prototype]]: closure
+a:undefined encKey:
+3
+"U2FsdGVkX18Tb9IA8UF4TbpMOiOs4IgZBTIk1dD1an9w1gIF91t0irI/1f15CGh9hAsk
+enc: hash:
+"$aIqon2idsv=19sm=16384,t=1.p=1$k6EZEDdQYyn+/0G1JtZGpg$hicAuwJorE73Mo
+[[Prototypell:
+Obiect
+encKey: undefined
+encKeyHash:undefined entry: undefined
+f: undefined key: undefined l: undefined
+needUpdateStorage: oldKeys:undefined u: undefined
+undetineo
+wordArray:
+undefined
+Closure（applyPassphrase）
+Closure Closure
+Global
+window

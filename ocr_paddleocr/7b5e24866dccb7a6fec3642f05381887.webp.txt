@@ -1,0 +1,42 @@
+# OCR: 7b5e24866dccb7a6fec3642f05381887.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/7b5e24866dccb7a6fec3642f05381887.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+56 57 58 59 60 51
+popup.html
+62 63 64 65 56 6 58 69 70
+72 74 76 77 78
+popup.js
+argon.ts
+// store key
+core.js
+awaitBrowserStorage.set(
+key:);
+encKey,
+enc:
+hash:
+cipher-core.js encKeyHash)
+Entrystorage.set(state.state.entries);
+await
+awaitnew Promise((resolve)=>
+BrowserStorage.Iemove(oldKeys,
+() =>
+resolve():
+););
+enc-base64.js
+state.state.encrvption.updateEncrvptionPassword(
+wordArray.tostring():
+await state.dispatch("updateEntries") else(
+// --- decrypt using key
+i18n.ts
+constkey=CryptoJs.AEs.decrypt(encKey.enc,
+password).Dtostring();
+const isCorrectPassword= await newPromise
+(resolve:
+(value: string)=> void) =>
+const iframe = document.getElementById("argon-sandbox"); const message = (
+action:
+"verify".
+value:key
+Backup.ts

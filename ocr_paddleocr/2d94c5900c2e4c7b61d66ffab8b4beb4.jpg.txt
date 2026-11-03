@@ -1,0 +1,24 @@
+# OCR: 2d94c5900c2e4c7b61d66ffab8b4beb4.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/2d94c5900c2e4c7b61d66ffab8b4beb4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+新建连接(MySQL)
+常规连接名：主机：端口：
+高级
+用户名：密码：
+数据库测试连接
+SSL
+SSH
+Navicat
+HTTP
+112MysQL
+192.168.100.112
+13306 root e
+?保存密码
+连接成功
+确定
+数据库 x
+确定
+取消
+X

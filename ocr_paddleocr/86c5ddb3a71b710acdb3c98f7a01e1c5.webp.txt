@@ -1,0 +1,59 @@
+# OCR: 86c5ddb3a71b710acdb3c98f7a01e1c5.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/86c5ddb3a71b710acdb3c98f7a01e1c5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+d 圆案件回文件网分析? 位置
+州时间线
+Q 搜素
+笔记自报告
+研判白工具箱
+刷新
+详情/预览
+请选择/输入持有人/检
+Duncan lapt... LAM KH lapt.... Nginx服务器
+IIS服务器 8
+用户痕迹缩略图
+画
+基本信息服务日志事件日志
+11/93772 34376
+4 1 327 244 1118 4405 20169
+吉Windows日志
+吉设置系统吉应用台安全
+应用程序和.. 事件日志分析 0
+用户桌面任务计划
+快捷方式分析 ShimCache 远程桌面
+9934 10 5629 3032 1263 10235 1398
+8 83 153 1319 56 88
+图
+拦序号口7 口8 口9 口10
+详细信息
+-4624'? 拦事件ID
+等于 4624 4624 4624 4624
+ Data inc S-1-5-21-2447...
+事件摘要
+过滤
+过滤
+分析结果搜索
+YCreateTime>="2025-04...
+拦数据 S-1-5-2
+Anaccount was successfully logge. Anaccount was successfullylogge... An account was successfully logge.. An account was successfully logge...
+<EventDat.. <EventDat... <EventDat... <EventDat..
+事件类型
+过滤信息信息信息信息
+Q 画
+在安全中搜索
+拦分类过滤
+Security Security Security Security
+Q
+request.%n%t-LogonGUiDisa unigueidentifierthatcanbeusedtocorrelatethisevent withaKDC event.%n%t-Transitedservices indicatewhich intermediateserviceshaveparticipated inthislogonrequest.%n%t-Packagenameindicateswhichsub-protocolwasusedamongtheNTLM
+protocols.%n%t-Keylengthindicatesthelengthofthegeneratedsessionkey.Thiswillbeoifnosessionkeywasrequested 数据:<EventData><DataName="SubiectUserSid">S-1-0-0</Data><DataName="SubiectUserName">-</Data><Data
+口
+X
+高级
+设置列
+X
+Name="SubjectDomainName">-</Data><DataName="SubjectLogonld">0x00000000</Data><DataName="TargetUserSid'>S-1-5-21-244795756 2605320691-3516395164-1004</Data><DataName="TargetUserName">CE02</Data><DataName="TargetDomainName">CEO-PC</Data><Data Name="TargetLogonld">0x00c881dd</Data><DataName="LogonType">3</Data><DataName='LogonProcessName">NtLmSsp</Data><Data Name=AuthenticationPackageName">NTLM</Data><DataName="WorkstationName'>KALl</Data><DataName="LogonGuid">00000000-0000 0000-0000-000000000000</Data><DataName="TransmittedServices'>-</Data><DataName="LmPackageName">NTLMV2</Data><Data
+Name="KeyLength">128</Data><DataName=Processld">0x00000000</Data><DataName="ProcessName'>-</Data><Data Name="lpAddress">182.239.117.11</Data><DataName="lpPort">48350</Data></EventData>
+事件类型：信息分类：Security 机器名：CEO-PC 事件源：
+Microsoft-Windows-Security-Auditing

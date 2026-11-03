@@ -1,0 +1,21 @@
+# OCR: 8e65d408795dc71b3f20b1a2ebb4b6dc.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/8e65d408795dc71b3f20b1a2ebb4b6dc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+URLT
+http://forensix2025.work.gdl
+http://forensix2025.work.gd/static/css/all.css
+http:/forensix2025.work.gd/static/css/animate.css
+http:/forensix2025.work.gd/static/css/bootstrap-icons.min.css http:/forensix2025.work.gd/static/css/bootstrap.min.css
+DONATE
+wayBack Machine
+Exploremorethan928billionwebpagessavedovertime forensix2025.work.gd
+Calendar.Collections.Changes.Summary
+.SiteMap
+27URLshavebeencapturedforthisURLprefix
+URLS
+MIMEType text/html text/css text/css text/css text/css
+x From
+Apr7,2025 Apr7,2025 Apr7,2025 Apr7,2025 Apr7,2025
+A A A A A

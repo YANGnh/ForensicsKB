@@ -1,0 +1,62 @@
+# OCR: 758c4aff39ed5f9adc66dc3ed7140626.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/758c4aff39ed5f9adc66dc3ed7140626.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+圆案件
+回文件
+网分析
+? 位置
+州时间线
+Q 搜素
+笔记自报告
+研判白工具箱
+刷新
+详情/预览
+请选择/输入持有人/检
+Duncanlapt... LAM KH lapt.... 8Nginx服务器
+IIS服务器 8
+用户痕迹缩略图
+画
+基本信息服务日志事件日志
+11/93772 34376
+4 1 327 244 1118 4405 20169
+吉Windows日志
+吉设置系统吉应用台安全
+应用程序和. 事件日志分析 0
+用户桌面任务计划
+快捷方式分析 ShimCache
+远程桌面
+9934 10 5629 3032 1263 10235 1398
+83 153 1319 56 88
+三序号口1 口2 口3 口4
+详细信息
+?EventID==4624×
+拦事件ID 等于 4624 4624 4624 4624
+过滤
+分析结果搜索
+Datainc"S-1-5-21-2447.
+事件摘要过滤
+An account was successfully logge.. An account was successfully logge... An account was successfully logge... An account was successfully logge...
+拦数据 S-1-5-2
+<EventDat... <EventDat... <EventDat... <EventDat...
+三事件类型
+过滤信息信息信息信息
+Q 画
+在安全中搜索
+拦分类过滤 Security Security Security Security
+Q
+o
+request.%n%t-LogonGUiDisa unigueidentifierthatcanbeusedtocorrelatethis event withaKDC event.%n%t-Transited services indicatewhich
+intermediateserviceshaveparticipated inthislogonreguest.%n%t-Packagenameindicateswhichsub-protocol wasusedamongtheNTLM protocols.%n%t-Keylengthindicatesthelengthofthegeneratedsessionkey.Thiswillbeoifnosessionkeywasrequested
+数据：<EventData><DataName="SubiectUserSid">S-1-5-18</Data><DataName="SubiectUserName">WIN-8B6G32AADMCS</Data><Data
+口
+X
+高级
+设置列
+X
+Name="SubjectDomainName'>WORKGROUP</Data><DataName="SubiectLogonld">0x000003e7</Data><DataName="TargetUserSid">S-1-5-21-244795756-2605320691-3516395164-1000</Data><DataName="TargetUserName">CE0</Data><DataName="TargetDomainName">CE0
+PC</Data><DataName="TargetLogonld">0x0oo2d5ff</Data><DataName="LogonType">2</Data><DataName='LogonProcessName">User32 </Data><DataName="AuthenticationPackageName">Negotiate</Data><DataName="WorkstationName">WIN-8B6G32AADMC</Data><Data Name="LogonGuid">00000000-0000-0000-0000-000000000000</Data>DataName="TransmittedServices">-</Data>Data
+Name="LmPackageName">-</Data><DataName="KeyLength">0</Data><DataName="Processld>0x0o0001a0</Data>Data
+Name="ProcessName">C:Windows\System32/winlogon.exe</Data><DataName="lpAddress">127.0.0.1</Data><DataName="lpPort">0</Data>
+</EventData> 事件类型：信息分类：Security 机器名：CEO-PC

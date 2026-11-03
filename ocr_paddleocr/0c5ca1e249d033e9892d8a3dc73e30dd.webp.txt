@@ -1,0 +1,29 @@
+# OCR: 0c5ca1e249d033e9892d8a3dc73e30dd.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/0c5ca1e249d033e9892d8a3dc73e30dd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+backend
+Caunidbg-android 口src
+口main vtest
+java
+回com
+anjuke.mobile.sign vbaidu.util
+ChiperEncrypt
+bytedance.frameworks.co
+github.unidbg kanxue.test2
+运行 G
+业品
+ChiperEncrypt 回习0：
+51 52 53 54 55 56 57 58 59 60 61 62
+C: ProgramFileslJavaljdk-17 binljava.exe Loadoffset=873ms
+广划楼
+StringencData="1Sx3zkdJjfMhZrITNg4J91DN4RTjx4-CaDDWy_uoeomB9kUnqDvgzJV_eMtI8cJ15DEHoYAyB/解密函数
+String methodName ="nativeAEsBo4Decrypt(B[:)B[" 初始化密钥
+obj.caliJniMethodBoolean(emulator,method:"nativechiperInit()z);/调用函数
+Dvmobject<byte[l> ret =obj.calzJniMethodobject(emulator,methodName,/输出返回结果
+System.out.println(new string(ret.getvalueO))
+Java_com_baidu_util_ChiperEncrypt_nativechiperInit
+Java_com_baidu_util_chiperEncrypt_nativeAEsB64Decrypt 310104200108110624
+encData.getBytes(charsetName:uTF-8));
+性能

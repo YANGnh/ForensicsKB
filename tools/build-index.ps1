@@ -8,8 +8,7 @@ param([string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path)
 $ErrorActionPreference = 'Stop'
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 
-$ocrDir = Join-Path $Root 'ocr_tesseract'
-$paddleDir = Join-Path $Root 'ocr_paddleocr'
+$ocrDir = Join-Path $Root 'ocr_paddleocr'
 
 function Get-Frontmatter([string]$path) {
     $text = [System.IO.File]::ReadAllText($path, [System.Text.Encoding]::UTF8)
@@ -49,7 +48,7 @@ foreach ($f in $files) {
     $ocrCovered = 0
     foreach ($ref in $imgRefs) {
         $base = [System.IO.Path]::GetFileName($ref)
-        if ((Test-Path (Join-Path $paddleDir ($base + '.txt'))) -or (Test-Path (Join-Path $ocrDir ($base + '.txt')))) { $ocrCovered++ }
+        if (Test-Path (Join-Path $ocrDir ($base + '.txt'))) { $ocrCovered++ }
     }
 
     $tags = @()
@@ -140,7 +139,7 @@ $t.Add('# 取证技巧 · 方法与工具速查')
 $t.Add('')
 $t.Add($stamp)
 $t.Add('')
-$t.Add("共 $($tech.Count) 篇，按 $($topicCounts.Count) 个主题目录组织。文档内图片为相对路径；截图内容可先查 ocr_paddleocr/ 或 ocr_tesseract/ 同名文本（L1 检索层），再决定是否看图（L2 视觉层）。")
+$t.Add("共 $($tech.Count) 篇，按 $($topicCounts.Count) 个主题目录组织。文档内图片为相对路径；截图内容可查 ocr_paddleocr/ 同名文本（L1 检索层），再决定是否看图（L2 视觉层）。")
 $t.Add('')
 $t.Add('## 主题目录')
 $t.Add('')

@@ -1,0 +1,17 @@
+# OCR: e98bab1baa25244fffd009d3cff6f0c2.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/e98bab1baa25244fffd009d3cff6f0c2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+K
+dsf2wecasdcqwed12434 文件位置
+G:》2025盘古石杯）晋级赛》export
+文件类型复杂度
+VeraCrypt Volume — Open Password, Hardware acceleration possible, Instant Memory attack poss...Brute-force-Slow
+VeraCryptouterpartition
+密码为：
+VeraCryptPIM: Hash
+algorithm: Encryption algorithm:
+File-Open 0
+SHA-512·Default AES·Default
+Pgs8521d3j

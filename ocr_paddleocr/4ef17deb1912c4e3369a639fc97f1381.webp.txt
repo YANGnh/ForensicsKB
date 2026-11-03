@@ -1,0 +1,36 @@
+# OCR: 4ef17deb1912c4e3369a639fc97f1381.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/4ef17deb1912c4e3369a639fc97f1381.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+src
+controllers middleware
+models routes
+auth.routes.js
+JS JS
+product.routes.js utils
+Jsdbjs
+Jsencryption.js
+JS
+app.js
+JS 图 E
+index.js
+libJiami.so
+package-lock.json
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+*
+获取flag2，只能通过调试获取@returns(string)
+*
+const getflag2 =()=>{ try
+//使用So库的get_flag2函数，只有调试才会返回真实flag
+//这个函数包含了反调试机制，只有在调试状态下才返回真实f1ag
+returnlibJiami.get_flag2();)catch(error)(
+console.error（获取flag2失败：，error);
+return无法获取flag。请使用gdb调试器进行调试获取！：
+加载加密库
+let1ibJiamipath -path.join(dirname,'../../libJiami.so');
+libJiami
+let
+=nuil;
+try
+console.log("正在加载1ibjiami.so加密库...")）； console.log("加密库路径：，libJiamiPath）

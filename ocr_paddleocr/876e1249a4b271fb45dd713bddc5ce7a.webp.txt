@@ -1,0 +1,20 @@
+# OCR: 876e1249a4b271fb45dd713bddc5ce7a.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/876e1249a4b271fb45dd713bddc5ce7a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark·追踪HTTP流(tcp.streameq3216)·流量分析.pcapng PoST/dbadmin/testdb.phpHTTP/1.1
+Ho5t:192.168.75.131 Content-Length:57
+Cache-Control:max-age=0
+Upgrade-Insecure-Requests:1 Origin:http://192.168.75.131
+Content-Type：application/x-www-form-urlencoded
+User-Agent:Mozi1la/5.0（WindowsNT10.0；Win64;x64)AppleWebKit/537.36（KHTML Accept:text/html,application/xhtml+xml,application/xml;g=0.9,image/avif,image 3;q=0.7
+Referer:http://192.168.75.131/dbadmin/testdb.php
+Accept-Encoding:gzip,deflate,br Accept-Language:en-us,en;q=0.9
+Cookie:PHPSESSID=4r06r9gjmcujs0ja9r8bst8p65 Connection:close
+password=123456&remember=yes&login=Log+In&proc1ogin=trueHTTP/1.12000K
+Date:Wed31Jul202414:28:29GMT Server:Apache/2.2.22（(Ubuntu）
+PHP/5
+X-Powered-By
+310-
+intu3.26

@@ -1,0 +1,113 @@
+# OCR: bb40cc0edc2088f8ae5f62f5a4173951.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/bb40cc0edc2088f8ae5f62f5a4173951.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+人人 > >
+> 问题：
+文件
+> >
+> >
+视图
+日
+区
+导航
+工具
+drawerlayout·
+fragment
+interpolator
+plifecycle loader
+帮助 Q
+Q
+plocalbroadcastmanager multidex
+recyclerview savedstate
+vectordrawable
+versionedparcelable
+pviewpager webkit
+abolts
+···
+com
+dc.squareup
+个
+fun.learnlife.beakpad build
+Dio
+javax.annotation
+kotlin.annotations.jvm
+net.lingala.zip4j pcrypto
+DRVDE aengine
+CAesCipherUtil
+fSTARTINDEXint
+奔
+.derivePasswordBasedKey(bytel], char[], AesKeyStr mderivePasswordVerifier(byte[], AesKeyStrength) b r getAESEngine(byte[], AesKeyStrength) AESEngine mgetMacBasedPRF(byte[], AesKeyStrength) MacBased prepareBuffAEsIVBytes(byte[], int) void
+AESDecrypter AESEncrypter
+Decrypter Encrypter
+StandardDecrypter
+C
+·
+StandardEncrypter
+exception headers
+bio
+model·
+> 7 >
+· >
+·
+progress tasks
+util·
+c
+ZipFile
+org
+chromium.support_lib_boundary mozilla.universalchardet
+e1错误
+A57警告
+查找：
+AES
+*uni.owry -jadx-gui
+JsReplyProxyBoundaryInterface
+package net.Jingala.zip4j.crypto;
+SafeBrowsingResponseBoundaryInterface
+importnet.1ingala.zip4j.crypto.PBKDF2.MacBasedPRF; importnet.lingala.zip4j.crypto.PBKDF2.PBKDF2Engine
+importnet.1ingala.zip4j.crypto.PBKDF2.PBKDF2Parameters;
+import net.lingala.zip4j.crypto.engine.AEsEngine; import net.lingala.zip4j.exception.zipException;
+import net.lingala.zip4j.model.enums.AesKeystrength; import net.lingala.zip4j.util.InternalzipConstants;
+/*Loadedfrom:classes2.dex* publicclassAescipherutil{
+private static final int STARTINDEX = o;
+StaticsBoundaryInterface
+cc
+包
+AescipherUtil
+W
+*
+个
++
+Q
+public static bytel] derivepasswordBasedKey(byte[] bArr, char[] cArr, AesKeystrength aesKeystrength, boolean z) throws ZipException (
+2 4 5
+7 8
+12 1 2 3 4
+1 2 3 4 5
+1 2 3 4
+PBKDF2EnginepBKDF2Engine=newPBKDF2Engine(newPBKDF2Parameters(InternalZipConstants.AES_MAC_ALGORITHM,InternalZipConstants.
+AES HASH_CHARSET,bArr,1000));
+int keyLength = aesKeystrength.getKeyLength(); int macLength = aesKeystrength.getMacLength(); int i = keyLength + macLength + 2;
+byte[]deriveKey=pBKDF2Engine.deriveKey(cArr,i,z); if (deriveKey != null && deriveKey.length == i) (
+return deriveKey;
+thrownewzipException(String.format("DerivedKeyinvalidforKeyLength[%d] MAcLength[%dj",Integer.valueof(keyLength),
+Integer.valueof(macLength)));
+publicstaticAEsEnginegetAEsEngine(byte[]bArr,AesKeyStrengthaesKeyStrength)throwszipException(
+int keyLength = aesKeystrength.getKeyLength(); byte[] bArr2 = new byte[keyLength];
+System.arraycopy(bArr, o, bArr2, 0, keyLength); return new AEsEngine(bArr2);
+publicstaticMacBasedPRFgetMacBasedPRF(byte[]bArr,AesKeystrengthaesKeystrength)(
+int macLength = aesKeystrength.getMacLength(); byte[] bArr2 = new byte[macLength];
+System.arraycopy(bArr,aesKeystrength.getKeyLength(),bArr2,,macLength)
+MacBasedPRF macBasedPRF=newMacBasedPRF(InternalZipConstants.AES_MAC_ALGORITHM);
+macBasedPRF.init(bArr2); returnmacBasedPRF;
+public static void prepareBuffAEsIVBytes(byte[]bArr,inti）(
+bArr[o] =(byte）i;
+bArr[1] = (byte)(i >> 8); bArr[2］ = (byte）(i >> 16); bArr[3］ = (byte)(i >> 24);
+for (int i2 = 4:i2 <= 15:i2++){
+代码
+Smali
+Simple
+Fallback
+Splitview
+x

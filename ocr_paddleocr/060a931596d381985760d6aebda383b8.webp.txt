@@ -1,0 +1,17 @@
+# OCR: 060a931596d381985760d6aebda383b8.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/060a931596d381985760d6aebda383b8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+GNu nano 7.2
+/etc/netplan/so-cloud-init.yam
+ This file isgenerated from information provided bythe datasource.
+#to it will not persist across an instance reboot.#networkconfigurationcapabilities,writeafile
+Changes
+TodisableCloud-inits
+#/etc/cloud/cloud.cfg.d/99-disable-network-config.cfgwiththefollowing:
+#network:sconfig：disableds network:
+ethernets:
+ens33：
+dhcp4: true
+version: 2

@@ -1,0 +1,41 @@
+# OCR: 4c33cb56301e1ba4b97b7bc5452c421d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/4c33cb56301e1ba4b97b7bc5452c421d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+436 437 438 439 440 441 442 443 444 445 446
+king@api-server-2:~ssudodockerexec-itd4cb/bin/bash
+root@d4cb231cae7f:/app#1s-1 total364
+-rw-r
+-rw-r--r
+-r-xr-xr-x drwxr-xr-x
+119
+-W-P
+-rw-r--r.
+drwxr-xr-x
+7
+root root root
+root root root
+root
+root
+root root
+root root
+root root
+root@d4cb231cae7f：/app#
+692
+Apr
+1779
+Apr
+18409Apr 4096
+Apr
+328574Apr
+666Apr 4996
+Apr
+311:o5app.js 07:23 index.js 3
+libJiami.so
+8 8 8 3 8
+06:02
+06:12 06:12 03:23 0608
+node_modules
+package-lock.json
+package.json src

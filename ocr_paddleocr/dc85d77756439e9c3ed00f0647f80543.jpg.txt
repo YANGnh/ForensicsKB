@@ -1,0 +1,20 @@
+# OCR: dc85d77756439e9c3ed00f0647f80543.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/dc85d77756439e9c3ed00f0647f80543.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+Derivation Path
+BIP32
+BIP44
+BIP49
+Purpose
+Coin Account
+External /internal
+BIP84
+BIP141
+FormoreinfoseetheBip44spec
+44 60
+TheaccountextendedkeyscanbeusedforimportingtomostBip44compatiblewallets,suchasmyceliumorelectrum
+AccountExtended
+PrivateKey
+xprv9zSSPnqiJAfF3c6KUfr3r3cXheJnbZHBpkSdlMSoDGHvULjsS7yNdYJRMEHo6n6iTyFdUuM2YTWcV15953mRAjGQwx7wHfmim813ajCwL5cY

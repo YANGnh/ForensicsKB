@@ -1,0 +1,36 @@
+# OCR: cccdd010465129d37ceec6de15c98151.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/cccdd010465129d37ceec6de15c98151.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+data#chmod777-R2023.cn
+Froot@server[root@server
+ls-al
+datal#
+total 49580
+drwxr-xr-x dr-xr-xr-x-drWXrWXFWX-F-F--FE drwxr-xrx
+5
+root
+root 20root
+root
+11root root
+4096Apr25
+1057
+280Apr25
+10-17
+4096Feb 17
+2023
+1root root
+50737736Apr25
+4 root root
+2 root root
+drwx-----
+[root@serverdata#
+017
+4096
+Feb
+16384Feb17
+1057 2023 2023
+2023.cn
+2023.cncompress202404251003.tar.qz backuD
+Lost+found

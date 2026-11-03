@@ -1,0 +1,27 @@
+# OCR: 474f465520659acb082dd44bfe25f33b.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/474f465520659acb082dd44bfe25f33b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+app>admin>controller>Admin.phpAdmin>@Save
+24 84 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 168 161 162 163 164 165 166 167 168 169 178 171 172 173 74
+classAdminextendsCommon
+publicfunctionSaveInfo() 冰
+管理员添加/编辑
+Devil
+@author
+@blog
+http://gong-gg/
+@version 1.e.e
+@date 水
+*@desc*
+2021-03-03 description
+publicfunctionSave)
+登录校验
+sthis->IsLogin(O; 参数
+$params=sthis->datapost; 1不是操作自己的情况下
+if(!isset($params['id')$params[id']!-$this->admin[id])
+权限校验
+$this->IsPower(); 开始操作
+$paramsadminsthis->admin;
+returnApiService::ApiDataReturn(AdminService::AdminSave($params)

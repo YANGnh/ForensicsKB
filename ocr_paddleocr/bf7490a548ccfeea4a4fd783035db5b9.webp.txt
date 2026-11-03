@@ -1,0 +1,29 @@
+# OCR: bf7490a548ccfeea4a4fd783035db5b9.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/bf7490a548ccfeea4a4fd783035db5b9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+终端×
+「root@localhosthome#ls arl-installCobaltstrike
+CobaltStrike4.4.zip
+[root@localhosthome]#cddirsearch-.4.3] Froot@localhostdirsearch-e.4.3i#ls
+CHANGELOG.d
+CONTRIBUTORS.Md
+config.ini
+db
+dirsearch.py Dockerfile
+[root@localhostdirsearch-o.4.3#
+dirsearch-0.4.3
+init lib
+-py
+saLmap
+options.ini
+README.Md
+www
+xray_linuxand64
+reports
+requirenents.txt
+setup.cfg setup.py
+static
+testing-py
+tests

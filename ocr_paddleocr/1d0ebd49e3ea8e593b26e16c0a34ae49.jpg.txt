@@ -1,0 +1,23 @@
+# OCR: 1d0ebd49e3ea8e593b26e16c0a34ae49.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/1d0ebd49e3ea8e593b26e16c0a34ae49.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+Mnemonic MnemonicLanguage
+BiP39Mnemonic BIP39Passphrase
+(optional) BIP39Seed
+coin
+BIP32RootKey
+YoucanenteranexistingBiP39mnemonic,orgenerateanewrandomone.Typingyourowntwelvewordswillprobablynotworkhowyouexpect,since
+thewordsrequireaparticularstructure(thelastwordisachecksum) FormoreinfoseetheBiP39spec.
+Generatearandommnemonic,orenteryourownbelow.
+Showentropydetails Hideallprivateinfo
+English日本語Espanol中文(简体）中文(繁體)
+Generate
+15
+FrancaisItaliano
+infantfragilegarlicbracketstovebladestickdoveaerobicspintermeducate
+words
+7b9ea7bcebd7090b55b5116c70ed84dc715c513fbc8cfc698ff68e7b3a3bdc7a084589ba64ebf649bd8d837f4235ee92e55965ca9416cc957f4187a47b e5eb1d
+ETH-Ethereum
+xprv9s21ZrQH143K3Fh7NQkwYiuE6vtmTisKhNCDPfZAxky25AZymHZ4ofFLfipoTSGWvalxa2yvttreq2bJmJrvig5caPZBVWiyryszMCzcE8u

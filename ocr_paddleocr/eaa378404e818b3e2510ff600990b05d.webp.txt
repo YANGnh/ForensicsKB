@@ -1,0 +1,24 @@
+# OCR: eaa378404e818b3e2510ff600990b05d.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/eaa378404e818b3e2510ff600990b05d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+[root@mastero1 yum.repos.d]# kubectl get cm -o yaml -n kube-system kubeadm-config
+apiVersion:v1 data:
+ClusterConfiguration:
+apiserver: extraArgs:
+authorization-mode:Node,RBAc timeoutForControlPlane:4mos
+apiVersion:kubeadm.k8s.io/v1beta3
+certificatesDir:/etc/kubernetes/pki
+clusterName:kubernetes controllerManager:{)
+dns: etcd: local:
+dataDir:/var/lib/etcd
+imageRepository:registry.aliyuncs.com/googlecontainers
+kind:clusterConfiguration kubernetesVersion:v1.22.2 networking:
+dnsDomain:cluster.local podSubnet:10.244.0.0/16
+serviceSubnet:10.96.0.0/16
+scheduler： kind:ConfigMap metadata:
+creationTimestamp:"2025-04-03T04:58:52z" name:kubeadm-confia
+namespace:kube-system resourceVersion:"198"
+uid:6d8a4dd5-3856-4a8
+2a1f4eh96

@@ -36,4 +36,4 @@ $template = $template -replace '# 【比赛名】【年份】【阶段】复盘'
 
 [System.IO.File]::WriteAllText($dst, $template, $utf8)
 Write-Host "已创建: 02-WriteUp\$Year\$stem\$fileName"
-Write-Host "下一步：填内容 → 截图入 $docDir → pwsh tools\ocr-images.ps1 → pwsh tools\build-index.ps1"
+Write-Host "下一步：填内容 → 截图入 $docDir → python tools\ocr-paddleocr.py → pwsh tools\build-index.ps1"

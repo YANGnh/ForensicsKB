@@ -1,0 +1,33 @@
+# OCR: 0d37a4e30d66e6c6105e17703efde065.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/0d37a4e30d66e6c6105e17703efde065.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+PentestTools>Webshell>AntSword>antSy
+名称
+cachejs config.js databasejs 国loggerjs menubarjs 国plugStorejs requestjs updatejs
+A
+D:/PentestTools)Webshell/AntSword/antSword-master)modules)request.js(SublimeTex
+文件(E)
+0 o 10 11 12 13 14 15 16 17 18 19 2223 24 25 26 27 28
+编辑(E)选择(S)查找(I)查看(V)转跳(G)工具(D)项目(P)设置(N)帮助(H) request.js
+HTTP后端数据发送处理函数
+更新：2016/05/07 use strict:
+const fs =require(fs)
+iconvreguire(iconv-lite)
+jschardet=require(jschardet)
+through=require('through'), cONF require(-/config),
+superagent =require(superagent)
+superagentProxy=require(superagent-proxy) ws=require(ws);
+constReadable=require("stream")
+const ProxyAgent -require(proxy-agent);
+Let wsclientsf; Let logger;
+请求
+const USER AGENT =require(random-fake-useragent );
+const
+unescape
+requirequerystring;
+1请求超时
+Const REQ TIMEOUT =10000;//代理配置
+CONE
+APROXY

@@ -1,0 +1,19 @@
+# OCR: b0ecd27a22bfbd818d488db52b56aa2f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/b0ecd27a22bfbd818d488db52b56aa2f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:28
+
+8
+日
+强 +
+QSearchorgoto...
+ser settings Profile Account
+0
+Applications Chat
+Accesstokens
+UserSettings/EditProfile
+Main settings
+Thisinformationwillappearonyourprofile Pronunciation
+Enterhowyournameispronouncedtohelppeopleaddressyoucorrectly Email
+wangdefa888@gmail.com
+Wealso useemailforavatardetectionifnoavatarisuploaded. Publicemail

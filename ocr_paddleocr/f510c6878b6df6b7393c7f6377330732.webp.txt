@@ -1,0 +1,38 @@
+# OCR: f510c6878b6df6b7393c7f6377330732.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/f510c6878b6df6b7393c7f6377330732.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+29 30 31
+const
+encryptData
+：require('./encryption):
+//从环境变量获取数据库配置 const dbConfig =
+host:process.env.MYsQL_HosT/"127.o.o.1', port:process.env.MYSQL_PORT13306,
+user:process.env.MYsQL_UsERi'root', passWord:process.env.MYSQL_PASSWORD database:process.env.MYSQL_DATABASE
+waitForConnections:true, connectionLimit:10
+queueLimit: 0//创建数据库连接池
+const pool = mysql.createPool(dbConfig);//测试数据库连接
+const testConnection = async
+0 => (
+try
+7881'
+'product_db',
+const connection = await pool.getConnection();
+console.log（MysQL数据库连接成功！） connection.release();
+return true; 1catch (err)
+console.error（'MysQL数据库连接失败：，err）： console.1og（将在5秒后重试...）；
+//如果在Docker环境中，可能需要等待MysQL容器启动完成
+await new Promise(resolve => setTimeout(resolve, 5ooo)):
+冬端×
++
+ng@api-server-2:~/web-apiss ocker-compose.yml
+Lng@api-server-2:~/web-apiscd Lng@api-server-2:Scdweb-ai/
+Lngapi-server-2:~/web-apissudodockercp de:/app-/app ror response from daemon: No such container: de
+ing@api-server-2:~/web-apissudodockercpd4:/app-/app ccessfullycopied16.1MBto/home/king/web-api/app
+Lng@api-server-2:~/web-apiscdapp ing@api-server-2:~/web-api/appsls
+package.jsonpackage-Lock.json
+op.jsindex.jslibJiami.sonodemodules
+src
+ng@api-server-2:~/web-api/appS

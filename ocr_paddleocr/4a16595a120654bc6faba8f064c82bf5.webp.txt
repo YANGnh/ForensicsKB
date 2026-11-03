@@ -1,0 +1,62 @@
+# OCR: 4a16595a120654bc6faba8f064c82bf5.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/4a16595a120654bc6faba8f064c82bf5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+Cyber
+CyberChef×Utools Image
+Hue/Saturation/Lightness Parse UNIX file permissions
+UNIXTimestampto WindowsFiletime
+WindowsFiletimeto UNIX Timestamp
+Adler-32Checksum
+Dropbytes LS47Decrypt LS47Encrypt ROT47
+RisonDecode RisonEncode SHAO
+Recipe Dropbytes
+Start ®
+Applytoeachline
+AESDecrypt Key
+入 Length 16
+Lastbuild:6monthsago
+a
+a78ea9f73a9d69af44e01494 V
+2cd7460b2f7fd3c26c86c81a..
+Mode CBC
+Output Raw
+STEP
+Input Raw
+2
+HEX-HEX-
+Input
+?
+④
+,xFvi/.0A1·Esu·U'E+'[P['pc2?[EWOsTx4.
+Options
+O,Ng&,Fss0ipcOBEL.02PxFF.aCeV!cANC6Fs
++ODC2ETX+LiSTx2AcR+FF26Fsh+*ENQ+B
+"AOEND
+NeOBELY·B++EO.6·a#/:sOH"XoCaCAN7U-NAk/OEUc4/0eai.0Q.R21@FsV.m)..
+1254(*0+?ucKb2yNyNAk@@%@0A.<.*FFI0T,Y CAN>A-Ack",";+P6E(TCL·U/U·OAD·J.*yB-O*RS OD)s.1.R%.12.0ai%$4>.:.dDCe1T2~ux.a0syn GW-t?i3craFF.Eoo.ijio.UsIFsAeJlY.,?
+ICEFa·iAeRoU·fB·aso·I.&i-,NFs..G. oA"ria
+=126816(16selected)
+RIC30992 Output [Rar! SUBBELSOHNULPg)e
+SOHENQBELNULACKSOHSOHE0+NUL1Y.S7STXETX
+口
+About/Support +
+口 Filedetails
+Name:
+X? 品
+贾韦码资料.rar.enc
+20992hutac TrRawBytes
+ LF
+因
+aaNULEOTOeNUL E%EOTA·ETXNULEwe%e.|ceu+2+/face1.jpgLFETXSTXWe.U.UsOH
+电
+IFa1XBELES"GeNULHV Fs B·1DC1FsMENQDC4DC1DC2AENQLoc2OD@F8@S FF'NULEOT""&cANN8D@TW
+DLE-EOT"ASTX"DCIO@AFF@ DCI·!ENQDCSEOT
+FFDc2p...nie+%o^k%wik%u0e.
+s7io.[+.[o..ua0~5uwf.5nna60.3.ae.uusRA.e.. o;oh31zu,-o3.Uyciailok:
+oo-e3U-u.so>LaZNa?a.MsyNWGN*h:td2d.U.Z=(Am&.u-bEn?E-uuieHsTxm syny-npi+Rg"."*ui-ob+c4?zFFC-j_i?.[?Dat@AoH
+is0?e?>i.N[0T-0-Q.16%5:
+Output end of line separatorhasbeen detectedand changed toVertical Tab
+L.ATA/AAONAA.N-V/OUARn#.
+ 54msTr Raw Bytes VT (detected)

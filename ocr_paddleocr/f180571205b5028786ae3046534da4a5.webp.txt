@@ -1,0 +1,20 @@
+# OCR: f180571205b5028786ae3046534da4a5.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/f180571205b5028786ae3046534da4a5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+Command> shell
+F
+WARNINGWARNINGWARNING!!!!
+Youruse of"pi sheli"has beenlogged!
+The "pi sheli" is intended foradvanced troubleshooting operationsand while supported in this release,is adeprecatedinterface,andmaybe removed ina future version of the product.For alternative commands,exit the"pi shel" andrunthe"heLp"command.
+The"pisheli" commandlaunchesa rootbashshell.Commands withintheshell
+arenotaudited,andimproperuseofthiscommandcanseverelyharmthe system.
+Hepusimprovetheproduct!
+Ifyourscenarioreguires"pi shell,"
+submitaServiceReguest,orpostyourscenariotothe
+https://communities.vmware.com/community/vmtn/vcenter/vcforumand"appliance" tag.
+sso-user@vcsavJ$uname-a
+please
+add
+Linuxvcsa.pgs.cup5.10.233-2.ph4#1-photonSMPFriJan2409:51:53UTc2o25x86_64GNu/Linux

@@ -1,0 +1,94 @@
+# OCR: 52be8c7bb8f5e22134db2af60d423087.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/52be8c7bb8f5e22134db2af60d423087.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+action_log@main(media.20240601)-表-NavicatPremium
+文件
+编辑
+连接
+查看新建查询
+1mc01a.20240001
+main 表
+action_log
+ad ad _list
+表
+ad_player_ref
+category cut_task group
+group_player_ref group userref led
+ledsend
+play_preset list
+收藏夹表
+play_preset list content play_preset_send_history player
+player_attribute playerupdate task program
+program_content program_send reserve_schedule
+reserve schedule item role
+role_permission roleuser_ref scheduling
+scheduling_content screen
+screen_group
+screen_grouptask
+screen_grouptaskitem user
+user_attr
+userdefined 品视图
+工具
+视图对象
+窗
+帮助
+A-z 索引
+触发器
+用户
+查询
+actionlog@main(media.20240601).
+昆开始事务
+content
+排序用列
+自文本、
+了筛选 ang
+口content包含登入成功and
+content包含筋目
++ id
+√应用
++
+type
+345c0f1b-c715-4eba-a6l Of86dd6c-e188-43f7-972 66289df3-9992-4713-93 4ef03744-4796-4568-afc 263030ec-98eb-41c2-86 4ea46683-1f7f-4902-b81 c6e63bdf-3dec-4c99-bd d0003dda-3249-4eb3-81 5f9018ac-c1fa-42e9-876 07a7df59-a027-4e39-bfz 4e9e6c2a-d0a4-4598-82 62636e0d-8d44-46e2-92 4228668d-7b8a-4913-82 54b6abee-7c36-4a38-8c a9003d02-5b47-40f2-b1 fffbfcb1-2c66-4b5d-955 d86c6eb5-9306-45ad-8e fd5765a4-3cbd-4b44-85 0c93c7ae-30c1-406b-87 d89171b1-f1a9-4286-98 630b8288-d4ea-4132-bt 77a78dc3-f455-45f2-b02
++
+c
+1 1 1
+userld
+1 1 1
+备份
+白自动运行
+小
+模型
+playerattribute@main(media.2o24..
+导入导出数据生成
+account admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin
+userName
+admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin
+创建图表
+datetime
+图表
+2025-04-14 15:42:17.53 2025-04-14 15:42:55.722 2025-04-1415:43:03.302 2025-04-14 15:43:53.203 2025-04-14 15:44:30.471 2025-04-1415:44:35.52 2025-04-14 15:46:24.29C 2025-04-14 15:49:16.815 2025-04-14 15:49:21.013 2025-04-14 15:49:44.87C 2025-04-14 15:50:54.877 2025-04-14 15:52:55.444 2025-04-14 15:53:14.036 2025-04-141553:17.713 2025-04-29 15:51:20.265 2025-04-29 15:51:44.869 2025-04-29 15:53:01.715 2025-04-29 15:54:24.702 2025-04-29 15:54:29.111 2025-04-29 15:55:34.913 2025-04-2915:55:52.16 2025-04-2915:57:37.06
+ip
+192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100
+SELECT*,rowid"NAVICATROWID"FROM"main'.actionlog"WHERE"content"LIKE‘%筋目%'LIMIT0,1000
+userAgent
+Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0(WindowsN) Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0(Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0(WindowsN Mozilla/5.0(WindowsN Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N
+content
+新增前目：m1 修改筋目：m1
+联送籁目：m12025-04-1
+新增翰目：mw 修改筋目：mw
+爱送目：mw2025-04-1 要送筋目：a->192.168.20
+删除目：mw，删除筋目：m1, 新增節目：man 删除目：man, 新增颤目：man1 修改翰目：man1
+爱送前目：man12025-04
+新增目：promo 删除筋目：promo
+新增目：p1 修改颤目：p1
+验送目：p12025-04-29 删除筋目：man1,
+验送目：p12025-04-29 验送筋目：p12025-04-29
+曲圆
+O
+用
+第22条记录（共22条）于第1页
+口
+x
+Q 口口

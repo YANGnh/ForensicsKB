@@ -1,0 +1,66 @@
+# OCR: e6fa572f006050bac0b768de629b0b95.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/e6fa572f006050bac0b768de629b0b95.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+素
+AUTHCODE 替换
+OE
+Aaab
+AB
+7文件中有19个结果-在编辑器中打开 config.phpapplication
+AUTHCODE=>"TPSHOP"安装完毕.. function.phpapplication
+returnmd5(C(AUTHCODE").$str); www_TPshop_com1.sqlbackup
+尚 3
+畸
+X 1
+...nbsp;&nbsp&nbsp:&nbsp:&#39:AUTHCODE&#..
+tpshop.sglinstall
+1
+.nbsp:&nbsp:&nbsp&nbsp:&#39:AUTHCODE&#
+WxPay.Api.phppluginslpaymentweixinVib
+3
+.body.outtradenototalfeeauthcode参数. elseif(sinputObj->IsAuthcodeSetO)
+WxPayException"提交被扫支付API接口中，
+缺少
+WxPay.Data.phpplugins\paymentlweixin/lib
+publicfunctionSetAuth_code(Svalue) sthis->values[auth code]=svalue
+publicfunctionGetAuthcode returnsthis->values[auth_code'] publicfunctionIsAuth_codeSeto
+retunarray_key_exists(auth_code,sthis->values); WxPay.tedatac.phppluginslpaymentlweixinVlib6
+Admin.php
+function.php3
+application>config.php 208
+228 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 26
+cookie
+H
+"domain'
+=>
+config.php X =>
+启用安全传输
+cookie
+=> false,
+secure
+httponly设置
+httponly 是否使用
+setcookie
+setcookie
+11分页配置 paginate
+type'
+varpage listrows
+an
+AUTH CODE
+-> true,
+=>
+>
+bootstrap
+=>"page =>15,
+=）"TPSHOP，1/安装完毕之后不要改变，否则所有密码都会出错
+ORDERSTATUS
+=>
+“待确认，
+=>
+=>
+已确认
+2=已收货”， 3 =>已取消 4 =>
+已完成/评价完“已作废”，
+5 =>

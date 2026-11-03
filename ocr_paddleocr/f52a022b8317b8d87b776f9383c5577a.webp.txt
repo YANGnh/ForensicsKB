@@ -1,0 +1,16 @@
+# OCR: f52a022b8317b8d87b776f9383c5577a.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/f52a022b8317b8d87b776f9383c5577a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+1 2
+信息 type
+selecttype，count(1）'投注次数：fromssc2o22betsgroupbytype'orderby投注次数desclimit selecttype,count(1)开奖次数
+order by开奖次数
+结果1
+剖析
+投注次数
+1 80 20 61 5
+139 50 48 36 30
+状态
+fromssc2o22datawheretypein（1,8e,2e,61,5)groupbytype

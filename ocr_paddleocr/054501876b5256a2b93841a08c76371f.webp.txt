@@ -1,0 +1,13 @@
+# OCR: 054501876b5256a2b93841a08c76371f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/054501876b5256a2b93841a08c76371f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+信息
+SELECTcount(distinct(uid))FROM'ssc2o22membersessionwhereloginTime >=2020-01-01and1oginTime<=2020-06-30
+结果1
+剖析
+count(distinct(uid)
+业
+4125
+状态

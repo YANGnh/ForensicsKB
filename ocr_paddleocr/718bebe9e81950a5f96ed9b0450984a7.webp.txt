@@ -1,0 +1,17 @@
+# OCR: 718bebe9e81950a5f96ed9b0450984a7.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/718bebe9e81950a5f96ed9b0450984a7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+try
+//派生用于密钥文件加密的密钥
+constfileKey=deriveKey(masterPassword,salt,32)//加密并保存密钥
+constencryptedKeys=encryptWithKey(JsoN.stringity(keys),fileKey)
+fs.writeFileSync(KEY STORAGEFILE, JSON.stringify(encryptedKeys),'utf8")
+console.log(新密钥已生成并安全存储) return
+aesKey:Buffer.from(keys.aesKey."hex')
+jwtKey:keys.jwtKey;
+↓ catch (err)
+console.errorc保存密钥到文件出错：，err.message)
+//仍然返回生成的密钥 return
+aesKey: Buffer.from(keys.aesKey."hex') jwtKey:keys.jwtKey

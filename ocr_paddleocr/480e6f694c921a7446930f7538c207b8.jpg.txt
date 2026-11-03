@@ -1,0 +1,19 @@
+# OCR: 480e6f694c921a7446930f7538c207b8.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/480e6f694c921a7446930f7538c207b8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+http://112.124.62.187:8080/shell.aspx
+URL:
+http://112.124.62.187:8080/shell.aspx
+基本信息命令执行虚拟终端 文件管理内网穿透反弹shel数据库管理自定义代码平行空间 扩展功能备忘录更新信息环境变量
+COMPUTERNAME:IZTYQTRFU2ODWUZ PUBLI:CaUsersPublic
+LOCALAPPDATA:C:IWindowslsvstem32lconfigsvstemprofileAppDataLocal
+PSModulePath:C:ProgramFileslWindowsPowerShell\Modules:C:lWindowssystem32lWindowsPowerShellvl.O/Modu Serverl120\ToolsPowerShellModules
+PROCESSORARCHITECTURE.AMD64
+Path:C:/Windowssystem32:C:/Windows:C:/WindowsSystem32/Wbem;C:/WindowsiSystem32/WindowsPowerShellv FilesMicrosoftSQLServerlClientSDKIODBC/110/ToolsBinnl;C:ProgramFiles(x86)MicrosoftSQLServerl120\Tod FilesMicrosoftSOLServerl120\DTS/Binnl:C:/ProgramFiles(x86)MicrosoftSOLServer/120\ToolsBinnlManagement
+CommonProgramFiles(x86):C:ProgramFiles(x86)CommonFiles ProgramFiles(x86):C:ProgramFiles(x86)
+PROCESSORLEVEL:6 windows tracing flags:3
+ProgramFiles:C:ProgramFiles
+PATHEXT:.COM:.EXE..BAT:.CMD:.VBS..VBE:.JS..JSE:.WSF:.WSH:.MSC
+USERPROFILE:C-lWindowssystem32lconfigsystemprofile SystemRoot:C:lWindows

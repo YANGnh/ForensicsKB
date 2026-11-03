@@ -1,0 +1,49 @@
+# OCR: 3fd14adbaa757cc01ff09394fd808fd6.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/3fd14adbaa757cc01ff09394fd808fd6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+Home o FileSystem
+File +
+Edit
+世
+1pin1015
+Search 留
+2vm82048204
+3vc1233211234567
+Edit View Help
+Actions
+File
+(kalikali)-[~]
+kali@kali:
+steghideextract-sf'/home/kali/Desktop Enter passphrase:
+steghide: could not extract any data with th:
+(kalikali)-[~]
+ssteghideextract-sf/home/kali/Desktop. Enter passphrase:
+wroteextracteddatato"666.txt.
+~/666.txt-Mousepad
+View
+Document
+C
+Help
+R
+File
+Edit
+Places
+View
+Computer kali
+Desktop Recent
+田
+Go
+etwork
+Bookmarks kali
+CPUusage:0.0%
+kali-Thunar Help
+e
+Desktop Music Templates
+Documents Pictures Videos
+Downloads Public 666.txt
++
+9:44
+13folders/16files:57.7KiB(59112bytes)Freespace:59.5GiB
+G

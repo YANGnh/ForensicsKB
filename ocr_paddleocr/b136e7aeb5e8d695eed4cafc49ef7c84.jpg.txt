@@ -1,0 +1,18 @@
+# OCR: b136e7aeb5e8d695eed4cafc49ef7c84.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b136e7aeb5e8d695eed4cafc49ef7c84.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+bcrack.py
+X
+importbcrypt
+target_hash=bs2as1oSA1uikR1M8trohKNRg24ojew8pl2WXi9Rg7NriLHHInB33RIoLAxYa withopenCdict.txt.pasf:
+for i in f.readlinesO:
+ifbcrypt.checkpw(i.stripO.encodeO)target_hash):
+print(bcrypt明文为：+i.strip） exito
+withopen(dict.txt,'r)asf>foriinf.readlines)
+ifbcrypt.checkpw(i.strip().enc.
+运行 G
+bcrack
+C:(MyApp|Dev/Python39/python.exeC: bcrypt明文为：admin888
+(Desktop/PythonSecDev/bcrack.py

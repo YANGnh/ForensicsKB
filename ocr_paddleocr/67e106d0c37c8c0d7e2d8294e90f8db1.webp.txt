@@ -1,0 +1,36 @@
+# OCR: 67e106d0c37c8c0d7e2d8294e90f8db1.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛个人赛/67e106d0c37c8c0d7e2d8294e90f8db1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:27
+
+PosT/cslab/login.phpHTTP/1.1 Host:10.0.0.68
+User-Agent:Mozi1la/5.0(WindowsNT10.0;Win64:x64)AppleWebKit/537.36(KHTML,1ikeGecko)Chrome/129.0.0.0Safari/537.36Edg/129.0.0.0 Accept-Language:zh-cN,zh;q=0.9,enjq=0.8,en-GB;g=0.7,en-Us;q=0.6
+Cookie:t00ls=e54285de394c4207cd521213cebab040;t00lss=YTozOntz0jQ6InVzZXIio3M6MjY6InBocCB8IHBocD8gfCBwaHRtbCB8IHNodG1sIjtz0jM6ImFsbCI7aTowO3M6MzoiaHR hIjtpojE7fQ%3D%3D;PHPSESSID=m8n4cc3krfb7vn8jfs1goste93
+Content-Type:application/x-www-form-urlencoded Cache-Control:max-age=e
+Accept:text/html,application/xhtml+xml,application/xml;g=o.9,image/avif,image/webp,image/apng,*/*;g=o.8,application/signed-exchange;v=b3;g=o.7 Upgrade-Insecure-Reguests:1
+Referer:http://1o.0.0.68/cslab/login.php?gotopage=%2Fcslab%2F Accept-Encoding:gzip,deflate
+Origin:http://10.0.0.68 Content-Length:67
+gotopage=%2Fcslab%2F&dopost=login&userid=cslab&pwd=cslab&validate=9 HTTP/1.1200OK
+Date:Tue，210ct202523:39:01GMT
+Server:Apache/2.4.23(Win32)OpenssL/1.0.2jPHP/5.4.45 X-Powered-By:PHP/5.4.45
+Expires:Thu,19Nov198108:52:00GMT
+Cache-Control:no-store,no-cache,must-revalidate,post-check=o,pre-check=o Pragma:no-cache
+Content-Length:1418
+Content-Type:text/html:charset=utf-8
+<html> <head>
+<title>
+</title>
+<metahttp-equiv="content-Type"content="text/html;charset=utf-8"/><metaname="viewport"content="width=device-width,initial-scale=l,minimum-scale=1,
+maximum-scale=l,user-scalable=no"> <basetarget='self'/>
+<style>bodyfbackground:#f9fafd;color:#818181)atext-decoration:none}.macmsgjumpfwidth:9e%;max-width:42opx;margin:5%auto0;border:1pxsolid#29384 6;border-radius: 4px;box-shadow: opx 1px 2px rgba(o,e,o,e.1);border: 1px solid #oo99cc;background-color: #F2F9FD;}.mac_msg_jump .title(margin-bottom:11 px).macmsgjump.textfmargin-top:2opx;font-size:14px;color:#555;font-weight:normal:l.msgjumptitfheight:32pxipadding:opxline-height:32px;font-s
+ize：14px;color：#DFE4ED;text-align：left;background：#oe99cc:</style>/head> <bodyleftmargin='e'topmargin='e'>
+<center> <script>
+var pgo=o;
+functionJumpUrl()
+if(pgo==)( location='/cslab/"; pgo=1; }
+document.write("<br/><divclass='mac_msg_jump'><divclass='text'>");
+document.write("<imgstyle='height:28px;margin-bottom:15px;';src='http://1e.e.e.68/pic/i2.png'><br>....
+document.write("<divstyle='margin-top:2opx'>ahref='/cslab/'><fontstyle='color:#oe99cc;font-size:12px;'>[.. <br/></div></div>"):
+setTimeout(JumpUrlO1oe):</script)
+</center> </body>
+..l</font></a></div>

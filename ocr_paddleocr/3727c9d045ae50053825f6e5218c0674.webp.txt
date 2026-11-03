@@ -1,0 +1,19 @@
+# OCR: 3727c9d045ae50053825f6e5218c0674.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/3727c9d045ae50053825f6e5218c0674.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+文本搜素：0x7f070000 搜素文本：
+Q-0x7f07000d 在以下位置搜索：
+口资源
+口类名口方法名口字段名代码
+节点
+C.ahmyth.mine.king.ahmyth.R.layout
+口注释
+搜索选项：
+忽略大小写
+正则表达式口只在当前页搜素
+public static final int Thisismain
+x
+团自动搜索
+x7fe7e88o

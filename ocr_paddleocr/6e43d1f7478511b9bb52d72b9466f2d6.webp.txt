@@ -1,0 +1,32 @@
+# OCR: 6e43d1f7478511b9bb52d72b9466f2d6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/6e43d1f7478511b9bb52d72b9466f2d6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+g
+：检材1-手机.tar>
+三序号口1 口2 口3 口4 5 6 7 口8 口9 □10 口11 12 口13
+三图标过滤
+@ 国 8
+品App分析>
+》APK列表
+三名称过滤
+快手联盟
+Y
+open-live-ad-demo
+open-live-demo Analytics
+Linux Deploy Magisk
+Neo Backup
+三包名过滤
+com.kwad.components.adLive com.kwad.components.adLive
+com.kwad.components.tachikoma
+com.kwad.so.exception com.kwad.so.kmac
+com.kwad.so.tachikoma
+com.kwad.dy.sdk com.byted.live.ad com.byted.live.lite com.miui.analytics
+ru.meefik.linuxdeploy com.topjohnwu.magisk com.machiav3lli.backup
+拦版本号过滤 3.3.44.2 3.3.76 3.3.76.2 3.3.67 1.0.2 3.3.57 3.3.76 1.0.0.8 2.1.1.4.30 5.13.0 3.1.0 27.0 8.3.12
+在APK列表中搜索
+三大小等于 6.58MB 3.23MB 1.40MB 575.25KB 278.41KB 2.77MB 3.88MB 4.18MB 44.09MB 341.11KB 34.48MB 11.91MB 10.19MB
+扫SDK详情过滤
+Q
+高级

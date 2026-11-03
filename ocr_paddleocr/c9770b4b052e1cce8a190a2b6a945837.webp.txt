@@ -1,0 +1,17 @@
+# OCR: c9770b4b052e1cce8a190a2b6a945837.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/c9770b4b052e1cce8a190a2b6a945837.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+selectsum(money） fromapp_card
+wherecompanyin
+(selecta.company
+from(selectcompany,count(1) As信息数量from app_cardgroup bycompanyorderby
+andsubstr(card_no,1,1)=4
+国输出
+通sum(money）：textX
+1行
+"sum（money)'
+21701599.630000096
+信息数量
+desclimit1)a

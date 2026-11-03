@@ -1,0 +1,15 @@
+# OCR: ad2c2f0846d9a44df4822d66b0db244e.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ad2c2f0846d9a44df4822d66b0db244e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+[rootQlocalhost]#bt 14(14)..
+curl:(28) Resolving timed out after10524 milliseconds
+BT-Panel default info! =:
+http://:8888/t2023
+http://192.168.100.100:8888/t.i2023
+bt
+username:b2zobisy password:of5acdc4
+Ifyoucannotaccessthepanel
+release the following panel port [8888l in the security group
+T88881

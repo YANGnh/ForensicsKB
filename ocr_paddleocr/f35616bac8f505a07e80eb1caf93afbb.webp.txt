@@ -1,0 +1,12 @@
+# OCR: f35616bac8f505a07e80eb1caf93afbb.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/f35616bac8f505a07e80eb1caf93afbb.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+https://blog.chen.foren6
+404
+There isn't aGitHub Pages site here
+Ifyou'retryingtopublishone,readthefulldocumentationtolearnhowtosetup
+GitHubPagesforyourrepository,organization,oruseraccount
+GitHubStatus
+@githubstatus

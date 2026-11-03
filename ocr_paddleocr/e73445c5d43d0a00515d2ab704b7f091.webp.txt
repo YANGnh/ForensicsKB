@@ -1,0 +1,30 @@
+# OCR: e73445c5d43d0a00515d2ab704b7f091.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/e73445c5d43d0a00515d2ab704b7f091.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+dataluni.UNI2DBD2141/files)apps)UNI2DBD214/www 了文件名称一
+UNI2DBD214（73） =www(73)
+assets(3) static(52)
+androidPrivacyjson app-config-service.js
+app-config.js app-service.js app-view.js manifest.json view.c5s
+view.umd.min.js
+uniappchooselocation.js
+uniapperror.png uniappes6.js
+uniappopenlocation.js
+uniapppicker.js uniappquilljs
+uniappquillimageresize.js
+分区
+文件
+回预览
++回详细
+口缩略图
+时间轴三图例说明行
+了描述存在的存在的存在的存在的存在的存在的，存在的，存在的，存在的存在的，存在的存在的存在的存在的存在的存在的存在的存在的存在的
+文本
+["@platforms":["android","iPhone","iPad"],"id","UI
+2DBD214"，“name：“ai换脸软件神
+","version"：("name":"i.o.2","code":102],"description""
+，"launch_path："_uniappview.html
+染"}]，"plus"：["useragent"：["value"："uni-
+app","concatenate":truel,"splashscreen":["autoclose":true,"delay":O,"target"："id:1","waiting"style"："light","background":"#ffffff"},"usingComponents":true,"webview"：["popGesture":"cl, oid":["xhdpi":"splash-android-xhdpi.png"1l,"icons":["android":["xhdpi":"icon-android-xhdpi. android:name=}"android.hardware.camera}"/>","<uses-feature android:name=}"android.hardware. android:name=,"android.permission.ACCESS_FINE_LOCATION"/>","<uses-permission android:name=

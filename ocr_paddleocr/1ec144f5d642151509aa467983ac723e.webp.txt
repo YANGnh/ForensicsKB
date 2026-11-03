@@ -1,0 +1,19 @@
+# OCR: 1ec144f5d642151509aa467983ac723e.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/1ec144f5d642151509aa467983ac723e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+.text:06060006000c1740.text:0000000000001740.text:0000000000001740.text:0000000000001740.text:0000000000001740
+get_flagl
+.text:00000001740
+unwinds
+.text:0000000000001740.text:0000000000001747
+.text:0000000000001747.text:0000000000001747.text:0000000000001747
+public get_flagl procnear
+lea jmp
+at1740
+starts
+get_flag1
+endp
+rdi,s strdup
+;DATA XREF:L0AD:000000000000071810;"flag1[hong112233]"

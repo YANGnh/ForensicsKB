@@ -1,0 +1,26 @@
+# OCR: a2a77490a85fbbe220e3bc39efe4aee4.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/a2a77490a85fbbe220e3bc39efe4aee4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:27
+
+详细信息
+名称：default.conf
+扩展名：conf 类型：文件大小：1.74KB
+创建时间：2024-03-2400:00:15 访问时间：2025-11-0609:51:26 修改时间：2025-11-0609:51:26 元数据地址：1587067
+服务器检材二.E01/分区2/home/CCY/nginx-admin/config/conf.d/default.conf
+全路径：
+加密类型：未加密已删除：否
+原类型视图
+PAGE
+文本视图
+ZooM
+HIGHLIGHT
+十六进制视图
+location/install-package/ root/tmp/:
+location ～/manage-server/*
+proxy_pass http://127.23.194.157:13000: proxy set headerHost shost;
+proxy_set_headerX-real-ipsremote_addr
+proxy_set_headerX-Forwarded-For Sproxy_add_x_forwardedfor;
+proxy_setheaderConnection， proxy_http_versionl.l;
+chunkedtransfer encoding off: proxybufferingoff;
+X

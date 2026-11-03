@@ -1,0 +1,25 @@
+# OCR: 13de38c45bd6d933bd97882f04da4163.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/13de38c45bd6d933bd97882f04da4163.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+合保存
+洛美化SQL
+厅查询创建工具
+dujiaoka 心
+1
+消息数据
+dujiaoka
+O代码段
+D运行、停止星解释
+日
+selectsum(actual price)fromorders wherestatus = 4andcreated at>="2e25-e6-eiee:ee:ee'and hl rds delete= e and order_sn！=4V8xNK8Qe2MD5D2R
+摘要信息
+结果1
+单元格编辑器
+sum(actual_price)
+295260.00
+哈数据分析导出
+>X
+固定
+公众号。金星路406取证人

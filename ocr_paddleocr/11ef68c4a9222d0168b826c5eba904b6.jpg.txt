@@ -1,0 +1,40 @@
+# OCR: 11ef68c4a9222d0168b826c5eba904b6.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/11ef68c4a9222d0168b826c5eba904b6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+/root
+der ete
+home
+lost+found
+media mnt opt proc root
+cache ssh snar
+bash_history
+bashrc DJesshst profile viminfo un
+javaserver
++
+终端X
+WelcometoUbuntu22.4.4LTS(GNu/Linux5.15.e-1ee-genericx8664)
+Documentation:-
+Managenent: Support:
+https-//help.ubuntu.com
+https//landscape.canonical.com https.//ubuntu.con/pro
+SystenLnformatton as of MonMay2e e9:190eAMUTC 2024
+Systen load: Usaqe of/: Menory usage: Swap usaqe:
+ee
+557%0f975GB
+14% 6%
+Processes:
+Users Loggedtn: IPv4address
+223
+ens33:
+for
+192168100111
+ExpandedSecurityMaintenanceforApplicationsisnotenabled 4 updates can beapplied immediately
+To seethese additional updates run:apt list -upgradable
+Enable EsM Apps to receive additionalfuture Securityupdates
+See https-//ubuntu-con/esn orrun:sudopro status The list of available updates is more
+than a week old
+Tocheck for newupdates run:sudo apt update
+Failed to connect to https://changelogs.ubuntu.con/meta-release-lts.Check your Internet connection or proxy settings
+LastLogin:MonMay 2e9:16:422e24fron192.168.10o10e root@javaserver:~#

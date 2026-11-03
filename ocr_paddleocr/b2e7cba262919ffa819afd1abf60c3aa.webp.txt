@@ -1,0 +1,33 @@
+# OCR: b2e7cba262919ffa819afd1abf60c3aa.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/b2e7cba262919ffa819afd1abf60c3aa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+搜索
+cfg_adminkey 替换
+UE
+Aaab
+AB
+2文件中有2个结果-在编辑器中打开 config.db.phpApplConf
+cfg_adminkey=>26XBAmV...
+白* 当
+? 昔
+翠
+CommonAction.class.phpApp\Lib)...
+returnsha1(md5(md5(C(cfg_adminkey)
+CommonAction.class.php
+App>Conf》config.db.php
+1 2 m 4 5 6 7 8 9 1 11 12 13 14 15 16 17 18 19 20 21 22
+<?php
+return array
+"DB_TYPE'"DB_HOST'"DB_NAME'"DB_USER""DBPWD'"DB_PORT'"DB_PREFIX cfg_adminkey
+config.db.phpX
+> > >
+‘mysql'，//数据库类型
+服务器地址
+'k8s-node1',//
+motx5dw，//数据库名 MotX5DW，//用户名
+=>‘TKFTciiHS8nLjDix'，//密码
+3306，//端口 >
+数据库表前绒
+"26XBAmVMs+n_"

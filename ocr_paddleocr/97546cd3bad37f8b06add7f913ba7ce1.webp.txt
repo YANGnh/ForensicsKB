@@ -1,0 +1,77 @@
+# OCR: 97546cd3bad37f8b06add7f913ba7ce1.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/97546cd3bad37f8b06add7f913ba7ce1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:32
+
+文件
+视图
+G
+日
+modules.abc
+输入上文件
+导航区
+工具业
+modules.abc
+响脚本電源代码
+defpackage
+插件
+Q
+p000entry/src/main/ets
+Vpentryability >EntryAbility
+>entrybackupability
+apages >utils
+资源文件国Summary
+问题：
+帮助 Q
+@
+合
+国
+91错误
+口
+英
+EntryAbility c
+*modules-jadx-gui
+packagepoooentry/src/main/ets/entryability:
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55
+代码
+/*renamedfrom:&entry/src/main/ets/entryability/EntryAbility&,
+/*Loadedfrom：F：IPanguRunl笔记-副本letsImoduLes.abc*/ public class EntryAbility (
+public Object pkgName@entry; public Object isCommonjs;
+publicObjecthasTopLevelAwait; public Object isSharedModule; public Object scopeNames;
+public Object moduleRecordIdx;
+reason:invalidclassname*/
+/*JADxWARN:Typeinferencefailedfor:ri7v2,types:[object,int]*/ publicObject#~@o>@1*#(objectfunctionobject,ObjectnewTarget,
+EntryAbilitythis,objectargo)(
+if(isfalse(argo.code)== null)[
+hilog = import {default as hilog}from"@ohos:hilog";
+hilog.error(_lexenv_1_e_,"testTag","Failed toload thecontent.Cause:%(public)s",JsoN.stringify(argo)); return null;
+hilog2=import{ default as hilog}from"@ohos:hilog";
+hilog2.info(_lexenv_1_o_,"testTag","succeeded in loading the content."): return null;
+public Object func_main_o(Object functionobject, Object newTarget,
+newlexenvwithname（[1，"DOMAIN"，l，1); lexenv_oo_=null;
+this{
+EntryAbilityt
+UIAbility = importf default as UIAbilityfrom"@ohos:app.ability.UIAbility"
+x
+obj=UIAbility.#@o-#EntryAbility(object2,object3,UIAbility,["onCreate","&entry/src/main/ets/entryability/EntryAbility&.#~@o>#onCreate",2,"onDestroy","&entry/src/main/et obj2obj.prototype;
+_module_o_=obj return null;
+public Object #~@o>#onCreate(object functionobject,Object newTarget,
+obj=this.context;
+getApplicationContext = obj.getApplicationContext():
+EntryAbility
+this,objectargo,objectargl)(
+getApplicationContext.setColorMode(import{ default as ConfigurationConstant}from"@ohos:app.ability.ConfigurationConstant".ColorMode.coLoR_MoDE_NoT_SET): hilog=import{default ashilog}from"@ohos:hilog";
+hilog.info(_lexenv_o_o_,"testTag","%(public}s","AbilityonCreate");
+Appstorage.setorCreate("uiAbilityContext",this.context); hilog2= import {default as hilog }from"@ohos:hilog";
+hilog2.info(_lexenv__e_,"testTag","UIAbiiityContext stored in Appstorage."); return null;
+publicObject#@e>#onDestroy(objectfunctionobject,Object newTarget,
+EntryAbilitythis)[
+hilog=import【defaultashilog}from"@ohos:hilog";
+hilog.info(_lexenv___,"testTag"，"%(pubiic)s","AbilityonDestroy"); return null;
+public Object#~@e=#EntryAbility(object functionobject,Object newTarget,
+EntryAbilitythis,Object argo)[
+returnfunctionobject.superConstructor(objectl,object2,object3,functionobject,newobject[j(functionobject,newTarget,this,argo});
+指令和IR
+Simple
+Fallback
+Splitview

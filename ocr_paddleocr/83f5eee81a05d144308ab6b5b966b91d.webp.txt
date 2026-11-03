@@ -1,0 +1,38 @@
+# OCR: 83f5eee81a05d144308ab6b5b966b91d.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/83f5eee81a05d144308ab6b5b966b91d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+[com.gunra1ders]
+(dd4e3ff):
+Package
+userid=10111
+pkg=Package(756f5cc com.gunraiders)
+codePath=/data/app/-Q21tEV4Pp_j-vgE8BQHeHg==/com.gunra1ders-0yYqVe1QG9DmUAobGF4tog==
+resourcePath=/data/app/-Q21tEV4Pp_j-vgE8BQHeHg==/com.gunraiders-OyYqVe1QG9DmUAobGF4tog=s
+1egacyNativeL1braryD1r=/data/app/~-Q21tEV4Pp_j-vgE8BQHeHg==/com.gunra1ders-0yYqVe1QG9DmUAobGF4tog==/11b extractNativeLibs=true
+primaryCpuAb1=arm64-v8a
+secondaryCpuAb1=nu11 cpuAbioverride=nu11
+vers1onCode=476minsdk=29
+targetsdk=32 1s=D
+minExtensionVersi vers1onName=10.6.5 usesNonSdkAp1=fa1se sp11its=[base]
+apks1gningvers1on=2
+app1icationInfo=PackageImp1(756f5cccom.gunra fTagS=[HAS_CODEALLOW_CLEAR_USER_DATA
+PrivateF1agS=[ PRIVATE_FLAG_ACTIVITIES_RESIZE,
+privateF1agsExt=[ PROFILEABLE] forceQueryable=false
+Find Text
+Search String: gunraiders
+Matchcase
+ Match whole word only
+Match beginning of word only Regular expression search Iransform backslashes
+Don't wrap around Close after find
+Goto. Replace (Ctrl+H)
+queriesPackages=[]
+queriesIntents=[Intent ( act=com.android.vending.b111ing.InAppB111ingService.BIND ] dataDir=/data/user/o/com.gunra1ders
+supportsscreens=[sma11,medium，1arge，xlarge，resizeable，anyDensity] t1mestamp=2024-09-04 08:40:27
+f1rstInsta11Time=2024-09-04 08:40:29 1astupdateTime=2024-09-0408:40:29 insta11erPackageName=com.ocu1us.ocms
+Eind Next
+x
+Find Previous
+Close
+RIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING

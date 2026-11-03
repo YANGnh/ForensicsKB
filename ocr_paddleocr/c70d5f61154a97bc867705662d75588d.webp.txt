@@ -1,0 +1,16 @@
+# OCR: c70d5f61154a97bc867705662d75588d.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/c70d5f61154a97bc867705662d75588d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+Iterator it3 = arrayList2.iterator(): int i5 = o;
+while(it3.hasNext())f
+bArr2[i5l-（(Number)it3.next()).byteValue(): i5++;
+SecretKeySpec secretKeySpec = new SecretKeySpec(bArr2, "AEs"):((GalleryActivity)dVar2.f28G).getclass():
+Cipher cipher= Cipher.getInstance("AEs/GcM/NoPadding): byte[] bArr3 = new byte[12];
+new SecureRandom().nextBytes(bArr3):
+cipher.init(1,secretKeySpec, newGcMParameterSpec(128,bArr3)): byte[] doFinal = cipher.doFinal(bArr);
+int length2=doFinal.length+12; byte[] bArr4 = new byte[length2];
+System.arraycopy(bArr3,e,bArr4,e,12):
+System.arraycopy(doFinal,o,bArr4,12,doFinal.length);
+((GalleryActivity)dVar2.f28G).getclass(): y1.q qVar =newyl.q):

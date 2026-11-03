@@ -1,0 +1,19 @@
+# OCR: 486cc743b2cf4553ec3e3b84395a9c33.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/486cc743b2cf4553ec3e3b84395a9c33.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+public Object #~@o=#LoginPage(object functionobject,Object newTarget,LoginPagethis,Object argo,Object argl,Object arg2,Object arg3,Object arg4,Object arg5)(
+obj-arg3 obj2arg4;
+if ((0 == obj ? 1 : 0) [= 0) [
+obj = -1;
+if ((0 == obj2 ?1 : 0) |=0) [
+obj2=null;
+obj3 = super(argo, arg2, obj, arg5);
+if (("function"== typeof(obi2)?1 : )!=@)
+obj3.paramsGenerator_=obj2;
+obi3.
+passwordInput=observedPropertysimplepu("",obj3,"passwordInput"):
+SimplePu("",obj3,"errorMessage");
+obj3.FIXED_PASSWORD-"pgsdbw-2025"; obj3.setInitiallyProvidedValue(arg1);
+obj3.finalizeConstruction(); returnobj3;

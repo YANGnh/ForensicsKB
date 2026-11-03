@@ -1,0 +1,59 @@
+# OCR: f51ca58548c02b1483a48a5ede026445.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/f51ca58548c02b1483a48a5ede026445.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+for i,v in enumerate(SBOX):
+INV_5BOX[V] =1
+RCON= [0x00,0x01,0x02,0x04,0x08,0x10,0x20,0x40,0x80,0x1B,0x36] def xtime(a):
+return (a<d) & 0xFF)  (0x1Bif (a & 0x80) else 0x00) defmul(a,b):
+# multiply in GF(2^8) res =o
+for iin range(8):
+ifb&1
+res A=a carry =a&0x80 a = (a <<1) & 0xff) if carry:
+a A= 0xib
+b>>=1 return res
+def sub_word[word4);
+return bytes[SBOX[b] for b in word4]) def rot_word[word4);
+return word4[1:4] + word4[0:1] def key_expansion(key16, n):
+# key16: bytes(16)
+assert len(key16) == 16
+Nk=4 Nb=4 Nr=10
+# words: 4-byte words
+w = [key16[i:i+4] fori in range(0, 16, 4] for in range(Nk, Nb*(Nr+1):
+temp=w[1-1] ifi% Nk == 0:
+temp
+bytes(a
+bytes([RCON[//Nk],0,0,0]
+A
+b
+for
+a,b
+in
+W.append(bytes(a ^b for a,b in zip(wli-Nk), temp) round_keys =[b"join(w4*i:4*+4) for lin range(Nr+1]] = round_keys[n]
+zip(sub_word(rot_word(temp)
+round_keys[n] = round_keys[0] round_keys[0] = 5s
+return round_keys
+# list of 11 round keys (16 bytes each)
+def add_round_key(state, round_key):
+# state: list of 16 ints; round_key: bytes(16)
+return [s ^ round_keyfl for i,s in enumerate(state)] def sub_bytes(state):
+return [SBOX[b] for b in state] def inv_sub_bytes(state):
+return [INV_SBOX[b] for b in state] def shift_rows(state):
+# state is 16 bytes in column-major (state[c*4 + r])
+out = [0]*16 for r in range(4):
+for c in range[4):
+out[c*4 + r] = state[(c+ r) % 4)*4 + r]
+return out
+def inv_shift_rows[state):
+out =[0]*16 for r in range(4):
+for c in range(4):
+Out[c*4 + r] = state[((c- r) % 4)*4 + r)
+return out
+def mix_single_column(a):
+# a: 4 bytes list r=[0,0,0,0]
+r[0] = mul(a[0],2)  mul(a[1],3]  a[2] ^ a[3] r[1] = a[0] *mul[a[1],2]  mul(a[2],3]  a[3] r[2] = a[0]  a[1]  mul[a[2],2)  mul[a[3],3] r[3] = mul(a[0],3] ^ a[1] ^ a[2] *mul(a[3],2] returnr
+def mix_columns(state):
+out=[0]*16 for c in range(4):
+col = [state[c*4 + r] for r in range(4] mixed = mix_single_column(col)
+公众号·小谢取证

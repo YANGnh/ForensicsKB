@@ -1,0 +1,12 @@
+# OCR: cde88031a6ea9e2fb590ba72c6eef58e.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/cde88031a6ea9e2fb590ba72c6eef58e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+sub_401E9E();
+sub401064(CommandLine,0,0);
+sub 401064(aIcaclsGrantEve,0,0);
+if（sub40170A(）） sub_4012FD(v9);
+if（5ub401437(0,0,0)） v13 = 0:
+v5=(void*)sub_4014A6(aTwnry,（int)&v13); if（v5）
+v6=5ub4021BD(v5.v13):

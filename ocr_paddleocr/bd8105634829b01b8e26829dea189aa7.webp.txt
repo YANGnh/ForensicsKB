@@ -1,0 +1,14 @@
+# OCR: bd8105634829b01b8e26829dea189aa7.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/bd8105634829b01b8e26829dea189aa7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+publicstaticbyte[](byte[]bArr,byte[]bArr2){
+if (bArr == null
+T/bArr.length == e/bArr2
+throw new InvalidParameterException():
+null//bArr2.1ength<16/f295a
+String substring = new String(bArr2).substring(0,16): byte[l decode=Base64.decode(bArr,o):
+IvParameterSpec ivParameterSpec = new IvParameterSpec(substring·getBytes()):
+SecretKeyspec secretkeyspec = new SecretKeySpec(bArr2, "AEs"): Cipher cipher =Cipher.getInstance("AEs/CBc/PKcS5Padding"):
+cipher.init(2,secretKeySpec,ivParameterSpec): return cipher.doFinal(decode):

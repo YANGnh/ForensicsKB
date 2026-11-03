@@ -1,0 +1,40 @@
+# OCR: 34cd73fa4f94f5878b35b0ae0314f2dd.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/34cd73fa4f94f5878b35b0ae0314f2dd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+口
+vcsa-VMwareWorkstation
+文件(F) 库
+编辑(E)
+查看M
+x
+O在此处键入内容.
+我的计算机
+Windows10x6 Windows10x64 Windows7x64 Ubuntu os test Debian10.x64 Debian10Clon Ubuntu_1804 vcsa
+共享虚拟机（已弃用）
+虚拟机（M）
+Fvcsa
+要返回到您的计算机，
+请按Ctrl+Alt
+x
+选项卡(T)
+帮助(H)
+品
+?
+uMwareuCenterSeruer8.0.3.00500
+向
+Seruer with an embedded Platform Seruices Controller
+uCenter
+Type:
+i7-9750H CPUQ 2.60GHz
+Intel(R)
+Core(TH)
+4X
+7.7 GiB Memory
+Please uisit the following URL to configure this appliance: https://ucsa.pgs.cup:5480
+Download support bundle from:
+https://ucsa.pgs.cup:443/appliance/support-bundle https://192.168.10.100/(STATIC）
+<F2>Customize System
+DAODAOO
+<F12>ShutDown/Restart

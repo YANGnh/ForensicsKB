@@ -1,0 +1,18 @@
+# OCR: 3da106f1dbabf93f39fd10b5e87f5bbf.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/3da106f1dbabf93f39fd10b5e87f5bbf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+FLUSH
+PRIVILEGES
+vso
+QueryOK,rowsaffected(o.01sec)
+PySqL>ALTERUSER'root'@'%IDENTIFIEDBY'123456' QueryOK,rowsaffected(.1sec)
+ySql>ALTERUSERroot@'locaLhost'IDENTIFIEDBY123456
+erowsaffected(o.01sec)
+QueryoK,
+PySqL>FLUSHPRIVILEGES
+erows
+OueryoK,
+affected
+(0.00 sec)

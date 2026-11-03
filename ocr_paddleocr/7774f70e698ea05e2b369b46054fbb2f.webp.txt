@@ -1,0 +1,30 @@
+# OCR: 7774f70e698ea05e2b369b46054fbb2f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/7774f70e698ea05e2b369b46054fbb2f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Filefile=newFile(Fileutil.getFilesDir(),"UserInfo"); try
+}catch(Exception e)[
+e=ej
+fileInputstream = null; 1catch(Throwableth)
+th = th
+if(fileInputstream2!=null){ throw th;
+if(!file.existsO)f
+fileInputstream= null: lelsef
+fileInputstream = new FileInputStream(file): tryt
+try
+read =Ioutil.read(fileInputstream): 1catch(Throwableth2){
+th = th2;
+fileInputstream2 -fileInputstream; if（fileInputstream2!=null){
+IoUtil.closeQuietly(fileInputstream2):
+1
+throw th;
+catch(Exceptione2)
+e=e2:
+u12.w("basemap.account","AccountDataStore#loadUserInfoFromoldFile"
+if
+(read != null && read.length>o)(
+this.c=wg2.c(serverkey.amapDecodeV2(new String(read,"utf-8")));
+e.getMessage()):
+if(this.c != null &&Textutils.isEmpty(this.c.nick)){
+MapSharePreference mapSharePreference - new MapSharePreference("spNameAccount");

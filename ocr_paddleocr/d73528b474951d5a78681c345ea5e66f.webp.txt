@@ -1,0 +1,14 @@
+# OCR: d73528b474951d5a78681c345ea5e66f.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/d73528b474951d5a78681c345ea5e66f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+[root@k8s-master~#kubectlgetns
+NAME
+default
+default-mem-example kube-node-lease
+kube-public kube-system
+kubernetes-dashboard www-mtbtsdafda-com
+[root@k8s-master~]#
+STATUS Active Active Active Active Active Active Active
+AGE 244d 243d 244d 244d 244d 244d 243d

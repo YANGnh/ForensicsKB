@@ -1,0 +1,29 @@
+# OCR: 61ce485620f932cb1e5c5ea7b960ee5d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/61ce485620f932cb1e5c5ea7b960ee5d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+1 2 m 4 5 6 7
+char*
+fastcall encrypt(char*s)
+int64v1;//rbp
+unsigned int v2;// ebx int64 Aeskey: // r13
+int64v4://rax intv5;//ebx
+8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+unsigned int v6; // ebx
+int64v7;//rax int64v8;//rbp int64v9;
+// rax
+int64v1;
+//r12://rbp
+int64v11: size_t *v12;
+//rbx
+sizet v13;//r13 void*v14;//r12
+[r5p+oh］[rbp-434h]BYREF
+intv16;//
+sizet*v17//[rsp+4h][rbp-430h]BYREF
+BYTEv18[1064];//[rsp+Ch][rbp-428h]BYREF if(!s)
+returnstrdup(&byte_2o1E); V1=EVP_CIPHER_CTX_new(): v2 = strlen(s);
+Aeskey = getAeskey(): v4=EVPaes_256cbc();
+oLL,Aeskey,&AES_IV);
+EvP_EncryptInit_ex(v1,v4,
+EVP_EncryptUpdate(v1,v18,v16,5,v2);

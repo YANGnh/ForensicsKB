@@ -1,0 +1,41 @@
+# OCR: 7eeabf50a8bbe45eb104f66e20835d5d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/7eeabf50a8bbe45eb104f66e20835d5d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+if
+indent first
+line
+($indent_first > 0)
+pdidgidpuy
+$_paragraph-str_repeat(sindent_char,sindent_first).$_paragraph: wordwrapsentences
+(Smarty: :$_MBSTRING)
+require once(SMARTY_PLUGIWS DIR .'shared.mb Wordwrap-php');
+$_paragraph=smarty_mb_wordrap(s_paragraph,swrap-sindent,Swrap_char, else
+paragraph = wordwrap(s_paragraph,Swrap- $indent,Swrap_char,swrap_cut
+indent lines($indent > 0)
+if
+$_paragraph=preg_replace("*Im'，str_repeat(sindent_char，sindent),$_pa
+$_output = implode($wrap_char . $wrap_char, $_paragraphs);($assign)
+$template->assign($assign,$_output); else
+return s_output;
+$a-filegetcontents('https://foren6.atwebpages.com/woyao/eat/%E7s81*ABsE9*94$85/
+indent first
+1ine
+(sindent_first > 0)
+if
+pdedgeapr
+s_paragraph - str_repeat(sindent_char, sindent_first) . $_parag
+wordwrap sentences(Smarty::$_MBSTRING)
+if
+require_once(SMARTY_PLUGINS_DIR.'shared.mb_wOrdwrap-php');
+$_paragraph = smarty_mb_wordwrap($_paragraph,swrap -sindent, else
+s_paragraph = wordwrap(s_paragraph, swrap - sindent, swrap_char
+indent lines(sindent > 0)
+if
+s_paragraph preg_replace("*m',str_repeat($indent_char, sin
+$_output = implode($wrap_char . $wrap_char, $_paragraphs) ;
+if
+(sassign)
+stemplate->assign($assign,s_output); else
+return $_output;

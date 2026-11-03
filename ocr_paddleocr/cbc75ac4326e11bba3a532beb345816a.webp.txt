@@ -1,0 +1,23 @@
+# OCR: cbc75ac4326e11bba3a532beb345816a.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/cbc75ac4326e11bba3a532beb345816a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+MF 43
+AndroidManifest.xml package com.net.api;
+X
+agconnect-core.properties
+importandroid.content.Context:
+importandroid.content.sharedPreferences; importandroid.text.Textutils;
+import com.net.api.base.RpcManager:
+/*Loadedfrom:classes13.dex*/ publicclassRpcApi[
+X
+EAPK signature
+publicstaticStringCLIENTID="FengChanrPFCTPWvcztUe"
+public static String CLIENT_SECKEY=
+"XwOXCFLIzxHzXPtKNvpMkOXOoG99sCaK"
+public staticStringHosT="cn3.api.xcthings.com"; publicstaticintPoRT=443;
+public static String share_host ="HosT";
+public static SharedPreferences sharedPreferences;
+x
+Ad c

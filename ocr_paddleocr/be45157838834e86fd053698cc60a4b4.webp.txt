@@ -1,0 +1,99 @@
+# OCR: be45157838834e86fd053698cc60a4b4.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/be45157838834e86fd053698cc60a4b4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+日
+@ 田
+田日
+田用田
+田用用
+File 目
+Config
+登
+BasicAnalyzer
+BaseInfo
+Certificate AllAPIs
+Alistrings Appstrings AliUris
+View S
+AndroidManifest
+Maiscan Resources
+Dexclass
+申MTT
+申android.support.v4
+日田田由中由电中由
+fapp
+日田田电
+M
+Tools C
+F
+Help B
+index
+package
+[FileBase Info]
+File Name:
+GDA4.02(Free Edition)
+H
+ru
+declare
+串
+Entry
+C：Users/NEkoNDesktop\山东\出题\检材\周宇APK文件/uni.owry.apk
+Package Name:uni.owry MainActivity:
+io.dcloud.PandoraEntry
+Filesize: MD5:
+Packed: MinSDK:
+Target SDK:[MetaData]
+21184244bytes
+c5ea689ea806ed2318bccbbc2cba5198
+Not Packed
+19 28
+DCLOUDAPP DEFAULTLANGUAGE:
+DCLOUDDARKMODE:
+auto
+DCLOUDSTREAMAPPCHANNEL: android.notch_support:
+CINotificationsideCha
+cancel(string,int cancelAil(String) notify(string.int
+e
+INotificationsideCha INotificationsideCha RemoteActionCompatPa
+graphics.drawable os
+androidtranscoder androidx
+bolts com
+dc.squareup
+fun.learnlife.beakpad_bui
+io
+javax.annotation
+中
+kotlin.annotations.jvm
+net.iingala.zip4j org
+pl.droidsonroids.gif 申
+uni.owry
+notch.config:portrait android.max_aspect:2.5
+auto
+uni.owrylUNI7CB999B126691230302common true
+android.Support.FILE_PROVIDER_PATHS:[DEXBaseInfo]
+Dex File Name:
+File size: MD5:
+Class size: Method size: String size:
+classes.dex
+9329828bytes
+@resource
+f5d37adcf402de23808e8068b4293882
+7843 65487 68846
+Dex File Name:
+File size: MD5:
+Class size: Method Size: String size:
+[Permissions]
+classes2.dex
+1001608bytes
+2193362589f0da4c483a4defe6d46cda
+659 6167 9688
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE android.permission.ACCESS_NETwORKSTATE
+android.permission.AccEsswIFIsTATE android.permission.INSTALLPACKAGES
+android.permission.REQUEST_INSTALL_PACKAGES android.permission.CHANGE_NETwORKSTATE
+android.permission.MOUNT_UNMoUNT_FILESYSTEMS
+android.permission.VIBRATE andrnid.nermissinn.RFAnIoGs
+回
+区
+Dump

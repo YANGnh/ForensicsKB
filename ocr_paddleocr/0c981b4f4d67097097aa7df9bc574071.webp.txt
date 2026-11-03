@@ -1,0 +1,16 @@
+# OCR: 0c981b4f4d67097097aa7df9bc574071.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/0c981b4f4d67097097aa7df9bc574071.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+Setting everything up
+TosetupHNSDNS on Windows,you'll just need tofollowthese simple steps.Note:youmay require admin access. 1.Press +R,then typencpa.cpl and clickEnter(←).
+2.Choosethenetwork adapterthatyouuse.Thenright-click in itandpressProperties 3.Select"InternetProtocolversion4(TcP/IPv4)",thenclickProperties".
+4.Check"UsethefollowingDNSserveraddresses" 5.Writethefollowingsettings:
+：139.144.68.241forthePreferredDNSserver. 139.144.68.242fortheAlternateDNS server.
+6. Click 'Ok". Now let's do the same for IPv6.
+NoTE: this is only necessary if your ISP support IPv6. You can quickly check that trying to access ipv6.lumi.gq. If it shows a bunchofnumberseparatedbycolons(),thenyouhaveIPv6.If itshowsabrowsererrorsayingthatitcan'treachthewebsite thenyouonlyhaveIPv4.
+7.Select"InternetProtocolversion6(TcP/IPv6)",thenclick"Properties"
+8.Check"UsethefollowingDNS serveraddresses". 9.Writethefollowing settings:
+.2a01:7e01:e002:c30e::forthePreferredDNSserver..2a01:7e01:e002:c50e::fortheAlternateDNSserver
+10. Click Ok",then "Close", and you're now ready! Try visiting lumito./ in your browser. Note: it may take a while to load

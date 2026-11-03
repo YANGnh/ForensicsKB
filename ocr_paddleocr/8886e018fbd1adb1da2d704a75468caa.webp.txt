@@ -1,0 +1,32 @@
+# OCR: 8886e018fbd1adb1da2d704a75468caa.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/8886e018fbd1adb1da2d704a75468caa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+linux.conf@C:/hlnet/1-1748241630/检材1-手机.tar/data/user/0/ru.meefik.linuxdeploy/files/config*-Kate
+文件(E
+编辑(E)
+新建
+选择(C)
+B打开..
+视图
+日保存
+linux.conf
+29 30 31 2 33 34 35 36 37 38
+X
+转到(G)
+工程(P)
+》另存为.
+LSP客户端(L) 2撤销
+会话山) 重做
+工具口
+设置(S)
+帮助(H)
+SoURCEPATH="http://ftp.debian.org/debian/
+SSHARGS="" SSH PORT="22"
+SUITE="bookworm
+TARGETPATH-"SEXTERNALSTORAGE!/UUID!
+TARGETTYPE=fie! UsERNAME="android
+USERPASSWORD="99c26da5" VNC ARGS-""
+VNC DEPTH-"16"
+x 品

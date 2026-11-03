@@ -1,0 +1,11 @@
+# OCR: 0e25255adfb24076cfc913033e613f11.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/0e25255adfb24076cfc913033e613f11.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+fromtqdmimporttqdm
+def aes encrypt(data, key,iv):
+cipher=AES.new(key,AES.MODECBC,iv) 井对数据进行填充
+padded data = pad(data.encodeO, AEs.block size#加密数据
+encrypted_data=cipher.encrypt(padded data) returnencrypteddata
+key=b'65B2564BG89F16G9 ivV=b'83E6CBEF547944CF

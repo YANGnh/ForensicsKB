@@ -1,0 +1,21 @@
+# OCR: 44135c135cc3d4b30430f4bf268dea5e.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/44135c135cc3d4b30430f4bf268dea5e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Recipe
+URLDecode FromBase64 Alphabet
+A-Za-z0-9+/= Strictmode
+a
+??
+Removenon-alphabet：chars
+Input
++
+口
+Y2QgIi93d3cvd3d3cm9vdC93d3cudHBZaG9wLmNvbS9hcHBsalNhdG1vbiI7Y2htb2QgNzc3IGdvb24yX2xpbjtIY2hvID1mN2Rk03B3ZDt1Y2hvIGR1YTc1 YWY3NDMXNQ%3D%3D
+136 Output
+cd"/www/wwroot/wwi.tpshop.com/application";chmod777goon2_1in;echo9f7dd;pwd;echodea7Saf74315
+TrRaw Bytes
+a
+石
+用

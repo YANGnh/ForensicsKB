@@ -1,0 +1,24 @@
+# OCR: eec0de390ff7b135595bdfaf3ea5a317.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛/eec0de390ff7b135595bdfaf3ea5a317.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+ROOT
+回
+品
+ActivationBroker
+ControlS et001 DriverDatabase HardwareConfig Input
+ Keyboard Layout 白Maps
+MountedDevices ResourceManager ResourcePolicyStore
+RNG  Select Setup Software
+Value
+ DosDevicestC
+??Volume(1ddbc431-169f-11f0-..??Volume(1ddbc432-169f-11f0-..
+ DosDevices DosDevices+D:  DosDevicesvE:
+Type
+REG_BINARY REG_BINARY REG_BINARY REG_BINARY REG_BINARY
+Data
+44 4D 49 4F 3 49 44 3A E3 6E DC 5D 54. F7 96 44 8D 11 DB 43 D8 AB E2 B8
+5C 00 3F 00 3F 00 5C 00 53 00 43 00 53 00 49 00 23 00 43 00 64 00 52 00 6F 00 6D 00 5C 00 3F 00 3F 00 5C 00 46 00 44 00 43 00 23 00 47 00 45 00 4E 00 45 00 52 00 49 00 5C 00 3F 00 3F 00 5C 00 46 00 44 00 43 00 23 00 47 00 45 00 4E 00 45 00 52 00 49 00 5C 00 3F 00 3F 00 5C 00 53 00 43 00 53 00 49 00 23 00 43 00 64 00 52 00 6F 00 6D 00
+444D494F3A49443AB429EF4BEE6A8347A51F898D2D703232
+REGBINARY

@@ -1,0 +1,104 @@
+# OCR: 6926bb7c730678d8a3e9ded1b17406de.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/6926bb7c730678d8a3e9ded1b17406de.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+中
+File
+日
+GO
+Config
+堂
+日@
+BasicAnalyzer
+BaseInfo
+Certificate AIIAPIS
+Alistrings Appstrings
+View S
+AliUris
+AndroidManifest Malscan
+田
+Resources
+Dexclass 田申MTT
+母android.support.v4 日
+日申app
+M
+Tools C
+F
+@INotificationSideChannel
+Help B
+cancel(string,int,string):voic e cancelAll(String):void
+notify(string,int,String,Noti
+CINotificationsideChannelsstub 田
+CINotificationsideChannelsstubsPr 田
+CRemoteActionCompatParcelizer 田
+申graphics.drawable 田
+申os 田
+母androidtranscoder 回
+田
+申engine 申format 田
+utils 田
+田田
+田田
+田田
+MediaTranscoder C
+C C C C C C C C
+MediaTranscoders1 MediaTranscoders2 MediaTranscoders3 MediaTranscoders4 MediaTranscoderS4s1
+MediaTranscoderS4sis1 MediaTranscoderS4s2
+MediaTranscoderSListener
+C
+VideoCompressor
+用
+index
+明
+国
+H
+package
+GDA4.02(Free Edition)
+o
+declare
+packagecom.taobao.weex.wxGlobalEventReceiver;
+android.content.BroadcastReceiver;
+import
+import
+com.taobao.weex.wxsDKInstance:
+android.content.Context;
+import
+import android.content.Intent;
+java.lang.String;
+import
+import import
+java.util.HashMap;
+com.alibaba.fastison.JSoN:
+java.lang.Classj
+import
+java.lang.Object;
+import
+8
+GDAxml
+activity
+permission
+services
+android:name"DCLOUD_DARK_MODE
+<meta-data </meta-data)
+receiver
+Oall
+android:value-"auto"
+?
+OpenXM
+Save
+Entry
+口回区 Cancel
+<meta-dataandroid:name-"DCLOUD_STREAMAPp_CHANNEL"android:value"uni.Owryl__UNI_7CB999B|12669123e3e2|common" </meta-data>
+<meta-data android:name-"android.notch_support"android:value-"true"> </meta-data>
+<meta-data android:name-"notch.config"android:value-"portrait">
+</meta-data> </meta-data)
+<receiver android:name-"com.taobao.weex.wxlobalEventReceiver"android:enabled-"true"android:exported-"false" </receiver>
+<uses-liraryandroid:namesorg.dpacne.nttp.legacyandroid:requiredsTaise> </uses-library>
+<activityandroid:theme-"@style/DeviceDefault.Light"android:name-"io.dcloud.feature.nativeobj.photoview.photoActi </activity>
+<activityandroid:theme-"@style/pcloudtheme"android:label-"@string/stream_my"android:icon-"edrawable/dcloud_rece </activity>
+<activity android:theme-"@android:eie3ee1e"android:name"io.dcloud.processMediator"android:exported-"false"andr </activity>
+<activity android:theme-"@style/ThemeNoTitleBar"android:name-"io.dcloud.webviewActivity"android:exported-"false" </activity>
+<activity android:theme-"@style/DeviceDefault.Light"android:name-"com.dmcbig.mediapicker.pickerActivity"android: Iclui,
+回区 Dump
+Lass)）

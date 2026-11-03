@@ -1,0 +1,31 @@
+# OCR: bf08290ed5acb3efe56026e03c09d75f.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/bf08290ed5acb3efe56026e03c09d75f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+No.
+dns && ip.dst==192.168.7.4
+Time
+93962925-92-9491:32:47.7969737
+Source
+Android.local
+Destination 192.168.7.4
+Frame9396:Packet,526bytesonwire（4208bits),526bytescaptured（4208bits)
+EthernetII,Src:Android.local(o8:9o:27:d3:c1:5c),Dst:Android.local(1c:bf:ce:ac:47:08) Internet Protocol Version 4,Src:Android.local (192.168.1.3),Dst:192.168.7.4 (192.168.7.4)
+Transmission Control Protocol, Src Port: 53, Dst Port: 38971, Seq: 1, Ack: 54, Len: 46o DomainNameSystem（response)
+Length:458
+TransactionID：ex8455
+Flags:ex848e standard query response,No error
+Ouestions: 1 AnswerRRs:14
+AuthorityRRs:e Additional RRs: 1 Queries
+cs-corp.cd: type AXFR, class IN Answers
+cs-corp.cd:type soA, class IN, mname nsl.cs-corp.cd cs-corp.cd:typeNs,classIN,ns192.168.1.3
+cs-corp.cd:typeMx,classIN,preference1o,mxcs-corp.cd cs-corp.cd:typeA, classIN,addr192.168.1.3
+admin.cs-corp.cd: type A, class IN, addr 192.168.1.3 auth.cs-corp.cd: type A, class IN, addr 192.168.1.3
+www.a1.dev.cs-corp.cd: type A, class IN, addr 192.168.1.3 download.cs-corp.cd:type A, class IN,addr 192.168.1.3 ftp.cs-corp.cd:typeA,classIN,addr192.168.1.3
+internal.cs-corp.cd: type A, class IN, addr 192.168.1.3
+mail.cs-corp.cd: type A, class IN, addr 192.168.1.3 office.cs-corp.cd:type TXT, class IN
+sysmon.cs-corp.cd: type A,class IN, addr 192.168.1.3 cs-corp.cd:typesoA,classIN,mnamens1.cs-corp.cd
+Additional records <Root>: type OPT[Request In:9394]
+[Time:1.0ieooo milliseconds
+Protocol DNS

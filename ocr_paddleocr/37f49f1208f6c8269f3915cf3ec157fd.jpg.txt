@@ -1,0 +1,16 @@
+# OCR: 37f49f1208f6c8269f3915cf3ec157fd.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/37f49f1208f6c8269f3915cf3ec157fd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+Footdkali)/桌面/Forensics/volatility
+python2 vol.py-f/mnt/ShareWithwinlo/memdump.mem
+--profile=winiox64igo41pslistgrep navicat
+Volatility Foundation Volatility Framework2.6.l
+0xffffe6086dce6080navitat.exe
+9336
+5272
+11
+0
+1
+02024-04-2514:16:01UTC+0000

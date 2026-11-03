@@ -1,0 +1,18 @@
+# OCR: 388aa078c628972cd975317d5dfa7396.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/388aa078c628972cd975317d5dfa7396.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+消息数据
+SELECT
+truename
+摘要信息
+truename 李奕欣
+结果1
+FROM
+ds_member
+WHEREmobile=(SELECTparentFROM
+“ds_member
+GROUPBYparent ORDER BYCOUNT(*)DESCLIMIT,1);
+单元格编辑器
+数据分析导出

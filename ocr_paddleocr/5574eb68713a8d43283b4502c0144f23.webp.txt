@@ -1,0 +1,79 @@
+# OCR: 5574eb68713a8d43283b4502c0144f23.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/5574eb68713a8d43283b4502c0144f23.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+2
+action_log@main(media.20240601)-表-NavicatPremium
+文件
+编辑
+连接
+查看新建查询
+表
+收藏夹
+表
+6e7a8118-3771-4051-a86a-1268cb7
+media.20240601
+main 表品视图 >
+>A-Z 索引
+触发器
+> >
+查询の备份
+工具
+视图对象
+窗
+帮助
+A-z 索引
+触发器
+用户
+查询
+actionlog@main(media.20240601).
+昆开始事务
+content包含登入成功
++
+id
+√应用
+bea71af8-5969-43ea-b6 1608ccd7-2f52-4bbb-b7 17db0ab0-ec84-4822-89 7975192f-050c-4355-aal 7972a595-12c7-41d2-99 156fec29-5ce6-4751-a5:
+X
+C
+自文本
+了筛选
+排序用列
++ +
+type
+0 0 0 0 0 0
+userld(Null)(Null)(Null)(Null)(Null)(Null)
+备份
+自动运行
+数据生成
+6导入已导出
+account admin admin admin admin admin admin
+userName
+admin admin admin admin admin admin
+模型
+咖创建图表
+datetime
+图表
+2025-04-14 14:56:23.051 2025-04-2411:58:40.58 2025-04-24 12:04:05.346 2022-04-2816:27:32.444 2022-04-28 16:29:14.505 2025-04-29 14:48:32.665
+ip
+192.168.20.100 192.168.20.10 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100
+SELECT*rowid"NAVICATROWID"FROM"main'.actionlog"WHERE"content"LIKE‘%登入成功%'LIMIT0,1000
+userAgent
+Mozilla/5.0 (Windows N
+content 登入成功
+Mozilla/5.0(WindowsN
+登入成功
+Mozilla/5.0(WindowsN登入成功 Mozilla/5.0(WindowsN登入成功
+Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N
+登入成功登入成功
+业
+o
+曲圆
+用
+datetime
+类型 DATE
+不是null 香
+默认值注释
+第2条记录（共6条）于第1页
+口
+x 口

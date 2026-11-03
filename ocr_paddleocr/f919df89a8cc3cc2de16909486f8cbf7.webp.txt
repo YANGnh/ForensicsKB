@@ -1,0 +1,44 @@
+# OCR: f919df89a8cc3cc2de16909486f8cbf7.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/f919df89a8cc3cc2de16909486f8cbf7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+num_score, ent tine
+ofd.fqzscore ofd.ds_third_num
+ofd
+LEET
+order
+from
+JOIN
+nd_timeFROMorder_detailWHERE
+ofd.xd_score
+ofd.df third num
+(SELECT MAX)
+ofd.kaiqi_score
+od.end tine
+order_detail_id)As order_detail_id,
+"status
+rderid
+WHERE
+ofd.'status'
+5
+ORDERBYofd.repayment_
+ofd.repayn FROM
+order_id,e
+GRoUpBYorderid）odoN（ofdorderid=od.o
+timeDESCLIMIT?
+SQLSyntaxErrorException
+Expression#3ofSELECTlistisnotinGRoUpBYclause
+### Cause:
+lava.so
+and contains nonaggregated column'sxj_prod.order_detail.end_tine' which is not functionally depende
+ntoncolumnsincRoupByclause:thisisincompatiblewithsql_mode=only_full_group_by;badsoLgrammar[;nestedexceptionisjava.sql.SQLSyntaxErrorException:Expression#3
+ot
+SELECT
+ListisnotinGRoupBYclauseandcontainsnonaggregatedcolunn
+'sxj_prod.order_detail.end_tine
+functionallydependentoncolumnsincRoupByclause-
+ichisnot
+wh
+incompatiblewithsalmode=
+this is

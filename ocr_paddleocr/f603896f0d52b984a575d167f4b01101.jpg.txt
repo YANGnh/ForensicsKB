@@ -1,0 +1,39 @@
+# OCR: f603896f0d52b984a575d167f4b01101.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f603896f0d52b984a575d167f4b01101.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+终端X
+[root@localhost alist]#docker ps CONTAINERID
+IMAGE
+NAMES
+85c6f203ba5b 080->80/tcp b28698e5320a
+corentinth/it-tools:latest
+it-tools
+louislam/uptime-kuma:1
+-3001->3001/tcp
+41945cbed927 e->5005/tcp
+uptime-kuna
+soulteary/flare
+flare-flare-1
+a42dfbe981e3
+prophet3ie/alist-encrypt:beta
+5344->5344/tcp
+alist-encrypt
+COMMAND
+"/docker-entrypoint."/usr/bin/dumb-init""flare--nologin-o""node index.js"
+[root@localhost alist]#docker exec-it a4/bin/sh
+/node-proxy#ls PRGAThreadCom.jS/node-proxy#
+conf
+index.js
+Logs
+CREATED
+2 weeks ago 2weeks ago 2weeks ago 2 weeks ago
+package.json
+STATUS
+Up2hours
+Up2 hours(healthy)
+Up2hours Up2hours
+public
+PORTS
+0.0.0.0:8080->80/tcp.::=8@.0.0.0:3001->3001/tcp.: 0.0.0.0:80->5005/tcp,=:8 0.0.0.0:5344->5344/tcp，:

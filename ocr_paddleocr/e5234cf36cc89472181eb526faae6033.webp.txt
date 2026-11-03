@@ -1,0 +1,18 @@
+# OCR: e5234cf36cc89472181eb526faae6033.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/e5234cf36cc89472181eb526faae6033.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+t/shadow-word1ist=/mnt/g/2025盘古石杯/晋级赛/export/dic.txt/mnt/g/2o25盘己
+Loaded1passwordhash(crypt,genericcrypt(3)[?/64]) Willrun16openMpthreads
+Press'q'orCtrl-Ctoabort,almostanyother keyforstatus
+p@ssword
+(root
+190:00:00:00100%25.009/s2400p/s2400c/s2400C/swwW..01
+Use the "--show" option to display all of the cracked passwords reliably Sessioncompleted
+wxizc
+@
+70
+n
+En
+12:20:42

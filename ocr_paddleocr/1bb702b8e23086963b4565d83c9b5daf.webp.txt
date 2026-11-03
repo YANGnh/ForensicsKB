@@ -1,0 +1,14 @@
+# OCR: 1bb702b8e23086963b4565d83c9b5daf.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/1bb702b8e23086963b4565d83c9b5daf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+1
+消息数据
+SELEcTbankcardFROM'userinfo'
+摘要信息
+bankcard
+结果 1
+6227001756030083140
+WHEREname=
+包玉莲

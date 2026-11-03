@@ -1,0 +1,37 @@
+# OCR: a1f63a884bf50e3186559dbedbac787c.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/a1f63a884bf50e3186559dbedbac787c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+Wireshark·追踪HTTP流(tcp.streameq59)·流量分析.pcapng
+POST/phpmyadmin/index.phpHTTP/1.1 Host:192.168.85.250
+User-Agent:Mozilla/5.e(x11;Linuxx86 64;rv:6e.e)Gecko/201001e1Firefox/60.e Accept:text/html,application/xhtml+xml,application/xml;q=e.9,*/*;q=e.8
+Accept-Language:en-US,en;q-e.5 Accept-Encoding:gzip,deflate
+Referer:http://192.168.85.25e/phpmyadmin/index.php?token=eeaa696fe7b68db6be486eb3dea862a1 Content-Type:application/x-ww-form-urlencoded
+口
+Content-Length:92
+Cookie:pma_lang=en;pma_mcrypt_iv-QzEy4S7IAAk%3D;pmaUser-1-%2FoA5%2FJwGZ0o%3D;pma_navi_width=20e;phpMyAdmin=tdca7duheqfiqjnubsdqjc9k755nf8svjwordpress_test_cookie=WP+Cook ie+check
+Connection: keep-alive
+Upgrade-Insecure-Requests:1
+pma_username-root&pma_password-admin%4e12345&server=1&token-00aa696fe7b68db6be4860b3dea862a1HTTP/1.1302MovedTemporarily Date:Thu,13Jun201913:@6:07GMT
+Server:Apache/2.4.23(win32)OpensSL/1.e.2jmodfcgid/2.3.9 X-Powered-By:PHP/5.6.27
+Expires:Thu,19Nov198108:52:e0GMT
+Cache-Control:private,max-age=1e8ee,pre-check=1e8ee
+Set-Cookie:pmaPass-1-Lk8rQWafVxwp%2FcDlzSAacQ%3D%3D;path=/phpmyadmin/;httponly Last-Modified:Sat,27Jul201322:34:5eGMT
+Location:http://192.168.85.25e/phpmyadmin/index.php?tokeneeaa696fe7b68db6be486eb3dea862a1 Content-Length:e
+Keep-Alive:timeout=5,max=1ee Connection:Keep-Alive
+Content-Type:text/html; charset-UTF-s
+GET/phpmyadmin/index.php?token-00aa696fe7b6Bdb6be4860b3dea862a1HTTP/1.1 Ho5t:192.168.85.250
+User-Agent:Mozilla/5.e(x11; Linuxx86_64;rv:6e.e)Gecko/201e1e1Firefox/60.e Accept:text/html,application/xhtml+xml,application/xml;q-e.9,*/*;q-e.8
+Accept-Language:en-US,en;q-0.5 Accept-Encoding:gzip,deflate
+Referer:http://192.168.85.25e/phpmyadmin/index.php?token=0eaa696fe7b68db6be4860b3doa862a1
+Cookie:pma_1ang=en;pma_mcrypt_iv=QzEy4S7IAAk%3D;pmaUser-1=%2FoA5%2FJwGZeo%3D;pma_navi_width=20e;phpMyAdmin=tdca7duheqfiqjnubsdqjc9k755nf8sv;pmaPass-1=Lk8rQwafVxwp%2FcD1z
+SAacQ%3D%3D;wordpress_test_cookie=WP+Cookie+check Connection:keep-alive
+Upgrade-Insecure-Requests:1 HTTP/1.1200OK
+Date:Thu,13Jun201913:06:07GMT
+Server:Apache/2.4.23(win32)OpenSSL/1.e.2jmodfcgid/2.3.9 X-Powered-By:PHP/5.6.27
+X-Frame-Options:SAMEORIGIN
+X-Content-Security-Policy:allow'self options inline-script eval-script, frame-ancestors ‘self' img-src'selfdata:
+x-webkit-csp:default-srcself:script-src'seifunsafe-inlineunsafe-eval';style-src'selfunsafe-inline Expires:Thu,13Jun201913:e6:08+e0ee
+Cache-Control:no-store, no-cache,must-revalidate,pre-check-o, post-check-e, max-age=e Pragma:no-cache
+Last-Modified:Thu,13Jun 201913:06:e8 GMT Keep-Alive:timeout-5,max-99

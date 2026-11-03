@@ -1,0 +1,22 @@
+# OCR: bec4bcf04652b7c490fb2e53e3b74fe1.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/bec4bcf04652b7c490fb2e53e3b74fe1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+static
+compareHash(hash:string.
+value:string)
+return new Promise((resolve: (value:boolean)
+void)=>(
+=>
+aiqon2
+verify
+pass:value, encoded:hash
+then(()
+=>resolve(true))
+catch((e: f messaqe)
+string;
+code:
+numbei)=>(
+console.error("Error decodinghash",e); resolve(false):
+）);

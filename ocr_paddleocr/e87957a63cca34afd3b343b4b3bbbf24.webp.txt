@@ -1,0 +1,11 @@
+# OCR: e87957a63cca34afd3b343b4b3bbbf24.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/e87957a63cca34afd3b343b4b3bbbf24.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+BotFather(BotFather)(2025-05-1212:16:06)
+Done! Congratulations on your new bot. You will find it at t.me/laoli1Bo t. You can now add a description, about section and profile picture for y ourbot,see/helpfor a listof commands.Bytheway,whenyou'vefinish ed creatingyour cool bot,pingour Bot Support ifyouwant abetter use rname for it. Just make sure the bot is fully operational before you do th is.
+UsethistokentoaccesstheHTTPAPl:
+8195979285:AAEJbkcfRpLkKtV73z2WWd-dgitIPB04hl
+Keep your token secure and store it safely, it can be used by anyone to c ontrolyourbot.
+For a description of the Bot APl, see this page: https://core.telegram.or g/bots/api

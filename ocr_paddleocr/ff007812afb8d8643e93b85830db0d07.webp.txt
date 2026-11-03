@@ -1,0 +1,37 @@
+# OCR: ff007812afb8d8643e93b85830db0d07.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/ff007812afb8d8643e93b85830db0d07.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+gPyLingual Keybinding
+About RecentlyViewed- Help
+#DecompiledwithPyLingual（https://pylingual.io
+2 m 4 5 6
+8 9 18 11 12 13 14 15 16 17 18
+2 2 2 2 2
+#Internal filename:reco.py
+#Bytecode version:3.11a7e（3495)
+1970-01-0100:00:00UTC(0）
+Source timestamp:
+importmatplotlib.pyplotasplt
+frommatplotlib.font_managerimportFontProperties import string
+fig,axes=plt.subplots(4,3,figsize=(12,12)) axes = axes.flatten()
+reco.pyc Python 3.11
+PythonCode-Decompilation Success
+UseOldEditor
+word_code5_1ist=[[115,101,115,115,105,111,110]，[102,101,118,101,114],[115,112,111,110,115,111,114],[99,114,111,117,99,104],[116,105,99,107,101,116],[116,119,105,115,116]，[97,112 fori,word_codesinenumerate(wordcodes_list):
+ax = axes[i]
+ax.set_xlim(o,len(word_codes)+1)
+ax.set ylim(0,3) ax.set xticks(1) ax.setyticks(j)
+'.join([chr(code)for code in word_codes])
+word=
+SubmittedBytecode
+0LOAD_CONST0（0）
+2LOADCONST1(None）
+4IMPORT_NAME e（matplotlib.Pyplot) 6IMPORTFROM1（pyplot）
+8STORENAME2（pIt） 1ePOP_TOP
+12LOAD_CONST(0)
+14LOADCONST2（('FontProperties'))
+16IMPORT NAME3（matplotlib.font_manager）
+18IMPORT_FROM4（FontProperties） 2eSTORENAME4（FontProperties)
+间

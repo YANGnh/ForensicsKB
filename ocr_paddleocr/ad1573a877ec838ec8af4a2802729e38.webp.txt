@@ -1,0 +1,30 @@
+# OCR: ad1573a877ec838ec8af4a2802729e38.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/ad1573a877ec838ec8af4a2802729e38.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+IndexAction.class.phpX
+App>Lib>Action>Admin>IndexAction.class.php
+2 18 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 38 31 32 33 34
+class IndexAction extends CommonAction
+public functionlogin()
+$this->title="登录系统"； if(IS_POST)
+$_validate = array(
+array（username'，require'，用户名不能为空！） array（‘password，'require'，密码不能为空！）
+$Admin = D("admin");
+$Admin->setProperty("_validate"$validate)
+$result = $Admin->create(); if(!sresult)
+$this->error($Admin->getError())
+susername = I'username"
+spassword
+'password
+"trim） AP
+$password=$this->getpass($password);
+stmp=$Admin->where(array
+->find();
+if（$tmp）
+if($tmp['status'j)(
+//写入登录记录
+username
+sAdminlogin= D("adminlogin): sAdmin_login->add(array
+$usernamepassword'=>$password)

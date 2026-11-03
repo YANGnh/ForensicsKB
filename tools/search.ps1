@@ -1,6 +1,6 @@
 ﻿# ============================================================
 # 取证资料库：全文检索（正文 + OCR 截图文本）
-# 数据源：index.json（文档元数据）+ 各文档引用的 ocr_paddleocr|ocr_tesseract/<图片名>.txt
+# 数据源：index.json（文档元数据）+ 各文档引用的 ocr_paddleocr/<图片名>.txt
 # 用法：
 #   .\tools\search.ps1 docker-ce
 #   .\tools\search.ps1 微信 -Competition 美亚杯 -Year 2025
@@ -161,31 +161,23 @@ if (-not $OnlyDocs) {
             if ($base -and -not $img2doc.ContainsKey($base)) { $img2doc[$base] = $d.path }
         }
     }
-    $ocrDirT = Join-Path $Root 'ocr_tesseract'
-    $ocrDirP = Join-Path $Root 'ocr_paddleocr'
+    $ocrDir = Join-Path $Root 'ocr_paddleocr'
     foreach ($img in ($img2doc.Keys | Sort-Object)) {
         if ($hits -ge $Max) { break }
-        $ocrFiles = @(
-            (Join-Path $ocrDirP ($img + '.txt')),
-            (Join-Path $ocrDirT ($img + '.txt'))
-        ) | Where-Object { Test-Path -LiteralPath $_ }
-        $matched = $false
-        foreach ($f in $ocrFiles) {
-            $lines = [System.IO.File]::ReadAllLines($f, [System.Text.Encoding]::UTF8)
-            for ($i = 0; $i -lt $lines.Count; $i++) {
-                if ($hits -ge $Max) { break }
-                if ($lines[$i].StartsWith('#')) { continue }   # 跳过 OCR 文件头
-                $lineN = Normalize-Text $lines[$i]
-                if ($ocrRx.IsMatch($lineN)) {
-                    Write-Host ("[截图] {0}  →  {1}" -f $img, $img2doc[$img]) -ForegroundColor DarkCyan
-                    Write-Host ("       " + $lineN.Trim())
-                    $hits++; $ocrHits++
-                    [void]$hitDocs.Add($img2doc[$img])
-                    $matched = $true
-                    break
-                }
+        $f = Join-Path $ocrDir ($img + '.txt')
+        if (-not (Test-Path -LiteralPath $f)) { continue }
+        $lines = [System.IO.File]::ReadAllLines($f, [System.Text.Encoding]::UTF8)
+        for ($i = 0; $i -lt $lines.Count; $i++) {
+            if ($hits -ge $Max) { break }
+            if ($lines[$i].StartsWith('#')) { continue }   # 跳过 OCR 文件头
+            $lineN = Normalize-Text $lines[$i]
+            if ($ocrRx.IsMatch($lineN)) {
+                Write-Host ("[截图] {0}  →  {1}" -f $img, $img2doc[$img]) -ForegroundColor DarkCyan
+                Write-Host ("       " + $lineN.Trim())
+                $hits++; $ocrHits++
+                [void]$hitDocs.Add($img2doc[$img])
+                break
             }
-            if ($matched) { break }
         }
     }
 }

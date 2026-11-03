@@ -1,0 +1,43 @@
+# OCR: c3a13b879a76fa4d11cd3a58331b1322.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/c3a13b879a76fa4d11cd3a58331b1322.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+339 348 341 342 343 344 345 346 347 348 349 358 351 352
+2025-04-10 11:04:29
+.683
+2025-64-1e 11:64:29.603 2025-04-10 11:04:29.603 2025-64-10
+11:04:29.684
+2025-84-10
+11:04:29.650
+2025-04-10 11:04:29.650 2025-84-16 11:04:29.658 2025-64-1611:04:29
+-695
+2025-04-10 11:04:29.695 2025-64-10
+11:04:29
+.695
+2025-04-10
+11:04:29
+.855
+11:84:29.855
+2025-04-10
+2025-4-10 11:04:29.855 2825-64-16-11:64:29
+9.919
+Info Info Info Info Info Info Info Info Info Info Info Info Info Info
+[online]
+received express login
+[LoginUtils]
+Ireceiveexpressloginrequestfromonline
+[service]Checkpassword:type(i),account(),passwordisempty(no)[service]connectp2pserver@182.1ee.46.36:4118
+[udp]supportstraightsendinpeer:no182.1ee.46.36:4118OnConnectRes
+[p2PAccepter]connectp2pserver 182.1ee.46.36:4118OK【P2PAccepter】
+detect1ocalip192.168.3.192
+1oginp2pserver[182.1ee.46.36:4118]oK,receivedpublicip116.192.161.222:2577
+[p2PAccepter]
+【LoginUti1s]P2PINDEX=1789689751
+[LoginUti1s]accessaddressPHSRC://1789689751.slp2p-336125-std.oray.net:4118/,PHSRC_HTTPS://1789689751.s
+[P2PAccepter】
+attempted to createforward tunnel slp2p-336125-std.oray.net:443withssl
+[P2PAccepterl[Tcp] attempt to create forward tunnel,server slp2p-336125-std.oray.net:443,ssl:true[P2PAccepter][TcP]attempttoconnecttcpserverslp2p-336125-std.oray.net:443,5194
+serverslp2p-336125-std.oray.net:443(182.1ee.46.36:443)
+attempt
+to connect

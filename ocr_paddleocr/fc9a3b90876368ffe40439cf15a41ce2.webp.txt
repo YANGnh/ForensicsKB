@@ -1,0 +1,58 @@
+# OCR: fc9a3b90876368ffe40439cf15a41ce2.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/fc9a3b90876368ffe40439cf15a41ce2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+UFS Explorer Professional Recovery - version 10.0 [64 bit]
+ProfessionalRecovery
+Logical disks Local Disk (C:) 新加卷(D:) Local Disk (E:)
+Connectedstorages
+label/ID
+fle system NTFS NTFS NTFS
+Open
+Refresh
+ToolsDiskimage
+RAID
+ Storage properties
+total size
+69.17 GB 99.99 GB 130.00 GB
+start se..
+Driveo: Fixed VMwar...
+00000000000..
+FAT32partition
+NO NAME
+MS Reserved partition Microsoft res...
+NTFS partition NTFSpartition NTFSpartition NTFSpartition FAT32partition
+Unknownpartition Stripecomponent(. Stripecomponentp.. kali:0
+Ext2/3/4partition
+Basic data pa... 新加卷
+Basic data pa... NO NAME
+E040632A82F...
+2048 206848 239616
+145307648 146798592 356511744 629143552 629534720 637415424 735072256
+0
+total size 400.00 GB 100.00MB 16.00MB 69.17GB 727.05MB 100.00 GB 130.00 GB 191.01MB 3.73 GB 46.53GB 46.53 GB
+93.07GB 93.07GB
+Storagename
+Basic data nartition
+About
+StorageID
+ DriveO: Fixed VMware Virtual IDE Hard ...  DriveO: Fixed VMware Virtual IDE Hard ...
+[HEX]
+00000000000000000... 00000000000000000...
+Fxt2/3/4 volume (se
+Startsec 637415424 735072256
+Countse
+ENG
+Partitions on kali:0
+RAID[kali:0]
+VirtualRAID configuration
+97589248 97589248
+00010203040506
+070809OAOBOCODOE0F
+RAIDlevel Stripesize RAIDalias
+Asynchronous I/O
+口 HE
+x?
+RAID 0-stripe set with
+512KB kali:o No

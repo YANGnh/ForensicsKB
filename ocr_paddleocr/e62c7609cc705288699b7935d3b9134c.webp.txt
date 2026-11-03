@@ -1,0 +1,22 @@
+# OCR: e62c7609cc705288699b7935d3b9134c.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/e62c7609cc705288699b7935d3b9134c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+ML
+common.php
+conf.yml config-php
+database.php FastPwds.txt function.php goon2_lin goon2_lin.zip
+PwnKit-Exploit-main.zip result.txt
+43 44 45 46 47 48 49 50
+终端× 543 544 545 546 547 548
+[icmp] 192.168.100.254
+[RDP】192.168.100.254:3389 +
+last-a uname
+-a
+cat/etc/passwd ls
+cd ls
+trojan/
+rdp 1cm0-
+rdp
+administrator:Aa123456@

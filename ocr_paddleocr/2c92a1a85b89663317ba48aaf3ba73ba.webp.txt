@@ -1,0 +1,45 @@
+# OCR: 2c92a1a85b89663317ba48aaf3ba73ba.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/2c92a1a85b89663317ba48aaf3ba73ba.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+/www/server/panel/logs 了文件名称一
+panel(35,195) logs (7)
+request(1) access.log done.log 自error.log panel.pid task.log
+upgrade_polkit.log
+卷 offset
+文件
+0
+08838348800 08838348816 08838348832 08838348848 08838348864
+5B 36 20 6E 72
+1
+32 3A 0A 65 76
+回预览
+2 30 30 2F 6c 65
+3 32 36 77 2F 72
+回评 4
+35 5D 77 73 2D
+2
+ywww/seivei/paiei/clas
+2/pan
+softList = self.get_cloud_list(get)[list']
+AAAAAAAAAAAAAAAAAAAAAAAA
+File"/www/server/panel/class_v2/panel_plugin_v2.py", line 462, in get_cloud_list softList =public.load soft list(True ifforce == 1 elseFalse)
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+File"/www/server/panel/class/public/common.py",line8765,inloadsoft list importPluginLoader
+File"/www/server/panel/class/public/hook_import.py",line25,in_aap__import return old import (name,globals,locals,fromlist,level)
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ImportError:/www/server/panel/class/PluginLoader.so:wrongELFclass:ELFCLASS64[2025-05-1311:12:36TDEBUG]-Traceback(mostrecentcalllast)
+File"/www/server/panel/pyenv/lib/python3.12/site-packages/flask/app.py",line1823,infull_dispatch_r rv=self.dispatchrequesto
+AAAAAAAAAAAAAAAAAAAAAA
+File/www/server/panel/pyenv/lib/python3.12/site-packages/flask/app.py",line1799,indispatch_requ returnself.ensure_sync(self.view_functions[rule.endpoint)(**view_args)
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+File"/www/server/panel/BTPanel/init-py",line2406,inpanelother plugin list = plu panel.get cloud listo
+AAAAAAAAAAAAAAAAAAAAAAAAAA
+File"/www/server/panel/class/panelPlugin.py",line427,inget_cloud_list softList=public.load soft list(Trueifforce == 1 elseFalse)
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+File"/www/server/panel/class/public/common.py",line8765,inloadsoft list importPluginLoader
+File"/www/server/panel/class/public/hookimport.py",line25,inaapimport returnoldimport(name,globals,locals,fromlist,level
+AAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAN
+ImportError:/www/server/panel/clas$/PluginLoader.sof wrong ELF class: ELFcLASS64

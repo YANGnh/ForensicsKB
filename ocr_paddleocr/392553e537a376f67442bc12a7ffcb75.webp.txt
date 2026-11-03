@@ -1,0 +1,38 @@
+# OCR: 392553e537a376f67442bc12a7ffcb75.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/392553e537a376f67442bc12a7ffcb75.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+sdiagnose2025.04.0822-16-36+0800iPhone-OsiPhone21F90>WiFi
+名称
+diagnostics-configuration.txt diagnostics-connectivity.txt diagnostics-environment.txt ifconfig.txt
+ leaky ap stats.txt mobilewifitool.txt netstat-POST.txt netstat-PRE.txt network status.txt security.txt
+wifidatapath-POST.txt wifidatapath-PRE.txt
+wifi logarchive.log wifi scan.txt
+wifi scan cache.txt wifi status.txt
+SKB
+修改日期
+security.txt
+文件
+编辑
+acct : 202-202 agrp : apple
+查看
+类型
+cdat:2020-07-1213:45:48+0000
+x
+mdat:2020-07-1213:45:48+0000
+musr : (length = 0, bytes = Ox) pdmn: ck
++
+大小
+C
+o
+在WiFi中搜索
+sha1 : (length = 20, bytes = 0xcfc531ba039c577381fc86de84dec134444d9494) svce : AirPort
+sync : 1 tomb:o
+accc : <SecAccessControlRef: ck>
+acct：品佑面馆 agrp : apple
+cdat : 2024-10-16 11:29:12 +0000 desc:AirPortnetworkpassword labl：品佑面馆
+mdat:2024-10-1611:29:12+0000
+musr : (length = o, bytes = Ox) pdmn: ck
+sha1 : (length = 20, bytes = 0x812e90bb42d3e4b67f7189724480fc5a5b7847) svce : AirPort
+sync : 1 tomb:o

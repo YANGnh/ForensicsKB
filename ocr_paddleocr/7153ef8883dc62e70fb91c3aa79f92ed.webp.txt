@@ -1,0 +1,18 @@
+# OCR: 7153ef8883dc62e70fb91c3aa79f92ed.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/7153ef8883dc62e70fb91c3aa79f92ed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+mysl>select Userfronuser;
++ +
+User root
+-.-+
+mysql.infoschena mysql.session
+mysqL.sys root
+5rowsinset(o.00sec) mysgl>showdatabases Database
+information_schema mysql
+performanceschema sxj_prod
+sys 5
+rowsinset
+(.00sec)
+Pysql>

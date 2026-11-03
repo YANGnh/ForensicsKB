@@ -1,0 +1,20 @@
+# OCR: ad54fba296083588b2d385533205aefa.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/ad54fba296083588b2d385533205aefa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123
+v21=strings_Replace(
+(unsiqnedint)ws://100.78.221.98:8880/www
+[!]Warning:Failedtopatchexitfunctions:%vasl
+"nl:Unmarshal recipient valueisnon-pointerattempting tolink intoo manyshared libraries
+47
+(unsignedint)""
+1, 0, 0,-1, v19, v20);
+qword_128c208=47; if（dword_12E218o）
+sub_D65840&qword_128c20o）; else
+qword_128c20o=v21;
+result =strings_Replace((unsigned int)"QwERt_csDMAHUATWBringWin",16,(unsigned int)"",1,0,0,-1,v22,v23);
+qword_128c158=16; if（dword_12E2180）
+returnsub_D6584o(&qword_128c15o);
+qword_128c15o=result; returnresult;

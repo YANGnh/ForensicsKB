@@ -1,0 +1,33 @@
+# OCR: 4a095b576a505f7dcf17a63497886d1e.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/4a095b576a505f7dcf17a63497886d1e.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+##########牛###牛##+#####手##牛####+#####手###手###########手##手##牛## HTTpreauest8l:
+GET/phpstuty/www/tmpumsoo.phpHTTp/i.1 Host:192.168.11.6
+Accept:application/json,text/javascript,*/*;q=0.01 X-Requested-With:XMLHttpRequest
+User-agent:Mozilla/5.0(windowsNT10.0;win64;x64)AppleNebKit/537.36(KHTML,1ikeGecko）chrome/91.0.4472.124Safari/537.36
+Content-type:application/x-www-form-urlencoded;charset=UTF-8 Origin:http://192.168.11.6
+Referer:http://192.168.11.6/Home/user/tkppwd
+Accept-encoding:gzip,deflate Accept-language:zh-cN,zhig=0.9
+Cookie:PHPSESSID=ungvc7if2olcp3lb8p92cukds5 Connection: close
+HTTP response[#8]
+(404NotFound):
+Date:Wed,22May202404:08:08GMI
+Server:Apache/2.4.23(win32)OpenssL/1.0.2jmod_fcgid/2.3.9
+X-Powered-By:PHP/5.6.27 Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+URI:http://192.168.11.6:80/phpstuty/www/tmpumso0.php
+<!DocTYPEhtmlPUBLIc"-//W3c//DTDXHTML1.0Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <htmlxmlns="http://www.w3.org/1999/xhtml"><head>
+<meta content="text/html;charset=utf-s"http-equiv="content-Type">
+<title>系统发生错误</title> <styletype="text/css">
+*(padding:O;margin:O;) html(overflow-y:scroll;}
+body(background：#fff；font-family:微软雅黑'；color:#333；font-size：16px) img(border:o;}
+.error(padding:24px48pxi}
+.face(font-size:1oopx;font-weight:normal;line-height:12opx;margin-bottom:12px;) hl(font-size:32pxiline-height:48px;)
+.error .content( padding-top:1opx).error.info( margin-bottom:12px;)
+.error.info.title( margin-bottom:3px;)
+.error.info.titleh3(color:#ooo;font-weight:7oo;font-size:16px;).error .info .text( line-height:24pxi}
+.copyright(padding:12px48px;color:#999;)
+.copyright a( color:ooo; text-decoration: none;)

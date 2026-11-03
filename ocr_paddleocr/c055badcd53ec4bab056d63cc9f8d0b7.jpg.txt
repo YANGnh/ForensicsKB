@@ -1,0 +1,33 @@
+# OCR: c055badcd53ec4bab056d63cc9f8d0b7.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/c055badcd53ec4bab056d63cc9f8d0b7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+XQEMU[node2)-noVNC-用户配置1-MicrosoftEdge
+不安全|https://192.168.71.133:8006/?console=kvm&novnc=1&vmid=102&vmname=node2&node=pve&resize=off&cmd= Ubuntu 22.04.4LTSnode2tty1
+node2login: droid Passuord:
+Login incorrect
+node2 login:droid Passuord:
+Welcome_to Ubuntu 22.04.4 LTS (GNu/Linux 5.15.0-100-generic x86_64)
+*Documentation:
+*Management: xSupport:
+https://heip.ubuntu.com
+https://landscape.canonical.com https://ubuntu.com/pro
+System information asof Mon May20 o3:19:34AMUTC2024
+System load: Usage of/: Memory usage: Suap usage: Processes:
+0.13427734375
+26.4%0f47.88GB
+6% 0% 139
+Users logged in:
+IPv4 address for docker0:172.17.0.1
+IPv4addressforenp6s18:192.168.100.102
+IPv6addressforenp6s18:fd24:2cf2:d6f8:0:be24:11ff:fe39:fd8a
+* Strictly confinedKubernetes makes edge and IoT secure.Learn howMicrok8s just raised thebar for easy,resilient and securek8s clusterdeployment.
+https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Expanded SecurityMaintenancefor Applications is not enabled. 6 updates can be applied immediately.
+dTo seethese additionai updatesrun:apt list -upgradabile
+Enable EsM Apps to receive additional future security updates Seehttps://ubuntu.com/esmorrun:sudoprostatus
+The list of available updates is more than aweek old. To check fornewupdates run: sudo apt update
+Last1ogin:TueMar1205:43:38UTC2024ontty1 droid@node2:~s
+口 as
+X A

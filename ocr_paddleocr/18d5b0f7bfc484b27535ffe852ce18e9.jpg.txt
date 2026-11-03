@@ -1,0 +1,31 @@
+# OCR: 18d5b0f7bfc484b27535ffe852ce18e9.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/18d5b0f7bfc484b27535ffe852ce18e9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+对象高保存
+thinkuser@2828（网站服务器）-表 T查询创建工具美化SOL（代码段
+网站服务器
+2828
+SELECT * FROM
+"thinkuser'
+信息 id
+摘要
+结果1
+剖析
+状态
+*无标题-查询
+自文本导出结果
+创建图表昆昌解释
+D运行、国停止
+WHEREregtime<=1714029184
+nickname
+219zhiwanjing 218zhangming 217qwe
+username zhiwanjing zhangming qwe
+password
+ORDER BY reg_time DESC
+sex
+8ddcff3a80f4189ca1c9d4g 42ff99dbd17efaff730f841 2569d419bfea999ff13fd1f
+0 0 0
+country
+prg

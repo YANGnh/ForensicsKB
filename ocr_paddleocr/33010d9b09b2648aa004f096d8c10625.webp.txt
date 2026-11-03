@@ -1,0 +1,42 @@
+# OCR: 33010d9b09b2648aa004f096d8c10625.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/33010d9b09b2648aa004f096d8c10625.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+phpLiteAdminv1.9.3 DocumentationLicenseProjectSite
+ChangeDatabase
+[rw]/usr/databases/demo.php[rw]/usr/databases/testusers
+-/usr/databases/demo.php[table] test
+CreateNewDatabase[?]
+Create
+/usr/databases/demo.php→test
+Browse
+Structure
+edit
+delete
+SQL
+Search
+Column#
+0
+Field test
+CheckAll/UncheckAllWithselected!
+Add
+field(s)atend oftable
+Queryusedtocreatethistable
+Insert Type
+Export
+Import
+Not Null
+INTEGER
+Deletev
+Go
+Go
+CREATETABLEtest(test'INTEGER default'<?phpphpinfo(?>")
+no
+Rename
+DefaultValue
+Empty
+Drop
+PrimaryKey
+'s?phpphpinfo0?s
+no

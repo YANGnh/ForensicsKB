@@ -1,0 +1,34 @@
+# OCR: ce7bd263c86f8df0a5c3b3c3f0a1f071.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/ce7bd263c86f8df0a5c3b3c3f0a1f071.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+.rdata:oooeoo14eo236F8:consttypeinfo:："vftable
+.rdata:000000014e0236F8??_7type_info@@6B@dqoffsetsub_140019B9C
+.rdata:00000001400236F8
+;DATAXREF：Sub140019B9C+61o
+;.data:std::bad_exceptionRTTITypeDescriptor'lo
+.rdata:00000001400236F8
+.rdata:0000000140023700a1njc2ntq2mzc0n db1Njc2NTQ2Mzc0NTc',0DATAXREF:RC4Process+109to
+align4
+.rdata:0000000140023711
+constwchar_t aRb[]
+rdata:0000000140023714
+.rdata:0000000140023714aRb:
+.rdata:0000000140023714.rdata:000000014002371A
+text"UTF-16LE" align2oh
+'rb'.o
+;DATAXREF:main+1Fto
+.rdata:0000000140023720aSdghy3a9dk3t14dbsDGHY3a9DK3t14Fg1hSGH56U',0
+.rdata:0000000140023720.rdata:0000000140023739
+align2oh
+;DATAXREF:Sub_140001070:l0c_1400014B21o
+.rdata:0e0000014002374oastartv2raynExedbstart..1..lv2rayN.exe',e
+;DATAXREF:ub_14@001970+4591
+.rdata:0000000140023740.rdata:0000000140023757.rdata:0000000140023758
+unk140023758
+rdata:9990999914992375g
+align8 dbA1ih dbeBEh
+：金星路406取证人
+公众号
+;DATAXREF:sub140001070+465To

@@ -1,0 +1,26 @@
+# OCR: 32067ef6e4d1b05c3f0e993e9bc7aa2f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/32067ef6e4d1b05c3f0e993e9bc7aa2f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+小谢取证-2025数证杯初赛
+1
+SELECT
+2日 3 4 5 6 1 8 9
+10 11
+dsj
+D运行、口停止：解释
+CASE
+WHENloss_amount<=1eeeeAND（injury_levelIsNULLORinjury_level=）THEN'轻微案件 WHEN（loss_amountBETWEEN1eee1AND5eeee）ORinjury_levei=轻微伤'THEN-般案件：
+WHENloss_amount>5eeeeoRinjury_levelIN（'轻伤'，‘重伤'）THEN‘重大案件' ELSE其他案件
+END AS case_level,
+couNT(case_id）Ascase_count
+FRoMcrimerecords
+WHEREYEAR（crimetime）=2e23 GROUPBYcase_level;
+信息摘要 caselevel 重大案件一般案件其他案件轻微案件
+结果1
+部析
+casecount
+状态
+13107 4590 2058 222
+·公众号·小谢取证

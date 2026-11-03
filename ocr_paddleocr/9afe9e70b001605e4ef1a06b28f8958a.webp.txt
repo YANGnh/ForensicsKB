@@ -1,0 +1,18 @@
+# OCR: 9afe9e70b001605e4ef1a06b28f8958a.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/9afe9e70b001605e4ef1a06b28f8958a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+PHPVersion8.2.19 System
+BuildDate BuildSystem
+ConfigureCommand ServerAPI
+Virtual Directory Support
+ConfigurationFile(php.ini)Path Loaded ConfigurationFile
+php
+Linuxubuntu6.8.0-39-generic#39-UbuntuSMPPREEMPTDYNAMICFriJul521:49:14UTC2024x8664 May13202401:20:40
+Linuxbaota6.8.0-31-generic#31-UbuntuSMPPREEMPTDYNAMICSatApr2000:40:06UTC2024x8664 x8664x8664GNU/Linux
+"/confiqure'--prefix=/www/server/php/82"-with-config-file-path=/www/server/php/82/etc*"--enable fpm'".-with-fpm-user=www"--with-fpm-group=www'"--enable-mysglnd"--with-mysqli=mysqlnd' with-pdo-mysql=mysqlnd"--with-iconv-dir"--with-freetype'"--with-jpeg'"--with-zlib'"--with-libxml-dir=/usr"".-enable-xml""--disable-rpath'"--enable-bcmath'"--enable-shmop'".-enable-sysvsem'"
+enable-inline-optimization'--with-curl'"--enable-mbregex'"-enable-mbstring'"--enable-intl'"--enable ftp'"--enable-qd"--with-openss"--with-mhash'"--enable-pcntl"--enable-sockets'"--with-xmlrpc"".. enable-soap'"--with-gettext'"--disable-fileinfo'--enable-opcache'".-with-sodium=/usr/local/libsodium
+-with-webp FPM/FastCGI disabled
+/www/server/php/82/eto
+/www/server/php/82/etc/php.ini

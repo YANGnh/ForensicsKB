@@ -1,0 +1,10 @@
+# OCR: 47e79111da1cb57d8231c1669f9582d8.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/47e79111da1cb57d8231c1669f9582d8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+[root@izbp1gma2uf9hvsnbu9mdkzconf.d]#catapi.confIgrepserver_name
+servername servername
+sxj.elitzoe.cn,
+sx.tiantianqb.com,
+[root@iZbp1gna2uf9hvsnbu9mdkzconf.d#

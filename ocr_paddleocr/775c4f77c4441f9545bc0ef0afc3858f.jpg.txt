@@ -1,0 +1,59 @@
+# OCR: 775c4f77c4441f9545bc0ef0afc3858f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/775c4f77c4441f9545bc0ef0afc3858f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+上传
+根目录>
+www>
+远程下载文件名
+datal publi resou route stora tests vend edit env..env-gitai gitig.style Dock LICE
+共12个目录，19个文
+wwwroot>yourcode.xyz>
+新建v
+收藏夹V
+在线文本编辑器
+H保存
+全部保存
+分享列表
+S刷新
+目录：/www/wwwroot/yourcodexyz
+级-git.idea app
+S刷新
+bootstrap config database public resources routes storage tests vendor
+.editorconfig
+育
+env
+.env.example.gitattributes
+目gitignore
+styleciyml 目Dockerfile 目LICENSE 目artisan
++新建
+国终端
+α搜素
+/（根目录）（31G）
+切替换
+冒.envx
+Q搜索
+1e 11 12 13 14 15 16 17 18 19 2e 21 22 23 24 562 28 29 38 31 32 33 34 35 36
+★跳转行
+APPNAME=源码交易平台 APPENV-local
+工字体
+U主题
+交设置
+?快捷键
+APPKEY=base64:DjspQxxbj90PpLRexPiHkdJeEL4J82ri4qgI129dJI4-APPDEBUG=false
+APpURL=http://yourcode.xyz
+LOG CHANNEL=stack#数据库配置
+DB CONNECTION=mySq1 DB HOST=127.0.0.1 DBPORT=3306
+DB DATABASE-yourcodexyZ DB USERNAME=yourcode_xyz
+DBPASSwORD=yTmeRFKftLxymj8n#redis配置
+REDISHOST=127.0.0.1
+REDISPASSWORD REDIS PORT=6379
+BROADCAST DRIVER-1og SESSION DRIVER=file SESSIONLIFETIME=120
+缓存配置#
+#file为磁盘文件redis为内存级别
+#redis为内存需要安装好redis服务端并配置
+CACHE DRIVER=redis#异步消息队列
+#sync为同步redis为异步
+使用redis异步需要安装好redis服务端并配置#
+QUEUECONNECTION=redis E公迈言

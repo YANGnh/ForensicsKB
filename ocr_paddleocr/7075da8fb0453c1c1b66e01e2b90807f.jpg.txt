@@ -1,0 +1,24 @@
+# OCR: 7075da8fb0453c1c1b66e01e2b90807f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/7075da8fb0453c1c1b66e01e2b90807f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+E
+回
+Jroot
+boot dev etc home
+lost+found
+media mnt opt proc root
+ssh
+.bash_history
+bashrc forward
+区
+profile md
+wget-hsts
+run srv
+PVE服务器
+终清X
+LinuXPVe6.5.11-8-PVe#1SMPPREEMPTDYNAMICPMX6.5.11-8（2024-01-30T12:27Z)x8664 Theproqramsincluded with theDebianGNu/Linuxsystemarefreesoftware:
+the exact distributionternsforeachproqramare described in the individualfilesin/usr/share/doc/*/copyright.
+DebianGNU/Linuxcomeswith ABSOLUTELY NO WARRANTY, to the extent permittedbyapplicablelaw
+Lastlogin:MonMar2511:e7:482e24 root@pve:~#

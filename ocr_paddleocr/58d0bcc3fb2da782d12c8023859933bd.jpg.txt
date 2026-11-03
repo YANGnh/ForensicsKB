@@ -1,0 +1,53 @@
+# OCR: 58d0bcc3fb2da782d12c8023859933bd.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/58d0bcc3fb2da782d12c8023859933bd.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+在线文本编辑器
+H保存
+全部保存
+S刷新
+目录：/www/server/panel/vhost/nginx
+中上一级
+tcp
+S刷新
++新建
+O.default.conf G
+G192.168.100.100.conf Gdemo.tjshop.com.conf Gphpfpmstatus.conf test1.tjshop.com.conf
+C
+www.tjshop.com.conf
+Q搜索
+Q搜素
+t替换
+★跳转行
+www.tjshop.com.confx
+server 2
+3 4 5 6
+00 10 11 12 13 14 15 6 18 19 28 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 3
+listen.80:
+工字体
+U主题
+设置
+?快捷键
+www.tjshop.com192.168.1oe.10e222.2.2.18o;
+server name
+index.phpindex.html index.htm default.php default.htm default.html;
+index
+root/www/wwwroot/www.tpshop.com;
+#SSL-START5SL相关配置，请勿删除或修改下一行带注释的484规则
+#errorpage 404/404.html;#SSL-END
+错误页配置，可以注释、删除或修改
+#ERROR-PAGE-START
+#erronpage 4o4-/4e4.html,#errorpage502/502.html;#ERROR-PAGE-END
+PHP-INFOSTARTPHP引用配置，可以注释或修改
+include enable-php-56.conf;#PHP-INFO-END
+REWRITE-STARTURL重写规则引用，修改后将导致面板设置的伪静态规则失效
+include/www/server/panel/vhost/rewrite/www.tjshop.com.conf;#REWRITE-END
+禁正访问的文件或自录
+location/(1.user.ini//.htaccess//.git/\.svn/l.project|LICENSE README.md)
+return 4e4;
+#一键电请SSL证书验证目录相关设置 Location~1.well-knownf
+allowall;
+location.*.(gifljpgljpeg|png|bmp|swf)s
+文件位置：/www/server/panel/vhost/nginx/www.tishop.com.conf
+行

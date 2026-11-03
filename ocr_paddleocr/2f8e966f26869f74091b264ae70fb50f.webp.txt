@@ -1,0 +1,21 @@
+# OCR: 2f8e966f26869f74091b264ae70fb50f.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/2f8e966f26869f74091b264ae70fb50f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+[root@k8s-node2~]#cat/etc/fstab#
+#/etc/fstab
+#Createdbyanacondaon.SatAug2611:o3:352o23
+# Accessiblefilesystems,byreference,aremaintainedunder'/dev/disk
+#Seemanpages fstab(5),findfs(8),mount(8)and/orblkid(8)for more info#
+UUID=a9700e71-c336-4668-82fc-f2994dea46b2
+UUID=f842c0b8-a362-480f-8306-ac7c73778ee0/boot#UUID=75d8ff9d-fad1-40c6-bef8-6f6f1dadb75eswap
+/www/swap
+swap
+[root@k8s-node2~]#
+swap
+defaults
+00
+xfs xfs swap
+defaults defaults defaults
+?? 0 00

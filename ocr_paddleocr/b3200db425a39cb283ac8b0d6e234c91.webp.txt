@@ -1,0 +1,32 @@
+# OCR: b3200db425a39cb283ac8b0d6e234c91.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/b3200db425a39cb283ac8b0d6e234c91.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:28
+
+详细信息
+名称：gitlab.rb
+扩展名：rb 类型：文件
+大小：153.28KB
+访问时间：2025-10-0813:31:11 修改时间：2025-10-0611:06:37 元数据地址：102971999
+全路径：centos(62SKiX-rzzV-xDAq-M1M0-jLP0-sXtc-AX6FVP)/分区1/etc/gitlab/gitlab.rb
+加密类型：未加密已删除：否
+原类型视图
+PAGE
+文本视图
+ZooM
+HIGHLIGHT 开开！
+十六进制视图
+8
+?
+##! Note: During installation/upgrades,the valueof the environment varia##!EXTERNALURLwill beusedtopopulate/replacethisvalue.
+##!On Aws Ec2 instances,wealso attemptto fetchthepublic hostname/IP##!addressfromAws.Formoredetails,see:
+##!https://docs.aws.amazon.com/AwSEc
+：9999"
+external_urlhttp://172.23.194.159##Rolesformulti-instanceGitLab
+test/UserGuide/instancedata-data
+##!The default is to have no roles enabled, which results in GitLab runni instance.
+##! Options:##！
+application_role
+##！##！##！
+redis sentinel role redis master role redis replica role
+X

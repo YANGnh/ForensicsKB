@@ -1,0 +1,22 @@
+# OCR: 30376c3ca98dc672c51240318016122c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/30376c3ca98dc672c51240318016122c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+String b7e1.c.b(str):
+Log.d("LoginService", "Username MD5 first 6 chars: " + b7);
+Stringa6=e1.c.a(string.valueof(9981)): tryt
+if (a6null){
+throw new NullPointerException("null cannot be cast to non-null type java.lang.String"):
+String substring =a6.substring(o,1o):
+c2.e.d(substring,"(this asjava.lang.Strin...ing(startIndex,endIndex)"): Stringstr3="http://127.e.e.1:8o8e/login/"+b7;
+Log.d("LoginService","Login URL:"+str3); JSONObjectjsONObject=newJoNObject();
+jsoNobject.put("username", str); jsoNobject.put("password",str2): jsoNobject.put("id",b7):
+jsoNobject.put("flag"，substring):
+StringjsoNobject2=jsoNobject.tostring(); c2.e.d(jsoNobject2，"jsonobject.tostring()"): y yVar2 = y.f5378e;
+ybg=y.b("application/json;charset=utf-8"): c2.e.e(jsoNobject2,"$thisstoRequestBody");
+Charset charset = g5.a.f4162aj Pattern pattern =y.f5376c;
+Charset a7 = b8.a(null): if (a7 == null){
+String str4 = bs + "; charset=utf-8":
+c2.e.e(str4,"$this$toMediaTypeOrNul1"): tryt
+yVar = y.b(str4);

@@ -1,0 +1,16 @@
+# OCR: e3eb0aa8b4191652dd5a03ae74907807.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/e3eb0aa8b4191652dd5a03ae74907807.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+Recipe MD5
+2
+Input·PNGcR SUE
+NULNULNULCR IHDRNULNULENQ7NULNULSTXBS ACK
+CKNULNULNULPEONULNULNULENQfdECRS·aNU
+mA933IackE0Jm0Joc1-b0f0<)-faz+00.30^%:h.g%-Cu-yN?4y..4 =.LQuzmSOk~G·Ackcscssuetv@xNEACocMuMSkE-uE..*pcsiPo i]uBu36awzy.hYsc>-13^.A*0."tiTmack..je0.[%n.il5/.puf.usnZ+.65yfK4+04yo×5+aE4y?kosc.00g~t?w9 son+iua34spk5xa.5ob/ju3Boow.eoyFsBuffowiyab-tuazyEkb yAusi3?OU;?A.pra@Euna*Sfx1EMG.OYEi..d·zGRsé3".0 unG.je0.0o.^_i?ywb@oUo.jEw.0./yNesc>u|mxe'4-a7".AsTsyn f)J-teE,euleasxeioceb
+eEAE·#·ETxOOT+·T·us9DYt·EBL)o·+3sY(Sg+Sf*=0.iRs·i@j: +A[.umYjUotiiV-fGyi)euMQ:{a&..ie-LWoEL5sf@.2[?gJxL5.[[+EZzo'300c&uieuisgackSs?u&%0.Jp.~04.a.0uzi3002cs3t.x95yo:Ee.@0b?f*é.ifN2130tin +EOAE.eif.T3C@OaRsP%COi?T%ENQG".OHOETEFs@b+#OX,ACKVT5OxO.?RiU./P%ETxt%yBEL@.."i..aO]<PA#On@..OD'ohM·Fsf..Cu Fs0liRsVf.|%f.|.f.zl.N.!.n+AckC.6.ae04101.901MusnisTxcRs.iNoAgiu.34ueo..eotwooo?u,MoG..p.gkpoYsueFsv·&R..o.j
+9661e8 Output
+三11274
+公众号小谢取证
+aa4a6a26e3e33cedf846ae3bbaff74e8

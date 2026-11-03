@@ -1,0 +1,13 @@
+# OCR: b6ec28aff5945c76d8d6ce93a6841a1f.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b6ec28aff5945c76d8d6ce93a6841a1f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+root@localhostalisti#dockerexec-ita4/bin/sh node-proxy#ls
+PRGAThreadCom.jsconf node-proxy#lspublic favicon.icoindex.html node-proxy#
+Logopng
+index.js
+static
+Logs
+package.json
+public

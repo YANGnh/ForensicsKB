@@ -1,0 +1,20 @@
+# OCR: 9b6cc43d4a40a6473a926a5fd202245f.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/9b6cc43d4a40a6473a926a5fd202245f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+Stripecomponentpartition
+Drive5:Fixed StorL MsReservedparti Ext2/3/4partition Drive6:Fixed StorL MSReservedparti
+SWAPpartition
+O
+Drive7:FixedStorL
+EMsReservedparti Stripecomponent meiya_test:2
+Scan for lost data
+Loadsavedvirtualfilesystem Savedisk image
+Viewhexadecimalcontents Editcontents
+Decryptencryptedstorage Openpartitionasavirtualdisk Calculatehash
+SetupasiscSItarget Viewproperties
+vg1-syno_vg_reserveu_areaparu...
+vg1-volume_1(Ext2/3/4)partition
+1.44.1-69057
+edp. ed p... tion ed p... 9624.

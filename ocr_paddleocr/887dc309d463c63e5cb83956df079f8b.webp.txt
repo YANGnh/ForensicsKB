@@ -1,0 +1,21 @@
+# OCR: 887dc309d463c63e5cb83956df079f8b.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/887dc309d463c63e5cb83956df079f8b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Summary
+X
+?BooT-INF/classes/application.yaml
+server:
+port：8082#端口号
+spring: mvc:
+pathmatch:
+matching-strategy:ANT_PATH_MATCHER
+datasource:
+type: com.alibaba.druid.pool.DruidDataSource driver-class-name:com.mysgl.ci.jdbc.Driver
+BooT-INF/classes/application-sxj-yaml
+#当前数据源操作类型
+#mysql驱动包com.mysql.jdbc.Driver
+url:jdbc:mysql://rm-bp18td28bsh13f5jy.mysql.rds.aliyuncs.com:33o6/sxj_prod?allowMultiQueries
+username: sxy password：
+sxyepe**

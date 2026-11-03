@@ -1,0 +1,46 @@
+# OCR: 90b2db9875a9d4f2151b815c5d9548d6.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/90b2db9875a9d4f2151b815c5d9548d6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+DefaultSqlSesston@6698e92
+[schedule-pool-5]DEBUGo.m.s.SqLSesstonUtils[debug.49]-Creatinga newSqlSesston
+-38:98:965
+12:3e:ee.e65[schedule-pool-S]DEBuGo.m.s.SqlSesstonUtils-[debug.49]SqlSesston[org.apache.tbatis.session.defaults.DefaultSql Session@6436e8fd]wasnotregisteredforsynchronizationbecausesynchronizationisnotactive
+2:3e:es.e66[schedule-pool-5]DEBUGo.m.s.t.SprtngManagedTransaction-[debug.49]JDBCConnection[con.altbaba.druid-proxy-jdbc ConnectionProxyInpLe1aad4BeclwillnotbenanagedbySprng
+2:38:ee.e66[schedule-pool-5]DEBUGc.j.c.n.S.SelectTableDictData-[debug.137]-==>Preparing:SELECTwarehouseidAS"key.wa ehousenaneAS
+FROMwmswarehouse
+value
+e8.866[schedule-pool-5]DEBUGc.J.c.n.S.selectTableDictData-[debug,137]->Paraneters: 0e.e67[schedule-pool-5]DEBUGc.j.c.n.S.selectTableDictData-[debug.137]-<=-
+4-40-
+Total: 3
+12:3e.0e.668[schedule-pool-5]DEBUGo.m.
+.s.SqlSessionutils.[debug.49]-Closingnon transactional SqlSession[org.apache.ibatis.s
+sston.defaults.DefaultSqLSesston@643688fd] 2:38-0.069[5chedule-po01-5]INF
+.w.s.SysDictTypeController=[refreshDictCache，143】-执行定时刷新业务分类字典数据缓存
+12.3e05.582[http-nto-9032-exec-78]DEBUGo.m.s.SqlSesstonUtils-[debug.49]-CreatinganewSqlSession
+12.3e:e5.583[http-nto-932-exec-78]DEBUGo.m.s.SqiSesstonutils-[debug.49]-SqlSesston[org.apache.tbatts.session.defaults.Defa ltSqlSesston@47f8884c]wasnotregisteredforsynchronuzationbecausesynchronization1snotactive
+38:e5.585[http-nto-9e32-exec-78]DEBUGo.n.s.t.SprtngManagedTransaction[debug.49]-JDBCConnection[con.alibaba.druid.proxy 2
+ConnectionProxyIrpL@iaad4Bec)willnotbemanagedbySpring
+idbc.
+3e:e5.596[http-n1o-9e32-exec-78]DEBUGc.J.w.d.n.D.selectDotingOrderL1stCOUNT.[debug,137]-->Preparing:SELECTcount(e)F
+=d.menber_tdLEFTJOINmenberPONp.nenber_id=d.proxy_nenber_idLEFTJOIN
+d INNER JOINnenber mONn.nemberid
+doing orde
+wtONd.orderid=wt.orderidWHEREi1AND d.ispay?AND(d.paydate>?ANDd.paydate<?)
+12:3e:e5.5e7[http-nto-9e32-exec-78]DEBUGc.J.w.d.m.D.selectDoingOrderLtst_couNT=[debug,137]->Paraneters:1(Integer),2819 5-01ee:6:08(string),2024-86-6123:59:59(strtng)
+2.38-05.682[http-nio-9032-exec-78]DEBUGc.j.w.d.n.D.selectDotngOrderList_cOUNT.[debug.137]=
+12:3e:e5.684[http-n1o-9e32-exec-78]DEBUGc.j.w.d.m.D.selectDoing0rderL1st[debug,137]-m>
+Total:1
+Preparing:select dm.user name
+.phoneorderphone.n.invitecoden.menbercype m.teanflag.wt.Lspush,p.user naneproxymenbernane.p.phoneproxymenberphone.p
+inner join member n on n.nenber_id-d.menber_id Left join nenber p on p.nenber_id=d
+invite_codeproxy_invite_codefrodoing_order proxynenberidLeftjoinwns_inotce
+ondrderid-wt.order_idWHERE1-1andd.Ls_pay?and (d.pay_date>?and d-pay_date
+order by d create
+datedescLMIT?
+B5.686[http-nio-9032-exec-78]DEBUG c-j.w.d.n.D_selectDoingOrderList:[debug.137]-==>Paraneters:1(Integer),2819-05-e1 ee(string)
+2824-86-8123:59:59(String).1e(Integer)
+12:3e:05.692[http-n1o-932-exec-78]】DEBUGc.].w.d.n.D.selectDoing0rdert1st-[debug,137]<=
+Total-1e
+12:38:85.693[http-nto-9032-exec-78]DEBUGo.n.s.SqLSesstonUtils[debug.49]ClosingnontransacttonalSqlSesston[org.apache.tb atis.sesston.defaults.DefaultSqlSesston@47f8884c)

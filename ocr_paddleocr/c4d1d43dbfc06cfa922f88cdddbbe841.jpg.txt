@@ -1,0 +1,12 @@
+# OCR: c4d1d43dbfc06cfa922f88cdddbbe841.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/c4d1d43dbfc06cfa922f88cdddbbe841.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+root@localhostalisti#-/alistadminset123456
+INFo[2024-06-09 16:36:40]readingconfig file:data/config-json TNF0[2024-06-0916-36-407
+loadconfigfromenvwithprefix:ALIST
+INF0[224-06-0916:36:401 INF0[2024-06-091636-407 INF0[2024-06-0916-36-407 INF0[2024-06-0916:36:407 root@localhostalistl#
+initlogrus.
+adminuserhasbeenupdated
+username:admin password:123456

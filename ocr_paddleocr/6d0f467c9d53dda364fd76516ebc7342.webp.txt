@@ -1,0 +1,39 @@
+# OCR: 6d0f467c9d53dda364fd76516ebc7342.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/6d0f467c9d53dda364fd76516ebc7342.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark·追踪TCP流(tcp.streameq184)·tcpdump_tj.cap bash: no job control in this shell
+[ww@localhost application]s nc -lvp 1eeee nc-ivp1000e
+bash:nc:command not found
+[ww@localhostapplication]s ls
+1s admin
+command.php common
+common.php config·php conf.yml
+database.php function.php goon2_1in
+goon2_lin.zip
+home mobile
+result.txt route.php tags.php
+[ww@localhost application]s whoami
+whoami w
+[ww@localhostapplication]s[w@localhostapplication]s[ww@localhost application]s[ww@localhostapplication]s[ww@localhostapplication]sls
+1s admin
+command.php common
+common.php config·php conf.yml
+database.php function.php goon2_1in goon2_lin.zip
+home mobile
+PwnKit-Exploit-main.zip result.txt
+分想13324，159资户端分组，
+，30履务器分起，60turmsl点击选择
+整个对话（6428bytes）查找：
+ASCII
+Showdataas
+滤掉此流
+打印
+另存为..
+返回
+关闭
+口
+x
+流184 查找下一个(ND
+帮助

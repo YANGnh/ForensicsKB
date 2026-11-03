@@ -1,0 +1,53 @@
+# OCR: fb0ff72e70dd4b2dd75a90c01cd02b92.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/fb0ff72e70dd4b2dd75a90c01cd02b92.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+essage 滤
+content":"d7Avsd!Ylul J8i(1bnDD@<-o","bigUr1":"","isReSend":false]
+content
+applyMsg"："我是你好""friendId"：是你好
+品
+sysMsg"："以上是打招呼内容"，"sysType"：800 sysMsg”："你可以跟他问个好"，"sysType"：904}
+属
+属
+content"："想要多少","bigUrl"："","isReSend":falsel sysMsg”："如对方为旧版本则状态不会变化"，“sysType”：902】 content":"10000","bigUrl":"","isReSend":false}
+content"："我们只图财不害人"，"bigUr1"：""，"isReSend"：false} content"："账号","bigUrl":"","isReSend":false}
+content":"12233444555支付宝""bigUr1":"""isReSend":falsel
+content"："过去了","bigUrl"："","isReSend":false] content":"ok","bigUrl":"","isReSend":falsel
+在所有列中过滤
+contentsimple 过滤
+想要多少 10000
+我们只图财不害人，账号
+12233444555支付宝
+过去了 ok
+d7Avsd!Y]u) J8i(1bnDD@<-o
+extra 过滤
+self 过滤
+0 0 0 0 1 1 0 0 1 0 1 0 0
+status 过滤
+2 2 2 2 2 2 2 2 2 2 2 2 2
+unReadStatus 过滤
+0 0 0 0 0 0 0 0 0 0 0 0
+0
+type 过滤 11 11 11 11 11 11 11 11 11 11 11 11
+11
+contentType 过滤
+210 1001 1000 1000 1021 1000 1021 1021 1021 1021 1021 1021 1021
+msgChildType 过滤
+WULL WUEL WULL WUEE
+updatetime 过滤
+1726581683553 1726581692078 1726581692087 1726581692099
+WULL
+1726581699646
+WULL WULL WUEL WUEL
+1726581699746 1726581714792 1726581721444 1726581739169
+1726581749362
+WUEE
+ULL WULL
+1726581768674 1726581770897
+1726582330945
+WUEE
+delstatus 过滤
+WULI WULL WULI WULL WULI WULI WUL WULL WULI WULI WULL WULE
+2

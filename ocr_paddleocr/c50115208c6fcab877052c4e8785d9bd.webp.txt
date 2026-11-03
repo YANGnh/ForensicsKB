@@ -1,0 +1,40 @@
+# OCR: c50115208c6fcab877052c4e8785d9bd.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/c50115208c6fcab877052c4e8785d9bd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+while（ReadFile(FileA_1，Buffer，oxiooou，&NumberofBytesRead，oLL）） NumberOfBytesRead 1NumberOfBytesRead;
+if（!NumberOfBytesRead) break;
+for（i=;i<NumberofBytesRead;i+=16)
+memset(v21,0,sizeof(v21)); v22=0;
+memset(v12,0,sizeof(v12)): v13 =0:
+if（NumberofBytesRead1-i<ex1e） break;
+v9 =*(_OWORD*)&Buffer[i];
+v20=0; n4 = 4:
+V16=0LL V18=0LL; V19=0LL;
+v11=（_QWORD*)sub_1800023Be(696LL);
+v16=sub180001000(v11（
+int641g
+18=xmmword180025A80 sub180001920(
+v16,&v18,
+v16+65
+(i >> 4) n4=3:
+11
+O
+key
+key扩展
+(unsigned int)((exBA2E8BA3*（unsignedint64)(i>>4))>>32)>>3));
+v19=xmmword180025A70 v12[]=v9;
+sub_180001A80(&v16,v12,v10,v21);
+*(OWORD*)&Buffer[i]=v21[o]; if（v16）
+iv
+int64))*v16)(v16,1LL);
+(*(void（
+fastcall**)(QWORD*
+NumberofBytesRead1=NumberofBytesRead; if
+(!WriteFile(hobject,Buffer,NumberOfBytesRead1,&NumberOfByteswritten,oLL) NumberofByteswritten !- NumberofBytesRead)
+sub18e001D8e((int)&unk18ee225D8，FileName);
+CloseHandle(FileA_1); s1b180001E50:68
+(18000204F)
+0000144F
+公众号。小谢取证

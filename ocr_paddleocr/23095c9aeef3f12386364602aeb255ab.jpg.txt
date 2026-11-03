@@ -1,0 +1,24 @@
+# OCR: 23095c9aeef3f12386364602aeb255ab.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/23095c9aeef3f12386364602aeb255ab.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+对象简保存
+app_group_member@ji-mei(2024F.. T查询创建工具美化SQL代码段
+N2024FIC
+1 信息
+ji-mei
+无标题-查询
+文本导出结果咖创建图表 D运行自停止
+解释
+appuserinfo
+SELECTloginipFROM
+WHEREid=55320342
+摘要
+login_ip
+182.33.2.250
+结果1
+剖析
+状态
+app_user_infoji-mei(2024FIC)-表
+*无标题-查询

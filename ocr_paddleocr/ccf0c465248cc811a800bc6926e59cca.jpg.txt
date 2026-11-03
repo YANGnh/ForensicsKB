@@ -1,0 +1,18 @@
+# OCR: ccf0c465248cc811a800bc6926e59cca.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ccf0c465248cc811a800bc6926e59cca.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+Hos.hstx
+2 3 4 S 6
+8 9 10 11 12 13 14 15 16
+logx
+ipconfig whoami
+gIfindstr/i"ipv4"
+ipconfig net user exit
+REGQUERY"HKEYLOCALMACHINElsYsTEMlCurrentControlSetlControllTerminalServerlWinStationslRDP-Tcp"/V PortNumber
+dir/a/b/sD:lwebl*.asp wmiclogicaldiskgetname c:linetpublwwwroot
+dirC:linetpublwwwroot/AD
+dirc:linetpublwwwrootlaspnetclinet/AD
+Get-childItem-Pathc:-Filter*.asp-RecurseI Select-object-Property DirectoryName,Name dirc:I*.asp/s/P/B
+typec:lserverlwebsitsladminlshell.aspx exit

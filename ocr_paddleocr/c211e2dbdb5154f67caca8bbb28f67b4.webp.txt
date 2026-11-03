@@ -1,0 +1,16 @@
+# OCR: c211e2dbdb5154f67caca8bbb28f67b4.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/c211e2dbdb5154f67caca8bbb28f67b4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+return;
+String obj = MainActivity.this.editText.getText().tostring(): tryt
+File file2 = new File(str, MainActivity.this.fileName +",txt"): Log.d("TAG"，"文件路径：”+str);
+Filewriter filewriter = new Filewriter(file2): filewriter.append((charSequence) obj):
+filewriter.flushO: filewriter.close();
+Toast.makeText(MainActivity.this，"写入成功"，o).show();
+MainActivity.this.dozipsingleFileithPassword(file2, bcatch（IoExceptione)[
+e.printstackTrace)
+Log.d("TAG"，"写入失败："+e.getMessage());
+"1!8Da9Re5it2b3a.[)
+Toast.makeText(MainActivity.this，"写入失败"，o).show();

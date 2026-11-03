@@ -1,0 +1,21 @@
+# OCR: 17fefe968e9b4e680362dda8b8a213f8.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/17fefe968e9b4e680362dda8b8a213f8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+图形视图
+个门口
+表格视图个
+名称
+.bash_profile.bashrc
+/data/data/com.termux/files/home/kali-arm64/root
+路径
+data/data/com.termux/files/home/kali-arm64/root/.bash_profile data/data/com.termux/files/home/kali-arm64/root/.bashrc
+.bashrc.original
+.cache face local-profile.version.viminfo vnc
+.zsh_history
+.zshrc sqlmap
+data/data/com.termux/files/home/kali-arm64/root/.bashrc.original
+data/data/com.termux/files/home/kali-arm64/root/.cache data/data/com.termux/files/home/kali-arm64/root/.face data/data/com.termux/files/home/kali-arm64/root/local data/data/com.termux/files/home/kali-arm64/root/.profile data/data/com.termux/files/home/kali-arm64/root/version data/data/com.termux/files/home/kali-arm64/root/.viminfc data/data/com.termux/files/home/kali-arm64/root/vnc
+data/data/com.termux/files/home/kali-arm64/root/.zsh_history
+data/data/com.termux/files/home/kali-arm64/root/.zshrc data/data/com.termux/files/home/kali-arm64/root/sqlmap

@@ -1,0 +1,31 @@
+# OCR: 18fd52e6d74b7c31c7bfe356c4c84baa.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/18fd52e6d74b7c31c7bfe356c4c84baa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+root@ql-n117-45.117.1e.203in/opt/bl.dsnbbaj686.fit/www/app[20:44:24 s
+api
+appnanager
+config-php
+command.php
+common.php
+database.php
+index
+Layuipaginate.php
+route.php tags.php
+root@ql-n117-45.117.10.203in/opt/bl.dsnbbaj686.fit/www/app[20:44:24]
+cat database.php <?php
+ThinkPHP［WECANDOITJUSTTHINK]
+Copyright（c)2006~2016http://thinkphp.cnAilrightsreserved
+Licensed（http://www.apache.org/licenses/LIcENsE-2.e） Author:liu21stliu21st@qmail.com>
+eturn
+数据库类型
+'type
+服务器地址
+"hostname//数据库名 database 用户名 username 山密码
+password'
+山端口 hostport
+"mongo
+127.0.0.1 =>"lok1'
+'mongoadmin'
+"RvbwSG3dqgZQ =>'27017

@@ -1,0 +1,28 @@
+# OCR: c6fbbe9dda8f7516b5136e5cdc4a7ce1.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/c6fbbe9dda8f7516b5136e5cdc4a7ce1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+终端×
+[root@localhosthome#ls arl-installCobaltstrike
+Cobaltstrike4.4.zip
+[root@localhost home# cd sglmap][root@localhostsglnap]#ls
+1.txtdoc
+data
+extra
+lib
+plugins
+LICENSE
+README.Md
+[root@localhostsglmap#
+sglmapapi.py
+dirsearch-e.4.3
+sglmap.conf
+sqlnapapi.yanl
+sqLnap-py
+sglmap
+tamper
+www
+xraylinuxamd64
+touzilo
+thirdparty

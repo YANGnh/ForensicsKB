@@ -1,0 +1,24 @@
+# OCR: 248aff7da67d4561943db7cd75ab743d.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/248aff7da67d4561943db7cd75ab743d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+新建文本文档.txt-记事本
+织
+文件(F)编辑(E)格式(O)查看(V)帮助(H)
+建
+打
+远
+-Displaythescriptswhicharerunatentry(ThankstoMichaelGillespie@malwarehunterteamforthefeaturereguest
+Version 2.0 (March 26,2020)- Project migrated to github Supportspyinstaller3.6
+AddedsupportforPython3.7,3.8
+-Theheaderofallextractedpyc'sarenowautomaticallyfixed
+fromfutureimport print function import os
+import struct import marshal
+import zlib importsys
+from uuid import uuid4 as uniguename classCTOCEntry:
+definit(self,position,cmprsdDataSize,uncmprsdDataSize,cmprsFlag.typeCmprsData,name): self.position=position
+self.cmprsdDataSize=cmprsdDataSize
+self.uncmprsdDataSize=uncmprsdDataSize colfcmnrcFlaa-cmnrcFlar
+第89行，第1列
+100%

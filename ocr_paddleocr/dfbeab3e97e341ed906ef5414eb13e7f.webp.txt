@@ -1,0 +1,20 @@
+# OCR: dfbeab3e97e341ed906ef5414eb13e7f.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/dfbeab3e97e341ed906ef5414eb13e7f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+kali-linux-2024.2-vmware...X 国
+File
+Actions
+EditViewHelp
+2
+(kalikali)-[~/Desktop tor
+Completingexternalcommand
+ToY
+torbrowser-launcher
+国
+tor-gencert torify
+tor-instance-create
+tor-print-ed-signing-cert
+tor-resolve torsocks
+kali@kali:-/Desktop

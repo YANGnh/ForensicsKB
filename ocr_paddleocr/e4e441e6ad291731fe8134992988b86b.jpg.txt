@@ -1,0 +1,22 @@
+# OCR: e4e441e6ad291731fe8134992988b86b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e4e441e6ad291731fe8134992988b86b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+对象简保存
+app_userrecord@ji-mei(2024FIC).. 宁查询创建工具美化SQL代码段
+2024FIC
+ji-mei
+*无标题-查询
+自文本导出结果咖创建图表运行口停止昆昌解释
+appuserinfo@ji-mei(2024FIC)-表
+*无标题-查询
+SELECTuseridASs用户IDSUM(money）As总金额FROMappuserrecordWHEREnotes=抢群红包GROUP BYuseridORDERBY总金额DESC
+信息
+摘要
+用户ID
+13107145 52054603
+结果1 总金额
+剖析
+状态
+1017.07 424.59

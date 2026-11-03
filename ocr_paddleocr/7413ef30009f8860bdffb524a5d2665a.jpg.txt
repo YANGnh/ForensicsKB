@@ -1,0 +1,16 @@
+# OCR: 7413ef30009f8860bdffb524a5d2665a.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/7413ef30009f8860bdffb524a5d2665a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+$ret=ParamsChecked($params,$p); if(sret!== true)
+return DataReturn(sret,-1) 添加长号
+$salt =GetNumberCode(6); Sdatar
+username loginsalt login_pwd
+mobile'email. gender'status'role id add time
+川添加
+Sparamsusername] =>$salt,
+LoginPwdEncryption($params[loginpwd'],$salt), =>
+=>empty($params['mobile'J)?：$params['mobile'], =>empty($params["email'j)?：$params['email']
+=>intval($params[gender) =>intval($params["status'1), =>intval($params["role id']), =>time(),
+if(Db::name('Admin)->insert($data)>)

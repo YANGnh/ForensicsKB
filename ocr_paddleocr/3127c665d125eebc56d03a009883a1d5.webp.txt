@@ -1,0 +1,46 @@
+# OCR: 3127c665d125eebc56d03a009883a1d5.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/3127c665d125eebc56d03a009883a1d5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+host.conf hostname hosts
+hosts.alow hosts.deny
+inputrc issue issue.net
+ld.so.cache 自ld.so.conf
+一分区 offset 00000000 00000010 00000020
+文件 0 61 00 00
+1 70 00 00
+国预览
+2 69 00 00
+3 2D 00 00
+回详细
+4 73 Do 00
+5 65 00 00
+缩略图 0
+7 6
+72 00 00
+76 00 00
+存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+时间轴
+8
+65 00 00
+9 72 00 00
+A
+2D 00 00
+图例说明 c
+B
+32 00 00
+0A 00 00
+D 00 00 00
+conf allow deny
+net cache conf
++
+E
+00 00 00
+F
+00 00 00
+同步
+letc Netc Netc Netc Netc etc Netc Netc Netc Netc
+养
+UTF-8
+api-server-2

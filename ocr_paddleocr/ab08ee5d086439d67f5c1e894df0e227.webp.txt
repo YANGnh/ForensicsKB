@@ -1,0 +1,38 @@
+# OCR: ab08ee5d086439d67f5c1e894df0e227.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/ab08ee5d086439d67f5c1e894df0e227.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 78 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
+v13=n8 +4; v14
+m128i)mmandps((m128)mmaddepi32(mmshuffleepi32(mmcvtsi32si128(n8-8),@),si128)
+三
+v15 v16
+m128i)_mm_and_ps((m128)_mm_add_epi32(_mm_shuffle_epi32(_mm_cvtsi32_si128(n8-4))si128） mmpackusepi16(v14,v14);
+_mm_packus_epi16(v15,v15);
+V17
+*((_DwORD*)v10=5）=_mm_cvtsi128_si32(_mm_packus_epi16(v16v16));*((DWORD*)v1e-4)=_mm_cvtsi128_si32(_mm_packus_epi16(v17,v17));
+_mm_cvtsi32_si128(n8);
+v18 =
+n8+=16;
+v19=（_m128i)_mm_and_ps(（_m128)_mm_add_epi32(_mm_shuffle_epi32(v18,@)，si128)，v11) v20=
+mm_packus_epi16(v19,v19);
+v21=（m128i)_mm_and_ps((m128)_mm_add_epi32(_mm_shuffle_epi32(_mm_cvtsi32_si128(v13),@)，si128),
+*((_DwORD*)v10--3)=mmcvtsi128_si32(_mm_packus_epi16(v20,v20)); v22=mm.packusepi16(v21,v21);
+*((_DwoRD*)v1o=2）=_mm_cvtsi128_si32(_mm_packus_epi16(v22,v22)) while（(int)(n8-8)<256)
+n256=Q; v24=v33; do
+v25=*v24;
+v8 =(v25 +(unsigned
+v26 = &v33[v8]; ++n256;
+*v24++=*v26;*v26=v25
+while（n256<256）);
+v27 = 0; v36= ;
+(a3) if
+if （a4)
+Size = izej
+if（Size>=ILL）
+v29=a3-do
+int8)alnjc2ntq2mzcon[n256%(unsignedint)a2l+v8)%256;
+(_QWORD)a4;
+公众号·小谢取证
+30=（4±1)%256:

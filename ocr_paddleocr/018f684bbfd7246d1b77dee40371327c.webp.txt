@@ -1,0 +1,12 @@
+# OCR: 018f684bbfd7246d1b77dee40371327c.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/018f684bbfd7246d1b77dee40371327c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+“密码复杂度验证失败，要求：长度大于8位，数字，大写字母，小写字母
+殊字符最少3项组合"）
+if get.passwordi：
+public.M('users').where("username=?"，（session
+['usernameJ,)).setField('password'public.password_salt(
+public.md5(get.password1.strip()),username=session username
+public.WriteLog('TYPE_PANEL'，USER_PASSWORD_SUCCESS'，（session

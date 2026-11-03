@@ -1,0 +1,51 @@
+# OCR: 8c54228846a876bbe2e7a5cc43e01158.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/8c54228846a876bbe2e7a5cc43e01158.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+对象圖保存
+字段名 incid
+member@jinyi（112MySQL）-表
+添加字段
+索引
+invite_code phone
+memberid member_type leader_level
+外键
+referrermemberid
+headimage nick_name user_name identity_card member_from wechat_openid password
+pay_password
+master_memberid proxy_member_id
+join_date team_flag freeze_type freeze_reason invite_level invite_number shop_type
+super_purchase_flag
+?
+插入字段
+触发器
+选项
+删除字段
+注释类型 int
+主键
+SQL预览
+varchar varchar varchar
+int int
+varchar varchar varchar varchar varchar int
+varchar varchar varchar varchar varchar datetime
+int int
+varchar
+int int int tinyint
+个上移
+业下移
+长度 11 32 32 32 11 11 32 255 64 64 32 11 28 32 32 32 32
+11 11 255 11 11 11 1
+小数点
+不是null 区区口区
+区区口
+口口区口口口口口区区口口区区区区
+虚拟口口口口口口口口口口口口口口口口口口口口口口口口口
+键
+P1
+注释主键会员编号手机号会员id 会员级别荣誉奖衔推荐人头像昵称姓名身份证会员来源
+微信openld 登录密码支付密码
+主账号memberld
+报单中心id 加盟时间团队标识冻结状态冻结原因邀请位置邀请人气
+店铺等级0用户
+提前参与拼券标识0否1是

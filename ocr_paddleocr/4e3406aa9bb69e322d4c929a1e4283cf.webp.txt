@@ -1,0 +1,13 @@
+# OCR: 4e3406aa9bb69e322d4c929a1e4283cf.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/4e3406aa9bb69e322d4c929a1e4283cf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+0o? 1 2 m 4 5 6 7 00
+privatefinal nativebooleanisstring(string str): public static void t(MainActivity mainActivity) [
+rl.c.e(mainActivity,"thisse"): c cVar =mainActivity.f247co; if (cVar == null) f
+rl.c.h("binding"): thrownull:
+1 else if (!mainActivity.isstring(((EditText)cVar.f22G).getText().toString()))(
+“邀请码不正确"，o）.show()；
+Toast.makeText(mainActivity, Jelse
+mainActivity.startActivity(new Intent(mainActivity,GalleryActivity.class)): mainActivity.finishO):

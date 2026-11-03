@@ -1,0 +1,99 @@
+# OCR: 2c4b080f5123f48962939c21b5082da8.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/2c4b080f5123f48962939c21b5082da8.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+C:UserslJohn.Kiiler>whoami/all USERINFORMATION
+User Name
+desktop-hdkjijj\john.kille GROUPINFORMATION
+Group Name Everyone
+NT AUTHORITYALocal account
+BUILTIN\Administrators BUTLTINAUserS
+AUTHORITYAINTERACTIVE CONSOLELOGON
+SID
+5-1-5-21-938709476-2694722248-4644499888-1601
+Type
+SID
+Wel1-known groupS-1-1-e well-knowngroup
+S-1-5-114
+and
+Administrators
+o叶f
+group
+member
+Alias Alias
+Attributes
+Mandatorygroup,
+Enabled by default,
+Enabled group
+Group used for deny only
+S-1-5-32-544Group used for denyonly
+S-1-5-32-545
+Mandatory
+group
+Wel1-knowngroupS-1-5-4 we1l-knowngroup
+S-1-2-1
+group S-1-5-11
+we11-known
+AUTHORITYAuthenticatedUsers AUTHORITYIThisOrganization NT
+AUTHORITYLocal account NT
+LOCA
+AUTHORITYANTLMAuthentication NT
+MandatoryLabel\MediumMandatory PRIVILEGESINFORMATION
+Privilege Name
+N
+SeShutdownPrivilege
+SeChangeNotifyPrivilege SeUndockPrivilege
+Level
+Description
+We11-known group
+S-1-5-15
+Wel1-known group
+S-1-5-113
+Wel1-known group S-1-2-0 wel1-known group
+S-1-5-64-10
+Label
+State
+ON
+Shut down the system
+Bypass traverse checking
+Disabled Enabled
+Remove computer from docking station Disabled
+SeIncreaseworkingSetPrivilege Increase a process working set
+SeTimeZonePrivilege
+Change the
+time zone
+Disabled Disabled
+S-1-16-8192
+Enabledgroup
+Enabled bydefault,
+Mandatory
+Enabled by default,
+group，
+Enabledgroup
+Mandatorygroup,
+Enabled group
+Enabled by default,
+MandatoryRroup,
+Enabled by default,
+Enabled group
+Mandatorygroup,
+by default,
+Enabledgroup
+Enabled
+Mandatory group,
+default, Enabled
+Enabled
+group
+by
+Mandatory
+group,
+Mandatory
+group,
+default,
+Enabled group
+Enabledby
+Enabledby
+group
+default,
+Enabled

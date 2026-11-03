@@ -1,0 +1,10 @@
+# OCR: d147b96bd643468d0c0b66653972cf4c.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/d147b96bd643468d0c0b66653972cf4c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+-2:~/web-api/apps sudo dockerinspect d4|grep image
+king@api-server
+"com.docker.compose.inage
+"sha256:996a32e7200d224c4eada5f87360b835572
+8530ba10e2c994bb171428589bf3b

@@ -1,0 +1,17 @@
+# OCR: 16b789b936a8cdda0d1043b66101301e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/16b789b936a8cdda0d1043b66101301e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+对象筒保存
+transactionsmain(MoneyLovers2)... 查询创建工具美化SQL代码段
+MoneyLoverS2
+main
+*无标题查询
+文本导出结果咖创建图表运行停止解释
+categories@main(MoneyLovers2).
+SELECT SUM(amount) FROM transactions WHERE cat id IN (SELECT cat id FROM categories WHERE cat type = 1)
+信息
+摘要
+SUM(amount)
+结果1 279002

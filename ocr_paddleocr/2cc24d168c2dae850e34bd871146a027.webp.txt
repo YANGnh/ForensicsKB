@@ -1,0 +1,7 @@
+# OCR: 2cc24d168c2dae850e34bd871146a027.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/2cc24d168c2dae850e34bd871146a027.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+publicvoidsetIterations(intiterations)f
+this.digester.setIterations(iterations);

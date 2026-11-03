@@ -1,0 +1,17 @@
+# OCR: 3523b1e880ad5ccb1860431fcdabac73.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/3523b1e880ad5ccb1860431fcdabac73.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+root(dlocalhost#cdtroian Troot@locaLhosttroianl#ls
+Config-isonCONTRIBUTORS.md
+examples
+LTCENSE
+root@localhost trojan#catconfig-json
+"run_type"："you guess""locat_addr":"
+"127.0.0.1"
+"local_port"：12345
+"remote_addr":"wyzshop1.com"，
+"remote_port"：443,"password":
+READMEmd
+troja

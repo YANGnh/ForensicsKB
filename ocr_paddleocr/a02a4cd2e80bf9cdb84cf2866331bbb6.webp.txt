@@ -1,0 +1,12 @@
+# OCR: a02a4cd2e80bf9cdb84cf2866331bbb6.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/a02a4cd2e80bf9cdb84cf2866331bbb6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+Frame8888:15bytesonwire(840bits),105bytescaptured（840bits)oninterface/DeviceNPF（3257397C-8319-419e
+Sectionnumber:1
+Interfaceid：e（\DevicelNPF_(3257397C-8319-419e-BDB5-E198Ecc8DAe3)） Encapsulationtype:Ethernet(1)
+ArrivalTime：Sep17,202511:28:40.646104000中国标准时间
+UTcArrivalTime:Sep17,202503:28:40.646104000UTC Ep0chArrivalTime:1758079720.646104000
+[Timeshift for this packet:o.oooooooooseconds]
+[Timedeltafrompreviouscapturedframe:e.ee597eeeseconds[Timedeltafrompreviousdisplayedframe:o.ooo597oeeseconds rtimesincereferenceorfirstframe:59999.9999499e9seconds

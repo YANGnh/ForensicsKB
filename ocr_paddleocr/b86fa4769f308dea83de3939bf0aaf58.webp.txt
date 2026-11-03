@@ -1,0 +1,14 @@
+# OCR: b86fa4769f308dea83de3939bf0aaf58.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/b86fa4769f308dea83de3939bf0aaf58.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+temp_key=hashlib.sha256(string=(raw_key+entropy).encodeO).dige
+self.descramble_key(temp_key=temp_key） descramblekey(self,tempkey)
+def
+mixed_base=b'.join([bytes([b ^42])for b in temp_key[:10]]) actual_key=SecureKey123456
+self.enhanced_key=self.enhance_key(key-actual_key
+def enhancekey(self,key):
+round1=self.addsalt(key-key)
+round2=self._ascii_transform(text=round1) round3=self._xor_transform(text=round2） round4=round3[::-1]
+finalkey=hashlib.md5(string=round4.encode(O).digest() returnfinal_key

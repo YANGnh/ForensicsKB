@@ -1,0 +1,18 @@
+# OCR: 86ce1eff7c7c860bf24202f4cc1b1c1a.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/86ce1eff7c7c860bf24202f4cc1b1c1a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+SELECT f.fqk,
+count(DISTINCT f.qk) AS zs FROM
+SELECT
+c.证件号码
+Asfqk,
+d.证件号码、Asqk FROM
+（SELECT*FROMrxkkaWHEREa.证件号码NOTIN（SELECTb.证件号码FROMsdqkb)）c
+JOIN（SELECTb.传感器ID"，b.证件号码，b感知时间FROMsdqkaJOINrxkkbONa，证件号码=b.证件号码）dONc.传感器ID=d.传感器ID WHERE
+UNIXTIMESTAMP（c.感知时间）-UNIXTIMESTAMP（d.感知时间）<=1G
+ANDUNIXTIMESTAMP（C.感知时间）-UNIXTIMESTAMP（d.感知时间）>=-1E
+)f
+GROUPBY f.fqk HAVING zs >= 3
+·公众号·小谢取证

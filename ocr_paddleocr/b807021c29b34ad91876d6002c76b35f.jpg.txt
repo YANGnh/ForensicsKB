@@ -1,0 +1,7 @@
+# OCR: b807021c29b34ad91876d6002c76b35f.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/b807021c29b34ad91876d6002c76b35f.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+root@localhost#mysgl-V
+bash:mysgl:command not found rootdlocalhost~l#

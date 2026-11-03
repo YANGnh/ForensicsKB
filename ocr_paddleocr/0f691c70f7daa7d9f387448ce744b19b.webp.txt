@@ -1,0 +1,10 @@
+# OCR: 0f691c70f7daa7d9f387448ce744b19b.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛团体赛/0f691c70f7daa7d9f387448ce744b19b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+所在文件名：CheerfulSuperDonkey.text 文件后缀：text
+文件大小（字节)：8,156,676 命中上下文：EA23456CW4448
+文件偏移：506 编码格式：UTF8
+搜索表达式：[1x41-↓x5A↓x61-↓x7A][2][1x30-↓x39][5]1x43↓x57[1x30-x39][4]
+原始路径：Z：检材_计算机.001分区4_新加卷[F]：法律法规全套资料iCheerfulSuperDonkey.text 命中文本：EA23456CW4448

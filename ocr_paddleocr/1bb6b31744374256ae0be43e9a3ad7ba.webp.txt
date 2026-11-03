@@ -1,0 +1,24 @@
+# OCR: 1bb6b31744374256ae0be43e9a3ad7ba.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/1bb6b31744374256ae0be43e9a3ad7ba.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+86370
+一 8638 8639 8640 8641 8642 8643 8644 8645 8646 8647 8648 8649 8650 8651 8652 8653 8654 8655 8656 8657 8658 8659 8660 8661 8662 8663 8664 8665 8666 8667 8668 8669 8678 8671 8672 8673 8674 8675
+root@api-server-2:/home/king/web-api/app/src/routes#catauth.routes.js const express =require(express')
+const （ login,register,getProfile )= require('../controllers/auth.controller');
+const const
+authMiddleware)=require('../middleware/auth.middleware'); getflag2=require(../utils/encryption')
+导入商品控制器 const3
+getAllProducts， getProduct,
+createProduct, updateProduct, deleteProduct, searchProducts
+= require('../controllers/product.controller')
+constrouter=express.Router(); 登录路由
+router.post('/login.login)://注册路由
+router.post(/register,register)//获取用户个人资料（需要认证）
+router.get('/profile'authMiddleware,getProfile)
+//添加获取flag2的路由-只有通过调试才能获取真实的flag值 router.get('/flag2',(req,res)=>(
+//调用getflag2函数，该函数包含反调试逻辑，只在调试状态下返回真实flag const flag = getflag2();
+//不直接返回flag值，确保只有通过调试器才能获取 res.json
+success:true, message: flag,
+result：，请使用gdb调试器进行调试获取！：

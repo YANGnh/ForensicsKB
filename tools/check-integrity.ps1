@@ -1,7 +1,7 @@
 ﻿# ============================================================
 # 取证资料库：例行体检
 # 报告：图片断链 / 缺 frontmatter / 缺 H1 / 疑似乱码 / 缺 OCR / 孤儿图片
-# 输出：_reports/integrity-report.txt
+# 输出：控制台（不写过程报告文件）
 # 用法：pwsh -File tools/check-integrity.ps1 -Root <取证资料库根目录>
 # ============================================================
 param([string]$Root = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path)
@@ -9,10 +9,7 @@ $ErrorActionPreference = 'Stop'
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 
 $report = [System.Collections.Generic.List[string]]::new()
-$ocrDir = Join-Path $Root 'ocr_tesseract'
-$paddleDir = Join-Path $Root 'ocr_paddleocr'
-$reportDir = Join-Path $Root '_reports'
-New-Item -ItemType Directory -Path $reportDir -Force | Out-Null
+$ocrDir = Join-Path $Root 'ocr_paddleocr'
 
 # 排除非语料文件：分区 README、根 INDEX、以及设计方案文档（后者含示例图片语法，不应计入断链）
 $mds = Get-ChildItem $Root -Recurse -File -Filter *.md | Where-Object {
@@ -48,12 +45,12 @@ foreach ($f in $mds) {
         if (-not (Test-Path (Join-Path $dir $name))) { $broken++; $report.Add("图片断链: $rel → $name") }
         $base = [System.IO.Path]::GetFileName($name)
         $referenced[$base] = $true
-        if (-not ((Test-Path (Join-Path $paddleDir ($base + '.txt'))) -or (Test-Path (Join-Path $ocrDir ($base + '.txt'))))) { $noOcr++; }
+        if (-not (Test-Path (Join-Path $ocrDir ($base + '.txt')))) { $noOcr++; }
     }
 }
 # 孤儿图片（被引用集合之外）
 $imgExts = @('.png', '.jpg', '.jpeg', '.webp')
-$allImgs = Get-ChildItem $Root -Recurse -File | Where-Object { $_.Extension -in $imgExts -and $_.FullName -notlike "$ocrDir*" -and $_.FullName -notlike "$paddleDir*" }
+$allImgs = Get-ChildItem $Root -Recurse -File | Where-Object { $_.Extension -in $imgExts -and $_.FullName -notlike "$ocrDir*" }
 $orphans = $allImgs | Where-Object { -not $referenced.ContainsKey($_.Name) }
 
 # ---- 受控词表校验（警告级，不阻断）----
@@ -98,5 +95,4 @@ foreach ($k in $offVocab.Keys) {
     $report.Add("非受控标签: $k（$($offVocab[$k]) 篇）—— 请归并到既有标签，或登记到 tools/tag-vocabulary.json")
 }
 $all = $summary + $report
-[System.IO.File]::WriteAllLines((Join-Path $reportDir 'integrity-report.txt'), $all, $utf8)
 $all | ForEach-Object { Write-Host $_ }

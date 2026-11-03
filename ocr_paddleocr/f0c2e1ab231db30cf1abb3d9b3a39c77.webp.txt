@@ -1,0 +1,7 @@
+# OCR: f0c2e1ab231db30cf1abb3d9b3a39c77.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/f0c2e1ab231db30cf1abb3d9b3a39c77.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+rootdmastero1yum.repos.di#kubectlgetpods--all-namespaces 13
+grep-vNAMESPACE"Wc-l

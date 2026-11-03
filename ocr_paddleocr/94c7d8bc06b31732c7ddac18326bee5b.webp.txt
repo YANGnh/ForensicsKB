@@ -1,0 +1,30 @@
+# OCR: 94c7d8bc06b31732c7ddac18326bee5b.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/94c7d8bc06b31732c7ddac18326bee5b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+回
+Description inc'docker'
+三序号口4 口5 口6 口7 口8 口9 口10 口11 口12 口13 口14 口15 口16 口17 口18
+三日志时间
+起始
+结束了
+2025-04-08 20... 2025-04-08 20... 2025-04-0820... 2025-04-0820... 2025-04-08 20... 2025-04-08 20... 2025-04-0820.. 2025-04-08 20... 2025-04-08 20... 2025-04-08 20... 2025-04-08 20... 2025-04-08 20... 2025-04-08 20... 2025-04-08 20... 2025-04-08 20...
+三主机名过滤
+master master master master master master master master master master master master master master master
+三日志描述 docker
+groupaddedto/etc/group:name=docker,GID=994
+groupaddedto/etc/gshadow:name=docker newgroup:name=docker,GD=994
+在分区1中搜索
+root:TTY=pts/o;PWD=/root;USER=root;COMMAND=/bin/systemctlenabledocker--now
+Q
+root:TTY=pts/O;PWD=/root;USER=root;COMMAND=/bin/yum install-ydocker-cedocker-ce-cli contai.. root:TTY=pts/O;PWD=/root;USER=root;COMMAND=/bin/mkdir-p/etc/docker
+root:TTY=pts/O;PWD=/root;USER=root;COMMAND=/bin/tee/etc/docker/daemon.json root:TTY=pts/o;PWD=/root;USER=root;COMMAND=/bin/systemctlenabledocker--now root:TTY=pts/O;PWD=/root;USER=root;COMMAND=/bin/systemctlstatusdocker
+root:TTY=pts/O;PWD=/root;USER=root; COMMAND=/bin/systemctl enable cri-docker.service --now root:TTY=pts/O;PWD=/root;USER=root;COMMAND=/bin/systemctl status cri-docker.service
+Q高过 9 s s s s s s s
+root:TTY=pts/O;PWD=/root;USER=root;COMMAND=/bin/kubeadmreset --cri-socket=unix:///var/run/c... root:TTY=pts/O:PWD=/root;USER=root;COMMAND=/bin/kubeadminit--kubernetes-version=v1.28.15.. root:TTY=pts/0;PWD=/root;USER=root;COMMAND=/bin/kubeadminit--kubernetes-yersigg
+y128.15
+金星路406取证大入
+公众
+root:TTY=pts/O;PWD=/root;USER=root;COMMAND=/bin/systemctlstatuscri-docker.service
+5

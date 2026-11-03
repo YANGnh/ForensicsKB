@@ -61,4 +61,4 @@ if (Test-Path $ocrDir) {
     }
 }
 Write-Host "已清理旧 OCR 文本: $ocrDel 个"
-Write-Host "=== 完成：下一步跑 ocr-images.ps1 生成新 WebP 的 OCR ==="
+Write-Host "=== 完成：下一步跑 python tools/ocr-paddleocr.py 生成新 WebP 的 OCR ==="

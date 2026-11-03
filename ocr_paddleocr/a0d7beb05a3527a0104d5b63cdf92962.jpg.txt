@@ -1,0 +1,34 @@
+# OCR: a0d7beb05a3527a0104d5b63cdf92962.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/a0d7beb05a3527a0104d5b63cdf92962.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+aHROcDovLzE5Mi4x
+main
+√运行、停止星：解释
+SELECT user_id,message,create_at FROM"Post"WHERE channel id -"3muf9j8o97rbfy3k7b7wbz6ana'ORDER BY create_at
+信息
+搞要
+userid
+结果1
+message
+jrmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw jrmi9kx8pfg9drc7b9dczh7neo aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw irmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw jrmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo aqceyadrxbrajq8bpuk89wrtuw irmi9kx8pfg9drc7b9dczh7neo aqceyadrxbrajq8bpuk89wrtuw jrmi9kx8pfg9drc7b9dczh7neo jrmi9kx8pfg9drc7b9dczh7neo aqceyadrxbrajq8bpuk89wrtuw aqceyadrxbrajq8bpuk89wrtuw jrmi9kx8pfg9drc7b9dczh7neo
+hello 1
+显卡这边我看了，4090一张要一万多，太贵了
+现在公司资金并不多啊，能不能找个更划算的方式哦
+或者临时搞个二手的，等部门赚到钱了再换高配的设备嘛
+二手的也有点贵，先买个低配点的显卡吧也可以
+我觉得先把东西搞起来，让大家先能用上
+我看了一下，可以先买个2080的显卡，先尝试一下只要两千多
+我问一下老板那边
+可以，你先购买吧，后面全票回来报销
+那行，我用友这边有资源，我让他送一个过来
+我看昨天那个视频换脸效果还不错但是生成速度有点慢
+我们可不可以买一个好点的显卡
+好的，我问问老板 OK
+你去网上找找性价比高的发我吧
+https://item.jd.com/10091688812789.html
+这个吧性能好看着确实可以
+我买完快递单号微信发你吧 OK
+create_at
+1713942738792 1713942764907 1713942814854 1713942866407 1713942895555 1713942936811 1713942947975 1713942948931 1713942999394 1713943036275 1713943083500 1713943541208 1713943582596 1714011151965 1714011168036 1714011183606 1714011321025 1714011391492 1714011973480 1714012124892 1714012138319 1714012276751 1714012293848 1714012323166

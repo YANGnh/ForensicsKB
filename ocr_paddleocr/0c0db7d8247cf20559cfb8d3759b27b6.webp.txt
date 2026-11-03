@@ -1,0 +1,20 @@
+# OCR: 0c0db7d8247cf20559cfb8d3759b27b6.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/0c0db7d8247cf20559cfb8d3759b27b6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:35
+
+POST/index.phpHTTP/1.1 Host:sysmon.cs-corp.cd
+Jser-Agent:Mozilla/5.0（x11;Linuxx8664;rv:122.0）Gecko/2010101Firefox/122.0
+Accept:text/html,application/xhtml+xml,application/xmlg=o.9,image/avif,image/webp,*/*;g=o.8
+Accept-Language:en-us,en;q=o.5 Accept-Encoding:gzip,deflate
+Content-Type:application/x-www-form-urlencoded Content-Length:35
+Origin:http://sysmon.cs-corp.cd Sec-GPC：1
+Connection: keep-alive
+Referer:http://sysmon.cs-corp.cd/index.php Cookie:PHPSESSID=9fa1heg7b428aek3f1i3a01hvm Upgrade-Insecure-Requests:1
+username=admin&password=Pass%4eoee HTTP/1.1392Found
+Date:Mon,05Feb202401:46:47GMT Server:Apache/2.4.29(Ubuntu)
+Expires:Thu,19Nov198108:52:00GMT
+Cache-Control: no-store, no-cache, must-revalidate Pragma:no-cache
+Location: dashboard.php Content-Length:0
+Keep-Alive:timeout=5,max=1ee Connection:Keep-Alive
+Content-Type:text/html;charset=UTF-8

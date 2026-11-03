@@ -1,0 +1,89 @@
+# OCR: bfe7a1e8132ba16564d4a5be61d41099.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/bfe7a1e8132ba16564d4a5be61d41099.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:35
+
+player_attribute @main (media.20240601) - 表 - Navicat Premium
+文件
+编辑
+连接
+查看新建查询
+111cu1.2024000
+main 表
+action_log
+ad ad _list
+表
+ad_playerref
+category cut_task group
+group_playerref group user ref led
+ledsend
+play_preset_list
+收藏夹表
+play_preset list content play_preset send history player
+playerattribute player_update_task program
+program_content program_send reserve_schedule
+reserve schedule item role
+role permission role_user_ref scheduling
+scheduling_content screen
+screen_group
+screen_grouptask
+screen_group_taskitem user
+user_attr
+user_defined 品视图
+工具
+视图对象
+窗
+昆开始事务 id
+帮助 A-z 索引
+触发器
+用户
+查询
+actionlog@main(media.20240601)..
+自文本、了筛选排序 用列
+playerld
+b5c8a72c-6c79-4d45-ac
+备份
+@ 自动运行
+山
+模型
+playerattribute@main(media.2024..
+导入?导出数据生成咖创建图表
+name
+44dda87b-6868-4b80-91ip
+d3dda5c7-a34d-4396-b.
+44dda87b-6868-4b80-91
+version
+a1eb52a8-9ef9-4412-85.
+：44dda87b-6868-4b80-91
+o
+077834aa-7d76-410d-b(44dda87b-6868-4b80-91
+osversion
+983470db-1e0f-48f6-aa44dda87b-6868-4b80-91mac
+e7eed8c9-f8bc-4c15-99(44dda87b-6868-4b80-9tmachinecode
+b0dd6e75-bb98-4e62-b44dda87b-6868-4b80-91storage 85423809-fa59-4604-89.44dda87b-6868-4b80-91registered 1f88de2d-7a27-4ce7-a444dda87b-6868-4b80-9tregistercode
+X
+c
+value
+192.168.20.15
+图表
+20241030.0800--UTC+08:00 windows
+Microsoft Windows NT 6.2.9200.0 68:DA:73:A2:58:FC
+OjOSmZVyADBsAlkQF32pLw==
+[total:476.25GB]/[available:391.91GB] true
+Cjt6c2hxQmJwcW1pSGdjbHFmbkhQISUrEjEtdmt6Y09QakhbWUxaKXdeE25vV2RrZkh213Z9fV1tfzVsTE9lc2hBcXl
+曲圆
+O
+SELECT*,rowidNAVICATROWID"FROM"main''playerattributeLIMITo,1o0o
+?
+口
+player_attribute 表
+media.20240601 main
+数据库 main
+组
+有索引是
+有触发器否
+根页面 39
+第1条记录（共9条）于第1页
+·
+x
+口

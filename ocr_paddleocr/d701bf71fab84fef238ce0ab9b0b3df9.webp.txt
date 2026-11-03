@@ -1,0 +1,69 @@
+# OCR: d701bf71fab84fef238ce0ab9b0b3df9.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/d701bf71fab84fef238ce0ab9b0b3df9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+问题：
+文件 +
+视图
+司
+导航区
+工具
+插件
+Q
+帮助 0
+#~@0>@2*^19*@3*#deepRenderFunction(Object,Object,Obje#~@0>@2*^19*@3*#itemCreation(Object,Object,Object,Ol m#~@0>@2*^19*@3*#itemCreation2(0bject，Object，Object， m#~@0>@2*^19*@3*@4*#(Obiect，Obiect，Object，Obiect，Ob m#~@0>@2*^19*@3*@4*#^1(Object，Object，Object，Object，#@0>@2*^19*@3*@4*#^2(Object,Object,Object,Object,（#~@0>@2*^19*@3*@4*#^3(Object,Object,Object,Object, m#~@0>@2*^19*@3*@4*#^4(0bject，0bject，Object，0bject，?#~@0>@2*^19*@3*@4*^4*#(Object,Object,Object)Object
+#~@o>@2*^5*#(Object，Object,Object)Object m#~@0>@2*^6*#(Obiect，Obiect，Object)Object m#~@0>@2*^8*#(Obiect,Object，Obiect)Object m#~@0>@2*^a*#(Object,Object,Object)Object#~@o>@2*^a*#^1(ObjectObject,Object）Object
+#~@o>@2*^a**#(Object，Object,ObjectObject,Object)
+#~@o>@2*^c*#(ObjectObject,Object)Object m#~@o>@2*^e*#(Object，Object，Object)Object m#~@o>@2*^e*#^1(Object，Object，Object)Object
+m#~@o>@2*^e**#(Object，Object，Object,Object，Object)
+inarohioct
+vutils
+@CryptoUtils
+Object,Object)Object
+f pkgName@entry Obiect fisCommonjsObject
+fhasTopLevelAwait Object f isSharedModuleObject f scopeNamesObiect
+fmoduleRecordIdxObject
+m#~@o=#CryptoUtils(ObjectObject，Object)Object
+#@o>#base64Decode(Object,Object,Object,Object)Obj m#~@o>#base64Encode(ObiectObiect,Object,Object)Ob m#~@o>#chacha2oDecrypt(Object,Object,ObjectObject)#@o>#chacha20Encrypt(Object,Object,Object,Object)#~@o>#decrypt(Object,Object,Object,Object)Object#@o>#encrypt(Object,Object,Object,Object)Object m#~@o>#generateKeyStream(Object,Object,Object,Object m#~@o>#initializeState(Object,Object,Object)Object m #~@o>#quarterRound(Object,Object,Object,Object,Obj m #@o>#rotateLeft(Object,ObjectObject,Object,Objec
+m funcmaino(Obiect,Obiect,Obiect)Object CDatabaseHelper
+f.pkgName@entry Object f.isCommonjs Object
+f hasTopLevelAwaitObject
+?6错误
+@EntryAbilityX
+@LoginPage
+*modules -jadx-gui
+eNotepadPageX
+packagepoooentry/src/main/ets/utils;
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+CDatabaseHelper
+eCryptoutils
+/*renamedfrom:&entry/src/main/ets/utils/cryptoutiLs&,reason:invalidclassname*/
+/*Loadedfrom：F：IPanguRun1笔记-副本lets|modules.abc*/ public class Cryptoutils {
+public Object pkgName@entry: public object iscommonjsj
+public ObjecthasTopLevelAwait; public object issharedModule; public object scopeNames;
+public object moduleRecordIdx;
+/*JADXWARN:Typeinferencefailedfor:ri2vi2,types:[object,java.Lang.CLass]*/ public Object func_mai
+newlexenvwithname
+[3,"CHACHA_KEY"，の，"CHACHA_IV"，1，"DOMAIN_CRYPTO"，2]，3);
+lexenv_0_0_=Uint8Array(createarraywithbuffer([78,111,116,101,80,97,100,67,111,110,116,101,110,116,49,50]));
+o
+x
+r12=hole.#@o=#CryptoUtils(object2,object3,hole,["chacha2oEncrypt",
+"&entry/src/main/ets/utils/CryptoUtils&.#~@o>#chacha2oEncrypt"，1,"chacha2oDecrypt"，"&entry/src/main/
+objr12.prototype;
+modulee
+=r12();
+return null;
+口
+IPython: C:Users/Moxuan Wan
+PsC:\Users\MoxuanWang>ipython
+Python3.13.2/packagedbyAnaconda,Inc.(main,Feb62025,18:49:14)[MSCv.192964bit(AMD64)] Type'copyright','credits'or 'license'for more information
+IPython 9.2.o -- An enhanced Interactive Python.Type '?'for help.
+Tip:Puta';'attheendofalinetosuppresstheprintingofoutput.
+In[1]：[78，111，116，101，80，97，100，67，111，110，116，101，110，116，49，50]
+[78,111,116，101,80,97,100，67,111,110，116,101，110，116,49,50]
+Outrl：
+In[2]:for iin-
+print(chr(i),end=)
+NotePadContent12

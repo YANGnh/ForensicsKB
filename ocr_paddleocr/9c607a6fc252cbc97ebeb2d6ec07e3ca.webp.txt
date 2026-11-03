@@ -1,0 +1,12 @@
+# OCR: 9c607a6fc252cbc97ebeb2d6ec07e3ca.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/9c607a6fc252cbc97ebeb2d6ec07e3ca.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+终端×
+rootalocalhostsglmap#find/-nanetouzilc3.txt/home/sglmap/touzilc/touzilc3.txt
+[root@localhostsglmap#cd/home/sglnap/touzilc/ Froot@localhosttouzilc#ls
+touzi
+touzii.txttouzi2.txt
+[root@localhost touzilc#
+touzilc3.txt

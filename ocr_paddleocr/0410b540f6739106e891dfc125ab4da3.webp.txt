@@ -1,0 +1,15 @@
+# OCR: 0410b540f6739106e891dfc125ab4da3.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/0410b540f6739106e891dfc125ab4da3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+no-strateoy-
+datasource:
+MACHE
+type:com.alibaba.druid.pooL.DruidDataSource driver-cLass-name:
+con.mysql.cj.jdbc.Driver
+#当前数据源操作类型#mysqi驱动包com.ny
+url:jdbc:mysql://rm-bp18td28bsh13f5jy.mysql.rds.aliyuncs.con:336/sxj_prod?a&useUnicode=true&autoReconnect=true&useAffectedRows=true&usessL=faLse&serverTim
+username:root
+123456
+word:

@@ -1,0 +1,34 @@
+# OCR: 1e9e6098a372264af1fb8bb4e4972424.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/1e9e6098a372264af1fb8bb4e4972424.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+EXPLORER
+OPENEDITORS
+X
+2.sql
+/BINLOG =2.sql
+binlog.000001 binlog.000002 =only_in_new.txt order_ids_new.txt order_ids.txt
+=2.sql 2.sql 507413 587414 587415 597416 587417 507418 507419 587428 587421 587422 507423 587424 507425 587426 507427 587428 507429 507430 587431 587432 587433 587434 507435 507436 587437 5e7438 587439 587448
+x
+#25091820:58:54serverid1end_1og_pos6756776CRc32ex8851182f SETTIMESTAMP=1758200334/*|*/:
+SET@@session.foreign_key_checks=1/*|*/;
+BEGIN 1*1*/;
+#at6756776
+#25091820:58:54serverid1end1ogpos675689eCRc32x590fed44#at6756890
+#25e9182e:58:54serverid1end1og_pos675719eCRc32exc1e28291
+### DELETE FROMdujiaoka.orders### WHERE
+###################################################
+@1=6924/*LoNGINTmeta=enullable=eisnull=e*/
+Querythread_id=12
+Tablemap:
+ex
+"dujiaoka
+Delete_rows: table id
+@2=4V8XNK8Q02MD5D2R/*VARSTRING(45e)meta=45enu11able=eis_nu1l=e*/
+@3=7/*INTmeta=enullable=eis_null=e*/@4=e/* INTmeta=e nullable=1 isnull=e*/
+@5=鳄豹燈湾?缇衣翁国網斤璐佛漢爆網海厅铸吓甫鋪溝磅爆奸共惧回涓娣佛寸橱@6=1 /* TINYINTmeta=e nullable=eisnull=e */
+@7=7.00/*DECIMAL(10,2)meta=2562nullable=eis_null=e*/@8=7/* INTmeta=enullable=0is_null=e */
+@9=0.0e/*DECIMAL(10,2)meta=2562nullable=0is_null=e*/@10=0.0e/*DECIMAL(10,2)meta=2562nu1lable=0is_null=e*/@11=49.00/*DEcIMAL(1o,2)meta=2562nullable=0isnull=e*/@12=49.ee/*DECIMAL(10,2)meta=2562nullable=e is_null=0*/@13=，/*VARSTRING(6ee)meta=60enullable=1 is_null=e*/
+@14=frankmorrison3462@outlook.com'/*VARsTRING(6ee)meta=6eenullable=eisnull=0@15=*-/*BLOB/TEXTmeta=2nullable=1is_null=e
+@16=14/*INTmeta=enu1able=111公众号·金星路406取证人@17='55.159.149.213/*VARSTRING(15e)meta=15enullable=eisnull=e*

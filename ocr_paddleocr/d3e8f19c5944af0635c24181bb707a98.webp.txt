@@ -1,0 +1,28 @@
+# OCR: d3e8f19c5944af0635c24181bb707a98.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/d3e8f19c5944af0635c24181bb707a98.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+importos importsys
+fromCrypto.CipherimportAEs
+fromCrypto.Util.Paddingimportunpad
+defdecrypt_file(encrypted_path,password):
+#从加密文件中读取IV和盐值
+withopen(encrypted_path,rb)asf_in:
+iv =f_in.read(16)# AEs.block_size == 16
+salt = f_in.read(32)#从文件中读取剩余的数据 data = f_in.read)
+#使用PBKDF2派生密钥
+key=PBkDF2(password,salt,dkLen=32,count=10000000o)#创建AES对象并解密数据
+cipher=AES.new(key,AEs.MoDE_cBc,iv)
+decrypted_data=unpad(cipher.decrypt(data),AEs.block_size)
+#确定原始文件路径
+file_path=os.path.spiitext(encrypted_path)[o]#将解密后的数据写入原始文件路径
+withopen(file_path,'wb)asf_out:
+f_out.write(decrypted_data）
+print(f"Filedecrypted successfuily:{file_pathj"）
+-_name
+-_main_
+iflen(sys.argv)!=3:
+print("Usage:pythondecrypt.py<encrypted_file_path><password>") sys.exit(i)
+encrypted_path= sys.argv[1i] password=sys.argv[2]
+decrypt_file(encrypted_pathpassword)

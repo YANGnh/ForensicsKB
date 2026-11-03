@@ -1,0 +1,25 @@
+# OCR: 01aadd7d6f985ebb32ae3b83d1d2438e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/01aadd7d6f985ebb32ae3b83d1d2438e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+表(T)
+id
+HIDE APP
+APP_NAME
+过滤过滤
+1 2 3 4 5
+悟空浏览器 2
+威尼斯
+3 Mattermost
+过滤
+照
+PACKAGENAME
+com.cat.readall
+0
+w2a.w2Ah5.jsgjzfx.org.cn com.mattermost.rn
+4 Clash for Android com.github.kr328.clash
+5Telegram
+ICOn 过滤 BLOB BLOB BLOB BLOB
+org.telegram.messenger.web
+BLOB

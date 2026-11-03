@@ -1,0 +1,70 @@
+# OCR: 76614ce332efe68ac96d53dbe5272656.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/76614ce332efe68ac96d53dbe5272656.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+E新津文
+文性(F) 文件来工作区 5
+JSONfile
+赵x光的OppO手机报每svstemloa.ison-Notepad+
+视图(V)
+amera
+编码(N)
+语言）
+设
+工具(O)
+宏(M)
+运行(R)
+插性(P)
+4C1 systemlog.json 区
+FAE
+窗口(W)
+·口日用
+数据服务平台：850.3KB；用户体验计划：731.5KB；oPpo.uid.instant：675.8KB手机管家：615.3KB；应用使用时间：362.2KB；system：313.2KB；智能识别陌生号码：292.7KB；root： 248.4KB；相册：182.7KB；：158.2KB；gps：80.7KB；天气服务：74.1KB；WLAN安全检测：60.2KB；我的oPPO:57.6KB；com.mobiletools.systemhelper.uid：34.0KB;
+com.heytap.osec.kms:33.1KB；Regservice:14.2KB；networkstack:13.6KB；com.google.uid.shared:13.4KB；GooglePlay服务更新程序：9.4KB；个性化定制：8.5KB; 文件管理：7.7KB；远程守护服务：7.6KB；AndroidSystemWebview：6.5KB；应用增强服务：6.2KB；cTAutoRegist：2.2KB；android.media：1.2KB；CommercialService：816B
+手机搬家：330B"，"tota1Used"："2.3GB"，"wifiDetai1"："软件商店：1.1GB：腾讯地图：431.1MB：微信：381.9MB：云服务：263.3MB：欢喜斗地主：93.0MB；乐划锁屏：21.0MB：全局搜索： 19.2MB：应用包安装程序：8.2MB；笔趣阁：6.9MB速览：4.8MB；浏览器：2.6MB；oppo.uid.gc：2.1MB；网络位置：1.4MB；搜狗输入法定制版：1.2MB；android.uid.htmsenV1.1MB；数据服务平台：850.3KB；用户体验计划：731.5KB；oPpo.uid.instant：675.8KB；手机管家：615.3KB；应用使用时间：362.2KB；system：313.2KB；智能识别陌生号码：292.7KB；root： 248.4KB；相册：182.7KB；：158.2KB；gps：80.7KB；天气服务：74.1KB；WLAN安全检测：60.2KB；我的oPPo：57.6KB；com.mobiletools.systemhelper.uid：34.0KB;
+com.heytap.osec.kms：33.1KB；RegService:14.2KB；networkstack:13.6KB；com.google.uid.shared：13.4KB；GooglePlay服务更新程序：9.4KB；个性化定制：8.5KB; 文件管理：7.7KB远程守护服务：7.6KB：Androidsystem Webview：6.5KB；应用增强服务：6.2KB；cTAutoRegist：2.2KB；android.media：1.2KB；CommercialService：816B；手机搬家：330B","wifiused"："2.3GB")，("date"："2025-04-01","mobileDetail"："","mobileUsed"："0B"，"totalDetail"："软件商店：53.5MB；乐划锁屏：7.6MB；：1.1MB；system：
+387.5KB；android.uid.htmsenv：375.2KB；用户体验计划：274.8KB；oppo.uid.gc：272.5KB；云服务：148.7KB；网络位置：98.3KB；速览：92.3KB；数据服务平台：55.7KB： oppo.uid.instant：48.8KB；更新服务：34.6KB；手机管家：23.4KB；软件更新：19.9KB；我的oPPo：19.2KB；comheytap.osec.kms：18.4KB；搜狗输入法定制版：16.1KB；智能识别陌生号码：11.9KB；个性化定制：8.8KB；远程守护服务：7.7KB；root：5.3KB；android.media：3.9KB；WhatsApp：
+2.5KB;com.mobiletools.systemhelper.uid:2.4KB;
+应用增强服务：995B；com.google.uid.shared：710B；network_stack：696B","totalUsed"："64.1MB"，"wifiDetai1""软件商店：53.5MB；乐划锁屏：7.6MB；：1.1MB；system：
+387.5KB；android.uid.htmsenv：375.2KB；用户体验计划：274.8KB；opPpo.uid.gc：272.5KB；云服务：148.7KB；网络位置：98.3KB；速览：92.3KB；数据服务平台：55.7KB； oppo.uid.instant:48.8KB:
+更新服务：34.6KB；手机管家：23.4KB：
+软件更新：19.9KB；
+我的oPPo：19.2KB；com.heytap.osec.kms：18.4KB；搜狗输入法定制版：16.1KB;
+智能识别陌生号码：11.9KB：个性化定制：8.8KB；远程守护服务：7.7KB；root：5.3KB；android.media：3.9KB；whatsApp：2.5KB；com.mobiletools.systemhelper.uid：2.4KB；应用增强服务：995B；com.google.uid.shared：710B；network_stack：
+696B","wifiused""64.1MB"}],"endDate":"2025-04-08","mobileDetai1"："","mobileUsed"："0B",
+"startDate"："2025-04-01"，"tota1Detai1"："软件商店：1.2GB；腾讯地图：431.1MB：微信：381.9MB：云服务：263.5MB欢喜斗地主：93.0MB；乐划锁屏：28.6MB；全局搜索：19.2MB；应用包安装程序：8.2MB；笔趣阁：6.9MB；速览：4.8MB；浏览器：2.6MB；oppo.uid.gc：2.3MB；网络位置：1.5MB；android.uid.htmsenv1.4MB；：1.3MB；搜狗输入法定制版：1.2MB 用户体验计划：1006.2KB；数据服务平台：906.0KB；oPpo.uid.instant：724.5KB；system：700.7KB；手机管家：638.7KB；应用使用时间：362.2KB；智能识别陌生号码：304.6KB；root： 253.8KB；相册：182.7KB；gps:80.7KB；我的oPPo：76.8KB；天气服务：74.1KB；WLAN安全检测：60.2KB；com.heytap.osec.kms:51.5KB；com.mobiletools.systemhelper.uid: 36.3KB；更新服务：34.6KB；软件更新：19.9KB；个性化定制：17.2KB；远程守护服务：15.3KB；networkstack：14.3KB；RegService：14.2KB；com.google.uid.shared：14.1KB； GooglePlay服务更新程序：9.4KB；文件管理：7.7KB；应用增强服务：7.2KB；AndroidSystemWebview：6.5KB；android.media：5.0KB；WhatsApp：2.5KB；cTAutoRegist：2.2KB; CommercialService：816B；手机搬家：330B"，"totalUsed"："2.4GB"，"wifiDetai1"：软件商店：1.2GB；腾讯地图：431.1MB：微信：381.9MB；云服务：263.5MB；欢喜斗地主：93.0MB; 乐划锁屏：28.6MB；全局搜索：19.2MB；应用包安装程序：8.2MB；笔趣阁：6.9MB；速览：4.8MB；浏览器：2.6MB；oppo.uid.gc2.3MB；网络位置：1.5MB；android.uid.htmsenv:
+1.4MB；：1.3MB；搜狗输入法定制版：1.2MB用户体验计划：1006.2KB：数据服务平台：906.0KB；oppo.uid.instant：724.5KB；system：700.7KB；手机管家：638.7KB；应用使用时间：
+智能识别陌生号码：304.6KB；root：253.8KB；相册：182.7KB；gps：80.7KB；我的oPPo：76.8KB；天气服务：74.1KB；WLAN安全检测：60.2KB；com.heytap.0sec.kms：
+362.2KB;
+51.5KB; 14.2KB
+5.0KB;
+com.mobiletoo1s.svstemhelper.uid：36.3KB：更新服务：34.6KB：软件更新：19.9KB：个性化定制：17.2KB：远程守护服务：15.3KB：networkstack：14.3KBReaService com.google.uid.shared：14.1KB；GooglePlay服务更新程序：9.4KB；文件管理：7.7KB；应用增强服务：7.2KB；Android SystemWebview:6.5KB；android.media:
+whatsApp:2.5KB；CTAutoRegist:2.2KB;CommercialService:816B;手机搬家:330B","wifiused":"2.4GB"}"startupTimeModel":("startupTime":"2025-04-08
+3""uninstallAppsModel":("details":[("lastusageTime""2025-04-0802:48:56","packageName""com.tencent.mobilegg","timeUsed":"00:07","usedCount":"2"
+19:50:2
+]),"usageEventsModel":("appForegroundEvents"：[("appName"："设置,"backgroundTimestamp":1744124169208"foregroundTimestamp"：1744124165537,"packageName""com.ardroid.settings","usedTime":3671l,("appName":"Applist","backgroundTimestamp":1744124165528,"foregroundTimestamp":i744124157552,"packageName":
+nnli-t"nu
+"com.fdrensic.
+，”语置
+ame
+"com.android.settings","usedTime":1597},("appName":"App1ist","backgroundTimestamp":1744124155875,"foregroundTimestamp":1744124155857,"packageName":"com.forensics.AppList","usedTime"：18)，"appName"："权限控制器","backgroundTimestamp"：1744124155825,"foregroundTimestamp"：1744124154859,"packageName"
+"com.android.permissioncontroller","usedTime":966),("appName":"Applist","backgroundTimestamp":1744124154851,"foregroundTimestamp":1744i24154780,"packageName":"com.forensics.AppList","usedTime"：71],("appName"："微信","backgroundTimestamp"：1744124154710,"foregroundTimestamp"
+":1744124149693,"packageName"
+"usedTime"：5017)，（"appName"："应用包安装程序"，"backgroundTimestamp"：1744124147200，
+"com.tencent.mm"
+"foreqroundTimestamp:1744124136026"packaqeName"：
+"com.android.packageinstaller"，"usedTime"：11174】，（"appName"："应用包安装程序"，"backgroundTimestamp"：1744124136o04，
+"foregroundTimestamp":1744124135887,
+"packageName"："com.android.packageinstaller","usedTime"：117)，("appName"："文件管理","backgroundTimestamp"：1744124135822
+"packageName"："com.coloros.filemanager","usedTime"：3259)，{"appName"："文件管理","backgroundTimestamp"：1744124132551,
+"foregroundTimestamp"：1744124132563
+"foregroundTimestamp"：1744124131224，
+"packageName"："com.coloros.filemanager"
+"usedTime"：1327]，{"appName"："微信","backgroundTimestamp":1744124131183,"foregroundTimestamp"：1744124056869,
+"packageName":"com.tencent.mm","usedTime":74314],("appName":"kitsuneMask","backgroundTimestamp":1744124056840,"foregroundTimestamp":1744124056697"packageName"："io.github.huskydg.magisk","usedrime":143]，{"appName"："微信","backgroundTimestamp":1744124056652,"foregroundTimestamp":1744124055488,"packageName"："com.tencent.mm"
+"usedTime":1164}，（"appName"："微信","backgroundTimestamp"1744124046124,"foregroundTimestamp"：1744124045976,"packageName"：
+length:68,618lines:1
+Ln:1 Col:19,258 Sel:143/1
+Windows(CRLF)UTF-8
+INS

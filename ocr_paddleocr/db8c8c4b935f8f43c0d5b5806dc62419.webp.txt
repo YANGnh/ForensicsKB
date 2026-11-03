@@ -1,0 +1,27 @@
+# OCR: db8c8c4b935f8f43c0d5b5806dc62419.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/db8c8c4b935f8f43c0d5b5806dc62419.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+CHARFileName[272];
+BYTEBuffer4096l://
+[rsp+170h]
+[rbp+7oh]BYREF
+[rsp+280h][rbp+180h]BYREF
+sub_180001DEe(FileName，260L，"%s.1"
+lpFileName);
+FileA = CreateFileA(lpFileName,GENERIC
+READ，，OLLOPENEXISTING，FILEREADATTRIBUTES,LL):
+FileA 1 = FileA;
+if（FileA==(HANDLE)-1LL)
+sub_180001D80((int)&unk_1800225A8，1pFileName);
+returneLL; 1
+nox5F5E1oo=SetFilePointer(FileAe,LL,FILE_END): SetFilePointer(FileA_1,o,oLL,FILE_BEGIN);
+if（n0x5F5E100>0x5F5E100） return oLL;
+hObject = CreateFileA(FileName,GENERICWRITE,o,oLL,CREATE ALWAYS,FILE READ ATTRIBUTES,oLL); if ( hObject == (HANDLE)-1LL )
+sub18ooe1D8e((int)&unk_18ee225ce,FileName); closeHandle(FileA_1);
+returnLL else
+while（ReadFile(FileA1,Buffer,exioeou,&NumberofBytesRead,oLL））
+·公众号·小谢取证
+NumberOfBytesRead 1-NumberOfBytesRead;

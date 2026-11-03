@@ -1,0 +1,12 @@
+# OCR: 772e7a9cdef5959aaf05a6e166348e4d.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/772e7a9cdef5959aaf05a6e166348e4d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+public function del($time = o)
+$db=newBackup();
+if($db->delFile($time)){
+addlog（$time）；//写入日志
+$this-）success（"备份文件删除成功！"，'appmanager/databackup/ importlist');
+else
+sthis->error（"备份文件删除失败，请检查权限！"）;

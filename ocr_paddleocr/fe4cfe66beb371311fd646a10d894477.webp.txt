@@ -1,0 +1,101 @@
+# OCR: fe4cfe66beb371311fd646a10d894477.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/fe4cfe66beb371311fd646a10d894477.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:35
+
+action_log@main(media.20240601)-表-NavicatPremium
+文件
+编辑
+连接
+章看新建查询
+mcu1a.20240001
+main 表
+action_log
+ad ad_list
+表
+ad_player_ref
+category cut_task group
+group_playerref group userref led
+ledsend
+play_preset list
+收藏夹
+表
+play_preset list content play_preset_send_history player
+player_attribute playerupdate task program
+program_content program_send reserve_schedule
+reserve schedule item role
+role_permission roleuser_ref scheduling
+scheduling_content screen
+screen_group
+screen_grouptask
+screen_group_taskitem user
+user_attr
+userdefined 品视图
+工具
+视图对象
+窗
+帮助
+A-z 素引
+触发器
+用户
+查询
+actionlog@main(media.20240601)..
+昆开始事务
+自文本、
+了筛选
+排序用列
+content包含上傅槽案and content包含登入成功and
+content
+包含
++ id
++
+颤目
+√应用
++ +
+type
+7bf27660-da41-4050-b0 1e92a0e2-26f1-4fa2-b01 57061231-0287-4608-a3 9675b9b6-25bb-4fb2-a e23d4657-b825-4499-b! 454c9139-c87e-4798-92 c844040b-e7e4-4917-83 2abab8ea-804d-45c2-89 30fad562-940e-4215-ab 8390a9ba-3ab2-47b9-8 de204a11-88e1-4fe6-bc 4da1fdf7-8baf-47c0-9e0 e6d2497b-aef7-44e0-bd b80b9f46-7f00-4724-8er ed1c8b5b-d5c1-4661-a1 27f52dbe-9652-4e51-b8 bf1c0843-26b9-4cc4-b9: d92b951e-873e-425a-8e 514b2b1f-128d-42a8-95 419062e7-0007-458c-96 e4c8b2ff-a1c3-48bc-bc3 2ad30b0a-f42f-45a6-a8f b9e31e1d-84a1-440b-9l 5faf9ce4-1baf-4da6-85b
++
+-<×
+C
+1
+userld
+1 1
+备份
+自自动运行
+小
+模型
+player attribute @main (media.2024...
+6导入已导出数据生成
+account admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin
+userName
+admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin admin
+SELECT*,rowid"NAVICATROWID"FROM"main'.'actionlog"LIMITo,1000
+咖创建图表
+datetime
+图表
+2025-04-29 17:21:40.267 2025-04-29 17:21:46.271 2025-04-29 17:21:52.26 2025-04-29 17:21:58.272 2025-04-29 17:22:04.267 2025-04-29 17:22:09.269 2025-04-29 17:22:15.272 2025-04-29 17:22:21.274 2025-04-29 17:22:27.277 2025-04-29 17:22:33.269 2025-04-29 17:22:39.269 2025-04-29 17:22:45.27C 2025-04-29 17:22:51.268 2025-04-2917:22:57.272 2025-04-29 17:23:03.271 2025-04-29 17:23:09.27C 2025-04-2917:23:15.25 2025-04-29 17:23:21.269 2025-04-29 17:23:27.278
+ip
+192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100 192.168.20.100
+2025-04-2917:23:33.27C
+192.168.20.100
+2025-04-2917:23:39.27C
+192.168.20.100
+2025-04-29 17:23:45.269 2025-04-29 17:23:51.27C 2025-04-29
+17:2357.27
+192.168.20.100 192.168.20.100 192.168.20.100
+userAgent
+Mozilla/5.0 (Windows N Mozilla/5.0(WindowsN Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0(WindowsN Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0(WindowsN Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N Mozilla/5.0 (Windows N
+content
+截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固周：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002 截固：192.168.20.15002
+业
+O
+围
+丽
+国用
+datetime
+类型 DATE
+不是null 香
+默认值注释
+第1000条记录（共1000条）于第1页
+口
+x

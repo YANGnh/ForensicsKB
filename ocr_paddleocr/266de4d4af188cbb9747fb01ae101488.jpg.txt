@@ -1,0 +1,7 @@
+# OCR: 266de4d4af188cbb9747fb01ae101488.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/266de4d4af188cbb9747fb01ae101488.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+functionencrypt($str)
+return md5(C("AUTH CODE").$str);

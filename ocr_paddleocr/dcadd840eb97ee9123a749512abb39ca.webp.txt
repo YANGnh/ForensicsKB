@@ -1,0 +1,14 @@
+# OCR: dcadd840eb97ee9123a749512abb39ca.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/dcadd840eb97ee9123a749512abb39ca.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+encrypt_file(self,input_file,output_file=None): ifnotoutput_file:
+output_file=input_file+'.enc try:
+cipher=AES.new(self.enhanced_key,AES.MODE_CB iv=cipher.iv
+with open(file=input_file,mode='rb')as f:
+file_data =f.read)
+padded data = self.pad data(data-file data) encrypted_data=cipher.encrypt(padded_data） with open(file=output_file,mode='wb')asf:
+f.write(iv+encrypted_data)
+return(Trueoutput_file) exceptExceptionase:
+return(False，str(object=e))

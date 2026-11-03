@@ -1,0 +1,40 @@
+# OCR: 145d67cd72f4fe3c97f51727be14368c.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/145d67cd72f4fe3c97f51727be14368c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+画
+1int 2
+m 4 5 6
+8 9 10 11 12 13 14.
+15 16 17·
+18 19
+.·.·
+20 21 22 23 24 25 26 27 28 29 30 31
+IDA View-A
+x
+Pseudocode-A
+x
+fastcall main(int argc,const char **argv, const char **envp)
+HWND ConsoleWindow;// rax
+void *Bufferj // rsi Stream *stream; //rax int64v6;//rcx
+Stream*stream1;//rbp unsigned int size; // edi
+Consolewindow=GetConsolewindow(); Showwindow(Consolewindow,SwHIDE): Buffer = ali
+Stream =wfopen(L"RnRGawxlcy5lzGIiL",L"rb");
+stream 1 = streamj if(stream)
+fseek(stream,
+0,2)
+Size = ftell(Stream_1); fseek(stream_1,o,o):
+Buffer=jmalloc_base(size);
+fread(Buffer,1uLL, size,Stream_1); Size - Sizej
+fclose(stream_1);
+?
+Hex View-1
+打开读取文件内容
+调用rc4解密
+Src- Buffer;
+sub_140001BF0(v6,16LL,Buffer,Buffer);（Butter
+sub140001010("fail!!!\rln") sub_140001070()
+return o;
+内存加载解密后的文件
+公众号·小谢取证

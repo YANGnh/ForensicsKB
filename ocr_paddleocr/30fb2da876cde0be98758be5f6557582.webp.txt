@@ -1,0 +1,29 @@
+# OCR: 30fb2da876cde0be98758be5f6557582.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/30fb2da876cde0be98758be5f6557582.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+publicstaticfinal/*synthetic*/intf2797t=0;
+/*renamedfrom:r,reason:collision with root package name*/ publicfinalStringf2798r="TAG:222";
+/*renamedfrom:s,reason:colLision with root package name*/ publiccf2799s;
+@override//pe.f,androidx.activity.ComponentActivity,x.d,android.app.Activity publicvoidonCreate(Bundlebundle)
+super.onCreate(bundle):
+final int i6 = 0; final int i7 = 1; tryt
+Field declaredField=b.class.getDeclaredField("b"): declaredField.setAccessible(true):
+declaredField.getInt(b.class.getDeclaredField("a").get(null));
+Log.d(this.f2798r,"systeminitialized withreference:+b.f3473c[o]): catch(Exceptione6)f
+Log.e(this.f2798r,"systeminitializationfailed",e6);
+1
+r(1):
+c e7 = c.e(getLayoutInflater()); this.f2799s = e7;
+setContentView(e7.c()):
+getWindow().setLayout(getResources().getDimensionPixelsize(R.dimen.design_bottom_sheet_modal_width)
+c cVar = this.f2799sj if(cVar == null)[
+c2.e.k("binding"); thrownull;
+((TextView)cVar.f2519f).setText(getstring(R.string.welcome_message));
+c cVar2=this.f2799sj if (cVar2 == null)f
+c2.e.k("binding"); throw null;
+((Button)cVar2.f2516c).setonclickListener(newView.OnclickListener(this)(//from class:b1.g
+/*renamedfrom:f,reason:collisionwithrootpackagename*/ publicfinal/*synthetic*/
+c75e3a8b2df2275f;
+this.f2275f = this;

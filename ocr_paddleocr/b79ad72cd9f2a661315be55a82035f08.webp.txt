@@ -1,0 +1,12 @@
+# OCR: b79ad72cd9f2a661315be55a82035f08.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/b79ad72cd9f2a661315be55a82035f08.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+397 398 399 400 401 402 403
+king@api-server-2:~s sudo docker inspect d4cbIgrep MYsQL
+MYSoLUSER=root
+"MYSOLPASSWORD=7091
+"MYSOLDATABASE=productdb"MYSOLPORT=3306"
+MYSOLHO0ST=172.16.10.200"
+king@api-server-2:~s

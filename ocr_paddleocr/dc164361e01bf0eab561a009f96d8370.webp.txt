@@ -1,0 +1,15 @@
+# OCR: dc164361e01bf0eab561a009f96d8370.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/dc164361e01bf0eab561a009f96d8370.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+//
+if (fs.existsSync(KEY_STORAGE_FILE) {
+try //
+constfileKey=deriveKey(masterPassword,salt,32)//
+const encryptedKeys = JSON.parse(fs.readFileSync(KEY STORAGE FIL const decryptedData = decryptWithKey(encryptedKeys,fileKey);
+constkeys=JsoN.parse(decryptedData) return
+aesKey: Buffer.from(keys.aesKey."hex').
+jwtKey:keys.jwtKey 1catch(err)
+console.error(c从文件加载密钥出错：，err.message)
+/继续生成新密钥 1

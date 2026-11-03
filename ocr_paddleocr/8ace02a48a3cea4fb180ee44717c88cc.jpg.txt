@@ -1,0 +1,43 @@
+# OCR: 8ace02a48a3cea4fb180ee44717c88cc.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/8ace02a48a3cea4fb180ee44717c88cc.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+Securityutils
+hmport.cu.ruuyt.common.excepcron.servrceexcepcron,
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder; importorg.springframework.security.crypto.bcrypt.BCryptPasswordEncoder:
+/*Loadedfrom:ruoyi-admin.jar:BooT-INF/lib/ruoyi-common-3.8.2.jar:com/ruoyi/common/utils/SecurityUtils.class*/
+22 23
+24 28
+38 39 43
+53 54 58
+68 69 73
+81 82
+92 93 94
+1e5 96 1e7
+117
+public class Securityutilsf
+public static Long getUserId()
+tryt
+return getLoginUser().getUserId(); catch (Exception e)(
+thrownewServiceException（"获取用户ID异常"，（Integer）401）；
+public static Long getDeptId()
+try f
+return getLoginUser().getDeptId())catch(Exception e)(
+thrownewServiceException("获取部门ID异常"，（Integer）401)；
+public static StringgetUsername)
+tryf
+return getLoginUser().getUsername(): catch(Exception e)
+thrownewServiceException（"获取用户账户异常"，（Integer）401）：
+public static LoginUser getLoginUser()
+tryt
+return (LoginUser)getAuthentication().getPrincipal(): catch(Exception e)
+thrownewServiceException（"获取用户信息异常"，（Integer）401）
+public static Authentication getAuthentication()
+return SecurityContextHolder.getContext()-getAuthentication(); public static string encryptPassword(string password)
+BCryptPasswordEncoder passwordEncodernewBCryptPasswordEncoder(); return passwordEncoder.encode(password);
+public staticbooleanmatchesPassword(stringrawPassword,string encodedPassword)
+BCryptPasswordEncoder passwordEncoder =new BCryptPasswordEncoder(); return passwordEncoder.matches(rawPassword,encodedPassword);
+public static boolean isAdmin(Long userId)
+return userId != null && 1 == userId.longValue();

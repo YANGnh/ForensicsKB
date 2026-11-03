@@ -1,0 +1,34 @@
+# OCR: 8202590095acc91e8a13f7c993de88a3.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/8202590095acc91e8a13f7c993de88a3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+#!/usr/bin/python inportos
+inport time
+inport datetine
+inportpipes inport sys
+ar
+print("Usage:python test.py'password") sys.exut)
+db_host='localhost'
+db user='yourcode xyz
+db_user_password=yTmeRFKftLxynj8n dbnane=yourcodexyz
+backup_path=/www/backup/database now=datetime.datetime.now()
+timestamp=now.strftime(%Y%m%d%H%M%s）
+backup_foider=backup_path+'/'+time_stanp try:
+os.stat(backupfolder)
+except:
+os.mkdir(backupfolder)
+dunpcnd="mysgldunp-h"+dbhost+
+backupfolder)+"/"
++dbname+
+os.systen(dunpcnd) tine.sleep(1e)
+os.chdir(pipes.quote(backup_folder))
+zipcnd="zip-q-n-r-p os.systen(zipcnd)
+sql
+dbuser
+sys.argv[1].strip()
+-p"+dbuserpassword+
+dbname
+dbname
+".zip"+dbname+".sql"
+pipes.quote(

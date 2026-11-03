@@ -1,0 +1,34 @@
+# OCR: d563dcb26b1e54c9c773fe0a4e8f8332.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/d563dcb26b1e54c9c773fe0a4e8f8332.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark·遍踪TCP流(tcp.streameq4)·tcpdump2_tj.cap
+bash: no job control in this shell[www@localhostww.tpshop.com]s1s 1s
+4e4.html application backup
+build-php
+composer.json extend
+favicon.ico hgzb.ttf index.html index.php install
+LICENSE.txt 1.php
+nginx.conf nginx.conf2 nginx.conf3 nginx.htaccess
+peiqi.php phpinfo.php phpMyAdmin plugins pubiic README.md robots.txt router-php runtime template think
+thinkphp vendor
+[ww@localhostww.tpshop.com]scdappli cd application/
+[w@localhostapplication]s1s
+15 admin
+command-php common
+common.php config-php conf-yml
+database.php FastPwds.txt function.php goon2_lin
+goon2_lin.zip
+分组123,69客户编分组，10股务器分组，20tum(s人点去适择
+整个对话（1900bytes) 查找：
+ShowdataasASCll
+激掉此流
+打印
+另存为
+返回
+关闭
+流4
+x
+登找下一个(N）
+帮助

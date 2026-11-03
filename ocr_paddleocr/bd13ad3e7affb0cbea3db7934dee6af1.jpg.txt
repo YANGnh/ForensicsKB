@@ -1,0 +1,23 @@
+# OCR: bd13ad3e7affb0cbea3db7934dee6af1.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/bd13ad3e7affb0cbea3db7934dee6af1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+对象高保存
+localhost
+result@test(localhost)麦
+美化SQLO代码段
+查询创建工具
+test
+SELECTCOUNT(DISTINCT
+身份证）
+信息
+摘要
+结果1
+剖析
+COUNT(DISTINCT身份证）
+109
+状态
+*无标题-查询
+文本导出结果咖创建图表运行停止昆昌解释
+FROM resultWHERE 身份证LIKE310%

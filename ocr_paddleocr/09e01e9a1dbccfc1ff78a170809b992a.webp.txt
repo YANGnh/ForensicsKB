@@ -1,0 +1,28 @@
+# OCR: 09e01e9a1dbccfc1ff78a170809b992a.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/09e01e9a1dbccfc1ff78a170809b992a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+publicfinalbyte
+try
+AESB64Encrypt(byte[]bArr)
+returrnativeAESB64Encrypt(bArr):
+catch
+(Error e)t returnnull;
+}catch(Exception e2)[
+return null;
+子
+String
+public final
+if(str
+== null return null;
+try
+byte return
+AEsB64Encrypt(Stringstr,Stringstr2)
+str.length()<= e l str2 == null)(
+AEsB64Encrypt
+AEsB64Encrypt
+}catch(Exception e)(
+returnnull;
+AEsB64Encrypt(str.getBytes(str2)):
+!=null?newString(AESB64Encrypt,str2):null;

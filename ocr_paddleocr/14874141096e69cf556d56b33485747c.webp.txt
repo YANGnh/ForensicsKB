@@ -1,0 +1,47 @@
+# OCR: 14874141096e69cf556d56b33485747c.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/14874141096e69cf556d56b33485747c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+[com.gunraiders]
+Package
+userld=10111
+(dd4e3ff)
+pkg=Package(756f5cc con.gunraiders)
+codePath=/data/app/~-Q21tEV4Pp_j-vgE8BQHeHg==/com.gunraiders-0yYqve1qG9DmUAobGF4tog=s
+resourcePath=/data/app/~-Q21tEV4Pp_j-vgESBQHeHg==/com.gunraiders-oyYqVe1qG9DmUAobGF4tog=s
+1egacyNativeLibraryDir=/data/app/--Q21tEV4Pp_j-vgE8BQHeHg==/com.gunra1ders-0yYqVe1qG9DmUAobGF4tog==/11b
+extractNativeLibs=true primaryCpuAbimarm64-v8a secondarycpuAb1nu11 cpuAb10verr1de=nu71
+vers1onCode=476 m1nSdk=29 minExtensionversions=[]
+versionName=10.6.5 usesNonSdkApi=fa1se sp1its=[base]
+apks1gningVers1on=2
+targetsdk=32
+app1icationInfo=PackageImp1(756f5cc com.gunraiders) f1agS=[ HAS_CODE ALLOW_CLEAR_USER_DATA]
+Pr1VateF1agS=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ] privateF1agsExt=[_PROFILEABLE]
+forceQueryable=false queriesPackages=[]
+queriesIntents=[Intent  act=com.android.vending.bi11ing.InAppBi11ingService.BIND }] dataDir=/data/user/o/com.gunraiders
+supportsscreens=[sma11, medium, 1arge, xlarge, resizeable,anyDensity] timestamp=2024-09-04 08:40:27
+firstInsta11Time=2024-09-0408:40:29 1astupdateTime=2024-09-04 08:40:29
+1nsta11erPackageNane=com.ocu1us.ocms s1gnatures=Packages1gnatures(6b30015
+s1gnatures:[57276f8d]，
+past signatures:[]]
+5vers1on:2,
+1nsta11Perm1ss1onsF1xed=true
+pkgF1agS=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+1nsta11 perm1ss1ons:
+android.permission.MoDIFY_AUDIo_SETTINGS:
+granted=true
+android.nermission.TNTERNET:granted-true
+android.permission.BLUETooTH_ADMIN:granted=true anaroTd.permTssTon.BkOADCAsT_STIcKY
+granteatrue
+andro1d.perm1ss1on.ACCESS_NETwoRK_STATE:
+granted=true
+andro1id.permiss1on.wAKE_LocK:granted=true
+User O:ceDatainode=29729689 1insta11ed=truehidden=fa1se suspended=fa1se
+distractionF1ags=o stopped=true notLaunched=true enab1ed=o
+instant=falsevirtual=false
+1astDisab1edca11er;com.oculus.ocms
+gids=[3003,3001] runtime permissions:
+android.permission.BLUETOOTH_cONNECT:granted=fa1se_f1ags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+android.permission,READ_EXTERNAL_STORAGE:granted=fa1se,f1ags=[ USER_SENSITIVE_HEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT] android.permission.REcoRD_AUDIogranted=fa1se,
+f1agS=[USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]

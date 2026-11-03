@@ -1,0 +1,38 @@
+# OCR: 72d457d380d9e642ece937572692e4b5.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/72d457d380d9e642ece937572692e4b5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+2.easyapk.apk 源代码
+>bandroid.support.v4
+>androidx vbcom
+Dgoogle.android.material vbhl.easyapk
+@AppSigning@BuildConfig
+@cache extCache@extFiles@files
+@MainActivity@prefs
+SP_TAGString fmContextContext prefs()void prefs(Context)
+void
+mread() String save()void
+CR@sha
+资源文件
+APK signature 国Summary
+MainActivity
+prefs
+packagecom.hl.easyapk;
+importandroid.content.Context;
+import android.content.SharedPreferences;/*Loadedfrom:cLasses3.dex*/
+12 13 16 18
+21 22 23 25
+26 3e 2 34
+public class prefs
+private static final String Sp TAG ="myprefs";
+private Context mContext; publicprefs()
+publicprefs(ContextmContext)
+this.mContext = mContext; publicvoidsave()
+SharedPreferencesspthis.mContext.getSharedPreferences(SpTAG,e);
+SharedPreferences.Editor editor - sp.edit(); newAppSigning();
+editor.putString("sign",String.valueOf(AppSigning-getSignInfo(this.mContext,AppSigning.MD5))); editor.commit();
+public Stringread()
+saveO:
+SharedPreferences sp=this.mContext.getSharedPreferences(SPTAG,e);
+String data=sp-getstring("sign"," return data;

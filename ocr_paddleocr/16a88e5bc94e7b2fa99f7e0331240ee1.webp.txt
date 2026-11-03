@@ -1,0 +1,36 @@
+# OCR: 16a88e5bc94e7b2fa99f7e0331240ee1.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/16a88e5bc94e7b2fa99f7e0331240ee1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+SpFunSet
+X
+c
+HttpstateUseTool
+X
+c
+JniCallNative
+package q2foq.i9clx.z0hfr.SetTool.ToolUse.PurposeUse; importjavax.crypto.cipher;
+import javax.crypto.KeyGenerator;
+importjavax.crypto.spec.SecretKeySpec;
+X
+c
+AesEncryptuseutils
+importq2foq.i9clx.zohfr.SetTool.Tooluse.ConfigDataSetUse.Base64UseTool;
+X
+/*Loadedfrom：D：1检材题目\广西公安系统第二届职业技能竞赛电子数据取证分析赛项：镜像l导出lq2foq.i9cLx.z0hfrlcookie68489 public class AesEncryptuseutils
+private static final String ALGORITHMSTR ="AES/ECB/PKCS5Padding";
+publicstaticfinalStringEKEY="WgY9oA5kNoxjrvaFf9ovvicxxEiHaSPxvwwosIRJ2vM="; public static final String KEY =""
+publicstaticStringencrypt(stringstr,Stringstr2)throwsExceptionf
+KeyGenerator.getInstance("AEs").init(128)
+Cipher cipher = Cipher.getInstance(ALGORITHMSTR);
+cipher.init(1,newSecretKeySpec(str2.getBytes(),"AEs"));
+return Base64UseTool.encodeBase64string(cipher.doFinal(str.getBytes("utf-8")));
+1
+public static String decrypt(String str,String str2)throws Exception{
+KeyGenerator.getInstance("AEs").init(128);
+Cipher cipher = Cipher.getInstance(ALGORITHMSTR);
+cipher.init(2,newSecretKeySpec(str2.getBytes(),"AEs"));
+return
+newString(cinher
+doEinai(Base64useTooidecodeRase6A(stn

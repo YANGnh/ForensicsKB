@@ -1,0 +1,41 @@
+# OCR: e49d32ae99b0530a402f384fbdd29497.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/e49d32ae99b0530a402f384fbdd29497.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+对象
+昆开始事务 id
+vm@main(vmos)-表
+自文本
+vmid
+5 6
+又筛选排序
+uuid
+1d38fe59a3c4ee883 2a824fed37b89b122
+导入导出数据生成咖创建图表
+rominfo
+envinfo
+default env info
+propertyinfa
+create
+('guestSystem ("android_id
+f"androidid'：5a163f'customBatteryLe2024-
+("guestSystem ("android_jid ("android id:"d6f4fe("customBatteryLe 2024-
+{"android id";"52ae067768e09e98"
+build bootimage fingerprint"
+"board platform":"universal21oo r","brand":"samsung","bt addres
+"samsung/t2sksx/t2s:9/P03A.190801.002/eng.dpi.20191015.144423:user
+2019","build dateutc":"1571121863","build description":"t2sksx-user 9 P03A.190801.002 eng.dpi.2 t2sksx-user9PQ3A.190801.002eng.dpi.20191015.144423release-keys"
+""build_fingerprint"
+samsung/t2sksx/t2s:9/PQ3A.190801.002/eng.dpi.20191015.144423:user/release-keys
+"pQ3A.190801.e02","buildsecuritypatch"
+"buildflavor""build_type"."
+2019-10-i","buildtags""release-keys"
+samsung/t2sksx/t2s:9/PQ3A.190801.002/eng.dpi.29191915.
+144423:user/release-kevs
+"cellcid":-i,"cellLac":-1
+"characteristics
+“country":"cN"
+"build version
+"cpuCoreNumber":8,"cpuMaxFreq":20]
+"cHJvY2Vzc29yCTogMApCb2dvTU1QUwk6IDUyLjAwCkz1YXR1cmVzCTogZnAgYXNpbwQgZXZ0c3RybSBhZXMgcG11bGwgc2h W1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIGltcGxlbWVudGVyCTogMHgoMQpDUFUgYXJjaG1oZWNodXJ1OiA4CkNOV uCTogMAoKcHJvY2Vzc29yCTogMQpCb2dvTU1QUwk6IDUyLjAwCkz1YXR1cmVzCTogZnAgYXNpbwQgZXZ0c3RybSBhZXMgcG1 WlkIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIGltcGxlbWVudGVyCTogMHgoMQpDUFUgYXJjaG1oZWNodXJ10 1dmlzaW9uCTogMAoKcHJvY2Vzc29yCTogMgpCb2dvTU1QUwk6IDUyLjAwCkz1YXR1cmVzCTogZnAgYXNpbwQgZXZ0c3RybSE GhwIGNwdw1kIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIGltcGx1bWVudGVyCTogMHg0MQpDUFUgYXJjaG1oZ KQ1BVIHJ1dmlzaW9uCTogMAoKcHJvY2Vzc29yCTogMwpCb2dvTU1QUwk6IDUyLjAwCkz1YXR1cmVzCTogZnAgYXNpbwQgZXZ CBhc21tZGhwIGNwdWlkIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIGltcGx1bWVudGVyCTogMHgoMQpDUFUgY gMHhkMDUKQ1BVIHJ1dmlzaW9uCTogMAoKcHJvY2Vzc29yCTogNApCb2dvTU1QUwk6IDUyLjAwCkZ1YXR1cmVzCTogZnAgYXN

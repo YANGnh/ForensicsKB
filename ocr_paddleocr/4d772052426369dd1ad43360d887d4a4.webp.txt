@@ -1,0 +1,24 @@
+# OCR: 4d772052426369dd1ad43360d887d4a4.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/4d772052426369dd1ad43360d887d4a4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+ML 自
+home mobile
+PwnKit-Exploit-main.htaccess
+command.php common-php
+conf.yml config-php
+database.php FastPwds.txt
+28 29 30 31 32 33 34 35 36 37 38
+终端×
+return Sarr2;
+functionencrypt(sstr)
+return md5(C("AUTH_CODE").$str); 获取数组中的某一列
+@param typesarr数组
+type skey_name
+eparam +
+admin/controller/User.php: D;
+列名
+Suser
+admin/logic/UsersLogic.php:
+function.php:function encrypt(sstr)

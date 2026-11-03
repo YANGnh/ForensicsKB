@@ -1,0 +1,46 @@
+# OCR: 6833bedcffa111800ac232bebdaab2ed.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/6833bedcffa111800ac232bebdaab2ed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+er
+文本搜索：f75577b 搜索文本：
+f75577b
+在以下位置搜索：
+doases
+importnet.sqlcipher.database.sQLiteopenHelper;/*renamedfrom:i2.a*/
+/*Loadedfrom:classes3.dex*/
+publicclassDBcipherHelperextendsSQLiteopenHelper{
+/*renamedfrom:a
+public static String renamedfrom:b public static Strin
+renamedfrom:
+f75576a="dingtong.db";
+f75577b
+搜索选项：
+类名 方法名 字段名 代码 资源 注释
+节点
+lication.onCreate()
+void
+lication.onCreate()
+void
+lication.onCreate()
+void
+lication.onCreate
+void
+lication.onCreate()
+void
+577bString
+"@1@#!aajsk1*JKj"
+冈忽略大小写
+正则表达式口只在当前页搜索
+f33514t=dBcipherHelper.getWritableDatabase(DBCipherHelper.f75577b);
+this.f33533o=dBCipherHelper.getReadableDatabase(DBCipherHelper.f75577b);
+DataBaseEncrypt.m12058b().m12059a(this,DBCipherHelper.f75576a,DBCipherHelper.
+f75577b);
+f33514t=dBCipherHelper.getwritableDatabase(DBCipherHelper.f75577b);
+this.f33533o=dBCipherHelper.getReadableDatabase(DBCipherHelper.f75577b)
+f75577b="@1@#!aajsk1*Jkj";
+publicstaticString
+口
+x
+?自动搜索

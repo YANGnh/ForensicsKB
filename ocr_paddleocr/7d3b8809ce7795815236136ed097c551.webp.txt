@@ -1,0 +1,6 @@
+# OCR: 7d3b8809ce7795815236136ed097c551.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/7d3b8809ce7795815236136ed097c551.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+licstaticfinal/*synthetic*/intf2797 renamedfrom:r,reason:collisionwith ro licfinalStringf2798r="TAG:222";

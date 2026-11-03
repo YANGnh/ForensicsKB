@@ -1,0 +1,35 @@
+# OCR: a9e923fc9350b0f174d7df2a2ef92a78.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/a9e923fc9350b0f174d7df2a2ef92a78.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+##Usage
+Starttheprogramwitharguments
+python run.py [options]-h,--help
+SSOURCEPATH,--SourceSOURCEPATH-t TARGET PATH, --tarqetTARGET PATH-OOUTPUTPATH,--outputOUTPUTPATH
+showthishelpmessageandexit
+select an source image
+select antargetimage orvideo select output file or directory
+-frame-processorFRAMEPROCESSOR[FRAMEPROCESSOR..]
+-keep-fps
+-keep-frames--skip-audio-many-faces
+keeptargetfps
+frameprocessors(choices:faceswapper,faceenhancer,..)
+keeptemporaryframes
+skiptargetaudio processeveryface
+-reference-face-positionREFERENCEFACEPOSITION
+-reference-frame-numberREFERENCEFRAMENUMBER-similar-face-distanceSIMILARFACEDISTANCE
+-temp-frame-formatjpg.png)-temp-frame-quality[0-100]
+position of thereferenceface
+numberof the reference frame
+facedistanceusedforrecognition
+imageformat usedforframeextraction imagequalityusedforframe extraction
+-output-video-encoder(libx264,libx265,libvpx-vp9,h264nvenc,hevcnvenc)encoderusedfortheoutputvideo
+-output-video-quality [0-100]-max-memoryMAXMEMORY
+-execution-provider(cpu)[(cpu).]
+-execution-threadsEXECUTIONTHREADS-v,--version
+quality used for the output video
+maximumamountofRAMinGB
+availableexecutionprovider(choices:cpu,..)
+number ofexecutionthreads
+showprogram'sversionnumberandexit

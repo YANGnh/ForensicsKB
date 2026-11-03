@@ -1,0 +1,12 @@
+# OCR: ec450ebe83d67be2b425531967912d36.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/ec450ebe83d67be2b425531967912d36.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+1
+消息数据
+SELECTCOUNT(*）FROM"ZCALLRECORD"WHEREZDATE>='746692798.229586'ANDZADDRESS='63791704
+摘要信息
+COUNT()
+结果 1
+88

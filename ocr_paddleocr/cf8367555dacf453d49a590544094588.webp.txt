@@ -1,0 +1,15 @@
+# OCR: cf8367555dacf453d49a590544094588.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/cf8367555dacf453d49a590544094588.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+[root@izbp1gna2uf9hvsnbu9mdkzconf.d]#catadmin.conf server
+Listen82:
+server_nameLocalhost Location/
+root/www/admin/build
+index index.html index.htn,
+server
+listen 83. server_name
+Localhost;
+location/
+root/www/admin/tty/build: indexindex.htnlindex.htn

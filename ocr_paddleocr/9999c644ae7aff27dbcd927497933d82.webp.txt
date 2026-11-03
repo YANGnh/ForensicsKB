@@ -1,0 +1,21 @@
+# OCR: 9999c644ae7aff27dbcd927497933d82.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/9999c644ae7aff27dbcd927497933d82.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:32
+
+企主页
+ESXi1
+vcsa
+ConfigureManaqementNetuork
+Netuork Adapters VLAN (optional)
+IPy4Configuration IPu6Conf iquration DNS Conf igurat ion Custon DNS Suffixes
+<Up/Doun>Select
+X
+DNS Conf iquration Manual
+PrimaryDNsServer: 192.168.10.99
+AlternateDNsServer： 114.114.114.114
+Hostnane esxii
+If this host is configured using DHcP, DNS server addresses and other DNsS paraneters can be obtained autonatically. If
+not, ask your netuork administrator for the appropriate settings.
+<Enter> Change
+<Esc>Exit

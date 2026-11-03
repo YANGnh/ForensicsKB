@@ -1,0 +1,17 @@
+# OCR: cf57cee3b40aa44ddadf3a673d41e912.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/cf57cee3b40aa44ddadf3a673d41e912.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:28
+
+select*fromim_user where id=76d866ae418946cba6eec6bc423613ed
+FOR
+查询结果
+状态rd
+ENS
+introduce
+如果世界有撤回键
+locationAddress CN
+maritalStatus RENS
+mobile
+FOREN
++8614499466022

@@ -1,0 +1,17 @@
+# OCR: ae285253f1cad932c8e3c755990ed97c.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/ae285253f1cad932c8e3c755990ed97c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+eb 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+X
+eCryptoConfig
+package com.facebook.crypto;/*Loadedfrom:classes.dex*/
+public enum
+CryptoConfigf
+KEY128((byte)1,16,12,16) KEY256((byte)232,12,16);
+public final byte cipherId: public final int ivLength; public final int keyLength; public final int tagLength;
+CryptoConfig(byte chiperId,int keyLength,int ivLength,int tagLength){
+this.cipherId=chiperId;
+this.keyLength=keyLength; this.ivLength = ivLength; this.tagLength = tagLength;
+公众号·小谢取证

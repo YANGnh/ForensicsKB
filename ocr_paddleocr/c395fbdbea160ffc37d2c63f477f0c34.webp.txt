@@ -1,0 +1,36 @@
+# OCR: c395fbdbea160ffc37d2c63f477f0c34.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/c395fbdbea160ffc37d2c63f477f0c34.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+GET / HTTP/1.1
+Host:192.168.0.116
+User-Agent:Mozilla/5.0(x11:Linuxx8664;rv:19.@)Gecko/20100101Firefox/115.0
+Accept:text/html,application/xhtml+xml,application/xml;g=o.9,image/avif,image/webp,*/*;g=e.8
+Accept-Language:en-us,en;q=o.5 Accept-Encoding:gzip,deflate Connection:keep-alive
+Upgrade-Insecure-Reguests:1 HTTP/1.141Unauthorized
+WwW-Authenticate:Basicrealm="Authentication"
+Date:Thu,22May202505:52:10GMT Content-Length:?
+Content-Type：text/html;charset=UTF-8 GET/HTTP/1.1
+Host:192.168.0.110
+User-Agent:Mozilla/5.0（(x11;Linuxx8664:rv:109.0)Gecko/20100101Firefox/115.0
+Accept:text/html,application/xhtml+xml,application/xml;g=o.9,image/avif,image/webp,*/*;g=o.8
+Accept-Language:en-us,en;q=o.5 Accept-Encoding:gzip,deflate Connection:keep-alive
+Ipar
+Pegueets:1
+Authorization:Basiccm9vdDpxd2uxMiMxMiM: HTTP/1.1200OK
+cache-Control:no-cache
+Access-Control-Allow-Origin:*
+Content-Type:text/html Content-Length:224
+Date:Thu,22May20255:52:30GMT
+<!DOCTYPEhtml> <html lang="en">
+<head>
+<metacharset="utf-8">
+<metacontent="e;url=/cgi-bin/status.cgi"http-equiv="refresh">
+<metacontent="no-store"name="cache-control" <title>openIPc</title>
+</head>
+</html>
+GET/cgi-bin/status.cgiHTTP/1.1 Host:192.168.0.110
+User-Agent:Mozilla/5.0（(x11;Linuxx8664:rv:109.0)Gecko/20100101Firefox/115.e
+Accept:text/html,application/xhtml+xml,application/xml;g=o.9,image/avifimage/webp,*/*;g=o.8
+Accept-Language:en-us,en;g=o.5 Accept-Encoding:gzip.deflate

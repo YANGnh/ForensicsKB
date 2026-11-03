@@ -1,0 +1,64 @@
+# OCR: b0d2b8512bce42a6edf50fe3bd4c60b6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/b0d2b8512bce42a6edf50fe3bd4c60b6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+o1oEditor-C:Users)NoahTieDesktopl我的手机号
+File
+Edit
+Select
+我的手机号×
+0:0000 0:0010 0:0020 0:0030 0:0040 0:0050 0:0060 0:0070 0:0080 0:0090 D:00A0:00B1:00c
+:00E：00 0:01： 0:01
+FindResults
+Address
+86
+Find
+VariablesOutput
+View Value
+Format
+Y
+Find Results
+Scripts
+Templates
+5@
+0
+2
+Find in Files
+Debug AB
+DO 8 9
+Project
+Tools
+Window
+vt5.J.p#g%iiD
+G.
+.ekEUoi.
+wh.1f-.EED-n..12 UnDvS!.euia.MCM ax..yG>STITF 2e
+.auigih..*
+Y+ey/
+7YL"1YUT1DZA0>< o】#q#NQ[bo.16 I'Qr.*=BSMiz~ +Jn-C2.OE'.0'O!)s Utoi-..."). +2Ay.oy.8YeoJY.
+.una:
+b..2.%1.
+EP+Mjiey..R.(+5"
+On..u.Yii E3AE5.C-o.ags.t..
+a
+Asoecto
+Type Binary
+Signed Byte Unsigned Byte Signed Short
+Inspector
+网
+-aic1os
+H401i.>》 EKJt6Uoe&
+V..A.Ot
+Help
+Value
+00000001 30209
+Visualize
+OpenedfileCUsers\NoahTie\Desktop我的手机号'Pos:0[0h]Val:11hSize:1.048.576
+口
+Bookmarks
+fo
+ANSI LIT Hex
+X
+电OVR
+X

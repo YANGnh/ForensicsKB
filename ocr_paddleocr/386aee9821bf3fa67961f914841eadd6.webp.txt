@@ -1,0 +1,41 @@
+# OCR: 386aee9821bf3fa67961f914841eadd6.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/386aee9821bf3fa67961f914841eadd6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+签名
+数据库
+init ACE archive arj Binary Borland Cab COM
+CurlcoBPP duration ELF
+ELF.0.sg init
+Borland Kylix.4.sg
+Burneye.2.sg ELFCrypt.2.sg FASM.4.5g Flexlm.4.sg
+FreePascal.4.sg
+gcc.4.sg GLIBC.3.sg Go.4.sg HASP.1.sg HPC++.4.5g
+IBM Alxkernel loader.sg OracleSolarisStudio.4.sg
+QT.3.sg Due+ A
+保存递归扫描
+查找
+13 14 15 15 17 09222
+只读 √深度扫描
+下一个
+详细
+return sResult:
+√启发式扫描
+detect
+Detect
+√排序类型
+运行
+口
+调试
+x
+V显示到
+V显示到
+function detect(bShoIype,bsho-fersion,bShooptions)
+if(ELF.compareEP("31ed5e89e183e4..50545268..
+68.
+..515668....
+if(ELF.copareEP("$$$$$$$$57565383ec..8b7424..8b7c24..8b5c24..b8.
+stersion="4.7.2(exe)"
+保存结果
+关闭

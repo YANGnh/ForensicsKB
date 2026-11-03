@@ -1,0 +1,29 @@
+# OCR: b34b0d380c8e36dd7fba2e962da75bd3.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b34b0d380c8e36dd7fba2e962da75bd3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+多通
+[root@localhostCobaltstrike]#ls a1z41-941ba-01.icocNA
+agscript C2
+c2lint
+cobaltstrike
+cobaltstrike.bat cobaltstrike.jar
+cobaltstrike.store cobaltstrike.store
+cobaltstrike.store.bak csAqent.jar
+cs.vbs data
+downLoads
+hserrpid196.log
+[root@localhostCobaltstrike#-/teamserver192.168.217188123456
+业
+Will use existing x5og certificate and keystore (for ssL)
+Loadingpropertiesfile(/home/Cobaltstrike/TeamServer-prop)
+！
+Properties file (/home/Cobaltstrike/TeamServer-prop)was not found
++
+hserrpid5484.log icon.ico
+Ladon10.1020230503 Logs
+Teamserverisupono.o.o.59837
+SHA256hashof SSLcert is:6518555fb3c5bccc6c35efa2aa651ecc8566efof7128b69614fb6efbee5c43ee Listener:csmastarted!
+peclone resources ScriDts
+teamserver

@@ -1,0 +1,20 @@
+# OCR: b7676f9704200968c1a81f4a64242ca3.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/b7676f9704200968c1a81f4a64242ca3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+selectcount(member_id）人数，eft(address，2）省份
+frommembers groupby省份
+orderby人数desc:#江苏
+selectsum(ts.amount) from members m
+left join transactions ts on m.member_id = ts.payer_id
+whereleft(m.address,2)=江苏 and ts.type ='withdrawai';
+输出
+用
+A
+呷isum(ts.amount):double
+G
+Q
+F
+sum(ts.amount)
+2301065.1300000004

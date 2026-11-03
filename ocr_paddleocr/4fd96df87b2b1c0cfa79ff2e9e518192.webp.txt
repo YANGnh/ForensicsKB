@@ -1,0 +1,62 @@
+# OCR: 4fd96df87b2b1c0cfa79ff2e9e518192.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/4fd96df87b2b1c0cfa79ff2e9e518192.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+nginx-prox
+度 N
+logs nginx
+N
+conf.d
+api-server.conf
+docker-compose.yml
+test
+web-api
+app
+node modules src
+controllers middleware
+models routes
+auth.routes.js JS
+JS
+product.routes.js
+utils
+JS JS 国智
+appjs indexjs libJiami.so
+package-lock.json packagejson
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37
+终端
+const
+router
+//登录路由
+express.Router();
+router.post('/login',login); 注册路由
+router.post('/register',register);//获取用户个人资料（需要认证）
+router.get('/profile',authMiddleware,getProfile);//添加获取flag2的路由-只有通过调试才能获取真实的f1ag值 router.get(/flag2',(req,res)=>{
+//调用getflag2函数，该函数包含反调试逻辑，只在调试状态下返回真实flag const flag = getflag2();
+//不直接返回fla值，确保只有通过调试器才能获取 res.json(
+success: true, message: flag,
+result:
+“请使用gdb调试器进行调试获取口
+x
+ef00268cd13607971ee8b38f/d4cb231cae7fcef2c84d1418adb31450d37bc4bcef00268cd13607971ee8b3 8f-json.log
+king@api-server-2:~/web-api/appsgrep -r flag2 grep: libJiami.so: binary file matches
+*获取flag2，
+只能通过调试获取
+src/utils/encryption.js:
+src/utils/encryption.js:constgetfiag2.=,()=>[
+src/utils/encryption.js: src/utils/encryption.js: src/utils/encrvption.is: src/utils/encryption.js: src/utils/encryption.js:
+使用So库的get_flag2函数，只有调试才会返回真实flag
+returnlibJiami.
+fLag2
+qet
+console.error(获敢fLao2失败：！'get_flag2':[
+['string',[]]
+getflag2
+src/routes/auth.routes.is:const.
+getflag2
+error);
+=reauire(../utils/encrvption'):
+src/routes/auth.routes.js://添加获取flag2的路由只有通过调试牙能获敢真实的flag值 src/routes/auth.routes.js:router.get('/flag2
+(re,res)=>
+src/routes/auth.routes.js: 回直实fag
+//调甬getflag2函数，该函数包含反调试逻辑，只在调试状态下返

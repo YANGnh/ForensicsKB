@@ -1,0 +1,45 @@
+# OCR: 08512f2c1a8d81a9cf43d8ebff08bcde.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/08512f2c1a8d81a9cf43d8ebff08bcde.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+易
+回
+群全金
+/home/droid
+home
+目
+droid
+.cache Jocal.ssh
+.bashhistory.bashlogout
+.bashrc 国profile
+node2
+.sudo_asadminsuccessful
+百
+Xauthority
+install-docker.sh lost+found
+media mnt opt proc root run snap srv sys
+终端×
+WelcometoUbuntu 22.e4.4LTS(GNu/Linux5.15.@-1ee-genericx8664
+https://help.ubuntu.com
+Documentation：
+Management: Support:
+https://landscape.canonical.com https://ubuntu.com/pro
+SysteminformationasofMonMay2eo3:21:5oAMUTc2e24
+System load: Usage of/: Memoryusage: Swapusage:
+Q0107421875
+265%0f47.88GB
+7% e%
+Processes:
+147
+Userslogged in:
+IPv4addressfordockere:172.17.e.1
+IPv4addressforenp6s18:192.168.100.102
+IPv6addressfor enp6s18:fd24:2cf2:d6f8:0:be24:11ff:fe39:fd8a
+* Strictlyconfined Kubernetes makes edgeand IoT secure.Learn how Microk8s
+just raised the bar foreasy,resilient and secure K8s cluster deployment https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Expanded Security Maintenance for Applications is not enabled 6updatescanbeappliedimmediately
+To see these additional updates run: apt list-upgradable
+Enable EsM Apps to receive additional future security updates Seehttps:/ubuntu.com/esm or run:sudo pro status
+Thelist of available updates is more than a week old To check for new updates run:sudo apt update
+Lastloqin:MonMay2ee3:19:352e24 droidonode2:$

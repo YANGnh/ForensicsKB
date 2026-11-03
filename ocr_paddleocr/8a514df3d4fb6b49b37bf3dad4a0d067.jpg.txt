@@ -1,0 +1,36 @@
+# OCR: 8a514df3d4fb6b49b37bf3dad4a0d067.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/8a514df3d4fb6b49b37bf3dad4a0d067.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+?php
+Sconfig = array (
+'dbHost'=>127.0.0.1"dbuser=>'website
+"dbPwd=immNihCjepCrPpjd'"database'=>'website'
+'charset'=>utf8!"tbPrefix'=>‘oc'dbType"=>"mysqi!
+'normal!
+'register =>'mailauth'=?
+false
+'urlroot=>'urlrewrite'"filepath'
+http://192.168.217.188:7788 =>talse,
+/unn/unroot/weheitecom/unload
+V
+'fileprefix'
+http-//192.168.217.188:7788/upload'
+"theme=>'default ttemplate'=>
+default!
+"show'=
+array（
+sitename sitedesc!"keywords'
+'description adminmail
+pointt array（
+Laward=>
+'XSS平台！
+技术交流程序员，设计项目创业技术，网络安全技术文章1.2
+array（
+'publish'=>2,'comment'=>2
+linvitereg=>10
+timezone'=>Asia/shanghai' expires
+=>3600
+'debug
+=>true,

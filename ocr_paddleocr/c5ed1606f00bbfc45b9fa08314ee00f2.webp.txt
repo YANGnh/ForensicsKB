@@ -1,0 +1,48 @@
+# OCR: c5ed1606f00bbfc45b9fa08314ee00f2.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/c5ed1606f00bbfc45b9fa08314ee00f2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:38
+
+<sysdiagnose_2025.04.08_22-16-36+0800 iPhone-0s iPhone21F90
+名称
+mobile installation.log.0 mobile installation.log.1
+ mobile installation helper.lc mobile installation helper.ld
+zip
+目242KB
+脑，刘猫木行
+旧拍D文易胎布口立正：
+脑，其电脑中的一个压缩文件也记录了相同的BTC交易
+文件
+logs>Mobilelnstallation
+修改日期
+2025/4/822:12
+mobile_installation.log.0
+编辑
+查看
+类型 0文件
++
+大小
+243KB
+G
+o
+在Mobilelnstallation中搜索
+口
+<MlLaunchServiceslInreaister0neration:1C869A51-F4AF-4502.A092-AA6179F05817.13
+com.aswallpaper.n Thu Apr 3 15:07:5
+币界网.app
+X
+0
+x
+x
+onQueue removePendingLaunchServicesOperationForUUiD:dueloLSSave:J:Removing operation after LS save:
+<MILaunchServicesUnregisterOperation:5900F855-26D4-4852-9C19-B8886B3007BB:14 com.aisi.aisiring/MllnstallationDomainSystemShared>
+Tue Apr 8 21:49:26 2025 [715] <notice> (0x1f4973ec0) main: Reboot detected
+Tue Apr 8 21:49:26 2025 [715] <notice> (0x1f4973ec0) MllsBuildUpgrade: Current build version (21F90 / (null) equal to last version recorded (21F90 / (null); skipping upgrade
+Tue Apr 8 21:49:26 2025 [715] <notice> (0x1f4973ec0) MIFetchUIDForRegistration block invoke: UID for registration:501
+Tue Apr 8 21:49:26 2025 [715] <notice> (0x1f4973ec0) -[MlJournal reconcile]: Install journal is not enabled; skipping reconcile
+Tue Apr 8 21:49:27 2025 [715] <notice> (0x16f84b000) -[MIClientConnection
+installURL:identity:targetingDomain:options:completion:l: Running installation as QOS CLASS USER INITIATED
+Tue Apr 8 21:49:27 2025 [715] <notice> (0x16f84b000) -[MIClientConnection dolnstallationForURL:identity:domain:options:completion:l: Install of
+"/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.installcoordinationd/Library/lnstallCoordi nation/PromiseStaging/78B0EE28-4CE7-425C-87BA-176B518353FD/币界网.app" type Placeholder (LSInstallType = 1, Domain: MllnstallationDomainDefault) requested by installcoordinationd (pid 235 (501/501))
+Tue Apr 8 21:49:27 2025 [715] <err> (0x16f84b000) CreateCFBundle: Failed to get Info.plist URL from
+CFBundle Oxd261dc540 </Applications/DisplayCal.app> (not loaded); falling back to assumed path Tue Apr 8 21:49:27 2025 [715] <err> (0x16f84b000) CreateCFBundle: 310: Info.plist missing at

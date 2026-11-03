@@ -1,0 +1,40 @@
+# OCR: 77e4062b1e4254cbc3e550a4d419d6ef.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/77e4062b1e4254cbc3e550a4d419d6ef.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+客链
+[rootalocalhost/l#bt
+/www/server/panei/tools.py:78:SyntaxWarning:invalidescapesequencelc
+1+#！/bin/bash
+mysgl dir=
+/www/server/panel/tools.py:582:SyntaxWarning:invalidescapesequence* rep="^[w@]--j+s"
+-aaPanelCLI
+(1)Restart panel
+(2)Stoppanel(3)Startpanel(4)Reloadpanel
+(5)Changepanelpassword(6)Changepanel usernane
+C7)ForciblychanqeMysoLrootpassword(22)Displaypanelerrorlog
+(23)TurnoffBasicAuthauthentication
+(8)Changepanelport(9)Clearpanel cache(ie)Clearloginlimit
+(11)Cancel entrance limit
+(12)Cancel domain bindinglimit
+(13)CacelIP accesslimit(14)Viewpaneldefaultinfo(15)Clear systenrubbish
+(16)Repairpanel(checkforerrorsandupdatepanelfilestothelatestversion)
+(17)Set logcutting on/off conpression
+(24)Turn offGoogle Authenticator
+(25)Set whether to save a historical copy of the file(18)Set whether to back up the panel automatically
+(26)Keep/RemoveLocalbackupwhenbackinguptocloudstorage(o)Cancel
+pls enter command nuber:14 EXECUTING
+curl:（28)Resolving timed out after 1oeoe milliseconds aaPanel default info
+aaPanelInternetAddress:https://:32137/ba2ba7f1
+aaPanelInternalAddress:https://192.168.217.188:32137/ba2ba7f1
+/www/server/panel/tools.py:78:SyntaxWarning:invalidescapesequence Rysql_dir=.#!/bin/bash
+/www/server/panel/tools.py:582:SyntaxWarning:invalid escape sequence"
+rep="^[w@]._j+s" username:haz99wzt password:******** Warning
+If you cannot access the panel
+release the following port (8888 888 80|443|20|21) in the security group[root@localhost/#bt5
+/www/server/panel/tools-py:78:SyntaxWarning:invalidescapesequence nysql_dir=#！!/bin/bash
+/www/server/panel/tools.py:582:SyntaxWarning:invalid escapesequence"lw
+rep -"^[|w@].]+s" EXECUTING
+Plsenternewpassword:123456-Usernane:haz99wzt
+-Newpassword:123456

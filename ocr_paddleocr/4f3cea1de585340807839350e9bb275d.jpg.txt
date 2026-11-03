@@ -1,0 +1,19 @@
+# OCR: 4f3cea1de585340807839350e9bb275d.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/4f3cea1de585340807839350e9bb275d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+OPKG配置
+以下列出了opkg所使用的各个配置文件。opkg.conf用于全局配置，customfeeds.conf用于自定义仓库。其他配置文件的变更在系统升级时默认不被保留。
+letclopkg.conf destroot/ destram/tmp
+listsdirext/varlopkg-lists optionoverlayrootloverlay optionchecksignature
+letclopka/compatfeeds.conf
+srclgzistorecompathttps:llistore.linkease.com/repolall/compat letclopka/customfeeds.conf
+#addyourcustompackagefeedshere
+#src/gzexample_feed_namehttp://www.example.com/path/to/files
+letc/opkg/distfeeds.conf src/gzopenwrtcore
+https:/ldownloads.openwrt.org/releases/23.05.2/targets/x86/64/packages src/gzopenwrtbase
+https:/ldownloads.openwrt.org/releases/23.o5.2/packages/x8664/base src/gzopenwrtluci
+https:/ldownloads.openwrt.org/releases/23.o5.2/packages/x8664/luci
+取消
+保存

@@ -1,0 +1,17 @@
+# OCR: 57170af19d1710d92f80104e87a19373.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/57170af19d1710d92f80104e87a19373.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+Dockerfilex
+dujiaoka>Dockerfile
+1 2 3 4 5
+FRoMwebdevops/php-nginx:7.4
+copy/app WORKDIR/aPp
+RUN RUN
+"-c","composer install --ignore-platform-reqs"
+"sh"
+"sh"
+,"chmod-R777/app"]
+-c"
+公众号·金星路406取证人

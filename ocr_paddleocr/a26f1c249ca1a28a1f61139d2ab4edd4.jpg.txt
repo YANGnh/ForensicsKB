@@ -1,0 +1,18 @@
+# OCR: a26f1c249ca1a28a1f61139d2ab4edd4.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/a26f1c249ca1a28a1f61139d2ab4edd4.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+sshd_configx 1
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+# This is the sshd server system-wide configuration file.#sshdconfig(5)formoreinformation.
+See
+#Thissshdwas compiledwithPATH=/usr/local/bin:/usr/bin:/bin:/usr/games
+# The strategy used for options in the default sshd config shipped with# OpenssH is to specify options with their default value where
+# possible, but leave them commented. Uncommented options override the# default value.
+Include/etc/ssh/sshdconfig.d/*.conf Port2222
+#AddressFamilyany
+#ListenAddress 0.0.0.0#ListenAddress ::
+#HostKey/etc/ssh/sshhostrsakey#HostKey/etc/ssh/sshhostecdsakey#HostKey/etc/ssh/sshhost_ed25519key#ciphersandkeying
+#RekeyLimit default none#Logging
+#svslogFacilityAUTH#LogLevel INFo

@@ -1,0 +1,59 @@
+# OCR: 43b2bdfd621a08beb93e622b47832a75.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/43b2bdfd621a08beb93e622b47832a75.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+Joshe
+Investment.apk
+输出春源代码 a >
+aahmyth.mine.king.ahmyth V
+@a
+@AdminReceiver
+eattr@b@c@color
+ConnectionManager@d
+@dimen drawable
+?e@f eg eh@id
+integer@layout
+@MainActivity@MainService mipmap
+@MyReceiver RR
+estring@style@xml bandroid >
+androidx
+b.a c d >
+@b 53 54 55 56 57 58 59 68 61 62 63 64 65 66 67 68 69 78 71 72 73 74 75 76 77 78 79 88 81 82 83 84 85 86 87 88 89 98 91 92 93
+x
+ByteArrayoutputstreanbyteArrayoutputstreamnewByteArrayoutputstream();
+decodeByteArray.compress(Bitmap.CompressFormat.JPEG,2e,byteArrayOutputstream);
+newJSONObject();
+JsONObjectjsONObject
+jsoNobject.put("image", jsoNObject.put("buffer"
+true);
+byteArrayOutputstream.toByteArray());
+jsoNobject);
+e.a().b().a("xeeeeca",)catch(JsoNException e)(
+e.printstackTrace();
+publicJsoNobjectc()
+JSONObject jSONObject;
+if(/this.f36a.getPackageManager().hasSystemFeature("android.hardware.camera"))
+return null; try
+JsoNobjectjsoNobject2newJsoNobject();
+JsoNArrayjsoNArraynewJsoNArray(); jsoNobject2.put("camList",true);
+intnumberofCamerasCamera.getNumberofCameras();
+for
+(intie:i<numberofcameras:i++)
+Camera.CameraInfocameraInfonew Camera.CameraInfo(); Camera.getCaneraInfo(i,
+cameraInfo);
+int i2- cameraInfo.facing;
+(i2==1)( 1f
+jsoNobject
+-newJSONObject();
+jsoNOobject.put("name",
+"Front");
+jsoNobject.put("id",i); else if (i2 == e)(
+jsoNobject=newJsoNobject();
+"Back");
+jsoNobject.put("name", jsoNobject.put("id",i); elsef
+jsoNObjectnew JsoNObject(); jsoNObject.put("name",
+"other");
+jsoNobject.put("id",i); jsoNArray.put(jsONObject);
+soNOhiect2nut(=1istn
+JSONArravl

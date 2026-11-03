@@ -1,0 +1,45 @@
+# OCR: 201d55fd1d04930451459af7534fe82b.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/201d55fd1d04930451459af7534fe82b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+文
+现
+导航区
+具
+Q
+.com.fankes.tmoreplus.apk 源代码
+bcom.mycompany.myapp4 SABC
+@BuildConfig MainActivity
+eR 上资源文件
+APK signature 国Summary
+a
+@
+口英
+CABC
+46 47 48 49 5e 51 52
+53 54 55 56 57 58 59 68 61 62 63 64 65 66 67 68 69 78 71 72 73 74 56
+口
+*com.tankes.tmoreplus-jadx-gui
+Luyoucarruccr.ocomccRcy.arrucc.uyouc.raouce
+cwaU
+inflate.setLayoutParams(newviewGroup.LayoutParams(-1,-1)):
+frameLayout.addview(inflate); doThis(inflate):
+windowManageraddview(frameLayout，layoutParams); return inflate;
+TECWUFOUP
+privatevoiddoThis(viewview)(
+view.findViewById(R.id.floattButtoni).setOnclickListener(newView.OnclickListener(this
+private final privatefinal
+ABC
+thisse;
+EditText valsedit;
+this.thisse - this; this.valsedit - r2;
+@override//android.view.view.OnclickListener
+woidonclick/viouwiaw2)
+pubiic
+if(this.valsedit.getText().tostring().equals("anzhuo.com"))(
+return;
+this.valsedit.setHint（"密码不对，不知道密码联系qq19664668e2"）； this.valsedit.setText("许羽nb")；
+3);
+@override//android.accessibilityservice.AccessibilityService
+public void onAccessibilityEvent(AccessibilityEvent accessibilityEvent)

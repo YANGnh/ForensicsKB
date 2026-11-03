@@ -1,0 +1,28 @@
+# OCR: b41a715020c6f87f2e87a34bae368cde.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/b41a715020c6f87f2e87a34bae368cde.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+9register.php4
+function.php1X
+website.com>source>function.php>@ocEncrypt
+34 39 40 41 42 43 44 45 46 47 48 49 58 51 52 53 54 55 56 57 58 59 60 61 62 63 64 60
+functionInitSmarty(sisAdmin=o）
+return $smarty; 冰
+ocEncryptoldcms加密
+@param
+$str string
+待加密的字符
+@return $str*
+string
+ocEncrypt($str）
+function
+密码串
+return md5(oldcMs.$str);/*ocSetCookiesetcookie封装*/
+functionocSetCookie(sname=
+svalue -
+,$expires= 0,$path =/,sdomain=,$httponly=true)
+$path =$httponly&&PHPvERSIoN<5.2.o'?"s$path;HttpOnly":$path;
+$seCure=$SERVER[SERVERPORT]443?1:e; if（PHPVERSION<5.2.0)
+setcookie($name,$value,$expires,$path,sdomain,$secure) else
+setcookie($name, $value,$expires,$path,$domain,$secure,$httponly);

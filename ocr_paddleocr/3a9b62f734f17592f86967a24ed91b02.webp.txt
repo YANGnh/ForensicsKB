@@ -1,0 +1,15 @@
+# OCR: 3a9b62f734f17592f86967a24ed91b02.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/3a9b62f734f17592f86967a24ed91b02.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:27
+
+GET/utm.gifHTTP/1.1 Accept：*/*
+Cookie:EiDMOx7okMSPo0XuyuVu3mIge4OMTH76ein6g9xB3/yb3DNcnn+hDAy7f11AVA41efssoVYp309qQ157SG2Kp3G1GFTh7FISdZ9V+U8XSH2jB2CdtaP6r/1ivHAOEMLYMesDzLC1TSX1wbSY cnAA2GNg/X62pGwSZuMF1jkrQg
+User-Agent：Mozilla/5.e（compatible;MsIE9.o;WindowsNT6.1;WOW64;Trident/5.e;MANM;MANM）
+Host:192.168.111.128:81 Connection:Keep-Alive Cache-Control：no-cache
+HTTP/1.1200OK
+Date:Thu,160ct202511:30:04GMT
+Content-Type:application/octet-stream Content-Length:48
+.3.E...
+...6.k..
+...Q..tz....M....11....

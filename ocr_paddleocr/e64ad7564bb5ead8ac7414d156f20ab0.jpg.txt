@@ -1,0 +1,16 @@
+# OCR: e64ad7564bb5ead8ac7414d156f20ab0.jpg
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/e64ad7564bb5ead8ac7414d156f20ab0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+g
+DavidLaptop>目基本信息》
+口三序号口1 口2 口3
+三名称过滤
+展USB设备信息
+SanDiskExtremeSSDSCSIDiskDevice
+SanDiskExtremePro55AFSCSIDiskDevice KDI-MSFTWindows10USBDevice
+设备描述过滤
+基他名称：SanDiskExtremeSSDSCSIDiskDeviceE:：实际容量：1863G
+其他名称：SanDiskExtremePro55AFSCSIDiskDevice,ExtremePro:实际容量：3725G 基他名称：KDI-MSFTWindows10USBDevice，WINDOWS1O实际容量：28G
+在

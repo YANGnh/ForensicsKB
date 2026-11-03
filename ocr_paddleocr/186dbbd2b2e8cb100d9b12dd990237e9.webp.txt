@@ -1,0 +1,108 @@
+# OCR: 186dbbd2b2e8cb100d9b12dd990237e9.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/186dbbd2b2e8cb100d9b12dd990237e9.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+中
+File
+日
+GO
+Config
+堂
+日@
+BasicAnalyzer
+BaseInfo
+Certificate AIIAPIS
+Alistrings Appstrings Aliuris
+View S
+AndroidManifest Maiscan
+田
+Resources
+Dexclass 田申MTT
+日母android.support.v4
+日申app
+M
+Tools C
+F
+日@INotificationSideChannel
+Help B
+e cancel(string,int,String):voi  cancelAll(String):void
+notify(string,int,String,Noti
+@INotificationSideChanneisstub
+CINotificationSideChannelsstubsPr 田
+田@RemoteActionCompatParcelizer
+田串graphics.drawable 田申os
+日母androidtranscoder
+田申engine 田申format utils 田
+MediaTranscoder c
+田
+MediaTranscodersi
+C 田
+C 田
+田
+C
+C 田
+C C
+田
+C C
+MediaTranscoders2 MediaTranscoders3 MediaTranscoderS4 MediaTranscoderS4s1
+MediaTranscoders4sis1 MediaTranscoderS4s2
+MediaTranscoderSListener
+CVideoCompressor 用
+index
+明
+日
+H
+package
+[File Base Info]
+File Name:
+GDA4.02(Free Edition)
+O
+declare
+8
+？士兒！
+C：\Users\NEkoN\Desktop\山东\出题\检材^周宇APK文件\uni.owry.apk
+Package Name: uni.owry
+Main Activity:
+File size: MD5:
+Packed: MinSDK:
+TargetSDK:
+io.dcloud.PandoraEntry
+21184244bytes
+c5ea689ea806ed2318bccbbc2cba5198
+19 28
+Not Packed
+DCLOUD_APP_DEFAULT_LANGUAGE：
+DCLOUD_DARK_MODE:
+auto
+DCLOUD_STREAMAPP_CHANNEL:
+android.notch_support: notch.config:portrait
+auto
+uni.owryl_UNI_7CB999B|126691230302|common true
+andnoid.maxacpact
+android.support.FILE_PROVIDER_PATHS:
+@resource
+[DEXBaseInfo]
+Dex File Name:
+File Size: MD5:
+Class Size: Method Size: String Size:
+classes.dex
+9329828bytes
+f5d37adcf402de23808e8068b4293882
+7843 65487 68846
+Dex File Name:
+classes2.dex
+1001608bytes
+File Size: MD5：
+2193362589f0da4c483a4defe6d46cda
+Class size: Method Size: String size:
+[Permissions]
+659 6167 9688
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE android.permission.ACCESSNETwORK_STATE
+android.permission.ACCESS_WIFI_STATE android.permission.INSTALL_PACKAGES
+android.permission.REQUEST_INSTALL_PACKAGES android.permission.CHANGE_NETWORK_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.VIBRATE andrnid.nermissinn.RFAnIOGs
+Entry
+口回区 Dump

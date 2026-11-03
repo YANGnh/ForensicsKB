@@ -1,0 +1,143 @@
+# OCR: b52690092009997290dc234185262dea.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/b52690092009997290dc234185262dea.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:32
+
+010Editor-C:1XWOutput\15e6cb02-3486-11f0-a495-000c29a4831cl3808876b-c176-4e48-b7ae-04046e6cc7521
+Edit File
+Select
+Find 司
+View 卓
+Format
+Scripts 5e
+Templates
+AB
+Debug
+Project
+Hex
+Tools
+Window
+(15e6cb02-3486-11f0-a495-000c29a4831c/(3808876b-c176-4e48-b7ae-04046e6cc752)x
+1A31:7590 1A31:75A0 1A31:75B0 1A31:75C0 1A31:75D0 1A31:75E0 1A31:75F0 1A31:7600 1A31:7610 1A31:7620 1A31:7630 1A31:7640 1A31:7650 1A31:7660 1A31:7670 1A31:7680 1A31:7690 1A31:76A0 1A31:76B0 1A31:76C0 1A31:76D0 1A31:76E0 1A31:76F0 1A31:7700 1A31:7710
+Find Results
+E5 AE OD E7 74 33 8D E5 35
+85 E7 0A BB 69 20 E6 AF 36
+B9 94
+9A 70 2E E5 31 8D 81
+E8 73 63 9C 30 EF EF
+AC B3 OD 9F 6E E8 8B 86 28 E5 AE 3A 75 BA 2E BC BC
+E8B4A2
+3638 88B7
+AF 75 00 00
+86 70 00 00
+2E E5 E7 OD 00 00
+00
+00
+00
+Address
+3 E5 BB OA EF 67 B4 BC E7 E8 AF AE 2F 70 50 31 9A 9A E5 31 90 A0 OA 00 00 00
+Value
+4 91 E7 E8 BC 2E A6 E9 A0 AF 86 E7 2F 3A 43 30 61 33 8A 30 8D 81 OD 00 00 00
+5 8A BB 80 9A 70 E5 9F 81 B E7 B3 6D 38 E 36 64
+A1 2E EF EF OA 00 00 00
+6 EF 9F 8
+67 8 B3 E
+AO BB 65 34 8 20 6
+50 BC BC 00 00 00 00
+BC E5
+B E BO 8 81 E 65 34
+20 4 30 9A 9A 00 00
+00
+8 9A 9c BC
+E BC 9A AA 29 BB 74 33
+6 EF 61 33 E 00 00 00
+9 OD BO 9A 70 63 BC 8C 70 E8 OD 9F 69 OD 39 94 20 73 BC 20 64 77 FF 00 00 00
+Found1occurrencesof财务Pc：192.168.10.107 1A3176A0h财务PC：192.168.10.107
+output
+Find Results
+A OA E5 E8 3A 75 9A E5 67 A1 OA EF 6E OA 32 A8 20 2E 9A 20 6D 2E FF 00 00 00
+B E4 9D AE 2F 70 E5 88 73 80 E6 BC 67 OD 2E E6 E5 63 31 20 69 70 FF 00 00 00
+BC 80 AE 2F 3A A7 9D 31 E4 96 9A 2E 0A 31 88 AF 75 39 E7 6E 67 82 00 00
+D 9A EF E7 6D 35 93 E5 32 BE BO 68 70 E5 36 B7 86 70 32 94 20 73 79 00 00
+E8 BC B3 65 30 E5 3F 33 AE E4 74 67 B8 38 E5 E7 OD
+AE 9A BB 65 30 90 00 34 E6 BC 74 73 82 2E 90 Ao OA
+31 2E
+A8 20 2E 47 00 00
+E6 E5 63 11 00 00
+00
+00
+00
+00
+议 3 名
+公统
+系
+ng
+账
+拼
+密
+5
+6 改
+会名码 68
+户
+告统老
+D
+g
+号音
+码请
+密
+议价
+财
+密
+u
+p
+0 名
+码
+系
+Help 地会
+址
+会
+议
+系
+mee 500
+姓初
+pgs1234
+自
+码）
+统用
+min
+务PC 10
+a
+3
+行
+修新
+htt
+市
+8 户密
+2.
+中
+FindinFiles?CompareLlaHistogramEChecksumProcessmovDisassembler
+《>Workspace
+口
+Files
+OpenFiles
+(15e6cb...6cc752] 典Project
+Favorite Files Recent Files
+LogFile $MFT
+notepad.db-shm notepad.db-wal
+notepad.db 1722124
+Workspace Inspector
+Type Binary
+x
+Value 11101000
+Signed Byte -24 Unsigned B... 232
+Signed Short -19224 UnsignedS...46312
+Signed Int
+-442321..
+Unsigned lnt3852645. Signed Int644850554..
+Unciau
+Inspector
+(1/1)Found1occurrencesof'财务PC:192.168.10.107.(pressE:Start:439449248[1A3176A0h]Sel:25[19h]Size:1,442,832,384
+Hex UTF8 LIT
+1050554 Var
+皖OVR
+X x

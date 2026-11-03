@@ -1,0 +1,51 @@
+# OCR: d734f80c6f58e1dddab091fd9f9cac87.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/d734f80c6f58e1dddab091fd9f9cac87.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+AppMessenger Pro v0.4.6by:SULAB
+软件文件
+工具
+帮助
+C 文件大小63653688字节（
+allowB... debugg...
+true false
+口窗口置顶
+文件路径G：2025盘古石杯1普级赛\export/银联会议
+应.．．
+RustDesk
+包名：com.carriez.flutterhbb
+版本名1.3.9
+复制版本...57
+文件MD5E71BEDABE399730E7F16B379F4FFFBB6
+文件SHAJB6FD67B1039F9DF6C952640E55A48635EEDE
+DEXMD5898B651222FE38F9B088A64278E93487 加固类型没有加固或者木知加固
+打包时间1981年01月01日01时01分02秒
+高．．
+权限信息签名信息其他信息SDK信息敏感信息漏洞信息
+英文名
+android.per...
+权限名称禾知权限
+android.per...显示系统窗
+android.per... android.per... android.per...
+求音
+开机目动允许与入外部存储
+android.per...禾知权限 android.per..．访可网络 android.per...禾知枚限
+android.per...获取网络状态
+唤醒锁定
+android.per... com.carriez...
+未知权限
+android.per...
+拍照权限
+android.per... android.per...
+禾知权限
+访可外部存储
+权限注释
+显示系统窗口
+录制声音迪过手机或耳机的麦克允许程序升机目动运行
+允许程序与入外部存储，如SD卡上与文性访可网络连接，可能产生GPRS流量
+获取网络信息状态，如当前的网络连接是否有效允许程序在手机屏幕关团后后台进程仍然运行
+允许访可摄像头进行拍照访可外部存储的权限
+口
+浏览复制复制复制复制复制复制复制
+x

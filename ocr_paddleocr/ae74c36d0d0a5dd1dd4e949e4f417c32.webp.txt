@@ -1,0 +1,49 @@
+# OCR: ae74c36d0d0a5dd1dd4e949e4f417c32.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/ae74c36d0d0a5dd1dd4e949e4f417c32.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+@WebsecurityConfigx wveprecdce
+CMessageDigestPasswordEncoderX
+/*Loadedfrom:appLication-o.o.1-SNAPSHOT.jar:BOoT-INF/Lib/spring-security-core-5.2.2.RELEASE
+public class MessageDigestPasswordEncoder implements PasswordEncoder  96
+private static final String PREFIX ="{" private static final String sUFFIx = "j";
+private StringKeyGenerator saltGenerator = new Base64stringKeyGenerator():
+private boolean encodeHashAsBase64; private Digester digesterj
+97 99
+182 183
+114 115 116
+h19 128 122 123 124
+127 128 129
+132 144 145 146 147
+159 168
+163 164 165 178
+172
+publicMessageDigestPasswordEncoder(string algorithm)
+this.digester = new Digester(algorithm, 1):
+子
+public void setEncodeHashAsBase64(boolean encodeHashAsBase64) (
+this.encodeHashAsBase64  encodeHashAsBase64;
+@override//org.springframework.security.crypto.password.PasswordEncoder public String encode(CharSequence rawPassword){
+String salt ="{"+this.saltGenerator.generateKey)+""; return digest(salt, rawPassword):
+privateString digest(string salt,CharSequencerawPassword)
+String saltedPassword =((object)rawPassword)+ salt;
+byte[) digest = this.digester.digest(Utf8.encode(saltedPassword));
+String encoded = encode(digest); return salt + encoded;
+子
+private String encode(byte[] digest) {
+if(this.encodeHashAsBase64){
+return Utf8.decode(Base64.getEncoder().encode(digest)); return new String(Hex.encode(digest)):
+@override//org.springframework.security.crypto.password.PasswordEncoder publicbooleanmatches(charSequencerawPassword,stringencodedPassword)
+String salt = extractSalt(encodedPassword):
+String rawPasswordEncoded =digest(salt, rawPassword):
+returnPasswordEncoderUtils.equals(encodedPassword.tostring(),rawPasswordEncoded):
+子
+public void setIterations(int iterations) (
+this.digester.setIterations(iterations):
+private String extractSalt(string prefixEncodedPassword)(
+int end
+int start = prefixEncodedPassword.indexof("f"):
+if (start!= 1l(end =prefixEncodedPassword.indexof("",start))< o)
+return"";
+return prefixEncodedPassword.substring(start, end + 1):

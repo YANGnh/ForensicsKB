@@ -1,0 +1,26 @@
+# OCR: 4dd80bfd2eaf0ca3a8b31ac17734b0c4.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/4dd80bfd2eaf0ca3a8b31ac17734b0c4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+E:money\File.eml - Notepad++ 文件(F)编辑(E)搜素(S)
+视图(V)编码(N)
+语言(L)
+Eeeoonc 日File.emlx
+188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 21
+设置(T)
+工具（O)
+宏(M)运行(R)
+插件(P)
+窗W 图O
+=?gb2312?B?QWxKZWFQc3RPY3BnVExHV2QvN2NRd3YzRERIVWZJNU80T21za3Ntd3NFUDhj? =?gb2312?B?eUxkdmo3NkU1ZEgzUjA4cU15RTd2c01jc0xaTW1UQkd3a2M5em9zUWw0c3Av?= =?gb2312?B?bDlqaUhoZlpMRUtnMnZQaEo5QW5CL0Y2WUtXQmh3YXF1MldPVWhiZGNHVWpR?= =?gb2312?B?VH16QzFVMU1vU1ha2W2EWkFTaFB2MX2ocUNYVXQxTFFRMH2nbjFORzMzc0Vn?= =?gb2312?B?aXhTbVNEYjJlbGRrSUhCWC9rYzZMRXBsSytQcFNiTkszTWo5Uj1VYXByeG52? =?gb2312?B?VE9GaFBQR0tEY2hKKlgyemlKRG9jcUNsYnlKYUpPeGhJWTJkVUZXTDB0UjNx?
+=?gb2312?Q?gg=3D?= MIME-Version:l.o
+--_000_TYSPR02MB79343CA05FA713AFC0614F4DA0AA2TYSPR02MB7934aPCP_ Content-Tvpe:text/plain:charset="gb23l2"
+Content-Transfer-Encoding:base64 MTAXNQOK
+--_000_TYSPR02MB79343CA05FA713AFC0614F4DA0AA2TYSPR02MB7934aPCP_ Content-Type:text/html;charset="gb23l2"
+Content-Transfer-Encoding:quoted-printable <html><head>
+<metahttp-equiv=3D"Content-Type"content=3D"text/htmlcharset=3Dgb23l2"> <styletype=3D"text/css"style=3D"display:none;">P(margin-top:0;margin-bo?
+ttom:0;}</style> </head>
+<bodydir-3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family:Aptos,Aptos_EmbeddedFo-nt,Aptos_MsFontService,Calibri, Helvetica, sans-serif font-size: l2pt; c olor:rgb(0,0,o);">
+P

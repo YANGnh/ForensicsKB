@@ -1,0 +1,26 @@
+# OCR: be0082e4a630592516932368ad84184f.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/be0082e4a630592516932368ad84184f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:28
+
+CobaltStrikeToolswork
+x
++
+口
+x
+>python./cs-decrypt-metadata.py-fC:Users\Administrator\Desktop\CobaltStrikeToolsworklkeysEiDMox7okMsPooXuvuvu3m Ige4QMTH76ein6q9xB3/yb3jDNcnn+hDAy7f11AVA41efssoVYp309qQ157SG2Kp3GlGFTh7FISdZ9V+U8XSH2jB2CdtaP6r/livHAQEMLYMesDzLClTSX1w bSYcnAA2GNg/X62pGwSZuMF1jkrQg=
+C:\Users\Administrator\Desktop\Cobalt_Strike_Tools_worklcs-decrypt-metadata.py:553:Syntaxwarning:invalid escape sequen ce.
+ifnotre.match(b'[o-9]+).[o-9]+t[o-9]+'，peek):
+Input：EiDM0x7okMSPo0XuyuVu3mIge4QMTH76ein6q9xB3/yb3jDNcnn+hDAy7f11AVA41efssoVYp309qQ157SG2Kp3GlGFTh7FISdZ9V+U8XSH2jB2Cd taP6r/livHAQEMLYMesDzLClTSX1wbSYcnAA2GNg/X62pGwSZuMF1jkrQg=
+Encryptedmetadata:1220cc3b1ee890c48fa0e5eecaebeede62207b840c4c7efa7a29faabdc41dffc9bde30cd7279fe843032edfd75015038d5e7 ecb28558a773bda90d79ed21b62a9dc694615387b14849d67d57e53c5d21f68c1d8276d68feabfe58af1c040430b60c7ac0f32c2953497d706d261c9
+c003618d83f5fada91b0499b8c1758e4ad08 Decrypted:
+Header:oooobeef Datasize:oooooo50 Rawkey:a
+ac1649e14133e13b65722f5c352a7a4c
+aeskey：264aa04e0d24989e4de4d18d2f0a6c73 hmackey：164ba0341a1db183fdfc697f37f9e81f
+charset: 03a8 ANSI/0EM Simplified Chinese (PRC, Singapore); Chinese Simplified (GB2312)
+charset_oem：o3a8ANsI/oEMSimplifiedChinese（PRC，Singapore)；ChineseSimplified（GB2312）
+bi:6d6ed2dc1835979484 pid: 03c8 968
+port:0 flags: oc var1:6 var2: 1
+var3: 7601 var4:0
+var5:1976504901 var6:1976504866
+Internal IPv4: 10.10.10.80

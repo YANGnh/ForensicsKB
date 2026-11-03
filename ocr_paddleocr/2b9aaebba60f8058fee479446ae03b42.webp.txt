@@ -1,0 +1,36 @@
+# OCR: 2b9aaebba60f8058fee479446ae03b42.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/2b9aaebba60f8058fee479446ae03b42.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+@MainActivity
+43 44
+45 46 47 48 49 5e 51 52 53 54 55 56 57 58 59 68 61 62 63 64 65 66 67 68 69
+publicvoida()(
+）
+getPackageManager().setComponentEnabledSetting(getComponentName(),2,1);
+@override//android.app.Activity
+protected voidonCreate(Bundlebundle)(
+super.onCreate(bundle);
+e+hie
+aincaruic
+an+
+setContentview(R.layout.Thisismain);
+this.f3ib
+ComponentName(this
+new
+class<?>)AdminReceiver.class);
+DevicePolicyManagerdevicePolicyManager=(DevicePolicyManager)
+getsystemService("device_policy");
+this.f3eadevicePolicyManager
+if（!devicePolicyManager.isAdminActive(this.f3ib))(
+IntentintentnewIntent("android.app.action.ADD_DEVICE_ADMIN"); intent.putExtra("android.app.extra.DEvICE_ADMIN",this.f3ib);
+intent.putExtra("android.app.extra.ADD_ExPLANATIoN",getString(R.string.device_admin_explanation)); startActivity(intent);
+if
+(a.b.b.a.a.a(this,"android.permission.READ_sMs")l=&&a.b.b.a.a.a(this,
+"android.permission.SEND
+Intentintent2=newIntent("android.settings.APPLICATION_DETAILS_SETTINGS");
+intent2.setData(uri.parse("package:"+getPackageName())); startActivity(intent2);
+"Grant all permissionbefore!",1).show();
+Toast.makeText(this,
+a.b.b.a.a.b(this,newIntent(this,(class<?>)MainService.class));

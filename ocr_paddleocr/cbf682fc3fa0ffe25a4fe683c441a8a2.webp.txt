@@ -1,0 +1,30 @@
+# OCR: cbf682fc3fa0ffe25a4fe683c441a8a2.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-资格赛/cbf682fc3fa0ffe25a4fe683c441a8a2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+else 48 9
+SetwindowTextA(qword14eee8768,"LoginSuccessful!"): if（！(_BYTE)Word_14000808C）
+se
+1
+MessageBoxA(
+2
+oi64, $3
+"Great! You have finished the first step. Keep going to find the bitlocker key.""loginsuccessful",
+64
+if（（BYTE)word140e0808C）
+5
+6
+7
+8
+5ub_140e022Ae(int64)v24，（int64)v23，（int64)v22);
+v1e=（constCHAR*)sub1400029Ee(v24);
+9
+s0
+MessageBoxA(oi64,vio,"TheBitlockerKey",e); sub_140002B40(v24);
+51
+62
+公众号·取证布衣 sub_140002B4e(v25);
+63
+4
+55

@@ -1,0 +1,58 @@
+# OCR: 58b10dd415cee68b155a73ea45349eda.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/58b10dd415cee68b155a73ea45349eda.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+对象
+昆开始事务 id
+vm@main（(vmos)·表
+自文本筒选排序
+vm_id
+5 6
+uuid
+1d38fe59a3c4ee883 2a824fed37b89b122
+G导入导出数据生成咖创建图表
+rominfo
+envinfo
+('guestSystemVersi""wifi ssid":'vmwifi")
+default env info
+propertyinfo
+createat
+('androidid':5a163590b9ffb635"b(customBatteryLe2024-05-1703:35:46
+('guestSystemVersi("androidid':"a358287fcd7f1("androidid':d6f4fe03b841ffa3""bc("customBatteryLe2024-05-2008:44:29
+r"android id":"52ae67768e09e98""board platform":"universal210e r","brand":"samsung","bt address":"c4:7e:93:f2:f8:6f","bt name":"vmbt"
+update_at 2024-05-17 2024-05-2C
+>
+"build_bootimage_fingerprint":"samsung/t2sksx/t2s:9/PQ3A.1908e1.002/eng.dpi.20191015.144423:user/release-keys","build_date":"Tue0ct1514:44:23CsT
+2019","build_date_utc":"1571121863","build_description":"t2sksx-user9PQ3A.190801.002eng.dpi.20191015.144423release-keys","build_display_id":"t2sksx-user9PQ3A.19e801.e02eng.dpi.20191015.144423release-keys","build_fingerprint"
+,"build_flavor";"t2sksx-user","build_host";"21HH1Fe6","build_id":
+samsung/t2sksx/t2s:9/PQ3A.190801.002/eng.dpi.20191e15.144423:user/release-keys"
+"pQ3A.19e801.e2","build security_patch":"2e19-1e-01","buildtags""release-keys","buildtype":"user","build_user":"dpi","build_vendor_fingerprint":'samsung/t2sksx/t2s:9/PQ3A.19e801.ee2/eng.dpi.20191e15.144423:user/release-keys","buildversion_allcodenames":"REL","build_version_codename":"REL""cellcid":-l,"cellLac":-1,"characteristics".""
+"country":"cn","cpuCoreNumber":8,"cpuMaxFreq":2016e0e,"cpuMinFreq":6528ee,"cpuinfo":
+"cHJvY2Vzc29yCTogMApCb2dvTU1QUwk6IDUyLjAwCkZ1YXR1cmVzCTogZnAgYXNpbwQgZXZec3RybSBhZXMgcG11bGwgc2hhMSBzaGEyIGNyYzMyIGFeb21pY3MgZnBocCBhc21tZGhwIGNwdw1kIGFza W1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIG1tcGxlbWVudGVyCTogMHgoMQpDUFUgYXJjaG1eZWNedXJ1oiA4CkNQVSB2YXJpYW5eCTogMHgyCkNQVSBwYXJeCTogMHhkMDUKQ1BVIHJ1dmlzaW9 uCTogMAoKcHJvY2Vzc29yCTogMQpCb2dvTU1QUwk6IDUyLjAwCkZ1YXR1cmVzCTogZnAgYXNpbWQgZXZec3RybSBhZXMgcG11bGwgc2hhMSBzaGEyIGNyYzMyIGFeb21pY3MgZnBocCBhc21tZGhwIGNwd WlkIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIGltcGx1bwVudGVyCTogMHgoMQpDUFUgYXJjaG1oZWNedXJ10iA4CkNQVSB2YXJpYW5eCTogMHgyCkNQVSBwYXJeCTogMHhkMDUKQ1BVIHJ 1dm1zaW9uCTogMAoKcHJvY2Vzc29yCTogMgpCb2dvTU1QUwk6IDUyLjAwCkz1YXR1cmVzCTogZnAgYXNpbWQgZXZ@c3RybSBhZXMgcG11bGwgc2hhMSBzaGEyIGNyYzMyIGFeb21pY3MgZnBocCBhc21tZ GhwIGNwdWlkIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIG1tcGx1bWVudGVyCTogMHgoMQpDUFUgYXJjaG1eZWNedXJ1OiA4CkNQVSB2YXJpYW5eCTogMHgyCkNQVSBwYXJeCTogMHhkMDU KQ1BVIHJ1dmlzaW9uCTogMAoKcHJvY2Vzc29yCTogMwpCb2dvTU1QUwk6IDUyLjAwCkZ1YXR1cmVzCTogZnAgYXNpbWQgZXZec3RybSBhZXMgcG11bGwgc2hhMSBzaGEyIGNyYzMyIGF@b21pY3MgZnBocC CBhc21tZGhwIGNwdW1kIGFzaw1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIG1tcGx1bwVudGVyCTogMHg0MQpDUFUgYXJjaG1eZWNdXJ1OiA4CkNQVSB2YXJpYW5eCTogMHgyCkNQVSBwYXJeCTo gMHhkMDUKQ1BVIHJ1dmlzaW9uCTogMAoKcHJvY2Vzc29yCTogNApCb2dvTU1QUwk6IDUyLjAwCkz1YXR1cmVzCTogZnAgYXNpbwQgZXZ@c3RybSBhZXMgcG11bGwgc2hhMSBzaGEyIGNyYzMyIGFeb21pY 3MgZnBocCBhc21tZGhwIGNwdwlkIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIG1tcGx1bwVudGVyCTogMHgoMQpDUFUgYXJjaG1eZWNedXJ10iA4CkNQVSB2YXJpYW5eCTogMHgxCkNQVSB wYXJeCTogMHhkNDEKQ1BVIHJ1dm1zaW9uCTogMAoKcHJvY2Vzc29yCTogNQpCb2dvTU1QUwk6IDUyLjAwCkZ1YXR1cmVzCTogZnAgYXNpbWQgZXZec3RybSBhZXMgcG11bGwgc2hhMSBzaGEyIGNyYzMyI GFeb21pY3MgZnBocCBhc21tZGhwIGNwdW1kIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIG1tcGx1bwVudGVyCTogMHgoMQpDUFUgYXJjaG1eZWNedXJ1oiA4CkNQVSB2YXJpYW5eCTogMHg xCkNQVSBwYXJeCTogMHhkNDEKQ1BVIHJ1dmlzaW9uCTogMAoKcHJvY2Vzc29yCTogNgpCb2dvTU1QUwk6IDUyLjAwCkZ1YXR1cmVzCTogZnAgYXNpbWQgZXZec3RybSBhZXMgcG11bGwgc2hhMSBzaGEyI GNyYzMyIGFeb21pY3MgZnBocCBhc21tZGhwIGNwdw1kIGFzaW1kcmRtIGxyY3BjIGRjcG9wIGFzaW1kZHAKQ1BVIG1tcGx1bwVudGVyCTogMHgoMQpDUFUgYXJjaG1eZWNedXJ10iA4CkNQVSB2YXJpYW5 eCTogMHgxCkNQVSBwYXJeCTogMHhkNDEKQ1BVIHJ1dmlzaW9uCTogMAoKcHJvY2Vzc29yCTogNwpCb2dvTU1QUwk6IDUyLjAwCkZ1YXR1cmVzCTogZnAgYXNpbWQgZXZ@c3RybSBhZXMgcG11bGwgc2hhM SBzaGEyIGNyYzMyIGFob21pY3MgZnBocCBhc21tZGhwIGNwdWlkIGFzaW1kcmRtIGxyY3BiIGRicG9wIGFzaW1kZHAKO1BVIGltcGxlbwVudGVyCTogMHg0MQpDUFUgYXJiaG1eZWNedXJ1OiA4CkNQVSB
+2YXJpYW5eCTogMHgxCkNQVSBwYXJeCTogMHhkNDQKQ1BVIHJ1dmlzaW9uCTogMAoK"displayHeight":2400,"displaywidth":1080,"fps":120,"gpu_renderer"：
+"imeisv""
+"905992330251871","imeipf"：""
+"dataconnectionstate"："e","datanetworktype""13","device"："t2s""displayDpi":45e,,"gpu_vendor"：
+"groupidleveli":"
+"iccid"："80249854099189759174","imei"：
+"imsi"："460010706586061"
+"incremental";"eng.dpi.20191015.144423","ip_addr";"1e.92.54.15e","kernelBootid":
+"bd3f6f2-8c6d-11eb-a536-c81f66f61e3f""kernelVersion"：
+"TGludXggdmVyc21vbiAzLjE4LjMxLXB1cmYgKGNvbXBpbGVyQGNvbXBpbGVyMDMwKSAoZ2NjIHZ1cnNpb24gNC45IDIwMTUwMTIzIChwcmVyZWx1YXN1KSAoReNDKSApICMxIFNNUCBQUkVFTVBUIFR1Z
+"macpf""
+SBPY3QgMTUgMTQ6NTk6MjcgQ1NUIDIwMTkK"
+"1anguage"："zh","mac""12:34:56:12:e8:24",
+"manufacturer";"samsung","mcc"："46e","mnc"："01","model":
+"SM-G996N","networkoperator"："46ee1"
+"networkoperatorname"："CHINAUNIcoM","networktype"："13","operator"："46ee1","operatorname"："China Unicom GSM"
+"product_platform"""
+,"radioVersion":"953_GEN_PACK-1.179545.1.181534.1"
+"phone_number"："17276388035""product"："t2sksx"，
+"product_board":"exynos21ee",
+numher"-1230eeeeee","serialno"："7ef778d7be","setupwizardMode"："DISABLED",
+"robootloader"："unknown","romexPkgName"："com.androi
+secex""serial
+"simcountryiso":"cn","simstate":"s","version":"g"
+"wifimac":"12:34:56:12:e8:24"
+"wifi ssid":"vmwifi""

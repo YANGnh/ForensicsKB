@@ -1,0 +1,11 @@
+# OCR: 14434e70c2daa801b0f88743f55dc56d.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/14434e70c2daa801b0f88743f55dc56d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Ckatikali)-[
+ssudofindL-nameThinkphp
+dforkali:
+[sudo]password
+find:/run/user/1ooo/gvfs':Permissiondenied
+/home/kali/Downloads/ThinkphpGUI-1.3-SNAPSHOT.jar

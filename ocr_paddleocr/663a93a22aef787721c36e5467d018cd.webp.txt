@@ -1,0 +1,35 @@
+# OCR: 663a93a22aef787721c36e5467d018cd.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/663a93a22aef787721c36e5467d018cd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+8184日 8185 8186 8187日 8188 8189 8190 8191 8192 8193 8194 8195 8196 8197 8198 8199 8200 8201 8202 8203 8284 8205 8206 8207 8208 8209 8210 8211 8212 8213 8214 8215 8216 8217 8218 8219
+root@832de69b9a2d:/#nginx-t
+nginx:theconfigurationfile/etc/nginx/nginx.confsyntaxisok
+nginx:configuration file/etc/nginx/nginx.conf testis successful root@832de6ob9a2d:/#cat/etc/nginx/nginx.conf
+nginx
+user
+workerprocesses
+error_log pid
+events:
+auto;
+/var/log/nginx/error.lognotice:/var/run/nginx.pid;
+worker_connections
+http
+include
+default_type
+log_format access_log sendfile#tcp_nopush
+1924
+/etc/nginx/mime.types
+application/octet-stream;
+main
+Sremote_addr -Sremote_user [stime_local]"Srequest"'statussbody_bytes_sent"shttp_referer
+."shttp_user_agent""Shttp_x_forwarded_for""
+/var/log/nginx/access.log
+main;
+on; on;
+keepalive_timeout
+#gzip
+on;
+65：
+include/etc/nginx/conf.d/*.conf:

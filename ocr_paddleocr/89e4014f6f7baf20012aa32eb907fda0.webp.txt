@@ -1,0 +1,10 @@
+# OCR: 89e4014f6f7baf20012aa32eb907fda0.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/89e4014f6f7baf20012aa32eb907fda0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+public string getContentO
+if (TextUtils.isEmpty(this.content) && !TextUtils.isEmpty(this.source))
+if(m.chiperEncrypt==null)(
+m.initEncrypt(O):
+this.content =m.chiperEncrypt.AESB64Ehcrypt(this.source,PIAbsGlobal.ENC_UTF8); return this.content;

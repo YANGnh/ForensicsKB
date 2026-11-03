@@ -1,0 +1,6 @@
+# OCR: 99122c425678ed2412d95106a3e7dd27.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/99122c425678ed2412d95106a3e7dd27.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+# 结果: 无可用文本（Umi-OCR 未识别到文字）

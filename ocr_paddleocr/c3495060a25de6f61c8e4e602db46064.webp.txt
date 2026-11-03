@@ -1,0 +1,36 @@
+# OCR: c3495060a25de6f61c8e4e602db46064.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/c3495060a25de6f61c8e4e602db46064.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+495-
+406 497 408 409 418
+king@api-server-2:~s
+ssudodockerps-a
+[sudo]passwordforking:
+CONTAINER ID
+IMAGE
+d4cb231cae7f
+web-api:latest
+832de69b9a2d 4ff383cbb6a1
+nginx:latest mysql:5.7
+COMMAND
+CREATED
+docker-entrypoint.s."
+7 weeks ago
+/docker-entrypoint
+docker-entrypoint.s...
+weeks
+ago
+weeks ago
+STATUS
+UpAbouta minute Up37minutes
+Exited (0)7 weeksago
+PORTS
+NAMES
+web_api
+0.0.0.0:3000->3000/tcp,[::]:3000->3000/tcp
+0.0.0.0:80->80/tcp.
+【::]:80->80/tcp
+nginx-proxy
+mysql-container

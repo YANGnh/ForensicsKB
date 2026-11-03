@@ -1,0 +1,28 @@
+# OCR: 430ba0b1782ce4caa7a558c2beb205c2.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/430ba0b1782ce4caa7a558c2beb205c2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+53 455589 38688 64 65 66 88 69 70 12456898 81 82
+platid":0 huizhou 2.0.2":
+config_url" weixin":
+appid"
+https://h5publish.gamelaoyou.com/Native2/huizhou/lobby.release/Mah.jong/native.json""wx18906dba9e3e6ec9
+wbappid"："app_scret”
+wxd6f31b500f2b4fcc
+"mch_id"："1614684433" package":
+"Sign=WXPay
+wx_mch_id"："1614684433" androidVersion"
+"version"""2.0.3""VersionCode"：203,
+"app_downUr1"："https://download.gamelaoyou.com/9099-2022-04-16-10-55-51.apk"
+huizhou2.0.3"：
+configurl"
+"https://h5publish.gamelaoyou.com/Native2/huizhou/lobby.release/Mahjong/native.json"
+wxmchid"：1614684433
+huizhou_2.0.4"：
+configurl"
+"https://h5publish.gamelaoyou.com/Native2/huizhou/lobby.release/Mahjong/native.json"
+wx_mchid"："1614684433 test-for-app_2.0.2"：
+configuri":
+"https://h5publish.gamelaoyou.com/Native2/huizhou/lobby.release/Mahjong/native.json
+wxmch-id"："1614684433

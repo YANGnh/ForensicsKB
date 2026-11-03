@@ -1,0 +1,14 @@
+# OCR: 7c1deb57af395ba611d6e453913e05b0.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/7c1deb57af395ba611d6e453913e05b0.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+.1--[25/Apr/2024:18:51:49+080e]"P0sT/tmpugk1v.phpHTTP/1.1"2ee215"http://192.168.137 e.0:Win64:x64)AppleWebKit/537.36(KHTML,1ikeGecko)Chrome/91..4472.124Safari/537.36 1-[25/Apr/2024:18:51:49+080e]"GET/tmpbnyhp.php?cmd=echo%20command%20execution%20test Kppwd""Mozilla/5.e(WindowsNT1e.e;Win64;x64)AppleWebKit/537.36（KHTML,1ikeGecko)Chro 76--[25/Apr/2024:18:52:46+080e]"GET/tmpugk1v.phpHTTP/1.1"20e403_""Mozi11a/5.e（/6e5.1.15（KHTML,1ikeGecko)Version/16.6Mobile/15E148Safari/6e4.1"
+.1--[25/Apr/2024:18:53:33+0800]"GET/tmpugklv.phpHTTP/1.1"20e403"_""Mozi1la/5.0(x1 refox/1e2.en
+.1--【25/Apr/2024:18:56:22+08ee]"pST/tmpugklv.php HTTP/1.1"20e215"http://192.168.137;rv:1e2.e)Gecko/201001e1Firefox/102.e"
+1--【25/Apr/2024:18:56:31+080e】"GET/con2.php HTTP/1.1"20e31"-""Mozi1la/5.0（X11;Li.1--[25/Apr/2024:18:58:2e+08ee]"P0sT/con2.phpHTTP/1.1"2ee15e".""Mozi11a/5.e（Windc Gecko)Chrome/37.e.2e49.Safari/537.36"
+76--[25/Apr/2024:19:00:17+080e]"GET/con2.phpHTTP/1.1"200 31"_w"Mozi1la/5.0(Windov ML,1ikeGecko)Chrome/124.e.e.eSafari/537.36
+76--[25/Apr/2024:19:00:53+e80e]"P0sT/con2.php HTTP/1.1"20e151"_""Mozi1la/5.e(Wino efox/21.e.1"
+76--[25/Apr/2024:19:0e:55+e8eel"P0ST/con2.phpHTTP/1.1"20e152"_""Mozi11a/5.e(Mac 533.21.1(KHTML,1ikeGecko)Version/5.0.5Safari/533.21.1"
+.76--[25/Apr/2024:19:0e:56+080e]"POST/con2.php HTTP/1.1"20e888"_""Mozi1la/5.e（comp.NET CLR 3.1.40767:Trident/6.e:en-IN)"
+1--【26/Apr/2024:09:37:58+08ee1"GET/AdminHTTP/1.1"302 16"_"."Mozi1la/5.e（WindowsNT

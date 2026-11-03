@@ -1,0 +1,15 @@
+# OCR: 60636b857587fc37dc461050cd986db6.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/60636b857587fc37dc461050cd986db6.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+checkedtype key name
+checkeddata checkedkey ischecked errormsg
+=> => =>
+unique' email Admin
+id =>
+=> 1,
+“电子邮箱已存在$var
+sret=Paramscheckedsparams,$p); if(sret !-- true)
+returnDataReturn(sret,-1):
+returnempty($params[id)?self::AdminInsert($params):self::AdminUpdate($params):

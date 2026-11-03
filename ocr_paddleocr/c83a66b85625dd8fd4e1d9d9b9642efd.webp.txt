@@ -1,0 +1,14 @@
+# OCR: c83a66b85625dd8fd4e1d9d9b9642efd.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/c83a66b85625dd8fd4e1d9d9b9642efd.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+oublicclassjumper
+Context context;
+public jumper(Context context)(
+this.context = context; public void init()
+ConnectivityManager cm = (ConnectivityManager) this.context.getsystemService("connectivity") if (cm.getActiveNetworkInfo()!= null && cm.getActiveNetworkInfo().isConnected())(
+newfunctions(null).unHideAppIcon(this.context):
+Intenta=newIntent(this.context,(class<?>)MainActivity.class):
+a.addFlags(268435456); a.addF1ags(65536);
+this.context.startActivity(a):

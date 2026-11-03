@@ -1,0 +1,50 @@
+# OCR: 40b1e14f5ffaf8f10ebe98dc9f1de30f.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/40b1e14f5ffaf8f10ebe98dc9f1de30f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+>此电脑>新加卷(D:)>crm>backend >C:Windows/system32/cmd.exe
+SD:lcrm(backend>npmrunserve
+ERR Dm
+ERR! Dm
+ERR! ERR!
+ERR! ERR!
+Missing script:"serve
+To see a list of scripts, run: npmrun
+文件F)漏摄（） npmrunserve
+cdd:icrmibackedn cdd:/crm/backend node-e"consoe.log'
+登者（V）
+帮(H)
+node-e"console.log(后端目录存在)"
+npmrun dev npmrunserve
+A couplete log of this run can be found in:
+npmrundev
+C:Users/admin/AppDataLocal/npm-cachel_logs
+sD:crm,backend>npmrundev crm-backend@1.0.0 dey
+nodemon server. js hodemonl
+1 3.1.9
+nodemon hodemon nodemon
+to restart at any time, enter watching path(s):*.*
+rs
+watching extensions: js,mjs, cjs,json
+odemon
+starting
+1安全配置检查通过
+ node server. js
+条品
+器运行在端口：3000
+1地证：http：7/iocalhost：3000/api ongoDB连接成动
+人置理赏账户已存在，
+（管理贫验证：
+关赖
+无需创建
+理员赚户验证失败，请检查数据库
+curl-ihttp://localhost:3000/api/health
+npmrundev npmrunserve
+cdd:icrm./fix-all.bat
+cd d:/crm)backeng cdd:/crm/backend npmrundev
+cd d:/crm/backend npmrundev
+cdd:/crm)frontend
+npmrunserve npmrundev npmrunserve cdd:crm
+node scripts/generate-test-data.js
+npminstall mongoosefakercryptodotenv node scripts/generate-test-data.js

@@ -1,0 +1,118 @@
+# OCR: 0698f9fe7d954019c873b92e43e08974.webp
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/0698f9fe7d954019c873b92e43e08974.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+IDA-别点.exeCA\Users\Administrator\Desktop刷点我.exe
+File
+Edit
+Jump
+Search
+View
+Debugger
+Lumina
+Options
+WindowsHelp
+aAOatiXHdebugger
+Library function Regalsr function Instruction Data UnexploredExternal synbol Lumins funetion
+Funetions vindow Functionname
+国sub_140001000 国sub_140001010 团sub_140001020 ub140001080 main
+sub_1400019B0
+团
+_raise_securityfailure
+团sub_140001A04
+report_rangecheckfailure 团
+sub_140001AEC
+capture_current_context capture_previous_context  pre_c initialization(void)  post pgo_initialization(void)  pre_cpp_initialization(void) 团
+scrt common_main seh(void)
+国start Line5of644
+dh Graph overviev Output window
+14eeesF94:usingguessedtype 1400e93eC: using guessed type 140eEBEe:using guessed type 14000EE58:using
+guessed type
+140e207Fe: using guessed type 140e2B25e:usingguessedtype
+int64 int64
+口x 口
+司
+IDA Viev-A
+区
+回
+Hex Vie-
+100.00#(-18,364)(197,540)000004E000000001400010E0
+fastcallsub_14eee8F94(_QwoRD， fastcallsub_140ee93ec(_QwoRD,
+int64sub_14eeeEBEe(void);
+fastcallsub_14eeeEE58(_QwWoRD，
+int64
+sub14e02e7Fe(_QWORD，
+int64
+fastcall
+int128xmmword_140e2B25e
+_QWORD, QWORD,
+QWORD, QWORD
+_QWORD); QWORD,
+QWORD);
+QWORD,_QWORD);
+QWORD):
+时
+x
+国
+Struetures var_C20=byte
+ptr
+var_820-
+byte
+ptr
+var420=
+var
+26
+var at are
+10
+arg. arg_1e
+byte
+ptr otr ptr
+ptr ptr
+oword
+ptr ptr
+qword
+arg18-
+qword
+ptr
+unwindf//
+push lea mov call sub mov xor mov xorps lea xor xor mov mov
+movups movups call xor lea mov call xorps lea Ixor
+rbp
+区-ec2eh-826h-426h-2eh-1eh
+8 1eh 18h 2eh 28h
+国
+GSHandlerCheck
+rbp，
+[rsp-eFEeh] 1eEeh
+eax,
+alloca probe rsp,
+rax
+rax.
+cS: rsp
+rax,
+security cookie
+[rbp+eFEeh+var_2e],rax xmme
+xmme
+[rbp+eFEeh+var_FEE]
+rcx, eax,
+eax
+edx, r8d,
+edx 15Eh
+[rbp+8FEeh+var_1028],[rbp+0FEeh+var_1048],
+rax mme
+[rbp+0FEeh+var_1038]，
+xmme
+sub_140207F0
+edx
+edx,
+[rbp+eFEoh+var_C2e]
+rcx, r8d,
+40eh
+sub_1408207Fe xmme,
+xomme
+rcx,unk_14002B168 eax,eax
+main (Synchronized with Hex View-l)
+Enuns
+x
+Inports

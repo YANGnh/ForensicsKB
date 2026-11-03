@@ -1,0 +1,43 @@
+# OCR: 80f9fd59e8b1a90b0d99b130da6b7862.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/80f9fd59e8b1a90b0d99b130da6b7862.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:32
+
+ShadowCopyView
+File
+Edit
+View
+SnapshotName
+OptionsHelp
+回
+?/GLOBALROOT/Device\HarddiskVolumeShadowCopy7@1?\GLOBALROOT/Device\HarddiskVolumeShadowCopy5@1?\GLOBALROOT/Device\HarddiskVolumeShadowCopy4@1?\GLOBALROOT/Device\HarddiskVolumeShadowCopy3
+(Users)admin/Desktop
+Filename
+PrivaZer_4.0.101_Setup 控制端
+desktop.ini
+zPrivaZer4.0.101Setup.zip Xshell.Ink
+第一次公告.txt
+6Files+Folders.1Selected
+Modified Time
+ExplorerPath
+WlocalhostlG$1@GMT-2025.05.19-09.27.47 Wlocalhost/C$1@GMT-2025.06.18-03.41.32 Wlocalhost\C$1@GMT-2025.06.18-03.41.25 Wlocalhost\C$1@GMT-2025.06.14-02.42.41
+Created Time
+Entry Modified Ti...
+2025/5/1917:18....2025/5/1917:18....
+2025/3/514:57:12
+2025/5/1915:39....2025/5/1915:39....2025/5/1915:39.... 2025/5/1615:18....2025/5/1615:18....2025/5/1615:18....
+2025/5/1917:17....2025/5/191718...2025/5/191718... 2025/5/161534...2025/5/1615:34....2025/5/1615:34... 2025/5/1911:50....2025/5/1911:57....2025/5/1911:57....
+NirSoftFreeware.https://www.nirsoft.net
+VolumePath
+G: C: CA C:
+FileSize Attributes
+D D
+282AHS
+15,796,344A
+645A 342A
+VolumeName
+1?Volume/8d20cebb-4b82-11f0-be2e-4c0f3e63056el 1?1Volume/bc335ddb-a89b-4291-aefb-ad814e822814?1Volume/bc335ddb-a89b-4291-aefb-ad814e822814ll 1?1Volume/bc335ddb-a89b-4291-aefb-ad814e822814
+File Extension 101_Setup
+ini zip Ink txt
+口
+Originating Machine DESKTOP-02H4UFI DESKTOP-8RM6G90 DESKTOP-8RM6G90 DESKTOP-8RM6G90

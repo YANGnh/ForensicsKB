@@ -1,0 +1,18 @@
+# OCR: df6f62504137ad2734f9f10fa604a1d9.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/df6f62504137ad2734f9f10fa604a1d9.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+高保存
+aHROcDovLzE5Mi4x
+main
+SELECTusername
+FROM"User"
+WHEREid
+信息
+摘要
+username yiyan
+结果1
+X
+运行、圆停止早解释
+jrmi9kx8pfg9drc7b9dczh7neo

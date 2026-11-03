@@ -1,0 +1,13 @@
+# OCR: 5f9c76f06b311c44fdcf6e36b9f38987.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/5f9c76f06b311c44fdcf6e36b9f38987.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+wxjzc@wxjzcin/software/usbKeyboardDataHackerl12:49:35
+$Python3Pcap2text.Py/mnt/g/2o25平航杯/usBPcaP.PcaPng Raw output:
+main ?1X
+'M][F21][F2o][RIGHTARRow][F6]@M{M#(]###MMbaobao,zuijin yougenanshengxiangzhuiwo,tajiao
+wangqi
+zhaoxo8lxo8lxo8xo8qizao wangtashuotaaiwo,dan shicongbu bangwonakuai di,haofanarcmdln[F21jlF 211[F211LB[LEFTARROW1D[F211FGHI[F211KLNO[E211MLEETARROW1LJ[LEFTARROW1[LEFTARROW1I1[F71H7I#JK#LMKMHIGMFM DMBCAABB[RIGHTARROW]@[F6][RIGHTARROW][F6]@7@-@@[F6][RIGHTARROW]7[RIGHTARROW]7[RIGHTARROW]@LLLLLLLM@M-}#[F6]M@MMMMM}[LEFTARROW]A[F21]BCEDEMDE][LEFTARROW]E8F[F21]EG8I[LEFTARROW]F#CBA[F21]8[LEFTARROW]]#MAC MCF#}HG#F]E#Dc]#B}}#MMMM-[F6][F6][RIGHTARROw]7[RIGHTARROw][F6]{L@LABEEGFDCAwhoami\nnet user|nnetuserqia nqianwoaini4abcdefghijk[cAPsLoCk]i[cAPsLoCk]mn/add\nnetlocalgroupadministratorsqianqianwoaini4/add\n net user qianqianwoaini4/del7{[F2o][F2o][F2o]7[F2o]7[F2o]L@[F6][F6][RIGHTARROw][F6][RIGHTARROW]{{@LML@@L@ LLLLLLC[LEFTARROW]GIKLMLJHHFECB[F21]8[F7]}[F6][RIGHTARROW]777[RIGHTARROW][F6][RIGHTARROW][F6][F6][F6]@@(tt[F6][F6][F6][F6]{@{@LMLM\nnetlocalgroup administratorsqianqianwoaini4/add\nrundl32uri.dii,[cAPsL
+[CAPsLoCk]iie[cAPsLoCk]p[cAPSLoCk]rotoco[cAPSLoCk]h[CAPSLoCk]andlerhttps;//fakeupdate.net/win1oue/b
+S0d.htm1GMJK#GECMA#MMAM\nCE[F21]G8H[LEFTARROW]KM[F7]N[F7][F7]L[F7]}J[F7]H]F[LEFTARROW]D8B[F20]7[F2o][F20]| F20][F20]7[F20][F7][RIGHTARROW][F7][RIGHTARROW][LEFTARROW]7LLLLLLLL

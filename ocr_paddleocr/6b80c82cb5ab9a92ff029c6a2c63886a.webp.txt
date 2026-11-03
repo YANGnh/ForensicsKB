@@ -1,0 +1,29 @@
+# OCR: 6b80c82cb5ab9a92ff029c6a2c63886a.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/6b80c82cb5ab9a92ff029c6a2c63886a.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:32
+
+.info.json
+Z:>技术人员手机>.info.ison>［BackupFileModulelnfo
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37
+"BackupFileHeaderInfo":}"backupversion": 1,
+"deviceModel"："Mate 6o Pro""deviceId":"default"
+"selectDatasize":4479242499"autoBackup":false,
+"backupTime"：1747661677552,"specialBundles":[]
+"BackupFileVersionInfo"："versionCode":"51000125""versionName":"5.1.0.125"
+"BackupFileTypeInfo":"encryptionType":
+"backupKey"：“AAAADAAAABAAAAAA
+X+A
++bJ1s24Mb8ekRMAX20CIoPJs
+layvalJF3y/FUryBVHFfoQrtgNfdzEOgjJCLzS+g7Sg
+"backupSalt"："oIcbYkjYq9bgjkHhSzAu1tJe8XuePK49gF2bD57tGtU="
+"backupIv"："xm+oGWNV/ayvalJF3y/FUg="BackupFileModuleInfo"：
+"moduleName"："com.huawei.hmos.callrecorder""recordTotal":0,
+"encryptionSalt"："T0zo/WYhxluL6VT994RA8loJsR6YRt1DVnmb1+HuTLM
+"encryptionIv"："hDiMeoRMcKghE+yzy/Id8Q=="bundleDatasize":1249280,
+"bundleVersionCode"：50001333,"bundleVersionName"："5.0.1.333"
+"isApponly":false,"appName"："通话录音"
+"modulename"："soundrecorder"
+"module_type"："BASIc","next2hmos":1,
+"isCompatibilitysuccess":true,"appIndex"：0

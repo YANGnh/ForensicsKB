@@ -1,0 +1,25 @@
+# OCR: 137b5649026318cc9d312a87d41a2e69.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/137b5649026318cc9d312a87d41a2e69.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+52 53 54 55 56 57 58 59 60 61 62 63 64 65 66
+ppuap/server.go:z
+e
+SU
+KitwriteLoop.
+,":"pprpc/rpc_srv_udp.go:170","msg":"srv.Accept(), error: ctx.Done(), exit Accept: 172.19.0.1:55791(55791)."),":"user/ftconn_nat.go:94","msg":"natDetect，devs.Len:1,use ms:1302."}
+:"user/ftconn.go:124","msg""conf.getConn(PPHoA908A736cc818A),notfind,continue..."":"user/ftconn.go:227","msg":"Dail,call starting..."}
+,":"user/ftconn.go:286","msg":"Dail,uid:86-ebb1e39d9aea662ebcafe658854eb82b,did:PPH0A908A736cc818A,runing..."
+":"user/ftconn.go:352","msg":"islocal:true,upnpSdk:true,dlanip:192.168.0.250,didLslat:12."}:"user/ftconn.go:356","msg"："Dail,upnp,did:PPH0A908A736cc818A，slat:TxDV,执行fc.upnp..."}":"pprpc/rpc_cli_tcp.go:166","msg":"cli.Connect(), 192.168.0.5:38272-192.168.0.250:20190 0K..."："user/func.go:186","msg"："WriteLanAuth.Req,sessionkey:528d48f2c5495ca2da95bd7f494d5c8c."}
+":"user/func.go:137","msg":"Write SyncConn.SyncFlag = 1, starting..."},":"user/func.go:156","msg":"Write SyncConn.SyncFlag = 1, flag: 1."}
+,":"user/ftconn_upnp.go:113","msg":"upnp，did:PPHoA908A736cc818A，conn:T-38272-192.168.0.250:20190,连接成功."}
+':"user/ftconn_upnp.go:77","msg":"ftconnUpnpConnDevice, did:PPH0A908A736cC818A,usems:371, sk: 528d48f2c5495ca2da95bd7f494d5c8c,
+user/ftconn
+nA.E
+nee
+did：PPH94998A736CC818A0k
+ctyne
+1oca1
+waiting
+（100ms）."

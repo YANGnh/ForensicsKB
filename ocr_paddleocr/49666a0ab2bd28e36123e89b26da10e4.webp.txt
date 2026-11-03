@@ -1,0 +1,6 @@
+# OCR: 49666a0ab2bd28e36123e89b26da10e4.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/49666a0ab2bd28e36123e89b26da10e4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+cmd='cd/www/wwwroot/192.168.209.147/uploaded_img/;cat/tmp/tmppass response=passwd!@#

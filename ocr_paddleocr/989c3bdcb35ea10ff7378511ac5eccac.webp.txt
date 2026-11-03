@@ -1,0 +1,19 @@
+# OCR: 989c3bdcb35ea10ff7378511ac5eccac.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/989c3bdcb35ea10ff7378511ac5eccac.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+【Wireshark·追踪HTTP流(tcp.stream eq7)·test.pcap POST/api/auth/loginHTTP/1.1
+Authorization:BearerfeyJhbGcioiJIUzIiNiIsInR5cC NTExfO.zG0YmNaVw4LcfVA46dG709aLhg3jScvV1HzqwVx Content-Tvpe:application/ison
+User-Agent:PostmanRuntime/7.43.2 Accept：*/*
+Postman-Token:60f17033-93f9-4700-bb8b-be8afb94ee Host:api-server.com
+Accept-Encoding:gzip,deflate,br
+Connection:keep-alive Content-Length:65
+"username":"admin"
+"password"："zhaohong666"
+HTTP/1.12000K
+Server:nginx/1.27.4
+Date:Tue,08Apr202505:16:14GMT
+Content-Type:application/json;charset=utf-8 Content-Length:250
+Connection:keep-alive
+Content-Security-Policy:default-src'self';base-rc'self'data:;object-src'none';script-src'sel

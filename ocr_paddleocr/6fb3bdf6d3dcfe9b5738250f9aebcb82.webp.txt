@@ -1,0 +1,19 @@
+# OCR: 6fb3bdf6d3dcfe9b5738250f9aebcb82.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/6fb3bdf6d3dcfe9b5738250f9aebcb82.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+警LoginAction.class.phpX
+APP>Modules>Index>Action> LoginAction.class.php
+6 27
+35 36 37 38 39 48 41 42 43 44 45 46 47 48 49 5e 51 52 53 54 55 56 57 58
+Class LoginAction extends Actiont
+public function logincl()
+if(I('username')==""I('password')=="")
+alert（用户名和密码不能为空！，-1)： sverify=I('post.verCode',',"trim'); if(empty($verify))
+alert(请输入图形验证码！，-1)；
+if($_SESsION['verify']=md5($verify))
+alert(图形验证码错误！，-1)；
+$model_m=M('member');//验证用户名和密码
+$member=$model_m->where(array('username'=>I('username),'password'=>I('password',",'sha1')))->find(); if(!smember)
+alert（用户名或密码错误！，-1）；//禁止锁定会员登录

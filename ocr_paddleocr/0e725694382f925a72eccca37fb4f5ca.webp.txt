@@ -1,0 +1,120 @@
+# OCR: 0e725694382f925a72eccca37fb4f5ca.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/0e725694382f925a72eccca37fb4f5ca.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+Wireshark·追踪TcP流(tcp.streameqO)·流量包.pcap
+.[0 1098 root 1099root
+.,.0 1100 r00t
+1199root 1202root 1226root
+.~..0 1227 root
+1228root 1229root 1231root
+.~..0 1232 root
+1263root 1286root
+..014861ogd.~.F01540root
+2090 root 2091root
+OIW<
+oSw
+[kworker/R-wq_ri]
+[irq/86-10320000]
+[kworker/R-w_ri]
+oIw<
+oIw< oIw< oSw
+[kworker/0:2H-kb][kworker/R-cfg80][napi/phyo-7]
+OSw
+oSW osw oSW
+0
+oSw oIW< 2064S
+[napi/phyo-8]
+[napi/phyo-9][napi/phyo-10][napi/phyo-11]
+[napi/phy-12]
+SW
+[mt76-txphyo]
+[kworker/R-fullc]
+/sbin/logd-S128
+4284
+S
+2852s 2852S
+.Jo2116network to2117
+network
+2155root
+2194root
+.~..0
+2375root 2501root
+.~..02566root
+2603root.~..02711
+9956 10820
+S
+/sbin/rpcd-s/var/run/ubus/ubus.sock-t3o
+(hostapd)/sbin/ujail-t5-nhostapd-Unetwork-Gnetwork-C/etc/capabilities/wpad.json-c--/u[wpasupplicant)/sbin/ujail-t5-nwpasupplicant-Unetwork-Gnetwork-C/etc/capabilities/wpad
+/usr/sbin/wpasupplicant-n-s-g/var/run/wpasupplicant/global/usr/sbin/hostapd-s-g/var/run/hostapd/global
+2696s
+/sbin/netifd
+1258ms
+/usr/bin/dockerd--iptables=false
+1644S 1972S
+/usr/sbin/odhcpd
+Immortalwrt
+/usr/sbin/uhttpd-f-h/www-r
+-x/cgi-bin-u/ubus-t60-T30-k20-A1-n3-N100
+口
+1288S
+/usr/sbin/vsftpd-olistenaddress=0.0.0.0-olisten=YEs-olisten.ipv6=No/var/run/vsftpd/vsftpd.conf
+/usr/bin/dbus-daemon--system--nofork
+1892
+S
+nobody
+3204.~..0 3547.~..0 3833
+root 3205
+Sroot
+root 3584
+ntp
+root
+2324
+1132
+s
+1132
+2852
+S
+avahi-daemon：running[Immortalwrt.local]
+/usr/sbin/dropbear-F-P/var/run/dropbear.1.pid-p192.168.1.1:22-pfd5b:fa44:af66::1:22-K300
+s
+/usr/sbin/dropbear-F-P/var/run/dropbear.2.pid-p222-K300-T3-W262144
+(ntpd)/sbin/ujail-t5-nntpd-Untp-Gntp-C/etc/capabilities/ntpd.json-c-u-r/bin/ubus-r
+/usr/sbin/ntpd-n-N-s/usr/sbin/ntpd-hotplug-pntp.tencent.com-pntpl.aliyun.com-pntp.ntsc.ac
+1336
+S
+24780
+R
+3974root
+.~..0
+4007
+root
+1240m 2852
+S
+dnsmasq
+.~.~04025.to6055root 6377root
+6379root
+.~..06403root
+/usr/bin/ttyd-ibr-lan/bin/login
+containerd--config/var/run/docker/containerd/containerd.toml--log-levelwarn
+s
+[dnsmasg)/sbin/ujail-t5-ndnsmasq-u-1 -r /bin/ubus-r /etc/Tz-r/etc/dnsmasq.conf-r/etc/et
+S 5628 eIW
+1468S 1356S
+/usr/sbin/dnsmasg-C/var/etc/dnsmasq.conf.cfgo1411c-k-x/var/run/dnsmasq/dnsmasq.cfg01411c.pid[kworker/0:1-eve]
+/bin/login-ash
+OIW
+302客户端分组，226服务器分组，444turm(s)
+整个对话（16kB）查找：
+[kworker/o:2-eve]
+显示为ASCII
+正在载入
+Nodeltatimes
+区
+滤掉此流
+x
+流o
+公众号金星路40梦人
+幸团
+帮助

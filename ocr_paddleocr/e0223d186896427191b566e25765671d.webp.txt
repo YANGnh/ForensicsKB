@@ -1,0 +1,42 @@
+# OCR: e0223d186896427191b566e25765671d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/e0223d186896427191b566e25765671d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+publicobject#@o>#handleLogin(objectfunctionobject,objectnewTarget,LoginPagethis)[
+asyncfunctionenter -asyncfunctionenter(): try
+this.errorMessage = "";
+if (this.uiAbilityContext == false){
+this.errorMessage="应用上下文错误，无法执行操作"；
+hilog=import[defaultashilog}from"@ohos:hilog"
+hilog.error(_lexenv__o_,"LoginPage","contextisnotavailableforpasswordoperation."): promptAction= import{default as promptAction}from
+""@ohos:promptAction";
+obj=promptAction.showToast;
+obj2 = createobjectwithbuffer(["message", @]);
+obj2.message = this.errorMessagej obi(obi2):
+return asyncfunctionresolve(null, asyncfunctionenter): if ((""== this.passwordInput ?1 : @)!= @)
+cnis.errorressage
+密悦不服
+promptAction2= import defaultaspromptActionfrom"@ohos:promptAction" obj3=promptAction2.showToast;
+obj4 = createobjectwithbuffer(["message", 0])
+obj4.message - this.errorMessage; obj3(obj4):
+return asyncfunctionresolve(null,asyncfunctionenter):
+asyncfunctionenter=(this.FIxEDPAsswoRD==this.passwordInput?1:o):
+(asyncfunctionenter=) i+
+tryf
+router = import f default as routerfrom@ohos:router";
+suspendgenerator(asyncfunctionenter,asyncfunctionawaituncaught(asyncfunctionenter,router.pushUrl(createobjectwithbuffer(["url","pages/NotepadPage resumegenerator = resumegenerator(asyncfunctionenter):
+if((1==getresumemode(asyncfunctionenter)?1:o)!=o)(
+asyncfunctionenter - resumegenerator; throw(asyncfunctionenter):
+catch(ExceptionIo unused){
+objs = asyncfunctionenter;
+hilog2=importfdefaultashilog/from"@ohos:hilog":
+hilog2.error(_lexenv__e_,"LoginPage","Failedto navigatetoNotepadPage："+obj5.message+"") this.errorMessage="页面跳转失败："+obj5.message;
+promptAction3 = import { default as promptAction } from"@ohos:promptAction"; obj6=promptAction3.showToast;
+obj7 = createobjectwithbuffer(["message", o]);
+obj7.message - this.errorMessagej obj6(obj7)
+this.errorMessage="密码错误";
+promptAction4 = import  default as promptAction } from"@ohos:promptAction"; obj8 =promptAction4.showToast;
+obj9=createobjectwithbuffer(["message",o]);
+obj9.message = this.errorMessage: obj8(obj9):
+this.passwordInput =

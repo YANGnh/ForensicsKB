@@ -1,0 +1,15 @@
+# OCR: 12720d876e5c59d26ecaeb384294eecc.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/12720d876e5c59d26ecaeb384294eecc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+public final boolean a(String str,String str2,List<string> list,List<File>list2)(
+try
+this.f302a.a(new e(new String(b.b.a.a.a(this.d.getBytes(),"E10ADC3949BA59ABBE5
+= new e[list.sizeO]:
+e]
+eVarArr
+(int i = o; i< list.sizei i++)  for
+eVarArr[il =new e(list.get(i)): this.f302a.af.a.ttogc,
+eVarArr):
+this.f3e2a.c(str); j jvar = new i):

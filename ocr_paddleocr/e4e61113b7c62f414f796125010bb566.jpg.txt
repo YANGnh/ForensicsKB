@@ -1,0 +1,56 @@
+# OCR: e4e61113b7c62f414f796125010bb566.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/e4e61113b7c62f414f796125010bb566.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+终端X
+root@nginx:/etc/nginx/conf.d#Ls proxy.conf
+root@nginx:/etc/nginx/conf.d#catproxy.conf
+#H5+API代理29221227 server
+server nane
+Loud.cnjy-jshcloud.cnapi.jy.jshcloud.cn,
+listen
+root index
+#API接口服务配置
+LocationA/jinyt/
+proxypass
+jy-proxy2.jshcloud.cnapi.jy-proxy2.jshcloud.cnjy-proxy-jshcloud.cnapi.jy-proxy-jshc 80
+/usr/share/nginx/html; index.htmlindex.htm,
+http://192.168.100.111:9031/
+SRealIp
+set
+））(setSReaLIPs1:)#关于cdn多层代理逻辑下客户端真实IP截取2023013e
+proxy set_header proxy_set header proxy_set header proxysetheader
+#API接口服务配置追梦猿临时 LocationA/zhuinengyuan/
+proxy_pass
+Host
+X-Real-IP
+X-Forwarded-For
+shost:sserverport;
+SRealIP#Sremoteaddr
+Sproxy addxforwardedforif（SRealIp(*).(.
+Sproxy_addxforwardedfor
+X-Forwarded-ProtoSschene: http://192.168.100.1119041/:
+SReaLIP
+set
+））[setSRealIP$1：#关于cdn多层代理逻辑下客户端真实IP截取20230138
+proxy set header proxy set header proxy_set header proxy set header
+Location/
+root
+/home/www/h5
+Host
+X-Real-IP
+X-Forwarded-For
+X-Forwarded-Proto
+Shost:Sserverport,
+Sproxyaddxforwardedfor:if（SRealIp(*).(*
+SRealIP-#Sremoteaddr
+Sproxy_add_x_forwarded_for; Sschene,
+tryfiles Suri Suri//index.htnl,
+#解决Router(mode：history'）模式下，刷新路由地址不能找到页面的问题 if(!-eSrequestfilenane)
+rewritea(.*)s/index.html?s=s1last break
+error_page404/404.html:
+location=J40x.htnl
+error_page50e502503504/50x.html;
+/5ex.html
+location=

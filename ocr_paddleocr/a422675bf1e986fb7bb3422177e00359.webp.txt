@@ -1,0 +1,28 @@
+# OCR: a422675bf1e986fb7bb3422177e00359.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/a422675bf1e986fb7bb3422177e00359.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+importos importsys
+fromCrypto.CipherimportAEs
+fromCrypto.Protocol.KDFimportPBKDF2
+fromCrypto.Randomimportget_random_bytes fromCrypto.Util.Paddingimportpad
+defencrypt_file(file_path,password):
+salt=get_random_bytes(32)
+key=PBKDF2(password，salt，dkLen=32，count=100000000）
+file_path=os.path.abspath(filepath) output_dir=os.path.dirname(file_path)
+folder_name=os.path.splitext(os.path.basename(file_path))[o]
+encrypted_path=os.path.join(output_dir,f"(folder_name).encrypted") os.makedirs(os.path.dirname(encryptedpath),existok=True)
+withopen(file_path,rb')asf_in,open(encrypted_path,'wb')asf_out:
+data = f_in.readO
+cipher= AES.new(key,AES.MODE CBC)
+f_out.write(cipher.iv) fout.write(salt)
+encrypted_data=cipher.encrypt(pad(data,AEs.block_size)) f_out.write(encrypted_data)
+print(f"Fileencryptedsuccessfully:(encrypted_path)")
+if
+name
+main
+if len(sys.argv) !=3:
+print("Usage: python encrypt.py <file_path><password>") sys.exit(1)
+file_path = sys.argv[1] password = sys.argv[2]
+encrypt_file(file_path，password）

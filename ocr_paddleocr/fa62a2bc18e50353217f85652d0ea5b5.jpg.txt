@@ -1,0 +1,20 @@
+# OCR: fa62a2bc18e50353217f85652d0ea5b5.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/fa62a2bc18e50353217f85652d0ea5b5.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+带db.php
+×
+Application>Common>Conf>db.php
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+<?php
+/*f1agfuu7hPbw7dkTd1w8BfxsASLREVnGdOX)
+mysq1配置 returnarray(
+“mysql号//数据库类型
+DBTYPE=>
+DBHOST=>127.0.0.1，//数据库主机
+DBNAME=>2828，//数据库名称 DBUSER=）root，//数据库用户名"DBPWD=>root，//数据库密码 DBPORT*=>3306，//数据库端口
+"DB_PREFIX=>think，//数据库前缀 DBCHARSET=>Utf8字符集
+DBDEBUG
+P>
+=//数据库调试模式开启后可以记录SQL日志

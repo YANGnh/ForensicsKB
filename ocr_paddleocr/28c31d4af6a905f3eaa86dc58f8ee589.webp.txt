@@ -1,0 +1,47 @@
+# OCR: 28c31d4af6a905f3eaa86dc58f8ee589.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/28c31d4af6a905f3eaa86dc58f8ee589.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+费config-php > api
+.common > demo > extra
+v home)command AutoCash.php
+ AutoClearExpireOrder.php 带AutoEmptyGoodsTrash.php 费Migrate.php
+ Migrate20180510.php  UnfreezeMoney-php
+> index v manage
+v controller 费 Article.php
+ ArticleCategory-php
+警Backup.php 费Cash.php
+ CashChannel.php
+CashChannelAccount.php  Channel.php
+ ChannelAccount.php
+88 81 82 83 84 85 86 87 88 89 98 91 92 93 94 95 96 97 98 99 108 101 102 103 184 185 166
+宁
+empty（suser["status"]）&sthis->error（"账号已经被禁用，请联系管理！）;/
+更新登求信息
+$data=【"'login_at'->["exp'，"now()'],"login_num'=>['exp'，'login_num+1']];
+Db::name('systemUser)->where(["id'>Suser["id']])->update($data); session('user',
+suser);
+··/记在登录7天
+.-..session("user_expire_time',.time()+864ee.*.7);
+Add to Chat Ctr+L
+!empty(Suser['authorizeJ) &&NodeService::applyAuthNode(); LogService：:write("系统管理，“用户登录系统成功"）；
+Quick Edit Cri+k
+if（!session(google_auth')&&sysconf("is_google_auth'))[
+if (!(sthis->request->controller()--'Auth'&&$this->request->action()-'google')
+&& I($this->request->controller()Login
+"Login'
+&&(sthis->request->controller()
+） else
+&&
+sthis->request->action()
+&&
+sthis->request->action()
+sthis->success（‘登录成功，进行谷歌令牌二次验证...，‘admin/auth/google"）；
+sthis->success（"登录成功，正在进入系统..."，"@admin'）；
+/*
+通出叠录*/
+function out()
+public
+"out')
+"verifycode')

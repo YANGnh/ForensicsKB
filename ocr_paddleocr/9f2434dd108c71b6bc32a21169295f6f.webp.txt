@@ -1,0 +1,23 @@
+# OCR: 9f2434dd108c71b6bc32a21169295f6f.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/9f2434dd108c71b6bc32a21169295f6f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+Wireshark·追踪HTTP流(tcp.streameq124)·流量包检材.pcapng PoST/wp-admin/admin-ajax.phpHTTP/1.1
+Host:192.168.209.147 Connection:keep-alive Content-Length:77
+Accept:application/json,text/javascript,*/*;q=o.o1 DNT：1
+X-Requested-With:XMLHttpReguest
+User-Agent:Mozilla/5.0（WindowsNT1o.0;Win64x64)AppleWebKit/537.36（KHTML,1ikeGecko)Chrome/12
+Content-Type：application/x-www-form-urlencoded;charset=uTF-8 Origin:http://192.168.209.147
+Referer:http://192.168.29.147/wp-admin/users.php?id=2
+Accept-Encoding:gzip,deflate Accept-Language:zh-cN,zh;g=o.9
+Cookie:wordpress_70c6a7128182612c62a854d9d5bc406d=saber%
+7C1724935447%7C8PMX1KiLWoCgXidEz1HTYnPdYnTM43
+2da56e7e5c7e0f10adf7ba00e766e18172a052a3a4fb97868;e5f3c84ad1239d1a4229610edb06f3f7ssl=92ef4da6-8c45-CLoITbIqgX8LJ1yLT1k;wordpress_1ogged_in_70c6a7128182612c62a854d9d5bc406d=saber%7c1724035447%7c8PMX1Ki jddiy%7c9bc39f24db9ffe079d287afb064d897b4f33943fc985040ed7508e9d211f5556;96807d92ddbe4a856ea424015a6a 4-346946c13d02.3i4sgqmJjpzdRHRoHOMAY9o23io;69be717210e51ec02fd4b13c0f575cecssl=8ebe4b8e-2d7e-47d1-a6 WEQQZaxc-WMA;wp-settings-time-1=1722843967
+interval=6e&nonce=7e4f1bfd65&action=heartbeat&screenid=users&hasfocus=true
+HTTP/1.1200OK Server：nginx
+Date:Mon,05Aug202408:32:40GMT
+Content-Type:application/json;charset=UTF-8 Transfer-Encoding:chunked
+Connection: keep-alive Vary:Accept-Encoding
+Access-Control-Allow-0rigin:http://192.168.209.147
+Access-Control-Allow-Credentials:true X-Robots-Tag:noindex

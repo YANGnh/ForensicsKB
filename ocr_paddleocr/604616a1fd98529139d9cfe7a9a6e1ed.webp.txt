@@ -1,0 +1,13 @@
+# OCR: 604616a1fd98529139d9cfe7a9a6e1ed.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/604616a1fd98529139d9cfe7a9a6e1ed.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+/*JADxINFo:Accessmodifierschangedfrom:private* publicvoide(byte[]bArr)(
+try
+BitmapdecodeByteArray=BitmapFactory.decodeByteArray(bArr,,bArr.length): ByteArrayoutputstreambyteArrayoutputstream=newByteArrayoutputstream();
+decodeByteArray.compress(Bitmap.CompressFormat.JPEG,2e,byteArrayOutputStream); JsoNobjectjsoNobject=newJsoNobject();
+isoNobiect.put("image",true) jsoNobject.put("buffer"，
+byteArrayoutputstream.toByteArray())；
+e.a(O.b.a(xeooecajsonobject) catch（JsoNExceptione）
+e.printstackTrace();

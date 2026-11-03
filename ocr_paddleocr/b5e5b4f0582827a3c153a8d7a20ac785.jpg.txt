@@ -1,0 +1,14 @@
+# OCR: b5e5b4f0582827a3c153a8d7a20ac785.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/b5e5b4f0582827a3c153a8d7a20ac785.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+root@wnsj#cat/root/backup.sh#!/bin/bash
+DBUSER="root"
+DB_PASSWORD="root" DBNAME-"2828"
+BAcKUpPATH-root/backup CdSBACKUPPATH
+DATE=S(date+%Y%m%d%H%M%S
+AEs_PAsS=s(echo -n"sDB_NAME"Iopenssl enc -aes-256-cbc-a -salt -pass pass:mysecretpassword-nosalt) BACKUPFILE_NAME="S[DBNAME}_S[DATE]-SqL"
+mySqLdump-uSDBUSER-PSDBPASSWORDSDBNAME>SBACKUPFILENAME FileName="s(DBNAME}.sql.gz"
+tar-czvf -SBACKUP FILE NAMEIopenssl des3-salt-k SAES PASS -out SFile Name 广m -rfSBACKUP FILENAME
+mySqladmin-u SDB USER-pSDB PASSWORDdrop SDB NAME--force

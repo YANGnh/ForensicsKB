@@ -1,0 +1,57 @@
+# OCR: d2728902d64860281344098131c33cdc.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/d2728902d64860281344098131c33cdc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+for r in range(4):
+Out[c*4 + r] = mixed[r]
+return out
+def Inv_mix_columns(state):
+out=[0]*16 for c in range(4):
+a = [state[c*4 + r] for r in range(4]
+Out[c*4 + 0] = mul[a[0],0x0e) ^ mul[a[1],0x0b) ^mul(a[2],0x0d) *mul(a[3],0x09) out[c*4 + 1] = mul[a[0],0x09) * mul(a[1],0x0e) ~mul(a[2],0xob) ^mul(a[3],0x0d) out[c*4 + 2] = mul[a[0],0x0d) ^mul[a[1],0x09)  mul(a[2],0x0e) ^ mul(a[3],0x0b) out[c*4 + 3] = mul(a[0],0x0b) ^mul[a[1],0x0d) ^mul(a[2],0x09) ^ mul(a[3],0x0e)
+returnout
+def encrypt_block[block16, round_keys]:
+assert len(block16) == 16 state = list(block16)
+state = add_round_ke(state, round_keys[0]) for md in range(1, 10):
+state = sub_bytes(state) state = shift_rows(state) state= mix_columns(state)
+state= add_round_key(state, round_keys[rnd])#final round
+state = sub_bytes(state) state = shift_rows(state)
+state = add_round_key(state, round_keys[10]) return bytes(state)
+def decrypt_block[block16, round_keys):
+assert len(block16) == 16 state = list(block16)
+state = add_round_key(state, round_keys[10]) for rnd in range(9, 0, -1):
+state= inv_shift_rows(state) state= inv_sub_bytes(state)
+state = add_round_key(state, round_keys[rnd]) state = inv_mix_columns[state)
+state = iny_shift_rows(state) state = inv_sub_bytes(state)
+state = add_round_key(state, round_keys[0]) return bytes(state)
+#CBCmode
+defaes_cbc_encrypt(plaintext,key16, iv16):
+assert len[(iv16) == 16
+round_keys = key_expansion(key16) padded = plaintext
+blocks = [padded[1:i+16] forl in range(0, len(padded], 16]
+cipher = b prev=iv16
+for blk in blocks:
+xored=bytes(abfor a,b in zip(blk,prev) enc = encrypt_block(xored, round_keys)
+cipher += enc prey=enc return cipher
+def aes_cbc_decrypt(ciphertext,key16, iv16, J): assert len[v16) == 16
+if len(ciphertext) % 16 [= 0:
+raise ValueErrorl"Ciphertext length must be multiple of 16") round_keys = key_expansion(key16, J)
+blocks = [ciphertext[isi+16] for i in range(0, len(ciphertext), 16]
+plain = b prey=iv16
+for blk in blocks:
+decdecryp_block(blk,round_keys)
+xored=bytes(abfora,binzip(dec,prev)
+plain+=xored prev=blk return plain
+# Utilities for hex
+def hex_to_bytes(h):
+h = h.replace("").replace("n',")
+if len(h)% 2: h = 0'+h return bytes.fromhex(h)
+def bytes_to_hex(b):
+return b.hex()
+# Example/ Test vectors
+if__name_"_main__"
+# AE5-128 single-block test(ECB): from NIST SP 800-38A
+key =hex_to_bytes("636744536236564f6567654637457557")
+#CBCexample:
+公众号·小谢取证

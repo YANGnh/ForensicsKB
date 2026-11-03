@@ -1,0 +1,49 @@
+# OCR: 6d234460621519ca45eeb4fd0b32fc1c.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/6d234460621519ca45eeb4fd0b32fc1c.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+Attack Results
+Save
+Columns
+Positions
+Filter:Showingall items
+Request
+5 o 1 2 3 4 6 7
+Request Pretty
+admin123 iwzadmin admin12 admin888 admin8 sysadmin adminxx
+Payloads
+Payload
+Response
+Raw
+Hex
+1HITP/1.12000K 2Date:Sum,
+Render
+Resourcepool Status code
+200 200 200 200 200 200 200 200 a
+09.Jun202407:05:44GMT
+Server: Apache
+Settings
+Error 口 0 0 0 0
+0
+Timeout 0
+0
+Length 1363 1320 1320 1320 1320 1320 1320 1320
+expires=Sun,
+Set-Cookie:ocKey=61697ac0e82ae449e5208e152b1bc4e3: 4
+5 Upgrade:h2 6
+Connection:1
+Upgradeclose
+7Vary:Accept-Encoding Content-Length:1042 8
+9 10 11 12 13 14 15
+Content-Type:text/html:
+charset=UTF-8
+3.lntruderattackofhttp://192.168.217.188:7788-Temporaryattack-Notsavedtoprojectfile Comment
+09-Jum-202408:05:44GMT:1
+Max-Age=3600:path=/:HttpOnly
+<!DOCTYPEhtmlPUBLIC-//W3C//DTD
+L1.0Transitional//E""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd>
+XHTML
+<htmlxmlns=http://www.w3.org/1999/xhtml <head)
+<meta http-equiv="Content-Type"content="text/html;charset=utf-s"/)
+<title) 登录成功 </title>

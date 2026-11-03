@@ -1,0 +1,23 @@
+# OCR: 483d154a25bc96c81bd5f2a1f4f3baa7.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/483d154a25bc96c81bd5f2a1f4f3baa7.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+代码如下： importre
+importpandasaspd def num_pattern(str):
+pattern = r"[.+}'
+match=re.findall(pattern,str
+numbers = re.findall(r"d+", match[o])
+print(numbers) returnnumbers
+df=pd.read_excel(案件卡串号数据.xlsx,sheet_name='sheet1) print(df)
+listtitle=df.columns.tolist()
+#获取标题栏
+#设置一个空的卡串号列表
+new imsi=[l #
+#获取溯源
+new sy = df[list title[3]] for v in new_sy:
+only_imsi=num_pattern(v)[o] #把第四个字段中的卡串号过滤出来 new_imsi.append(only_imsi）
+seriesobj=pd.Series(newimsi
+grouped = series_obj.groupby(series_obj).count().sort_values()
+print(grouped)
+公众号：小谢取证

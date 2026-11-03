@@ -1,0 +1,90 @@
+# OCR: 050fd952f9889cf0db354f7b3fed031c.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/050fd952f9889cf0db354f7b3fed031c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+azui >
+dc.squareup
+io
+dcloud
+Dapplication
+>· 人 > > > > > 人
+c c
+Q
+@
+DcloudApplication
+DCLoudApplicationImpl
+base
+BuildConfig
+R C
+common
+DHInterface。
+adapter
+···
+· > > > > > > >
+> > > > > >
+constant core
+cs ui
+util adb
+emulator。
+hostpicker language·
+net
+c c
+C c c
+c
+$$Lambda$AppRuntime$ ZSq3SuXcfKmm3Jn1 $$Lambda$AppRuntime$iosiCkjBhiP8W7dUf
+ADUtils AEsUtil
+AppConsoleLogUtil AppPermissionUtil
+AppRuntime Appstatus
+AppstatusBarManager
+AppstreamUtil ArrayUtil
+AssistInputUtil
+Base64 BaseInfo Birdge
+BuildProperties
+ChecksignatureUtil CompressUtil
+CreateShortResultReceiver
+CustomPath DataUtil
+<Appstatus
+?
+CAppRuntime
+?
+BaseInfo
+Jsutil e
+1mport 1o.acloua.common.vnintertace.lunilnstanceigrj
+import io.dcloud.common.DHInterface.IWebview; import io.dcloud.common.adapter.io.DHFile;
+import io.dcloud.common.adapter.ui.AdaUniwebView;
+importio.dcloud.common.adapter.ui.webview.DcwebView; importio.dcloud.common.adapter.util.AndroidResources; import io.dcloud.common.adapter.util.EventActionInfo; import io.dcloud.common.adapter.util.Logger;
+import io.dcloud.common.adapter.util.PlatformUtil; import io.dcloud.common.adapter.util.sP;
+import io.dcloud.common.constant.AbsoluteConst; import io.dcloud.common.core.ui.TabBarWebviewj import io.dcloud.common.ui.PrivacyManager;
+import io.dcloud.common.ui.blur.DcBlurDraweeView; import io.dcloud.common.util.BaseInfo;
+import io.dcloud.feature.internal.sdk.sDK; import java.io.File;
+import java.io.FileInputstream;
+import java.io.FileNotFoundException; import java.io.Inputstream;
+import java.lang.reflect.InvocationTargetExceptionj import java.lang.reflect.Method;
+import java.util.ArrayList; import java.util.HashMap; import java.util.Iterator;
+import org.json.JsoNobject;
+*Loadedfrom:classes.dex*
+2 1 2 3 4 6
+9 10
+publicclassAppRuntime
+private static int sBatteryLevel = 1oo; private static int sTemperature = 2o; private static string sUnistatistics;
+C
+JSoNUtil
+Md5 c
+public static void applyWebViewDarkMode(final Context context, final WebView
+@override//java.Lang.Runnable public void run(){
+if (Build.VERSION.SDK_INT >= 29) {
+if（WebViewFeature.isFeatureSupported("FoRcE_DARK")）{
+(AppRuntime.getAppDarkMode(context)）{ if
+X
+webView){
+NetTool
+AppRuntime.1
+WebSettingsCompat.setForceDark(webView.getSettings(),2);
+helse
+WebSettingsCompat.setForceDark(webView.getSettings(),o);
+if(WebViewFeature.isFeatureSupported(WebViewFeature.FoRCE_DARK_STRATEGY)){
+WebSettingsCompat.setForceDarkstrategy(webView.getSettings(),1);
+C
+Hashutils
+AppPe

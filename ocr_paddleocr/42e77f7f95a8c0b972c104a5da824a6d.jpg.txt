@@ -1,0 +1,28 @@
+# OCR: 42e77f7f95a8c0b972c104a5da824a6d.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/42e77f7f95a8c0b972c104a5da824a6d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+6 7 8
+18 11 12 14
+16 17 18
+28 21
+23 25 27 29
+package com.hl.easyapk;
+import java.security.MessageDigest:
+importjava.security.NoSuchAlgorithmException;
+/*Loaded from:classes3.dex*/ public class sha
+public static string encrypt(string raw)
+String.md5str=raw tryt
+MessageDigest md =MessageDigest.getInstance(AppSigning.MD5); md.update(raw.getBytes());
+byte[] encryContext =md.digest();
+StringBufferbuf=newStringBuffer(w");
+for (int offset =; offset <encryContext.length;offset++)
+int i = encryContext[offset]; if(ie)t
+i+=256; ifi<16)
+buf.append("e");
+buf.append(Integer.toHexstring(i)): md5str=buf.tostring();
+catchNoSuchAlgorithmExceptione）
+e.printstackTrace();
+returnmd5str.toLowerCase();
+川

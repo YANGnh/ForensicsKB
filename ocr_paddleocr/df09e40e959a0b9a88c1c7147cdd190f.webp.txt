@@ -1,0 +1,12 @@
+# OCR: df09e40e959a0b9a88c1c7147cdd190f.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-初赛/df09e40e959a0b9a88c1c7147cdd190f.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+publicstaticStringddsx(stringstr)
+Object m36d = c.m36d(434): tryf
+Object m36d2 = c.m36d(TypedValues.CycleType.TYPE CU c.m52d(TypedValues.CycleType.TYPE_WAVE_PHASE,m36d2 Objectm40d=c.m40d(439,c.m38d(438,m36d),m36d2 byte[m62d=c.m62d(440,(object)str,):
+Objectm38d=c.m38d(441,m36d); c.d(443,m38d,c.d(442),m40d);
+return（5tring）c.d(445，c.m64d(444,m38d,
+m62d)):
+}catch(Exception unused){

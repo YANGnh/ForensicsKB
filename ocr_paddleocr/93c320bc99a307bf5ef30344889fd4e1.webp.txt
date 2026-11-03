@@ -1,0 +1,48 @@
+# OCR: 93c320bc99a307bf5ef30344889fd4e1.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/93c320bc99a307bf5ef30344889fd4e1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+e
+0 0 83 0 4 5 2 6 6 5 7 1 0 58 1
+185 34 1959 258 219 0 0 7 0 46 0 116 3 幸
+原类型视图
+Page1
+文本视图
+Q
+十六进制视图
+100%
+?
+国
+AC
+目
+host scan 17092025.log
+0
+口
+[02:34:27][Info]checkinghttps://a876.5e91ecb3-c020-4919-bd5b-7c3de64f5eb4.comwithproxy ss://ov4c19pi0e.oioiok.com:28762
+[02:34:27] [Info] checking https://4b30.a2a19ffe-1587-4c30-b5e8-763560536494.com with proxy ss://oy4cl9pi0e.oioiok.com:28762
+[02:34:27][Info]checkinghttps://4c6f.8dad4642-11d4-4d0c-a999-12f329ad5f23.comwithproxy ss://ov4c19pi0e.oioiok.com:28762
+[02:34:27] [Error] error on api access: Get "https://4c6f.8dad4642-1ld4-4d0c-a999-12f329ad5f23.com/api/vl/guest/comm/config":tls:failed toverifycertificate:x509: certificatesignedbyunknownauthority
+[02:34:27][Info]https://4c6f.8dad4642-11d4-4d0c-a999-12f329ad5f23.comfailed (-998)with proxyss://oy4c19pi0e.oioiok.com:28762(250ms)
+[02:34:28][Info]429onfetching/api/vl/guest/comm/config
+[02:34:28][Info]https://4b30.a2a19ffe-1587-4c30-b5e8-763560536494.comfailed（429)with proxyss://oy4c19pi0e.oioiok.com:28762(570ms)
+[02:34:28][Info]https://a876.5e9lecb3-c020-4919-bd5b-7c3de64f5eb4.compassed withproxy ss://ov4c19pi0e.oioiok.com:28762（609ms
+[02:34:28][Info]https://a876.5e91ecb3-c020-4919-bd5b-7c3de64f5eb4.comACCEPTEDwithproxy
+[02:34:28][Info]addhttps://4b30.a2a19ffe-1587-4c30-b5e8-763560536494.comfromDNSTXT config
+[02:34:28] [Info] add https://a876.5e91ecb3-c020-4919-bd5b-7c3de64f5eb4.com from DNS TXT config
+[02:34:28] [Info] add https://4c6f. 8dad4642-11d4-4d0c-a999-12f329ad5f23. com from DNS TXT config
+[02:35:00o][Info]subscriptionDOWNL0ADEDwithproxy(5819ms)
+修改时间：2025-09-1710:35:00 元数据地址：262405
+全路径：鲁堪安卓手机.vmdk/分区4/data/com.sakura.app/files/clash/log/hostscan17092025.log
+加密类型：未加密已删除：否
+ER i
+X
+2025-09-1710:35:00
+ACA
+鲁堪安卓手机.vmdk/分
+[02:34:27][Info]checkinghttps://a876.5e91ecb3-c020-4919-bd5b-7c3de6 ss://ov4c19pi0e.oioiok.com:28762
+[02:34:27][Info]checkinghttps://4b30.a2a19ffe-1587-4c30-b5e8-763560 ss://ov4c19pi0e.oioiok.com:28762
+[02:34:27] [Info] checking https://4c6f.8dad4642-11 ss://ov4c19pi0e.oioiok.com:28762
+37:35
+[02:34:27] [Error] error on api access: Get"https:/ 1069005600
+a999-12f329 8dad4642-11

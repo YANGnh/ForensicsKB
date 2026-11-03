@@ -1,0 +1,62 @@
+# OCR: c8aa0bf366b77b83c1fc0a7afa2415da.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/c8aa0bf366b77b83c1fc0a7afa2415da.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+/home/king/nginx-proxy/nginx/conf.d
+U
+bin.usr-is-merged
+boot cdrom dev etc home
+king
+.cache.ssh mysql
+nginx-proxy
+logs nginx
+conf.d·
+api-server.conf
+docker-compose.yml test
+web-api
+.bash history.bash logout
+.bashrc-profile
+.sudo as admin successful viminfo
+1 2 3
+0 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+0
+终端
+X
+C server
+listen 80:
+servernameapi-server.com
+access log error_1og
+location/
+LF
+/var/log/nginx/api-server-access.log
+CRLF main:
+/var/log/nginx/api-server-error.logwarn;
+proxypass
+http://172.16.10.254:3000:
+proxy_http_version1.1;
+proxy_set_header proxy_set_header proxy set header proxy_setheader proxy_set_header proxy_set_header
+Upgrade shttp_upgrade; Connection "upgrade"; Host shost:
+X-Real-Ip Sremote_addr:
+X-Forwarded-For $proxy_add_x_forwarded_forj X-Forwarded-Proto $scheme;
+proxy_connect_timeout 60s;
+proxy_send_timeout proxy_read_timeout send timeout
+"Entrypoint":
+60 60s; 60s;
+"/docker-entrypoint.sh"
+"OnBuild":null,"Labels":
+X
+"com.docker.compose.config-hash":"b4e1525a4f828dcee04e52e7edf23f9cf74c
+99dc64051bc0bb15897a7a8baab1"
+"com.docker.compose.container-number"."1"
+"com.docker.compose.depends_on":"com.docker.compose.imaqe:
+"sha256:4cad75abc83d5ca6ee22053d85850676eae
+f657ee9d723d7bef61179e1e1e485"
+"com.docker.compose.oneoff":"False""com.docker.compose.project":
+“nginx-proxy"
+er-compose.yml"
+"com.docker.compose.project.config_files":"/home/king/nginx-proxy/dock"com.docker.compose-project.working_dir":"/home/king/nginx-proxy"
+"nginx-proxy"
+"com.docker.compose.service":
+"2.34.0"
+"com.docker.compose.version":

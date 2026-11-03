@@ -1,0 +1,17 @@
+# OCR: 275228344d13d64de4964d95c92ca353.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/275228344d13d64de4964d95c92ca353.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+iv=hextobytes("672394ef4cd52f76ffde7bb06a86625c#decrypt
+f=open("6c051a72b91a1.1","rb"
+ff=open("6c051a72b91al.png","wb") j=0
+while True:
+dd = f.read(16) if len(dd)<16:
+ff.write(dd) break
+p=aescbc_decrypt(dd,key,iv,j%11)
+ff.write(p) j+=1 ifj==256:
+f.close()
+j=0
+ff.close()
+公众号：小谢取证

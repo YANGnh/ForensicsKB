@@ -1,0 +1,78 @@
+# OCR: aa6ff6d752edf7badff74b18d456a0c3.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/aa6ff6d752edf7badff74b18d456a0c3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+索件
+案件根目录
+Image.zip(25,502) Image.zip(211,872)
+pc-disk 品分区1
+品分区2(144) 品分区3（1）
+品分区4(711,385) mac(318,852)
+品分区1（318.850) video(425)
+SmartFridge.bin (4)
+server2 (2) 品分区1(1） server1(130) 品分区1（5）品分区2（1）品分区3（122) 由config
+（70）
+由·□EFI(7) 白logs(4)
+ syslinux (13)
+SystemVolumeInf
+Iconfig
+文件名称一
+.=（根目录）
+=config(70)
+domain.cfg drift
+editor.cfg forcesync lgo
+ident.CFg network.CFg passwd Pro.key
+random-seed secrets.tdb shadow
+smbpasswd super.dat
+一分区 offset
+0016973824
+■文件
+0
+23
+0016973840 0016973856 0016973872 0016973888 0016973904 0016973920
+6F 32 36 33 41 65
+1
+21 72 32 32 35 49 78
+回预览
+2 2F 74 33 2D 42 44 70
+3 62 20 44 38 38 5F 6F
+回
+详细
+4 69 55 43 36 OD 4E 72
+5 6E 4E 42 34 OA 41 74
+口缩略图
+6 2F 52 38 41 65 4D 20
+7 62
+8
+61
+41 33 2D 78 45 55
+49 2D 44 70 3D 4E
+了描述存在的存在的存在的存在的存在的存在的，存在的存在的存在的存在的存在的存在的存在的存在的存在的存在的
+时间轴
+9 73 44 38 42 6F 54 52
+10 68 5F 32 32 72 6F 41
+文件类型
+cfg cfg
+cfg cfg
+key tdb
+dat
+图例说明
+11 OD 47 42 38 74 77 49
+12 0A 55 30 44 20 65 44
+13 65 49 2D 38 55 72 5F
+门
+14 78 44 34 34 4E OD 44
+15 70 3D 43 37 52 0A 41
+了路径 config Aconfig Iconfig Iconfig Iconfig Iconfig Iconfig config Iconfig Aconfig Iconfig Iconfig Iconfig Aconfig
+同步 V
+养
+UTF-8
+#!/bin/bash
+exp
+Ort UNRAID GUID= 223DCB83-82B0-4C 62-864A-DB28D847
+35B8
+export UNR
+AID NAME=Tower
+export
+UNRAID DA

@@ -1,0 +1,36 @@
+# OCR: e51ea92037a65ff976a9bbf40d63738e.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/e51ea92037a65ff976a9bbf40d63738e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+<optionvalue="132%">132%</option>
+</select> <noscript>
+<inputtype-"submit"value-"Go"/> </noscript>
+</form></li></ul><ul><liid-"liuser_preferences"><ahref-"./prefs_manage.php?token-eeaa696fe7b68db6be486ob3dea862a1">Moresettings</a> </li></ul></div></div><divid-"mainpaneright"><divclass-"group"><h2>Databaseserver</h2><ul>
+<liid-"li_server_info">Server:localhostviaTcp/Ip</li><liid-"li_server_type">Software:MySQL</li><liid-"liserverversion">Softwareversion:5.5.53-MySQLCommunityServ
+er(GPL)</li><liid="li_mysql_proto">Protocolversion:1e</li><liid="li_user_info">User:root@localhost</li> <spanxml:lang-"en"dir-"itr">
+UTF-8Unicode
+(utf8) </span>
+<liid="liselect_mysql_charset">
+Server charset:
+</li>
+</ul></div><divclass-"group"><h2>webserver</h2><ul><liid-"li_webserversoftware">Apache/2.4.23(win32)OpenssL/1.e.2jmodfcgid/2.3.9</li><liid-"limysql_clientversio n">Databaseclient version:libmysql-mysqlnd 5.0.11-dev-20120503-$Id:76b8b24596e12d4553bd41fc93cccd5bac2fe7a $</li><li id-"1iused_php_extension">PHPextension:mysqli <ahref=./url.php?url=http%3A%2F%2Fphp.net%2Fmanua1%2Fen%2Fbook.mysqli.php&amp;token=00aa696fe7b68db6be4860b3dea862a1"target="documentation"<imgsrc="themes/dot.gif"title="Documentation"alt="Documentation"class="iconic_b_help"/></a></li></ul></div><divclass="grouppmagroup"><h2>phpMyAdmin</h2><ul><liid="li_pma_version"class="jsversion check">Version information:phpStudy2e14</li><liid-"phpStudy2014"><ahref-"http://ww.phpstudy.net/"target-"blank">phpStudy2e14</a>
+</li><liid-"li_pma_wiki"><ahref-"./url.php?url-http%3A%2F%2Fwiki.phpmyadmin.net%2F&amp;token-eeaa696fe7b6Bdb6be486eb3dea862a1"target-"blank">wiki</a>
+</1i><liid="1i_pma_homepage"><ahref="./ur1.php?ur1=http%3A%2F%2Fww.phpMyAdmin.net%2F&amp;token=eeaa696fe7b68db6be486eb3dea862al"target="_blank">0fficialHomepage</a>
+</1i><1iid-"1i_pma_support><ahref-"./url.php?url-http%3A%2F%2Fww.phpmyadmin.net%2Fhome_page%2Fsupport.php&amp;token=eeaa696fe7b68db6be4860b3dea862a1"target-_blank">Gets upport</a>
+</ii> </div>
+</div>
+</ul>
+<br class-"clearfloat"/> <brclass-"clearfloat"/>
+分组1678,6客户满分组，6服务器分组，11tum（sl点击选率
+整个对话(215kB）查找：version
+Showdataas
+ASCII
+滤掉此流
+打印
+另存为..
+返回
+关闭
+流60
+查找下一个(N）
+帮助

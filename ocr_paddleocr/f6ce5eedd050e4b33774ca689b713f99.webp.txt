@@ -1,0 +1,20 @@
+# OCR: f6ce5eedd050e4b33774ca689b713f99.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/f6ce5eedd050e4b33774ca689b713f99.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+登录验证
+@return string
+publicfunctionlogin()
+if($this->request->isPost))
+$data
+=sthis->request->only('username'"password'，'verify'l)
+$validate_result = sthis->validate(sdata,"Login'); if（svalidateresult==true)+
+$this->error(svalidate_result): else
+swherer'username']=sdatarusername'l:
+$where['password']= mds($data['password'].Config::get('salt'));
+$admin_user= Db::name('admin_user')->field('id,username,status')->where(swhere)->find(); if（!empty(sadmin_user))（
+if($admin_user['status']!=1)(
+$this->error（当前用户已禁用）： else
+Session::set('admin_id',sadmin_user['id'j);
+Session::set('admin_name',sadmin_user['username'j)

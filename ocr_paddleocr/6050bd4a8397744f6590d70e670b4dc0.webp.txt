@@ -1,0 +1,29 @@
+# OCR: 6050bd4a8397744f6590d70e670b4dc0.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/6050bd4a8397744f6590d70e670b4dc0.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+-caps;margin-left:120px;
+4px:font-variant:smalt-ont
+l4px;font-variant:small-caps;margin-left:12opx;font-family:Arial,Helveti on:hoverf
+l4px;font-variant:small-caps;margin-left:12opx;color:#FFoooo;cursor:defaul 15px;
+WinMerge
+15px;color:aqua
+eunique
+background:url(./st
+text-align:left; text-align:center; FFF;font-size:1opx;t
+这些文件使用了不同类型的换行符。
+是否在本次比较中将所有类型的换行符视作相等？
+font-size:l4px;font-variant:small-caps;margin-left:120px: span.no_moont
+font-size:l4px;font-variant:small-caps;margin-left:120px;font span.no_moon:hover
+font-size:14px;font-variant:small-caps;marqin-left:120px;colo a.ccct
+font-size:15px;
+ages/admin/blan
+小提示：如果您希望始终将所有类型的换行符视为相等，点击编辑“菜单的选项子菜单，在选项对话框中的"比较一栏中
+设置"忽略换行符差异（Windows/Unix/Mac）“选项。口不再询问此问题(Q)
+是M
+td.blank
+:background:url(./styles/resource/images/admin/blank.qif);text-aliqn:right
+否(N)
+al;
+border:Opx;backqround:url(./styles/resource/images/admin/blan </style>

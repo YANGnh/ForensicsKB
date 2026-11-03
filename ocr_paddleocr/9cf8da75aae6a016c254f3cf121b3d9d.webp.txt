@@ -1,0 +1,112 @@
+# OCR: 9cf8da75aae6a016c254f3cf121b3d9d.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/9cf8da75aae6a016c254f3cf121b3d9d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:32
+
+3
+文件
+视图 G
+modules.abc
+输入文件
+导航区
+工具业
+modules.abc
+后脚本，源代码
+defpackage e@ohos.app
+e@ohos.curves@ohos.matrix4@@system.app@@system.curves
+插件
+Q
+C@system.matrix4@@system.router
+帮助@
+@
+合
+国
+K
+EsConcurrentModuleReguestsAnnotation
+@
+ESSlotNumberAnnotation
+p000entry/src/main/ets entryability
+entrybackupability
+pages vutils
+eCryptoUtils DatabaseHelper
+f.pkgName@entryObject f isCommonjs Object
+fhasTopLevelAwaitObject fisSharedModuleObject f.scopeNamesObject
+f.moduleRecordIdxObject
+益
+m #~@o=#DatabaseHelper(Object,Object,Object)Object m #~@o>#backupDatabase(Object,Object,Object)Object m#~@o>#closeRdbStore(Object,Object,Object)Object
+#~@o>#deleteNoteById(Object,Object,Object,Object)Ob m #@o>#getAllNotesRaw(Obiect,Object,Obiect)Object
+m#~@o>#getNoteByIdRaw(Object,Object,Object,Object)Ob#@o>#getRdbstore(object,Object,Object)Object
+m #~@o>#initialize(Object,Object,Object,Object)Object m#~@o>#initializeDatabaseTables(Object,Object,Object, m #~@o>#insertNote(Object,Object,Object,Object)Object m#~@o>#restoreDatabase(Object,Object,Object)Object
+#@o>#updateNoteContent(Object,Object,Object,Object, func_main_o(Object,Object,Object)Object
+资源文件国Summary
+问题：
+?5错误
+CEntryAbility
+@LoginPage
+*modules - jadx-gui
+CNotepadPage
+packagepoooentry/src/main/ets/utils;
+2
+3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55
+代码
+X
+CDatabaseHelper
+/*renamedfrom:&entry/src/main/ets/utiLs/DatabaseHeLper&/*Loadedfrom：F：IPanguRunl笔记-副本lets|modules.abc* public classPatabaseHelper {
+public ObjectpkgName@entry: public Object isCommonjs
+publicObjecthasTopLevelAwait; public Object issharedModule; public Object scopeNames;
+public Object moduleRecordIdx;
+reason:invalid classname*/
+/*JADxWARN:TypeinferencefaiLedfor:ri8vil,types:[int]*//*JADxWARN:TypeinferencefaiLedfor:r18v14,
+types:
+/*JADxWARN:TypeinferencefaiLedfor:r18v17,
+types:
+/*JADxWARN:Typeinferencefailedfor:r18v21,
+types:
+/*JADXWARN:Type inferencefailedfor:r18v24,
+types:
+[object,int]*/
+【int】*/【int】*/
+[object,int]*
+/*JADX WARN:Type inferencefaiLed for:r18v27,
+[object,java.Lang.class]*
+types:
+Object newTarget,
+public Object func_main_o(Object functionobject,
+this)(
+DatabaseHelper
+newlexenvwithname([4,"DOMAIN_DB"， lexenv_o_1_="notepad.db";
+module_1
+="notes"
+"DB_NAME"，1，"SQL_CREATE_NOTES_TABLE"，2，"SQL_CREATE_NOTES_UPDATE_TRIGGER"，3J，4):
+lexenv_0_0_=2;
+Uint8Array(createarraywithbuffer([72，117，97，119，101,105，78，111,116，101,80，97,100，49,50,51]));
+x
+1eXenV02("CREATETABLEIFNOTEXISTS"
++module 1+"(Inid INTEGER PRIMARYKEY AUToINCREMENT,Intitle TEXT,Incontent TEXTNOTNULL,--Encrypted contentIn
+creat
+lexenv3=("AnCREATETRIGGER IFNOT EXISTSupdate notes updated atInAFTER UPDATEON"+module1+"AnFOR EACHROW\nBEGINAnUPDATE"+module1+"SETupdated at=s r18=hole.#@o-#DatabaseHelper(object2,object3,hole,["initialize","&entry/src/main/ets/utils/DatabaseHelper&.#~@o>#initialize",1l,"getRdbstore","&entry/src/main/ets/util:
+obj=r18.prototype;_module_0_ = r18(); return null;
+1
+/*JADxhARN:TypeinferencefaiLedfor:ri4v4,types:[object,int]*/ public Object#@o>#initialize(object functionobject,Object newTarget,
+asyncfunctionenter - asyncfunctionenter(): tryf
+if (isfalse(this.rdbstore)== null)[
+hilog=import{defaultashilog}from"@ohos:hilog";
+DatabaseHelper
+this,object argo){
+hilog.info(_lexenv_o_o_,"DatabaseHelper","RDBstorealreadyinitialized."): returnasyncfunctionresolve(null,asyncfunctionenter):
+this.UIAContext  argo;
+suspendgenerator(asyncfunctionenter,asyncfunctionawaituncaught(asyncfunctionenter,this.getRdbstore())): resumegenerator = resumegenerator(asyncfunctionenter);
+if ((1 == getresumemode(asyncfunctionenter)?1 : e)!= 0)(
+throw(resumegenerator);
+return asyncfunctionresolve(null, asyncfunctionenter): catch(ExceptionIo unused){
+return asyncfunctionreject(asyncfunctionenter,asyncfunctionenter);
+/*JADxWARN:TypeinferencefaiLedfor:r2ov24,types:[int]*
+Type inference failed for: r20v32,
+[object,
+/*JADX WARN:
+types:
+指令和IR
+Simple
+Fallback
+Splitview
+intl*

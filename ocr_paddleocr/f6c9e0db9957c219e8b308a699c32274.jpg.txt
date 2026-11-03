@@ -1,0 +1,15 @@
+# OCR: f6c9e0db9957c219e8b308a699c32274.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/f6c9e0db9957c219e8b308a699c32274.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+server
+Listen8e
+server_namezihoutaijmhw.sdxfwl.top: indexindex.html
+/webapp/z,
+root
+#解决页面刷新404问题
+tryfiles suri Suri//index.html: Location/prod-api/
+proxy_passhttp://127.0.0.1-808o/: proxy_set headerHostShost;
+proxy_set header X-Real-IP Sremote addr proxysetheaderREMOTE-HOSTSremoteaddr
+proxy_set_header X-Forwarded-For Sproxy_add_xforwardedfor

@@ -1,0 +1,36 @@
+# OCR: cd119a6e7b7f9e3d5ec348f56b271428.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/cd119a6e7b7f9e3d5ec348f56b271428.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+m
+对象品保存
+localhost
+1 2 3 4 5 6 7 8 9 10
+消息
+salary@1200(localhost)-表查询创建工具
+具%美化SQLO代码段
+1200
+SELECT
+userId
+→*无标题-查询
+文本、导出结果咖创建图表 √运行停止早：解释
+SUM(newBlance - oldBlance) AS
+SnewDataSum
+FROM
+salary GROUPBY
+userId
+ORDERBY
+newDataSumDESC;
+摘要
+userld 87314
+21143072
+87778 67878
+35775530 95745360 89378
+50023589
+结果1
+剖析
+newDataSum
+22380.99 18535.79 15915.14 13699.16
+状态
+12838.54 12502.29 12231.53 9775.29

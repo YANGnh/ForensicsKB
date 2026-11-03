@@ -1,0 +1,30 @@
+# OCR: ae2a42cf49be5d3d267e2cbc5cece86d.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/ae2a42cf49be5d3d267e2cbc5cece86d.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+rootkali)-~/桌面/Forensics/volatility python2 vol.py-f
+/mnt/ShareWithWinlo/memdump.memimageinfo VolatilityFramework 2.6.1
+VolatilityFoundation
+INFO
+:volatility.debug
+:Determiningprofile based onKDBG search.
+SuggestedProfile(s)
+As Layerl As Layer2
+win10x64.19041
+SkipDuplicatesAMD64PagedMemory（KernelAS）
+:FileAddressSpace （/mnt/Share WithWinlo/memdump.mem）
+PAE type:1
+NoPAE
+DTB KDBG
+NumberofProcessors
+Image Type(Service Pack)
+KPCRforCPU0 KPCRforCPU1
+KUSERSHAREDDATA Image date and time
+dtime
+Image localdate and
+oxladoool
+0xf80775000b20L
+2@
+0xfffff80771043000L 0xffffa081295ca000L 0xfffff78000000000L
+2024-04-2514:18.56UTC+0000 2024-04-2522:18:56+0800

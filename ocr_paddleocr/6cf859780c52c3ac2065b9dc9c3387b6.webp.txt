@@ -1,0 +1,39 @@
+# OCR: 6cf859780c52c3ac2065b9dc9c3387b6.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/6cf859780c52c3ac2065b9dc9c3387b6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:27
+
+o 安 A
+File
+Edit
+Selection
+View
+测试beacon_uri.py
+Go
+2解密key文件.pyX
+OSearch[Administrator]
+C:>Users>Administrator>Desktop>Cobalt_Strike_Tools_work>解密key文件.py>...
+2 3 4 5 6 1 8 9 10 11
+import base64
+import javaobj.v2 as javaobj
+file_path=r"c:\Users\Administrator\Desktop\Cobalt_strike_Tools_worklkeys withopen(file_path,"rb")asfd:
+pobj = javaobj.load(fd)
+privateKey =pobj.array.value.privateKey.encoded.data publicKey=pobj.array.value.publicKey.encoded.data
+nrivatekev=
+PROBLEMS
+OUTPUT
+DEBUGCONSOLE
+对256取余的结果为：92
+TERMINAL
+PORTS
+8
+品 >
+po
+O&C:\Users\Administrator\AppData\Local\Programs\Python\Python312\python.exec:/Users/Administrator/Desktop/Cobalt_Strike_Too&C:\Users\Administrator\AppData\Local\Programs\Python\Python3i2\python.exec:/Users/Administrator/Desktop/Cobalt_Strike_Toc
+--BEGIN PRIVATE KEY-.
+MIICdwIBADANBgkghkiG9woBAQEFAASCAmEwggJdAgEAAoGBAL1pPChVSiG12WN4Vv207IMLhajj iV43M76BvGaRBO+VcvTNVSIQQyfcFtoUIYZvVI5iDxRZGBc0Ks5a8KYvhBPFnRVf6x/GcAiD5APF WeW2w2KvXYZZSbioLd/3H/klssJ2dG96ZEUKE6LcdFv1GCfN6Re83yRRTnME/8UMbNntAgMBAAEC gYBa/MRzM5Vq4CpPic1xnEitIsnQoY1xft8ScswIET3nwUj5o/FzbZB1A1r048c/DZf21dAcnDfg XaT6f+D+U/EDoPIfaPNdsG1pGpxGz7UiwlhKtYoZ4DDw/SiNHyNAIcJUVakCt+XuBCFEqOnmyX9j P/JYBJLU+8LJDkUVs3Vo2QJBAPxQK1t8/1GsL3UPNe9viE1FAKDI3dPsNxDTIXhb1+UYGVQ4KuCt/cn4wMW4+vJFzXUwRjMBOkMyu8xS1Lv1en8CO0DALcRgGZGiOrzXTBmK9U1+nHH65U0GEzS/USms L7ehamP7gGyZxZUu+CeYtBALLsBa6uCKxUuY6sXdsp1maP2TAkBQfpMWgO5DdBc/1TZzyLVHUXg9 01dRwM5gg7rt1v8ti16pS7ICM///a2i0q6sD191QRbJfm0inH4xiRxqvRyqpAkEAv3UZHhB7GWdZ kTh8fgbStJ+Roj6D3fAGbc+jL6q+S+6dOzN/f1bswEVz1VsWXL2v3yP+neHe5bKHe831p9BTRwJB AIVmUL1q4Yy06X470c1AUZHOrbnZ1ujdvTh2sYGkAnGK9tcUBdrXQuN36oyy7hoWDj5SDp8A2XWu YwRVbF9KOdE=
+---ENDPRIVATEKEY---BEGINPUBLICKEY-
+MIGfMAeGCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9aTwoVUohtd1jeFb9juyDC4Wo44leNzO+gbxm kQTv1XLozVUiEEMn3BbaFCGGb1SOYg8UWRgXNCrOWvCmL4QTxZoVX+sfxnAIg+QDxcH1tsNir12G WUm4qC3f9x/5JbLCdnRvemRFChOi3HRb5RgnzekXvN8kUU5zBP/FDGzZ7QIDAQAB
+-ENDPUBLICKEY---
+AdministratoronFridayat3:26PM
+图（日home 日AppData 日Local日Programs 国MicrosoftvsCode日

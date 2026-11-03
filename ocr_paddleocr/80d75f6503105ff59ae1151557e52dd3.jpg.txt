@@ -1,0 +1,34 @@
+# OCR: 80d75f6503105ff59ae1151557e52dd3.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/80d75f6503105ff59ae1151557e52dd3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+资源管理器 VYOURCODEXYZ
+>.idea >app
+bootstrap config database >factories >seeds sql
+installso gitignore
+>public
+resources routes）storage >tests
+installsql
+X
+database>sql>
+197 287 288 269 218 21 212 213 214
+215 216 217 218 219 220 221
+install.sql
+CREATE TABLE
+adminusers
+UNTQUEKEY
+admin.usersusernameuniqueCusernane
+)ENGINE-InnODBAUTOINCREMENT-2DEFAULT CHARSET-utf8mb4COLLATE-utf8mb4 uniCodeci;
+Recordsofadminusers BEGIN;
+INSERTINTOadminUSersVALUES（,admin
+S2yS1eSe7z99Mhxm9BOHL55xHZTX.QcNTZJC6ftRXHCR/zkBja/jBeasVeBy
+4UAXF2BEw9EL1Tr2aGmwkVSDKWXqRF6djOMAHSiBMSOrPfPNHYrjCCQMtnTC COMMTT:
+Tabiestructureforcarmis DROPTABLEIFEXTSTSCarmis:
+carmis
+CRFATE TABLE
+2921-95
+2821-85-
+682:86:680:
+NULLS
+Administrator

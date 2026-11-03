@@ -1,0 +1,29 @@
+# OCR: 4d35be065b8dc45108930dccd0c09bb1.webp
+# 来源: ./02-WriteUp/2025/2025-龙信杯/4d35be065b8dc45108930dccd0c09bb1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+,"share_post_info"：{"is_open_platform"：1,"need_share_backup":false,"open_platfo
+cription_type%22%3A%22%22g7D
+rm_key"："aw7c4z4ej0o3efzd""share_type"："video"3,"share_ur"："https://www.iesdouyin.com/share/video/7564293625007115554/?reqion\u003dCN\u0026mid\u003d752 64293605267950355\u0026u_code\u003d2h73dd5he761\u0026did\uo03dMS4wLjABAAAAxq780wRXrZRzs7oV3xkrdcHUe0ctPiP4dFoDVZABbodCB7EhYkxtEvTjIKNtoxui\u0026iid\u003
+itleTypelu?
+dMS4wLjABAAAAcg1YAgd95iZrPEHODOmc6xPkj1dnD3ML3Hxgvo6-AE550b_JoiLcuozQFiBa0cft\ue026with_sec_did\uoo3d1\uoe26video_share_track_ver\u03d\uo02e 003dtitlelu0026share_sign\uo03dVMPsScLhd_LA502iaY8MfjtJn0cDIzvb5kdex8fhU0o-)u0026share_version\ue03d36020e\u0026tslu003d1761201071\u0026from
+io03 should_ope
+28\u0026from_ssr)u003d1\u0026share_track_info\u003d%7B%221ink_description_type%22%3A%22%22%7D","shoot_camera_5ource":0,"shoot_way"："lv_sync" n_ad_report":false,"shouldStopAweme"：false,"shouldVsBarShow":o,"shouldVsCommentShow"：o,"show_add_mate_btn":false,"show_collect_hint":o,"showCo
+monAnchor
+Type":-1,"show_follow_button"："show_button":false,"show_tag":e},"show_mix_collect_hint":false,"show_sticker_guide":false,"shownOnotherPages" irst":e,"sort_labeu"..
+l,"skii_f
+"spotType":e,"standardAnchorType":
+star atlas order id":e."statistics:
+756439362590771555
+"coa
+"admi
+aweme
+LLect_count"：o."comment_count"：4,"digg.count":3"downLoad_count"e."
+"exposure_count"：2,"fLame_income_count"：o,"fLame_send_count"："forward_count"：o,"has
+_over_write_mutual_count":false,"lose_comment_count":e,"lose_count":o,"mutual_friend_comment_count":e,"mutual_friend_digg_count";e,"play_count":23,"reco? mmend_count":o,"share_count":e,"digest";"","whatsapp_share_count":e},"status"：f"allow_comment"：true,"allow_friend_recommend"：false,"allow_fr
+nd_recomme2
+nd_guide":false,"video_hide_search":l,"allow_self_recommend_to_friend":true,"allow_share":true,"aweme_edit_info":"bar_toast":"","button_st on_toast""","edit_status"e,"has_modified_all":false,"modify_all_edit_success_time"03"aweme_id";"7564293625007115554","delete_status":0
+tus"：0"butt?
+disable_soft
+recovery":e,"download_status":o,"enable_soft_delete":l,"dont_share_status":o,"in_reviewing":false,"is_delete":false,"is_private":false,"Is_prohibited":? false,"item_version":o,"isten_video_status":2,"music_edit_status":e,"part_see":o,"privacy-panel_version":o,"private_status":o,"review_result":{"extra":?

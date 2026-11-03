@@ -1,0 +1,35 @@
+# OCR: ce3533e58ba5652f305a8c9af6e128fb.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/ce3533e58ba5652f305a8c9af6e128fb.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:17
+
+终端
+[root@localhostalist#pwd lopt/alist
+[root@localhostalistj#ls alistdatastorage
+[root@localhostalistl#-/alist-h
+A file list program that supports multiple storage, built with love byXhofe and friends in Go/Solid.js
+Conplete documentation is available at https:l/alist.nn.ci/ Usage:
+alist [command] Available Commands
+admin
+cancel2fa completion
+help lang
+restart server start stop storage version
+Flags
+Show admin user's info and some operations about admin user's password Delete 2FA of admin user
+Generate the autocompletion script for the specified shell HeLp about any command
+Generate language json file
+Restartalistserverbydaemon/pid file
+Start the server at the specified address
+Silent start alist server with--force-bin-dir
+Stop alist server bydaemon/pid file Manage storage
+Show currentversionofAList
+-data string
+--debug--dev
+--force-bin-dir
+-h,--help
+--log-std--no-prefix
+datafolder(default"data")
+start with debug mode start with dev mode
+Force to use the directory where the binary file is located as data directory helpforalist
+Forceto log to std disable env prefix
+Use "alist[command] --help" for more information about a command[root@localhostalist#

@@ -1,0 +1,14 @@
+# OCR: 02714fcd1b146f8c79479fa8d0384b92.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/02714fcd1b146f8c79479fa8d0384b92.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+32 33 34 35 36 37 38 39
+/*！*/;#at318
+#250527.0:53:31·server.id·1.end_1og_pos.485.CRc320x857efe96 use.newbee_mall_db/*！*/;
+SET.TIMESTAMP=1748321611/*！*/;
+Query
+DELETE·FROM-newbee mall db.tb newbee mall orderWHERE.order id=33/*！*/
+#at485
+threadid=2-exectime=o-errorcode=0
+xid=e

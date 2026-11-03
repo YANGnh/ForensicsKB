@@ -1,0 +1,16 @@
+# OCR: 562ef172b97cd7482a1eb9fb4327af51.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/562ef172b97cd7482a1eb9fb4327af51.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+prefix'=>'think' type'=>
+auto start'=>true,
+info
+FLOGINITFile
+sq11DB1CONNECT:UseTime:0.020784s port=3306;dbname=lok1;charset=utf8
+sql
+SQL
+mysql:host=127.o.0.1;
+SHOWCOLUMNSFROMappurlconfig「RunTime:0.003870s
+sql1[SQL1SELECTaliases,url'FROMappurlconfigWHERE
+RunTime.0002554s

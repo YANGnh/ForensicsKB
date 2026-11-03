@@ -1,0 +1,21 @@
+# OCR: 6e50f0817872694429c5b15fb3b71456.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/6e50f0817872694429c5b15fb3b71456.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+2
+important.py
++
+D:/important.py/base64
+37 38 39 40 41 42 43 44 45 46 47 48 49 50 51
+defanalyzeHawk2(hawk2_path:str,key_text:str):
+@hawk2_path：Hawk2.xmL文件的完整路径
+@key_text：密钥的base64编码字符串，存储在crypto.KEY_***.xml文件中 try:
+hawk2=HawkTool(key_text) print（正在解密Hawk2.xmL...
+result=hawk2.parseHawk2(hawk2_path)
+string_json=str(result).replace(,).replace("t print(string_json）
+except:
+print（Hawk2解析失败，请检查密钥和文件路径是否正确！
+公众号小谢取证
+anaLyzeHawk2(r"D:lcom.android.mxtlshared_prefs\Hawk2.xmL","VFgb2FX+xdFQBTxFBFBfdGFwTDmf0VLLQa+70Fx62+4=")
+并调用示例

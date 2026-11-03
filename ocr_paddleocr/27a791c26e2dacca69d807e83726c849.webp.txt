@@ -1,0 +1,8 @@
+# OCR: 27a791c26e2dacca69d807e83726c849.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/27a791c26e2dacca69d807e83726c849.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+defdescramblekey(self,tempkey):
+mixed_base=b".join([bytes([bA42])forbintemp_key[:1o]]) actual_key=ecureKey123456
+self.enhanced key =self.enhance_key(key-actualkey)

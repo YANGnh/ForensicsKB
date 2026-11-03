@@ -1,0 +1,16 @@
+# OCR: 7db5d537620a67c9ab24c9e180764122.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/7db5d537620a67c9ab24c9e180764122.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+[rootQserver#
+# hosts.allow
+####
+##
+J#catetc/hosts.allow
+This f ile contains access rules which are used to allow or deny connections to network services that
+either use the tcp wrappers library or that have been started through a tcp_wrappers-enabled xinetd.
+Seeman 5 hosts optionsandman 5 hosts access forinformation onrule suymtax.
+mantcpdforinformation ontcp_wrappers
+See
+sshd:all:allow

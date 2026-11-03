@@ -1,0 +1,14 @@
+# OCR: 3c1672bb1877c152326a7b8d2c220fd5.webp
+# 来源: ./02-WriteUp/2024/2024-美亚杯-团队赛/3c1672bb1877c152326a7b8d2c220fd5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:20
+
+public static void sendReq(){
+try
+if(f27b!=null)
+return;
+b.a.b.e b2 = e.a().b(); f27b=b2;
+b2.e("ping", new b());
+f27b.e("order",new c()): f27b.w():
+catch (Exception e)
+Log.e("error", e.getMessage());

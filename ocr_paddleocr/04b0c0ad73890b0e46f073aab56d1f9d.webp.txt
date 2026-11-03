@@ -1,0 +1,19 @@
+# OCR: 04b0c0ad73890b0e46f073aab56d1f9d.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/04b0c0ad73890b0e46f073aab56d1f9d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+root@c44b9400c7f9:/app#gdb-p1
+GNU gdb (Debian 10.1-1.7)10.1.90.20210103-git
+Copyright(C)2021FreeSoftwareFoundation,Inc
+License GPLv3+:GNU GPL version 3orlater<http://gnu.org/licenses/gpl.html> This isfree software:you arefreeto change and redistribute it.
+ThereisNOWARRANTYtotheextentpermittedbylaw. Type"showcopying"and"show warranty"for details. ThisGDB was confiqured as"x86 64-linux-qnu"
+Type"showconfiquration"forconfiqurationdetails.
+Forbugreportinginstructions,pleasesee: <https://www.gnu.org/software/gdb/bugs/>
+FindtheGDBmanualandotherdocumentationresourcesonlineat:
+<http://www.gnu.org/software/gdb/documentation/> Forhelp，type"help".
+Type"aproposword"to search for commands related to"word" Attachingtoprocess1
+「NewLWP8『NewLWP9]「NewLWP10「NewLWP11[NewLWP12 NewLWP13
+[Thread debugging using libthread_db enabled]
+Usinghostlibthreaddblibrary"/lib/x8664-linux-gnu/libthreaddb.so.1"--Type<RET>for more,qtoquit,c to continuewithoutpaging--
+0x0000723206c10d56inepollwait（)from/lib/x8664-linux-gnu/libc.so.6(gdb)

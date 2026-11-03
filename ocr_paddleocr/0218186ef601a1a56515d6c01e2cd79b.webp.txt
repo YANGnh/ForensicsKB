@@ -1,0 +1,17 @@
+# OCR: 0218186ef601a1a56515d6c01e2cd79b.webp
+# 来源: ./02-WriteUp/2025/2025-山东联赛/0218186ef601a1a56515d6c01e2cd79b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+品保存
+查询创建工具※美化SQL（）代码段
+localhost
+1
+消息数据
+backupnewbee
+√运行、停止：解释
+SELEcTCoUNT(*)FROMtb_newbee_mall_order;
+摘要信息
+COUNT(*)
+结果1
+8914

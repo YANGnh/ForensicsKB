@@ -1,0 +1,22 @@
+# OCR: 81f077aaaf9558b957fee716baab8ced.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/81f077aaaf9558b957fee716baab8ced.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:27
+
+WindowsPowerShell
+windowsPowerShelu
+X
+版权所有（C）MicrosoftCorporation。保留所有权利。
+安装最新的Powershell，了解新功能和改进！https：//aka.ms/pswindows
+PsD:\检材题目\2025数证杯决赛\导出\Cobalt_Strike_Tools>python.\cs-parse-traffic.py-rac1649e14133e13b65722f5c352a7a4c.123.pcap
+Packet number:7
+HTTP response (for request 4 GET) Lengthrawdata：96
+Timestamp：176061443920251016-113359 Data size: 65
+Command：78COMMAND_EXECUTE_JOB Command：b'%coMsPEc%
+Arguments:b'/c Integer：0
+Packet number:7 HTTP request
+netshadvfirewallshowallprofiles
+http://192.168.111.128:81/__utm.gif Lengthrawdata:96
+HMAcsignatureinvalid Commandssummary:
+78COMMANDEXECUTEJOB:
+PsD检材题目/2o25数证杯决赛\导出/Cobalt_Strike_Tools>

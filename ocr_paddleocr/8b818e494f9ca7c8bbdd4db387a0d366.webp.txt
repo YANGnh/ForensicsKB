@@ -1,0 +1,20 @@
+# OCR: 8b818e494f9ca7c8bbdd4db387a0d366.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-WXjzc/8b818e494f9ca7c8bbdd4db387a0d366.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:22
+
+Vroot
+口文件名称一
+可=(根目录）
+=root (5)
+.ssh(1).bashrc
+自.bashhistory
+.profile L.viminfo
+一分区
+■文件
+docker restart 832 cd
+mkdir test cd test/
+预览
+回详细
+tcpdump -i ens33 -s 0-wtest.pcap poweroff
+docker ps -a

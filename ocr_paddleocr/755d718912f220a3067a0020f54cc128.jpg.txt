@@ -1,0 +1,21 @@
+# OCR: 755d718912f220a3067a0020f54cc128.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/755d718912f220a3067a0020f54cc128.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+对象高保存
+memberdeal@jinyi(112MySQL)-表查询创建工具米美化SQL（）代码段
+112MySQL
+1 信息
+jinyi
+SELECTSUM(needgive_money)
+FROM
+摘要
+结果1
+剖析
+SUM(needgive_money)
+1006765500
+状态
+*无标题-查询
+自文本导出结果咖创建图表运行停止星昌解释
+member deal WHERE deal status = 4

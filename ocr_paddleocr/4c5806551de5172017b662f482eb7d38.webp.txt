@@ -1,0 +1,11 @@
+# OCR: 4c5806551de5172017b662f482eb7d38.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/4c5806551de5172017b662f482eb7d38.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+/验证昵称是否存在
+$nickname =$model->where('nickname',$post['nickname'] >selectO;
+if(!empty（$nickname)）
+returnsthis->error（提交失败：该昵称已被占用）：密码处理
+$post['password']=encryptpass(spost['password']); if(false==$model->allowField(true)->save($post))
+return$this->error（添加管理员失败'）； ese

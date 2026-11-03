@@ -1,0 +1,22 @@
+# OCR: 50ec828fcc6d19777fb4aeb2ad93a717.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/50ec828fcc6d19777fb4aeb2ad93a717.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+[root@localhost~]#cat/etc/passwd
+root:xo:0:root:/root:/bin/bash bitn:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin adm:x:3:4:adm:/var/adm:/sbin/nologin
+Lp:x:4:7:lp:/var/spool/pd:/sbin/nologin sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin operator:x:11:0:operator:/root:/sbin/nologin games:x:12:1oe:games:/usr/games:/sbin/nologin ftp:x:14:50:FTPUser:/var/ftp:/sbin/nologin nobody:x:99:99:Nobody:/:/sbin/nologin
+systemd-bus-proxy:x:999:997:systemdBusProxy:/:/sbin/nologin
+systemd-network:x:192:192:systemd NetworkManagement:/:/sbin/nologin dbus:x:81:81:Systemmessage bus:/:/sbin/nologin
+polkitd:x:998:996:Userforpolkitd:/:/sbin/nologin
+tss:x:59:59:Account used by the trousers package to sandbox the tcsd daemon:/dev/null: sbin/noLogin
+abrt:x:173:173::/etc/abrt:/sbin/nologin
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+sshd:x:74:74:Privilege-separatedsSH:/var/empty/sshd:/sbin/nologin
+chrony:x:997:995::/var/lib/chrony:/sbin/nologin ntp:x:38:38:=/etc/ntp:/sbin/nologin
+www:x1000:1000::/home/www:/sbin/nologin
+mysqlx:1001:1001::/home/mysql:/sbin/nologin
+tcpdump:x:72:72::/=/sbin/nologin[root@localhost~#

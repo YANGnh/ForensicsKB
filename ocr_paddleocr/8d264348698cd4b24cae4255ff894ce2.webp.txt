@@ -1,0 +1,29 @@
+# OCR: 8d264348698cd4b24cae4255ff894ce2.webp
+# 来源: ./02-WriteUp/2025/2025-广西职业技能大赛/8d264348698cd4b24cae4255ff894ce2.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:26
+
+Proxy":true,"fetchedGlobalConfig":true，"fetchedProxiesConfig":true,"plans":[{"id":"ly-usd-lo",
+"description":"one Year Plan","usdPrice":"48oo","price":{"usd":"48oo"}, "expecte
+Proxy":true,"fetchedGlobalConfig":true,"fetchedProxiesConfig":true, "plans":[{"id":"ly-usd-lo", "description":"one Year Plan","usdPrice":"48oo", "price":{"usd":"48oo"}, "expecte
+D:0 proxyAll:false referralCode:Xx4UzY revisionDate:20250709.201126 salt: socksAddr:l27.0.0.1:49750
+systemProxy:true uiAddr: userFirstvisit:true userID:3428739 userLoggedIn:false u
+rUserID:0proxyAll:falsereferralCode:revisionDate:20250709.20ll26salt:socksAddr:l27.0.0.l:49750
+0 systemProxy:true uiAddr: userFirstVisit:true userID:3428739 userLoggedIn:false u
+rUserID:0 proxyAll:false referralCode: revisionDate:20250709.201126 salt: socksAddr:l27.0.0.l:49750 systemProxy:true uiAddr: userFirstvisit:true userID:3428739 userLoggedIn:false u Config":true, "plans":[{"id":"ly-usd-lo", "description":"one Year Plan","usdPrice":"48oo","price":{"usd":"48oo"}, "expectedMonthlyPrice":{"usd":"4oo"}, "totalCostBilledoneTime":"
+Proxy":true, "fetchedGlobalConfig":true,"fetchedProxiesConfig":true,"plans":[{"id":"ly-usd-lo", "description":"one Year Plan", "usdPrice":"48oo", "price":{"usd":"48oo"}, "expecte
+ systemProxy:true uiAddr: userFirstvisit:true userID:3428739 userLoggedIn:false u
+rUserID:0proxyAll:falsereferralcode:revisionDate:20250709.20l126salt:socksAddr:l27.0.0.1:49750
+26 country:CN deviceID:389d0dd2-3f63-4e3a-ab7c-bcc8392989bc disconnected:false emailAddress: enabledExperiments:[l googleAds:true lang:en us localHTTPToken: rUserID:0 proxyAll:false referralCode: revisionDate:20250709.20ll26 salt: socksAddr:127.0.0.1:49750
+ systemProxy:true uiAddr: userFirstVisit:true userID:3428739 userLoggedIn:false u
+Proxy":true, "fetchedGlobalConfig":true, "fetchedProxiesConfig":true, "plans":[{"id":"ly-usd-lo", "description":"one Year Plan", "usdPrice":"48oo", "price":{"usd":"48oo"}, "expecte rUserID:0proxyAll:falsereferralCode:revisionDate:20250709.20ll26salt:socksAddr:l27.0.0.1:49750
+ systemProxy:true uiAddr: userFirstVisit:true userID:3428739 userLoggedIn:false u
+Proxy":true, "fetchedGlobalConfig":true, "fetchedProxiesConfig":true, "plans":[{"id":"ly-usd-lo", "description":"one Year Plan", "usdPrice":"48oo", "price":{"usd":"48oo"}, "expecte
+rUserID:0 proxyAll:false referralCode: revisionDate:20250709.20l126 salt: socksAddr:l27.0.0.1:49750 rUserID:0proxyAll:falsereferralCode:revisionDate:20250709.20ll26salt:socksAddr:l27.0.0.l:49750 D:0proxyAll:falsereferralCode:xx4uzYrevisionDate:20250709.20ll26salt:socksAddr:l27.0.0.l:49750
+systemProxy:true uiAddr: userFirstVisit:true userID:3428739 userLoggedIn:false u systemProxy:true uiAddr: userFirstvisit:true userID:3428739 userLoggedIn:false u systemProxy:true uiAddr: userFirstvisit:true userID:3428739 userLoggedIn:false u
+ "description":"one Year Plan", "usdPrice":"48oo", "price":{"usd":"48oo"}, "expecte
+Proxy":true, "fetchedGlobalConfig":true, "fetchedProxiesConfig":true, "plans":[{"id":"ly-usd-lo",
+gProxy":true,"fetchedGlobalConfig":true,"fetchedProxiesConfig":true,"plans":[{"id":"ly-usd-lo",
+"description":"one Year Plan", "usdPrice":"48oo", "price":{"usd":"48oo"}, "expect
+rUserID:0 proxyAll:false referralCode: revisionDate:20250709.20ll26 salt: socksAddr:l27.0.0.1:49750 rUserID:0 proxyAll:false referralCode: revisionDate:20250709.20l126 salt: socksAddr:127.0.0.1:49750
+systemProxy:true uiAddr: userFirstvisit:true userID:3428739 userLoggedIn:false u systemProxy:true uiAddr: userFirstVisit:true userID:3428739 userLoggedIn:false u

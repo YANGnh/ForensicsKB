@@ -1,0 +1,18 @@
+# OCR: 9a8fca2f94092ced0bfd86907c7c1000.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/9a8fca2f94092ced0bfd86907c7c1000.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+In「iol:importhashlib
+importbase64
+defverify._django.pbkdf2.sha256(passwordhashed):
+algorithm，iterations，salt,hash_b64=hashed.splits) iterations=int(iterations)
+hash_bytes=base64.b64decode(hash_b64)
+new_hash=hashlib.pbkdf2_hmac('sha256，password.encode(),salt.encode().iterations) returnnew_hash=hash_bytes
+target_hash="pbkdf2_sha256s1000000s0iyKwstLWozt6cvGmihSFPsgVg7Ds9/KtaSgJSMAHx8eoYI0IDffpTLcHsDKsiXgY=
+withopen("d:/Forensics/crack/dict/password-attacks/top19576.txt"，encoding="utf-8"，errors="ignore")asf:
+forlineinf:
+candidate=line.strip()
+ifverify_django_pbkdf2_sha256(candidate,target_hash):
+print（f"［+找到密码：{candidate}"） break
++]】找到密码：123456

@@ -1,0 +1,74 @@
+# OCR: 75028447e41b4d900c57e37be8a97e88.webp
+# 来源: ./02-WriteUp/2025/2025-美亚杯/75028447e41b4d900c57e37be8a97e88.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:34
+
+2
+action_log@main(media.20240601)-表-NavicatPremium
+文件
+编辑
+连接
+查看新建查询
+表
+收藏夹
+表
+[6e7a8118-3771-4051-a86a-1268cb7
+media.20240601
+main 表品视图 >
+>A-Z 索引
+触发器
+> >
+查询の备份
+工具
+视图对象
+窗
+帮助
+A-z 索引
+触发器
+用户
+查询
+actionlog@main(media.20240601)..
+昆开始事务
+自文本
+content包含上傅檬案
+√应用
+id
+7a4890a4-f3fe-4628-a2k 5f06a12a-8a3d-4453-a6 339015d2-db88-4e03-8( 355b0347-c93c-40ec-8fc 12da4713-0414-41b7-az 5d4d7808-9e48-4086-9c
+X
+C
+篇选 ++
+type
+是排序用列
+userld 1
+备份
+8 自动运行
+数据生成
+6导入已导出
+模型
+咖创建图表
+datetime
+account admin admin admin admin admin admin
+userName
+admin admin admin admin admin admin
+图表
+ip
+2025-04-1415:40:32.472
+192.168.20.100
+2025-04-1415:4130.412192.168.20.100 2025-04-2915:52:46.013192.168.20.100 2025-04-2915:52:46.284192.168.20.100 2025-04-2915:52:46.491192.168.20.100 2025-04-2915:52:46.659192.168.20.100
+SELECT*,rowid"NAVICATROWID"FROM"main'.actionlog"WHERE"content"LIKE‘%上傅檬案%'LIMIT0,1000
+userAgent
+Mozilla/5.0 (Windows N Mozilla/5.0(WindowsN
+content
+上傅檬案：/opt/resource toDisplay/manson1.png
+上傅檬案：/opt/resource
+Mozilla/5.0(WindowsN
+Mozilla/5.0(WindowsN上傅檬案：/opt/resource Mozilla/5.0(WindowsN上傅檬案：/opt/resource Mozilla/5.0(WindowsN
+上傅槽案：/opt/resource
+o
+曲圆
+用
+第2条记录（共6条）于第1页
+口
+·
+x
+口

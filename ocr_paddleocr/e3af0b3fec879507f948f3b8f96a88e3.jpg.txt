@@ -1,0 +1,22 @@
+# OCR: e3af0b3fec879507f948f3b8f96a88e3.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/e3af0b3fec879507f948f3b8f96a88e3.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+回
+/root
+目
+lost+found
+media mnt opt patch proc root
+.cache pip ssh
+rocketchat bash_history
+.bashrc profile viminfo.wget-hsts
+自
+92.txt
+2024FIC聊天服务器
+X
+终清×
+Linuxdebian6.1.-18-amd64#1SMPPREEMPTDYNAMICDebian6.1.76-1（2024-02-01)x8664 Theprograms includedwiththeDebianGNu/Linuxsystemarefreesoftware
+theexact distrtbutiontermsfor eachprogranaredescribed inthe individualfilesin/usr/share/doc/*/copyright.
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY,to the extent permittedbyapplicablelaw.
+Lastlogin:SatApr2712:13:oe2e24 root@debian:#

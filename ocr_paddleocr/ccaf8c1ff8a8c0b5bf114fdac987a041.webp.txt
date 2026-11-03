@@ -1,0 +1,22 @@
+# OCR: ccaf8c1ff8a8c0b5bf114fdac987a041.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/ccaf8c1ff8a8c0b5bf114fdac987a041.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:24
+
+error.log
+X
+C:>hlnet>2-1748328087>UuID>1>www>server>panel>logs>error.log
+12 25 26 28 29 30 31 32 33 34 35 36 37 38 39
+Traceback(most recentcalllast):
+File"/www/server/panel/class/public/hook_import.py",line25,in_aap_import return old import(name, globals.locals, fromlist,level)
+ImportError:/www/server/panel/class/PluginLoader.so:wrongELFclass:ELFCLAsS64
+ForkHooks.after forkinchildof<gevent.threading.ForkHooksobjectatOxe75dde28>>
+Exceptionignoredin:<boundmethod Traceback(mostrecentcalllast):
+File"/www/server/panel/pyenv/lib/python3.12/site-packages/gevent/threading.py",1ine398,inafter_fork_in_child assertnotthread.isaliveC
+AAAAAAAAAAAAAAAAA
+File"/www/server/panel/pyenv/lib/python3.12/threading.py"，line1474，inis_alive assertnotself._is_stoppedandself._started.is_set()
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AssertionError:
+[2025-05-1311:10:18][DEBUG] -Traceback(mostrecentcalllast):
+File"/www/server/panel/BTPanel/
+init.py"line2689,inpublicobject

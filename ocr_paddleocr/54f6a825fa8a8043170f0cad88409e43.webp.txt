@@ -1,0 +1,16 @@
+# OCR: 54f6a825fa8a8043170f0cad88409e43.webp
+# 来源: ./02-WriteUp/2025/2025-陕西联赛-团体赛/54f6a825fa8a8043170f0cad88409e43.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+password_file=args.password
+thread_count=args.thread if args.proxy == True:
+set_proxy('e973.kdltps.com:15818'
+if mode == 'cracker':
+1t14722735145128
+xvinua5t!
+brute force(mobilefile=mobile file,password file=password file,thread count=threadcount)
+elifmode=detector'：
+detect_register(mobile_file=mobile_file,thread_count=thread_count）
+else:
+print（'模式不存在！ sys.exit(1)

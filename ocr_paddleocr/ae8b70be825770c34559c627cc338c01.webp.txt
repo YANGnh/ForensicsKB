@@ -1,0 +1,23 @@
+# OCR: ae8b70be825770c34559c627cc338c01.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-决赛-XDforensics-wiki/ae8b70be825770c34559c627cc338c01.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:23
+
+g ■三序号
+口23 口24 口25 26 27 28 口29 口30
+机.tar> 三用户名过滤 root root root root root root root root
+Linux基本信息>
+三Shell类型过滤
+Y
+国历史命令
+UUID/1>
+三命令过滤
+apt install dkms
+>
+在历史命令中搜索
+$ git clone -b v5.6.4.2 https://github.com/aircrack-ng/rtl8812au.git cd rt/*
+$gitclone-bv5.6.4.2https://github.com/aircrack-ng/rtl8812au.git gitclone-bv5.6.4.2https:/github.com/aircrack-ng/rtl8812au.git
+Q Y
+gitclone-bv5.6.4.2https://gh.viru.sh/https://github.com/aircrack-ng/rtl8812au.git
+cd rtl8812au/ Is
+高三时间起始

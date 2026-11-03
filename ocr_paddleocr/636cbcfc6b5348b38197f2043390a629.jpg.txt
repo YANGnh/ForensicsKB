@@ -1,0 +1,42 @@
+# OCR: 636cbcfc6b5348b38197f2043390a629.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/636cbcfc6b5348b38197f2043390a629.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+[FileBaseInfo]
+E：\取证检材\android逆向题目\1备忘录.apk
+File Name:
+PackageName:com.hl.memorandum
+com.hl.memorandum.MainActivity
+Main Activity: File size:
+MD5：
+Packed: MinSDK
+Target SDK:
+3311857bytes
+0ae46fdb0a33f1f85854545b9b14b56c
+21 32
+[DEX Base Info]
+Not Packed classes.dex
+DexFileName:
+4495468 bytes
+File size:
+MD5：
+Class Size: Method Size: String size:
+d53be3f1ced01d5879c5455b0184b88f
+2873 32547 37886
+DexFileName:
+classes2.dex
+File size:
+389140 bytes
+MD5:
+Class Size: Method Size: String size:
+53c5a9c6352d9d952c271b0e2712c6af
+258 279 4985
+Dex File Name:
+classes3.dex
+1408 bytes
+File size:
+MD5:
+class size: Method Size: String size:
+e397f4aa328162151be5ed7f679cef17
+2 9 31

@@ -1,0 +1,51 @@
+# OCR: 2ecc68df48187ad947cc72d305fd182c.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/2ecc68df48187ad947cc72d305fd182c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+b.f.a.a.a.b.b() byte[] e,b.f.b.a.b() byte[)
+@,b.f.b.e.a(InputStream,
+f)InputStrean
+,b.f.b.e.a(OutputStream, f, byte[]) OutputStrean
+代码信息b.f.b.e.a(outputstream，f,byte[])OutputStrean
+21 22 134555
+技 35
+38 39 48 41 42 43 44 45 46 47 48
+51 3 54 55
+58 59 68
+63 64
+socevwveoospacnugs
+rc
+raorr
+public final b.f.b.g.a f2064b;
+/renamed from:c,reason: colLision with root packoge name*/ publie final CryptoConfig f2065c;
+public e(b.f.b.j.b mNativeLibrary, b.f.b.g.a mKeyChain, CryptoConfig config)
+this.f2063a  mNativeLibrary;
+this.f2064b = mKeyChain; this.f2065c=config;
+@override// b.f.b.d
+public OutputStrean a(OutputStrean cipherStream,f entity, byte[] buffer)t
+throws CryptoInitializationException,IoException,KeyChainExo
+cipherStream.write(1);
+cipherStream.write(this.f2e65c.cipherId); byte[] iv =this.f2864b.a();
+NativeGCMCipher gcmCipher = new NativeGCNCipher(this.f2063a);
+gcmCipher.b(this.f2e64b.b(),iv); cipherStream.write(iv);
+byte[] entityBytes = entity.a();
+a(gcmCipher, (byte)1, this.f2e65c.cipherId, entityBytes);
+return new b.f.b.i.c(cipherStream,gcmCipher, buffer, this.f2e65c.tagLength); eOverride // b.f.b.d
+public InputStream a(InputStream is, f entity) throwis CryptoInitializationException, IOException, KeyChainException (
+byte cryptoVersion =(byte) is.read(); byte cipherID = (byte) is.read();
+b.f.b.j.a.a(cryptoVersion =s1,"Unexpected crypto version"+((int)
+cryptoVersion));
+b.f.b.j.a.a(cipherID=sthis.f2e65c.cipherId,
+"Unexpected cipher ID
++ ((int) cipherID));
+byte[] iv = new byte[this.f2065c.ivLength]; new DataInputStream(is).readFully(iv);
+NativeGCMCipher gcmCipher = new NativeGCNCipher(this.f2e63a);
+gcmcipher.a(this.f2064b.b(),iv); byte[] entityBytes =entity.a();
+a(gcmCipher, cryptoVersion, cipherID, entityBytes);
+return nev b.f.b.i.b(is, gcmcipher, this.f2065c.tagLength);
+public final void a(NativeGCHCipher gcmCipher, byte cryptoVersion, byte cipherID, byte[] entityBytes) throws NativeGCMCipherException (
+byte[] cryptoVersionBytes = (cryptoVersion);
+hytel)ciphenInBytes(ciphenID); gcmCipher.c(cryptoVersionBytes, 1); gcmCipher.c(cipherIDBytes, 1);
+gcmCipher.c(entityBytes, entityBytes.length);
+公众号·小谢取证

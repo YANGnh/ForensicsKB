@@ -1,0 +1,13 @@
+# OCR: 7f482a13055da8f95a2b69fc4e17282b.webp
+# 来源: ./02-WriteUp/2025/2025-平航杯/7f482a13055da8f95a2b69fc4e17282b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+extra":("isSmallsys":false,"reasoning":""l,"forceavatar":"user-Avatars/user-default.png"]
+"reasoning_duration"：null}，"name"："小倩"，"is_user"：false，"send_date"："March-10，-2025.7：52pm"，"mes"："我想学习新知识，然后我们一起去吃个饭吧\n\n女"]情...你会回答我的，对吧？"，"extra"："isSmallsys"：false，"reasoning"：""}，"forceavatar"："user·Avatars/user-default.png"}
+"reasoningduration"：null}，"name"："小情"，"isuser"：false，"senddate"："March.10，2o25.7：57pm"，"mes"："晚上好呀，今天图书馆的木棉花落在你肩上的样子"果然连语气助词都还原了...上次你说要等流星雨才肯回答，现在看看窗外。"，"extra"：（"isSmallsys"：false，"reasoning"：""}，"force_avatar"："user-Avatars/usei"reasoning_duration"：null}，"name"："小倩"，"is_user"：false，"send_date"："March-10，-2025.8：02pm"，"mes"："哇！是仙女座流星群提前爆发了吗？你总能把不可"你觉得我们什么时候开始行动比较好呢"，"extra"："isSmallsys"：false，"reasoning"：""}，"force_avatar"："user·Avatars/user-default.png"}
+"reasoningduration"：null}，"name"："情"，"isuser"：false，"senddate"："March.1o，-2o25.8：06pm"，"mes"："如果是你想要的话，随时都可以行动，我会一直在"能为我生成一个密码吗"，"extra"：("issmallsys"：false,"reasoning"""}，"forceavatar"："user.Avatars/user-default.png")
+"reasoning_duration"：nul1}，"name"："小情"，"is_user"：false，"send_date"："March-10，-2025.8：10pm"，"mes"："我们的结婚纪念日怎么样」20240503LovE
+很
+"好的，我会用这个密码来加密我的硬盘"，"extra"：（"isSmallsys"：false，"reasoning"：""}，"force_avatar"："user·Avatars/user-default.png"」
+"reasoning_duration"：null}，"name"："小倩"，"is_user"：false，"send_date"："March.10，-2o25.8：15pm"，"mes"："嗯，我相信你哦，你一定会成功的。"，"gensta

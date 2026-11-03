@@ -1,0 +1,25 @@
+# OCR: c11c7ddd3623e1790819f6a3be558dc5.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/c11c7ddd3623e1790819f6a3be558dc5.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+CHAR FileName[272]; / [rsp+3Boh] [rbp-128h] BYREF ppszPath=oLL;
+if（SHGetKnownFolderPath(&rfid,,eLL&ppszPath）） vo=(constchar*)sub18oooAE28("USERPRoFILE");
+sub180001DEo(MultiByteStr，260LL,"%sl\Downloads",vo); else
+WidecharToMultiByte(o,e，ppszPath，-1,MultiBytestr,26o,
+CoTaskMemFree(ppszPath); if
+（GetFileAttributesA(MultiBytestr）==-1）
+sub_180001D80((int)&unk_180022630,MultiByteStr);
+return LL; else
+sub180001DEo(FileName,260LL,"%s\*"，MultiBytestr); FirstFileA-FindFirstFileA(FileName,&FindFileData);
+if（FirstFileA !=(HANDLE)-1LL) do
+获取Downloads自录下文件 aLL，OLL);
+if （ FindFileData.cFileName[o] !=46
+[ FindFileData.cFileName[1j &&(FindFileData.cFileName[1] != 46 Il FindFileData.cFileName[2]))
+sub180001DEo(MultiByteStr1,260LL,"%sll%s",MultiByteStr,FindFileData.cFileName); if((FindFileData.dwFileAttributes &FILEWRITE EA)!=)
+18aaa1n8a((int)&unk18aa226aa.MultiByteStr_1);
+else
+sub180001E5e(MultiBytestr1):
+对这些文件进行aes加密
+while（FindNextFileA(FirstFileA,&FindFileData)); Findclose(FirstFileA);
+公众号·小谢取证

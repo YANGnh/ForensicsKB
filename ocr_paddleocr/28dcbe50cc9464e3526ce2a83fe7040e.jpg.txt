@@ -1,0 +1,18 @@
+# OCR: 28dcbe50cc9464e3526ce2a83fe7040e.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/28dcbe50cc9464e3526ce2a83fe7040e.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+BlogPost:"IntroducingWindowsExploit Suggester",https://blog.gdssecurity.com/labs/2014/7/11/introducing-windows-exploit-sugge USAGE
+updatethedatabase
+$./windows-exploit-suggester.py--update[linitiating.
+[] successfully requested base ur][lscrapedmsdownloadur]
+[+]writingtofile2014-06-06-mssb.xlsx[] done
+install dependencies
+(install python-xlrd,$pipinstallxlrd--upgrade)
+feed it"systeminfo"input,andpoint ittothemicrosoftdatabase
+$./windows-exploit-suggester.py--database2014-06-06-mssb.xlsx--systeminfowin7spl-systeminfo.txt[] initiating..
+[] database file detected as xls or xlsx based on extension[*] reading from the systeminfo input file
+[] querying database file for potential vulnerabilities
+[] comparing the15 hotfix(es)againstthe 173 potentialbulletins(s)[*] there are now 168 remaining vulns
+[+l windows version identified as windows z sp1 32-bit[

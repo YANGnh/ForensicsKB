@@ -1,0 +1,23 @@
+# OCR: 02a12cc93a709a06eba7ff37ee8b3ef1.webp
+# 来源: ./02-WriteUp/2024/2024-数证杯-决赛个人赛/02a12cc93a709a06eba7ff37ee8b3ef1.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+return
+case l:
+String[lstrArr=GalleryActivity.f2405eo
+GalleryActivity galleryActivity = (GalleryActivity) this.f41c;
+rl.c.e(galleryActivity,"thisse"); object obj=((b)this.b).get(): rl.c.d(obj,"get(...)"):
+androidx.camera.iifecycle.d dVar = (androidx.camera.lifecycle.d) obj: galleryActivity.f2406co = new K.e(4).c():
+c0304pc0304p=c0304p.b; r1.c.d(co304p,
+"DEFAULT_FRONT_CAMERA"):
+try
+Trace.beginSection(Gi.c.B("cX:unbindAll")): z.n.k():
+androidx.camera.lifecycle.d.b(dVar,o):
+dVar.f1805c.i(); Trace.endSection():
+dVar.c(galleryActivity,c0304p,galleryActivity.f2406co): return;
+}catch(Exceptione2)(
+Log.e("Camera",
+"Use case binding failed", e2)
+return;
+case 2:

@@ -1,0 +1,15 @@
+# OCR: 37e66d2671c2588bad4a0ef3a20afe37.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/37e66d2671c2588bad4a0ef3a20afe37.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:29
+
+口三序号 17 口18 口19 口20 口21 口22 23 24 口25 26 口27 口28 口29 30 口31 口32
+三日志时间
+结束起始
+2025-09-1619.... 2025-09-1620... 2025-09-16 20..
+三主机名过滤 master
+master master master master master master master master master master master master master master master
+三日志描述 password
+Acceptedpasswordforrootfrom192.168.50.1port3917ssh2 Acceptedpasswordforrootfrom192.168.50.1port34149ssh2 Acceptedpasswordforrootfrom192.168.50.1port55418ssh2
+09-1621:47:34Acceptedpassword for root from192.168.50.1port63370ssh2 09-1621:49:21Acceptedpasswordforrootfrom192.168.50.1port63505ssh2 09-1715:25:31Accepted password for root from192.168.50.1port 53454ssh2 09-17 15:53:13 Accepted password for root from192.168.50.1port 4438 ssh2 09-1716:33:22Acceptedpasswordforroot from192.168.50.1port18559ssh2 09-1716:58:12Acceptedpasswordforrootfrom192.168.50.1port53975ssh2 09-1718:07:41Acceptedpasswordfor root from192.168.50.1port15375ssh2 09-1719:31:04Acceptedpasswordforrootfrom192.168.50.1port13583ssh2 09-1719:46:52Acceptedpasswordforroot from192.168.50.1port54184ssh2 09-18 16:37:51Accepted password for root from192.168.50.1port 15655 ssh2 09-18 17:30:47Acceptedpassword for root from192.168.50.1port35413ssh2
+0918015 cetepaswodoroton121230签量路4取证人 09-1909:35:59pam_unix(passwd:chauthtok):passwordchangedforroot

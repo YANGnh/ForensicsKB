@@ -1,0 +1,24 @@
+# OCR: 614927111e4f1ca4b732f065881830a1.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-决赛/614927111e4f1ca4b732f065881830a1.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+Linux基本信息>pve(7TOLBS-zHOp-8dcc-IWJ-jitU-1xT3-mo06Sc)/分区1>历史命令>root
+APVE服务器）
+国排序号口47 口48 口49 口50 51 口52 53 口54 口55 56 57 口58 口59
+“用户名过速 root root root root root root root root root root root root root
+=Shell美型过滤
+命令过速
+qmunlock103
+rm/mnt/pve/local2/images/103/vm-103-d. rm/mnt/pve/local2/images/120/vm-120-d.. qmset
+vi/var/lib/lxc/110/config vi/etc/pve/xc/110.conf
+s/mnt/pve/local2/images/112/vm-112-di.
+bxc-attach110 aptautoremove
+pveam.log Ixc-attach 110 Ixc-attach110 Ixc-attach110
+自时间起始
+结束
+里源文件过速
+在root中搜索
+Q
+pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zH0p-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zH0p-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zH0p-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history Pve(7TOLBS-zHOp-8dcC-liW)-jltU-1xT3-mo06Sc)/分区1/root/.bash_history pve(7TOLBS-zHOp-8dcC-liWJ-jltU-1xT3-mo06Sc)/分区1/root/.bash_history
+Q高级 Y

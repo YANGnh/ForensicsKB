@@ -1,0 +1,24 @@
+# OCR: f4d77dcb1056a1aa9c454cb860f0c627.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/f4d77dcb1056a1aa9c454cb860f0c627.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+··
+·····
+222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247
+LABEL 57:
+eise
+qword_140028CA8=*v38;-dword_140028CA0;
+InterlockedExchange(&dword_140028CB0,@);
+sub140001600(v23,1pAddress,0LL); goto LABEL_58;
+(void(*)(void）
+V42=
+if（v42)
+)sub140001B20(1pAddresS,"SDGHY3a9DK3t14Fg1hSGH56U"
+sub_140008104("start..1../lv2rayN.exe");
+sub14000101e(&unk_140023758); suh14ag0101e(&unk_140023768) v42O;
+140001010(&unk_140023780);
+suD else
+sub14000101e("fail!!\rln");
+return sub_14000196e(1pAddress);
+公众号·小谢取证

@@ -1,0 +1,22 @@
+# OCR: d5ab3aabeeac2195aa921ac225c9d7d7.jpg
+# 来源: ./02-WriteUp/2024/2024-精武杯-比武/d5ab3aabeeac2195aa921ac225c9d7d7.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:19
+
+对象简保存
+localhost
+information@test(localhost-表
+查询创建工具冰美化SQL（）代码段
+test
+*无标题-查询
+文本【导出结果咖创建图表运行口停止昆吕解释
+SELECTCOUNT(DISTINCT
+姓名，电话，地址）
+FROMinformation
+信息
+摘要
+结果1
+剖析
+COUNT(DISTINCT姓名，电
+4997
+状态

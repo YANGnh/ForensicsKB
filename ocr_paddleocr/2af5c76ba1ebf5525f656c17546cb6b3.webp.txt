@@ -1,0 +1,29 @@
+# OCR: 2af5c76ba1ebf5525f656c17546cb6b3.webp
+# 来源: ./02-WriteUp/2026/2026-广西职业技能大赛-决赛团队赛/2af5c76ba1ebf5525f656c17546cb6b3.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:37
+
+[root@mastero1 yum.repos.d]# cat Centos-Base.repo
+#Centos-Base.repo#
+# The mirror system uses the connecting Ip address of the client and the
+update status of each mirror to pick mirrors that are updated to and#
+geographically close to the client. You should use this for Centos updates#
+unless you are manually picking other mirrors.
+# 安
+# If the mirrorlist= does not work for you, as a fall back you can try the#
+remarkedoutbaseurl=lineinstead
+##
+[base]
+name=Centos-$releasever-Base-mirrors.aliyun.com failovermethod=priority
+baseurl=http://mirrors.aliyun.com/centos/sreleasever/os/sbasearch
+http://mirrors.aliyuncs.com/centos/sreleasever/os/sbasearch/
+http://mirrors.cloud.aliyuncs.com/centos/sreleasever/os/sbasearch/
+gpgcheck=1
+gpgkey=http://mirrors.aliyun.com/centos/RPM-GPG-KEY-CentoS-7
+#releasedupdates[updates]
+name=centos-$releasever - Updates- mirrors.aliyun.com failovermethod=priority
+baseurl=http://mirrors.aliyun.com/centos/sreleasever/updates/sbasearch/
+http://mirrors.aliyuncs.com/centos/sreleasever/updates/sbasearch/
+http://mirrors.cloud.aliyuncs.com/centos/sreleasever/updates/sbasearch/
+gpgcheck=1
+gpgkey=http://mirrors.aliyun.com/centos/RPM-GPG-KEY-CentoS-7

@@ -1,0 +1,27 @@
+# OCR: cf4e946074fa8c2e5b116105c095166c.webp
+# 来源: ./02-WriteUp/2025/2025-数证杯-初赛/cf4e946074fa8c2e5b116105c095166c.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+小谢取证-2025数证杯初赛
+1 2 3 4 5 6 7 8
+SELECT
+lott
+运行、口停止早：解释
+SUBSTRINGINDEX(Content，='，1)ASplay_type，
+--假设content格式：玩法=投注内容
+CouNT(*)Asplay_count FRoMttradebetrecord WHEREKeeper='188
+ANDCreateTimeBETWEEN
+2021-05-1000:00:00'AND2021-05-1100:00:00
+GRoUPBYplay_type
+ORDERBYplay_countDESC
+信息
+摘要 playtype
+¥500单 1000大 1000双 3000大 1000单 1000小 300大 2000大 500大 5000大 3000小 500双 300小 5000小 100双 600小 300单 2000小
+结果1
+部析
+playcount
+状态
+39 37 35 30 29 29 27 26 21 20 18 17 17 16 16 16
+16 15
+@公众号·小谢取证

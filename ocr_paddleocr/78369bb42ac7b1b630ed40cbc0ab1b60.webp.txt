@@ -1,0 +1,27 @@
+# OCR: 78369bb42ac7b1b630ed40cbc0ab1b60.webp
+# 来源: ./01-取证技巧/02-网络取证/78369bb42ac7b1b630ed40cbc0ab1b60.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+Wireshark·追踪HTTp流(tcp.streameq1)·cscs.pcapng
+GET/cmHTTP/1.1 Accept：*/*
+口
+Cookie:SLHAI0j8/1icVtP6fImtJz6B6wR0t/XwLg1G0Y3AxoxnseBfPONxoyjAWCCOH84IJULnCZZr07cIRxJPS2PtmDD4MvD8/PIpoW8Gj8536vhwd+tyXjNKyLNyNYcj+Jg04N5FTnKtkONgv7KnsMjJC3E0eI0ctmZ118SrXLUS9k= User-Agent:Mozilla/5.o（compatible;MsIE9.o;WindowsNT6.1;WOw64;Trident/5.o;MALcJs）
+Ho5t:10.11.4.3:12345 Connection:Keep-Alive Cache-Control: no-cache
+HTTP/1.1 200 0K
+Date: Mon, 16 Dec 2o24 o7:o6:06 GMT
+Content-Type:application/octet-stream Content-Length:
+1客户端分组，1服务器分组，1 turn(s)
+整个对话（494bytes）查找：
+显示为
+ASCII
+Nodeltatimes
+滤掉此流
+打印
+另存为..
+返回
+区分大小写
+关闭
+x
+流1图查找下一个(N)
+帮助

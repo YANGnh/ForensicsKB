@@ -1,0 +1,78 @@
+# OCR: 8e5fe9fe67dfef2d92504fd36c5ccf8b.webp
+# 来源: ./02-WriteUp/2025/2025-能力验证-培训/8e5fe9fe67dfef2d92504fd36c5ccf8b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:36
+
+46942925-95-2718:11:25.549581Z 46952925-95-2718:11:25.549824Z 46962925-95-2718:11:25.559959Z 46972925-95-2718:11:25.5591397 46082025-05-2718:11:25.550320Z 46992925-95-2718:11:25.5594527 46102025-05-2718:11:25.550682Z 46112925-05-2718:11:25.5507487 46122025-05-2718:11:25.550903Z 46132025-05-2718:11:25.5519247 46182025-05-2718:11:25.5514487 46232925-95-2718:11:25.551745Z 46392025-05-2718:11:25.7607277 46312025-05-2718:11:25.7609627 46322025-95-2718:11:25.7619557 46332925-95-2718:11:25.7611727
+19.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 19.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net
+10.5.68.154 10.5.68.154
+catbomber-dc.catbomber.net 10.5.68.154
+catbomber-dc.catbomber.net
+Frame46e5:Packet,198bytesonwire(1584bits),198bytescaptured(1584bits)
+SMB SMB SMB SMB SMB SMB SMB SMB SMB SMB SMB SMB SMB SMB SMB SMB
+Ethernet II,Src:Netgear_b6:93:f1 (20:e5:2a:b6:93:f1),Dst:HewlettPacka_1c:47:ae (00:08:02:1c:47:ae) InternetProtocolVersion4,Src:catbomber-dc.catbomber.net(1o.5.28.8),Dst:10.5.68.154(10.5.68.154）
+TransmissionControlProtocol,SrcPort:445,DstPort:4929o,Seg:636,Ack:355,Len:144 NetBIosSessionService
+SMB(ServerMessageBlockProtocol),SessionSetupAndxResponse（ox73) SMBHeader
+Session Setup Andx Response (ox73)
+Word Count (WcT): 4
+AndxCommand:Nofurthercommands(oxff） Reserved:00
+Andx0ffset:140（0x008c） Action:0x0000
+SecurityBlob Length:9 Byte Count(BcC):97
+SecurityBlob:a1073005a0030a010e
+Nativeos:windowsServer2oo8R2Standard76o1ServicePack1 Native LAN Manager:Windows Server 2oo8 R2 Standard 6.1
+217SessionSetupAndxRequest,NTLMssPAUTH,User: 198 Session Setup AndxResponse
+125TreeConnectAndxRequest,Path:1/10.5.28.8|IPcs 1o4TreeConnectAndxResponse
+146NTCreateAndXRequest,FID:0x4o0e,Path:samr 193NTCreateAndXResponse,FID:x4o00
+125TreeConnectAndxRequest,Path:1l1o.5.28.8IPcs 1o4TreeConnectAndxResponse
+146NTCreateAndXRequest,FID:x4oo1,Path:samr 193NTCreateAndXResponse,FID:x4oo1
+414NTTransRequest;NTRENAMESessionmessage;NTTransSecondary（secondaryrequest） 1494NTTrans Response,NTRENAME
+43oNTTrans Response,<unknown>[BoundErrorUnreassembledPacket]
+138NTTransRequest;NTRENAME 93NTTrans Response,NTRENAME 138 NT Trans Reguest:NT RENAME
+eee e010 0020 0030 9e40 9950 2060 9870 9080 3890 geao gebe eece
+9
+98 eob8 44
+9a 99
+ff 99 64 6e
+38
+20
+39
+31 31
+32 29
+02 19 91 53
+ff 6f 52 20 57 30
+1c b1 bd 17 98 ff 61 77 32 53 69 30
+47 40 co ee 95 60 e 73 20 65 6e 38
+ae e 8a
+48 97 al 20 53 72 64
+20 80 6a o e 9o 97 53 74 76 5+
+e5 96 3e
+9 98 30 65 61 69
+5232 29
+9362e3100
+6420
+2ab693f108004500 9c
+980a051c080a05
+cf
+e1264373db5018
+008cff534d427300 0000000000000000 000004ff008c0000 05 a0 03 0a 01 00 57 69 72 76 65 72 20 32 30 30 6e64617264203736 636520 5061 63 6b20 73 20 53 65
+72 76 65 72
+205374616e646172
+G
+a...9
+E
+·&Cs·P·SMBs·
+wi
+ndowsServer200 8R2standard76 01 Service Pack 1·window s Server 2008R2Standar d 6.1.

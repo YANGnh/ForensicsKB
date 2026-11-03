@@ -1,0 +1,51 @@
+# OCR: e4d4b3544796f127e36b918bbc08c12b.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-决赛/e4d4b3544796f127e36b918bbc08c12b.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+MiTeCWindowsRegistryRecoveryx64-[NTUSER.DA] n:FileOptionsExploreWindowsHelp
+NTUSER.DAT NAVIGATOR
+ FileInformation SecurityRecords
+SAM
+gi Windows Installation o Hardware
+StartupApplications ServicesandDrivers NetworkConfiguration
+WindowsFirewallSettings Environment
+Shell Folders
+?outlookExpress lRawData
++ X
+NetSarang Common
+白
+Xshell
+白7
+o
+Language
+由田 +
+Layout
+LiveUpdate MainWindow PageSetup Personal ProfileDialog
+RecentCodeages RecentSessions
+TermColors Theme
+TypedCmds
+TypedCompose
+TypedComposePane
+TypedFinds TypedURLs windows Workspace XshellCore
+Policies PrivaZer
+RegisteredApplications/Maronr
+ResultPanel Key
+Search
+Log
+0keys/4values
+WindowsNTRegistr3805keysloaded
+Freetouseforprivate,educationalandnon-commercialpurposes
+Value ao ab
+ab
+2
+a 13
+Type REG_SZ REG_SZ REG_SZ REG_SZ
+Type
+Data
+口
+x x
+pIulAmX6QdiOgZg2TPcc83L9Z8u18vH0R+aGuc8pYeWqsxhaQQW4aImTe5rc0XTFXA2wj+hKJDo0T5jVvrJHON4SdKU. pIulAmX6QdiOgZg2TPcc83L9Z8u18vH0R+aGuc8pYeWqsxhaQQW4aImTe5rc0XTFXA2wj+hKJDo0T5jVvrJAJMUaLKU/.. pIulAmX6QdiOgZg2TPcc83L9Z8u18vH0R+aGuc8pYeWqsxhaQQW4aImTe5rc0XTFXA2wj+hKJDo0T5jVvrJIMtgHdOUg.. plulAmX6QdiOgZg2TPcc83L9Z8u18vHOR+aGuc8pYeWqsxhaQQW4aImTe5rc0XTFXA2wj+hKJDo0T5jVvrJTNM4SM/M..
+Value
+KeyPathRooTiSoftwareNetSarangXshellRecentSessions D:netdataNTUSER.DAT
+Data

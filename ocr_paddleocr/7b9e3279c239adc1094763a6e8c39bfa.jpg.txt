@@ -1,0 +1,28 @@
+# OCR: 7b9e3279c239adc1094763a6e8c39bfa.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/7b9e3279c239adc1094763a6e8c39bfa.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+aHROcDovLzE5Mi4x
+1 信息
+SELECT 搞要
+main
+运行
+解释
+停止
+“Post" FROM
+WHERE id IN(SELECT postid FROM File WHERE name LIKE %.mp4')
+果1
+message_source
+metadata(Nuln)
+original id
+pending_post id
+previous_post_id
+jrmi9kx8pfg9drc7b9d
+props
+rootid
+Cdisablegrouphighlight
+type
+update_at
+userid
+713945630693irmi9kx8pfg9drc7b9dczh7neo

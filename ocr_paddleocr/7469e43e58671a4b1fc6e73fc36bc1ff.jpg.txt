@@ -1,0 +1,25 @@
+# OCR: 7469e43e58671a4b1fc6e73fc36bc1ff.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-总决赛/7469e43e58671a4b1fc6e73fc36bc1ff.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:16
+
+新建连接（MySQL）
+常规连接名：主机：端口：用户名：密码：
+高级
+数据库
+SSL
+SSH
+Navicat
+HTTP
+VPN服务器
+192.168.217.188
+3306 root
+保存密码
+数据库
+X
+1130-Host'192.168.217.1'isnotallowedtoconnecttothisMySQLserver
+确定
+测试连接
+确定
+取消
+X

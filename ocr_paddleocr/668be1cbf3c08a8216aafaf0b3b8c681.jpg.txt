@@ -1,0 +1,24 @@
+# OCR: 668be1cbf3c08a8216aafaf0b3b8c681.jpg
+# 来源: ./02-WriteUp/2024/2024-FIC-初赛/668be1cbf3c08a8216aafaf0b3b8c681.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:14
+
+server
+listen888
+servernamephpmyadmin:
+indexindex.htmlindex.htmindex.php: root/wwwserverphpnyadmin
+location/tmp/
+return 403;
+#errorpage
+/404.html
+404
+include enable-php.conf;
+Location*-(gifljpgljpeglpng|bmp|swf)s
+expires
+3ed;
+location~*-(jslcss)?s
+expires location/
+denyall,
+accesslog
+12h;
+/www/wwwlogs/access.log;

@@ -1,0 +1,18 @@
+# OCR: 405e00bba4089dfc3e5b120c1ef47d55.webp
+# 来源: ./02-WriteUp/2024/2024-龙信杯/405e00bba4089dfc3e5b120c1ef47d55.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:21
+
+FromBase64 Alphabet
+A-Za-zo-9+/=
+Removenon-alphabetchars
+Strictmode AESDecrypt Key
+E10ADC3949BA59ABBE56. IV
+E10ADC3949BA59AB
+?? UTF8-UTF8-
+kbLBbvDVyghScP1Jy6bK7A==
+RIE24
+1
+Output
+qwer123456
+924

@@ -1,0 +1,17 @@
+# OCR: 89b1984ed8b44d0b45f7f177b600b4d8.jpg
+# 来源: ./02-WriteUp/2024/2024-盘古石杯-晋级赛/89b1984ed8b44d0b45f7f177b600b4d8.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:18
+
+高保存
+宁查询创建工具次美化SQL代码段
+MoneyLoverS2
+SUM(amount)
+SELECT
+信息
+摘要
+SUM(amount)
+结果1 6042
+main
+自文本导出结果咖创建图表运行停止昌解释
+FROM transactions WHERE cat id = 19 AND created date>=2022-03-01AND created date <='2023-12-01

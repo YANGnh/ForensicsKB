@@ -1,0 +1,21 @@
+# OCR: 49ab57768508fbba6008c5f0be2e9c4d.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/49ab57768508fbba6008c5f0be2e9c4d.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:30
+
+搜素
+验证码发送接口替换
+ab Aa
+AB
+*
+1个结果，包含于1个文件中-在编辑器中打开
+Smsapi.class.phpApp)Lib)Class
+秒嘀验证码发送接口类尚×
+Smsapi.class.phpX
+App>Lib>Class》Smsapi.class.php
+1 2 3 4 5 6 7 8 9 10
+<?php
+秒嘀验证码发送接口类 By:somnus
+Time:2016-12-1521:33 Smsapir
+class
+protected $sendurl ="http://api.smsbao.com/"

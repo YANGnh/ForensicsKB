@@ -1,0 +1,11 @@
+# OCR: 152130a159b3fc5532701f9db71244bf.webp
+# 来源: ./02-WriteUp/2025/2025-盘古石杯-初赛/152130a159b3fc5532701f9db71244bf.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:33
+
+if(process.env.AES_SECRETKEY&&process.env.JWT_SECRET) return
+aesKey:Buffer.from(process.env.AESSEcRETKEY,'utf8'), jwtKey:process.env.JWT_SEcRET
+//
+constmasterPassword=process.env.MASTERPASSWORD if(masterPassword)
+console.error警告：未提供主密码或加密密钥。使用随机生成的一次性密钥（不适用于生产环境）")； return
+aesKey:crypto.randomBytes(KEY_DERIVATION_KEY_LENGTH) jwtKey: crypto.randomBytes(JWT_KEY_LENGTH).toString('hex')

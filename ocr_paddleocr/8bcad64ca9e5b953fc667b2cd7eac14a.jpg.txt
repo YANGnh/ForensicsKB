@@ -1,0 +1,15 @@
+# OCR: 8bcad64ca9e5b953fc667b2cd7eac14a.jpg
+# 来源: ./02-WriteUp/2024/2024-电子取证比武-复盘/8bcad64ca9e5b953fc667b2cd7eac14a.jpg
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:15
+
+(kalikali)-[~/Desktop
+ssudovim/etc/hosts[sudo] password for kali:
+(kali@kali)-[~/Desktop s cat letc/hosts
+1270.01 127.0.1.1
+Localhost kali
+# The followinglinesaredesirablefor IPv6capable hosts
+：1
+Localhostip6-localhostip6-loopback
+ff02::1 ip6-allnodes ffo2::2ip6-allrouters
+222.2.2.1oww.tjshop.com

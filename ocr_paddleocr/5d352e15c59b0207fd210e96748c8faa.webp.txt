@@ -1,0 +1,21 @@
+# OCR: 5d352e15c59b0207fd210e96748c8faa.webp
+# 来源: ./02-WriteUp/2025/2025-獬豸杯/5d352e15c59b0207fd210e96748c8faa.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 15:31
+
+[root@k8s-node2~]#sed-ri's/.*swap.*/#&/'[root@k8s-node2~j#swapoff-a
+root@k8s-node2~j#systemctlstartkubelet root@k8s-node2~#systemctlstatuskubelet
+/etc/fstab
+kubelet.service-kubelet:TheKubernetesNodeAqent
+Loaded:loaded(/usr/lib/systemd/system/kubelet.service;enabled;vendorpreset:disabled) Drop-In:/usr/lib/systemd/system/kubelet.service.d
+-1o-kubeadm.conf
+Active:active（running)sinceMon2025-02-2412:00:26csT;5sago Docs:https://kubernetes.io/docs
+MainPID:8279(kubelet)
+Tasks:14
+Memory：3o.3M
+/system.slice/kubelet.service
+CGroup：
+8279/usr/bin/kubelet--bootstrap-kubeconfig=/etc/kubernetes/bootstrap-kubelet.conf
+Feb2412:00:26k8s-node2kubelet[82791:I022412:00:26.950617 Feb2412:00:26k8s-node2kubelet[8279]:I022412:00:26.950635 Feb2412:00:26k8s-node2kubelet[8279j:I022412:00:26.950664 Feb2412:00:26k8s-node2kubelet[8279]:I022412:00:26.950694 Feb2412:00:26k8s-node2kubelet[8279]:I022412:00:26.951041 Feb2412:00:26k8s-node2kubelet[8279]:I022412:00:26.951045 Feb2412:00:26k8s-node2kubelet[8279]:I022412:00:26.951051 Feb2412:00:26k8s-node2kubelet[82791:I022412:00:26.951053 Feb2412:00:26k8s-node2kubelet[8279]:I022412:00:26.951097 Feb2412:00:26k8s-node2kubelet[8279]:I022412:00:26.951202
+Hint:Somelines were ellipsized,use -l to show infull. root@k8s-node2~1#
+8279 remote_runtime.go:59] pa...:"" 8279remote_runtime.go:59]sc...heme 8279passthrough.go:48]ccRes...il>] 8279 clientconn.go:933] clien...rst 8279remote_image.go:5oj pars....". 8279remote_image.go:5ojsche...heme 8279passthrough.go:48]ccRes...il>) 8279 clientconn.go:933] clien...rst" 8279 kubelet.go:292] Adding P...ests 8279 kubelet.go:317]Watching...rver
