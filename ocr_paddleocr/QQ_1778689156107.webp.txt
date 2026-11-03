@@ -1,0 +1,21 @@
+# OCR: QQ_1778689156107.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778689156107.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+口三序号口1
+car.E01 三名称过滤
+/data/local/tmp
+分区1
+三扩展名过滤
+syslogd update
+三大小等于
+1.04KB
+三创建时间
+起始
+结束
+2026-04-17 08:07:10
+三修改时间
+起始
+结束
+2023-04-08 06:41:53

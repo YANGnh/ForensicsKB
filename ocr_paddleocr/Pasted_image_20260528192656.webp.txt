@@ -1,0 +1,43 @@
+# OCR: Pasted_image_20260528192656.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260528192656.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+AX
+文件
+视图
+3
+导航
+工具
+插件
+帮助 Q
+com.talk.uabchat2.2.4.apk
+输入源代码
+_COROUTINE
+android·
+.···
+··.
+··。
+·····
+androidx bolts
+cn.ay.clinkapi com
+cpf.marqueeview dagger
+defpackage
+hilt_aggregated_deps io
+jakarta.inject
+javax kotlin kotlinx livekit
+moe.codeest.enviews
+MTT net
+okhttp3
+okio org
+repeackage.com replay
+retrofit2
+Plugins Q
+. shuyu.com.androidvideocache  timber.log
+D top.zibin.luban
+>
+ tv.danmaku.ijk.media
+>?wkim 资源文件
+ APK signature 国 summary
+M
+o

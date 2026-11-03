@@ -1,0 +1,37 @@
+# OCR: QQ_1778565503210.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778565503210.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+SEARCH
+G
+generate_data.php Replace
+Aa ab
+AB
+7 results in 2 files - Open in editor Search with Al
+→渗透测试报告_192.168.61.135...
+回
+-**漏洞位置**："generat..
+韵x
+....访问http://192.168.61.135/gen. 修复建议：移除或保护generate_d.. 移除或保护generate_data.php
+→通讯录管理系统漏洞清单.md
+3
+-**漏洞位置**："http://192.168.61.1.. 1.**信息收集**：访问generate_dat.. 1.移除或保护generate_data.php
+ file_shell.php
+渗透测试报告_192.168.61.135.md X
+渗透测试报告192.168.61.135.md>abc#渗透测试报告-目标系统：192.168.61.135>abc#
+渗透测试报告#
+13 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+攻击过程还原
+目标系统：192.168.61.135
+###阶段2：漏洞发现与利用####漏洞1：敏感信息泄露
+**漏洞位置**：generate data-php文件**漏洞描述**：
+该文件立接输出数据库连接信息和管理员凭据
+**利用过程**：
+1.
+访间http://192.168.61.135/generate_data.php
+获取管理员密码：^5trongP@ssword2o26！ 2.
+获取数据库路径：/var/www/html/addressbook.db
+####漏洞2：未授权命令执行**漏洞位置**：系统工具页面
+**漏洞描述**：存在命令注入漏洞，可执行任意系统命令**利用过程**：
+净用意

@@ -1,0 +1,8 @@
+# OCR: Pasted_image_20260519131016.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519131016.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+83 84 85 86 87
+dMetadata(d1 =tu00000n u0000n u0002 u001o u000e n u0002 b u0002 n u0002 pubiicfinalclassNavigation2
+private staticfinal StringTRIGGER_PRIMARY=13588452301; private static final String TRIGGER_SECoNDARY=深圳湾";

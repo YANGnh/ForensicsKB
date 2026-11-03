@@ -1,0 +1,30 @@
+# OCR: Pasted_image_20260415213925.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415213925.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+安全日志
+时间：时间
+—2026/04/15日
+2026/04/15
+类别
+2026/04/15 21:38:58
+病毒名称：Trojan/MSIL.DDos.e 病毒ID：B2AAF7DD8A9F29D7
+病毒防护
+类别：
+病毒防护／文件实时监控
+功能
+文件实时监控
+病毒路径: D: Pinghang2026)Haimuniu_VPN_ Client)Haimuniu_VPN_ Client.exe 操作类型：修改
+操作结果：已处理，删除文件进程ID：45572
+操作进程：C:Users/NoahTielscooplapps/7ziplcurrent/7zG.exe
+宁平安
+名称、地址、路径、操作结果概要
+Q
+发现病毒Trojan/MsIL.DDos.e.已处理
+刷新
+操作进程命令行:"C:Users NoahTielscooplapps/7ziplcurrent/7zG.exe" x -o'D: Pinghang2026)Haimuniu VPN Client}"-spe -an -ai#7zMap141
+总项目数：
+清除日志
++
+导出日志

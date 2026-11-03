@@ -1,0 +1,20 @@
+# OCR: 2302.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/2302.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+zaoqiwang@zaoqiwang:
+口
+e5/x93/xad/xe4/xba/x86/xe6/xb3/x95/xe6/x88/x91/xe5/x93/xad/xe5/x88/xb0/xe8/xba/xaf/xe4/xbd/x93/xe5/x8c/x96/xe5/x93/xad xe5/x88/xb0/xe6/xb3/xaa/xe5/xa4/xb1/xe7/xa6/x81/xe5/x93/xad/xe5/x88/xb0/xe6/xb3/xaa/xe8/x85/xba/xe5/xb4/xa9/xe5/x9d/x8f 1xe5lx931xad1xe51x881xb01xe51x911xbc1xe5lx901xb8lxe61x80lxa71xe71xa2lxb11xe41xb8lxadlxe61xaf1x921xe51x881xb01xe51xba1xg
+X
+5/xe4/xb8/xba/xe5/x95/xa5/xe8/xa6/x81/xe5/x8f/x91/xe6/x98/x8e/xe8/xbf/x99/xe4/xb8/xaa/xe8/xbd/xaf/xe4/xbb/xb6/xe5/x88/xa 0/xe9/x83/xbd/xe5/x88/xa0/xe4/xb8/x8d/xe6/x8e/x89/xe5/xa5/xbd/xe7/xb2/x98/xe7/x89/x99/xe8/x83/xbd/xe4/xb8/x8d/xe8x83/x bd/xe4/xb8/x8b/xe6/x9e/xb6/xe5/x95/x8a/xe4/xb8/x80/xe6/x89/x93/xe5/xbc/x80/xe5/xb0/xb1/xe6/x98/xaf/xe5/x9c/xa8/xe6/x8a/x 98/xe7/xa3/xa8/xe6/x88/x91/xe5/xa5/xbd/xe5/xb4/xa9/xe6/xba/x83/xe5/xb0/x8f/xe6/x97/xb6/xe5/x80/x99/xe4/xb9/x9f/xe7/x82/ xb9/xe5/xbc/x80/xe8/xbf/x87/xe4/xb8/x80/xe6/xac/xa1lxe7/x9b/xb4/xe6/x8e/xa5/xe6/x88lx90/xe4/xba/x86/xe6/x88/x91lxe7/x9al x84/xe7/xab/xa5/xe5/xb9/xb4/xe9/x98/xb4/xe5/xbd/xb1/xe7/x8e/xb0/xe5x9c/xa8/xe5/x8f/x88/xe5/x8f/x98/xe6/x88/x90/xe9/x9d x92/xe5/xb9/xb4/xe9/x98/xb4/xe5/xbd/xb1/xe4/xba/x86/xe6/x81/x90/xe6/x80/x96/xe6/x8c/x87/xe6/x95/xb0/xe6/xbbxa1xe5/xa4 1xa9/xe6x98/x9fxe6/x9c/xac/xe6/x9d/xa5/xe6/x88/x91/xe5/xb0/xb1/xe6/x9c/x89/xe6/x8a/x91/xe9/x83/x81/xe7/x97/x87/xe7/x 84/xa6/xe8/x99/x91/xe7/x97/x87/xe5/x8fx8c/xe7/x9b/xb8/xe6/x83/x85/xe6/x84/x9f/xe9/x9a/x9c/xe7/xa2/x8d/xe8/xbf/x99/xe4x b81x8b1xe61x901x9e1xe51xbe1x971xe61x881x911xe71x971x851xe61x831x851xe6x9b1xb41xe91x871x8d1xe41xba1x861xe51x881xb01xe51x ba/x95/xe4/xb8/xba/xe4/xbb/x80/xe4/xb9/x88/xe8xa6/x81/xe8/xbf/x99/xe6/xa0/xb7/xe5/xaf/xb9/xe6/x88/x91/xe6/x88/x91/xe5/x 81/x9a/xe9/x94/x99/xe4/xbax86/xe7/xa5/x9e/xe9/xa9/xac/xe6/x88/x91/xe7/x9a/x84/xe5/xbf/x83/xe7/x90/x86/xe5/x8f/x97/xe5l x88/xb0/xe4/xba/x86/xe4/xb8/xa5/xe9/x87/x8d/xe5/x88/x9b/xe4/xbc/xa4/xe7/x9b/xb8/xe6/x9c/xba/xe8/x83/xbd/xe4/xb8/x8d/xe8l x83/xbd/xe8/xb5/x94/xe6/x88/x91/xe7/x82/xb9/xe7/xb2/xbe/xe7/xa5/x9e/xe6/x8d/x9f/xe5/xa4/xb1/xe8/xb4/xb9/"/"url/":1"http s://oapi.dingtalk.com/robot/send?access_token=50086d0ccb6473b7c92f6209287fefa41d3df739029c7b82b24828596656386f\",1"enabl
+eSignl":true.1"secretl"：l"sEc8bed98a315ebc03fb6f68a5873958ad70f172df19142b549d430299542a9f9e3l"
+Idl":"I"|"apiBaseUril":"""proxyUril":"|"|"deviceKey":|"
+"botToken)":"",
+"chat
+l"serverUrin:lnlnnleven:lnl
+"sound)":"""gr
+oup\":\"}",\"host}":\"}",\"port}\":nuil,|"secure\":false,\"user}\":\"}",\"pass}":\"\",\"from\":\"}",\"to\":\"}",
+I"timeoutl
+":null,|"ignoreTLs\":false,|"id\":|"3a562dd9-7665-4231-b5c3-7f73ff93ccf6\",|"enabled\":true,|"createdAt\":|"2026-04-01T1 0:58:58.398z\"|"updatedAt|":"2026-04-02T10:34:08.063z\"}]"notificationTypes|":|"accountAnomaly":true,"quotawarnin gl":true,"systemError":true,"securityAlertl":true"rateLimitRecovery":true,"testl":truef"retrySettings":t"maxR etries|":6,"retryDelay\":1000,"timeout\":114514},"createdAt|":|"2026-04-01T10:57:12.673z\",|"updatedAt\":"2026-04-02
+T1:34:08.065z1 127.0.0.1:6379>

@@ -1,0 +1,37 @@
+# OCR: QQ_1778518317159.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778518317159.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+>IPython: D:FileOutput/vc_norm
+X
+>
+PowerFish
++
+$rar5$16$8d8faff6c57d5b4dad8f8b2e2ee40bc7$15$c900a6b1533badc4e0af19a5825e6273$8$4120b2b120c0ff78:pgscup@9541
+Session. status
+Hash.Mode
+Hash.Target. Time.Started
+Time.Estimated... Kernel.Feature
+Guess.Mask Guess.Queue Speed.#o1 Speed.#03. Speed.#*. Recovered. Progress. Reiected
+Restore.Point.
+Restore.Sub.#o1.
+Restore.Sub.#03..:
+hashcat Cracked
+13000（RAR5）
+$rar5$16s8d8faff6c57d5b4dad8f8b2e2ee40bc7$15sc900a6...c0ff78
+TueMay1200:50:112026（0secs） TueMay1200:50:112026(0secs)
+PureKernel（passwordLength-256bytes）
+pgscup@?d?d?d?d[11] 1/1(100.00%)
+51281H/s（2.90ms)@Accel:4Loops:512Thr:384Vec:1
+0H/s（0.00ms)@Accel:2Loops:128Thr:1024Vec:1 51281H/s
+1/1（1oo.o%)Digests(totaL)，1/1（1oo.0o%)Digests（new） 10000/10000（100.00%)
+0/10000(0.00%) 0/10000(0.00%)
+Salt:0Amplifier:0-1 Iteration:32768-32799 Salt:0Amplifier:0-0Iteration:0-128
+Candidate.Engine.:
+DeviceGenerator
+Candidates.#01...:pgscup@1234→pgscup@6496 Candidates.#o3...:[Generating
+Hardware.Mon.#01.:Temp:57cUtil:43%Core:1470MHzMem:14001MHzBus:8 Hardware.Mon.#o3.:N/A
+Started:Tue May 12 00:49:572026 Stopped:TueMay1200:50:122026 NoahTieoArkw/s/a/h/current
+口
+x

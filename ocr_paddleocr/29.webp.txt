@@ -1,0 +1,19 @@
+# OCR: 29.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/29.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+zaoqiwang@zaoqiwang:/clau>
+CopperKoi@flag:~/forensic
+（base)(CopperKoiflag)-[~/forensic $vimj.js
+(base)(CopperKoiflag)-[~/forensic]
+-$ node j.js 1055
+0.021100 47.393365
+(base)(CopperKoiflag)-[~/forensic] $ cat j.js
+const { should_inject_for_ua  = require('./bash_block_injector.js'); const ua = 'claude';
+const n=50o00; let hits =o;
+for (let i = o; i < n; i+) t
+const ip =10.$(i >> 16) 255}.${(i >> 8) 255}.$i  255}; should inject for ua(ua, ip);
+if（should_inject_for_ua(uaip))hits++; console.log(hits);
+console.log((hits / n).toFixed(6)); console.log((n/hits).toFixed(6));
+(base)(CopperKoiflag）-[/forensic]

@@ -1,0 +1,9 @@
+# OCR: QQ_1781002597603.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781002597603.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+root@LxcNAME:/#cat/var/Log/syslog/greptidb/head-n2o
+Jun Jun Jun Jun Jun Jun Jun
+810:24:25LxcNAMEtiup[195]:Starttidbinstance:v7.5.0 8 16:05:57LxcNAMEtiup[186]:Starttidb instance:v7.5.0 903:42:43LXcNAMEtiup[1881:Starttidbinstance:v7.5.0 03:49:52 LXCNAMEtiup[188]:Start tidb instance:v7.5.0 9
+903:53:10LxcNAME tiup[187]:Starttidb instance:v7.5.0 903:54:15LxcNAMEtiup[187]:Starttidbinstance:v7.5.0 905:15:09LxcNAME tiup[187]:Start tidb instance:v7.5.0

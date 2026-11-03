@@ -1,0 +1,14 @@
+# OCR: QQ_1780998616500.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780998616500.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+欢迎使用MacCMS建站
+系统管理
+账号：密码：合验证码： G
+免责声明
+立即登录
+@MacCMS AllRights Reserved
+9
+8A
+本程序开源且永久免费无任何内置数据，请在遵守当地法律的前提下使用，对用户在使用过程中的信息内容本程序不负任何责任！自由！平等！分享！开源！

@@ -1,0 +1,71 @@
+# OCR: QQ_1778761832142.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778761832142.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:51
+
+Download CyberChef + Operations
+Search. Favourites To Base64 FromBase64
+To Hex FromHex
+To Hexdump From Hexdump URL Decode
+Regular expression
+Entropy Fork Magic
+Data format
+Encryption/Encoding PublicKey
+Arithmetic / Logic
+Networking Language Utils
+Date/ime Extractors
+455
+Recipe XOR Key
+729F1401 STEP
+Last build: A year ago - Version 1o is here! Read about the new features here
+a
+Scheme
+LATIN1
+Standard BAKE!
+2
+Null preserving
+AutoBake
+Input
+Options
+L8%f°[G WA*+*=;**%*%YST#***0. X E0.1** 9'tf'sUWT***-j;'**PWW"TF"**'sQWT*1Q 8**'*dYQYVZGhQTd*****"=*f°*GT[T Ff-V $=>WRDP%T
+I9fGUC[R"+fgwtpkiwp;+PW s
+up*tu'****4+*+$*9'f'sY Uw dyaqfwz ex'sr/V%t3f*I*;$A\2E1AVA*%BL%*$
+[RSK2nFQEWIZ]W/E[B*C@L#>*'*”
+AM#AkW^S****4*8t*dBXUTB1C@X%ZAV FK3T>*O%=*dwJD_W@D"*fJ>s%*AM#AkW^S +**w*4*8*dRU\^@ZRmA)PX'***+3FI:L
+48
+4
+Output
+"owns,N(*%"#+whgd$)u+*i0
+ct+M#%afcd'*#)""
+Name: Size: Type:
+About / Support
+口日 File details
+FileSection 1.bin
+408bytes unknown
+Loaded:
+100%
+TT Raw Bytes 后
+园
+"age';.G:^%'#+Wacg”
+"heigmuQeP;%658Y&)w&$~j"owQ'oP;%70
+ekta%d'=#p+&&)W$u1jfk!4T*!F@@Z2241A"
+"f%9+WB>3DG<M39059722C5'.
+%!.T*-
+ Nte
+T(-%！
+ LF
+"mod"m,N(PIPFTN<&QH#EN)OW2!
+"setting\#4Tsx!%'#)cg{‘Ythfxil*"
+s'8"true,
+.#.v(d"r
+tracking'
+"zd'#vY"&)u"o}"
+qz1j$<)0669
+ftt!4Tsx!%"
+AEC488
+8
+(J157/U&&)Uege"qnb\i*i#?"700
+'step_godm,
+?2ms
+Tr Raw Bytes
+ LF

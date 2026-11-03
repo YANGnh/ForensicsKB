@@ -1,0 +1,18 @@
+# OCR: QQ_1781005386043.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781005386043.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+root@ubuntu:/var/log/nginx#cataccess.log*/grepngrok/head-n1o
+[15/Anr/2026:03:55:47-0400]"GET/template/001tep/htmL/style/css/v2-607838a2ee.cssHTTP/1.1"20060126
+"https://bLemish-junior-unenga
+ged.ngrok-free.dev/
+"Mozilla/5.0(windowsNT10.0;Win64;x64)AppleWebKit/537.36（KHTML,ikeGecko）Chrome/140.0.0.0Safari/537.36
+[15/Apr/2026:03:55:47-0400]"GET/template/001tep/js/jquery.superslide.js HTTP/1.1"200 9432"https://blemish-junior-unengaged.ngrok-
+free.dev/""Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,1ikeGecko)Chrome/140.0.0.0Safari/537.36"
+::1 - - [15/Apr/2026:03:55:47 -0400] "GET /tempiate/001tep/js/jquery.base.js HTTP/1.1" 200 6197 "https://blemish-junior-unengaged.ngrok-free.d ev/" "Mozilla/5.0 (Windows NT 10.0;Win64;x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/140.0.0.0 Safari/537.36"
+::1 - - [15/Apr/2026:03:55:47 -0400] "GET /static/js/home.js HTTP/1.1" 200 38309 "https://blemish-junior-unengaged.ngrok-free.dev/" "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,ikeGecko）Chrome/140.0.0.0Safari/537.36"
+::1--[15/Apr/2026:03:55:47-040o]"GET/static/js/jquery.autocomplete.jsHTTP/1.1"20o251o9"https://blemish-junior-unengaged.ngrok-free.d ev/"Mozilla/5.0(windowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/140.0.0.0Safari/537.36"
+::1--[15/Apr/2026:03:55:47-0400]"GET/static/js/jquery.jsHTTP/1.1"20092629"https://blemish-junior-unengaged.ngrok-free.dev/""Mozilla/5.0（WindowsNT10.0;Win64;x64)AppleWebKit/537.36（KHTML,LikeGecko）Chrome/140.0.0.0Safari/537.36"
+::1--[15/Apr/2026:03:55:48-040o]"GET/static/images/logo.jpgHTTP/1.1"20014914"https://blemish-junior-unengaged.ngrok-free.dev/""Mozi la/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/140.0.0.0Safari/537.36"
+::1--[15/Apr/2026:03:55:48-0400]"GET/upload/vod/20260415-1/3e25c86f44da010aab2ac6ab91e8536e.jpgHTTP/1.1"40489"https://blemish-junior-unengaged.ngrok-free.dev/""Mozila/5.0(windowsNT10.0;win64;x64)ApplewebKit/537.36(KHTML,likeGecko)Chrome/140.0.0.0Safari/537.36"::1--[15/Apr/2026:03:55:48-0400]"GET/upload/vod/20260415-1/83f4402e5d98fba6da18bbca0d1c42b3.jpgHTTP/1.1"40489"https://blemish-junior-unengaged.ngrok-free.dev/""Mozilla/5.0（windowsNT10.0;Win64;x64)AppleWebKit/537.36（KHTML,ikeGecko)Chrome/140.0.0.0Safari/537.36::1--[15/Apr/2026:03:55:48-0400]"GET/template/001tep/html/style/js/v2-2755e1b5b8.jsHTTP/1.1"200285297"https://blemish-junior-unengag ed.ngrok-free.dev/""Mozilla/5.0(windowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,1ikeGecko)Chrome/140.0.0.0Safari/537.36"

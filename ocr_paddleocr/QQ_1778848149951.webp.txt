@@ -1,0 +1,7 @@
+# OCR: QQ_1778848149951.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778848149951.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+rootepue-nodei:/etc#pueversion
+pue-manager/9.1.1/42db4a6cf33dac83 (running kernel:6.17.2-1-pue)

@@ -1,0 +1,8 @@
+# OCR: QQ_1780981797191.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780981797191.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+root@ubuntu:/etc/systemd/system/getty@tty1.service.d# cat override.conf
+[seryice] Execstart=
+Execstart=-/sbin/agetty --autologin mac --noclear %I $TERv root@ubuntu:/etc/systemd/system/getty@tty1.service.d#-

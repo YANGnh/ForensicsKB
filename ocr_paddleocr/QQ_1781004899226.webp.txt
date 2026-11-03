@@ -1,0 +1,30 @@
+# OCR: QQ_1781004899226.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781004899226.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+tidb -Edit Connection (MySQL)
+Connection Profiles Main Profile (Active)
++
+General
+Advanced
+Connection Name:
+Host: Port:
+User Name: Password:
+Connection Successful Server Version: 8.0.11-TiDB-v7.5.0
+Test Connection
+URI.
+Databases Navicat
+tidb
+SSL
+mytidb 4000 aa
+00000000
+SSH
+HTTP
+Remarks
+sSH Server
+M Save password
+Database
+OK
+Cancel
+X

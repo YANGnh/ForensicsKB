@@ -1,0 +1,16 @@
+# OCR: QQ_1778515540635.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778515540635.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+eu.ds
+@1Password
+edsetes Help
+1PasswOrd Goback
+CUUU
+OpenvaultonthisPc
+Your vault will be opened from this location: D:\CaseFiles\FileOutputVliuyang.opvault
+Password:
+0000000000
+Open
+X

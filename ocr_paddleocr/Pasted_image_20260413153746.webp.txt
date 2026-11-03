@@ -1,0 +1,34 @@
+# OCR: Pasted_image_20260413153746.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413153746.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+品
+早起王的PC-VMwareWorkstation
+File
+Edit
+个 Home
+View
+VM
+Iabs
+早起王的PC
+X
+Help
+品
+高级选项
+启动修复
+《》 c:\
+?
+@
+修复妨碍 Windows 加载的问题启动设置
+更改windows启动行为命令提示符
+使用命令提示符进行高级故障排除
+查看更多恢复选项
+To direct input to this VM, click inside or press Ctrl+G.
+卸载更新
+口
+从Windows 中移除最近安装的质量更新或功能更新
+UEFI固件设置
+在电脑的 UEFI 固件中更改设置系统还原
+使用你电脑上记录的还原点来还原 Windows
+X

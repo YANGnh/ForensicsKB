@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260415223958.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415223958.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+9 10 11 12 13 14 15
+16 17 18 19 20 21 22
+public class yEA8oSg6e02FNWc6DpGE
+// Token:0x0600013B RID:315 RA:0x000069B8 File 0ffset:0x00004BB8
+public staticobjectf5Mo9y1FKlyJy4powgcEstring3pXgYfeWgCBzoAYUjYnh)
+RijndaelManaged rijndaelManaged = new RijndaelManagedo
+D5CrvptoServiceProvidermd5CryptoServiceProvider=newMD5CryptoServiceProider byte[] array = new byte[32] :
+byte[)array2=md5CryptoServiceProvider.ComputeHash(ACxoqTJzEzq40qP5qFxb.wykaaAeCf6BeWi8Flwtq
+(statics.DhMybcleyUJ8bZbagtAkL3FTz6SQ840xELBsFWt9yekNCYQ1WgRtjL1bTF3)):
+Array.Copy(array2，o，array，0，16)： Array.Copy(array2，o，array，15，16)： rijndaelManaged.Key = array:
+rijndaelManaged.Mode =CipherMode.ECB
+ICryptoTransform cryptoTransform = rijndaelManaged.CreateDecryptorO: byte[) array3 = Convert.FromBase64String(3pXqYfeWgCBZoAYUjYnh)
+return Acx0qTJzEzq40qP5qFxb.sJljw7gGxcYB8jRelfP(cryptoTransform.TransformFinalBlock (array3, 0, array3.Length))

@@ -1,0 +1,49 @@
+# OCR: QQ_1778687825702.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778687825702.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+010 Editor - D:/mnticarlimagelsystemVib)firmwareleculadas_ecu.bin (Read Only)
+File
+Edit
+Seect
+adas ecu.bin x
+3E:FE50 3F:FF60 3F:FF7 3F:FF80 3F:FF90 3E:FFA 3E:EEB0 3E:EFCO 3F:FFD0 3F:FFE0 3F:FFF0 40:0000 40:0010 40:0020 40:0030 40:0040 40:0050 40:0060 40:0070 40:0080 40:0090 40:00A0 40:00B0 40:00C0 40:00D0 40:00E0 40:00F 40:0100 4:
+40:0120 40:0130 40:0140 40:0150 40:0160 40:0170 40:0180
+00 0
+O 00
+40
+3B95
+Find Results
+Address
+ Variables
+Fing
+Format
+powertraincan.asc
+BO Value
+Inspector
+# Output
+Scots
+Templates
+system.dlt
+Find Results
+Selected: 1024 [400h] bytes (Range: 41 Start: 4194304 [400000h]
+Debug
+Project
+gateway ecu.binA
+00 00
+Find in Files
+Tools
+Window
+build.prop
+?
+Compare
+Size: 8,388,608
+ Sel: 1024 [400h]
+Help
+Histogram
+口
+EChecks
+Hex UTF8 LIT
+十 X
+曾 OVR

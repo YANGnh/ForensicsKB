@@ -1,0 +1,12 @@
+# OCR: QQ_1779252979544.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779252979544.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+[rootolocahost j# mysgl -uroot -p Enterpassword:
+WelcometotheMariaDBmonitor.
+Commands end with : or g
+Your MariaDB connection id is 2
+Serverversion:5.5.68-MariaDBMariaDBServer
+Copyright （c) 2ooo,2o18, oracle, MariaDB Corporation Ab and others.
+Type 'help:' or 'h' for help. Type 'c' to clear the current input statement. MariaDB［(none)]>

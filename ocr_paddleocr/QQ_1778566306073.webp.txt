@@ -1,0 +1,33 @@
+# OCR: QQ_1778566306073.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778566306073.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+SEARCH
+持久访问 Replace
+G
+Aa ab
+AB
+1 result in 1 file - Open in editor Search withAl
+→通讯录管理系统漏洞清单.md 3.上传webshell获取持久...
+日
+ file shell.php
+通讯录管理系统漏洞清单md X
+通讯录管理系统漏洞清单.md>abe#通讯录管理系统漏洞清单abe#攻击链示
+#通讯录管理系统漏洞清单
+I
+89
+90 91 92 93 94 95 96 97 98 99 19 191 192 193
+##攻击链示例
+井完整攻击路径：
+1.**信息收集**：访问‘generate_data-php
+获取管理员密码
+**初始访问**：使用获取的密码登录系统 2.
+3．**权限提升**：通过‘tools.php＇执行系统命令 4．**持久化**：通过upload.php上传webshell 5．**数据窃取**：直接下载‘address_book.db²
+数据库
+6，**横向移动**：通过API端点收集更多业务数据###最小攻击路径：
+获取所有数据
+直接下载address book.db'
+2
+使用获取的密码登录系统
+3．上传webshell获取持久访问

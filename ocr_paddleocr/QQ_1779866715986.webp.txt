@@ -1,0 +1,29 @@
+# OCR: QQ_1779866715986.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1779866715986.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+g
+^检材1-计算机.E01>
+三序号口1 □2 □3 口4 口5 □6 口7 口8 口9 □10
+三名称过滤主机名系统
+操作系统类型版本代码
+操作系统名称主页
+Bug反馈地址
+目Linux基本信息 >
+【检材1-计算机.E01/分区4>系统信息
+三英文名称过滤
+hostname
+PRETTYNAME OS_TYPE
+VERSIONCODENAME
+MATERIALSNAME HOMEURL
+BUGREPORTURL
+系统版本号（小写）
+操作系统版本内核版本
+VERSIONID OS NAME Kernel
+三值过滤 Iha-PC
+Deepin 23.1
+Deepin beige deepin
+https://www.deepin.org/ https://bbs.deepin.org 23.1
+bookworm/sid
+6.6.84-amd64-desktop-hwe

@@ -1,0 +1,20 @@
+# OCR: QQ_1779254198592.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779254198592.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+口
+三序号 1
+vm-100-disk-0.raw/文件系统/centos(nX35wP-eOsD-LX7i-kEfZ-80R8-1JzG-LHFjgF)/分区
+三名称过滤
+jinqin backup.sgl.gz.eng
+大小等于
+34.58MB
+三创建时间
+起始
+结束
+2026-04-20 18:08:50
+三修改时间
+起始
+结束
+2026-04-20 18:08:50

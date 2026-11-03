@@ -1,0 +1,17 @@
+# OCR: Pasted_image_20260413174947.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413174947.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+卡片编辑四身份
+?行为
+模块
+字设置
+为此角色卡配置模块。如未设置，将使用默认模块配置
+聊天/提供商 OpenRouter
+(）语音/提供商
+KokoroTTS(本地) 声音/声线
+意识/模型
+Qwen:Qwen3.5-Flash 声音/模型
+取消操作
+保存更改

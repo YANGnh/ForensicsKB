@@ -1,0 +1,28 @@
+# OCR: Pasted_image_20260518190042.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518190042.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+ox5daaa8:Ldur// ox5daaac: stur
+x0,[fp，#-0x80] x0,，[fp,#-0x80]
+// x5daabo: LoadField: r1 = ro->field 7
+Ox5daabo: Ldur
+W1，[x0，#7]
+// x5daab4: r2 = LoadInt32Instr(r1)
+0x5daab4: sbfx
+// 0x5daab8: sub// 0x5daabc: Lsl// 0x5daac0: str// 0x5daac4: mov
+// 0x5daac8: r2 = 2
+0x5daac8: movz
+x2，xl，#1，#0x1f
+x1，x2，#1 x2，x1， #1 x2，[SP] x1， x0
+x2，#0x2
+// x5daacc: r4 = const [o, x3, Oxl, x3, null]
+Ox5daacc: Ldr
+// x5daado: ro = substring()
+0x5daado: bL
+x4, [PP, #0x2a8] ； [pp+0x2a8] List(5) [0, 0x3, 0x1, 0x3, NulL]#ox25f518 ; [dart:corel StringBase::substring
+// 0x5daad4: StorestaticField(0xe64, r0)
+0x5daad4: Ldr 0x5daad8: str
+X1，[THR，#0x68]
+ THR::field table Values
+x0，[x1，#0x1cc8]

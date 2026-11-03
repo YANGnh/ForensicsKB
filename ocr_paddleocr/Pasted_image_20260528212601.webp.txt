@@ -1,0 +1,92 @@
+# OCR: Pasted_image_20260528212601.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260528212601.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+x 可
+DBBrowserforSQLite-F:2026ficruntimelwk9628874a3c6b403593766496fa985893.db
+帮助(H) 工具() 查看(V) 编辑(E) 文件(E)
+关闭数据库(C) 附加数据库(A）保存项目(S) 打开项目(P) 合撒销(u) 多倒退更改(R) 白写入更改(W) 打开数据库(0) 新建数据库(N)
+x 编辑数据库单元格(C）
+执行SQL) 编辑杂注(R) 浏览数据(B) 数据库结构(D)
+>> 模式：文本
+过滤任何列品 A 明
+肥  channel 表(T):
+2 category
+avatar last offline online version robot invite status receipt is deleted follow forbidden save mute top
+channel remark channel name username show_nick channel type
+channel id id
+过滤过滤过滤过滤过滤过滤过滤过滤过滤
+过滤过滤
+过滤过滤过滤过滤
+过滤过滤过滤过滤过滤
+过滤过滤
+systel NULL 0 0 73519777 0 0 1 1 0
+1 0
+0 0 0
+NULL 文件传输助手
+NULL 0
+1 fileHelper 2 1
+0 0 0
+0 0 1 0 0
+0 0
+0 0 0
+阿联阿联阿联 1 9628874a3c6b403593766496fa985893 3 2
+0 0 0
+0 0 1 0
+0 0 0
+0 0 0
+小娜小娜小娜 O
+1 ae2be0b61b238d84a2e48302836272b2 407 3
+0 0 0
+0 0 1 0
+0 0 0
+0 0 0
+萌萌萌萌萌萌 1 53eb570ffebce13179a038da46f54c86 869 4
+0 0 0
+0 0 1 0
+0 0 0
+0 0 0
+网站开发网站开发网站开发 1 8c723cbb09bd47adcf0ba4d9758320c0 1339 5
+0 0 0
+0 0 1 0
+0 0 0
+0 0 0
+SEO推广 SEO推广 SEO推广 1 927f257115614e5a58aa28e7ebfb30d4 1537 6
+0 0 0
+0 0 1 0
+0 0 0
+0 0 0 用户 449436 用户 449436 用户　449436
+1 7e799a055f0189f009e661fd75449436 1697 7
+0 0 0
+0 0 1 0 0
+0 0
+0 0 0 用户 113739　用户 113739 用户 113739
+1 5ba8f8c519ef89acb806b663a5113739 2175 8
+应用
+编辑行=1 :列=0 0 0 0 0 0 1 0 0
+0 0
+0 0 0 用户 113739　用户 113739 用户 113739
+1 9628874a3c6b403593766345113739 2333 9
+类型：文本（数字;大小：1个字符
+x 远程(R)
+0 0 0
+0 0 1 0 0
+0 0
+0 0 0 大日云服务器
+大日云服务器大日云服务器
+1 c5e0f4afea09370702f943e7cfcef741 2415 10
+尽上传选择用来连接的身份身份 users/u loooo/avatar systel 0 0 0
+1 0 1 1 0
+1 0
+0 0 0
+NULL
+系统账号系统账号 1
+u 10000　 2513 11
+当前数据库本地 DBHub.io
+®
+名称
+1
+远程(R) 数据库架构(M) 图表(P) SQL 日志(L)
+转到： 1 - 11 / 11
+加密的只读UTF-8

@@ -1,0 +1,35 @@
+# OCR: Pasted_image_20260413153954.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413153954.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+c.管理员：x:|windows|system32|cmd.exe X:/windows/system32>C:
+C:1>CDWindows\System32/config C:/Windows/System32/config>DIR
+驱动墨中的卷没有标签。卷的岸列号是60D3-C8FD
+C：windows/System32\config的目录
+2026/04/13 2026/04/13 2026/04/02 2026/03/05 2026/04/13 2026/Q4/Q2 2026/04/03 2026/03/09 2026/03/05
+15:31 15:31 20:08 14:50 15:36 20:08 12:01 08:58 14:47
+2026/04/1315:28
+2026/03/05 2026/04/13 2026/04/13 2026/04/13 2026/04/13 2026/03/05 2026/03/10 2026/03/05
+14:47 15:37 15:37 15:36 15:35 14:47 20:14
+<DIR> <DIR>
+524,288 BBI
+28,672 BCD-Template
+39,583,744
+COHPONENTS
+288 DEFAULT 524，
+4,395，
+008 DRIVERS
+32,768 ELAM
+<DIR> <DIR> <DIR>
+65,536 32, 768
+75,497,472 13,107,200
+<DIR> <DIR>
+14:49
+11个文件
+Tournal OSDATA RegBack SAM
+SECURITY SOFTWARE SVSTEU
+systeuprofile TxR
+8,192 userdiff 133，799,936字节
+个育录
+66,227，499,008可用字节

@@ -1,0 +1,29 @@
+# OCR: Pasted_image_20260413174920.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413174920.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+AIRI
+File
+Edit
+ViewWindowHelp
+AIRI 设置
+<AIRI角色卡
+搜索角色卡
+Upload
+Click or drag and drop a file here ReLU
+(from Neko Ayaka) Good morning! You are finally awake. Your name is AiRl,
+pronounced as /'airi:/,it the word A..
+v1.0.0
+?default  default
+?
+创建新角色卡
+qq
+排序方式：
+名称(A-Z)
+口
+你是qianqian，你是早起王的完美女友，早起王喜欢你叫他起早宝宝。
+v1.0
+?23 @ default
+画
+X

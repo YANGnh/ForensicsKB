@@ -1,0 +1,40 @@
+# OCR: QQ_1780902297591.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780902297591.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+C Code
+Releases
+2.00
+z583985166 Issues
+0.0.0
+Pull requests
+get_token_ linux
+z583985166 released this Apr 14 free token
+Assets
+get_token_windows.exe Source code (zip)
+阁
+Source code (tar.gz)
+Terms
+Privacy
+Security
+Latest
+2.00 >
+Status
+Agents
+Actions
+30873f7
+Community
+Docs
+Contact
+Projects
+Manage cookies
+?2026GitHub,Inc
+Security and quality
+101
+2.5 MB
+of
+Insights Compare
+Apr 14 Oct 8, 2024 Oct 8, 2024
+Do not share mypersonal intormation
+合奇

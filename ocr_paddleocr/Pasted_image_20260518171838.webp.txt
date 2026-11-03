@@ -1,0 +1,20 @@
+# OCR: Pasted_image_20260518171838.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518171838.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+口
+】三序号 1
+Image.tar/data/data/com.socialchat.social chat app/databases
+三名称过滤
+social chat.db
+三大小等于 188KB
+三创建时间
+起始
+结束
+三修改时间
+起始
+结束
+2026-04-2323:32:28
+三全路径过滤
+Image.tar/data/data/com.socialchat.social_chat_app/databases/social_chat.db

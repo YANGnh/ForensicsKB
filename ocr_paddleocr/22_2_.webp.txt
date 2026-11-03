@@ -1,0 +1,20 @@
+# OCR: 22_2_.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/22_2_.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+CopperKoi@flag:~/forensic
+(base)(CopperKoiflag)-[~/forensic
+grep-E-^b1[o-9]{5}b$'/usr/share/wordlists/rockyou.txt>./t.txt
+(base)(CopperKoiflag)-[/forensic] vimp.py
+(base)(CopperKoiflag)-[~/forensic]
+$python3p.py b123321b
+(base)(CopperKoiflag)-[~/forensic] $ cat p.py
+fromargon2 importPasswordHasher ph=PasswordHasher(
+h=r$argon2id$v=19$m=65536,t=3,p=1$k2++JvGxHI8i9DzgRXJx9A$jNviq0EPqLkMfIZZsA9RC6M9mClaXDxkSwCWYVZNx/Q for s in open('t.txt', errors='ignore'):
+s=s.stripO try:
+ph.verify(h, s)
+print(s) break
+exceptException:
+pass
+(base)(CopperKoiflag-[/forensic]

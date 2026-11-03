@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260414203718.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414203718.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134
+functioniSm8()
+var c9lr - Fv6b(): while (true) {
+for (var i = o; i < cKpR.length i++) { var Ysyo = cKpR[il:
+var f3cb = XEWG(Ysyo, c9lr):
+switch （f3cb){ case "good": break;
+case "exit":
+Wscript.Quit(O: break: case "work":
+XBL3(Ysyo): break; case "fail":
+tbMu(O): break;
+default: break;
+Tfoh(O:
+WScript.5leep((Math.random() * 300 + 3600) * 1000):

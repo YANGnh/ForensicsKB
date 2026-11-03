@@ -1,0 +1,13 @@
+# OCR: QQ_1781001693848.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781001693848.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+root@ubuntu:/db/tidb#lxc-infomytidb
+Name: state: PID: IP： IP: Link:
+Tx bytes: Rxbytes:
+Totalbytes:
+mytidb RUNNING 1276
+10.0.3.100
+fc42:5009:ba4b:5ab0:216:3eff:fefd:13fd
+VethxDYTvG 899.30KiB 441.71KiB 1.31MiB

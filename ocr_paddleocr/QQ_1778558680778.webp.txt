@@ -1,0 +1,15 @@
+# OCR: QQ_1778558680778.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778558680778.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+1requestdump_20260411_045814.9b71d2d7_20260411_045854_318895jsonx[3 request_dump_20260411_045814_9b71d2d7_20260411_045854_318895.json >
+5 12 24 910 939 940 941 942 943 944 945 946 947 948 949 950 951 952 953 954
+"request":"body": {
+"tools":"error"：}
+"type":"invalid_authentication error"
+"message": "Error code: 4ol - {'error': {'message': 'Invalid Authentication', 'type': 'invalid authentication error'1!"
+"status_code"：4o1,"body":{
+"message": "Invalid Authentication"
+"type": "invalid authentication error""responsestatus":4e1.
+'response_text":"{"error}":{"messagel":"Invalid Authenticationl","typel":"invalid_authentication_error"}}

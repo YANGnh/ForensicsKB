@@ -1,0 +1,33 @@
+# OCR: QQ_1780899244484.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780899244484.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+模型配置在线模型本地模型
+私有化部署模型
+UOSAI随航知识库管理代理设置使用协议
+账号名称模型类型 APIKey 模型名 API地址
+deepseek OpenRouter sk-o*
+deepseek
+openai/gpt-oss-120b:free https://openrouter.ai/api/vl
+取消
+私有化部署模型新无
+确定
+UOSAI
+欢迎使用UOSAI，UOS系统的综合助手。我在想AI产品的功能设计，给我3个点子。
+请问什么方法有助于提高工作效率？写一份销售岗位的本月工作终结。
+X
+删除添加
+x
+OpenRouter>
+x
+卸载
+*9676a
+安装安装安装
+添加
+请输入您的问题，或输入“”选择指令 Ctrl+Enter换行
+AI生成的内容仅供参考，请注意甄别信息准确性，
+A?
+三
+X pseekv
+下午2:13 2026/6/8

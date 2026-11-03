@@ -1,0 +1,31 @@
+# OCR: Pasted_image_20260414130554.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414130554.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+250 251 252 253 254 255 256 257 258 259
+260 261 262 263 264 265 266 267 268 269 270 271
+272 273 274 275 276 277 278 279 280 281 282
+public Object#rr4>#saveNote(object functionobject, Object newTarget, NoteEditor this)[
+asyncfunctionenter = asyncfunctionenter(): try
+this.issaving = 1;
+callargsN = getContext(this):
+i=importi}from“@normalized:N&&&entry/src/main/ets/a/b&"; t = i.t(callargsN):
+al = import { al } from "@normalized:N&&&entry/src/main/ets/a/c&"; getInstance - al.getInstance():
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, getInstance.get
+("password_hash"))):
+resumegenerator = resumegenerator(asyncfunctionenter):
+if ((1 == getresumemode(asyncfunctionenter) ? 1 : 0) != 0) {
+throw(resumegenerator): this.note.f5 = Date.now():
+stringify = JsoN.stringify(this.note):
+el = import { el 1 from"@normalized:N&&&entry/src/main/ets/a/d&": tl = el.ti(stringify):
+e12=import{ei}from"@normalized:N&&&entry/src/main/ets/a/d&"; a2 = e12.a2(tl, resumegenerator):
+i2 = import  i  from"@normalized:N&&&entry/src/main/ets/a/b&";
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, i2.j("" + t +
+"/"+this.note.id +".json.tb",a2)));
+resumegenerator2 = resumegenerator(asyncfunctionenter):
+if ((1 == getresumemode(asyncfunctionenter) ? 1 : 0) = 0) (
+throw(resumegenerator2): this.isSaving - ;
+asyncfunctionenter = asyncfunctionresolve(null, asyncfunctionenter):
+return asyncfunctionenterg  catch (ExceptionIo unused) {
+return asyncfunctionreject(asyncfunctionenter, asyncfunctionenter);

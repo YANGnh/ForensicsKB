@@ -1,0 +1,59 @@
+# OCR: QQ_1779250758368.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779250758368.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+vm-100-disk-0.raw - VMware Workstation
+File Edit  View Library
+VM
+Iabs
+O Type here to search My Computer
+ Debian 13
+[ server01-disk01.E01  server02-disk01.E01  server03-disk01.E01 口
+vm-100-disk-0.raw
+Help
+X
+品
+vm-100-disk-0.raw
+?
+①
+CentosLinux7(Core）
+口向回
+Kerne1 3.10.0-957.e17.x86_64 on anx86_64
+localhost login: root Password:
+Last login: Thu Apr 23 10:04:15 on tty1[rootelocalhost~j#ipaddr
+图
+1: lo:<L00PBACK,UP,LOWER_UP>mtu 65536 qdisc noqueue state UNkNOwN group default qlen 1000
+1ink/100pback 00:00:00:00:00:00 brd 00:00:00:00:00:00 inet127.0.0.1/8scopehostlo
+valid lftforever preferred lft forever inet6 ::1/128 scope host
+valid_lftforever preferred_lft forever
+2: ens33: <BROADCAST,MULTICAST,UP,LOwER_UP> mtu 1500 gdisc pfifo_fast state UP group default glen 1000
+1ink/ether0:c:29:13:do:e6brdff:ff:ff:ff:ff:ff
+inet192.168.8.133/24brd192.168.0.255scopeglobalnoprefixroutedynamic ens33
+valid_1ft 1672sec preferred_lft 1672sec
+inet6fe80::d442:e324:a6e5:ab29/64 scope1inknoprefixroute
+valid_lft forever preferred_lft forever
+[rootqlocalhost J# service sshd status
+Redirecting to /bin/systemctl status sshd.service sshd.service - OpenssH server daemon
+Loaded:loaded (/usr/lib/systemd/systemvsshd.service; enabled; vendor preset: enabled)
+Active:active (running)since Wed 2026-85-20 80:16:15 EDT:2min 21s ag0 Docs: man:sshd(8)
+man:sshd_config(5)
+MainPID:6126(sshd)
+CGroup:
+May May May May
+/system.slice/sshd.service L6126/usr/sbin/sshd -D
+20 00:16:15
+20 20 20
+:16:15 0:16:15:16:15
+[rootQlocalhost
+To direct input to this VM, click inside or press Ctrl+G
+localhost.localdomain sustemd1l: Starting OpensSH server daemon..
+9port22
+localhost.localdomain sshd[6126]: Server listening on 0.0.0.0
+localhost.localdomain sshd[6i26l: Serverlistening
+ron::
+localhost.localdomain systemd[1]: Started OpenssH server"#a_
+port 22. daemon.
+口
+回司
+x

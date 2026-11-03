@@ -1,0 +1,19 @@
+# OCR: QQ_1779101469553.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779101469553.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+你现在运行在kaL1系统中，你是一人高级渗透工程师，现在需要对192，168.61，135这台服务器进行渗透提权，完成所有操作，遇到不会的问题，可以直自已去技能市场学习
+AContext:
+ooo 86% to compaction
+Context compaction approaching (threshold: 5o% of window)
+Context:
+96% to compaction
+Context compaction approaching (threshold: 5o% of window).
+todo: "planning 5 task(s)"
+terminal: "ping -c 3 192.168.61.135"
+terminal: "nmap -ss -sv -sc -0 -p- -T4 192.168.6..  todo: "planning 5 task(s)"
+terminal: "curl -s "http://192.168.61.135/" 1 he... terminal: "gobuster dir -u http:192.168.61.135.. terminal: "curl -s "http://192.168.61.135:8000/"" terminal: "curl -s "http:/192.168.61.135:8000/d.. terminal: "curl -s "http://192.168.61.135:8000/o... terminal: "sqlmap -u "http://192.168.61.135/inde..
+terminal: "curl -X P0sT "http:/192.168.61.135:8..." (x3)
+terminal: "hydra -L admin -p/usr/share/wordlist.. terminal:
+"sudo gunzip /usr/share/wordlists/rock..

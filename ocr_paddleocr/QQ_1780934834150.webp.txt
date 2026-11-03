@@ -1,0 +1,23 @@
+# OCR: QQ_1780934834150.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780934834150.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+Terminal-mac@ubuntu:
+FileEditViewTerminalTabsHelp mac@ubuntu:/sipaddr
+x
+1:lo:<LooPBACK,UP,LowERUP>mtu65536qdiscnoqueuestateUNKNOwNgroupdefaul tglenlooo
+link/loopback00:00:00:00:00:00brd00:00:00:00:00:00 inet 127.0.o.1/8 scopehost lo
+valid lft forever preferred lft forever inet6::1/128scopehostnoprefixroute
+valid_lft forever preferred_lft forever
+2:ens33:<BROADCAST,MULTICAST,UP,LOwER UP> mtu15oo qdisc fq codel state UP gro updefaultglenlooo
+link/ether oo:0c:29:35:ae:5ebrdff:ff:ff:ff:ff:ff altnameenp2s1
+altnameenxaac2935ae5e inet192.168.0.140/24
+brd192.168.o.255scopeglobaldynamicnoprefixroutee
+ns33
+validlft1726secpreferredlft15olsec
+inet6fe80::f9c7:7c85:e552:2398/64.scopelink
+valid lft foreverpreferred lft forever
+3:lxcbro:<BROADCAST,MULTICAST,UP,LOwER_UP>mtu 15ooqdiscnoqueuestateUP gro up default qlen 1ooo
+link/ether1o:66:6a:oo:oo:oobrdff:ff:ff:ff:ff:ff inet1o.0.3.1/24brd1o.o.3.255scopegloballxcbr0
+validlft forever preferred lft forever inet6fc42:5oo9:ba4b:5abo::1/64scopeglobal

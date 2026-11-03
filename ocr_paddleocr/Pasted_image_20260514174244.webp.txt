@@ -1,0 +1,25 @@
+# OCR: Pasted_image_20260514174244.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260514174244.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+39 40 41 42 45 48 49 52
+/* JADx INF0: loaded from: D:/pangu_pre/20260510125713u/resl1/unpack/ox763892a7d000_0x658c.dex * publicclassChatDatabaseHelperextendssoLiteopenHelper
+private static final string coL_AGE = "age" private static final string coL_ID = "id":
+private static final String coL_LEVEL = ievel': privatestaticfinal String
+COL_PROVINCE = "province"
+privatestaticfinal String
+ coL_REcoMMENDATIoN = "recommendation":
+private static final string coL_ScoRE = "score":
+private static final String coL_TIMEsTAM = "timestamp:
+private static final String DATABASE_NAME = "chat_history.db"; private static final int DATABASE_VERSION = 1;
+private static final String TABLE_CHAT ="chat_records:
+private staticfinal StringTAG = "DB_DEBUG" private Context context;
+private string encryptionKey;
+public ChatDatabaseHelper(Context context) {
+super(context, DATABASE_NAME, nul, 1): this.context = context;
+SQLiteDatabase.loadLibs(context);
+KeyDeriver keyDeriver = new KeyDeriver(context); this.encryptionKey = keyDeriver.deriveKey();
+Log.d(TAG, "Database initialized, key length:
+1
++this.encryptionKey.lengthO):

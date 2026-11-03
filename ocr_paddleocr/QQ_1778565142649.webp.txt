@@ -1,0 +1,30 @@
+# OCR: QQ_1778565142649.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778565142649.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+回SQL1*×
+SELECT DISTINCT * FROM 'contacts':
+id 1
+2 3
+5 9 10
+2 3 4 5
+7 8 9 10
+user_id
+1 1 1 1 1 1 1 1 1 1
+执行完成，无错误
+name 联系人1 联系人2 联系人3 联系人4 联系人5 联系人6 联系人7 联系人8 联系人9 联系人10
+结果：15000行返回，耗时17m3 在行 1：
+phone
+19578499797 14813704331 13538151397
+email
+user1@gmail.com u3er2@163.com u3er3@163.com
+18337286726
+ user4@gmail.com
+149568665271
+user5@outlook.com
+15102445026 u3er6@gmai1.com 13071847149 u3er7@outlook.com
+16366821099 user8@qq.com 13858031366 u3er9@qq.com 14415804608 u3er10@163.com
+SELECT DISTINCT * FROM 'cOntaCts':
+address
+江苏省朝阳区西湖大道上海市余杭区淮海路9 浙江省玄武区淮海路8 江苏省海淀区中关村才江苏省西湖区天河路6 江苏省玄武区夫子庙7 江苏省玄武区北京路5 上海市海淀区中山路2 广东省秦淮区淮海路2 上海市秦淮区北京路7

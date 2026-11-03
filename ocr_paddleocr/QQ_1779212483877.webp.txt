@@ -1,0 +1,47 @@
+# OCR: QQ_1779212483877.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779212483877.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+服务器视图
+量数据中心（pgscup2026）
+pve-node1 100(web)
+localnetwork(pve-node1)
+Ceph_pgscup_pool (pve-node1) local(pve-node1)
+local-lvm(pve-node1) pve-node2
+ localnetwork (pve-node2)
+Ceph_pgscup_pool (pve-node2) local (pve-node2)
+local-lvm(pve-node2) pve-node3
+localnetwork(pve-node3)
+Ceph_pgscup_pool (pve-node3) local (pve-node3)
+≥local-lvm(pve-node3)
+存储‘Ceph_pgscup_pool在节点'pve-node1'上
+概要日VM磁盘
+CT卷马权限
+状态
+已启用运行中内容类别使用率
+使用率
+140G 120 G 100G 80 G
+ 60 G 40G 20G
+小时
+Maximum
+帮助 Average
+是是
+磁盘映像，容器
+RBD
+5.69%(7.51GB的131.93GB)
+Total Size
+UsedSize
+2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20 2026-05-20
+00:42:00
+00:47:00
+00:52:00
+00:57:00
+01:02:00
+01:07:00
+01:12:00
+01:17:00
+01:22:00
+01:27:00
+01:32:00
+01:37:00

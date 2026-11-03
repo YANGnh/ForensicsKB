@@ -1,0 +1,16 @@
+# OCR: QQ_1780996011441.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780996011441.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+root@ubuntu:/#dockerinspect1c89
+"Id":"sha256:1c89854511ca5789b709faf483d94428bae5dac145def302520a63663467c9a5""RepoTags"：
+"u22:latest"
+"RepoDigests":
+"Parent":"sha256:813ea2d175caa636cfcc326081814bf5410be7938aefbe97974baf6cc7c98145""Comment":
+"Created"："2026-04-16T0715:50.535713491z" Dockerversion":"26.1.5+dfsg1
+"Author"："""Config":{
+"Hostname"："ubuntu"
+"Domainname":"""User":""
+"Attachstdin"：false,"Attachstdout"：false，"Attachstderr"：false，"ExposedPorts"：
+"22/tcp"：{

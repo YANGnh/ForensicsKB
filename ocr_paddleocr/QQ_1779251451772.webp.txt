@@ -1,0 +1,16 @@
+# OCR: QQ_1779251451772.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779251451772.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+[rootolocalhost network-scripts]#ip addr
+1: Lo: <Lo0PBAcK,UP,LoWER_UP> mtu 65536 qdisc noqueue state UNKNowN group default qlen 1000
+ink/1o0pback 00:00:00:00:00:00 brd 00:00:00:00:00:00 inet 127.0.0.1/8 scope host lo
+valid_lftforever preferred_ift forever inet6 ::1/128 scope host
+valid_lft foreverpreferred_zft forever
+2: ens33: <BR0ADcAST,MULTIcAST,UP,LoWER_UP> mtu 15oo qdisc pfifo_fast state UP group defauLt qlen 1000
+Link/etheroo:oc:29:13:do:e6brdff:ff:ff:ff:ff:ff
+inet 192.168.0.133/24 brd 192.168.0.255 scope global noprefixroute dynamic ens33
+valid_lft 1624sec preferred_1ft 1624sec
+inet6fe80::d442:e324:a6e5:ab29/64scope1inknoprefixroute
+validlft forever preferred_lft forever

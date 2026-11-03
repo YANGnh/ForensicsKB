@@ -1,0 +1,56 @@
+# OCR: QQ_1779253323052.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779253323052.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+File 0 12 13 14 5 16 17 18 0 20 21 22 23 24 25 26 27 28 29 30 31 32
+backup_decrypted  x
+Edit
+Select
+Find
+View
+MysQL dump 10.14
+1ocalhost
+Host:
+Server
+/±！40101/±！40101/*！40101/±！40101
+version
+SET SET SET SET
+Format
+Scripts
+口
+Templates
+5e
+Debug
+Project
+AB
+Tools
+Distrib 5.5.68-MariaDB, for Linux (x86_64) Database: jingin
+5.5.68-MariaDB
+@OLD CHARACTER SET CLIENT=@@CHARACTER SET CLIENT */ ;
+Window He:
+@OLD CHARACTER SET RESULTS=@@CHARACTER SET RESULTS */ ;@OLD COLLATION CONNECTION@@COLLATION CONNECTION ＊/; NAMEs utf8 ＊/;
+@OLD_TIME ZONE=@@TIME ZONE ＊/ :
+/±！40103
+SET
+TIME ZONE='+O0:00 */ :
+/±！40103
+SET
+/±!40014 SET @OLD UNIOUE CHECKS=@@UNIOUE CHECKS, UNIOUE CHECKS=0 */ :
+Help
+/＊!40014 SET @OLD_FOREIGN KEY_CHECKS=@@FOREIGN KEY_CHECKS, FOREIGN KEY_CHECKS=0 ＊/ :
+/＊!4O1O1 SET @OLD_SQL MODE=@@SQL MODE, SQL. MODE='NO AUTO_VALUE_ON ZERO' ＊/:/±!4O111 SET @OLD SQL NOTES@@SQLNOTES, SQL NOTES=0 /:
+Table structure for table 'account_log DROP TABLE IF EXISTS 'account_log':
+/!40101 sET @saved_cs_client
+= @@character_set_ client */:
+/±!40101 sET character_set_client = utf8 */:  CREATE TABLE ‘account_log' （
+'id' int(10) unsigned NOT NULL AUTO_INCREMENT,'user_id' int(1O) unsigned NOT NULL DEFAULT '''value decimal(20,5) NOT NULL DEFAULT '0.00000'
+ created_time' int(1o) unsigned NOT NULL DEFAULT 'o'
+*info' Varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT - :'type' tinyint(3) unsigned NOT NULL DEFAULT 'o'
+currency
+int(1o) unsigned NOT NULL DEFAULT 'o'
+C:Users/ NoahTiel DocumentsiSweetScap: Line 1, Col 1 Val: 45 2Dh Size: 170,235,636
+Text Plain UTF8 LF SPC4
+口
+x
+皖 INS

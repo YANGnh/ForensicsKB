@@ -1,0 +1,105 @@
+# OCR: Pasted_image_20260518193344.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518193344.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+8 64 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 10 181 102 103 14 15 16 17 18 19 118 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146
+abstract class MessageEncryption extends object
+static
+decrypt(* No info *） {
+// 0x4604do: LeaveFrame
+0x4604do: mov 0x4604d4: Ldp
+// 0x4604d8: ret
+0x4604d8: ret
+SP，fp
+fp，Lr，[SP]，#0x16
+0x4604dc: r2 = LoadstaticField(0xe4c)
+0x4604dc: Ldr 0x4604e0: Ldr
+0x4604e4: stur 0x4604e8: cmp 0x4604ec: b.eq
+X2，「THR，#0x68] x2，[x2,#0x1c98]
+x2，[fp，#-0x50]
+W2，NULL#0x460500
+// 0x4604f0: r1 = LoadstaticField(0xe50)
+0x4604fo: Ldr 0x4604f4: Ldr
+0x4604f8:cmp// 0x4604fc: b.ne
+0x460500:
+LeaveFrame
+0x460500: mov 0x460504: Ldp
+0x460508: ret
+0x460508: ret
+; THR::field tabLe Values
+l, [THR, #Ox68]  THR::fieLd_tabLe_VaLues x1,[xl, #0x1cao]
+WI. NUL!#0x46050c
+SP，fp
+fp,Lr，[SP,#ex16
+Encrypter(）
+0x46050c: r0 =
+0x46050c: bl
+0x460510: stur
+0x460514: r0 = AES()
+0x460514: bl
+0x460518: mov 0x46051c: Ldur 0x460520
+stur
+0x460524:r0 =AES
+0x460524: bl
+0x460528: Ldur
+// 0x46052c:
+Ldur
+#0x486594 ; AlLocateEncrypterStub -> Encrypter (size=0xc)
+x0,「fp，#-0x60]
+#0x486588 x1， xo
+; AlLocateAESStub -> AEs (size=oxlc)
+x2，[fp，#-0x50] xo
+[fp，#-0x50]
+#9x4698c0
+ [package:encrypt/encrypt.dart AEs: :AEs
+[fp，#-0x50] xO，
+x4，[fp，#-0x60]
+// 0x460530: StoreField: r4->field 7 = r0
+0x460530: stur
+0x460534 : 0x460538: 0x46053c : 0x460540:
+Ldurb Ldurb and tst
+b.eq
+0x460544: 0x460548:
+bl
+Wo，x4，#7] w16，「x4，#-1] w17，「x0，#-1]
+x16, x17， x16, Lsr #2
+X16,HEAP,Lsr #32#0x46054c
+#0x5d5dc4
+// 0x46054c: r3 = LoadStaticField(0xe50)
+0x46054c:
+Ldr
+0x460550:
+Ldr
+0x460554: mov
+x460558:
+Ldur
+; WriteBarrierwrappersstub
+X3，[THR，#0x68] x3,[x3,#0x1ca0]
+x1， x4
+x2，［fp，#-0x58]
+0x46055c: ro = decrypt64()
+0x46055c: bl
+0x460560:
+LeaveFrame
+0x460560: mov 0x460564: Ldp
+// 0x460568: ret
+0x460568: ret
+0x46056c: sub 0x460570: Ldur
+// 0x460574: LeaveFrame
+0x460574: mov 0x460578: Ldp
+0x46057c: ret
+0x46057c: ret
+#0x460588 SP，fp
+; THR::field table Values
+;Ipackage:encrypt/encrypt.dart]Encrypter::decrypt64
+fp，Lr，[SP]，#0x19
+SP，fp，#0x60 x0，［fp，#-0x58]
+SP，fp
+fp,Lr，[sp]，#ox16
+ox460580:ro=StackoverfLowsharedwithoutFpURegs()
+0x460580: bl
+// 0x460584: b 1
+; StackoverfLowSharedwithoutFpURegsStub
+#0x5d7749
+#0x4604c4

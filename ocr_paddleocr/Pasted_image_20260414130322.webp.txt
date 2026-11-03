@@ -1,0 +1,26 @@
+# OCR: Pasted_image_20260414130322.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414130322.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+···
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86
+while （ 1
+int8)*v11:
+vl4=Cunsigned
+if ( (unsigned int)(v14 - 97) < 0x1A )
+v12 = 97: v13 = -81:
+else
+if ( (unsigned int)(v14 - 65) > 0x19  goto LABEL_20:
+y12 = 65: v13 = -49:
+int8)(v13 + v14) % 0x1Au + v12:
+*vi1 = (unsigned
+87 LABEI
+88 89 90 91 92 93 94 95 96 97
+20:
+++v11: if（
+!--v10
+v7 = v22: v6 = v23:
+v8 = v20 & 1:
+_int64)v20 >> 1;
+v9 = (unsigned break;

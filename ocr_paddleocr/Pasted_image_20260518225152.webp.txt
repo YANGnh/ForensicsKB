@@ -1,0 +1,58 @@
+# OCR: Pasted_image_20260518225152.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518225152.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+) - [gt_note (NotePal)]
+SQLiteStudio (3.4.17)
+数据库(D)
+数据库安名称过滤
+结构(S)
+message_2(错误) HotePal (SQLite 3)
+V
+表(9)
+> >
+7 > >
+> E
+视图M
+android_metadata gt_alarm
+gt_attachment gt_category gt_location gt_note
+gt_notebook gt_timeline gt_weather
+视图
+工具(D
+帮助(H) Fx
+奥
+x
+器
+品
+结构
+数据
+网格视图
+图 id
++
+约束
+表单视图 code
+索引
+困
+触发器图
+user_id
+117769098099330
+DDL 图
+added_time
+筛选数据
+last_modified_t
+status
+17769098099331776909809933
+0
+已加载行数：1
+last_synccontent_code
+01776909843184
+note_type parent_cc preview_conten preview_i
+tags
+0
+0英文*2+数字*6
+NULL
+NULL
+title mima
+tree_Path
+1776909809933

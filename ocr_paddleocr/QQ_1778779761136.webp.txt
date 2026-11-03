@@ -1,0 +1,33 @@
+# OCR: QQ_1778779761136.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778779761136.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Variabes
+Name
+BootBackupStart
+Reserved[12] DriveNumber Unused
+ExtBootSignature SerialNumber
+> VolumeLabel[111 > FileSystemLabel[8] BootCode[420]
+EndOfSectorMarker
+> table[0] > table[1] > root dir
+6h 80h Oh
+29h
+enum FAT32_ CLUSTER_...
+Value
+C0F6F08h NO NAME
+FAT32 AA55h
+Start
+32h 34h 40h 41h 42h 43h 47h 52h 5Ah 1FEh
+199400h
+enum FAT32_CLUSTER_..
+8CCA00h 1000000h
+2h Ch 1h 1h 1h 4h Bh 8h
+size
+1A4h 2h
+733504h 733504h 200h
+WORD BYTE BYTE BYTE BYTE
+DWORD CHAR CHAR UBYTE WORD
+Type
+struct FAT32 FAT TABLE struct FAT32 FAT TABLE struct FAT DIRECTORY
+Color

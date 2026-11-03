@@ -1,0 +1,29 @@
+# OCR: Pasted_image_20260413153200.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413153200.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+品
+早起王的PC-VMwareWorkstation
+File
+Edit
+个 Home
+?
+View
+VM
+Iabs
+早起王的PC
+x
+Help
+品
+?
+?
+你的设备遇到问题，需要重启
+可
+我们只收集某些错误信息，然后为你重新启动 0%完成
+有关此问题的详细信息和可能的解决方法，请访问https://www.windows.com/stopcode
+如果致电支持人员，请向他们提供以下信息：终止代码：CONFIGLISTFAILED
+To direct input to this VM, click inside or press Ctrl+G.
+口
+迎
+X

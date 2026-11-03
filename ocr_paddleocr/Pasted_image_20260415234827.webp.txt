@@ -1,0 +1,11 @@
+# OCR: Pasted_image_20260415234827.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415234827.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+106 107 108
+109 110 111
+tr
+MucoEk32s2gffkGK8lcDraE3Raeg2cij85ipbnaytobxngusBzla9if9.couputer.Registr.currentuser.0pensubKe("soTAREmicrosoftindowsCurrentersionRun", true/.Settalue
+(Path.GetFileNamewithoutExtension(statics.WmiPrvsE.exe)，text)
+catch(Exception ex5)

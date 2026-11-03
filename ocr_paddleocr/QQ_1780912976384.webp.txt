@@ -1,0 +1,67 @@
+# OCR: QQ_1780912976384.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780912976384.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+MicrosoftVisualBasicforApplications-副本保险箱的秘密.xls[正在运行]-[模块1（代码)
+文件(F) 田
+编辑(E)
+视图(V)
+）插入（）
+管器
+I程 - VBAProject
+品
+格式(O)
+x
+日VBAProject（副本保险箱的秘密.xl
+Microsoft Excel 对象
+Sheetl (Sheetl)  Sheet2 (Sheet2) Sheet3 (Sheet3)  ThisWorkbook
+白模块
+模块1
+属性－模块1 模块1模块
+按字母序按分类序（名称）模块1
+x
+调试(D)
+(通用)
+运行(R)
+工具D
+matchedChar =
+外接程序(A)
+窗(W)
+行239，列28
+Dim fontKey As Variant
+Dim fontPoints As Variant. Dim fp As Variant
+For Each fontKey In fontDict.Keys
+fontPoints = fontDict(fontKey
+帮助(H)
+，检查点数量是否相同
+If UBound(fontPoints) + 1 = pointDict. count The
+Dim allMatch As Boolean. allMatch = True
+检查每个点是否匹配
+For Each fp In fontPoints
+Dim fk As String
+fk = fp(O) &
+& fp(1)
+If Not pointDict. Exists(fk) Then
+allMatch = False_ Exit For
+End If Next fp
+If allMatch Then
+matchedChar = CStr(fontKey) Exit For
+End If
+End If Next fontKey
+添加匹配结果（未匹配到则用?代替） If matchedChar <>
+Then
+result = result & matchedChar Else
+result = result &"?"
+End If Next il
+DecryptStego = result End Function
+Sub DecryptAndShow ()
+Dim secret As String
+隐写术解密
+DecryptAndShow
+解密结果:baoxianguimima:583985
+确定
+secret = DecryptStegoO
+MsgBox“解密结果：”＆‘secret，vbInformation，“隐写术解密” End Sub
+口
+x x

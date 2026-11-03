@@ -1,0 +1,38 @@
+# OCR: Pasted_image_20260414151240.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414151240.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+Powerfish
+PowerFish
+Restore.Point....:7328/100000(7.33%）
+Restore.Sub.#ol..:Salt:0Amplifier:0-1 Iteration:0-1 Candidate.Engine.:DeviceGenerator
+Candidates.#01...:b156488b→b195488b
+Hardware.Mon.#01.:Temp:61cUtil:0%Core:390MHzMem:14001MHzBus:8
+$argon2id$v=19$m=65536,t=3p=1$k2++JvGxHI8i9DzqRXJx9A$jNvi0EPqLkMfIZZsA9RC6M9mClaXDxkSwCWYVZNx/Q:b123321b
+Session status
+Hash.Mode.
+Hash.Target. Time.Started
+Time.Estimated Kernel.Feature
+Guess,Mask. Guess.Queue
+Speed.#* Recovered. Progress. Rejected.
+Restore.Point.
+Restore.Sub.#o1.
+hashcat Cracked
+7oooo（Argon2id「Bridged:referenceimplementation+tunings) $argon2idsv=19sm=65536,t=3,p=1$k2++JvGxHI8i9DzqRxJx...VZNx/Q
+SatApr1115:01:572026(4mins,16secs) Sat Apr 11 15:06:132026(0 secs)
+PureKernel(passwordlength-256bytes）
+b1?d?d?d?d?db[8] 1/1 (100.00%)
+94H/s
+1/1(100.00%)Digests(total)，1/1(100.00%)
+23616/100000（23.62%） 0/23616（000%)
+23232/100000（23.23%）
+Salt:0 Amplifier:0-1 Iteration:0-1
+DeviceGenerator
+Candidate.Engine.:
+Candidates.#01...:b148556b>b161421b
+Digests(new)
+Hardware.Mon.#01.:Temp:63cUtil:6%Core:892MHzMem:14001MHzBus:8
+Started:SatApr11 15:01:54 2026 Stopped:SatApr1115:06:142026 NoahTieoArkw/s/a/h/current
+口
++

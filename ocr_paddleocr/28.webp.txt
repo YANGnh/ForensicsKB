@@ -1,0 +1,16 @@
+# OCR: 28.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/28.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+zaoqiwang@zaoqiwang:/clau>
+CopperKoi@flag:/forensic
+(base)(CopperKoiflag)-[~/forensic]-$ node j.js
+010 1007 20014 3008 40013 5000 6000 7000 8000 9000 10000
+（base)(CopperKoiflag)-[~/forensic]-$ cat j.js
+const {should_inject_for_ua} =require('./bash_block_injector.js');
+const sleep = ms = Atomics.wait(new Int32Array(new SharedArrayBuffer(4)),0,0,ms); constua='claude';
+for（letdelay=0;delay≤1000;delay+=10o){
+const ips = Array.from({ length: 500 ,(-, i) = 10.${delay / 100}.${(i >> 8)  255}.${i  255}); for(const ip of ips) should_inject_for_ua(ua,ip);
+sleep(delay); let hits = 0;
+for（const ipofips）if（should_inject_for_ua(ua，ip)）hits++;

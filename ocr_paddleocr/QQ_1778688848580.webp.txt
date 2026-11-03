@@ -1,0 +1,22 @@
+# OCR: QQ_1778688848580.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778688848580.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+表(T)：国paired_devices
+id
+过滤
+mae
+过滤
+6化民园国
+name
+A1:B2:C3:D4:E5:F6 Nang iPhone15
+2 00:11:22:33:44:55 Diagno3tic Dongle BLE
+type
+A品艺
+last_connect
+过滤过滤
+1702650000 21702654800
+过滤任何
+pin code
+过滤 NULL 0000

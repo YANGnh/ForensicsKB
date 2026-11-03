@@ -1,0 +1,57 @@
+# OCR: QQ_1780999037304.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780999037304.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+mac_admin @mac2 (mac2) - Table - Navicat Premium
+File Edit View Table Favorites Tools Window Help
++
+Connection New Query My Connections
+ Local mac2
+information_schema mac2
+Tables
+ mac_actor  mac_admin
+mac annex mac_art mac_card mac.cash
+mac_gj content mac cj history mac gj node mac_collect mac_comment mac_gbook mac_group
+mac_link mac_manga mac_msg mac order mac_plog mac_role
+mac seo_ai result
+Q Search
+Table
+View
+三☆
+fx Function Objects
+User
+Others
+Query
+mac_admin @mac2 (mac2) -Table
+图 Table Profile +
+admin id# smallint
+X
+BeginTransaction
+admin_name ^Bc varchar(30)
+root c
+Backup
+Automation
+Model
+[ Cell Editor → Filter & Sort  Columns
+admin_pwd ABc char(32)
+e10adc3949ba59abbe56e057f20f883e
+SELECT * FROM 'mac2mac admin' LIMIT 0,1000
+BI
+admin_random ABc char(32)
+口
+i. Data Profiling C Import C Export
+E Data Generation ogl Create BI Workspace
+admin status# tinyint
+110473f58e2cfcba9d769
+admin auth ABc text
+Record 1 of 1 in page 1
+admin login_time#int
+1776315402
+Last Refresh: =1m
+admin login_ip#int
+3232293377
+.
+回
+x a#
+丽口

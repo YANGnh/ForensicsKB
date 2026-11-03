@@ -1,0 +1,34 @@
+# OCR: Pasted_image_20260414124015.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414124015.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+x文本搜索：libcrypto.so 搜索文本：
+Q- libcrypto.so 在以下位置搜素：
+■类名
+方法名
+字段名
+图代码
+资源节点
+注释
+搜素选项：
+冈忽略大小写
+正则表达式
+只在当前页搜素
+m poooentry/src/main/ets/a/d.#vel<#qi(object, object,object,object)ob.
+dl = import f default as di
+from
+dl = import f default as dl
+m poooentry/src/main/ets/a/d.#vel<#si(object,object,object,object,ob
+加载所有保持窗口
+加载更多
+停止
+全部找到2
+1 from
+口
+x
+自动搜素
+"@normalized:Y&&&libcrypto.so&"@normalized:Y&&&libcrypto.so&
+结果分类
+转到
+取消

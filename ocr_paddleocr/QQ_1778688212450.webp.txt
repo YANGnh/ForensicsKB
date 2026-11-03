@@ -1,0 +1,10 @@
+# OCR: QQ_1778688212450.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778688212450.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+NoahTie@ArkD/m/c/i/s/L/f/ecu
+strings -a -n1o.lgateway_ecu.bin
+Strings v2.54- SearchforANsI andUnicode strings inbinary images.
+Copyright(c)1999-2021MarkRussinovich Sysinternals-www.sysinternals.com
+SEC0C_FVID:STARWAY2025MASTER_KEY_SEED:A9B8C7D6E5F40123ALG0:AES-128-CMAC

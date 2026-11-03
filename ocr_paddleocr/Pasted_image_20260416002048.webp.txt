@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260416002048.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416002048.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+12 13
+14 15 16 17 18 19 20 21 22 24 25 26 27 28
+34
+DllImport("NTdll.dll", EntryPoint = "RtlSetProcessIsCritical", SetLastError = true)
+public static extern void H8daqEsgsEVBpFZFnlWT([MarshalAs(UnmanagedType.Bool)] bool t8JLDDvidchK66hQUnZ, [MarshalAs(UnmanagedType.Bool)] ref bool IgYCKHiXpqcNXoSKbJFS, [MarshalAs(UnmanagedType.Bool)] bool tZzpk5hGMoiIAqJMobgw)
+// Token: 0x0600012D RID: 301 RVA: x000026AD Fi1e 0ffset: x000008AD
+publicstaticvoidre0AJXka2QloAzmktIo(object4rENcA3ubrlZxou3Nj9o,SessionEndingEventArgsJc8F7srXQtD6wvE8w8ll.
+ke48iewt5U3eoIMbjLct.2aihk4hASPZIXzQDKEQ:
+// Token: 0x0600012E RID: 302 RVA: 0x00006934 Fi1e 0ffset: 0x00004B34 public static void IhdVeQtvCXGDgoiQcVCe(
+try
+SystemEvents.SessionEnding += ke48iewt5U3eoIMbjLCt.re0AJXka2QloAznktIo
+Process.EnterDebuglodeQ: bool flag:
+ke48iewt5U3eoIMbjLCt.H8daqEsgsEvBpFZFnlwT(true，ref flag，false): catch(Exception ex)

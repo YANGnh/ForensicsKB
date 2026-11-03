@@ -1,0 +1,45 @@
+# OCR: QQ_1780936103688.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780936103688.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+/etc/fstab: static file system information.
+'blkid' to print the universally unique identifier for a
+Use
+this may be used with UUID= as a more robust way to name :
+devices
+deuce:
+that works even if disks are added and removed.
+See fstab (5) .
+generates mount units based on this file.
+systemd 州
+Please run
+systemd.mount (5) .
+see
+'systemctl
+after making changes here.
+daemon-reload'
+<file system><mountpoint>
+<type>
+on/dev/mdnduringinstallation
+s
+<options>
+UUID=3231e52f-5e15-44c4-b224-e29cb4201c0e/
+/boot/efiwason/dev/sdb5duringinstallation
+UUID=9693-7941
+/boot/efi
+vfat
+umask=0077
+# swapwason/dev/sdb6during installation
+UUID=7c439ba0-6ff2-4ddc-b338-e293953b81fe none
+/dev/sro
+/media/cdromo
+udf,isog660 user,noauto
+<dump>
+<pass>
+btrfsdefaults,subvol=@rootfs (
+0
+swap 0
+1
+sW 0
+o

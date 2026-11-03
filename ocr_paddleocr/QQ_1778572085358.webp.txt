@@ -1,0 +1,56 @@
+# OCR: QQ_1778572085358.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778572085358.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+NoahTie@Ark D/m/c/image
+ls -
+d-n d-a d
+a d d a H d
+12
+May May
+Mai May May
+15:45 acct 15:45 apex 15:47 bin 15:45 boot 15:471
+bugreports
+15:45cache 15:451
+config
+15:47
+d
+dashcam
+15:45 15:45
+data
+15:47
+default.prop
+15:45
+dev
+15:45 edn 15:47
+etc
+15:45 lost+found 15:451
+mnt obd
+15:45 1545
+odm
+1545
+oem
+15:45
+persist
+15:45
+proc
+product
+15:45
+15:45recovery
+15:45 root 15:45 run
+sbin
+15:47: 15:47:
+sdcard
+15:45！
+security storage
+15:45
+15:45 sys 15:45
+system
+15:45
+system_ext
+15:45·
+tbox
+15:45·
+tmp
+15:45 vendon

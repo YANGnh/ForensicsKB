@@ -1,0 +1,12 @@
+# OCR: Pasted_image_20260415232232.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415232232.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+204 205 206 207 208 209 210 211 212 213 214 215 216
+// Token: 0x06000029 RID: 4l RVA: 0x00002FF4 File 0ffset: 0x000011F4
+private static bool
+try
+pP3jQ2G5fRQ0BkR4RuG4ihEGAqezIt7vdpAJDH5RetSUjBUuldokMPie3i3()
+string text = new webclientQ.Dowmloadstring("http://ip-api.comfiinef?fields=hosting"? return text.Contains"true")
+catch (Exception ex) return false:

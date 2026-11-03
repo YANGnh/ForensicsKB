@@ -1,0 +1,12 @@
+# OCR: Pasted_image_20260415235058.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415235058.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+15 16 17 18 19 20
+21 22 245 26
+Token:0x060000cARip:202RtA:x00005898Fi1e0ffset:x00003A98
+public static void oxAUverEkn3LAFv6enufzPjP25NAIAb6gydo8yzlQ3nHid4F58M7IciFXorwtfk82lvGcvQesQ(
+try
+Rti6vhPfugo9GdL3aQfj2eDRdhSfKIazXyfNr18gkfGBH00iTkiZoRtlwtI7vEZAaY8tffk5m712.skco51dZwcTmKZP2mBQ0KKGvSMDri6cQ5947iKrcNK4gGAf0xHip41mL5c7uoEe1GuXdIMZ2iG = new Thread(new ThreadStart(VRti6vhPYugo9GdL3aQYj2eDRdhSfKIazXyfNr18qkYGBH00iTkiZoRtMwtI7vEZAaW8tYfk5m7J2.8JW8sctAWP3goappjN57CJ12TLWyKcTw2ZYwj5rr18XOfs8ItKA8LpXmbth0Bf0KEBBELi8RAE3J)，1) tRti6vhPfugo9GdL3aQj2eDRdhSfKIazXyfNr18gkfGBH00iTkiZoRtMwtI7vEZAa8tffk5m7J2.skco5JdZwtCJmKyZP2mBQ0KGvSMDri6CQ5947iKrcNK4qGA0xHip41mL5c7UOEe1GuUXdIMZ2iG.Start(:
+catch (Exception ex.

@@ -1,0 +1,23 @@
+# OCR: Pasted_image_20260414173405.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414173405.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+HashMyFiles
+File
+Edit?
+Filename
+View x
+Options 配
+Help
+图
+MD5
+49b367ac261a722a7c2bbbc328c3... 49b367ac261a722a7c2bbbc328c3... 49b367ac261a722a7c2bbbc328c3...
+49b367ac261a722a7c2bbbc328c32545 49b367ac261a722a7c2bbbc328c32545 49b367ac261a722a7c2bbbc328c32545
+49b367ac261a722a7c2bbbc328c3...
+49b367ac261a722a7c2bbbc328c32545
+4 file(s), 1 Selected
+SHA1
+口
+x
+5bd2e2b8ddc6593170 5bd2e2b8ddc6593170 5bd2e2b8ddc6593170 5bd2e2b8ddc6593170

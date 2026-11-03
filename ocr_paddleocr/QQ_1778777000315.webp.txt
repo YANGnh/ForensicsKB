@@ -1,0 +1,57 @@
+# OCR: QQ_1778777000315.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778777000315.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:51
+
+File
+UDisk.img* x
+Edit
+Select
+0:0000:0000 0:0000:0010 0:0000:0020 0:0000:0030 0:0000:0040 0:0000:0050 0:0000:0060 0:0000:0070 0:0000:0080 0:0000:0090 0:0000:00A0
+0:0000:00B0 0:0000:00C0 0:0000:00D0 0:0000:00E0 0:0000:00F0 0:0000:0100 0:0000:0110 0:0000:0120 0:0000:0130 0:0000:0140 Variables
+hh 53 hf Fo
+Find EE
+View
+8A CA 66
+8
+Name
+v drive
+v boot sector. > jmp[3]
+> OemName[8] BytesPerSector
+SectorsPerClustel ReservedSectors
+NumberOfFatTables MaxRootDirFntries
+: Variables
+Inspector
+Format
+yp
+NO NAME X
+MSDOS5.0
+200h 10h CCAh 2h Oh
+# Output
+Selected: 2 bytes (Range: 11 [Bh] to 12 [Ch])
+Scripts
+Templates
+5@ Value
+ Find Results
+Debug 48
+Project
+Tools
+Start Oh
+Oh Oh 3h Bh Dh Eh 10h 11h
+Find in Files?
+ Comnare
+Window He
+size 1000200h
+200h 3h 8h 2h 1h 2h 1h 2h
+Help
+Type
+struct FAT D.. struct FAT B...
+BYTE CHAR
+USHORT UBYTE USHORT UBYTE USHORT
+Color
+口
+x + Con
+Lla Histogram E Checksum m Process mov Disi
+Start: 11 [Bh] Sel: 2 [2h] Size: 15,479,593,984*
+Hex UTF8 LIT
+皖 OVR

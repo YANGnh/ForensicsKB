@@ -1,0 +1,32 @@
+# OCR: Pasted_image_20260413172041.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413172041.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+note X 三笔记备忘
+B 曲
+1 5
+外层
+H c
+日
+qq520250520250520250
+PIM（默认值）隐藏层
+x2
+woaizaogiwoshengingzhuanyi
+X2
+2026-04-13 17:20:34
+GG
+外层
+%
+<>
+巴
+qq520250520250520250
+PIM （默认值）隐藏层
+woaizaogiwoshengingzhuanyi
++ x
+Q
+口
+日
+真 8
+<>
+?

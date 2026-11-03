@@ -1,0 +1,28 @@
+# OCR: Pasted_image_20260416111753.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416111753.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+NoahTie@ArkD/F/M/volatility3ongit:fdevelop
+pyth0n vol.py -f "D:\倩倩的PC内存\DESKT0P-39430KD-20260403-014746.dmp"
+Volatility3Framework 2.28.1
+Progress:
+PID 7348
+100.00
+PPID 6736
+ImageFileName HaimuniuVPN C
+PDBscanningfinished
+ffset(v)
+0x900a4fe98080
+ThreadsHandlesSessionId
+17
+windows.pslist
+--filters
+"ImageFileName.Haimuniu1
+Wow64
+False
+CreateTime
+ExitTime
+2026-04-0301:46:44.000000UTC
+N/A
+Fileoutput Disabled

@@ -1,0 +1,22 @@
+# OCR: Pasted_image_20260511171358.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511171358.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+g
+G
+刘洋pc.E01>用基本信息>网络配置>
+三序号口1 口2
+三名称过滤
+Intel(R) 82574L Gigabit Networ... Microsoft6to4Adapter
+口网络适配器
+三适配器类型物理网卡虚拟网卡
+三是否隐藏
+过滤否是
+三当前MAC地址过滤
+00-50-56-30-26-10
++
+三物理MAC地址过滤
+00-50-56-30-26-10
+三连接方式
+* 有线未知

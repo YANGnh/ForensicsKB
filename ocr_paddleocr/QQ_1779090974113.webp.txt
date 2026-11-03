@@ -1,0 +1,26 @@
+# OCR: QQ_1779090974113.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779090974113.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+XPROXMOX ServerView
+Datacenter
+Tasks
+Start Time
+Clusterlog
+VirtualEnvironment
+End Time
+Node
+Search
+Proxmox VE Login
+Username: Password:
+Realm:
+Linux PAM standard authenticatior
+Language:English - English
+Save User name:
+Username
+Description
+Login
+Documentation
+CreateVM Status
+CreateCT

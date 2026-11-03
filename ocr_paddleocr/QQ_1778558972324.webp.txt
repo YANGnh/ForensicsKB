@@ -1,0 +1,13 @@
+# OCR: QQ_1778558972324.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778558972324.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+PuLaTPiy patch_261.png patch_268.png patch_275.png patch_282.png patch_289.png
+PuLII
+u
+晚
+patch 262.png patch_269.png patch_276.png patch_283.png
+兔
+patch_290.png
+PuravPiy patch 263.png patch_270.png patch_ 277.png patch_284.png patch _291.png

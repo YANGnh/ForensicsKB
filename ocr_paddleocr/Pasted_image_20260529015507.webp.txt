@@ -1,0 +1,44 @@
+# OCR: Pasted_image_20260529015507.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529015507.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+Recipe
+AES Decrypt Key
+3ffc0b996b851d..
+Mode ECB
+UTF8V Input Raw
+Lastbuild:o months ago - Version o is here!Read about the new teatures here
+Input
+Options
+0.-Ab..ooCnN*8...f Fs6il.eXGsD..ihb.A1 FFa6.M%y.x|ETx&EOT. MH.i BS STXENQPUfc-saETx .i?$ EMNULSd.JW.../S(.CwU.UM%c^ou.ys
+/9qO=5'O.4DC1AETxOw{1S,Fr*sOHZ[?IOe=GL·DC1SBs/.·.TsTxJ.dLnebU@>R"u~T·i0:\AK*UeaTo,cAUsYN
+IV
+Output Raw
+HEXV
+FU?@'.yuN.X9asTxoY6 s0 STx) us o>B Gs qsNSTxeS=SYNDC2q·1XXAA sI a+DC2·b..@PRuqP, ·.@N·D·DcAN VT ?a.
+i0,O<V, EOTS·CAN·u.A
+·CAN.ESC Fs i·DC3&f@1us DC29.ina2
+《'uL?Ra'·c:Φ%a+oDO7'o·g: Gs·sUB% Fs ie:·z·%e@PDC1r·o)%EOTJ)uC6%! NAKA-SOHYEMaACK
+a.u@saei.0.fENQt
+,u@Aoo7u#B·a%JW.JENQ)sI.YsecR cR so.'knA]_6'alμ'iBsa&u·gi.E<Wu iucsYN
+Y."AxYNy., 0 Gs u?3%μ6%+ADLEkV.6sYNNAK·z·<a" suBOEtB Ja?i;uesOHMA{0Ay':·KsyNAa[Mg zxxwI.0UipE'0.
+VTRC.'D..U:EI.*"JP·?."UxO%a.E/ETxUNDC2a: ENQ·;"8oTS&!aEOTO.q·CEDC4.
+VT.J.TBDLEeG?WDC2RS
+ROEsCNULi·i.5k)DcAN(icAN^iENQi6Ai;|uHZace\·@PIsTx(ETxWDCiA.xAa#tx'caMY?cAN"x+r;e|4#f.I.?a RS AYiMasI-Au2sAl.Dc3ie.4fhCw#!EosopléDc2aa.°e,L
+ABC 688
+Output
+4
+"name"："赞助商官网"，
+"url"："https://www.sponsor-pay99.com/reg?ref=hotclub""type"："web",
+"contact"："sponsor_wang" 了,
+"name："USDT捐赠通道"
+"url"："https://pay.usdt-donate.cc/hotclub""type":"crypto",
+"wal1et"："TXqH7sVn8bR4kL2mN9pW6xJ3cY5dF1gA" 1
+"admin_tg"："@sp_admin_hotclub","admin_wx"："zheng_tech_2o26"
+"update_ur1":"https://dl.sp-live88.com/update/latest.apk"
+About / Support File details
+Name: Size: Type:
+config.dat 688 bytes unknown
+Loaded:100%
+T Raw Bytes

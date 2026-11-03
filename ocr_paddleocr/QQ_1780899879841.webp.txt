@@ -1,0 +1,63 @@
+# OCR: QQ_1780899879841.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780899879841.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+Volumes
+Favorites
+/Volume
+Slot =1 2 3 4 5 6 87 8 9 10 =11 12
+Create Volume Volume
+VeraCrypt
+Tools
+Never save histo
+Mount
+Settings Device
+VeraCrypt Help
+ /dev/sro: E/dev/sda:/dev/sdal/dev/sda2/dev/sda3/dev/sda5
+Auto-Mount Devices
+Select a Partition or Device
+X
+Size | Mount Directory
+1023 MiB 80.0 GiB
+1.5 GiB/boot
+7.9 GiB 54.6GiB
+16.0 GiB /persistent
+取消(C)
+Unmount All
+Exit
+x
+确定(O)
+ges py
+py bluet py
+it.sh funct y
+Q
+品
+blackhole.py ext dir scann
+er.py M
+proxmox rec... reddit.md
+setup docker
+.sh
+VeraCrypt-1.2
+6.24-
+选中1个文件（12.5MB）
+E
+build-linux-
+日
+tkg-docker.sh fast_portscan
+ner.py M
+README.md subnet calcul
+ator.py
+三
+default.json file_monitor.
+py
+recover-lxc-configs.sh
+<@v
+subscriptions.
+xml
+口
+X
+dl font instal
+I.py
+my_certbot_r enewal.sh
+recover...-configs.sh tech compan...ummary.txt

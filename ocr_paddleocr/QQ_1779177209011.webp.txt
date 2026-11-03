@@ -1,0 +1,19 @@
+# OCR: QQ_1779177209011.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779177209011.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+表(T)：
+user id
+过滤
+username. 过滤
+过滤
+h
+御
+passwordhash
+A
+品
+过滤任何列，过滤
+usr heiked huangzhiyuan fc29eb768c139c05c0bfcb697d9b26d19487...
+password_salt
+a3f8d9c2e1b4h7g6k9m2n5p8glr4t7w

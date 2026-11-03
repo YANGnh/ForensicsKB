@@ -1,0 +1,61 @@
+# OCR: QQ_1779869021634.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1779869021634.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+File
+ChromeCacheView:C:\hlnet\10-1778243278\检材1-计算机.E01\分区7\home\Iha\.cache\browser\Default\Cache\Cache_Data
+Edit
+Filename
+View
+OptionsHelp 曾雷+
+URL
+口
+X
+Content Type
+ wd=http%3A%2Fwww.2026fic.forensix&action=opensearch&tn=79... 1/0/ dk https://baidu.com https://baidu.com https://suggestion.baidu.com/su?wd=http%3A%2Fwww.2026fic.forensix&action=opensearch&tn=79057844 dg&ie... text/javascript  wd=http%3A%2F%2Fwww.2026fic.forensix&action=opensearch&tn... 1/0/ dk https://baidu.com https://baidu.com https://suggestion.baidu.com/su?wd=http%3A%2F%2Fwww.2026fic.forensix&action=opensearch&tn=79057844 d...text/javascript
+qUYJve
+ Wt6vjf,hhhU8,FCpbqb,WhJNk
+1/o/ dk https://google.com https://google.com https://www.gstatic.com/ /mss/boq-chrome-webstore/ /js/k=boq-chrome-webstore.ChromeWebStoreConsumerF... text/javascript 1/o/ dk https://google.com https://google.com https://www.gstatic.com/ /mss/boq-chrome-webstore/ /js/k=boq-chrome-webstore.ChromeWebStoreConsumerF... text/javascript
+ wd=www.2026fic.forensix&action=opensearch&tn=79057844 dg&i... 1/0/ dk https://baidu.com https://baidu.com https://suggestion.baidu.com/su?wd=www.2026fic.forensix&action=opensearch&tn=79057844 dg&ie=UTF-8
+ ie=UTF-8&tn=79057844 dg&wd=www.2026fic.forensix.htm  bobwallet.io.htm
+O Bob-2.1.0.Applmage.htm
+1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/s?ie=UTF-8&tn=79057844 dg&wd=www.2026fic.forensix 1/o/ dk https://bobwallet.io https://bobwallet.io https://bobwallet.io
+1/0/_dk_https://github.com https://github.com https://github.com/kyokan/bob-wallet/releases/download/v2.1.0/Bob-2.1.0.Applmage
+ ie=utf-8&csq=1&pstg=20&mod=2&isbd=1&cqid=ee9a852b0000... 1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/s?ie=utf-8&csq=1&pstg=20&mod=2&isbd=1&cqid=ee9a852b000025b9&istc=1281&ver..  url=rmQFwMC80quhcrbXodcP5zXqAoddF87MCFSAMIGTK-eHAC8K... 1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/link?url=rmQFwMC80quhcrbXodcP5zXqAoddF87MCFSAMIGTK-eHAC8KcGYUKzchiV-ijNQT..
+ 456526981.html
+1/0/ dk https://120btc.com https://120btc.com https://www.120btc.com/baike/btc/456526981.html
+ ie=utf-8&mod=1&isbd=1&isid=3D2793BA65941163&ie=utf-8&f=.. 1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/s?ie=utf-8&mod=1&isbd=1&isid=3D2793BA65941163&ie=utf-8&f=8&rsv bp=1&tn=790...  ie=utf-8&mod=1&isbd=1&isid=3D2793BA65941163&ie=utf-8&f=... 1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/s?ie=utf-8&mod=1&isbd=1&isid=3D2793BA65941163&ie=utf-8&f=8&rsv bp=1&tn=790..
+ &ie=utf-8&wd=%E9%BB%84%E9%87%91.htm O latest.htm
+1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/s?&ie=utf-8&wd=%E9%BB%84%E9%87%91 1/o/ dk https://github.com https://github.com https://github.com/kyokan/bob-wallet/releases/latest
+ usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%... 1/0/_dk_s_https://google.com https://google.com https:/feedback-pa.clients6.google.com/static/proxy.html?usegapi=1&jsh=m%3B%2F %2Fscs%2Fabc-static%2...
+O v2.1.0.htm
+1/o/ dk https://github.com https://github.com https://github.com/kyokan/bob-wallet/releases/tag/v2.1.0
+ ie=UTF-8&tn=79057844 dg&wd=%E7%9F%BF%E6%9C%BA%E8%...1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/s?ie=UTF-8&tn=79057844 dg&wd=%E7%9F%BF%E6%9C%BA%E8%B4%AD%E4%B9%B0&ie=utf-8&wd=%E6%94%B6%E8%B4%AD%E9%BB%84%E9%87%9.. 1/0/ dk https://baidu.com https://baidu.com https://www.baidu.com/s?&ie=utf-8&wd=%E6%94%B6%E8%B4%AD%E9%BB%84%E9%87%91
+o www.baidu.com.htm
+ v2.1.0.htm style.css
+Iprimer-react-css.8a057b98cd8a150b.module.css.css
+primer-0fcd9af82350aeda.css llight-0c8222dcd7a4f9b7.css
+keyboard-shortcuts-dialog.ae93bdc5a5edda67.module.css.css
+Inotifications-subscriptions-menu.bd6c994adeb63adb.module.css.css react-core.f381aa96e824a142.module.css.css
+Imarketing-navigation.e73a9c6ad3677d4a.module.css.css primer-primitives-10bf9dd67e3d70bd.css
+<releases-8d1cff8087c530cf.css dark-fc6eec18532c3ae0.css
+repository-6ec84ae2261fecf8.css
+38963.f70dfea92b138b01.module.css.css 6ae844cbb6d9897a.css
+61975.bf2bb705802183ac.module.css.css 70168.33bc32a1383dd256.module.css.css light high contrast-51c0c6e0c085cc0f.css dark high contrast-96d7b2bab5a6ae4e.css Xgithub-c94ab8d1f22049a8.css
+637 item(s), 1 Selected (264.48 KB)
+T/o/ dk https://baidu.com https://baidu.com https://www.baidu.com
+1/o/ dk https://github.com https://github.com https://github.com/kyokan/bob-wallet/releases/expanded assets/v2.1.0 1/o/ dk https://bobwallet.io https://bobwallet.io https://bobwallet.io/css/style.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/primer-0fcd9af82350aeda.css 1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/light-0c8222dcd7a4f9b7.css
+1/o/ dk https://github.com https://github.com https://github.githubassets.com/assets/keyboard-shortcuts-dialog.ae93bdc5a5edda67.module.css
+1/o/ dk https://github.com https://github.com https://github.githubassets.com/assets/notifications-subscriptions-menu.bd6c994adeb63adb.module.css 1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/react-core.f381aa96e824a142.module.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/marketing-navigation.e73a9c6ad3677d4a.module.css 1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/primer-primitives-10bf9dd67e3d70bd.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/releases-8d1cff8087c530cf.css 1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/dark-fc6eec18532c3ae0.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/repository-6ec84ae2261fecf8.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/38963.f70dfea92b138b01.module.css 1/0/ dk https://sakura-cat1.com https://sakura-cat1.com https://sakura-cat1.com/ next/static/css/6ae844cbb6d9897a.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/61975.bf2bb705802183ac.module.css 1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/70168.33bc32a1383dd256.module.css
+1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/light high contrast-51c0c6e0c085cc0f.css 1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/dark high contrast-96d7b2bab5a6ae4e.css 1/0/ dk https://github.com https://github.com https://github.githubassets.com/assets/github-c94ab8d1f22049a8.css
+NirSoft Freeware. https://www.nirsoft.net
+text/javascript
+text/html text/html text/html text/html text/html text/html text/html text/html text/html text/html text/html text/html text/html text/html text/html text/html text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css text/css

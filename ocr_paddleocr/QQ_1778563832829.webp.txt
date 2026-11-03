@@ -1,0 +1,35 @@
+# OCR: QQ_1778563832829.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778563832829.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+SEARCH
+upload.php Replace
+G
+Aa ab
+AB
+3 results in 1 file -Open in editor SearchwithAl
+→通讯录管理系统漏洞清单.md
+回
+-**漏洞位置*："http://192.168.61.1.
+2.访问upload.php
+x
+4.**持久化**通过"upload.php上.
+通讯录管理系统漏洞清单md X
+→通讯录管理系统漏洞清单.md>abc并通讯录管理系统漏洞清单>abc##总
+#通讯录管理系统漏洞清单
+5 15 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 30
+#总漏洞数量：8个可利用漏洞
+##2，未授权命令执行漏洞（严重）
+元王控刷系玩，可执行任忌总可令
+东中京刚学
+无限制文件上传漏洞（严重）
+###3，
+**漏洞位置**：~http://192.168.61.135/upload.php**风险等级**：严重（CVSS：8.8）
+**漏洞描述**：可以上传任意文件类型，无任何过滤**利用方法**：
+登录系统 1.
+访问upload.php 2.
+上传webshell文件 3.
+**已存在webshel1**：
+*uploads/advanced.php*uploads/fileshell.php"uploads/shell.php
+**影响**：上传恶意文件，获取系统控制权

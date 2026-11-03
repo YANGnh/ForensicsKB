@@ -1,0 +1,15 @@
+# OCR: QQ_1778745768453.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778745768453.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+Entropy: nan (total)
+3 2
+6.0 4.0 2.0
+0.0
+0:0000:0000
+4
+1:7C00:0000
+5
+6
+2:F800:0000

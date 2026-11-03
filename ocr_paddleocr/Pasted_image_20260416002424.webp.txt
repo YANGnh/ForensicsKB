@@ -1,0 +1,15 @@
+# OCR: Pasted_image_20260416002424.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416002424.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+22 23
+24 25 26 27 28
+29 30 31
+/Token:0x060000D8RID:216RtA:0x00006218Fi1e0ffset:0x00004418
+private static IntPtr gbCd08rDfseGE3J0T9qVznuYeUvu0XNOFrPRHHHyWzDcQnAO1CcV8WSyatgkEErKTJu2YcRFpwveF(kJx6L3azGytvvlp05g4M7vFzwGBCSetMlyxXtBPEZEjImDw8uu6Q82pIaJr41KWmVXwocSYY9KQQd.LowLevelKeyboardProc
+1tRWwlzbXNw6PEsYFXIGRwRqm13BMnsLoN6Ro9MjfgJOpIh7o5E3RYCfV6pyVtGnKxt8aQ9HVaixH IntPtr intPtr
+using(ProcesscurrentProcess= Process.GetcurrentProcess.
+intPtr = kJx6L3azGytv1p05g4m7vFzwGBCSetM1yxXtBPEZEjmDw8uu6Q82pIaJr41KWmXwocSff9KQQd.v2H7UaTp8QLeiSff1zi3sc1FE1atUojEHCwv0IoHXii3F1ZocILQx9c8059iL6KiRzIfUyn
+kJx6L3azGytv1p05g4l7vFzwGBcSetM1yxXtBPEZEjw8uu6Q82pIaJr41KmXwocSff9KQQd.gngu7xoZGGhpg5AMmig,1tRYw1zbXNw6PEsYFXIGRwRqm13BlnsL0N6R09mjfgJ0pIh7o5E3Rfcf6pvtGnKxt8aQ9HaixH kJx6L3azGytvv1p05g4l7vFzwGBcSetliyxXtBPEZEjmmDw8uu6Q82pIaJr41RWmXwocSfY9KQQd.RSAhvLE02fyXUqFA6aJ(currentProcess.ProcessName)，0U):
+return intPtr

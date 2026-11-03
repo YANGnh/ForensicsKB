@@ -1,0 +1,11 @@
+# OCR: Pasted_image_20260416002645.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416002645.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+440 441
+442
+Token:0x0400002cRID:44
+private static kJx6L3azGytvvlp05g4M7vFzwGBcSetMlyxXtBPEZEjnmDw8uu6Q82pIaJr41KWmVXwocSYY9KQQd.LowLevelKeyboardProc s87uDCuNDkFL2iQtcXL = new
+kJx6L3azGytvvlp05g4M7vFzwGBcSetMlyxXtBPEZEjmmDw8uu6Q82pIaJr41KWmvXwocSYY9KQQd.LowLevelKeyboardProc
+(kJx6L3azGytvvlp05g4M7vFzwGBCSetM1yxXtBPEZEjnmDw8uu6Q82pIaJr41KWmVXwocSYY9KQQd.dao0LgSXwcVRT6eMUelpfKxTQtS4yJiu9HT7Xp8Tcrjf4safg1GbcYEeKZRWp65AXcVQofJiDpi62)

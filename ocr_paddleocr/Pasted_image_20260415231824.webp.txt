@@ -1,0 +1,19 @@
+# OCR: Pasted_image_20260415231824.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415231824.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317
+//Token:Qx0600002DRID：45RVA：0x0000329cFi1e0ffset:0x0000149c
+private static bool 2roByDJH6ZwpyyMdfAo4PFI3PgRgzn0PSxC5Zg4kzrh6PUEFG0ozNDZH3SKF4MlwI6K9GZlnL6cPaKJJYpNJSKRzaheb
+flag:
+booi try
++
+(Main.rgXTs7mD5xW0pNhvBEkl5gT1M7CxjhLt6BgegsGiceVXuORoR8HLqgVlrzHGXirlsd7268MbWZoyrYKQyiCFBZD1hGy0("SbieD11.dl1").TInt32) != 0) flag = true ;
+else
+flag= false:
+catch
+(Exception ex)
+flag = false:
+flag:
+return :

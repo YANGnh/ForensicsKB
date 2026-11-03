@@ -1,0 +1,21 @@
+# OCR: Pasted_image_20260519130921.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519130921.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+private static final boolean verifyPinKotlin(string pin) {
+try
+char[] charArray = pin.tocharArray(;
+Intrinsics.checkNotNultExpressionValue(charArray, "tocharArray(...)"): byte[] bytes = "JinriPIN_Salt_".getBytes(Ccharsets.UTF_8);
+Intrinsics.checkNotNuliExpressionValue(bytes,"getBytes(...)"): PBEKeySpec spec = new PBEKeySpec(charArray, bytes, 100oo, 256):
+SecretKeyFactory factory = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA256'):
+byte[] hash = factory.generatesecret(spec).getEncoded(); Intrinsics.checkNotNuli(hash);
+string hashHex = ArraysKt.joinTostringsdefauit(hash, (charSequence)
+, (charSeguence) nuil, (charSequence) nuil, o, (charSeguence) nuil, new Functioni) {
+@override  kotlin.jvm.functions.Functionl pubiic final Object invoke(object obj) {
+return Navigation2.verifyPinKotlinslambdaso(((Byte) obj).byteValueO):
+子
+f，3o，(object)nuuu): Log.d('jinritoutiao"
+"verifyPinKotlin:pin="+pin + ",hash="+ hashHex + ",expected=7e881d49322271f3dd4fa24846a5cc53d1e0506b46007caa4b27f1416b27b54c")
+returnIntrinsics.areEqual(hashHex,"7e881d49322271f3dd4fa24846a5cc53d1e0506b46007caa4b27f1416b27b54c"); fcatch(Exceptione）［
+Log.e("jinritoutiao", "verifyPinkotiin error: " + e.getMessage()); return false;

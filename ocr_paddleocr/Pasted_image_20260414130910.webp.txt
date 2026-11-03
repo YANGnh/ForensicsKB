@@ -1,0 +1,16 @@
+# OCR: Pasted_image_20260414130910.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414130910.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+13 14 15 16 17 18 19 20 21
+public Object #rel<#a2(object functionobject, Object newTarget, d this, object argo, object argl) {
+ldlexvar =
+lexenv g o
+ldlexvar.si(argo, arg1);
+return
+public object #el<#b2(object functionobject, object newTarget, d this, Object argo, object arg1) {
+ldlexvar =
+return
+lexeny gg:
+ldlexvar.si(argo, arg1):

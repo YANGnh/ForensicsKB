@@ -1,0 +1,58 @@
+# OCR: Pasted_image_20260414121949.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414121949.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+文件
+视图
+导航区
+工具业
+ entry-default.hap
+输入源代码
+ defpackage
+插件 Q
+p000entry/src/main/ets >pa
+>entryability
+>  entrybackupability
+> pages 资源文件
+ets libs
+ resources F module.json.? pack.info
+L? pkgContextInfo.json
+ resources.index 国 Summary
+帮助 Q
+@
+谷
+日
+Summary
+国 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44
+45 46 47
+Text
+X
+*entry-default - ABC-Decompiler? pack.info
+"summary": {
+app":1
+"bundleName": "com.koishi.fpt".
+bundlelype"version": {
+"code": 1000000."name":"1.."
+"modules":［
+[
+"mainAbility": "EntryAbility""deviceType":[
+"phone","tablet""2in1"
+"abilities";［
+"name":"EntryAbility"
+"label":"$string:EntryAbility_label"
+extensionAbilities":"
+"name"："EntryBackupAbility","forms"［]
+"distro": {
+"moduleType":"entry",
+"installationFree": false,"deliverywithInstall": true,"moduleName":"entry"
+"apiVersion": {
+"compatible": 17,
+"releaseType": "Release""target": 17
+1
+"packages": [
+[
+Hex
+"deviceTvpe":「
+口
+X

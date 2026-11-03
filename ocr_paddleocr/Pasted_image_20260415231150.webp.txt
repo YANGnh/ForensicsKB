@@ -1,0 +1,16 @@
+# OCR: Pasted_image_20260415231150.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415231150.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+185 186 187 188
+189 190 191 192 193 194 195 196 197 198 199 200 201
+/ Token: 0x06000028 RID: 40 RvA: 0x00002110 Fi1e 0ffset: 0x00000310
+public static void AuPSZXXVSMF0DQRCvC2rt5MfcrY48o7K01SI69og2JLhf02Th6Xma2H0vsY(
+if (!Main.Mi6spcUvppp4DtguMzJhDBIsveVBG9zeD8clkQXdScZVgnMViFIzIwncYfWRaCuUs0darWmsOuW4ndY5RkKguDAG78Q &&
+Main.ekfERkIzvPUWc9xQ7RadvF87hIVFUbtaixRIaKzHcRiz6UQErCZPPcp2QVwluQ0mYuWHUC5vKellGaX2R5rdbv4YIoe
+if (!Main.2roByDJH6ZwpyyMdfAo4PFI3PqRqzn0PSxC5Zg4kzrh6PUEFG0ozNDZH3SKF4MlwI6K9GZlnL6cPaKJJYpNJSKRzaheb(:
+if（!Main.nIHJlssdguWOmBZEjwm4ZTWC6RpznK4TffpHo5TZr9zRIsVfLweHMOEiWw68O）
+if!ain.pP3jQ2G5fRQOBkR4RuG4ivhEGAqezIt7vgpAJDH5RetSUjBUuldokMPle3i3）
+re turn;
+Environment.FaiiFast(nuli)

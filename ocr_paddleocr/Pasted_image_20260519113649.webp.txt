@@ -1,0 +1,9 @@
+# OCR: Pasted_image_20260519113649.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519113649.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+147 148 149 150 151 152 153
+"id":7,
+"website"："龙腾项目账本""username"："
+"password":"DragonTeng@2024#$""notes"：“账单复合.png打开密码’

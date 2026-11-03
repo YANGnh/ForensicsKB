@@ -1,0 +1,85 @@
+# OCR: QQ_1778686189935.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778686189935.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+O10 Editor - D:ymnticarimageldatavlogicanbuslpowertrain_can.asc (Read Only)
+File
+Edit
+Select
+adas_ecu.bin
+59975 59976 59977 59978 59979 59980 59981 59982 59983 59984 59985 59986 59987 59988 59989 59990 59991 59992 5999 59994 59995 59996 59997 59998 59999 60000 60001 60002
+Find
+View
+Forat
+powertrain_can.asc x
+119.969340 119.970843 119.972103 119.973676 119.974894 119.976661 119.978586 119.980637 119.982477 119.984283 119.985541 119.987295 119.989331 119.992023 119.993879 119.996546 119.997573 119.998890
+120.000139 1 4
+120.003818 120.005079 120.006746 120.008100 120.009272 120.011866 120.013785 120.015932
+EindResuts
+Address
+" Variables
+2B1 050 3C2 3C2 3C2 1F4 0A0 0A0 1F4 2B1 3C2 050 1F4 2B1 1F4 3C2 1F4 1F4 050
+050 050 050 050 050 050 050 050
+Value
+Inspector
+ Output
+Scripts
+Templates
+system.dlta
+Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx Rx RX Rx Rx Rx Rx Rx Rx Rx Rx
+Debug AB
+Project
+gateway_ecu.bin
+Tools
+Window Hex
+build.prop e
+d8134C26DC6E E3174A 8 E2 0E AF C3
+54 0C 50 D6
+60
+8A CD 64
+62 54
+08 BB
+54 oc
+8
+64
+44 DO O0
+00 n
+D7 27 DF of
+o e 00 00
+84 00
+A B 00
+EE 00
+D 9 00
+EE B2 O0 3D
+o0 EO
+00 3A 0
+d80000000000000000
+d
+8 8
+8 0 0
+00 00 00 00 00 00 00 00
+Find Results
+00 O0
+o0 00
+o0
+Find in Files
+O
+O
+00 00 00 o0 00 00 00 o0
+Compare
+Selected: 62 [3Eh] bytes (Range: 3784336 [39BE90h] to 3784397 [3 Start: 59993 Sel: 62 [3Eh] bytes
+Help
+ Histogram Size: 5,705,104
+EChecksum
+moy
+口
+ Process
+mov Disassembler
+Text Plain
+CH-S
+CRLF
+SPC4
+x
+皖 INS
+X

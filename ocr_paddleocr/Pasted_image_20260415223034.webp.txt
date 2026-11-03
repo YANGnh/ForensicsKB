@@ -1,0 +1,55 @@
+# OCR: Pasted_image_20260415223034.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415223034.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+Detect It Easy v3.10 [Windows 10 Version 20091 (x86 64) 文件名
+D:/Pinghang2026)Haimuniu_ VPN Client/Haimuniu_VPN Client.exe.malware
+文件类型 PE32
+①文件信息每MIME
+OPE 节
+0003
+扫描自动 PE32
+-
+文件大小
+85.50 KiB 党内存映射图可视化
+时间戳
+反汇编 0搜索
+围导出
+2024-02-26 06:53:40
+字节序
+LE
+操作系统: Windows(95)[1386, 32 位, GUI] 链接程序: Microsoft Linker(11.0)
+编译器：VB.NET 语言：VB.NET
+库:.NET Framework(Legacy,CLR v4.0.30319) 恶意软件：XWorm(3.0-5.0)[Obfuscated]
+基址（BA）
+00400000
+回十六进制#哈希导入镜像大小
+國字符串泰信息摘品资源
+0001c000
+模式
+(Heur)保护：Obfuscation[ModifiedEP+Badnamings]
+32位
+架构
+入口点
+00416a7e
+国签名 Y提取器
+C#.NET 资源
+VirusTotal YARA
+DTLS
+清单文件
+类型
+1386
+(Heur)保护:Anti analysis[Anti-debug + Anti-SandBoxie + Anti-VM]
+签名目录
+标志
+日志
+数据库
+47毫秒
+画附加 ③版本
+GUI sssss ss
+扫描
+口
+?
+?高级选项 <T>符号重组
+·快捷键章选项 ○关于 X退出

@@ -1,0 +1,53 @@
+# OCR: Pasted_image_20260511175157.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511175157.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+三序号口1
+liuyang-pc.E01/分区6/Windows/System32/drivers/etc
+三名称过滤
+hosts
+三大小等于 948 B
+y
+三创建时间
+起始
+结束
+2024-04-01 15:26:16
+ 010 Editor - C:hlnet/6-1778389403Vliuyang_pc.E01V分区61Windows(System32/driversletc/hosts
+Eile
+Edit
+hosts x
+16 17 18 9 20 21 22 23 24 25
+共安
+Select
+Eng
+Wew
+102.54.94.97 38.25.63.10
+Format
+Scripts
+Templates
+G
+rhino.acme.com x.acme.com
+C
+Debug AB
+Project
+source
+开
+三修改时间
+起始
+结束
+2026-04-19 23:09:18
+Tools
+server
+client host
+ resolution is handled within DNs itself.
+iocaibost#
+name
+共共
+127.0.0.1:: 1
+192.168.0.50 192.168.0.51 192.168.0.52
+locaibost localhost
+pve-nodeo1.pgscup pve-node02.pgscup pve-nodeo3.pgscup
+192.168.0.703w.jlzb.vip
+Help
+Window Hex

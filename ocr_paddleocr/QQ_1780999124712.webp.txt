@@ -1,0 +1,22 @@
+# OCR: QQ_1780999124712.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780999124712.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+maccms.phpM
+ Index.php 4 X
+application>admin>controller> Index.php>PHP>g Index>unlockedo
+9 194 203 24 205 206 207
+28 209 210 211 212 213 214 215 216 217 218
+class Index extends Base
+public function iframe()
+cookietIsItr'ame
+ull
+return $this->success(lang('admin/index/iframe'));
+O references o overrides
+public function unlocked()
+param = input();
+$password = $param'password'1:
+if ($this->_admin['admin_pwd'」 != mds($password))
+return $this->error(lang(admin/index/pass err')):
+return $this->success(lang('admin/index/unlockok'))

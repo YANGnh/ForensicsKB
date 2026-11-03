@@ -1,0 +1,17 @@
+# OCR: Pasted_image_20260416001001.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416001001.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 0
+92 93
+// Token: 0x06000146 RID: 326 RVA: 0x00006BB8 Fi1e 0ffset: Qx00004DB8
+public static object
+for (: :)
+OPd5Jf3NPRS01tCTNzb
+Thread. Sleep(1000)
+int num = AcX0qTJzEzq40qP5qFxb.h4YWokwK2v5abgqDmF2ey( if (AcX0gTIzEzg40gP5gFxb.YiBGouWixY6NAPg2I5lI > num)
+ACX0gTJzEzg40gP5gFxb.kdvK1vdIiIBPwk19UcEu = ACX0gTIzEzg40gP5gFxb.kdvK1vdIiIBPwk19UcEu.Add(TimeSpan.FromSeconds((double)ACX0gTJzEzg40gP5gFxb.YiBGouWixY6NAPg2I51I2)
+else
+AcX0gTJzEzq40gP5gFxb.p1KAGzEEfP62FGsgvR3F = Conversions.ToString(AcX0gTJzEzq40gP5gFxb.h4YWokwK2v5abgDF2eyO) ACX0qTJzEzq40qP5qFxb.YiBGouwixY6NAPq2I51I=nu:
+object obj: return obj:

@@ -1,0 +1,26 @@
+# OCR: QQ_1779867670672.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1779867670672.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+1
+检材1-计算机.E01>
+三序号 1 □2 □3
+三主题过滤
+Eml邮件>
+转发：推广设计图新设备登录提醒
+邮件
+How does OpenRouter pricing ..
+三发件人过滤
+z07752443452@hot.. safe@service.neteas... welcome@openrout..
+三收件人过滤
+lihongan19851024.. lihongan19851024.. lihongan19851024...
+在邮件中搜索
+三发送时间
+起始
+结束
+2026-04-1717:31:32 2026-04-1717:22:14 2026-04-1713:00:49
+三附件过滤
+Q
+推广设计图.png.enc
+高级加密图

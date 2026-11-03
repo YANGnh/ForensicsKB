@@ -1,0 +1,29 @@
+# OCR: QQ_1779179532670.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779179532670.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+表(T):国message_file
+id
+过滤
+message_id 过滤
+att msg 000167 msg 000167
+2
+att msg 000181 msg 000181
+6風白 file_type
+过滤 file file
+过滤
+A
+品
+过滤任何列 file_path
+storage/emulated/o/Download/木马.zip
+storage/emulated/0/Download/木马 vl.2.zip
+file_name 过滤
+木马.zip
+过滤
+mime_type
+application/zip
+木马_vl.2.zip application/zip
+file_size 过滤
+5242880 5505024
+wid 过汉 NU NU

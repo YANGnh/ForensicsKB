@@ -1,0 +1,17 @@
+# OCR: Pasted_image_20260511180221.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511180221.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+Elcomsoft Forensic Disk Decryptor 语言帮助
+选择"挂载"或"解密磁盘“操作
+解密磁盘
+解密磁盘文件名：
+O挂载磁盘恢复密钥：
+浏览.
+560615-577522-342881-216865-242561-312356-584837-421597 [制*找到了用于数据解密的密钥！
+返回
+下一步>
+退出
+帮助
+x

@@ -1,0 +1,32 @@
+# OCR: Pasted_image_20260519114222.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519114222.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+1177 1178 1179 1180 1181 1182 1183 1184 1185 1186 1187 1188 1189 1190 1191 1192 1193 1194 1195 1196 1197 1198 1199 1200 1201 1202 1203 1204 1205 1206
+private final VaultDataloadData(Filefile){
+if (!file.existsO)
+Log.d("VaultDataLoader", "File does not exist"): returnnuul;
+7
+try
+byte[] fileData = FilesKt.readBytes(file);
+Log.d("VauitDataLoader", "File data length:
++ fileData.length):
+String magic = new string(ArraysKt.copyofRange(fileData, o, 4), Charsets.uTF_8):
+Log.d("VaultDataLoader"
+"Magic:  + magic):
+int version = (fileData[4] << 8) | fileData[5];
+Log.d("VaultDataLoader" if (version != i) {
+"Version: " + version):
+Log.d("VaultDataLoader',"Invalid version:  + version): return nuil:
+1
+if (Intrinsics.areEgual(magic,'JTH2')) {
+return LoadJTH2Data(fileData);
+if （Intrinsics.areEqual(magic，"JTH3"))+
+return oadJTH3Data(fileData);
+7
+Log.d("VaultDataLoader", "Unknown magic: " + magic): returnnuil:
+}catch（Exceptione)
+Log.e("VaultDataLoader', "Error loading data: " + e.getMessage(), e):
+e.printstackTrace(); return nuul;
+子

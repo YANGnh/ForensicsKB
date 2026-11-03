@@ -1,0 +1,24 @@
+# OCR: QQ_1780900359907.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780900359907.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+Select a Partition or Device Device
+Harddisk 3:
+IDevice |Harddisk3)Partition1
+Drive
+IDevice /Harddisk3)Partition2 S: Harddisk 4:
+IDevice |Harddisk4)Partition1
+IDevice \Harddisk4)Partition2 T: Harddisk 5:
+IDevice \Harddisk5)Par tition1
+IDevice/Harddisk5/Partition2 U: Harddisk 6:
+IDevice Harddisk6)Par tition 1
+(Device Harddisk6)Partition2 V:
+Label
+Size 1.5GiB 8.0MB 1.5 GiB
+7.9 GiB 8.0MiB 7.9 GIB
+54.6GIB 8.0MiB 54.6 GB
+16.0 GiB 8.0MiB 16.0 GB
+oK
+Cancel
+x

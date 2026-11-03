@@ -1,0 +1,13 @@
+# OCR: QQ_1778846930908.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778846930908.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Evidence Tree
+ server01-disk01.E01 由./dev/sdal[oMB] 由/dev/sda2[512MB]
+由-pve-lvol0_pmspare[1024MB]
+.pve-datatdata[6712MB] 由.pve-data_tmeta[1024MB]
+由pve-swap[2432MB] 中.pve-root［8764MB」
+由[ Unpartitioned Space [LM2].lserver01-diskQ2.E0l
+X
+ceph-69ab7469-a26b-48a1-89f9-b65f6701b.UnpartitionedSpace[LvM2]

@@ -1,0 +1,25 @@
+# OCR: QQ_1778555583327.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778555583327.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+NoahTie@oArkD/F/M/volatility3ongit:develop
+python.lvol.py--filters1Password-fZ:刘洋lly-memdump.memwindows.pslist Volatility3Framework2.28.1
+Progress:
+PID 6720
+100.00
+PPID 6024
+ImageFiLeName 1Password.exe
+PDBscanningfinished
+0ffset(v)
+0x94869370a080
+ThreadsHandlesSessionId
+32
+1
+True
+Wow64
+CreateTime
+ExitTime
+2026-04-2101:37:02.000000UTC
+N/A
+Fileoutput Disabled

@@ -1,0 +1,69 @@
+# OCR: QQ_1778777399325.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778777399325.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:51
+
+File
+UDisk.img x
+Edit
+Select
+0:0000:0000 0:0000:0010 0:0000:0020 0:0000:0030 0:0000:0040 0:0000:0050 0:0000:0060 0:0000:0070 0:0000:0080 0:0000:0090 0:0000:00A0 0:0000:00B0 0:0000:00C0 0:0000:00D0 0:0000:00E0 0:0000:00F0 0:0000:0100 Variables
+ER 2 o
+o 66 84 EE
+Find 90
+6660
+80
+Name
+v drive
+V boot sector > jmp[3]
+> OemName[8] BvtesPerSector
+SectorsPerCluster ReservedSectors
+View
+Format 4
+Scripts
+3 3F
+Value
+HIDDEN USB MSDOS5.0
+200h 8h ccAh
+NumberOfFatTables MaxRootDirEntries NumberOfSectors16
+MediaDescriptor SectorsPerFat16
+: Variables
+Inspector
+2h
+200h Oh
+Templates 5@
+2 O0
+E
+HARD DRIVE (F8h) Oh
+ Output
+Selected: 2 bytes (Range: 11 [Bh] to 12 [Ch])
+30 FF
+8 B6 06 00
+Find Results
+00 Oh Oh Oh 3h Bh Dh Eh
+07
+Debug B
+Start
+Project Size 1000200
+200h 3h 8h 2h 1h 2h
+10h 11h 13h 15h 16h
+1h 2h 2h 1h 2h
+Tools
+Window Hex
+fi.fp Type
+Help
+struct FAT DRIVE
+struct FAT BOOTSECTOR
+BYTE CHAR
+USHORT UBYTE USHORT UBYTE USHORT USHORT
+enum MEDIA USHORT
+Find in Files? Compare
+Color
+口
+x +
+Commen
+Lla Histogram E Checksum m Process mov Disi
+Start: 11 [Bh] Sel: 2 [2h]
+Size: 15.479,597,056
+Hex UTF8 LIT
+皖 OVR

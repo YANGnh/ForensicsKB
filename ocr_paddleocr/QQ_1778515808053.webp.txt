@@ -1,0 +1,45 @@
+# OCR: QQ_1778515808053.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778515808053.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+@ 1Password
+Accounts
+liuyang OnthisPC
+All items Favorites
+WATCHTOWER
+A
+View
+CompromisedLogins VulnerablePasswords
+ReusedPasswords WeakPasswords
+Unsecured Websites
+Inactive2FA Expiring
+CATEGORIES
++ 品
+Logins
+Secure Notes Credit Cards
+Identities Passwords Servers
+TAGS
+Trash
+Item
+力时出成欧
+Help
+Search liuyang
+pve服务器 root
+1 items sorted byTitle
+Save
+pve
+Cancel
+pve服务器 >Oliuyang
+pgscup2o@6 URL
+https://192.168.0.51:8006/ 用户名称
+root label
+new field 管理控制台
++
+管理控制台URL
+管理控制台用户名称控制台密码
+label
+new field
++
+口
+x

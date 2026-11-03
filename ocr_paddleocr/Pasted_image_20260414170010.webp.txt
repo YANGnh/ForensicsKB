@@ -1,0 +1,43 @@
+# OCR: Pasted_image_20260414170010.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414170010.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+e
+SECat - SocialEngineering Cat
+SECat
+SocialEngineeringCat
+保存结果工作台名字实验室口令工坊模式工坊
+词库画布
+A栏
+B栏
+载入本地字典早起王
+zaoqiwang zao.qi.wang
+zqw Zqw zQw ZQw zqw Zqw zQW ZQW
+ZaoQiWang z.qiwang Zqiwang ZAOqiwang 王起早 wangqizao wang.qi.zao
+wqz Wqz wQz WQz wqz Wqz
+追加字典
+C栏清空
+加载追加字典
+清空
+结果已保存到C：\Users\NoahTie\Desktop\secat-workbench.txt。
+组合控制台
+组合模式：生成结果结果预览上一页
+AB, AC,BC, ABC
+结果去重第1／187页
+早起王123456789 早起王a123456 早起王123456
+早起王a123456789 早起王1234567890 早起王woaini1314 早起王qq123456 早起王abc123456 早起王123456a 早起王123456789a 早起王147258369 早起王zxcvbnm 早起王987654321 早起王12345678910 早起王abc123
+早起王qq123456789 早起王123456789
+早起王7708801314520 早起王woaini
+早起王5201314520 早起王q123456 早起王123456abc
+早起王1233211234567
+早起王123123123 早起王123456.
+早起王0123456789 早起王asd123456 早起王aa123456 早起王135792468 早起王q123456789 早起王abcd123456 早起王12345678900 早起王woaini520 早起王woaini123 早起王zxcvbnm123
+早起王1111111111111111
+保存结果
+1-200/37382
+下一页
+浅色模式
+每页200条
+口
+X 关于

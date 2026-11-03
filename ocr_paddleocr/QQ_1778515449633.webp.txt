@@ -1,0 +1,14 @@
+# OCR: QQ_1778515449633.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778515449633.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+?1Password
+Help
+iPasswOrd
+Newto1Password?
+Get started with a 1Password membership, free for 30 days.
+Start my trial
+Used1Passwordbefore? Sign in to 1Password.com Sync using folder
+Createanewvault onthisPC
+长

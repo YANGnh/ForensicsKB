@@ -1,0 +1,21 @@
+# OCR: Pasted_image_20260519011223.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519011223.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+口三序号口1 口2 口3
+林小婉手机.tar/datadata/com.jinritoutiao.news/files/vault
+三名称过滤
+production (1).DS Store
+vault data jth2
+三大小等于
+10.00KB 4.86KB
+三创建时间
+起始
+结束
+三修改时间
+起始
+结束
+2026-04-25 00:10:46 2026-04-2500:07:44
+三全路径过滤
+林小婉手机.tar/data_data/com.jinritoutiao.news/file.. 林小婉手机.tar/datadata/com.iinritoutiao.news/file.. 林小婉手机.tar/datadata/com.jinritoutiao.news/file...

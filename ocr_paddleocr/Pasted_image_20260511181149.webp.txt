@@ -1,0 +1,12 @@
+# OCR: Pasted_image_20260511181149.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511181149.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+NoahTie@ArkD/F/s/Image
+python.1png_wh_crack.py-fc:1hlnet16-17783894o31liuyang-pc.E011分区81Baidu NetdiskDownLoad\无标题.png
+宽高被改了，是否CRC爆破宽高？（Y/n）：Y CRC32:0xe8d3c143
+宽度：1920，hex：0x780
+高度：1080，
+0x438
+hex:

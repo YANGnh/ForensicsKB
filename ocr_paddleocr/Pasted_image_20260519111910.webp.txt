@@ -1,0 +1,15 @@
+# OCR: Pasted_image_20260519111910.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519111910.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+173 V
+174 175 176 177 178 179 180 181 182
+183V
+』
+"id":3.
+"name"："文件备份服务器""type"："备份服务器",
+"addre5s":"192.168.1.200"."port":"22"
+"protocol"："sFTp"
+"notes"："财务数据备份'
+"contacts":{

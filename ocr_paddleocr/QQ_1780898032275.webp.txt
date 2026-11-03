@@ -1,0 +1,19 @@
+# OCR: QQ_1780898032275.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780898032275.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+g
+1
+检材1-计算机.E01>
+三序号口1 口2
+三标题黄金
+收购黄金百度搜索黄金_百度搜索
+Deepin自带浏览器>Iha>品历史记录
+表达式当前有1人查询涤
+URL 过滤
+https://www.baidu.com/s?&ie=utf-8&wd=收购黄金 https://www.baidu.com/s?&ie=utf-8&wd=黄金
+最后访问时间
+起始
+结束
+2026-04-1613:12:20 2026-04-1710:18:05

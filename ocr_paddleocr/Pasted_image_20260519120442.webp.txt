@@ -1,0 +1,29 @@
+# OCR: Pasted_image_20260519120442.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519120442.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+1v
+2 3
+4
+5 6 7 8 9 10 11
+12 √
+13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+29  30 31 32 33 34
+"version": 1,"wallet"［
+"id": 1,
+"name"：“陈志远私人钱包"，
+"addre5s":"0xA1B2c3D4E5F6a7b8c9d0e1f2a3b4c5d6e7f8a9b0"
+"balance":"5.8234 ETH""type":"ETH",
+"notes"：“老板私人钱包""id"：2,
+"name"："公司运营账户"
+"addre5s":"0xB2C3D4E5F6a7b8c9d0e1f2a3b4c5d6e7f8a9b0"
+"balance":"28.1560ETH""type":"ETH",
+"notes"："日常运营资金""id": 3,
+"name"：“备用热钱包"，
+"addre5s":"0xc3D4E5F6a7b8c9d0e1f2a3b4c5d6e7f8a9bo"
+"balance": "3.2150 ETH""type":"ETH",
+"notes"：“应急使用""bank":［
+"id":1,
+"bankName"："交通银行深圳分行"、
+"cardNumber": "622260 011234 5678 4532","balance"."?2.850.009"

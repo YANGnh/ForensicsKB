@@ -1,0 +1,13 @@
+# OCR: QQ_1779253185657.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779253185657.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+口
+区
+口三序号
+33 口34 口35
+>s(nX35wP-eOsD-LX7i-kEfZ-80R8-1JzG-LHFjgF)/分区2 /tmp
+三名称过滤
+backup decrypted backup fixed.db.enc backup test.db.enc
+>

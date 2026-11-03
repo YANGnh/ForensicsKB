@@ -1,0 +1,19 @@
+# OCR: QQ_1780997798781.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780997798781.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+<> config.html ×
+> admin > view > system > <> config.html > @ div.page-container > @ form.layui-form.layui-form-pane > @ div.layui-tab >@ div.layui-tab-content > @ div.layui-tab-item.layui-show >
+<div class="page-container">
+<form class="layui-formlayui-form-pane"action=""
+9 14 16 47 48 49 50 51
+52 53
+<div class-"layui-tab">
+<divclass-"layui-tab-content">
+<div class="layui-tab-item layui-show": div class="layui-form-item"
+<label class="layui-form-label">备案号:</label> <div class="layui-input-block">
+《input type="text" name="site[siteicpjplaceholder="京Icp备ooecoeo号" class-"layui-input">
+</div>
+</div>
+value-"{$config['site'j'siteicp']]

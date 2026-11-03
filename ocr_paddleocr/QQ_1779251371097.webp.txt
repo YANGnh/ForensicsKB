@@ -1,0 +1,16 @@
+# OCR: QQ_1779251371097.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779251371097.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+[rootolocalhost network-scripts]# cat ifcfg-etho TYPE-"Ethernet"
+PROXY_METHOD="none" BROWSER ONLY="no" BOOTPROTO="none" DEFROUTE="Ves'
+IPV4_FAILURE_FATAL="no IPV6INIT="yes"
+IPV6_AUTOcONF="yes" IPV6_DEFROUTE="yes"
+IPV6_FAILURE_FATAL="no"
+IPV6_ADDR_GEN_MODE="stabLe-privacy' NAME="etho"
+UUID="8d9b2248-7e11-489b-bb9f-4ad4e867d92b
+DEVICE-"etho" ONBOOT="yes"
+IPADDR="192.168.0.70" PREFIX="24"
+GATEWAY="192.168.0.1" DNS1="223.5.5.5"
+DNS2="119.29.29.29" IPV6_PRIVACY="no" ZoNE=public

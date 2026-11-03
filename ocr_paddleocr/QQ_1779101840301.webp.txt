@@ -1,0 +1,20 @@
+# OCR: QQ_1779101840301.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779101840301.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+g
+品App分析
+量phone.E01>
+量APK列表
+】三序号口26 口27 口28
+三图标过滤
+三名称过滤
+Discord
+三包名过滤
+com.discord com.discord com.discord
+三版本号过滤
+311.20 -Stable
+三大小等于
+V
+40.39KB 52.39KB 122.16MB

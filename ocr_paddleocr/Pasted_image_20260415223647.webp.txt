@@ -1,0 +1,32 @@
+# OCR: Pasted_image_20260415223647.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415223647.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+NB2mi1VBTSN5U40DfEsDcrzgxWCrxt... X
+using System:
+using Microsoft.VisualBasic Token:0x02000007RID:
+publicclassNB2mi1VBTSN5U40DfEsDcrzaxWCrxt7i1yCoMWoZb5dK9QwIjz6W6wYeHrig
+6
+// Token: 0x06000021 RID: 33 RVA: 0x000020F4 File 0ffset: 0x000002F4
+9 10
+3 2252222033 535 42 43 44 4 47 48 49 50 51 52 53 54 55
+public static string xFFJLcfvqcMccU6arkPuO
+return"x1knmVao64DrCoHDNeNo
+// Token: 0x06000022 RID: 34 RVA: 0x000020FB File 0ffset: 0x000002FB  public static int ZrMjBl7oFD40ZjXYDI2JO
+return24334026:
+// Token:0x06000023 RID:35 RvA:0x00002102 File 0ffset:0x00000302 public static string zNvsTtkzlrAuoJrDroYho
+return "BAgI20KgIOhiPyi7remd":
+// Token: 0x06000024 RID: 36 RVA: 0x00002109 File 0ffset: 0x00000309 public static int xPfQHcek7QDc2Am74BDG
+return 81875370:
+// Token: 0x04000006 RID: 6
+public static string ZIDZvDLAFbRYxsxkwMl11B7DELyePOrfiJNEILKuap1H9eXgbiPbiwGYX2g2 = "b71P9DKXK17yU4FBIMvdZYT7logMGVrgjUqWnzgLxXw3GIeVZpids5gIz2YZu"// Token: 0x04000007 RID:
+public static string po8q6qNnLm4fCqa8BSl1NERl5uTDBZgAWkfw1ZX3KpX1wgeUFAflIth2cfaw:// Token: 0x04000008 RID: 8
+public static string Pj0zPaAZem6YRSiY73igOnuhSIsTpJmmeYR23TelLywg50KJA7ITRso6eQWj= "3gBjH4yDUHjhZBxWK56eYw-=*// Token: 0x04000009 RID: 9
+Public static string u0JTJdC1HuPnY7xGUKCVXdob11jaXDot6DaLkEHtlik255I34dAgKgpePnrM="P/4B29PWaJ6Raw+51xox2A==*// Token: 0x0400000A RID: 10
+public static string tEcXo2432ATvkU8ifrMlTSQiGo1G3sGNZRTy6G0EbDFiN3BWkUbrhUYMxUZC ="fwWlgX1XMU7EFmHRUH3Jw-:// Token: 0x0400000B RID:
+public static int p1HLccZBgOEiXLJPWR7MGHfAQxfHFJa5xi0mYnMrdlbNvTE2zD9nLEldT7zb = 3:// Token: 0x0400000c RID: 12
+Public static string QMNuwZu2nAhrN4vCJXXVJJ6rXPYjheog203JKqbePCETj5t8Y1Ka0TCSa7k0 = "TowG+c10R3RBmATvJwUFKQ==// Token: 0x0400000D RID: 13
+public static string s6gMU1Bh1I6DXfxJKXLS8vMqDb2zNIYNi5hhilJnX0Mbzr8B4g6F0vguJvMV ="1XEVYeoDw31nYYF2ts9aUQ=="
+Token:
+0x0400000ERTD:

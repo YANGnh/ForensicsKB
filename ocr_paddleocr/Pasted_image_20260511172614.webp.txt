@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260511172614.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511172614.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+田刘洋pc.E01>
+三序号口1 口2 口3 口4 口5
+三标题 pve
+Edge浏览器>
+品历史记录
+pve-node1 - Proxmox Virtual Environment pve-node1 - Proxmox Virtual Environment pve-node1 - Proxmox Virtual Environment pve-node2 - Proxmox Virtual Environment pve-node2 - Proxmox Virtual Environment
+三URL 过滤
+https://192.168.0.50:8006/
+https://192.168.0.50:8006/#v1:0:18:4. https://192.168.0.50:8006/#v1:0:18:4. https://192.168.0.51:8006/#v1:0:18:4. https://192.168.0.51:8006/#v1:0:18:4.
+三最后访问时间
+起始
+结束
+2026-04-19 23:02:09 2026-04-1923:02:10 2026-04-1923:02:15 2026-04-19 23:02:59 2026-04-19 23:03:05

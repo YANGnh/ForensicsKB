@@ -1,0 +1,19 @@
+# OCR: Pasted_image_20260512010134.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260512010134.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+HashMyFiles
+File  Edit View Options  Help
+因x Filename user_real.xlsx xuserreal.xlsx
+2 file(s)
+蹈图
+MD5
+95bd7ee6c99fbbd4652eed462d3ecb02 95bd7ee6c99fbbd4652eed462d3ecb02
+SHA1
+口
+x CRC32
+31904
+71692c718e62b932af97e71d4d0aed71...
+31904
+71692c718e62b932af97e71d4d0aed71...

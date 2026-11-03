@@ -1,0 +1,15 @@
+# OCR: Pasted_image_20260414113940.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414113940.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+回SQL 1* ×
+1 2 3
+SELECT COUNT (DISTINCT KeY)
+FROM sync data WHERE key like
+"articleg";
+COUNT (DISTINCT key)
+33 1
+执行完成，无错误。
+结果：1行返回，耗时3ms 在行1：
+SELECT COUNT(DISTINCT key)

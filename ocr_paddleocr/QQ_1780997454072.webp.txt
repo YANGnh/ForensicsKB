@@ -1,0 +1,101 @@
+# OCR: QQ_1780997454072.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780997454072.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+WinMerge - [admin.php - user.php]
+File
+Edit
+View
+Aa
+maccms10-mastert
+Merge
+Tools
+macoms101
+WindowHelp
+admin. php - user. php
+C: /Users WoahTie \Downloads (maccms 10-master /admin.php <?php
+软件名称：苹果cMs源码库：https://github.com/magicblack Licensed （ http://wwW.apache.org/licenses/LIcENsE-2.0 ) 遵循Apache2开源协议发布，并提供免费使用
+header('Content-Type:text/html;charset=utf-8'):// 检测PHP环境
+if(version compare(PHP VERSION,'5.5.0','<')) 5.5, please upgrade] )3
+try
+//超时时间
+ini set('max_execution_time','o')/内存限制取消内存限制
+ini set("memory limit",'-1'); 小定义应用目录
+define('ROOT PATH' define('APP PATH', define('MAC cOMM'.
+DIR
+DIR DIR
+define('MAC HOME COMM',
+die（'PHP版本需要>=5.5，请升级【PHP version requires>
+/application/");
+"/application/common/common/"):
+DIR./application/index/common/'):
+DIR./application/admin/common/'):
+define('MAC ADMIN COMM',
+define('MAC START_TIME', microtime(true) );
+//define('BIND MODULE',"admin'); define('ENTRANCE','admin');
+$in file = rtrim($_SERVER['SCRIPT_NAME'],/')
+if(substr($in_file,strlen($in_file)-4)!=='.php')(
+$in file = substr($in file,,strpos($in file,'.php')) .'.php': define('IN FILE',$in file):
+if(!isfile('./application/data/install/install.lock'))[
+header("Location: ./install.php"); exit;
+WinMerge
+D: (CaseFiles )Export/maccms 10 /maccms 10 /user.php
+<?php*
+软件名称：苹果cMs 源码库：https://github.com/magicblack'Licensed （http://www.apache.org/licenses/LIcENSE-2.0 )
+遵循Apache2开源协议发布，并提供免费使用。*
+header('Content-Type:text/html;charset=utf-8'):/ 检测PHP环境
+if(version compare(PHP VERSION,'5.5.o','<')) 5.5, please upgrade) )s
+try
+//超时时间
+ini_set("max_execution_time'，'o'); 小内存限制取消内存限制
+ini set("memory limit",'-1'); 小定义应用目录
+define('ROOT PATH', define('APP PATH' define('MAc coMM'
+DIR
+DIR DIR
+define('MAC HOME cOMM', define(MAC ADMIN COMM'
+die（'PHP版本需要>=5.5，请升级【PHP version requires >
+/application/");
+/application/common/common/"):
+DIR'/application/index/common/'):
+DIR.'/application/admin/common/");
+define('MAC START_TIME', microtime(true) );
+D_MODULE',"admin'); NCE'，‘admin');
+The selected files are identical.
+ Don't display this message again.
+ok
+exit:
+if(strpos($ SERVER["SCRIPT NAME"l,'/admin.php')!==false){
+echo‘请将后台入口文件admin.php改名，避免被黑客入侵攻击【Please rename the background entry file
+admin.php to avoid being hacked)';
+exit;
+if (!mb check encoding($ SERVER['PATHINFo'],'utf-8'))[
+$ SERVERr'PATH INFo'=mb conVert encoding($ SERVERr'PATH INFO'l, 'UTF-8', 'GBK'):
+加载框架引导文件 require DIR
+'/thinkphp/start.php';
+catch (Exception $e) {
+error_log('Throws error: '.$e->getMessage().' in '.$e->getFile().' on line '.$e->getLine());
+Ln: 1 Col: 1/6 Ch: 1/6 Opening selection
+INS
+UTF-8
+Unix
+rim($_SERVER["SCRIPT_NAME'],'/'); file,strlen($in_file)-4)!==.php'){
+substr($in_file,o,strpos($in_file,'.php')) .'.php': LE',$in file):
+/application/data/install/install.lock')){ location:./install.php");
+if(strpos($ SERVER["SCRIPT NAME"l,'/admin.php')!==false){
+echo‘请将后台入口文件admin.php改名,避免被黑客入侵攻击【Please rename the background entry file
+admin.php to avoid being hacked)';
+exit;
+if (!mb_check_encoding($_SERVER['PATH_INFOo'], 'utf-8'))[
+$ SERVERr'PATH INFo'=mb conVert encoding($ SERVERr'PATH INFO'l, 'UTF-8', 'GBK'): 加载框架引导文件
+'/thinkphp/start.php';
+require DIR
+catch (Exception $e)
+error_log('Throws error: '.$e->getMessage().' in '.$e->getFile().' on line '.$e->getLine());
+Ln: 1 Col: 1/6 Ch: 1/6
+Identical
+INS
+UTF-8
+口
+x-x
+Unix Num Lock

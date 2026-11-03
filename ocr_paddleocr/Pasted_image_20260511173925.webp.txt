@@ -1,0 +1,24 @@
+# OCR: Pasted_image_20260511173925.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511173925.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+g
+田刘洋pc.E01>
+口三序号口54 口55 口56 口57 口58 口59 口60 口61
+三标题过滤
+Chrome浏览器>历史记录
+typora搜索文章-聚问天空网
+Typora1.9.5Win/macos中文破解版(轻量级...
+页面加载中，请稍候. Typora
+登录转存-蓝秦云优享版登录转存-蓝奏云优享版
+Typor1.9.3-x64-CN.7z-蓝奏云百度一下，你就知道
+三URL 过滤
+https://www.ansky.com/?s=typora&type=post https://www.ansky.com/6184.html
+https://www.ansky.com/?qolink=aHR0cHM6Ly9sbXVzaWMubGFuem91dS5jb2Ov. https://lmusic.lanzouu.com/b03fed78b
+https://api.ilanzou.com/unproved/pd/url?id=9456841&time=1776605961&toke.. https://www.ilanzou.com/save?auth=66822167bd1b0713c22c71e657ba2e9b
+https://lmusic.lanzouu.com/i7wm822cytpa http://www.baidu.com/
+三最后访问时间
+起始
+结束
+2026-04-19 21:39:13 2026-04-19 21:39:15 2026-04-19 21:39:20 2026-04-19 21:39:22 2026-04-19 21:39:24 2026-04-19 21:39:24 2026-04-19 21:39:31 2026-04-19 23:10:34

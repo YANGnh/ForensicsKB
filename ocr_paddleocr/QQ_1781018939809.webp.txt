@@ -1,0 +1,33 @@
+# OCR: QQ_1781018939809.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781018939809.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+编辑自定义规则
+规则名称：发起程序?：
+自定义规则
+发起程序：
+保护对象：
+D: CaseFiles Export) SampleVC.exe
+添加保护对象
+保护类型文件规则
+处理方式?：
+询问我
+O
+保护对象
+器
+D:CaseFilesEx.
+直接阻止
+保护动作创建
+读取
+口
+修改
+删除所选图
+删除
+保护对象路径
+高级设置选择程序
+Q
+操作
+编辑保存
+删除取消
+x

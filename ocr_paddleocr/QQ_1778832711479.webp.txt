@@ -1,0 +1,19 @@
+# OCR: QQ_1778832711479.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778832711479.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+吕 Save Local
+1 2 3 4
+ Query Builder  Beautify SQL （) Code Snippet Ask Al
+dataanalyze
+SELEcT coUNT(*） As migrated_count　 FROMOOw
+ Run  Stop : Explain
+WHERE NOT（信用评分 >= 700 AND^资产（人民币）丶>= 1002541.17）
+AND（LEAST（信用评分＋20，900）>=700 AND^资产（人民币）
+MessageSummary
+Data
+Info
+Result 1
+36636
+>=1002541.17);

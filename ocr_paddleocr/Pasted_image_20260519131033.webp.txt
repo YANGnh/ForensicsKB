@@ -1,0 +1,17 @@
+# OCR: Pasted_image_20260519131033.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519131033.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+* JADx INFo: Access modifiers changed from: private *
+pubiic static final Unit MainNavigationslambdasisosiso(NavBackstack sbackstack, string query)
+Intrinsics.checkNotNuliParameter(query."query): Navigation3 source = nuul:
+if (stringsKt.containssdefault((charSequence) query, (charSequence) "security_debuq', false, 2, (object) nuiu)) {
+$backstack.add(NavigationKeys2.INsTANcE) : return Unit.INSTANCE:
+if (StringsKt.containssdefault((CharSequence) query, (CharSequence) RIGGER_PRIMARY， false, 2, (Object) nuiu)) {
+source = Naviqation3.LIN_XIAoWAN:
+} else if (StringsKt.containssdefault((CharSequence) query, (CharSequence) TRIGGER_SEcoNDARY, false, 2, (Object) nuiu)) {
+source = Navigation3.LU_ZHENGYU: if (source != nulu) {
+$backstack.add(new Vault(source)):
+return Unit.INSTANCE:
+子

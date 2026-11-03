@@ -1,0 +1,47 @@
+# OCR: Pasted_image_20260519003905.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519003905.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+文件(F)
+编辑(E）
+【打开项目（P）数据库结构（）
+查看()
+工具(T)
+【保存项目(s)
+浏览数据(B）
+表（T)：画conversation 过滤
+V
+帮助(H)
+编辑杂注(R)
+6
+执行SQL()
+民 type
+过滤
+conv d usr caishangwang usr junshi conv d usr caishangwang usr zaixiang
+conv_g_技术部群_usr_caishangwang conv_g_话务组群_usr_caishangwang
+D D G G
+Hame
+过滤军师宰相
+技术部群话务组群
+A
+avatar_url
+过滤 NULL NULL NULL NULL
+过滤任何列
+owner_id
+过滤 NULL NULL
+last_message_id 过滤
+msg_000047 msg 000065
+usr caishangwang msg oool3g usr caishangwang msg oool5o
+last_message_at 过滤
+1709079360000 1708992480000 1700892960000 1647325200000
+过滤
+last_message_content
+x+CJP7B5MmaikecIDbubcw=: YctIfaDOdcRp3vtIaqMDDA=-
+OiV7JRloLEz+se9ApiEV9qoSR39Qf3nJAsV.. icDF3gRUWfbglaeal7+JCnWd/gXQdI/...
+create_at 过滤
+1625466000000 1634716800000 1630458000000 1647324000000
+update_at 过滤
+1709079360000 1708992480000 1700892960000 1647325200000
+extra_val 过滤
+0 0 0 o

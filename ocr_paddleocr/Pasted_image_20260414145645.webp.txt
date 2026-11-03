@@ -1,0 +1,7 @@
+# OCR: Pasted_image_20260414145645.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414145645.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+147 148
+root@zaogiwang:/home/zaogiwang# uname -r 6.8.0-1o7-generic

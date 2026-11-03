@@ -1,0 +1,37 @@
+# OCR: QQ_1780999247076.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780999247076.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+P
+超级控制台
+首页系统
+网站参教配置 SEO参数配置会员参数配置评论留言配置附件参数配置 AISEO配置 URL地址配置播放器参数配置采集参数配置站外入库配置开放AP配置整合登录配置在线支付配置微信对接配置邮件发送配置短信发送配置定时任务配置站群管理配置
+三 基础文章漫画?视频网址田白
+欢迎页面基本设置
+网站参数配置＆
+性能优化
+网站名称：网站域名：手机站域名：关键字：描述信息：备案号：客服QQ：客服邮箱：安装目录默认LOGO：手机站LOGO：网站Banner:
+App启动图：网站模板：兼容旧版本：
+预留参数
+后台设置
+免费短视频分享大全－大中国
+www.2026fic.forensix wap.2026fic.forensix
+打破机锁禁止起飞 icp1919810 4790286501
+lianhong@forensix.cn  static/images/logo.jpg static/images/logojpg
+upload/site/20260415-1/194647b41e567e1dc60458fcfb37f337jpg upload/site/20260415-1/3300bfeea11e342f23576fb25d281e0e.jpg upload/site/20260415-1/b0501209bbfb4c35a0c8edb37a7b3a11.jpg 逐张上传
+o01tep ○关闭
+开启
+模板目录：
+html
+开启后将引入polyfil兼容旧版本浏览器
+上传图片上传图片
+删除删除删除
+上传图片
+ MacCMS All Rights Reserved.
+①更新
+操作
+简体中文
+包
+?
+其它

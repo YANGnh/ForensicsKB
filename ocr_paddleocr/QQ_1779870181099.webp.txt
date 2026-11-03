@@ -1,0 +1,50 @@
+# OCR: QQ_1779870181099.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1779870181099.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+三 download.dat X
+C: > Users > NoahTie > Downloads > 三 download.dat
+7005 7044 7059 7060 7061
+<divid="contentleft"tabindex="e">
+<div class="result-op c-container xpath-log new-pmd"
+nr="1"
+<div><!--s-data:{"url":"http://www.baidu.com/link?
+1[3456789]\d(9]
+Aaab
+52of219
+米
+url=bH-v8xRA90HVDS95JZHQNFOEmqUj9aBt-kFASvCCdb0OFJknKY2bPrGyWggf8Ka_HdtwsH8n1EXoV2LIfnLtwcjnxde00g3dTpZCZe2MXOnF3P-C6w1KDDcP5Z3GTx8BgORLixbSq1PvnvJydK8g
+qmbe9kTdsPfYGPuU199L1kDRc1nt-\-xiEqQQ5Dek-oRIsSGLgfr4qa-dALtJWiq","title":"<em>收购黄金</em>－商品批发价格 - 百度爱采购","pdfSwitch":"1","filterField":[],"prodList"：［{"fullname"："雁塔区收购黄金电话155293oo3o""isjyb"："o","fullprovidername"："高新区表表商贸经营部"，"jumpUrl"："https://b2b.baidu.com/b2bsearch/jump?
+unl=bttps%3A%2F%2Fb2bwor
+.baidu.com%2Eland%3F1id%3D1792780144836360160&brand=%E5%BD%93%E8%BE%85&
+Categ0ry=%E8%BD%AC%E8%AE%A9%E7%A7%9F%E8%B5%81%E5%8A%A0%E5%B7%A5%3B%E5%BA%9F%E5%93%81%E5%9B%9E%E6%94%B6%3B%E5%9B%9E%E6%94%B6%E6%9C%8D%E5%8A%A1&ii_P0S=0& iid=f8522128fd4b98e25b24034b643e586f&iswapurl=0&jid=1231050051&logid=8451925638927683&nquery=%E9%BB%84%E%o7%a10-i
+13019262281369764193&
+query=%E6%94%B6%E8%4%AD%E9%BB%84%E9%87%91&sv_cr=&timesignori=1776316341&uign=3a586ed5d8cd498227278 Follow link (ctrl + click) 15591&from=b2b_straight&
+srcid=51o3&from restype=product&pi=baidu.b2b straight.prod.1
+"canonicalImage":"https://t14.baidu.com/it/u=4118739018,1159682022&fm=199&app=68&size=w256&
+n=0&f=JPEG&fmt=auto?s=9CD712DEFA3396CE1CEF97BC0300400D&sec=1776445200&t=64a0f92eab567eb31a76977246e27ea2"
+"imageNum"："
+"price":"28.0o","priceCurrency":"万
+","unitcode":"套","search_province":"陕西","search_city":"西安","sellings"""
+","show_address":"四川成都","id":"f8522128fd4b98e25b24034b643e586f"
+"tag_list":null,"tag_listvi":null,"allowPurchase":"o","seniorRealType":""
+"content_expert":"o","cardCustomizeFields":{"param":"
+"area":"","url":"https:/
+","real_prd":"","relevance_new":"","select_param":""
+b2bwork.baidu.com/land?1id=179278014483636016o","frombs":"8469","xzhid":"53415591","isMapMember":"!"isAceMember":false,"grade":3,"sv_cr":"o","addressV2"."陕西西安""prod_tag"""
+,"cpaMember":"1","productModel":""
+."im replv intime":"l
+,"hasck":true,
+"priceLeft":"","priceRight":"","formatFullname"
+"雁塔区<em>收购黄金</em>电话15529300300
+loramtFullprovidername"："高新区表表商贸经营部""labelList"：
+［{"text"："真实性核验","type"："blue-border"}]，"ariaLabel"："雁塔区收购黄金电话1552930o300，价格：￥28.0o万/套，供应商：高新区表表商贸经营部，地域：四川成都，认证信
+息：真实性核验"，"formatPrice"："￥28.oo万/套"，"formatP
+AA
+MAe
+show_address_pc：四l成都"，{"fullname"："黄金首饰公司高价收购金条实体店铺诚信可靠木木
+名品"，"isjyb"：""，"fullprovidername"："泰安市木木名品网络科技有限公司"
+,"jumpUr1":"https://b2b.baidu.com/b2bsearch/jump?url=https%3A%2F%2Fb2bwork.baidu.
+ANS4J0SD7O72OCACOAO2CO
+A0/0n0/CC0/00/o10

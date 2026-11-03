@@ -1,0 +1,57 @@
+# OCR: Pasted_image_20260529002923.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529002923.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+图
+? SystemFlag == "2"
+三序号口1 口2 口3 4 口5 口6 07 口8 口9 口10 口11 口12 口13 口14 口15 口16 17 口18 口19 口20 口21 口22
+三名称过滤
+CneApp 随拨
+CACertApp 多看阅读
+百度输入法小米版
+FingerprintExtensio...
+健康 ARCore
+aidlserverdemo DJI Fly
+a PackageName exc andro...
+风
+三包名过滤
+com.pocketpalai
+com.qualcomm.qti.cne com.xinbo.suibo
+vendor.qti.hardware.cacert.server com.qualcomm.timeservice
+com.duokan.reader com.baidu.input mi
+com.qualcomm.qti.smg
+com.fingerprints.extension.service com.github.metacubex.clash.meta com.mi.health
+com.livevideo.hotclub
+com.qualcomm.qti.optinoverlay com.google.ar.core
+com.tencent.soter.soterserver
+com.gualcomm.gti.improvetouch.ser.. com.talk.uuuim
+com.google.ai.edge.gallery com.topjohnwu.magisk
+vendor.qti.iwlan dji.go.v5
+ai.mlc.mlcchat
+三版本名称过滤
+三应用分类
+* 其他
+系统工具其他
+系统工具其他
+阅读翻译系统工具其他
+系统工具其他
+系统工具
+其他其他
+系统工具系统工具
+其他其他其他其他其他
+系统工具其他
+三应用类型非系统(
+非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装非系统(非预装) 非系统(非预装非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装)
+三安装时间
+起始
+结束
+2026-04-16 16:07:31 2009-01-01 08:00:00 2026-04-14 16:32:23 2009-01-01 08:00:00 2009-01-01 08:00:00 1970-11-20 01:43:54 1970-11-20 01:43:54 2009-01-01 08:00:00 2009-01-01 08:00:00 2026-04-16 15:20:47 1970-11-20 01:43:49 2026-04-17 14:29:01 2009-01-0108:00:00 2026-04-16 15:26:44 2009-01-0108:00:00 2009-01-01 08:00:00 2026-04-14 18:00:55 2026-04-16 16:04:36 2026-04-14 11:55:10 2009-01-01 08:00:00 2026-04-14 12:46:25 2026-04-16 16:04:56
+三最后使用时间
+起始
+结束
+在应用列表中搜索
+三屏幕位置
+A
+过滤
+Q

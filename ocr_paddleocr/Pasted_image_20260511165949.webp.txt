@@ -1,0 +1,8 @@
+# OCR: Pasted_image_20260511165949.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511165949.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+totaltimeuse207.53672289848328
+Z：刘洋（liuyang-pc.E01（31319472244Bytes） 2026-05-111659:02.874899
+sha1:5bc41890367e9c79c6b415c922e30bc994bfb351

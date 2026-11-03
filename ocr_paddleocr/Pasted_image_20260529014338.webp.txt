@@ -1,0 +1,16 @@
+# OCR: Pasted_image_20260529014338.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529014338.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+文本搜索:config.dat
+搜索文本：
+Q- config.dat
+在以下位置搜索
+类名
+资源口注释
+方法名口字段名代码
+限制package：
+节点
+m androidx.lifecycle.lo.s(Context) String
+InputStream inputstreamOpen = context.getAssets().open("config.dat");

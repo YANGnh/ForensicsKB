@@ -1,0 +1,10 @@
+# OCR: QQ_1781001237511.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781001237511.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+rootoubuntu:/#pingmytidb
+PINGmytidb（10.0.3.100)56(84)bytesofdata.
+64bytesfrommytidb(10.0.3.100):icmp_seq=1ttl=64time=0.064ms 64bytesfrommytidb(10.0.3.100):icmp_seq=2ttl=64time=0.028ms 64bytesfrommytidb(10.0.3.100):icmp_seg=3ttl=64time=0.034ms 64bytesfrommytidb(10.0.3.100):icmp_seq=4ttl=64time=0.039ms 64bytesfrommytidb(10.0.3.100):icmp_seq=5ttl=64time=0.046ms C
+mytidbpingstatistics-
+5packetstransmitted,5received,0%packetloss,time41o3ms rttmin/avg/max/mdev=0.028/0.042/0.064/0.012ms

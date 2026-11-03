@@ -1,0 +1,42 @@
+# OCR: Pasted_image_20260518193651.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518193651.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+文件(F)
+编辑(E）
+【打开项目（P）数据库结构（D）表(T)：画user
+过滤
+查看()
+工具 (T)
+【自保存项目（s）
+浏览数据(B)
+V
+username 过滤
+usriinlinwang
+帮助H）
+编辑杂注(R）
+热行SQL）
+民 t
+用
+Password_hash
+过滤
+zhouwenjie
+品
+过滤任何列
+过滤
+5d85b77d7d6dla76cd589c3ba21d1839b1d.
+Password_salt
+a3f8d9c2e1b4h7g6k9m2n5p8glr4t7w
+过滤
+config_data
+eiWAMs+bKTuvM+LIjYKPDur2z11ROx/IwzBAO-"，"ene_iy"："aiPH2Pt4zFG1dl9FrpK4Q="
+nickname
+过滤周文杰
+avatar_url
+过滤 NULL
+sta 过滤 onl
+编辑数据库单元格(C)
+模式：JSOH
+楼
+["enc key":"yI0JZciWANMs+bKTuVM+LIjYKPDur2zllR0X/YwzBA0=","enc_iv":"ajPN2Pt4zFYGldl9FrpK4Q=-"]

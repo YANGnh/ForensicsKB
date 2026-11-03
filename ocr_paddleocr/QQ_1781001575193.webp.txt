@@ -1,0 +1,31 @@
+# OCR: QQ_1781001575193.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781001575193.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+rootoubuntu:/db/tidb#history
+270 293 294 296
+zfs create db/tidb
+lxc-create lxc-create xc-create
+grep tidb
+-nmy-tidb
+download t
+-t
+download downLoad
+t
+distubuntu--releasenobel
+317 320 334 352 370 371 598 603 609 613 617
+lxc-startnytidb
+lxc-attach Lxc-attach lxc-attach lxc-device
+mytidb mytidb mytidb mytidb
+xc-info m
+/tidb
+cdtidb/
+-n tidb-n tidb
+--archamd64
+systemctl status tidb
+pingmytidb cd tidb
+history
+grep tidb
+--servermirrors.tuna.tsinghua.edu.cn/lxc-images
+-servermirrors.tuna.tsinghua.edu.cn/lxc-images-servermirrors.tuna.tsinghua.edu.cn/lxc-images

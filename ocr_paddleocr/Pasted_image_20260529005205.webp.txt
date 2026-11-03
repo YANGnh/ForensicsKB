@@ -1,0 +1,26 @@
+# OCR: Pasted_image_20260529005205.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529005205.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+原类型视图未删除记录 android
+catalystLo...
+文本视图
+key
+十六进制视图
+@pocketpal_ai/app_feedback_id AuthService
+UIStore HFStore
+BenchmarkStore
+ServerStore ModelStore
+RKStorage 三value
+850b6b00-36a9-49e2-a816-372ddb53f3fb("profile":null)
+当前 0/ 0
+搜索
+上一个
+下一个
+o
+X
+"pageStates":"modelsScreen":"filters":l,"expandedGroups":"ready to use":true,"available to download":true}l,"colorScheme":"dark","autoNavigatetoChat":true,"displa
+("useHfToken":true)("results":)
+("servers":l,"privacyNoticeAcknowledged":false,"userSelectedModels":l)
+("models":[{"id":"bartowski/gemma-2-2b-it-GGUF/gemma-2-2b-it-Q6_K.gguf","author":"bartowski","repo":"gemma-2-2b-it-GGUF","name":"Gemma-2-2b-it (Q6_K)","type

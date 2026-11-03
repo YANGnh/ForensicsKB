@@ -1,0 +1,15 @@
+# OCR: QQ_1781002475154.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781002475154.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+root@LxcNAME:/#cat/var/log/syslog/grep:4ooo/head-n1o
+Jun Jun Jun Jun Jun Jun Jun Jun Jun Jun
+810:24:25LXCNAMEtiUp[1951:-TiDB:10.0.3.100:4000
+810:24:35LxcNAMEtiup[195]:messagerepeated196times:［-TiDB:10.0.3.100:4000 8 10:24:37 LXCNAME tiUp[195]: -TiDB:10.0.3.100:4000
+810:25:07LxCNAMEtiup[195]:messagerepeated443times:［-TiDB:10.0.3.100:4000
+8 10:25:07 LXCNAME tiup[195]:-TiDB:10.0.3.100:4000 ... Done 8 16:05:57 LXCNAME tiup[186]: -TiDB: 10.0.3.100:4000
+816:06:05LxcNAMEtiup[186]:messagerepeated161 times:［-TiDB:10.0.3.100:4000 8 16:06:10 LXCNAME tiup[186]: -TiDB:10.0.3.100:4000
+8 16:06:36 LXcNAME tiup[186]: message repeated 570times:［-TiDB:10.0.3.100:4000
+8 16:06:36 LXCNAMEtiUp[186]:-TiDB:10.0.3.100:4000
+Done

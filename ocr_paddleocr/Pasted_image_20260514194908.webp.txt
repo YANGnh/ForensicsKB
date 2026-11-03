@@ -1,0 +1,31 @@
+# OCR: Pasted_image_20260514194908.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260514194908.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+208 209 210
+213 214 215 218 219 220 223
+234 238 244 235
+235 256 257 258 259 261 262 264
+private void parseDexPayload(byte[] payload) [
+BvteBuffer buffer = ByteBuffer.Wrap(pavload).order(BvteOrder.LITTLE ENDIAN) : int dexCount = buffer.qetInt(O):
+for (int i = o: i < dexCount: i++) ↓
+int nameLen = buffer.qetInt():
+byte[] nameBytes = new byte[nameLen]: buffer.get(nameBytes):
+int dataLen = buffer.getInt();
+byte[] dexData = new byte[datalen] : buffer.qet(dexData) :
+initDexFromMemory(dexData):
+privatevoid
+initDexFromMemory(byte[] dexBytes)
+try
+ByteBufferbyteBuffer=ByteBuffer.wrap(dexBytes):
+InMemoryDexclassLoader memoryDexLoader = new InMemoryDexclassLoader(byteBuffer, qetclassLoader(O)):
+mergeDexElements(getclassLoader(), memoryDexLoader); Log.i(TAG, "InMemory shell unpacking successful!");
+f catch (Exception e){
+Log.e(TAG, "InMemoryDexclassLoader failed: " + e.getMessage()):
+1
+private void mergeDexElements(classLoader pathclassLoader, classLoader dexclassLoader) {
+try
+class<?>baseDexcLclass = class.forName(dalvik.system.BaseDexclassLoader"):
+Field pathListField = baseDexCLclass.getDeclaredField("pathList"); pathListField.setAccessible(true);
+Object pathPathList = pathListField.get(pathclassLoader); Object dexPathList = pathListField.get(dexclassLoader); class<?> dexPathlistclass = pathPathlist.qetclassO:

@@ -1,0 +1,64 @@
+# OCR: QQ_1778764899062.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778764899062.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:51
+
+Download CyberChef + Operations
+XOR XOR
+XOR Brute Force
+XKCDRandomNumber Hex to Object Identifier Unicode Text Format
+Text Encoding Brute Force
+Lorenz Magic
+Favourites Data format
+Encryption / Encoding PublicKey
+Arithmetic / Logic
+Networking Language Utils
+Date/Time Extractors mn
+Recipe XOR Key
+729F140123 STEP
+Last build: A year ago - Version 1o is herel Read about the new features here
+Input
+2
+Scheme
+LATIN1
+Standard BAKE!
+Null preserving
+Auto Bake
+Options .
+L8*f[G WA*%=;**%*YST#**%0. ×+E0.1*9*
+"f%UWT"
++**j;*4**PWW"TF*QWT"JQ**8°
++"dYOYVZGhOTd*"*"=""fGTT Ff-V" B4=%*:>WRDP%T"
+,I9't*f'GUC[R[f'gwtpk+4wp'*;***+PW'*. .S
+uptu**+*4**++9f"Y Uw""dyaqfwz'tex r/*Vf%+43f%I*;***A\2EJAVA%*BL%4%*
+[RSK2nFQEWIZW/E[BC@L#>+AM#AkWAS
+hw*8dBXUTB1C@X%ZAV
+*,FK3T>"0=>
+dWD W@D*fJ>AM#AkWAS"**w*48%t dRU\^@ZRmA)PX****3f'I:L
+EE408
+=4
+Output
+"owner":
+"name"：“林小婉”，"age":32,
+"gender":"female","height cm": 163,"weight kg": 52
+"device":f
+"serial":"SGEBX2241A",
+"mac":"D8:3A:DD:72:9F:14""mode1": "HUAWEI WATCH GT 5"
+"settings":{
+"heart_rate_monitor"; true,"step_goal":8000,
+"sleep_tracking": true
+RE482
+= 23
+?6ms
+Name Size: Type:
+About / Support ?
+口日 File details
+FileSection 1.bin
+408bytes unknown
+Loaded:
+100%
+Tr Raw Bytes
+a石
+Tr UTF-8 (detected)
+ LF
+ LF (detected)

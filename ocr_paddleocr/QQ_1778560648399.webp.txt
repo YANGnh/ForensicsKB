@@ -1,0 +1,17 @@
+# OCR: QQ_1778560648399.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778560648399.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+三 nikto scan.txt.txt X
+pentest-lab >E nikto scan.txt.txt
+to show all files via 'open directory browsing'. Web Publisher should be disabled. See: cvE-1999-o269:
+13 14
+15 16 17
++ GET /?wp-cs-dump: The remote server may allow directory listings through Web Publisher by forcing the server to show all files via 'open directory browsing'. Web Publisher should be disabled. See: CvE-199g-0269:
+GET
+/////////////////////////////: Abvss 1.o3 reveals directory listing when multiple /'s are reguested. See: CVE-2892-1078:
++ GET /: X-Frame-Options header is deprecated and was replaced with the Content-Security-Policy HTTp header with
+the frame-ancestorsdirective.See:https://developer.moziila.org/en-us/docs/web/HTTP/Reference/Headers/ x-Frame-options :
++ GET /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of
+the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/ vulnerabilities/missing-content-type-header/:

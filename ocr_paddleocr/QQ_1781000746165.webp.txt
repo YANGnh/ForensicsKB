@@ -1,0 +1,94 @@
+# OCR: QQ_1781000746165.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781000746165.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+超级控制台
+首页口系统
+网站参教配置 SEO参数配置会员参数配置评论留言配置附件参数配置 AISEO配置 URL地址配置播放器参数配置采集参数配罩置站外入库配置
+Inspector
+Q Search HTML <!DOCTYPE htmL>
+回Console
+<html lang-"en"> (
+event
+scroll
+><head></head> <body?
+欢迎页面基本设置
+网站参数配置＆
+性能优化
+网站名称：网站域名：手机站域名：关键字：描述信息：备案号：客服QQ：
+DDebugger
+预留参数
+后台设置
+免费短视频分享大全－大中国
+www.2026fic.forensix wap.2026fic.forensix
+打破伽锁禁止起飞 icp1919810 4790286501
+++ Network
+<linkrel="stylesheet"href-"/staticnew//css/update.css"s <styletype="text/css">()</style)
+<div class-"layui-layout layui-layout-admin w-full">
+<diyclass="layui-header
+max-sm:!hidden
+maccmsToD
+><div class="layui-header header-top px-2"></div> <div id-"switchNav" class-"layui-side">
+html > body > div.layui-layout.layui-layout-admin.w-fu.
+D Run
+Top
+ Style Editor
+</div> (flex
+面
+@Performance Y Filter Output
+Memory
+Storage 吕
+@ MacCMS All Rights Reserved.
+Accessibility
+Y Filter Styles
+Pseudo-elements
+This Element element " {
+-W-full :*
+width: 100%
+blockguote,
+器Application
+HackBar
+:hov .cls
++
+更新
+Cookie-Editor
+C
+自
+tailwindcssoutput.css:1
+body, button, dd, div, dl, dt, erm, hi.
+h2, h3,h4， h5, h6,
+tet3e3
+input, i, el, P, pre, td.
+“中
+转
+margin:e:
+layui.css:25
+Errors
+Katakana Terminator: 522 new nodes were added, frame http://192.168.8.140/user.php/admin/index/welcome.html child object { length: e, prevobject: {-}, context: a
+回
+操作 Layout
+Flexbox
+简体中文 Computed
+包 Changes
+?
+其它的
+x
+Compatibility-
+Select a Flex container or item to continue  Grid
+CSS Grid is not in use on this page  Box Model
+margin
+Warnings
+LogsDebug
+Info
+e
+CSS XHR RequestsX
+Katakana-Terminator.user.js:254:17
+element. is :226: 25
+A Fingerprinting Protection is altering screen.availwidth and screen.availHeight. These values may not match your actual screen dimensions. This protection helps prevent websites building a fingerprint that can be used to track users. Learn more: https://support.mozilla.org/kb/firefox-prot ection-against-fingerprinting
+Katakana Terminator: 1 new nodes were added, frame http://192.168.8.140/user.php/adnin/system/config.html KatakanaTerminator:3newnodeswereadded,framehttp://192.168.8.14o/user.php/admin/index/index.html
+Katakana Terminator: 141 new nodes were added, frame http://192.168.8.14/user.php/admin/system/config.html
+child > object  e: dl.layui-nav-child  , length: 1, prevobject: {-}, context: a.nav-row - } child  object { e: dl.layui-nay-child o , length: 1, prevobject: {-}, context: a.nav-row - }
+<anonymouscode>:6161:7
+Katakana-Terminator.user. js : 254:17 Katakana-Terminator.user.js:254:17 Katakana-Terminator.user. js:254:17
+element. is : 226:25 element. is:226: 25

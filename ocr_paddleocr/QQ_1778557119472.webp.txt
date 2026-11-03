@@ -1,0 +1,48 @@
+# OCR: QQ_1778557119472.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778557119472.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+NoahTieoArkD/E/M/volatilitv3ongit:Gdevelop
+>python.lvol.py--filters"ImageFileName,(?:1PasswordiVeraCrypt)!"-f"Z:l刘洋lly-memdump.mem"windows.pslist Volatility3Framework2.28.1
+Progress:
+100.00
+PID
+10144 6720
+PPID 6024 6024
+ImageFileName VeraCrypt.exe 1Password.exe
+PDB scanningfinished
+Offset(V)
+0x948694bb0080 0x94869370a080
+Threads Handles SessionId
+14 32
+NoahTieArkD/F/M/volatility3ongit:develop
+python .\vol.py -f "Z:\刘洋\iy-memdump.mem"·
+1 1
+False True
+Wow64
+CreateTime
+ExitTime
+2026-04-2101:34:47.000000UTC 2026-04-2101:37:02.000000UTC
+windows.pslistSelect-String
+-Pattern1PasswordVeracrypt
+Progress:
+100.00
+10144
+6024
+VeraCrypt.exe 1Password.exe
+6720
+6024
+PDB scanningfinished
+0x948694bb0080 0x94869370a080
+14 32
+1 1
+False
+2026-04-2101:34:47.000000UTC
+True
+2026-04-2101:37:02.000000UTC
+N/A N/A
+N/A N/A
+File output
+Disabled Disabled
+Disabled Disabled

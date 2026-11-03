@@ -1,0 +1,48 @@
+# OCR: QQ_1780981411114.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780981411114.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+root@ubuntu:/home/mac# total 36
+drwx--
+dx-x-x-rw-
+-rw-n.-rw---rw-n
+，
+cruxrwxn
+crwxn rw-n-rw-rw--r-n n-n.
+xn
+mac root mac mac mac mac mac mac mac mac mac mac mac
+mac root mac mac mac mac mac mac mac mac mac mac mac
+root@ubuntu:/home/mac##!binzbash
+xhost +local:docker
+ls -la
+208 6 528 220 98 3526 14 10 807 3413 252 451 108
+cat
+xauth add $(xauth list :o)
+docker run -d
+--name u24
+Jun Apr Apr Apr Apr Apr Apr Apr Apr Apr Jun Apr Apr
+11 16 16 16 16 11 11 16 16
+16 16
+00:06 19:12 03:11 03:11 03:11 03:11 15:46 13:14 03:11 03:11 00:06 03:11 03:11
+.xinitrc
+--net=host
+t -y /sys/fs/cgroup:/sys/fs/cgroup:rw
+docker exec -u mac u24 startxfce4 docker exec u24 service ssh start
+infinit
+sleep
+.bash_history.bash_logout.bash_profile
+.bashrc.cache.local
+.profile.viminto
+.Xauthority.xinitrc
+.xinitrc_bak
+-p22:22
+--rm
+-e DISPLAY=:0
+--privileged
+- -cgroupns=host
+--device /dev/dri:/dev/dri
+--group-add vicen
+--group-add rencen
+-v/tmp/.x11-unix:/tmp/.Xx11-unix:rw
+-v /dev/shm:/dev/shm --device=/dev/inpu u22 tail -f /dev/null

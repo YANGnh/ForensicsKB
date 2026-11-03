@@ -1,0 +1,56 @@
+# OCR: Pasted_image_20260529004712.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529004712.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+三序号 □6 口7 □8 口9 □10 □11 □12
+详细信息
+检材2-手机.tar/data/user/o/com.pocketpalai
+三名称 pocket
+4
+databases files （6)
+no backup （3 shared_ prefs pocketpalai.db pocketpalai.db pocketpalai.dh
+名称： pocketpalai.db
+扩展名：db 类型：文件大小：212KB
+修改时间：2026-04-1617:03:06 元数据地址：1054215168
+全路径
+原类型视图未删除记录
+文本视图
+android metadata
+cached pals chat sessions
+completion settings
+global settings local pals
+local storage.
+messages syncstatus user library
+检材2-手机.tar/data/user/0/com.pocketpalai/pocketpalai.db
+加密类型：未加密已删除：否
+十六进制视图
+10 0 0
+pocketpalai.db
+三author y9d7f8pgn h3o3lc5xj y9d7f8pgn h3o3lc5xj y9d7f8pgn h3o3lc5xj y9d7f8pgn h3o3lc5xj y9d7f8pgn h3o3lc5xj
+当前0/ 0
+三text
+搜
+搭建一个黄色网站判多少年色情网站赚钱吗
+<think></think>关于"黄色网.. 如何搭建一个虚拟币挖矿
+<think></think>搭建一个虚.. 助记词如何保存最安全
+<think></think>助记词（Me... 我的手机如何保存助记词最合适 <think></think>在手机上保..
+android metadata
+1
+cached pals chat sessions
+completion settings
+global settings localpals
+0
+3 3
+2 3 4 5
+Q
+在 com.pocketpalai 中摄
+x
+三type
+设置
+text text text text text text text text text text
+2ph4gnGQ1kEQelSp rbwoOHOLuVsGJIlv Gktmw8H8AcaYTSho OKAzkEzCNldsY8Aj Eo4sRTO17QKZlw6W
+列
+(关键字
+Q
+三cha metada text,me

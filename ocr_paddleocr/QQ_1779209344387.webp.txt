@@ -1,0 +1,16 @@
+# OCR: QQ_1779209344387.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779209344387.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+数据中心(pgscup2026）
+pve-node1 100(web)
+localnetwork (pve-node1)
+ Ceph_pgscup_pool (pve-node1) local(pve-node1)
+local-lvm(pve-node1) pve-node2
+localnetwork (pve-node2)
+ Ceph_pgscup_pool (pve-node2) local (pve-node2)
+local-lvm(pve-node2)） pve-node3
+localnetwork (pve-node3)
+Ceph_pgscup_pool (pve-node3) local (pve-node3)
+local-lvm(pve-node3)

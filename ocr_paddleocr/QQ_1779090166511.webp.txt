@@ -1,0 +1,20 @@
+# OCR: QQ_1779090166511.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779090166511.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+root@pve-nodel:/etc/network# seryice sshd status  ssh.service - OpenBsD Secure shell server
+Loaded:loaded(/usr/lib/systemd/system/ssh.service;enabled;preset:enabled)
+Active: active (running) since Mon 2o26-05-18 15:15:20 CsT;27min ago Inv0cation:ab96338eee554e698e5783eb7374af37
+Docs: man:sshd(8)
+man:sshd_config(5)
+Main PID: 1011 (sshd)
+Tasks:1 (limit:4546; Memory:6M（peak:8.2M)
+CPU: 62ms CGroup：
+/sustem.slice/ssh.seryice
+Lieii""sshd: 7usr/sbin/sshd -D [listener]  of 10-100 startups"
+May 18 15:15:2o pve-node1 systemd[1] : starting ssh.service - OpenBsD Secure Shell server..
+May 18 15:15:20pve-node1 sshd[1011]:Serverlistening on 0.0.0.0port 22. May 18 15:15:2o pve-node1 sshd[1011]: Server listening on :: port 22.
+May 18 15:15:2o pve-node1 systemd[1] : started ssh.service - penBsD Secure shell server.
+May 18 15:33:46 pve-node1 sshd-session[5692]: Accepted password for root from 192.168.0.1 port 629o8 ssh2
+May 18 15:33:46 pve-node1 sshd-session[5692]: pam_unix(sshd:session): session opened for user root(uid=0) by root(uid=0

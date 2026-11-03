@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260519115155.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519115155.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
+private final byte[ decryptAesGcm(byte[] encryptedData, byte[] key) +
+try {
+if（encryptedData.length28）
+Log.e("VaultDataLoader', "Encrypted data too short"): return nuul;
+1
+byte[ iv = ArraysKt.copyofRange(encryptedData, o, 12);
+byte[] tag = ArraysKt.copyofRange(encryptedData, encryptedData.length - 16, encryptedData.length) ; byte[] ciphertext = Arrayskt.copyofRange(encryptedData,12,encryptedData.length - 16);
+cipher cipher = cipher.getInstance("AEs/GcM/NoPadding"); SecretKeySpeckeySpec=newSecretKeySpec(key,"AEs"): GcMParameterSpec gcmSpec = new GcMParameterSpec(128, iv); cipher.init(2，keyspec,gcmspec);
+return cipher.doFinal(ArraysKt.plus(ciphertext,tag)):
+fcatch(Exceptione)
+Log.e("VaultDataLoader", "AEs-GcM decryption error:  + e.getMessage()); return nuil;
+1

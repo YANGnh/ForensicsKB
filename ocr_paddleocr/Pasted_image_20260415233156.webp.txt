@@ -1,0 +1,13 @@
+# OCR: Pasted_image_20260415233156.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415233156.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+163 164 165 166 167 168 169 170 171 172 173 174 175 176
+//Token:0x06000059RID:89RvA:0x00003798Fi1e0ffset:0x00001998
+public static string 9wp6DW38pEGrxGQEOQkzV4F6DVSJViAZDNds09gtbzZBQrydyd059AgNPuLYcnNJjNwBFhzo8yNTCla0PH4fLXTZ1HK(
+string text: try
+text = new indowsPrincipal(indowsIdentity.GetcurrentJ.IsInRole(windowsBuiltInRole.Administrator).Tostring)
+catch (Exception ex.
+text = "Error":
+returntext

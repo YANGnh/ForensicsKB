@@ -1,0 +1,21 @@
+# OCR: QQ_1778832657167.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778832657167.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+H Save Local
+1 2 3 4
+ Query Builder  Beautify SQL （) Code Snippet Ask Al
+dataanalyze
+ Run   Stop
+SELEcT @row_idx := @row_idx + 1 AS rn，^资产 （人民币）
+FROM '0OW',
+(SELEcT @row idx := ） r
+ORDER BY丶资产（人民币） LIMIT1OFFSET999999:
+MessageSummary
+Data rn
+Info
+Result 1
+资产 (人民币)
+1002541.17
+早: Explain

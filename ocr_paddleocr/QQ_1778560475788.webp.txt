@@ -1,0 +1,14 @@
+# OCR: QQ_1778560475788.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778560475788.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+NoahTie@ArkD/C/F/渗透
+strings.lexploitgrep".c"
+Strings v2.54 - Search for ANsI and Unicode strings in binary images.
+Copyright(c)1999-2o21MarkRussinovich Sysinternals-www.sysinternals.com
+libc_start_main cxafinalize
+libc.so.6 Scrt1.o crtstuff.c
+deregister_tm_clones exploit.c
+libc_start_main@GLIBc_2.34 cxa_finalize@GLIBc_2.2.5
+.dynamic.comment

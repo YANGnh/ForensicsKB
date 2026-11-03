@@ -1,0 +1,64 @@
+# OCR: QQ_1779091006962.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779091006962.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+192.168.0.50 - WindTerm
+会话
+编辑
+搜索
+资源管理器筛选
+选择　转到
+查看模式　工具　窗
+×
+powershell 617 192.168.0.50
+文件管理器
+/root/ 名称
+local.ssh
+区
+bash_history
+bashrc forward lesshst profile rnd
+8
+项 1.8 KB
+口就绪
+x
+修改 2026 2026 2026 2021 2026 2026 2021 2026
+?@
+≥ 1.powershell 617
+[15:44:49][15:44:49] 15:44:497[15:44:49][15:44: 491[15:44:49][15:44:49] 115:44:49[15:44:49][15:44:49]
+1日 2 3 公 5 6 7 8 9 10
+帮助
+2.192.168.0.50
+ssh
+x
+openssh sessions
+r***@192.168.0.50
+LinUx pVe-n0de1 6.17.2-1-pVe #1 SMP PREEMPT_DYNAMIC PMX 6.17.2-1 (2025-10-21T11:55Z)
+The programs included with the Debian GNu/Linux system are free software: the
+exact distribution terms for each program are described in the individual files in /usr/share/doc/*/copyright.
+Debian GNU/LinUx comes with ABSoLUTELY NO WARRANTY, to the extent  permittedby applicableLaw.
+Last 1ogin: Mon May 18 15:33:46 2026 fr0m 192.168.0.1 root@pve-nodel:~#
+远程模式
+窗40×98
+行 10 字符 18
+linux
+x86_64
+2026/5/1815:56
+Q
+户隧道会话
+筛选
+口
+X专注模式
+Openssh
+sessions
+1.94.235.210
+1.94.235.210(1) github.com
+X x
+n***@192.168.50.128 Noahserver
+r***@192.168.30.128 r***@192.168.50.136
+r***@192.168.0.50 Shell sessions
+历史命令筛选
+WindTermIssues
+0
+x
+x 锁屏

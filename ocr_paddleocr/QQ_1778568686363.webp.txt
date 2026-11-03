@@ -1,0 +1,37 @@
+# OCR: QQ_1778568686363.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778568686363.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+SEARCH Apache Replace
+C
+Aaab
+AB
+7 results in 4 files - Open in editor Search with Al
+渗透测试报告192.168.61.135.
+回
+.**技术栈识别**：PHP+SQLite+ Web服务器：Apache
+渗透测试报告192.168.61.142.
+限制上传目录的执行权限（如Ap. 通讯录管理系统漏洞清单.md
+，**漏洞描述**：Apache目录列表功
+，**Web服务器**：Apach...
+x
+2.**80/tcp**-HTTP (Apache2.4.66. Enikto_scan.txt.txtpentest-lab
++GET//:ApacheonRedHatLinux
+ file_shell.php
+通讯录管理系统漏洞清单.md×
+通讯录管理系统漏洞清单.md >abc #通讯录管理系统漏洞清单>abc ##系统信息
+1 90 100 10 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118
+#通讯录管理系统漏洞清单##攻击链示例
+###最小攻击路径：
+XWCUS##系统信息
+次时切
+**操作系统**： Debian 12
+**内核版本**：6.1.0-44-amd64**Web服务器**：Apache/2.4.66**PHP版本**：8.2.30
+**数据库**：SQLite 3.40.1
+**运行用户**：www-data##开放端口
+**22/tcp** - SSH (OpensSH 9.2p1）
+2
+**80/tcp** － HTTP（Apache 2.4.66）－ 通讯录管理系统
+．**8000/tcp** － HTTP （Uvicorn）－ AI外呼系统API　 3.
+修复建议优先级

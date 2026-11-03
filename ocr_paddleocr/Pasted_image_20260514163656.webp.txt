@@ -1,0 +1,20 @@
+# OCR: Pasted_image_20260514163656.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260514163656.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+private byte[ decrypt(byte[] data, string keystr) {
+try
+byte[] key = sha256(keystr.getBytes()); byte[] iv = new byte[16]:
+System.arraycopy(data, o, iv, o, 16);
+byte[] ciphertext = new byte[data.length - 16];
+system.arraycopy(data,16,ciphertext,o,ciphertext.length):
+byte[] ivAndKey = new byte[iv.length + key.length]; System.arraycopy(iv,o,ivAndKey,o,iv.length);
+system.arraycopy(key,o,ivAndKey,iv.length,key.length) byte[] keystream = sha256(ivAndKey);
+byte[] result = new byte[ciphertext.length]; for (int i = o: i < ciphertext.length: i++) {
+int b = ciphertext[i] & UByte.MAX_VALUE:
+result[i] = (byte) (((((b - (key[i % 32] & UByte.MAX_VALUE)) + 256) % 256) ^ (key[(i + 7) % 32] & UByte.MAX_VALUE)) ^ (keyStream[i % keyStream.length] & UByte.MAX_VALUE)); return result;
+} catch(Exception e)
+子
+子
+return nuil;

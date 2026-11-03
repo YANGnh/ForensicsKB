@@ -1,0 +1,94 @@
+# OCR: QQ_1781005967545.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781005967545.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+ImageCat
+File
+View
+- open
+Mode
+Help
+日Export
+ Evidence Tree 检材4-U盘.E01• $Extend
+田Hash[image.ewf]
+ System Volume Information 自 Properties
+Name Path Size MD5
+SHA-1 SHA-256
+SampleVC.exe/SampleVC.exe 120.5KB
+764 789 dd9 c095 d74b66258 c f0 f7 56862
+a368c43fa69e25172aaabe73d99 cc04fbe15e211
+b1db1a15ab5a6047a7aea1737f7 114a9eacaf082b04e46e13f31c3 02e304d4d9
+Hashes computed for SampleVC,exe
+• Mount
+ Unmount
+目 File List — /
+Name  $Extend
+ System Volume Information
+目 $AttrDef 目 $BadClus 目 $Bitmap 目 $Boot 目 $LogFile 目SMFT 目$MFTMirr 目 $Secure 目 $UpCase 目 $Volume
+目 SampleVCexe 目vc
+Text
+Hex
+@1
+00000000 00000010 00000020 00000030 00000048 00000050 00000060 00000070 00000088 80000098 000000AO 000000BO
+4D B8
+OE 69 74 6D 87 CA D2 D2
+5A 1F 73 20 6F 65 7 82 82
+@2 90 Q
+BA 20 62 64 62 9F OF@9
+t Up
+93 Q Q
+QE 70 65 65 OB 58 59 59
+@4 03 00
+Q Q 72 20 2E C3 CD C7 D9
+ Refresh
+95 Q Q Q
+B4 6F 72 OD 04 04@4@4
+96 Q
+09 67 75 OD oc oc oc ec
+07 Q 0Q
+CD 72 6E A 58 58 58 58
+ZA检材4-U盘.E01
+98 04 40
+Q 21 61 20 24 c3 D2 D2 88
+99 Q 0Q
+B8 6D 69
+04 82 82 7C
+A Q Q
+91 20 6E
+oc OD 98 eD
+OB 00 00
+Q 4C 63 20 Q 58 59 59 59
+oc FF 0Q Q Q CD 61 44 Q C3 C5 c9 CA
+eD FF
+01 21 6E
+Type Directory Directory
+File File File File File File File File File File File File
+OE 0Q 0Q
+54 6E
+4F
+53
+04 04@4@4
+oc oc oc ec
+OF Q Q Q 68 6F 20 Q 58 58 58 58
+ASCII MZ
+is
+x
+@
+.L.!Th
+program
+be
+mode.
+run
+in
+canno DOS
+. $.
+--
+.eb....X...X...X.1.X...X...Y...X...Y...X...Y...X...Y...X.I.Y...X
+Size 2.5KB OB 1.8MB 8.0KB 64.0 MB 256.0 KB 4.0 KB OB
+128.0 KB
+OB 120.5 KB 10.0 MB
+Modified
+口
+x
+image.ewf14 items

@@ -1,0 +1,15 @@
+# OCR: QQ_1780897976230.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780897976230.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+1
+A检材1-计算机.E01
+三序号口1
+三名称记事本
+语音记事本
+快捷方式非桌面
+三简单描述 voice
+Voice Notes is a li..
+三类型过滤
+Application

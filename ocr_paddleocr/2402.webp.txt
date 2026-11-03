@@ -1,0 +1,26 @@
+# OCR: 2402.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/2402.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+zaoqiwang@zaoqiwang:
+X
+s://oapi.dingtalk.com/robot/send?accesstoken=50086d0ccb6473b7c92f6209287fefa41d3df739029c7b82b24828596656386fl"l"enabl eSign\":true,\"secret\":\"sEC8bed98a315ebc03fb6f68a5873958ad70f172df19142b549d430299542a9f9e3\"\"botToken)":\"\",
+I"chat
+Idh:hhhapiBaseurth:
+hproxyUrlh:hdevicekeyh:h
+"serverurl"："""levei"：ll"
+"soundi:Ih
+"gr
+oup}":\"\",\"host\":\"}",\"port\":nuil,\"secure\":false,\"user\":\"\",\"pass\":\"\",\"from\":\"\",\"to\":\"}",\"timeout\":null,"ignoreTLs\":false,"id\":|"3a562dd9-7665-4231-b5c3-7f73ff93ccf6\",|"enabled\":true,"createdAt\":|"2026-04-01T1 0:58:58.398z\",|"updatedAt\":|"2026-04-02T10:34:08.063z\"}],|"notificationTypes|":{|"accountAnomaly\":true|"quotawarnin g\":true,"systemError\":true,\"securityAlert\":true,\"rateLimitRecovery\":true,\"test\":true,"retrySettings|":{"maxR etries|":6,|"retryDelay\":1000,\"timeout\":114514},|"createdAt\":\"2026-04-01T10:57:12.673z\"\"updatedAt\":\"2026-04-02 T10:34:08.065Z1"1"
+127.0.0.1:6379>HGETALLusage:global:total
+1)"requests" 2）"26″
+3）"inputTokens" 4)"66265"
+5)"outputTokens" 6）"4028"
+)"cacheCreateTokens" 8）"0"
+9)"cacheReadTokens" 10）"403904"
+11) 12)
+"allTokens""474197"
+13）"ephemeral5mTokens" 14）"0"
+15)"ephemeral1hTokens" 16）"0"
+127.0.0.1:6379>

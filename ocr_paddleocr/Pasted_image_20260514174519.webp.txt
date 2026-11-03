@@ -1,0 +1,29 @@
+# OCR: Pasted_image_20260514174519.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260514174519.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+/*JADx INF0:loaded from: D:pangu_pre/20260510125713u res/1 unpack 0x763892a7do00_0x658c.dex * pubiicclassKeyDeriver[
+private static final int KEY_LENGTH = 256: privatestaticfinal int
+PBKDF2_ITERATIONS
+s = 10000:
+private staticfinal String TAG : "DB_DEBUG": private Context context:
+public KeyDeriver(Context context) {
+this.context = context;
+1
+public string deriveKey() {
+try
+string signatureHash = getAppsignatureHash() :
+string saltl = getsSaltParti(): String salt2 = getsaltPart2(); string salt3 = getsaltPart3();
+Log.d(TAG, "Salt verification:
++ salt:
+stringcombinedseed=signatureHash+saltl+salt2+salt3
+PDEUOuC
+amhinadeaadtahann
+DRYDE2 TERATIONS
+SecretKeyFactory factory = SecretKeyFactory.getInstance("pBKDF2WithHmacsHA256");
+bytejkeyBytes = factory.qeneratesecret(spec).qetEncodedO) Stringfinalkey:bytestoHex(keyBytes):
+saveKeyChecksum(finaKey): return finalKey:
+} catch (Exception e) {
+Log.e(TAG, "Key derivation failed, using fallback'): return"f4l18ack_k3y_2024_pr3d1ctor"
+256);

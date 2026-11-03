@@ -1,0 +1,19 @@
+# OCR: QQ_1779211057977.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779211057977.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+rootopve-nodel:#systemctzzist-unitsgrepceph
+var-ib-ceph-osd-cephix2do.mount ceph-crash.service
+.ceph-mgropve-nodel.service ceph-mon@pve-nodei.service  ceph-osdoo.service
+system-ceph x2dmgr.slice system-ceph x2dmon.siice system-cephx2dosd.siice
+system-ceph x2dvolume.slice
+ceph-fuse.target ceph-mgr.target ceph-mon.target ceph-osd.target ceph.target
+Loaded active loaded active loaded failed loaded active loaded failed loaded active loaded active loaded active loaded active loaded active loaded active loaded active loaded active loaded active
+mounted running failed running failed active active active active active active active active active
+/var/zib/ceph/osd/ceph-0 Ceph crash dump coilector
+Ceph cluster manager daemon Ceph cluster monitor daemon
+Cephobjectstoragedaemonosd.o
+slice/system/ceph-mgr slice /system/ceph-mon slice/system/ceph-osd
+slice/system/ceph-volume
+ceph target allowing to start/stop azl ceph-fuseo.service instances at once. ceph target azlowing to start/stop azl ceph-mgr@.service instances at once ceph target allowing to start/stop azl ceph-mono.service instances at once ceph target azlowing to start/stop azl ceph-osd@.service instances at once ceph target ailowing to start/stop aiz ceph*o.service instances at once

@@ -1,0 +1,93 @@
+# OCR: Pasted_image_20260511181529.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511181529.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+：无标题.png-IrfanView (Zoom:1192x671)
+File
+Edit
+Image
+X
+Options
+X pvenode1 - Proxmox Virtua
+→
+C
+View
+Help 62.1
++
+pve-node2 - Proxmox Virtual
+Q
+个个
+? M
+X pwe-node3 -Praxmox Virtual
+x
+htps://pve-node01.pgscup:8006/#v1:0:18:4
+o不安全
+XPROXMOX Vitual Environment 9.1.1
+服务器视图
+v数据中心（pgscup2026)
+opve-node1 opve-node2 Fopve-node3
+任务
+集群日患
+开始时间小
+四月1921:03:22 四月1920:58:06 四月1920:58:02 四月1919:57:17 四月1919.21:18
+015*c 明朗
+结秉时间
+四月1921:03:23 四月1920:58:06 四月1920:58:02 四月1919：57:21 四月1919.21:39
+1920 x 1080 x 32 BPP
+2/2
+数据中心 Q搜概要口备注集群  Ceph 选项存储日备份复制权限品用户 BAPI牌 Q二次验证警群组资源池 +角色国领城  HA  SDN 区城&VNets
+节点
+pve-node1 pve-node1 pve-node3 pve-node2 pve-node1
+62%
+用户名
+类别个 II zone I zone I zone Eo node Po node o node Qqemu storage storage storage storage storage storage storage storage
+ storage
+root@pam root@pam root@pam root@pam root@pam
+203.41 KB / 7.91 MB
+说明
+localnetwork (pve-node1) localnetwork (pve-node2) localnetwork (pve-node3)
+pve-node1 pve-node2 pve-node3 100 (web)
+1?后台管理
+搜索
+磁盘使用率。 60.3% 49.4% 49.7% 0.0%
+Ceph_pgscup_pool (pve-nod.
+local (pve-node1) local-Ivm (pve-node1)
+Ceph_pgscup_pool (pve-nod. local (pve-node2)
+local-ivm (pve-node2)
+Ceph_pgscup_pool (pve-nod. local (pve-node3)
+local-lvm (pve-node3) 说明
+VM100-启动
+批量启动虚拟机和客器批量启动度拟机和容器
+更新软件包数据库更新软件包数据库
+出
+Q接索
+2026/5/11/18:13:42
+4.6% 60.3% 0.0% 4.6% 49.4% 0.0% 4.6% 49.7% 0.0%
+内存使用率。 33.4% 67.5% 64.6% 26.0%
+×-+ CPU利用率 8.2%of8. 9.5% of4. 8.4%of4. 10.4% of4
+运行时间 02:32:01 06:16:49 02:32:05 02:26:19
+--
+主机CPU 5.2%of8
+主机内存使 17.2%
+VC容器密钥文件
+C
+苗
+回
+9
+标签
+盈文植
+口创建透拟机搜素：状态 oK oK oK
+创建 CT
+☆
+批量操作
+0?
+X x
+root@pamv@精动
+A >
+普误; command'apt-get upd. 赠误：command'apt-getupd.
+A
+G
+英
+>
+23:29 2026/4/19

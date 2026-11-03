@@ -1,0 +1,22 @@
+# OCR: Pasted_image_20260529005030.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529005030.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+原类型视图未删除记录
+android downloads roommas..
+文本视图
+三序号
+十六进制视图 id
+downloads.db
+三url
+e0bb615b-71f8-49ad-b7dd-69...
+当前0/0
+搜索
+上一个
+https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q8_0.gguf
+下一个
+a
+destination
+X 设置
+/data/user/0/com.pocketpalai/files/mc列

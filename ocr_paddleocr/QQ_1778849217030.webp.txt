@@ -1,0 +1,28 @@
+# OCR: QQ_1778849217030.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778849217030.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+rootepve-node1:/etc# puenode cert info
+filename
+fingerprint
+subject issuer
+notbefore notafter
+public-key-type public-key-bits san
+filename
+fingerprint
+subject issuer notbefore notafter
+public-key-type public-key-bits san
+pue-root-ca.pem
+F7:2C:A0:09:A3:C8:D1:21:6E:8D:3A:13:C6:6B:29:94:B3:59:09:91:DA:64:C4:F1:89:34:EB:4E:AE:24:2A:8C/CN=ProxmoxVirtualEnuironment/0U=8e6727fc-6bc8-4b37-9925-8cfae71f875b/0=PVECluster ManagerCA/CN=Pr0xmoxVirtua1 Enuironment/0U=8e6727fc-6bc8-4b37-9925-8cfae71f875b0=PVE ClusterManagerCA
+2026-04-15 20:06:11 2036-04-1220:06:11 rsaEncryption
+4096［
+pue-ssl.pem
+FD:11:CE:E9:2D:1A:74:2E:A4:C6:AC:11:F8:C3:31:76:1D:DE:E7:00:D5:FD:A0:EC:16:B4:78:5F:CB:7C:46:09/ou=PvEClusterNode/o=ProxmoxVirtualEnuironment/CN=pue-node1
+/CN=ProxmoxVirtua1Enuironment/0U=8e6727fc-6bc8-4b37-9925-8cfae71f875b/0=PVEClusterManager CA
+2026-04-1512:42:00 2028-04-1412:42:00
+rsaEncryption 2048
+127.0.0.1
+0000:0000:0000:0000:0000:0000:0000:0001 localhost
+192.168.0.50 pve-node1
+rootepue-node1:/etc#aa

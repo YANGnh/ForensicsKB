@@ -1,0 +1,20 @@
+# OCR: Pasted_image_20260519130540.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519130540.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42v 43 44
+package com.jinritoutiao.news.crypto; import android.util.Base64;
+importandroidx.compose.ui.tooling.preview.AndroiduiMode2: import kotlin.Metadata:
+import kotlin.jvm.internal.Intrinsics: import kotin.text.charsets;
+/* JADx INFo: compiled from: NativeCrupto.kt */* JADX INFo: loaded from: classes5.dex *
+0Metadata(d1 =(ou0000.n/u0002/u0018/u0002n/u0002/u0010/u0000/nlu0002/b/u0003/nlu0002/0010 publicfinal class NativeCrypto{
+public staticfinal int sstable = o;
+public static final NativeCrypto INsTANcE =new NativeCrypto();
+public final native String debugGetPinHash(string pin): public final native byte[] decrypt(string ciphertext);
+public final native byte[] decryptchacha2o(byte[] ciphertext,byte[] key); public final native byte[] decryptWithKey(byte[] ciphertext, byte[] key); public final native byte[] encrypt(byte[] plaintext);
+public final native byte[] encryptchaCha2o(byte[] plaintext, byte[] key); public final native string encryptwithkey(byte[] plaintext, byte[] key);
+public final native boolean isSecurityBypassEnabled(); public final native boolean isSecurityTriggered();
+publicfinalnativebyte[]pbkdf2(stringpin,byte[]salt,intiterations,intkeyLen); public final native int securityCheck();
+public final native void setSecurityBypass(boolean enabled);
+public final native boolean verifyPin(string pin); private NativeCrypto() {

@@ -1,0 +1,24 @@
+# OCR: QQ_1780631180331.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780631180331.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+2
+A检材1-计算机.E01>
+三序号口1 □2 口3 口4 口5 口6 口7 口8 口9 口10 11
+三名称 AI
+UOSAI
+Thumbnail List Thumbnail Grid
+Stairs Stairs
+Mountain Mountain Foxmail
+Deepin Al Daemon
+Braid Braid
+快捷方式
++
+三简单描述
+过滤 uos-ai
+Escher's infinite st... Escher's infinite st... Generates random... Generates random... Foxmail Client on ... DEEPIN AI DAEMON Inter-braided conc... Inter-braided conc...
+三类型过滤
+Application
+Service Service
+Application Application Application Application Application Application Application Application

@@ -1,0 +1,24 @@
+# OCR: QQ_1778830146387.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778830146387.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Objects 吕 Save Local
+1 2 3 4 5
+oOw @dataanalyze (Local)- Table
+出现电话号码最多的后四位@dataanal.
+ Query Builder ※ Beautify SQL （) Code Snippet Ask Al
+dataanalyze
+> Run   Stop :Explain
+SELECT SUBSTRING（'电话'， -4） AS 1ast4， COUNT(*） AS cnt
+FROMOOW
+GROUP BY last4
+cntDESc
+ORDER BY LIMIT
+10;
+Message Summary
+Data last4 2133 3309 6619 7219 8369 9763 6568 2255 5168 0389
+Info
+cnt
+Result 1
+251 250 248 248 248 247 247 247 247 246

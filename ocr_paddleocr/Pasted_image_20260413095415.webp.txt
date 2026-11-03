@@ -1,0 +1,25 @@
+# OCR: Pasted_image_20260413095415.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413095415.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+Product: "oriole"
+Tags: "release-keys"
+Model:"pixel 6" SDK:"34"
+VersionRelease:"14' Device: "oriole"
+Display:"AP1A.240505.004' Brand:"google"
+"oriole"
+Board:
+FingerPrint:"g00gle/oriole/oriole:14/AP1A.240505.004/11583682:user/release-keys"
+ID:"AP1A.240505.004" Manufacturer:"Google" User: "android-build" Networkoperator:
+Line1Number:"12135224143"
+cPuABI:"arm64-va,armeabi-v7a,armeabi Hardware:"oriole",
+BootLoader: "slider-1.3-11403664 Serial: "unknown"
+MemoryTotal:118396899328 MemoryAvai1:103259033600
+wifiMac:"02:00:00:00:00:00"
+BluetoothMac："o2:oo:0o:0o:@o:@o"
+"1775182814"
+BootTime:
+SysRunTime:"23362348" MEID:
+IMSI:［], IMEI：［], ICCID：[] Number:[1
+bluetoothHistory:「

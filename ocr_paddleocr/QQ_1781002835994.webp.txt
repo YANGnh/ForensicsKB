@@ -1,0 +1,36 @@
+# OCR: QQ_1781002835994.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781002835994.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+root@LxCNAME:~/.tiup#tiup
+status
+Name Args
+Component
+vGevyfsplayground
+PID 11861
+status TERM
+Created Time
+2026-04-13T08:51:39Z
+Directory
+/root/.tiup/data/vGevyfs
+v7.5.0
+--host0.0.0.0
+/root/.tiup/components/playground/v1.16.4/tiup-playground VGfuqonplayground2o9
+/root/.tiup/data/vGfuqon
+RUNNING
+2026-04-13T12:53:27Z
+/root/.tiup/components/playground/v1.16.4/tiup-playgroundv7.5.0
+--host0.0.0.E
+aamac
+playground
+187
+RUNNING
+2026-06-09T05:14:53Z
+/root/.tiup/components/playground/v1.16.5/tiup-playground
+/root/.tiup/data/aamac
+v7.5.0
+-db
+tagaamac
+Binary
+/root/.tiup/components/playground/v1.16.4/tiup-playground/root/.tiup/components/playground/v1.16.4/tiup-playground/root/.tiup/components/playground/v1.16.5/tiup-playground 1--pd 1--kv1 --host0.0.0.0

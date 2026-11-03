@@ -1,0 +1,69 @@
+# OCR: QQ_1779868990394.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1779868990394.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+Input Filename Modified
+URL Content Type
+File Size
+Last Accessed
+ExpireTimeServerNameServerResponseWebSite
+Cache Control
+ETag
+ServerIpAddress
+URL Length
+&ie=utf-8&wd=%E6%94%B6%E8%B4%AD%E9%BB%84%E9%87%91.htm
+Record Created TimeServer TimeServerLast
+Frame
+Deleted File
+Content Encoding
+Cache Name
+1/o/dkhttps://baidu.comhttps://baidu.com
+https://www.baidu.com/s?&ie=utf-8&wd=%E6%94%B6%E8%B4%AD%E9%BB%84%E9%87%91
+13:12:20
+2026/4/1613:12:20
+3f4fad4a969648350
+private
+ABC572
+3
+Output
+Filename Modified
+URL Content Type
+2026/4/1613:12:20
+127.0.0.1 File Size
+117 No
+Last Accessed
+text/html
+BWS/1.1 HTTP/1.1 200 OK
+270,8252026/4/16
+br
+Tr Raw Bytes
+LF
+RecordCreatedTimeServerTimeServerLast
+ExpireTimeServer Name Server Response web Site
+Cache Control
+ETag
+ServerIpAddress
+Frame
+URL Length Deleted File
+ContentEncoding
+Cache Name
++&ie=utf-8&wd=收购黄金.htm
+收购黄金
+dkhttps://baidu.comhttps://baidu.comhttps://www.baidu.com/s?&ie=utf-8&wd
+270.8252026/4/161312:20
+2026/4/1613:12:202026/4/1613:12:20
+br3f4fad4a969648350
+RBC
+508
+private
+127.0.0.1
+117 No
+DW.
+text/html
+HTTP/1.1 200 OK
+?
+1ms
+1/0/
+TT UTF-8
+CR

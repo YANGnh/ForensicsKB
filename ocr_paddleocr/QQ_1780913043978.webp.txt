@@ -1,0 +1,9 @@
+# OCR: QQ_1780913043978.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780913043978.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+隐写术解密
+解密结果:baidumima:110@gg.com
+确定
+X

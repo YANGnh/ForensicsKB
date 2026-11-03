@@ -1,0 +1,36 @@
+# OCR: QQ_1779727347786.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779727347786.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:55
+
++ 1Password.rar - Bandizip (Standard)
+文件(F)编辑(E)查找(U)选项(O)视图(V)工具(T)帮助(H)
+回
+音
+打开
+ 1Password.rar
+1Password
+解压
+引新建名称
++ 添加
+1password.brain.exe*
+ 1password.dll* 1Password.exe*
+XchromeManifest.json* X FirefoxManifest.json*
+删除
+测试
+扫描压缩后大小 1,651,984 3.069,952 1.806.192
+336 160
+查看
+原始大小 3,524,944 10.206,544 5.337.600
+634 219
+代码页类型
+应用程序
+应用程序扩展应用程序
+JSON Source File JSON Source File
+团队重要信息可以使用1password进行加密，打开密码可以统一设置为姓名全拼@4位数字
+眸
+修改日期
+口
+2019/9/16 15:15:42 2019/9/16 15:15:42 2019/9/11 5:11:08 2019/9/16 15:15:42 2019/9/16 15:15:42
+X 器
+文件：5,文件夹：1.压缩文件大小：6.22MB

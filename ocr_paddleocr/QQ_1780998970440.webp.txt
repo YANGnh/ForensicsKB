@@ -1,0 +1,28 @@
+# OCR: QQ_1780998970440.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780998970440.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+localhost_3306 - Edit Connection (MySQL)
+Connection Profiles Main Profile (Active)
+Test Connection
+URI..
+GeneralAdvanced  Use SSH tunnel
+Host: Port:
+User Name:
+Databases Navicat
+SSL
+SSH
+192.168.0.140
+22 root
+Authentication Method: Password:
+Password 000
+HTTP
+Remarks
+ssH Server
+?
+ Save password
+Database
+OK
+Cancel
+X

@@ -1,0 +1,11 @@
+# OCR: Pasted_image_20260529022101.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529022101.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+.text:99999999999912F9.text:99999999999912F4.text:99999999999912F8.text:99009009900912F0.text:999999999999139e.text:9999999999991394
+LDUR CMP B.NE MOV ADD LDP
+X9,[X29,#var_8]
+X8，x9 1oc 1320 We，w2e
+SP，SP，#0x280
+x20，X19，[sP,#var_s50]

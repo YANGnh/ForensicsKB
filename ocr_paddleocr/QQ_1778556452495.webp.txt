@@ -1,0 +1,32 @@
+# OCR: QQ_1778556452495.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778556452495.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+python .lvol.py --filters PID,672o -f Z:l刘洋zy-memdump.mem windows.handle Igrep File 6720ress1Password.exe
+x948696d862f0an0x48finFiled
+0x100020
+6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720 6720
+1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe
+1Password.exe
+1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe 1Password.exe
+0x948696d854e0 0x948697995cc0 0x948696f5e480 0x948696d7a900 0x948696d9f2f0
+0x90 0x2d 0x318 x320 8x38c
+x948696f357600x398
+0x948696f2d290 0x948698a884e0 0x9486979c3120 x9486979d4420 0x948693e132c0 0x948697991800 0x948697990ea0 0x948696d762b0 0x9486979d64f0 0x948697993180 0x948696d74690 0x948697990090 0x948696d75ae0 0x9486979954f0 0x94869698d6f0
+8x3c8 8x434 0x4a8 0x660 0x6a8 8x704 8x708 8x70c 0x710 8x714 8x718 8x71c 0x72c 日x730 8x738
+日x948698c4815日x73c
+0x948697990220 0x948696d9c730 0x948696d64970 0x948697980500
+8x7c4 日x850 8x87c 0x894
+File File File File File File File File File File File File File File File File File File File File File File File File File File
+0x100020 0x100001 x1000 0x100003 x120194 日x1219f x12089 0x100001 x12089 日x12089 日x120089 x12019f 0x12019f 日x12019f 日x12019f x12019f 日x1219f x12019f 日x12019f 日x12019f ex16019f 0x100081 8x12019f 日x12089 x12089 0x120089
+DevicelHarddiskVolume3lWindows
+Device\HarddiskVolume3\Users\磅\Downloads\1Password ADevicelCNG
+/DevicelKsecDD ADevicelKsecDD
+ADevice\HarddiskVolume3\Users\磁\AppData\Local/1Password/loqs\2026-4-21.log
+lDevice\HarddiskVolume3\Users\磅\AppDatalLocalliPassword\dataliPasswordi.sglite Device\HarddiskVolume3\Windowsassembly/pubpol12.dat
+DevicelHarddiskVolume3lProgramEileslWindowsAppslMicrosoft.LanguageExperiencePackzh-CN261 DevicelHarddiskVolume3lWindowslMicrosoft.NETlassembly/GAC_MsILlSystem.ValueTuplelv4._4.0 DevicelHarddiskVolume3lWindowslMicrosoft.NETlassemblylGAMsILlmscorlib.resourceslv4.04.(Device\HarddiskVolume3\windows\Microsoft.NET\assembLy\GAc_MsIL\System.Numericsv4.0_4...
+DevicelNamedpipel1password.1 DevicelNamedPipel1password.1 DevicelNamedPipel1password.1 DevicelNamedPipel1password.1(Device\NamedPipe\ipassword.1 DevicelNamedpipel1password.1 Device\NamedPipe\1password.1/Device\NamedPipe\1password.1/DevicelNamedPipel1password.1 DevicelAfdlEndpoin
+(Device\HarddiskVolume3\Users\磅\Documents\1password\liuyang.opvault DevicelNamedPipel1password
+DevicelHarddiskVolume3lWindowslMicrosoft.NETlassemblylGAC_MsILlPresentationCore.resources DevicelHarddiskVolume3WindowslFontslStaticCache.dat
+DevicelHarddiskVolume3lWindowslRegistrationlRg6.clb

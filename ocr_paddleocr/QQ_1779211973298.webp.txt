@@ -1,0 +1,33 @@
+# OCR: QQ_1779211973298.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779211973298.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+虚拟机100 (web)在节点'pve-node1'上
+概要控制台
+口硬件
+Cloud-Init
+安四
+选项
+任务历史监视器备份
+好复制
+添加
+租白川
+内存处理器 BIOS 显示机型
+移除
+SCSI控制器
+没有标记。
+编辑
+CD/DVD驱动器(ide2) 硬盘(scsio）
+网络设备(neto)
+磁盘操作V
+8.00 GIB
+还原
+4 (1sockets,4 cores)[x86-64-v2-AES
+默认(SeaBIOS) 默认
+默认(i440fx)
+VirtlO SCSI single
+启动
+少关机
+local:iso/CentOS-7-x86 64-Minimal-1810.iso,media=cdrom,size=918M
+Ceph_pgscup_pool:vm-100-disk-0.iothread=1,size=60G virtio=BC:24:11:05:5B:A0,bridge=vmbr0,firewall=1

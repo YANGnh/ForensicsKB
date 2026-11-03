@@ -1,0 +1,30 @@
+# OCR: QQ_1779208639471.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779208639471.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+105日
+106 107 108 109 110
+rootopve-nodel:r#
+pyesm status
+got timeout
+Name
+Ceph_pgscup_poor Local
+Locat-lvm
+Type rbd din
+Lvmthin
+status inactive
+active active
+Total
+(KiB)
+0
+8730792 6873088
+Used(KiB)
+AvailableKiB
+0
+5275832
+A
+0
+2989860 6873088
+%
+0.00% 60.43% 0.00%

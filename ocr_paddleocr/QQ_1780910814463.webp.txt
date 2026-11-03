@@ -1,0 +1,15 @@
+# OCR: QQ_1780910814463.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780910814463.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+202603121310dec.mp4-VLCmediaplayer
+媒体(M) 00:00
+播放(L)音频(A)视频(V)字幕()工具(S)
+tut
+视图()
+帮助(H)
+997546
+口
+100%
+X 00:05

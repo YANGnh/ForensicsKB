@@ -1,0 +1,84 @@
+# OCR: QQ_1781000697455.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781000697455.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+X O 2K+ 迎
+米
+FileEdit
+SEARCH
+Selection
+View
+Go
+G
+<div class="layui-layout layui-
+layout-admin w-full"s Replace
+Run
+州
+回
+Aa ab .*
+AB
+1 result in 1 file - Open in editor - Search withAl
+<> index.html application)admin)view_ne.
+<div class='layui-layout layui-... b
+福master*
+± 133 A 16 0 11
+a X
+maccms10
+maccms.phpM
+<> index.html ×
+Update
+application > admin > view_new > index > <> index.html >  div.layui-layout.layui-layout-admin.w-full
+3 111 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155
+<styletype-"text/css">
+.lariguage-seletl-wr'ap--plain .layul-torm-seietl:nuver .layul-lnpul,  language-select-wrap--plain .layui-form-select .layui-edge {
+display: none;
+language-select-wrap--plain .layui-form-select dl {
+border-radius:8px;
+box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08):
+</style>
+div class="layui-layout layui-layout-admin w-fuli"
+<div class="layui-header maccmsTop max-sm:!hidden">
+<div class="fl maccms-header-logo">
+品0日
+日
+<img class="header-logo-img" src-"_STATIC_/images/logo@2x.png" alt="" />[:lang('admin/index/index/name')}
+</div)
+</div>
+<div class-"layui-header header-top px-2"
+<div class-"top-logo flex gap-2 items-center mr-auto">
+<img class="size-12" src="_STATIC_/images/logo@2x.png" alt-"" />[:lang('admin/index/index/name'))
+</div>
+<ul class="layout-right" lay-filter-""
+<li class-"nav-item" id"update-notification" style="display: none:">
+<a href-"javascript:;"onclick-"showUpdateDialog()"title="有新版本可用">
+<i class="layui-icon layui-icon-refresh-1"></i> <span>更新</span>
+<a>
+</li>
+<li class="nav-item">
+<ahref-"
+</1i>
+ROOT
+<li class-"nav-item "
+/" target="_blank"><i class="layui-icon layui-icon-home"></i></
+<a href-"{:url('index/clear')}" class="j-ajax " refresh="yes"
+<i class="layui-icon layui-icon-delete size-16"></i>
+</a>
+</li>
+<li class-"nav-item"
+<a class="site-tree-mobile"href-"ja
+<i class="layui-icon"></i>
+</ax
+magicblack (1 year ago)
+@ You have Docker installed on your system. Do you want to
+install the recommended extensions from Microsoft for it?
+Install
+Ln 125, Col 53 (52 selected)
+Spaces: 4
+UTF-8LF
+口米
+0
+X
+Show Recommendations
+HTML
+恩

@@ -1,0 +1,25 @@
+# OCR: QQ_1778830193888.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778830193888.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Objects 吕
+Save Local
+1 2 3 4 5
+oOw @dataanalyze (Local) - Table
+平均资产最高的BiN码@dataanalyze（.
+ Query Builder  Beautify SQL （) Code Snippet Ask Al →
+dataanalyze
+> Run   Stop : Explain
+SELEcT LEFT（银行卡号’，6）AS bin_code，AVG（资产（人民币）^）AS avg_asse
+FROM
+oow
+GRoUP BY bin_code
+ORDER BY aVg_asset DESC LIMIT 10;
+Message Summary
+Data
+Info
+bin code 622446 622337 622207 622357 622020 622389 622003 622117 622647 622105
+Result 1
+avg asset
+1044998.1682423052 1042639.233607374 1040144.4511755869 1037336.109246947 1036997.854313919 1034674.7414278677 1034045.1382242563 1031763.593093377 1030903.2968059102 1030782.2527898897

@@ -1,0 +1,24 @@
+# OCR: Pasted_image_20260413160005.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413160005.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+出早起王的PC镜像>
+三序号口1 □2 口3 口4 口5 口6 口7 口8
+三名称过滤
+Administrator Guest
+DefaultAccount WDAGUtility... 深情专一沼气. SYSTEM
+LocalService NetworkServi..
+基本信息>用户列表
+三用户类型*
+本地账户本地账户本地账户本地账户本地账户本地账户本地账户本地账户
+三登录密码
+过滤[空密码][空密码][空密码]
+1qazxsw2
+三LMHASH 过滤
+在用户列表中搜索
+三NTHASH 过滤
+aad3b435b51404eeaad3b435b51404ee aad3b435b51404eeaad3b435b51404ee aad3b435b51404eeaad3b435b51404ee aad3b435b51404eeaad3b435b51404ee aad3b435b51404eeaad3b435b51404ee
+Q
+s高
+31d6cfe0d16ae931b73c59d7e0c089c0 31d6cfe0d16ae931b73c59d7e0c089c0 31d6cfe0d16ae931b73c59d7e0c089cC e8cd43d94fabad766e98f70251d21848 cbb5199c8e931f069e7e77ea8947e0d8

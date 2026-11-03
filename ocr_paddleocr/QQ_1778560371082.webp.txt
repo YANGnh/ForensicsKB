@@ -1,0 +1,33 @@
+# OCR: QQ_1778560371082.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778560371082.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+.svmtao
+.strtab #000033d8:.strtab
+#00003418：
+.strtab #00003488:.strtab #000034f8:.strtab #00003568:.strtab#000035d8:.shstrta #000035dd:.shstrta#0000361d:.shstrta #0000368d:
+Size:
+Strings. symtab:
+torsauxcompleted.e
+FRAMEEND
+OxE
+Scrtl.oabi_tagcrtstuff.cderegister_tm_clones
+do_global_dtors_aux_fini_array_entryframe_dummy
+DYNAMIC
+GNU EH FRAME HDR
+loneTable edata fini system@GLIBC 2.2.5 rt mainsetgid@GLIBC 2.2.5
+init
+Strings.sections:
+GLOBAL OFFSET TABLE
+datastart
+do global d
+frame_dummy_init_array_entry exploit.d
+1ibc start main@GLIBC 2.34 ITM deregisterTMC
+gmon start
+ dso handleIo stdin used endbss sta
+TMC ENDITM registerTMCloneTable setuid@GLIBC 2.2.5
+cxa finalize@GLIBC 2.2.5
+.symtab.strtab .shstrtab .note.gnu.build-id.interp .gnu.hash
+.dynsym.dynstr.gnu.version.gnu.version r.rerstrings.sectionsjinit.plt.got.text.fini.rodata.eh frame hdr
+.eh frame.note.gnu.property .note.ABI-tag .init array .fini array.dynamic.got.plt .data.bss .comment Sections:

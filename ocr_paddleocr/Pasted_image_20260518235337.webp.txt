@@ -1,0 +1,13 @@
+# OCR: Pasted_image_20260518235337.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518235337.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+PsD:vpangupreruntime>pythoncracklogin.py scanning
+PASSHORD FOUND
+password
+time hash
+mb202623 563.95
+23% . e:29:53. 1.1M/5
+5d85b77d7d6d1a76cd589c3ba21d1839b1dd28568e39f1d2facc3a1b7d2e8bc
+o ps D:Λpangu_pre_runtime>

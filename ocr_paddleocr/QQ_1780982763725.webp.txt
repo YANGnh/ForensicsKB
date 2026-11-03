@@ -1,0 +1,57 @@
+# OCR: QQ_1780982763725.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780982763725.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+root@ubuntu:/#lsblk-oname,type,fstype,uuid
+NAME sda
+-sda1
+TVPE disk part
+Lvolum-rootLvm
+mde sda2
+root-data Lmde
+sdb
+sdb1 sdb2
+ESTVPE
+LVM2_member
+UUID
+uBbKbG-MxC5-I7pL-cG9i-6Y0S-0TRJ-Hey0dt
+linux_raid_member
+880f2057-30e6-4da6-5bfd-b06f700131bb
+raide
+btrfs
+part lvm
+LVM2_member
+3231e52f-5e15-44c4-b224-e29cb4201c0e
+Gau0GE-c1ZQ-pERE-cdM1-90z4-cY3W-klzVyB
+linux_raid_member
+880f2057-30e6-4da6-5bfd-b06f700131bb
+raido
+btrfs
+disk part
+part
+Lvolum-root
+lvm
+Lmde
+LVM2_member
+3231e52f-5e15-44c4-b224-e29cb4201c0e
+HwI00P-kPve-aJ3C-3TFJ-Kcno-CaQU-cBg7oz
+linux_raid_member
+880f2057-30e6-4da6-5bfd-b06f700131bb
+btrfs
+raido
+sdb3
+root-data Lmde
+sdb5 sdb6
+sre
+part lvm
+LVM2_member
+3231e52f-5e15-44c4-b224-e29cb4201c0e
+hLwbSv-f4cL-B3x8-YoUn-en4r-0z0i-5ExJcA
+linux_raid_member
+880f2057-30e6-4da6-5bfd-b06f700131bb
+raidobtrfs
+part part rom
+vfat swap
+3231e52f-5e15-44c4-b224-e29cb4201c0e 9693-7941
+7c439ba0-6ff2-4ddc-b338-e293953b81fe

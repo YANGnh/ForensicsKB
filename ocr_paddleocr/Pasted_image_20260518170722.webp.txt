@@ -1,0 +1,43 @@
+# OCR: Pasted_image_20260518170722.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518170722.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+DB Browser for SQLite - D:/pangu_pre_runtime\chat_history.db
+文件(F)
+编辑(E)
+【打开项目(P）数据库结构(D)
+查看(V)
+工具(T)
+【保存项目(s）
+浏览数据(B)
+表T)：画chat_records
+过滤内蒙古 1
+2
+2内蒙古江苏 3
+province
+帮助(H)
+编辑杂注(R) 过滤
+执行SQL(x)
+t
+昆8
+age
+18 45 45
+过滤
+A
+品
+过滤任何列 score
+过滤极高
+102
+102
+极高
+102高
+level
+过滤
+该用户具有极高价值；建议立即升级为VIP获客流程该用户具有极高价值；建议立即升级为VIP获客流程潜力很大：建议由资深话务员进行外呼跟进
+recommendation
+过滤
+timestamp
+2026-04-1823:10:35 2026-04-18
+23:11:09
+2026-04-18 23:11:20

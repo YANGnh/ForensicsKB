@@ -1,0 +1,41 @@
+# OCR: Pasted_image_20260529014138.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529014138.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+搜索文本：
+Q-Sqli
+在以下位置搜索：
+】类名□方法名
+」字段名代码
+po.a c
+c
+po.a po.a
+Cpo.a po.a
+po.a.a(context) void m
+资源
+注释
+限制package：
+节点
+mpo.a.a(string, String, String, String, String, double, double) void
+m po.a.onCreate(sQLiteDatabase) void m po.a.onCreate(soLiteDatabase) void m po.a.onCreate(soLiteDatabase) void m po.a.onCreate(soLiteDatabase) void m po.a.onCreate(soLiteDatabase) void m po.a.onCreate(soLiteDatabase) void
+mpo.a.onUpgrade(sQLiteDatabase, int, int) void mpo.a.onUpgrade(sQLiteDatabase, int, int) void
+import android.database.sqlite.SQLiteDatabase; import android.database.sqlite.SQLiteOpenHelper; public final class a extends SQLiteOpenHelper
+@override // android.database.sqlite.SQLiteOpenHelper@override // android.database.sqlite.SQLiteOpenHelper
+super(context， "hotclub_data.db"，（sQLiteDatabase.CursorFactory) null，2); SQLiteDatabase writableDatabase = getWritableDatabase();
+public final void onCreateCSQLiteDatabase
+sOLiteDt
+sOLiteDatabase.execSOL"CREATE TABLE IF NOT EXISTS
+user_collection
+sQLiteDatabase.execSQL("CREATE TABLE IF NOT EXIsTS app_config (key
+SQLException l
+C_id INTEGER PRIMARY KEY AUTOINCREMENT,
+devi
+TEXT PRIMARY KEY, VaLue TEXT)");
+sQLiteDatabase.execSQL("INSERT INTo app_config (key， Value) VALUES （'install_time'
+ + System.currentTimeMill
+sQLiteDatabase.execSQL("INSERT INTo app_config (key, value) VALUEs ('channel', 'tg_promote_o1')"); sQLiteDatabase.execSQL("INSERT INTO app_config (key, Value) VALUES ('referrer', 'zheng_dev')");
+public final void onUpgrade(SQLiteDatabase sOLiteDatabase, int i2, int i3) throws SQLException
+sQLiteDatabase.execSQL("ALTER TABLE
+user_collection
+ADD COLUMN collect_time INTEGER DEFAULT o"):

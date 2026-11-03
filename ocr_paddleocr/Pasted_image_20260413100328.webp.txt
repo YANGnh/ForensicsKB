@@ -1,0 +1,16 @@
+# OCR: Pasted_image_20260413100328.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413100328.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+g
+图片（2）
+早起王的手机
+福
+微信>越过山丘(wxid_uh5tfx2zi8yh22)>
+好友消息>女神（wxid_zuaa9igqlro22）
+2026-03-3015:13:08
+女神(wxid_zuaa9igqlro22
+(2026-03-30 15:13:08)
+我通过了你的朋友验证请求，现在我们可以开始聊天了
+2026-03-3015:13:08 以上是打招呼的消息

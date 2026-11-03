@@ -1,0 +1,54 @@
+# OCR: Pasted_image_20260511180440.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511180440.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+】三序号口1
+liuyang-pc.Eo1/分区8/BaiduNetdiskDownload
+三名称过滤
+WPSOfficeRCTSE202312.1.0.24655x6420260115雨糖科技.exe
+三扩展名过滤 exe
+三类型
+* 文件
+Y
+三大小等于 3GB
+V
+三创建时间
+起始
+结束
+2026-04-1921:55:07
+010 Editor - C:\hlnet/6-1778389403Vliuyang-_pc.E01分区8\BaiduNetdiskDownloadiWPSOffice_RCTSE_2023_12.1.0.24655_x64_20260115_雨糖科技,exe
+File Edit
+hosts
+Select
+Find
+View
+Format
+Scripts
+Templates
+Debug
+Project
+WPsofficeRCTSE202312.1.0.24655x6420260115雨糖科技.exex
+0000:0000 0000:0010 0000:0020 0000:0030 0000:0040 0000:0050 0000:0060 0000:0070 0000:0080 0000:0090 0000:00A0 0000:00B0 0000:00C0 0000:00D0 0000:00F0 0000:00F0 0000:0100
+DC 30
+40 8D
+Bo
+30
+91
+on D
+D
+BE
+63
+61 6
+B8
+EA B9
+Tools
+Window
+Help
+moy
+三访问时间
+起始
+在Baidi
+结束
+Y
+2026-04-2022:55:34

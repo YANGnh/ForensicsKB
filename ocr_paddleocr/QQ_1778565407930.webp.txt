@@ -1,0 +1,36 @@
+# OCR: QQ_1778565407930.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778565407930.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+SEARCH
+tools.php Replace
+C
+Aa ab
+AB
+4 results in 1 file - Open in editor Search with Al
++通讯录管理系统漏洞清单.md
+回*
+-**漏洞位置**："http://192.168.61.1
+2.访问tools.php页面
+x
+3.**权限提升**：通过tools.php执 2.禁用tools.php的命令执行功能
+ file shell.php
+通讯录管理系统漏洞清单md×
+→ 通讯录管理系统漏洞清单,md >abc 并通讯录管理系统漏洞清单>abc ##总漏洞数量:8个可利用漏洞>abc ### 2.未授
+#通讯录管理系统漏洞清单
+总漏洞数量：8个可利用漏洞
+心路丽聘山
+用
+14
+15 16 17 18 19 20 21 22 23 24 25
+未授权命令执行漏洞（严重）
+### 2.
+**漏洞位置**：~http://192.168.61.135/tools.php
+严重（CV5S：9.0）
+**风险等级**：
+**漏洞描述**：登录后可以执行任意系统命令**利用方法**
+使用管理员凭据登录 1.
+访问tools.php页面 2.
+在命令输入框中执行任意系统命令 3.
+*验证命令**：id返回uid=33（www-data）gid-33（www-data）group5=33（www-data）**影响**：完全控制系统，可执行任意命令

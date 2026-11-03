@@ -1,0 +1,15 @@
+# OCR: QQ_1778688349295.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778688349295.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+NoahTieoArkD/m/c/i/s/l/f/ecu
+strings-a-n1o.lbcm_ecu.bin
+Strings v2.54 -Search for ANsI andUnicode strings in binary
+lmages
+Copyright（c)1999-2o21MarkRussinovich Sysinternals-www.sysinternals.com
+CRASHDUMP：
+DOOR_STATE=UNLOCKED
+WINDOWS=UP
+WIPERS=OFF,
+LIGHTS=HIGH_BEAM

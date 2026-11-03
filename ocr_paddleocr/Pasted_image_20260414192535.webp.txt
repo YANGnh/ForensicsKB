@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260414192535.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414192535.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+NoahTieoArkD/F/B/officeMalScanner
+D:1Pinghang2026\49b367ac261a722a7c2bbbc328c32545info
+.lofficeMalscanner.exe
+0fficeMalScannerv.62
+FrankBoldewin/www.reconstructer.org
+[*INFO mode selected[*]
+0peningfileD:1Pinghang2026149b367ac261a722a7c2bbbc328c32545[*]Filesizeis199680(0x30c00Bytes
+[*MsOfficeOLE2CompoundFormatdocumentdetected
+［ScanningforVB-c0dein49B367Ac261A722A7c2BBBC328C325451 Modulel
+ThisDocument
+VB-MACROCODEWASFOUNDINSIDETHISEILE!
+ThedecompressedMacrocodewasstoredhere:
+D:1Forensics/BinaryAnalyze\0fficeMaLScanner\49B367Ac261A722A7c2BBBc328c32545-Macr0s

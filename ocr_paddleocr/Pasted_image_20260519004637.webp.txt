@@ -1,0 +1,12 @@
+# OCR: Pasted_image_20260519004637.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519004637.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+54 55 56 57 58 59 60
+[2021-10-20 16:12[2024-02-2519:09][2024-02-25 10:02][2024-02-2519:04][2024-02-25 10:06[2024-02-25 10:08]
+[conv_d_usr_caishangwang_usr_zaixiang］ usr_caishangwang　：收到，没问题。
+[conv_d_usr_caishangwang_usr_zaixiang］usr_caishangwang　：宰相，智能家居漏洞利用已经成熟了。　「convd usrcaishangwangusrzaixiangl usrzaixiang：成果怎么样?
+[conv_d_usr_caishangwang_usr_zaixiang］usr_caishangwang：已经拿到32个高端用户的数据，主要是扫地机器人和安防摄像头。[conv_d_usr_caishangwang_usr_zaixiang］ usr_zaixiang　：重点目标有哪些?
+[conv_d_usr_caishangwang_usr_zaixiang］usr_caishangwang：孙建业是最有价值的，住华侨城别墅区，儿子在国外留学。
+[2o24-02-2510:1o「convdusrcaishangwangusrzaixianglusrzaixiang：好，这些情报及时同步给话务组。

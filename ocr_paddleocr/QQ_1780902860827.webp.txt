@@ -1,0 +1,19 @@
+# OCR: QQ_1780902860827.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780902860827.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+g
+1
+A检材1-计算机.E01>
+三序号口1 □2 □3 口4 口5 口6
+三用户名过滤 Iha Iha Iha Iha Iha root
+Linux基本信息>检材1-计算机.E01/分区7>历史命令
+三Shell类型过滤
+三命令
+get_token
+chmod755gettokenlinux./get_token_linux
+sudo chmod 777 get_token_linux
+在历史命令
+curl -0 https://github.com/z583985166/0.0.0/releases/download/1.0.0/get_token_linux && chmod +x get_token_linux rm-rfget_token_linux
+chmod777get_token_linux

@@ -1,0 +1,57 @@
+# OCR: Pasted_image_20260413165219.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413165219.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+三序号口1 2 口3 4 口5 6
+详细信息
+！>邮网易邮箱大师>
+三主题过滤
+?zqw100860312@163.com>
+三发件人
+Y
+邮件办公，如此轻松！欢迎来新设备登录提醒
+无主题吃饭嘞
+Re:回复：吃饭嘞
+解锁工具能力，轻松处理压缩，
+主题：无主题
+发件人：242522022008@pop.zigsu.edu.cn <242522022008@pop.zjgsu.edu.cn>
+收件人：zqw100860312<zqw100860312@163.c0m>
+发送时间：2026-03-1218:19:22 接收时间：2026-03-1218:19:29 状态：已读
+过滤
+收件箱
+网易邮箱助手<club... 网易邮箱账号安全... 242522022008@po... xyaxxya@qq.com<... xyaxxya@qq.com<... 网易邮箱AI工具<m...
+>
+三收件人过滤
+在收件箱中搜索
+三发送时间
+起始
+zqw100860312@16... zqw100860312@16... zqw100860312<zq... zqw100860312<zq... zqw100860312<zq... zqw100860312@16...
+原类型视图
+ZOOM From: Sent: To:
+Subject:
+文本: Dear E-Commerce professional: This letter was speciall
+selected to be sent to vou . If vou are not interested in our
+publications and wish to be removed from our lists, simply do NoT respond and ignore this mail ! This mail is being sent in compliance
+with Senate bill 1627 , Title 1, Section 302! This is a ligitimate business proposal ! Why work for somebody else when you can
+become rich as few as 96 weeks . Have you ever noticed people love convenience plus nearly every commercial on television has a .com on in it ! Well, now is your chance to capitalize on this ! WE wil help
+文本视图
+HIGHLIGHT
+结束
+2026-03-12 18:10:22 2026-03-1218:16:12 2026-03-12 18:19:22 2026-03-1218:31:54 2026-03-1218:38:43 2026-04-02 14:10:02
+十六进制视图
+Q
+三附件过滤
+高级
+设置列
+@ X
+请输入关Q
+?
+242522022008@pop.zjgsu.edu.cn<242522022008@pop.zjgsu.edu.. 2026-03-1218:19:22+0800CST
+zqw100860312<zqw100860312@163.com>
+无主题
+Dear E-Commerce professional ; This letter was specially
+selectedtobesenttovou.Ifvouarenotinterested inourpublicationsandwishtoberemovedfromour lists, simply do NOT respond and ignore this mail ! This mail is being sent in compliance with Senate bill 1627,Title 1,Section 302!This is a ligitimate
+businessproposal!Whyworkforsomebodyelsewhen youcanbecomerichas fewas96weeks.Haveyouever
+安
+noticedpeopleloveconvenienceplusnearlyeverycommercial

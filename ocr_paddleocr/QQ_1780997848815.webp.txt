@@ -1,0 +1,52 @@
+# OCR: QQ_1780997848815.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780997848815.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+maccms.php M X
+application>extra>maccms.php
+<?php
+return array （
+3 5 6
+8 9 19 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 49 41 42 43 44 45 46 47 48
+'db'
+=> array（
+'type' => 'mysql'.
+'path' =>'server'
+=> '127.0.0.1'
+'port''name''user''pass'
+> =>
+3306'
+"maccms19'
+'root''root'
+'tablepre'
+=>
+mac
+"backup.path'
+ => ./application/data/backup/database/
+'part size' => 20971520.
+'compress' => 1,'compress level'
+=> 4.
+'site'
+>
+array （
+'site_name'=>‘免费短视频分享大全 －大中国'
+'site url'=>'www.2e26fic.forensix','site_wapurl' => 'wap.2026fic.forensix'.'site_keywords'=>‘打破锁
+daccnintion
++e
+site_icp
+森止制
+=>‘icp1919810'
+99286
+'site email' => 'lianhong@forensix.cn'.'install dir' => '/'
+'site logo' => 'static/images/logo.jpg'
+'site waplogo' => 'static/images/logo.ipg'.
+'site banner'=>'upload/site/20260415-1/194647b41e567e1dc60458fcfb37f337.jpg
+upload/site/20260415-1/3300bfeea11e342f23576fb25d281e0e.jpg upload/site/20260415-1/be501209bbfb4c35a0c8edb37a7b3a11.jpg',
+'site app launch image' =>'template dir'>'ooitep'
+'html dir' ->'html''site polyfill' => '1''mob status' => '2'
+'mob template dir' => 'default wap'
+'mob html dir' =>‘html''site tj’=>‘统计代码''site status' =>
+'site_close_tip’=>‘站点暂时关闭，请稍后访问''mainland_ip_limit'->'o',
+'new version' => 'i''ads dir' => 'ads'
+'mob ads dir' => 'ads'.

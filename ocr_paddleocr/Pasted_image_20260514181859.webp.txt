@@ -1,0 +1,48 @@
+# OCR: Pasted_image_20260514181859.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260514181859.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+80 83 84v 89 96 97 98 81
+105 111 81
+85 81
+126v 127
+136 138 139 127
+135
+privatebooleanisFridaDetectedO
+BufferedReader reader:
+string line; try
+reader=newBufferedReader(newFileReader(/proc/self/maps))
+} catch (IoException e) { do
+line = reader.readine(O): if (line != nuuu) {
+if (line.contains("frida")) {
+break;
+}else{
+reader.close(); try
+Socket socket = new Socket(O):
+socket.connect(newInetSocketAddress(127.0.0.127o42).5oo):
+socket.close(; return true;
+} catch (Exception e2){
+string[]fridaPaths = {'/data/local/tmp/frida-server","/data/local/tmp/re.frida.server","/data/local/tmp/frida-agent.so'}: for (string path : fridaPaths) {
+if (new File(path).exists()){
+return true:
+return false:
+} while (!line.contains("gadget"));
+reader.close() ; return true;
+1
+privatebooleanisxposedDetectedO
+try
+class.forName("de.robv.android.xposed.XposedBridge"): return true:
+} catch (classNotFoundException e) {
+try {
+PackageManager pm = this.context.getPackageManager(O):
+List<PackageInfo> packages = pm.getInstalledPackages(o) : for（PackageInfo info:packages){
+string pkg = info.packageName;
+if (pkg.contains("xposed")II pkg.contains("de.robv.android")I pkg.contains("exposed")){
+return true:
+大
+ (Exception e2)
+fcatch 7
+returnfalse;
+1
+1

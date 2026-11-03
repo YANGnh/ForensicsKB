@@ -1,0 +1,15 @@
+# OCR: image.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/image.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:34
+
+Spawned
+com.Liyeyideo.hotcLub
+Resuming main thread!
+[LE2loo::com.livevideo.hotclub ]-> [*] bypass: fopen connect strstr h
+ooked
+［*]libsecurity.so@0x7788f470o0
+工
+[+] getBackupEndpoint: https://backup.sp-live88.xyz:8443/api/v2［+]getCommKey：K7mPgxQ2wR4vN8sL
+[*
+Done

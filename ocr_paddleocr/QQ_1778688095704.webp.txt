@@ -1,0 +1,15 @@
+# OCR: QQ_1778688095704.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778688095704.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+NoahTie@ArkD/m/c/i/s/t/f/ecu
+pwd
+Path
+D:lmntlcarlimagelsystemlliblfirmwarelecu NoahTieoArkD/m/c/i/s/l/f/ecu
+strings -a -n 1o.lengine_ecu.bin
+Strings v2.54-SearchforANsI and Unicodestringsinbinary
+images
+Copyright（c)1999-2o21MarkRussinovich
+Sysinternals-www.sysinternals.com MAPPERETUNINGSTARTE
+NMAX_RPM:85OOIOVERBOOST:ACTIVEIVMAX_LIMIT:OFFMAP_PERF_TUNING_END

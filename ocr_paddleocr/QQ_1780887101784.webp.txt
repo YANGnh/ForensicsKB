@@ -1,0 +1,37 @@
+# OCR: QQ_1780887101784.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780887101784.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+lat
+Nominatim 37.796638
+ Advanced options
+Search
+Data from APl request (debug output)
+Reverse
+lon
+Mizhi County,Yulin,Shaanxi,China Secondary
+details
+Search By ID
+110.370705
+500m 2000 ft
+max zoom
+18 - Building
+Search
+Addresses and postcodes are approximate. Blue circle is the result. In case of reverse geocoding the smaller red circle is at the search position
+@ OpenStreetMap contributors
+About ＆ Help
+Colorv
+Datalastupdated:56minutes.ago(Details)
+show map bounds
+店镇县
+乌镇印斗镇
+桃镇
+杨家沟镇
+薛家河镇
+店镇
+木头
+大佛寺乡
+康家吉镇
+张
+Leaflet/OpenStreetMap contributors

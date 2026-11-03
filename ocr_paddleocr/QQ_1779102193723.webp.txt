@@ -1,0 +1,8 @@
+# OCR: QQ_1779102193723.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779102193723.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+<@1492424602792497163>学习完成了吗 Hi I don't recognize you yet!
+Here's your pairing code: *3EXEQ5R8 Ask the bot ownep to run:
+hermes pairing approve discord 3ExEQ5R8

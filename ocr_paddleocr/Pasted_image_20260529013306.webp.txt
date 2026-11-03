@@ -1,0 +1,22 @@
+# OCR: Pasted_image_20260529013306.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529013306.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+级别 (危险）级别 (正常）级别 (其他)
+大概位置(基于网络)
+android.permission.ACCESS COARSE LOCATION 拍照和录像
+android.permission.CAMERA 读取联系人信息
+android.permission.READ CONTACTS 读取电话状态
+android.permission.READ PHONE STATE 修改或删除SD卡中的内容
+android.permission.WRITE EXTERNAL STORAGE 查看网络连接
+android.permission.ACCEss NETWORK STATE 完全网络访问
+android.permission.INTERNET
+com.livevideo.hotclub.DYNAMIC RECEIVER NOT EXPORTED PERMISSION com.livevideo.hotclub.DYNAMIC RECEIVER NOT EXPORTED PERMISSION
+精确位置(基于GPS和网络)
+android.permission.ACCEss FINE LOCATION 读取通话记录
+android.permission.READ CALL LOG 读取外部存储
+android.permission.READ EXTERNAL STORAGE 读取短信
+android.permission.READ SMs 查看Wi-Fi连接
+android.permission.ACCEss WIFl STATE 在启动时运行
+ahdroid.permissioh.RECEvE BOOT COMPLETEC

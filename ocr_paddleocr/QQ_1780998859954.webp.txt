@@ -1,0 +1,58 @@
+# OCR: QQ_1780998859954.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780998859954.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+等 maccms.php M X
+ database.php M X
+application>database.php
+<?php
+2
+ThinkPHP  WE CAN DO IT JUST THINK
+ Copyright (c) 2006>2016 http://thinkphp.cn All rights reserved.// / Licensed ( http://www.apache.org/licenses/LIcENsE-2.0
+8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56
+ Author: liu21st <liu21st@gmail.com>
+retunn
+//数据库类型
+"type'
+/服务器地址
+'hostname 门数据库名 database 用户名'username//密码
+password 端口
+'hostport'
+任接qsn'dsn'
+数据库连接参数'params'
+=>‘mysql' =>‘mytidb' =>‘mac2''aa'
+=>
+123456''3306'
+>
+//数据库编码默认采用utf8
+'charset'
+数据库表前缀'prefix'
+数据库调试模式'debug
+=>‘utf8'，
+'mac =>false,
+/数据库部署方式：集中式（单一)
+服务器），1分布式（主从服务器
+'deploy'
+=> 0,
+//数据库读写是否分离主从式有效
+'rw separate'
+=> false,
+/读写分离后主服务器数量
+master num'
+=>1,
+/／指定从服务器序号'slave no'
+是否严格检查字段是否存在
+'fields strict'//数据集返回类型'resultset_type'
+=> false,
+'array
+自动写入时间戳字段
+auto timestamp'
+=> false,
+时间字段取出后的默认时间格式
+'datetime format' => 'Y-m-d H:i:s'.//是否需要进行SQL性能分析
+sgl explain'/Builder类
+'"builder'/ Query类'query
+=> false,
+=>"\think\db\Query'

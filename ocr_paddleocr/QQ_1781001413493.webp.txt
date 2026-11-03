@@ -1,0 +1,25 @@
+# OCR: QQ_1781001413493.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781001413493.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+export $DISPLAY :0
+apt install xserver-xorg xll-xserver-utils xinit
+xhost +local:docken startx
+docker exec -it u24 glxinfo I grep "openGL renderer"
+docekr ps -a docker ps -a
+docker restart u22 docker restartu24
+mkdir -p /etc/systemd/system/getty@ttyl.service.d
+/etc/systemd/system/getty@ttyl.service.d/override.conf
+/home/mac/.bash profile i
+cd/home/mac
+i
+.xinitrc
+/etc/default/grub i
+update-grub vi .xinitrc docker ps -a
+vi /etc/crontab
+systemctl enable docker
+docker
+update
+reboot
+--restart=always u24

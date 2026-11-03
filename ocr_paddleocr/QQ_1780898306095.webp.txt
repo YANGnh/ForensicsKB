@@ -1,0 +1,50 @@
+# OCR: QQ_1780898306095.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780898306095.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+DB Browser for SQLite - C:\hlnet/1-1780630552\检材1-计算机.E01V分区7^homevhal.locashareldeepin\deepin-voice-noteldeepin-voice-note1.0.db
+文件(F)
+编辑(E)
+新建数据库(N) 数据库结构(D）
+查看()）
+工具(T）帮助(H)
+打开数据库(）写入更改(n)
+浏览数据(B)
+表(T)：vnote_items_tbl
+V
+note id folder_id
+note_type
+过滤
+1 2 3
+1
+过滤
+2 3
+1 1 1
+过滤
+编辑杂注 (R)
+6
+note title 过滤
+。文本 0文本1 0文本2
+执行SQL(α)
+t
+倒退更改(R)
+民8#
+A
+会撤销(u)》过滤任何列
+meta_data
+过滤
+{"htmlCode"："<p>黄金换现金</p>p>."htmlCode"："<p>视频网站技术</p><p>联系["htmlCode":"<p>矿机参数</p><p><br></.
+【打开项目(P)
+合保存项目(s)
+编辑数据库单元格(C)
+模式：JSON
+1 2
+3
+圈
+附加数据库(A)
+口
+x 品x
+巴
+"htmlCode"："<p>黄金换现
+金</p>p>张总</p×p>136128i7854<br×/p>p×br×/p>"

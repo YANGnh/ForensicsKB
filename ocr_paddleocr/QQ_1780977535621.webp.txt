@@ -1,0 +1,43 @@
+# OCR: QQ_1780977535621.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780977535621.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+setparams
+GNU GRUB
+version 2.12-9
+Debian GNu/Linux,with Linux 6.12.73+deb13-amd64
+load_video insmod gzio
+if［xsgrub_platform= xxen ；then insmod xzio；insmod lzopio；fi
+part_msdos
+insmog
+insmog insmog insmod insmod insmod
+part_msdos part_msdos part_msdos
+1vm 1vm
+insmod
+diskfilter
+insmod
+mcraic1x
+insmodbtrfs
+set r00t='mduuid/880f205730e64da65bfdb06f700131bb if [ xsfeature_platform_search_hint = xy ]; then
+search --no-floppy --fs-uuid --set=root --hint='mduuid/88of205730e64da65bfdb06f700131bb
+5-44c4-b224-e29cb4201c0e
+else
+search --no-floppy --fs-uuid --set=r0ot 3231e52f-5e15-44c4-b224-e29cb4201c0e fi
+echo
+Loading Linux 6.12.73+deb13-amd64
+3231e52f-5e1
+linux
+/@rootfs/boot/vmlinuz-6.12.73+deb13-amd64 root=/dev/mde ro rootflags=subvol=@rootfs
+splashloglevel=3 rd.systemd.show_status=false rd.udev.log_level=3
+echo
+initrd
+Loading initial ramdisk
+/@rootfs/boot/initrd.img-6.12.73+deb13-amd64
+quiet
+TAB lists completions.
+Press Ctrl-x or F1o to boot,Ctrl-c or F2
+editing is supported.
+Minimum Emacs-like
+screen
+for a command-line or Esc to discard edits and return to the GRuB menu.

@@ -1,0 +1,110 @@
+# OCR: QQ_1778779561661.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778779561661.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Exterro FTK Imager 8.2.0.26
+File
+View
+Evidence Tree
+Mode
+Help 回
+Upgrade to PRO 日
+UDisk_CO0h_39AA7DC00h.img
+由 Partition 2[oMB]  Partition 4 [oMB]
+由 Partition 1[831044附B]
+- Unpartitioned Space [basic disk]
+[FAT32]
+白
+[root]
+[unallocated space]
+Properties
+x
+旦Properties
+Name File Class File Size
+Physical Size Start Cluster Actual File Start Sector
+[root]
+Directory 8,192 8,192 2 True 32,762
+For User Guide, press F1
+File List Name
+直
+TERT He&
+System Volume Information
+[电影天堂www.dytt89.com]英雄本色-19... X100W.CSV
+0000 0010 0020 0030 0040 0050 0060 0070 0080 0090 00ao oobo 00c0 oodo 00e0 oofo 0100 0110 0120 0130
+D 00 42 60 01 20 53 92 43 FI 02 51 01 77 5F 93 E5 93 00 00
+0140
+00
+C2 00 20 00 53 nn 59
+30 56
+o 5 00 B5 5C 30 5C 00 00 00
+BC 00 or
+or 56 53
+00 E7 93 30 93 00 00 00
+D3 00 49 00
+00 00 D3 5C 57 5C 00 00 00
+BE 00 00 74 00 6F 45 00
+00 2F BO 00 20 00 00 00 00
+ED 00 6E 00 73 00 4D o
+53 2F 96
+00 7E 00 20 00 00 00 00
+2 D3 00
+00 60 7 3
+o 31 7C 20 76 00 00 00
+20-20
+B0 F
+31 20
+93 00 E-00
+2 93
+o0
+BO-
+-74 20-
+43 BB-
+90 00-00 00-00 00-00
+Cursor pos = 0; dus = 2; phy sec = 32762
+2r 5C 65 00
+00 50 4F
+0 00 E 5C 53 Sc 00 00 00
+Size
+Type
+8,192 (8 KB) 8,192 (8 KB)
+Directory Directory
+Regular File
+522.025.463 (
+20 00 00 00 00 00 20 03
+00 00
+58 00 4D 06 56 6C 00 00 00
+08 00 0F 00 0F 00 26 00 0F 00 OF 00 OF 00 10 00 20 9 00 00 00
+00 00 00 6F 00 60 00 00 00
+00 00 7 00 00 10 F7 00 00 00
+00 00 72 00 72 00 4D 00 25 5F
+o 25 00 05 00 66 79 00 00 00
+00 00 72 00 6D 65 D2 00
+00 6
+34 00 AF 1D 00 00 00
+00 00 00 0 00 00 BC 00 5 00 00 00 00 00 03 00 05 1F 00 00 00
+DAOXi.o1 SYSTEM-1
+.61
+.8. C9
+6
+yVulisi.
+Date Accessed
+rm me-Mo1. ·%I0
+-N.-W
+8.9
+0
+-f-A.,gr
+.om
+[-5ug ]Y-X.-%w-
+w. Hgo.
+aoon
+.u
+t
+COM.
+.4
+CSV
+-V -↓E-y
+口
+x X
+Date Create 2026/4/18 2 2026/4/19 d 2026/4/19 d
+NUM

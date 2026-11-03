@@ -1,0 +1,37 @@
+# OCR: QQ_1779212801109.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779212801109.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+服务器视图
+v数据中心 (pgscup2026)
+pve-node1 100 (web)
+localnetwork (pve-node1)
+Ceph_pgscup_pool (pve-node1)  local (pve-node1)
+local-lvm(pve-node1) pve-node2
+localnetwork(pve-node2)
+Ceph_pgscup_pool (pve-node2) local(pve-node2)
+local-lvm(pve-node2) pve-node3
+localnetwork(pve-node3)
+Ceph_pgscup_pool (pve-node3) local (pve-node3)
+local-lvm (pve-node3)
+虚拟机,100 (web)在节点'pve-node1' 上
+概要控制台口硬件
+Cloud-Init 选项
+■任务历史?监视器日备份好复制快照 0防火墙权限
+做快照名称
+first 口现在
+回滚
+没有标记。
+编辑
+移除内存否
+日期/状态
+2026-04-16 15:05:19
+说明
+您在这里！
+启动
+关机|v
+A迁移
+>控制台
+更多
+?帮助

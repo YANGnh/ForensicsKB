@@ -1,0 +1,26 @@
+# OCR: QQ_1779212577419.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779212577419.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92
+rootopve-nodel:r# ceph -s
+cluster: id:
+3f28d8bb-e754-475b-b471-b9c97161bbf7
+HEALTH_WARN
+health:
+clock skew detected on mon.pve-node3
+1/3monsdown.quorumpve-node2.pve-node3
+services:
+mon: 3 daemons.
+quorum pve-node2.pve-node3 (age 14m). out of quorum:
+pve-node1
+mgr: osd:
+data:
+pve-nodei(active,since 2im),standbys: pve-node2.pve-node3
+osds: 3 up (since 19m). 3 in (since 4w) 3
+pools:
+pools,33pgs 2
+obiects: 1.83k obiects. 5.7 GiB
+usage: pgs:
+17 GiB used. 367 GiB / 384 GiB avail 33active+clean

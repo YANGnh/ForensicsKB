@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260511170918.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511170918.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+g
+刘洋pc.E01>
+围基本信息系统信息
+口三序号口4 口5 口6 口7
+三名称过滤
+操作系统位数
+系统时区安装时间产品密钥
+三英文名称过滤
+OS_BITNESS
+OS_TIME_ZONE INSTALLTIME PRODUCT_KEY
+三值过滤 64位
+(UTC+08:00)北京，重庆，香港特别行政区 2025-08-0812:20:35+0800CST
+VK7JG-NPHTM-C97JM-9MPGT-3V66T

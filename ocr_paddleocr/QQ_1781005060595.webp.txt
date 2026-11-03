@@ -1,0 +1,27 @@
+# OCR: QQ_1781005060595.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781005060595.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+Objects
+mac_vod@mac (tidb) -Table
+ Table Profile + vod name
+^Bc varchar(255)
+BeginTransaction
+ Columns
+ Cell Editor → Filter & Sort
+vod_en
+^Bc varchar(255)
+ATTACKERS 女优名鉴 明里 3 15小时 明里 芯善
+ATTACKERSnvyoumingjia
+vod status# tinyint(1)
+li Data Profiling C Import C Export  Data Generation gl Create BI Workspace
+vod letter eBe char(1)
+A
+vod class ABc varchar(2:
+制服诱惑
+vod pic
+Bc varchar(1024)
+upload/vod/20260415-1/7b3fdd9d464ce48e7f20cd45f918c9a6.jpg
+曲
+丽

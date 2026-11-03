@@ -1,0 +1,29 @@
+# OCR: Pasted_image_20260416001734.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416001734.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70
+71 72
+73 74 75 76 77 78 79 80 81 82 84 85 86
+f/ Token: 0x06000055 RID: 85
+public static object SocketConnection(string host_ip,
+try
+WebConnection. Socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp) :
+WebConnection.rX4F9YMCa3xL7SsiwNxY72iH5cr00ucQkYDohrC0YYc6hdcVTHwPpzpziIXu9Pg4M6dvoSn7DCh4xj0GQ8ZxtLENkN8 = -1L
+WebConnection.EiIPWLN1QIHeBkUMFDDX82uHvEndnD1iNho3eUes1YyrzD8uQBpHE6gZeeQ4iLp4thgdDhc0gfUIXucrJKgxxbpoiPI5 = new byte[1]
+WebConnection.SSVP61Fo0kzxg5EmRPFF7mb7ZeX7uT43vup22u5BYo1V5PZEkiAjbJyPeanKYbducniby3nJFOHc6a4EeCwEcFe0w73d = new MemoryStream)
+Webconnection. Socket.ReceiveBufferSize = 5l200: WebConnection. Socket.SendBufferSize = 51200:
+WebConnection.Socket.Conmect(host_ip, Conversions.ToInteger(statics.7ooo)): statics.host_ip = host_ip
+WebConnection. gmC4seKwT67zDBQdgKSaPDpaypoVwopRxAoFLfZGJO7zUgVgoXbysebonYlwg1LHiwbKvMwco1D1Q6Da88Q5HFju8iU = true:
+WebConnection.I5E0koONgR8BnXZed3U2nV8CkMfJORbzm8eBOFfYgyxKZJjLT76MNjQKPvYKjELQzDw3j3LZievLNtaoeyBt1BjOEDcF = RuntimeHelpers.GetObjectValue(new object) WebConnection. c2nmD6LPX1VX2mKsmEFwMyhAwcJDWxX01cSa7UKnErB10J61AWOmFDLO334XeVe9ZYoTgapMYZ4gvRNo0htdeJQh6lxm(Conversions.ToString
+(WebConnection.x4rTjiEV3Rmx3yRHxTEaLoSY47E1M8hoNVTObJZqDG7bczdp0Q914p4pFkrKQBKD76LwiIoGDokbXZbA1cUxI1ir0gmO)): WebConnection.5M84lb8XHnaWBsaUmMa07jeQKZ.inlCu9lwS0eK6W8bauCZUKtIg0bAFdodgFJ8zjHI4H1EQDZnnMu0MWIcdiEVeCg.jHK = false:
+WebConnection.Socket.BeginReceive(WebConnection.EiIPWLNiQIHeBkUMFDDX82uHvEndnDliNho3eUeslYyrzD8uQBpHE6gZeeQ4iLp4thgdDhcQgfUIXucrJKgxxbpoiPI5,Q：
+WebConnection.EiIPwLNiQIHeBkUMFDDX82uHvEndnDliNho3eUes1YyrzD8uQBpHE6gZeeQ4iLp4thgdDhcQqfUIXucrJKgxxbpoiPI5.Length, SocketFlags.None, new AsyncCal1back(ebConnection.thnEtCM3YDrUf3WEt6WnZNnLIh9Fua2cG15g6bYwdfx6s05Vgx0yEZUaNTcVk5DvNrB98JYXZVkf7c0F4pyBtwhcpH)，nul1)
+TimerCal1back timerCal1back = new TimerCal1back(WebConnection.ZjD34ORHX73aQgnfYKZUJYPwY8yF3RId7BVJmY jVmtTW8HusEsfzXD1QPJXGL9igZ6BmlhJbnvZnuB5Q70fNFVRE0LNW) WebConnection.Timerl = new Timer(timerCallback, null, new Random().Next(10000, 15000), new Random().Next(10000, 15000))
+WebConnection.Timer2 = new Timer(new TimerCal1back(WebConnection.xWnhQ6K0M74QkWFBwgMzI1JgNSFK28NXUdrAc3I53skE6Kd1N5yk4ln23cwuMNfMB0JcIm0scztbMF89vi8D7qcPhJc), null, 1, 1)
+catch
+(Exception ex)
+WebConnection. gmC4seKwT67zDBQdgKSaPDpaypoVwopRxAoFLfZGJ07zUgVVgoXbysebonYlwg1LHiwbKvMwco1D1Q6Da88Q5HFju8iU = false: finally
+WebConnection.BSpXxXQVTPqyMEuYGxIAbM4AHkcCZtQzs9U0mT00rsBaRzpcDbKeZ0YVaQ8vRDKgY11M92DEOWny7InbQPsDIFDAd979.Set0
+object obj: return obj:

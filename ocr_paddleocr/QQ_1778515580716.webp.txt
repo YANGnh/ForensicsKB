@@ -1,0 +1,48 @@
+# OCR: QQ_1778515580716.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778515580716.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+@1Password
+Accounts
+liuyang OnthisPC
+All items Favorites
+WATCHTOWER
+A
+View
+CompromisedLogins VulnerablePasswords
+ReusedPasswords WeakPasswords
+UnsecuredWebsites
+Inactive2FA Expiring
+CATEGORIES
++ 品 0
+Logins
+Secure Notes Credit Cards
+Identities Passwords Servers
+TAGS
+Trash
+EAIU
+Item
+Help
+Search liuyang
+1password pve服务器 root
+交
+交易信息.rar
+5 items sorted byTitle
+pgscup@4位数字
+金
+金陵资本
+2026/4/1923:16
+刘
+刘洋电脑
+2026/4/19 22:54
+Edit
+password
+Convert to Login
+刘洋电脑 >liuyang
+6yang@2o26 last modified
+2026/4/1922:54 created
+2026/4/1922:54
+口
++ ★
+GoodO

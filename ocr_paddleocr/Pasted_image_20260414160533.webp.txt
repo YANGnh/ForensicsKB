@@ -1,0 +1,34 @@
+# OCR: Pasted_image_20260414160533.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414160533.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+[16:04:39] 16974[16:04:39]16975[16:04:39]16976[16:04:39]16977[16:04:39]16978[16:04:39]16979[16:04:39]16980[16:04:39]16981[16:04:39]16982[16:04:39]16983[16:04:39]16984[16:04:39] 16985[16:04:39]16986 16:04:39116987[16:04:39]16988[16:04:39] 16989[16:04:39]16990[16:04:39]16991[16:04:39]16992[16:04:39]16993[16:04:39]16994 16:04:39116995[16:04:39]16996 16:04:3916997[16:04:39]16998[16:04:39116999[16:04:39]17000 16:04:39117001[16:04:39]17002 16:04:39117003
+16:04:40  200 GET /admin/api-keys?page=1&pagesize=10&searchMode=apiKey&sortBy=createdAt&sort0rd er=asc&timeRange=today 3ms oB
+requestId: 5ohg32dbeca
+today
+query: page=1&pagesize=1o&searchMode=apiKey&sortBy=createdAt&sort0rder=asc&timeRange=
+ res:{"success":true,"data":{"items":[{"id":"b599638c-3891-45da-9afc-95bb119a5059","e
+XpirationMode":"fixed","icon":"","activationDays":"o","restrictedModels":[],"openaiAccountId":"""rateLimitwindow":0,"allowedclients":[],"azure0penaiAccountId":"","updatedAt":"2026-04-02T10:30:1
+2.862z","expiresAt":"
+"permissions":"[]","geminiAccountId":""
+ue,"activatedAt":"2026-04-01T11:11:07.535z","userIc
+viceRates":{},"claudeAccountId":"",
+d":"","activationUnit":"days"
+"weeklyResetDay":"1","isActive":tr
+"tokenLimit":0,"weeklyResetHour":"o","ser
+m+.a
+WeekLyopusCost
+"rateLimitRequests":o,"droidAccountI
+"createdAt":"2026-04-01T11:11:07.535z"
+leModelRestriction":false,"description
+bednt
+ACCOUR
+a4-43ff-4da3-87aa-603e1ba0acf9","isActivated":"true"
+"allowlmcontext":false,"enab
+claudeConsoleAccountId: "9a4285
+"tags":[],"dailyCostLimit":o,"concurrencyLim
+it":"o","enableclientRestriction":"false","userUsername":"","totalCostLimit":0,"apiKey":"39oeo9da aca9fc8cb4f05cbdf72988e92c729d615f44ebd10177befa4e627d64","astUsedAt":"2026-04-01T11:41:01.696Z","createdBy":"admin","name"："分开时赛罗不能说杰克艾斯好好过那天雷欧艾斯泰罗很久没有退缩过分开时艾迪不要说如果被优利安一笑而过 还不如让奥特选择想要的成一活","rateLimitCost":o,"ownerDisplayNa me":"Admin","usage":{"total":{"requests":0,"tokens":0,"cost":o,"formattedcost":"so.0o"}}},{"id":" bf714f8c-ebd8-4b23-a201-f9d690246ea8","expirationMode":"fixed","icon":"","activationDays":"o","re strictedModels":[l,"openaiAccountId":","rateLimitwindow":0,"ailowedclients":[],"azurepenaiAccou ntId":"","updatedAt":"2026-04-02T10:30:23.517Z","expiresAt":"","permissions":"[]","geminiAccountI d":"","weeklyResetDay":"1","isActive":true,"activatedAt":"2026-04-01T11:45:33.i91Z","userId":""," tokeniimit":o,"weeklyResetHour":"o","serviceRates":{},"claudeAccountId":"","weeklyOpusCostLimit":"","rateLimitRequests":0,"droidAccountId":"","activationUnit":"days","createdAt":"2026-04-01T11: 45:33.191z","allowlmContext":false,"enableModelRestriction":false,"description":"","bedrockAccoun
+tId":""
+"claudeConsoleAccountId":"9a4285a4-43ff-4da3-87aa-603e1ba0acf9","isActivated":"true","tag
+s":[],"dailyCostLimit":o,"concurrencyLimit":"o","enableclientRestriction":"false","userUsername":","totalcostLimit":0,"apiKey":"6cf7bd99cc5f74c4b1dbb67ca297cfa7ea58942fed604289784d35ec9b2966ad""LastUsedAt":"2026-04-01T12:20:19.379Z","createdBy":"admin"，"name":"我差不多就是这种小奶龙，表面

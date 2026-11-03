@@ -1,0 +1,30 @@
+# OCR: Pasted_image_20260512132634.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260512132634.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+NoahTie@ArkD/E/AgentForensics
+>python.\checkpoint_parser.pyC:\hlnet\5-1778389242\Pc.E01/分区2\home\kali\.hermes\checkpoints--filese9671acd24484 9c5
+Filetreefore9671acd244849c5（39files):.X0-lock
+.xfsm-ICE-0XKG03 advanced_shel.php
+agent-browser-h_cac5e3b685/h_cac5e3b685.pid
+config-err-IEoxGj crontab.txt
+exploit exploit.c
+file_shell.php
+hermes-cwd-58095611579d.txt hermes-snap-58095611579d.sh id_rsa
+passwd.txt
+passwords.txt php_cron.txt
+playwright_chromiumdev_profile-g7haWA/Default/CodeCache/js/index
+playwright_chromiumdev_profile-g7hawA/Default/CodeCache/is/index-dir/the-real-index playwright_chromiumdev_profile-g7haWA/Default/CodeCache/wasm/index
+playwright_chromiumdev_profile-g7haWA/Default/CodeCache/wasm/index-dir/the-real-index playwright_chromiumdev_profile-g7haWA/Default/LocalStorage/leveldb/cURRENT
+playwright_chromiumdev_profile-g7haWA/Default/LocalStorage/leveldb/LocK playwright_chromiumdev_profile-g7haWA/Default/LocalStorage/leveldb/LoG
+playwright_chromiumdev_profile-g7haWA/Default/LocalStorage/Leveldb/MANIFEsT-0oooo1
+playwright_chromiumdev_profile-g7hawA/Default/PersistentOriginTrials/LoCK playwright_chromiumdev_profile-g7haWA/Default/PersistentOriginTrials/LoG
+playwright_chromiumdev_profile-g7hawA/Default/sharedDictionary/cache/index
+playwright_chromiumdev_profile-g7haWA/Default/sharedDictionary/cache/index-dir/the-real-index playwright_chromiumdev_profile-g7haWA/Default/sharedDictionary/db
+playwright_chromiumdev_profile-g7hawA/Default/sharedDictionary/db-journal playwright_chromiumdev_profile-g7haWA/Default/shared_proto_db/cuRRENT
+playwright_chromiumdev_profile-7haWA/Default/shared_proto_db/LocK playwright_chromiumdev_profile-g7hawA/Default/shared_proto_db/LoG
+playwright_chromiumdev_profiLe-g7hawA/Default/shared_proto_db/MANIFEsT-ooooo1 playwright_chromiumdev_profile-g7hawA/Default/shared_proto_db/metadata/cURRENT
+playwright_chromiumdev_profile-g7haWA/Default/shared_proto_db/metadata/LocK playwright_chromiumdev_profile-g7hawA/Default/shared_proto_db/metadata/LoG
+playwright_chromiumdev_profiLe-g7hawA/Default/shared_proto_db/metadata/MANIFEsT-ooooo1 users.txt
+users_contacts.txt

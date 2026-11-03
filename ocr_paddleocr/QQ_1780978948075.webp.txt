@@ -1,0 +1,25 @@
+# OCR: QQ_1780978948075.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780978948075.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+root@ubuntu:/etc# find / -name os-release Tetcros-release
+/usr/lib/os-release
+/root/history/etc/os-release
+/root/history/usr/lib/os-release
+/r00t/hist0ry/data/over1ay2/e839e2729d46c064bb9e460ec6b7abf3e11248b695b74ee5c586849474dac51b/diff/etc/os-release
+/r00t/hist0ry/data/overlay2/e839e2729d46c064bb9e460ec6b7abf3e11248b695b74ee5c586849474dac51b/diff/usr/1ib/os-release/run/systemd/propagate/.os-release-stage/os-release
+/data/overlay2/e839e2729d46c064bb9e460ec6b7abf3e11248b695b74ee5c586849474dac51b/diff/etc/os-release
+/data/overlay2/e839e2729d46c064bb9e460ec6b7abf3e11248b695b74ee5c586849474dac51b/diff/usr/1ib/os-release
+noot @uhuntu: /et c# Cat
+/data/nverlau2/e839e2729d46c064bb9e460ec6b7abf3e11248b695b74ee5c586849474dac51b/diff/etc/os-release
+PRETTY_NAME="Ubuntu 22.04.5 LTS NAME="ubuntu'
+VERSION_ID="22.04"
+VERSI0N="22.@4.5LTS(Jammy Jellyfish)
+VERSIUN_CUDENAME=Jammy ID=ubntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIvAcY_PoLIcY_uRL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy root@ubuntu:/etc#

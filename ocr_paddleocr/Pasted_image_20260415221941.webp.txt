@@ -1,0 +1,8 @@
+# OCR: Pasted_image_20260415221941.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415221941.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+NoahTie@ArkD/Pinghang2o26
+> certutil -hashfile .lHaimuniu_vPN_ciient.zip MD5 MD5的.Haimuniu_VPN_cient.zip哈希：
+5436b61ea58adb794804e3f18ce53f2a Certutil：-hashfile命令成功完成。

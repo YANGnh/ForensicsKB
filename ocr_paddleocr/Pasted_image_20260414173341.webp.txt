@@ -1,0 +1,81 @@
+# OCR: Pasted_image_20260414173341.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414173341.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+5
+DiskGenius V6.0.0.1631 x64 Professiona
+File
+Disk
+Save All
++
+Partition
+Partition Recovery
+Tools View Help
+Recovery
+Onrk Paitition
+Partition
+HD0:YMTCPC411-1TB-B(954GB)
+ESP(O) MSR(1)
+由. Local Disk(C:) 由.Partition(3)
+HD1:PCleSSD(1908GB)
+MSR(O) 由 Data(D:)
+HD2:SamsungPortableSSDT5(466GB)
+由 Noah(E:) 由 EFI(1)
+ HD3:SamsungPortableSSDT5(932GB) 由.Forensics(G:)
+由Local Disk(z:)
+.. Local Disk(Recover files)(Y:)
+白. Local Disk(Current) (Y:)
+$RECYCLE.BIN
+System Volume Information
+白RecoveredTypes(1) 由.wDocument Files 由 Graphic Files
+Ready
+Format
+Delete
+Partitions Name:
++
+Files
+Name
+Packup
+O5Migration
+Sector Editor
+DiskGenius
+All-In-One Solution For
+Partition Management & Data Recovery
+Local Disk(Current) (Y:)
+FAT32 1023.9MB
+(*jpg:*.bmp)
+$RECYCLE.BIN
+System Volume Information
+温
+49b367ac261a722a7c2bbbc328c32545 49b367ac261a722a7c2bbbc328c32545 49b367ac261a722a7c2bbbc328c32545 49b367ac261a722a7c2bbbc328c32545
+Folder: YA
+ Deleted
+? Normal
+SizeFile Type
+Folder Folder
+195.0KB File
+195.0KB
+File
+195.0KB
+File
+195.0KB File
+ System Attribute
+HS HS D D D D
+Number of Files: 4 . Total Size: 780.0KB. Selected: 0, Size: 0 B
+.ocal Disk(Current) (Y:
+FAT32 1023.9MB
+Number of Folders: 2, Selected: 0.
+ Duplicate
+Short Name $RECYCLE.BIN SYSTEM~1 49B367~1 49B367~1 49B367~1 49B367~1
+Filter
+More>>
+Modify Time
+2026-03-10 09:25:08 2026-03-09 09:47:38 2021-09-17 10:02:52 2021-09-17 10:02:52 2021-09-17 10:02:52 2021-09-17 10:02:52
+Selected: 0 B /0 Files
+口
+x
+Share On Twitter Share OnFacebook Create Time
+2026-03-10 09:25:06 2026-03-09 09:47:37 2025-03-25 05:12:38 2025-03-25 05:12:38 2025-03-25 05:12:38 2025-03-25 05:12:38
+CAP
+NUM

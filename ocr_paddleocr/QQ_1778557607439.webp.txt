@@ -1,0 +1,20 @@
+# OCR: QQ_1778557607439.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778557607439.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+g
+黄志远PC.E01>用Linux基本信息>PC.E01/分区2>历史命令
+口三序号口1 口2 3 口4 口5 口6 口7 口8 口9 口10 口11 口12
+三用户名过滤 kali kali kali kali kali kali kali kali kali kali kali kali
+三Shell类型过滤
+三命令过滤
+echo"HISTSIZE=1o">>~/.zshrc && sourc...
+cd/home/kali Is -Is
+cd Downloads cd Desktop Is -la
+rm -rf cookies.txt
+cd. . Is
+cd Documents
+Is -la hermes
+三源文件过滤
+PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history PC.E01/分区2/home/kali/.zsh_history

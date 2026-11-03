@@ -1,0 +1,19 @@
+# OCR: QQ_1779179767138.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779179767138.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+g
+phone方俊朗.E01>品App分析
+三序号 O
+三图标过滤
+三名称过滤 TCUA
+优质客户AI判定
+三包名过滤
+co.tcua
+com.example.predicto
+三版本号
+过滤 0.To.
+1.0
+三大小等于
+OJ.JTVID 38.27MB

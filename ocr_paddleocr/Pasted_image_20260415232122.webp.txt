@@ -1,0 +1,17 @@
+# OCR: Pasted_image_20260415232122.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415232122.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+218 219 220 221 222 223 224 225
+228 231 232
+//Token:0x0600002A
+RID: 42 RVA: 0x00003044 Fi1e 0ffset: 0x00001244
+private static bool
+try
+if
+catch
+nIHJ1ssdguWOmBZE jwm4ZTWC6RpznK 4TffpHO5TZr9zRI sVfLweHMOE1Ww68O)
+(new ConputerInfoO.OsFuliName.ToLowerO.Contains("xp"S) returntrue:
+(Exception ex)
+return false:

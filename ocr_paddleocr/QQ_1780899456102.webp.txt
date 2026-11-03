@@ -1,0 +1,36 @@
+# OCR: QQ_1780899456102.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780899456102.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+口
+三序号
+检材2-手机.tar/data/user/0/com.miui.notes/files/attachment
+三名称过滤
+三大小等于
+1.45MB
+3e627d9046481366eef9c89
+三创建时间
+起始
+结束
+3e627d9046481366eef9c89183f87004968363d9 - IrfanView (Zo0m: 1281 x 961)
+FileEdit
+Image
+二HUX
+4000 x 3000 x 24 BPP
+Options
+View 32
+Help
+?
+M
+vc加密
+Y
+三修改时间起始
+结束
+Y
+2026-04-1519:01:00
+qed2@99y8.com.cn
+0/032%1.45MB/34.33MB
+2026/4/15 /19:01:00
+三全路径过滤
+检材2-手机.tar/data/user/o/com.miui.notes/files/atta

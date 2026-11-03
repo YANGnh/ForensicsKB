@@ -1,0 +1,40 @@
+# OCR: QQ_1780631475712.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780631475712.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+数据库结构(D）表():画 11m
+过滤
+浏览数据(B) Huid
+编辑杂注 (R)
+6
+1cfa13c42fb6c4878bfdd8437e6b3ac7d
+执行 SQL() 国
+name 过滤
+deepseek
+type 过滤
+邮过滤
+A
+品 desc
+过滤任何列
+过滤
+大型语言模型（LLM）
+5000
+account_proxy
+{"apiKey":"sk-or-vl-..
+过滤
+ext
+{"ext":{"vendor model":"openai/gpt-..
+编辑数据库单元格(C)
+模式：JSON
+23 4
+67 8
+甲
+V
+"ext":
+#PAO
+x
+"vendor model":
+"openai/gpt-o33-120b:free"
+"vendor_url": "https://openrouter.ai/api/vl'
+"type":"url":".

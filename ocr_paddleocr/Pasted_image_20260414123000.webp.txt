@@ -1,0 +1,50 @@
+# OCR: Pasted_image_20260414123000.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414123000.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+x文本搜素：password 搜素文本：
+Q-password 在以下位置搏索：
+口方法名
+口类名
+字段名
+图代码
+资源
+注释
+搜索选项：
+冈忽路大小写
+正则表达式
+只在当前页搜素
+口
+x
+自动搜素
+节点
+ poooentry/src/main/ets/pages/AuthPage.#i2>#confirmPassword^1(Object, ( public Object #~i2>#confirmPassword^1(Object functionobject, Object nel
+objthis.confirmPasswordA
+m p0o0entry/src/main/ets/pages/AuthPage.#vi2>#confirmPassworda1(obiect.
+m poooentry/src/main/ets/pages/AuthPage.#~i2>#handleAction(object, objec: if ((this.password.length < 6 ? 1 : o) != o) (
+!= this.password ? i: o) != 0) [
+ poo0entry/src/main/ets/pages/AuthPage.#vi2>#handleAction(object, Objec: if ((this.confirmPassword m po00entry/src/main/ets/pages/AuthPage.#~i2>#handleAction(object, objec wl = el.wi(this.password);
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfu
+m p00oentry/src/main/ets/pages/AuthPage.#vi2>#handleAction(object, objec m po00entry/src/main/ets/pages/AuthPage.#~i2>#handleAction(object, oObjec
+this.navigateToHome(this.password):
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfu
+m p000entry/src/main/ets/pages/AuthPage.#~i2>#handleAction(object, objec
+if(isfalse(el4.zi(this.password
+ poooentry/src/main/ets/pages/AuthPage.#~i2>#handleAction(object, objec:
+ resumegenerator3)) == null)[
+m poooentry/src/main/ets/pages/AuthPage.#i2>#handleAction(object, objec
+this.navigateToHome(this.password):
+m poooentry/src/main/ets/pages/AuthPage.#~i2>#initPrefs(Object, object,  suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncft m poooentry/src/main/ets/pages/AuthPage.#~i2>#navigateToHome(object, obj:AppStorage.setorCreate("userPassword
+ argos
+public Object #~i2>#password(Object functionobject, Object newTarget,  o
+m p0o0entry/src/main/ets/pages/AuthPage.#~i2>#password(object, object,
+m po00entry/src/main/ets/pages/AuthPage.#~i2>#password(object, object, ol obj = this.
+加载所有 ■保持窗口
+加载更多
+停止
+已找到50+
+passwordg
+结果分类
+转到
+取消

@@ -1,0 +1,19 @@
+# OCR: QQ_1778831537885.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778831537885.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Objects H Save Local
+1 2 3
+OOw @dataanalyze (Local) - Table
+男性比女性多出多少人@dataanalyze（
+ Query Builder  Beautify SQL （) Code Snippet Ask Al
+dataanalyze
+SELECT 性别，COUNT（*） AS cnt
+FROM_oOw GROUP BY 性别;
+Message Data 性别女男
+ Summary Info
+cnt
+Result 1
+999823 1000177
+Run →  Stop : Explain

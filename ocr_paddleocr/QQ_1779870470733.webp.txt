@@ -1,0 +1,19 @@
+# OCR: QQ_1779870470733.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1779870470733.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+g
+^检材1-计算机.E01>
+三序号 □1 □2 □3
+三附件名称过滤
+Eml邮件>
+推广设计图.png.eng 加密图片查看.html public.txt
+附件@
+三扩展名过滤.enc.html.txt
+三文件大小
+等于
+V
+367.5KB 6.19KB 315B
+三邮件主题过滤
+转发：推广设计图转发：推广设计图转发：推广设计图

@@ -1,0 +1,17 @@
+# OCR: 2702.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/2702.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+zaoqiwang@zaoqiwang:/clau $ rm j.js
+CopperKoi@flag:~/forensic
+(base)(CopperKoi?flag)-[~/forensicl $ vim j.js
+(base)(CopperKoiflag)-[~/forensic
+$nodej.js openclaw34 claude 37
+(base)(CopperKoiflag)-[~/forensic]-$ cat j.js
+const { should inject for ua f = require('./bash block injector.js');
+const uas =['curi'，'openclaw'，'mozilla'，'wget'，'httpx'，'claude'，'requests','bot','crawler']; const n =2000;
+for（constuaofuas）t let hits = o;
+const ips = Array.from({ length: n },(-, i) = 10.${(i >> 16) & 255}.$[(i >> 8) & 255}.${i & 255}); for（constipofips）should_inject_for_ua(ua，ip);
+for（constipofips）if（should_inject_for_ua(ua，ip)）hits++; if(hits) console.log(ua,hits);
+(base)(CopperKoiflag)-[~/forensic]

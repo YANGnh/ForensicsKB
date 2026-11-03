@@ -1,0 +1,39 @@
+# OCR: QQ_1778777523129.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778777523129.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:51
+
+Variables
+Name
+SectorsPerTrack HeadsPerCylinder
+NumHiddenSectors NumberOfSectors32
+SectorsPerFat32 ActiveFatlndex : 4 FlagsReserved1 : 3 TransactionFat : 1 FlagsReserved2 :8 Version
+RootCluster InfoSector
+Variables
+Inspector
+3Fh FFh 3Fh
+Value
+2FAF080h 7530h
+Oh Oh
+Oh Oh 5h 3h
+ Output
+Selected: 4 bytes (Range: 28 [1Ch] to 31 [1Fh])
+Find Results
+Start
+18h 1Ah 1Ch 20h 24h 28h 28h 28h 28h 2Ah 2Ch 30h
+2h 2h 4h 4h 4h 2h 2h 2h 2h 2h 4h 2h
+Find in Files
+Size
+USHORT USHORT ULONG ULONG DWORD WORD WORD WORD WORD WORD DWORD WORD
+Compare
+Type
+Ila Histogram
+Start: 28[1Ch] Sel: 4 [4h]
+Color
+ Checksum
+Size: 15.479.597,056
+Process
+UTE8 LIT
+Hex
+X
+comment mou Disi 皖OVR

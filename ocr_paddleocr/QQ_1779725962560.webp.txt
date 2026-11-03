@@ -1,0 +1,14 @@
+# OCR: QQ_1779725962560.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779725962560.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:55
+
+NoahTieoArkD/c/File0utput-1073741510
+python.\bruteforce.py
+scanning
+PASSWORDFOUNE
+password
+time hash
+08164085 0.7s
+7%.0:00:05.10.3M/s
+fc29eb768c139c05c0bfcb697d9b26d194878a66451b3ab91b202e9710874a63

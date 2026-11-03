@@ -1,0 +1,7 @@
+# OCR: QQ_1779251819839.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779251819839.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+[rootolocalhost htm]# nginx -t
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok nginx: configuration file /etc/nginx/nginx.conf test is successful Lrootolocalhost htmzi# cat /etc/nginx/nginx.conf

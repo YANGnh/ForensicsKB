@@ -1,0 +1,38 @@
+# OCR: Pasted_image_20260414141529.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414141529.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+g
+api.E01>Linux基本信息>ubuntu-vg(yQKxyl-n4VL-YA9k-c2Po-rOKS-7MHk-yCHSAk)/分区0>用户列表
+三序号口26 口27 28 口29 口30 31 口32 口33 口34 口35
+三用户id
+过滤 TUS
+998 1 9 39 106 1000 3 38 42 991
+三名称过滤 sysiog
+systemd-n...
+daemon news
+irc tss
+zaoqiwang
+sys list_apt polkitd
+三用户目录过滤
+/monexiste...
+/usr/sbin/var/spool.../run/ircd/var/lib/tpm/home/za...
+/dev/var/list
+/nonexiste..
+三描述过滤
+systemd Network...
+daemon news ircd
+TPM softwarestac...
+zaoqiwang sys
+Mailing List Mana... User for polkitd
+三账户被锁定
+过滤口
+否否否否否否否否否否
+三Shell 过滤
+/usi/sv/Torogi/usr/sbin/nologin/usr/sbin/nologin/usr/sbin/nologin/usr/sbin/nologin
+/bin/false/bin/bash
+/usr/sbin/nologin/usr/sbin/nologin/usr/sbin/nologin/usr/sbin/nologin
+三登录次数
+等于 0
+0 0 0 0 0 10 0 0 0 0

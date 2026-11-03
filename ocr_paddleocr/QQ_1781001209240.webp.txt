@@ -1,0 +1,15 @@
+# OCR: QQ_1781001209240.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781001209240.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+root@ubuntu:/#cat/etc/hosts
+127.0.0.1 127.0.1.1
+Localhost
+ubuntu.ubuntu
+10.0.3.100mytidb
+ubuntu
+#ThefollowinglinesaredesirableforIPv6capablehosts
+:1
+localhostip6-Localhost ip6-loopback
+ffo2::1ip6-allnodes ffo2::2ip6-allrouters

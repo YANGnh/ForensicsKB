@@ -1,0 +1,115 @@
+# OCR: Pasted_image_20260511180906.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511180906.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+010 Editor -C:^hlnet/6-1778389403Viuyang-pc.E01/分区8/BaiduNetdiskDownload/无标题.png
+File hosts
+Edit
+0:0000 0:0010 0:0020 0:0030 0:0040 0:0050 0:0060 0:0070 0:0080 0:0090 0:00A0 0:00B0 0:00CO O:00D0 O:00E0 O:00F0 0:0100
+Variables > sig
+Select
+End
+View
+Format
+Scripts
+Templates G
+& Find in Files
+FERROR: CRC Mismatch @ chunkJ0l; in data: e8d3c143: expected: 9665e23a
+Debug AB
+WPSOfficeRCTSE202312.1.0.24655x6420260115雨糖科技.exe
+89 50 4E 47
+LODOA
+0007
+80
+0000
+o
+04 00
+09
+6E 00 3D
+63 4 65
+68 67 2D
+> chunk[0] > chunk[1] > chunk[2] > chunk[3] > chunk[4] > chunk[5] > chunk[6]
+Variables
+6D 30
+4 30 6
+73
+67
+4 o
+0
+Name
+00
+02
+4D41 o
+00 00
+0A 88
+00 00 60
+o
+00
+00
+00 00
+0806
+00
+B OE 54
+8E 58
+QB
+FC
+00 6
+00 5
+49 00
+61 OF
+3
+48 44.52
+E8 05 40
+02 66
+30
+Value
+P3
+00 01 3A
+0 30
+6D 6
+BF 7
+00 63 6 4D 6B 65 62 66
+66 64
+IHDR (Critical, Public, Unsafe to Copy) sRGB (Ancillary, Public, Unsafe to Copy) gAMA (Ancillary, Public, Unsafe to Copy) pHYs (Ancillary, Public, Safe to Copy) iTXt (Ancillary, Public, Safe to Copy) IDAT (Critical,Public,Unsafe to Copy) IDAT (Critical,Public,Unsafe to Copy)
+ Output   Find Results
+Inspector
+Project
+Tools
+无标题.pngx
+Window
+23456789ABCDEF
+PNG....
+.IHDR
+. .gAMA
+......a.
+.iTXtXML:c
+om.adobe.xmp.
+<?xpacketbegin
+id=W5MOM
+pcehiHzreszNTczk
+c9d'?>
+x: xmpme
+ Xmlns : X="adob ta
+"><rd+
+e:ns:meta/
+RDE
+xmlns:rdf="
+attp://www.w3.or g/1999/02/22-rdf-syntax-ns#"><rd
+start
+oh 8h 21h 2Eh 3Eh 53h 1E6h 10004h
+Compare
+Help Size
+8h 19h Dh 10h 15h 193h FE1Eh 10000h
+舞 Type
+struct PNG SI... struct PNG C... struct PNG C... struct PNG C... struct PNG C... struct PNG C... struct PNG C... struct PNG C...
+La Histogram =E Checksum
+Color
+moy
+口
+x
+Comm
+ Process mov Disassembler.
+Pos: 0 [0hl Val: 137 89h Size: 208.289
+Hex UTF8 LIT
+OVR 院

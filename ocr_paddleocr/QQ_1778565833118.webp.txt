@@ -1,0 +1,33 @@
+# OCR: QQ_1778565833118.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778565833118.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+SEARCH
+弱密码策略漏洞 Replace
+G
+Aa ab
+AB
+1resultin1file-openineditor Search with Al
+通讯录管理系统漏洞清单.md###7.弱密码策略漏洞（.
+回米
+X
+file_ shell.php
+通讯录管理系统漏洞清单mdx
+通讯录管理系统漏洞清单,md >abc 并通讯录管理系统漏洞清单>a
+#通讯录管理系统漏洞清单
+5 u2 69 70 71 72 73 74 75 76 77 78 79 80
+#总漏洞数量：8个可利用漏洞###u
+日系列店市顺用
+【T）
+### 7，
+弱密码策略漏洞（中危）
+**漏洞位置**：整人系统
+**风险等级**：中危（cVss：5.5）**漏洞描述**：
+所有用户使用相同密码密码以明文存储
+默认账户使用弱密码**默认凭据**：
+admin / admin123
+test
+test123
+容易遭受暴力破解和凭据填充攻击
+咪*影响中求：

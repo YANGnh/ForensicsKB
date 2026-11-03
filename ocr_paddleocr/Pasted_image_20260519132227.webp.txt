@@ -1,0 +1,21 @@
+# OCR: Pasted_image_20260519132227.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519132227.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+保险箱钱包
+银行卡
+余额：5.8234ETH 类型：ETH
+备注：老板私人钱包公司运营账户
+账外账
+密码备份
+地址：0xB2C3D4E5F6a7b8c9d0e1f2a3b4c5d6e7f8a9b0
+余额：28.1560ETH 类型：ETH
+备注：日常运营资金备用热钱包
+地址：0xC3D4E5F6a7b8c9d0e1f2a3b4c5d6e7f8a9b0
+余额：3.2150ETH 类型：ETH
+备注：应急使用
+C2配置
+通讯录
+核心资料
+返回

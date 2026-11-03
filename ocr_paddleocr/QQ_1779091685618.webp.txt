@@ -1,0 +1,59 @@
+# OCR: QQ_1779091685618.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779091685618.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+XPROXMOX ServerView
+Datacenter (pgscup2026)
+pve-node1 pve-node2 pve-node3
+Tasks
+Clusterlog
+Start Time
+May 18 16:02:11 May1815:53:53 May 18 15:52:34 May 18 15:16:47 Apr2322:12:05
+Virtual Environment 9.1.1
+Datacenter Q Search
+Summary
+Notes Cluster
+p
+End Time
+Ceph Options Storage Backup
+Replication Permissions Users
+APITokens TwoFactor
+Groups Pools Roles Realms
+Node
+May 18 16:02:11 May 18 15:55:00 May 18 16:02:11 May 18 15:55:01 Apr 23 22:12:05
+pve-node2 pve-node3 pve-node2 pve-node1 pve-node3
+Type个
+zone zone zone node node node qemu storage storage storage storage storage storage storage storage storage
+Username root@pam root@pam root@pam root@pam root@pam
+Search
+Description
+localnetwork (pve-node1) localnetwork(pve-node2) localnetwork(pve-node3)
+pve-node1 pve-node2 pve-node3 100(web)
+Ceph pgscup pool (pve-no.. local (pve-node1)
+local-lvm(pve-node1)
+Ceph_pgscup_pool (pve-no... local (pve-node2)
+local-lvm(pve-node2)
+Ceph_pgscup_pool (pve-no... local (pve-node3)
+local-lvm(pve-node3)
+Description
+Disk usage...
+60.1% 49.2% 49.5%
+60.1% 0.0%
+49.2% 0.0%
+49.5% 0.0%
+Bulk start VMs and Containers BulkstartVMsandContainers Bulk start VMs and Containers BulkstartVMsandContainers
+BulkshutdownVMsandContainers
+Memory us...
+42.9% 41.4% 41.0%
+Documentation CPUusage 1.6% of 2 ... 1.2% of 2 ... 1.2% of 2 ...
+Create VM Search:
+Uptime 00:52:43 00:06:01 00:15:41
+Status OK OK
+ Create CT
+Bulk Actions Host CPU ...
+root@pam
+? Help Host Mem..
+Error: unexpected status
+OK OK
+> >

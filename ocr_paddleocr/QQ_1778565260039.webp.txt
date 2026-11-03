@@ -1,0 +1,32 @@
+# OCR: QQ_1778565260039.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778565260039.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:49
+
+SEARCH
+www-data Replace
+C
+回
+Aaab*
+AB
+7 results in 2 files - Open in editor Search with Al
+→渗透测试报告192.168.61.135...
+-Web用户www-data
+3.**权限提升**：获得www-data用运行用户：www-data
+→通讯录管理系统漏洞清单.md
+-**验证命令**："id返回"uid=33(W.....* 返回 uid=33(www-data) gid=33......gid=33(www-data) groups=33(w...-**运行用户**：www-data
+ file_shell.php
+→通讯录管理系统漏洞清单md×
+通讯录管理系统漏洞清单,md >abe 并通讯录管理系统漏洞清单>abc ##系统信息
+#通讯录管理系统漏洞清单
+90 10 184 185 106 187 108 19 11 111 112 113 114 115 116
+##攻击链示例
+###最小攻击路径：##系统信息
+**操作系统**：Debian 12
+**内核版本**：6.1.0-44-amd64**Web服务器**：Apache/2.4.66**PHP版本**： 8.2.30
+**数据库**：5QLite 3.49.1**运行用户**：www-data#开放端口
+**22/tcp** - ssH (OpenssH 9.2p1) 1.
+**8o/tcp**-HTTP（Apache 2.4.66）-:
+通讯录管理系统
+2.
+**8000/tcp** - HTTP （Uvicorn） - AI外呼系统API 3

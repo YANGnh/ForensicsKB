@@ -1,0 +1,76 @@
+# OCR: QQ_1781018186918.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1781018186918.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:39
+
+Download CyberChef + Operations
+to hex ToHex
+PEMto Hex ToHexdump To Hex Content
+Object Identifier to Hex To Modhex
+Parse ASN.1 hex string
+Favourites Dataformat
+Encryption / Encoding PublicKey
+Arithmetic / Logic
+Networking Language Utils
+DatefTime Extractors Compression
+Hashing Code tidy Forensics Ai
+45
+Recipe ToHex Delimiter None
+RC4
+Passphrase
+PleaseRunAsA
+From Hex Delimiter None
+STEP
+UTF8
+三
+Last build: A year ago - Version 10 is here! Read about the new features here
+Input
+kee.0+b3-50Rii*ro60e0au*aniso5"ooRbo.
+,jAG
+a*WuaEe-HoAS5w9RrSfVAd!vae$$0>0i"*A2ei,*x?$;yNci;D!MOu;+i:0
+Bytes per line
+Input format Hex
+BAKE!
+2
+Output format Hex
+Auto Bake
+Options
+aaEZCxT1q-oisPak.3$·ui·e:"AU'EeP%·)goeo-"C$E·W·f."p-0tAJA.qg.>OF? 7Ay<a+5ip.aRsE+igE%iesop
+ALEnHu%81=aEtEy?0o%+%=ao?f*+V**-ap"F6e+Ego.8*x*xe%A*9a* f6·uPoie@>》LJ>in%beD'tbalrQ|;>O@u.-bo*m#*ba%o/AGo'te+JJyiB7;e+?*f+FWw0.* 74U.m1 7+%A>.OwN5N>u'LEOnuU*0iiaU-le>,x"Ywtp°d%))>u5.0i.**.*g"V5'+ N-WA%.1-n1.MtJD7?UnEeaE7-+X*fAE8@@xr%?f*?NwAAEAj6ik2*M i1|gs·A>U%AYQ0=EJOwlu-=%u*P+zT-0:+w/
+NckI%fA)YAE)iép%E_ee+O}gOf-yiG.01auuouUvoouh2*nW+vOYXou0f'C++FU.<Ww*J of+s.+H+C"DPsT5*r57weoJ***+YB=a3*++oiBias*#*Z<+g0e%q*eo**WE'Z+/U0 eINhAi@i:01+?zalebh'yta+nAtyo.：cuZ+B)MF"-o"AosG%+iz5iIuwo#.90+DK0 DJ&y*UA'56@A*-*V
+e-duacEuuU.U+"*?^cE=R[8Ozah?Au|/E.C*ECYfiRu>AA;'+%w2*+Ib"UsF0*E3%aJ;onast.?;nfEU.yza;aazUoDi@1$W_"b.B5:o.".XuA.3ocjd+y oKN;^dk***b"i.4)oi_5-**%=.f0)y*tp23/
++iFOt+xTZ&EM%=Gida*A+xs0a01.?I+aU0oaeh0@co.6++51e+iEEowR 7E-iUr=jp_V+A*t'.*aK8t[oiEtD·1@3aa?PA*y@WxN·yOU""38A<·OP.f·NiXJY/N>] 4*+wOabHUvB^b0iu^**+*+9Un+Yaa++*T=.HGtAoa1Zf1-+c++xyA4b@
+GalosY
+qu'coEZA?iNo"[gJk%!=m5G['G,Otu+eonl?nE1"Yu3OG
+C16486272 output
+三41282
+?
+Name: Size: Type:
+About / Support
+File details VC
+？
+10,486,272 bytes unknown
+Loaded.
+100%
+Tr Raw Bytes
+←LF
+困因
+3ADX+A0%+*+1*UONPh'*EO1*+++w4*+*+**A*anI+V+UEF%AF°4'A?UIr+U-u+A*t*bF°f*4t&fh4*4*f
+1o'uo=eb+.f*+f.f+y*fh+4fp.Shh+"B.offy[zfYfY"4fy+$++Ay+ux+"faA.oe
+A disk read error occurred BOOTMGR is compressedy"
+Press Ctrl+Alt+Del to restart'
+Hiuetyoe
+4444444444444444444444045444U244B40404T4M4G4R444$4I4340440444S4444444444444444444444444444444444444 An operating system wasn't found. Try disconnecting any drives that don't"
+containanoperatingsystem.444*444+4+44+4*4.f.+f*yf+afeRtf*@yu4**of.4+foae"f:R*f-aff +***.e'*A.6*++Ah4 PE+"f'f-Uf*J"*4f+afe**f.Af+af*4  '·AfAr+*cPe 0fa.*Ag*@*gf-8y'*+L'*gf9*+3+f+E*.
+Lg+x
+++#Ag:H*++f.ogp
+e.*.fQ*fu65fY.Agfx4**gf@ef+AAf.oelgftg-@*4gfPg:J@+5*gf.rBeI*fQf05fY***Agx*** f.ogtroufa""AfPgf.af.A*
+"gf+J.fAe%gfB"f30f+6Rf·Ef+Af^Afg.yeEuf·u"'sfa."AfsfpfQfvfW*e*fN"f_fafYf.A*44f;E.*f. f"of·Eonf^e'fPfPgf*.fPgf·CfPgfVf.O*f·b"f·Aeq'f·AfzfYfBfQfve?f·A·nufafYfb'eN'tf·Af·UfYfzfQfvfNeedy e%gf+Sgf+J(fu4**"4gfB,f#A*+t*f3E"eoyf#E*+2*f4+4f;E:*4f+E*fQfwfRfEe.yeuyfzffYftueUe?yeeyeb1 4*4f31fa+A*f*f30.*》1f#A+*t*fTCPA+i*+u:*a*f.*w4*f>TCPAf1**4f@*444f30f%MBRCh44*f:*41*f.w*f> U4*+fa+*4f.*4*4Afa+*f.4*4*A**f*+***bA+&+4.*+2i+*20*40f**+741*4+e+Ax*+n*4*++A*ao*&+4eEh*4***6*4|1
+！#$%&
+stsytuy
+S55444444454544444454410 c16486272
+三935
+04124345464748494:4:4<4
+1366%899*::3-
+?1859ms
+TT Raw Bytes

@@ -1,0 +1,20 @@
+# OCR: QQ_1779090134887.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779090134887.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+root@pve-node1:/etc/network# systemctl restart networking root@pve-node1:/etc/network# ip addr
+1:lo: <L0oPBACK,uP,LoER_uP> mtu 65536 gdisc nogueue state UNKNowN group default glen 1ooo
+link/lo0pback 00:00:00:00:00:00 brd 00:00:00:00:00:00  inet 127.0.0.1/8 scope host lo
+valid_lft foreven preferred_lft forever inet6 ::1/128 scope host noprefixroute
+valid_lft forevenpreferred_lft
+foreven
+ens16o: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 15oe qdisc mg master vmbr state UP group default glen 10oe
+Iink/ether 00:0c:29:64:b1:44 brd ff:ff:ff:ff:ff:f: altnameenp3sg
+altnameenx000c2964b144
+ :
+vmbr: <BROADCAsT,MULTICAsT,uP,LOWER_uP> mtu 15oo disc nogueue state uP group default glen 1ooo
+link/ether0:0c:29:64:b1:44 brd ff:ff:ff:ff:ff:ff inet192.168.0.50/24 scopeglobal vmbro
+valid_lft forever preferred_lft forever
+inet6 fe80::20c:29ff:fe64:b144/64 scope 1link proto kernel_ll
+valid_lft forever preferred_lft forever

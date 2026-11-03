@@ -1,0 +1,32 @@
+# OCR: QQ_1778514540851.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778514540851.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+PowerFish
+X
+/m/c/U/NoahTie
++
+口
+x
+f97bb4e3fb5c41a5776bf01d0952f929abce9d975434408bcc8354c1f8ae6252:21e511779d6e0180b578b7a453807014:100000:6f7064617461303 1000100000000000067f29be6d379d24d1cfaeca750ed4ab1f88aeee703794c507ceeab51f8f6397022f4844ba6f9e5918d647034c6dc898227ca803 81cf36ac43892cdcd28385e5faa6860a4df7fed266119592eabec47fec1212bb3135c51843154791a590b5ba1f43cbe27fee3a7585c119f4e24f96bf 244414d97e9b9f64a77798e4392cfadac3d072e1d8c09d651712efe1661159139528cbd50386f407236b8d399f507ad2b8fbf726e04d7e22d75faf4b bd53d6f047739e19d91b8065535fa6dd9099af61d24fdfb4e09321149863d149a13b4ee78a36d422f703c5ea89a1ece7c99d420ba7a872b425bf2bf6 10800e33170c992b82198d82330f8c3c27659259cb11d6942df86010468d1df5a7a4516756a9793f9075c593873fcd125bdab39919b3a3143:iuyan g@6419
+Session. status.
+Hash.Mode. Hash.Target. Time.Started
+Time.Estimated Kernel.Featur
+Guess.Base Guess.Queue Speed.#01 Speed.#03. Speed.#*. Recovered. Progress.. Reiected.
+Restore.Point
+Restore.Sub.#o1.. Restore.Sub.#o3..:
+hashcat Cracked
+8200(1Password，cloudkeychain)）
+f97bb4e3fb5c41a5776bf01d0952f929abce9d975434408bcc8.：.3a3143
+MonMay1123:48:162026(32secs) MonMay1123:48:482026（0secs）
+PureKernel(passwordlength0-256bytes) File(D:lCaseFileslFileOutputlcombo.txt) 1/1（100.00%）
+10745H/s（10.74ms）@Accel:4Loops:250Thr:256Vec:1 503H/s（9.62ms）@Accel:8Lo0ps:30Thr:256Vec:1 11248H/s
+1/1（1oo.0o%)Digests(total)，1/1(1oo.0o%)Digests（new） 346112/555000（62.36%）
+0/346112（0.00%） 0/555000（0.00%）
+Salt:0Amplifier:0-1Iteration:41750-4200e Salt:0Amplifier:0-1Iteration:99990-99999
+Candidate.Engine.:
+DeviceGenerator
+Candidates.#01...:Liuyang@02112→Liuyang@49215 Candidates.#03...:liuyang@00o→liuyang@05383
+Hardware.Mon.#01.:Temp79cUtil:99%Core:2662MHzMem:14001MHzBus:8 Hardware.Mon.#o3.:N/A
+Started:MonMay1123:48:102026 Stopped:MonMay1123:48:512026

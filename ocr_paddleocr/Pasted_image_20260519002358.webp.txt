@@ -1,0 +1,13 @@
+# OCR: Pasted_image_20260519002358.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519002358.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+169 170 171 172 173 174 175
+[2024-02-20 16:04] [conv_d usr_zhanggui_usr_caishen_1776766716239] usr_caishen : 好。
+[2024-07-20 00:00］[conv_d_usr_zhanggui_usr_caishen_1776766716239］usr_caishen [RECALLED］：把23年10月到24年6月的账本整理—下，发给我。
+[2024-07-20 00:00] [conv_d_usr_zhanggui_usr_caishen_1776766716239] usr_zhanggui： 收到，这就开始弄。[2024-07-20 00:101 [conv d usr zhanggui usr caishen 17767667162391 usr zhanggui
+i「DELETED]：【图片】账单.Png
+[2024-07-20 00:10] [conv_d_usr_zhanggui_usr_caishen 1776766716239] usr_zhanggui : 请查收。[2023-09-01 14:00] [conv_g_话务组群_usr_zhanggui] usr_jinlinwang
+：@话务一组今天开始Deepfake培训，大家认真学。
+「2023-99-9114:95］「convg话务组群usrzhangguiusrhuawua：收到，金鳞王。

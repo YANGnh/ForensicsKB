@@ -1,0 +1,30 @@
+# OCR: Pasted_image_20260511180118.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511180118.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+Elcomsoft Forensic Disk Decryptor 语言帮助
+选择加密的磁盘分区映像和解密方法数据源：
+Z:刘洋\liuyang_pc.E01
+磁盘
+物理驱动器0
+解密方法： O内存转储 Q休眠文件
+内存转储：
+分区分区1 分区2 分区3 分区4 分区5
+Q保存的密钥
+文件系统 FAT32 NTFS NTFS FAT32
+O Active Directory 文件
+Z:刘洋Vly-memdump.mem
+返回
+大小
+256.00 GB 100.00 MB 16.00 MB 127.20 GB 704.00 MB 128.00 GB
+O密码
+Q恢复密钥
+下一步≥
+退出
+加密
+浏览.
+BitLocker
+浏览.
+帮助
+X

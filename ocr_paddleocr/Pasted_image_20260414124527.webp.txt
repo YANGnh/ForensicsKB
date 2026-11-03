@@ -1,0 +1,14 @@
+# OCR: Pasted_image_20260414124527.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414124527.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+vault_prefs* x
+<?xmlversion="1.o"encoding="uTF-8"?> <preferences version="1.0">
+<string key="orig_path_139346145_p0.png.tb">file://docs/storage/Users/currentUser/Download/139346145_p0.png</string> <stringkey=orig_path_snipaste_2026-04-03_10-56.
+53.jpg.tb">file://docs/storage/Users/currentUser/Download/Snipaste_2026-04-03_10-56-53.jpg</string>
+5<string
+Kev
+password
+hash">217sr94g01679u39</string>
+<stringkey="salt">ygwpy+rJx82gRZucjoB16w==</string? </preferences>

@@ -1,0 +1,19 @@
+# OCR: Pasted_image_20260511171534.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511171534.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+出刘洋pc.E01>
+口三序号 1?2
+三标题过滤
+Chrome浏览器>·
+@下载记录
+三URL 过滤
+1Password8.11.14.exe Typor1.9.3-x64-CN.7z
+https://down.wsyhn.com/23375844
+https://developer2.lanrar.com/file/?AGYFO1loVWRR...
+三保存位置过滤
+C:\Users\刘洋\Downloads)1Password8.11.14.exe C:Usersl刘洋Downloads/Tvpor1.9.3-x64-CN.7z
+三结束时间起始
+结束
+2026-04-19 21:39:47

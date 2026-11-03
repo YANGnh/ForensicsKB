@@ -1,0 +1,31 @@
+# OCR: Pasted_image_20260415231247.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415231247.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249
+250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278
+// Token: 0x0600002B RID: 43 RVA: 0x00003094 File 0ffset: 0x00001294
+private static bool Mi6spCUvppp4DtgyuvMzJhDBJseVBG9zeD8clkQXdScZVgnMViFJzIwncYfWRaCuUsOdarWmSOuW4ndY5RkKqmDAG78O
+try
+using (object obj = new ManagementObjectSearcher("Select * from win32_ComputerSystem"))
+using (object objectValue = RuntimeHelpers.GetObjectValue(NewLateBinding.LateGet(obj, null, "Get", new object[o], null, null, null)))
+try
+foreach (object obj2 in ((IEnumerable)objectValue).
+object objectValue2 = RuntimeHelpers.GetObjectValue(obj2)
+string text = NewLateBinding.LateIndexGet(objectValue2， new object[] { "Manufacturer"J， nuli).ToStringO.ToLower)
+if (Operators.Comparestring(text，"microsoft corporation"， false) != o
+O.ToUpperInvariantO Contains("IRTUAL")）
+if (!text.Contains("qemu")）
+I !NewLateBinding.LateIndexGet(objectValue2, new object[] { "Model" l, null).ToString
+if (Operators.Coparestring(NewLateBinding.LateIndexGet(objectValue2, new objectL)t"Model"J, null).ToStringO,"virtualBox", false)!= Q)
+continue
+return true:
+finally
+IEnumerator enumerator:
++
+(enumerator is IDisposable)
+(enumerator as IDisposable).Dispose()
+(Exception ex)
+catch
+return false:

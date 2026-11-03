@@ -1,0 +1,48 @@
+# OCR: Pasted_image_20260416112919.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260416112919.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+NoahTie@ArkD/F/M/volatility3ongit:Fdevelop
+>python vol.py -f D:\倩倩的PC内存\DEsKT0P-39430KD-20260403-014746.dmp --filters "pid,7348" windows.netscan Volatility3Framework2.28.1
+Progress:
+offset
+100.00
+Proto
+0x900a61313150 0x900a69b0f140 0x900a69b13600 0x900a69b13600 0x900a6d517260 0x900a6d517260 0x900a6f865a20 0x900a6f9aaa20
+LocalAddr
+UDPV4 UDPV4 UDPV4 UDPV6 UDPV4 UDPV6 TCPV4 TCPv4
+0.0.0.0 0.0.0.0
+PDB scanning finished
+LocalPort
+@@
+0.0.0.01
+@ 0
+0.0.0.0 0
+:
+0
+192.168.111.14 192.168.111.14
+******
+64713 51156
+ForeignAddr
+0 0 0 0 0 0
+208.95.112.1
+ForeignPort
+7348 7348 7348 7348 7348 7348 80
+156.238.239.253 7000
+state
+Haimuniu VPN C HaimuniuPNC HaimuniuypNC Haimuniu_VPN_C Haimuniu_VPN_C Haimuniu_VPN_C
+CLOSE_WAIT SYN_SENT
+PID
+Owner
+Created
+2026-04-03 01:46:47.000000
+UTC
+UTC
+2026-04-03 01:46:47.000000
+UTC
+2026-04-03 01:46:47.000000
+2026-04-03 01:46:47.000000 UTC 2026-04-03 01:46:47.000000 UTC 2026-04-03 01:46:47.000000 UTC
+7348 7348
+HaimuniuyPN C Haimuniu_VPN_C
+2026-04-0301:46:47.000000UTC 2026-04-0301:48:06.000000UTC

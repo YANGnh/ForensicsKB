@@ -1,9 +1,9 @@
 {
     "_comment":  "本文件由 tools/build-index.ps1 自动生成，禁止手改",
-    "generated_at":  "2026-11-03T15:39:28+08:00",
+    "generated_at":  "2026-11-03T18:57:54+08:00",
     "kb_name":  "取证资料库",
     "kb_root":  "取证资料库/",
-    "doc_count":  60,
+    "doc_count":  63,
     "readme":  "README.md",
     "docs":  [
                  {
@@ -1360,6 +1360,33 @@
                      "chars":  14081
                  },
                  {
+                     "path":  "02-WriteUp/2026/2026-FIC-初赛/2026-FIC-初赛.md",
+                     "title":  "2026 FIC 初赛题解",
+                     "type":  "writeup",
+                     "category":  "",
+                     "competition":  "FIC",
+                     "year":  "2026",
+                     "stage":  "初赛",
+                     "mode":  "",
+                     "tags":  [
+                                  "FIC",
+                                  "手机取证",
+                                  "服务器取证",
+                                  "数据库取证",
+                                  "网络流量",
+                                  "APK分析",
+                                  "加解密"
+                              ],
+                     "images":  123,
+                     "ocr_covered":  123,
+                     "status":  "完整",
+                     "source":  "转载",
+                     "created":  "2026-11-03",
+                     "updated":  "2026-11-03",
+                     "summary":  "《2026 FIC 初赛》题解：覆盖计算机、手机、服务器与 APK 逆向，含 51 道题的答案与取证过程",
+                     "chars":  89857
+                 },
+                 {
                      "path":  "02-WriteUp/2026/2026-广西职业技能大赛-初赛/2026-广西职业技能大赛-初赛.md",
                      "title":  "2026 广西职业技能大赛 初赛",
                      "type":  "writeup",
@@ -1500,6 +1527,63 @@
                      "updated":  "2026-09-01",
                      "summary":  "《2026南宁团队赛》复盘：刘福荣诈骗案，围绕苹果手机 plist、Mac、群晖 NAS 与银行账单取证，关键点 Filevault 与 VeraCrypt",
                      "chars":  11580
+                 },
+                 {
+                     "path":  "02-WriteUp/2026/2026-盘古石杯-初赛/2026-盘古石杯-初赛.md",
+                     "title":  "2026 盘古石杯 初赛题解",
+                     "type":  "writeup",
+                     "category":  "",
+                     "competition":  "盘古石杯",
+                     "year":  "2026",
+                     "stage":  "初赛",
+                     "mode":  "",
+                     "tags":  [
+                                  "盘古石杯",
+                                  "手机取证",
+                                  "数据库取证",
+                                  "程序功能分析",
+                                  "磁盘取证",
+                                  "内存取证",
+                                  "服务器取证",
+                                  "加解密"
+                              ],
+                     "images":  219,
+                     "ocr_covered":  219,
+                     "status":  "完整",
+                     "source":  "转载",
+                     "created":  "2026-11-03",
+                     "updated":  "2026-11-03",
+                     "summary":  "《2026 盘古石杯 初赛》题解：手机、加密数据库、恶意程序与服务器取证，含 167 道题答案",
+                     "chars":  104645
+                 },
+                 {
+                     "path":  "02-WriteUp/2026/2026-平航杯/2026-平航杯.md",
+                     "title":  "2026 平航杯题解",
+                     "type":  "writeup",
+                     "category":  "",
+                     "competition":  "平航杯",
+                     "year":  "2026",
+                     "stage":  "",
+                     "mode":  "",
+                     "tags":  [
+                                  "平航杯",
+                                  "手机取证",
+                                  "服务器取证",
+                                  "磁盘取证",
+                                  "内存取证",
+                                  "网络流量",
+                                  "APK分析",
+                                  "程序功能分析",
+                                  "加解密"
+                              ],
+                     "images":  126,
+                     "ocr_covered":  126,
+                     "status":  "完整",
+                     "source":  "转载",
+                     "created":  "2026-11-03",
+                     "updated":  "2026-11-03",
+                     "summary":  "《2026 平航杯》题解：安卓与鸿蒙手机、鸿蒙逆向、API 服务器，含 68 道题答案",
+                     "chars":  47117
                  },
                  {
                      "path":  "03-理论知识/公安机关办理刑事案件电子数据取证规则.md",

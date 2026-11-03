@@ -1,0 +1,58 @@
+# OCR: QQ_1780999220569.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780999220569.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:38
+
+超级控制台
+首页系统三 基础文章漫画?视频?网址 2用户回模版生成空采集数据库品应用
+欢迎页面 8
+本日用户访问 0
+系统资讯
+口
+内存占用运行环境
+Cpu
+服务器IP/端口最大上传限制服务器日期 PHP版本
+THINKPHP版本程序版本
+近七日用户访问量
+0%
+指
+Ram
+本日入金总额
+0.00 Good
+49.17%
+1928.14MB/3921.35MB
+Linux ( nginx/1.26.3)
+192.168.0.140
+2M
+2026-06-09
+8.4.11 5.0.24
+2025.1000.4052
+磁碟空间占比? o
+仪表盘系统状态显示指南
+上次登录时间
+26.24%
+若您发现仪表盘上的 “系统资讯"(CPU、内存、硬盘) 显示为 0,通常是 PHP 环境配置所致。请依据您的服务器安全策略，参考以下方法调整php.ini设定。
+方法一：标准设定 (最简单)
+此方法可让所有资讯正常显示，请确保disable_functions设定中没有禁用
+以下函式： shell_exec
+disk_total_space disk_free_space
+方法二：高安全性设定
+如果您因安全考量必须禁用 shell_exec,并且同时启用了 open basedir, 请进行以下设定以显示 CPU 与内存资讯：
+禁用 shell_exec: 在 disable_functions 中加入 shell_exec,
+放行/proc目录：在open_basedir的路径中，额外加入/proc/。这允许程式在无法执行指令时，转而读取核心资讯档案。
+范例 (请将 /var/www/html/maccms 替换为您的实际网站路径): open_basedir = /var/www/html/maccms/: /tmp/:/proc/
+重要提示：修改 php,ini 后，请务必重启 PHP-FPM (或 Apache)服务, 设定才会生效，
+@ MacCMS All Rights Reserved.
+更新
+近七日用户注册量 o
+o
+操作
+上次登录IP 0.0.0.0
+用户注册量0%
+注册用户数 ■已审核用户数
+简体中文
+包
+?
+其它 42,166 42,166
+2026-06-03-2026-06-09
+■日訪周量

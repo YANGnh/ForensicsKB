@@ -1,0 +1,68 @@
+# OCR: Pasted_image_20260414123551.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414123551.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+文件
+视图
+品
+C AuthPage
+导航
+e ChangePassword
+@ Dashboard@FileList
+工具
+业
+插件
+出
+f pkgName@entry Object f isCommonjs Object
+Q
+fhasTopLevelAwait Object f isSharedModule Object f scopeNames Object
+f moduleRecordIdx Object
+帮助
+@
+m #*#(Object, Object, Object) Object m #*#^i(Object,Object,Object)Object
+m #~@o<#getEntryName(Object, Object, Obje m #r@o=#FileList(Object, Obiect, Obiect, m #~@o>#FileIcon(Object, Object, Object, m #~@o>#aboutToAppear(Object, Object, Obj m #~@o>#aboutToBeDeleted(Object, Object, m #~@o>#encryptAndstore(Object, Object, 0 m #~@o>#files(Object, Object, Object) Ob m #~@o>#files^l(Object, Object, Object, 0  m #r@o>#getFileType(Object, Object, Objec m #~@o>#importFile(Object, Object, Object m #~@o>#initialRender(Object, Object, Obi m #~@o>#isLoading(Object, Object, Object) m #~@o>#isLoading^1(Object, Object, Objed m #r@o>#loadFiles(Object, Object, Object) m #~@o>#purgeVariableDependenciesOnElmtId m #~@o>#rerender(Object, Object, Object) m #~@o>#restoreAndDelete(Object, Object, m #~@o>#setInitiallyProvidedValue(Object, ㎡ #~@o>#updateStateVars(Object, Object, 0 m #~@o>@1*#(Object, Object, Object, Objec  m #~@o>@2*#(Object, Object, Object, Objec  m #~@o>@3*#(object, Object, Object, Objec  m #~@o>@3*#^1(obiect, Obiect, Obiect, Obi ㎡ #~@0>@3*#^2(Object, Object, Object,Obj m #~@0>@3*#^3(Object, Object, Object, Ob
+问题：
+e9错误
+口
+@Filelist
+292 293 294 295 296 297 298 299 300 301 302 303 34 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320
+321 322
+323 324 325 326 327 328 329 330
+331 332 333 334 220 代码
+X
+*entry-default - ABC-Decompiler
+/* ABC-DECOMPILER WARN: Type inference faiLed for: rOv5 *//* ABC-DECOMPILER WARN: Type inference faiLed for: rov8 */
+口
+/* ABC-DECOMPILER WARN: Type inference failed for: r5ve, types: [&entry/src/main/ets/pages/FileList&] */
+/* ABC-DECOMPILER WARN: Type inference faiLed for: r7v19, types: [int] *//* ABC-DECOMPILER WARN: Type inference faiLed for: r7v23, types: [int] */
+public Object #~@o>#getFileType(Object functionobject, Object newTarget, FileList this, Object argo) {
+replace = argo.replace(".tb","");
+split = replace.split(","): pop = split.pop():
+tolowerCase = ((0 != pop ? 1 : 0) == 0 1l (0 != pop ? 1 : 0) == 0) ? 0 : pop.tolowerCase()s istrue = istrue(tolowercase == true ? 1 : o):
+obj = toLowerCasej if (istrue =
+= null){
+obj = ""
+createarraywithbuffer = createarraywithbuffer(["jpg","jpeg","png","gif","webp"J): if(isfalse(createarraywithbuffer.includes(obj)== null)
+return "image"
+createarraywithbuffer2 = createarraywithbuffer(r"mp4","mov","avi","mkv"i):
+return isfalse(createarraywithbuffer2.includes(obj)) == null ? "video" : "file":
+public Object #@o>#isLoading"i(Object functionobject, Object newTarget, FileList this, Object argo) {
+obj = this.isLoadingj return obj.set(argo):
+1
+x
+public Object #~@o>@3*^6*^1*#^1(Object functionobject, Object newTarget, FileList this, Object argo, Object argi){
+obj = Image.createj
+obj2 = createobjectwithbuffer(r"id", 16777225,"type", 20000,"params", 0,"bundleName"
+"com.koishi.fpt","moduieName","entry"J);
+obj2.params = [object]: obj(obj2):
+Image.width(64): Image.height(64):
+return Image.opacity(4596373779694328218):
+public Object #~@o>@3*^6*^1*#^2(object functionobject, Object newTarget, FileList this, Object argo, Object argi)(
+Text.create("暂无加密文件")：
+Text.fontColor("#999"): return Text.fontsize(16):
+了
+指令和IR
+Simple
+Fallback
+ Split view

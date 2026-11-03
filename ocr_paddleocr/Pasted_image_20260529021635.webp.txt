@@ -1,0 +1,81 @@
+# OCR: Pasted_image_20260529021635.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529021635.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+3:45
+A
+影视热播
+com.livevideo.hotclub.MainActivity
+登录/注册
+全网独家资源每日更新
+注册即送VIP体验·邀请好友得永久会员
+推荐 HOT
+最新
+热门 12:34
+【热门】高颜值女主播深夜
+32.1w次播放 HD
+15:07
+【VIP】网红模特私拍写真
+45.3w次播放
+国产 HD
+直播
+白
+动漫 08:21
+【独家】学生情侣自拍流出
+18.7w次播放 HD
+22:45
+【新片】酒店偷拍合集系列
+12.9w次播放
+器
+应用大小
+总览内置脚本
+743.79 KB 自定义脚本
+自动生成
+详细信息内存漫游手动导入
+20260529021252G 暂无描述
+20260425145921B 暂无描述
+20260425144852P callandroidx.lifecycle.lo
+证据编号静态权限
+Native方法注册指定进程
+20260425134239F
+第三方服务
+20260529021252G
+网络数据包
+创建时间
+[2026-05-2902:15:001Agentinjectedandrespondsok!
+2026-04-25 13:42:40 动态监控
+显示时间
+「2026-05-2902：15：001native方法注册监测任务开始，任务ID：485535[2026-05-29 02:15:001 Running a startup command... android bypass
+「2026-05-2902：15：001环境检测绕过任务开始，任务ID：546798「2026-05-2902：15：001安卓脚本任务开始，任务ID：341180
+[2026-05-29 02:15:001[INF01fridaRegstNtvl:hello,i am 1oaded[2026-05-2902:15:001handle:0x7638925f4600
+[2026-05-2902:15:001register:0x76389232ba20 f2026-05-29 02:15:001 run custom script..
+[2026-05-29 02:15:001
+源码分析
+堆栈信息
+==== class:com.livevideo.hotclub.collector.DataUploader
+====methods:0x7638714f8530nMethods:2
+[2026-05-2902:15:001
+敏感信息
+清空　打开日志文件
+Frida脚本搜索
+◎停止脚本 Q个
+[2026-05-29 02:15:00][INFo][fridaRegstNtv]:name:getBackupEndpoint,signature:（)Ljava/lang/String;,fnPtr:0x763912e40020,mod ulename:base.0dex->base:0x763875d10000offset:0x9d130020
+[2026-05-29 02:15:00] [INF0][fridaRegstNtv]:name: getCommKey, signature: ()Ljava/lang/String;,fnPtr:0x763912e40040, modulename:base.0dex->base:0x763875d10000.offset:0x9d130040
+[2026-05-2902:15:001Launching127.0.0.1:9112onf162ffdb-e183-44c7-8e3f-31d56ad12e49[2026-05-29 02:15:01] Registering job 485535. Type: android-registerNativeMethod-watch[2026-05-29 02:15:01] Registering job 546798. Type: android-bypass-job
+[2026-05-29 02:15:01] Registering job 341180. Type: other-custom-androidScriptJob[2026-05-29 02:15:021
+====class:com.android.webview.chromium.DrawGLFunctor
+[2026-05-29 02:15:021
+====methods:0x76388de6fbe0nMethods:3
+[2026-05-2902:15:02][INFo][fridaRegstNtv]:name：nativeCreateGLFunctorsignature:(J)J,fnPtr：0x76388de6d460,modulename:1ib webviewchromium.so->base:0x763877353000.offset:0x16b1a460
+[2026-05-29 02:15:02][INFo][fridaRegstNtv]:name:nativeDestroyGLFunctor,signature:(J)v,fnPtr:0x76388de6d520,modulename:1i ibwebviewchromium.so->base：0x763877353000，offset：0x16b1a520
+[2026-05-29 02:15:02］[INFo][fridaRegstNtv]:name:nativeSetChromiumAwDrawGLFunction,signature:(J)V，fnPtr:0x76388de6d530,mod
+dulename:1ibwebviewchromium.so->base:0x763877353000,offset:0x16b1a530[2026-05-29 02:15:021 ==== class: com.android.webview.chromium.GraphicsUtils
+[2026-05-29 02:15:021
+====methods:0x76388de6fc50nMethods:2
+[2026-05-2902:15:021「INF0iTfridaRegstNtv1:name:nativeGetDrawSwFunctionTable,signature:（)J,fnPtr:0x76388de6d730,modulenam me:1ibwebviewchromium.so->base:0x763877353000,offset:0x16b1a730
+[2026-05-2902:15:021
+[TNFoiTfridaRepstNtvl:name:nativeGetDrawGlFunctionTable.signature:()l.fnPtr:0x76388de6d760,modulenam
+一正在调用函数：com.livevideo.hotclub.collector.Datauploader.getBackupEndpoint
+2026-05-290215:031 返回值：无返回值
+com.livevideo.hotclub.collector.DataUploader.getBackupEndpoint函数调用结束

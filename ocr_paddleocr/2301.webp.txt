@@ -1,0 +1,23 @@
+# OCR: 2301.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/2301.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+zaoqiwang@zaoqiwang:
+X
+Usage of /:38.2% of 18.53GB
+Swapusage:
+0%
+Usersloggedin:1
+Strictlyconfined Kubernetes makes edge and IoT secure.Learn how MicroK8s just raised the barfor easy,resilient and secure K8sclusterdeployment.
+https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+ExpandedSecurityMaintenanceforApplicationsisnotenabled. 13updatescanbeappliedimmediately.
+To see these additional updates run: apt list --upgradable
+EnableEsmAppstoreceiveadditionalfuturesecurityupdates. See https://ubuntu.com/esm or run: sudo pro status
+Thelistofavailableupdatesismorethanaweekold. To check for new updates run: sudo apt update
+Failed to connect to https://changelogs.ubuntu.com/meta-release-lts. Check your Internet connection or proxy settings
+Lastlogin:FriApr314:30:512026from192.168.146.1 zaogiwangazaogiwang:~$redis-cli
+127.0.0.1:6379>AUTHzjjcxy OK
+127.0.0.1:6379> GET webhook config:default
+X
+"{"enabled\":true,|"platforms|":[{\"type|":|"dingtalk|""name\"|"\xe9\x81|xbf|xe9\x9b\xb7\xe4|xb8\x80\xe4\xb8\xaa|xe5

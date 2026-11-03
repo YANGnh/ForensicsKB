@@ -1,0 +1,81 @@
+# OCR: Pasted_image_20260414133919.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414133919.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+010 Editor - C:Users/NoahTie/Desktop/fpt-default-signed/docslstoragelUsers/currentUser/Download/139346145_p0.png
+Fle  Edit. vault prefs*
+58:3D00 58:3D10 58:3D20 58:3D30 58:3D40 58:3D50 58:3D60 58:3D70 58:3D80 58:3D90 58:3DA0 58:3DB0 58:3DCO 58:3DD0
+Variables
+Select
+Find
+View
+Format
+139346145 p0.png x
+9A DB 94 82
+EC 23 A4 63 5
+BO E
+9B AC
+03BA 44
+43 E3
+24 D4
+4 08 0
+54
+4
+D
+09 40 TE
+24 FO
+0
+Scripts
+B
+8E
+66 6C 61
+67
+BE
+00
+Templates 5e
+00
+00
+00
+Debug Project
+Tools
+AB
+E
+EE
+7B 68 617070 79 5F
+6E
+66 6F 72 65
+73 69 6373 5F 32 3032 36 21
+7D
+Name
+> chunk[701 > chunk[702] > chunk[703] > chunk[704] > chunk[705] > chunk[706] > chunk[707] > chunk[708]
+1: Variables
+Inspector
+Value
+IDAT (Critical,Public, Unsafe to Copy) IDAT (Critical, Public, Unsafe to Copy) IDAT (Critical, Public, Unsafe to Copy) IDAT (Critical, Public, Unsafe to Copy) IDAT (Critical,Public, Unsafe to Copy) IDAT (Critical, Public, Unsafe to Copy) IEND (Critical, Public,Unsafe to Copy)
+Window He?
+ABCDE
+flagthappy
+forensics 2026!1
+Start
+5780FAh 57A106h 57C112h 57E11Eh 58012Ah 582136h 583DA9h
+583DB5h
+(hap (Ancillary, Private, ERROR RESERVED, Safe to ...
+ Output
+ Find Results
+& Find in Files
+? Compare
+Help Size
+200ch 200ch 200ch 200ch 200ch 1c73h
+Ch oh
+® Type
+struct PNG C... struct PNG C... struct PNG C... struct PNG C... struct PNG_C... struct PNG C... struct PNG C... struct PNG C...
+Color
+moy
+Comment
+la Histogram =E Checksum  Process mou Disassembler
+Pos: 5782965 [583DB5h] Val: 102 66h Size: 5,782,992
+Hex UTF8 LIT
+口
+x
+曾 OVR

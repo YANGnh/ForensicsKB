@@ -1,0 +1,40 @@
+# OCR: QQ_1780900405337.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780900405337.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+一
+YA
++
+新建
+音乐桌面
+NoahTie 此电脑
+%
+本地磁盘 (C)
+ Data (D:)  Storage (E:) 本地磁盘 (S:) 本地磁盘 (T) 本地磁盘 (U: 本地磁盘 (V
+= 本地磁盘 (Y)  本地磁盘 (Z9) 库
+E.
+5入项目
+G
+X
+此电脑
+（
+卧
+名称
+.hidden
+202603121310.mp4 202603121311.mp4
+>
+Bob-2.1.0.Applmage I get token linux
+本地磁盘(Y)
+回
+ 排序
+查看
+修改日期
+2026/4/14 7:03 2026/4/14 4:52 2026/4/14 4:52 2026/4/17 2:06 2026/4/14 2:55
+在本地磁盘（Y)中搜索
+X 0
+详细信息
+类型
+HIDDEN 文件
+MP4文件 MP4文件
+APPIMAGE 文件文件

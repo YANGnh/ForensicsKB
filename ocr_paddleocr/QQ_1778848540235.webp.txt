@@ -1,0 +1,30 @@
+# OCR: QQ_1778848540235.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778848540235.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+rootepue-node1:/etc# puecn status Cluster information
+Name:
+Config Version: Transport:
+Secure auth:
+pgscup2026 3
+knet on
+Quoruminformation
+Date: Muorum Nodes:
+prouider:
+Node ID: Ring ID: Quorate:
+FriMay1520:35:092026
+corosync_votequorum 0x00000001
+1.d6 No
+Votequorum information
+Expected uotes:
+3 3
+Highest expected: Total uotes:
+Quorum： Flags:
+2 Actiuity blocked
+Membership information
+Nodeid
+0x00000001
+Votes Name
+192.168.0.50（10ca1）
+rootepve-node1:/etc#

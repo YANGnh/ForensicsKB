@@ -1,0 +1,38 @@
+# OCR: Pasted_image_20260519130723.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260519130723.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+··
+·
+54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78
+79 88 81 82 83 84 85·
+86·
+87
+pbkdf2_sha256(v6,v7,aJinripinsalt,14,10000,&v19,32):(*a1)->ReleasestringUTFChars(al, a3, v6);
+v8=veorq_s8(v19,(int8x16_t)xmmword175o):
+v9 = veor_s8(vzip1_s32(*(int32x2_t *)v21, *(int32x2_t *)&v21[5]), (int8x8_t)0x274BAA7C466B50E0LL).n64_u64[0] v10 =veor_s8(
+(int8x8_t)vmovl_u8((uint8x8_t)__PAIR64_(*(unsigned int *)&v21[4], *(unsigned int *)&v21[9])).n128_u64[o](int8x8_t)0x27006B004100F1LL).n64_u64[0]:
+v8.n128_u64[0] = vorr_s8((int8x8_t)v8.n128_u64[0], (int8x8_t)vextq_s8(v8, v8, 8u).n128_u64[0]).n64_u64[0]: V11 = v9HIDWORD(v9)((v9HIDWORD(v9))>> 16):
+v12 = v8.n128_u64[0] / HIDWORD(v8.n128_u64[0]) /((v8.n128_u64[0] / HIDWORD(v8.n128_u64[0])) >> 16):
+int8)(v12
+vi3 = (unsigned
+v11
+BYTE1(v11) vie
+BYTE4(V10)
+(((unsigned int)v10 / HIDWoRD(v10)) >> 16)
+BYTE1(v12) V20A0xD1 V22A0xB5 v23A0x4C v21[4]];
+v14 :
+emutls_get_address(&unk_1oFDo):
+if （!vi3 ）
+*(WORD *)(v14 + 8) = 0xABB4:*(_BYTE *)(v14 + 10) = 0;
+*( QWORD *)V14 = 0xADBF5DA08EBF4CA3LL;
+_emutls_get_address(&unk_1oFFo)=10;
+*( DWORD *)
+android_log_print(3, (const char *)v14, "pIN verification successful"): return (_BYTE *)(&dword_0 + 1):
+_QWORD *)V14 = 0xB5B2A6AFBBBABDLL;
+emutls get address(&unk 10FFo) = 7;
+*（_DWORD *）
+android log print(6, (const char *)v14.
+verification failed"):
+PTM

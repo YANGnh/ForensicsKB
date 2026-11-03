@@ -1,0 +1,21 @@
+# OCR: Pasted_image_20260415230505.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415230505.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+// Token: 0x04000006 RID: 6
+pub1ic static string 156.238.239.253, 66.175.239.149, 185.117.249.43 = "b71P9DKXK17yU4FBIMvdZYYT7qlogMGVrgjUqWnzqLxMXw3GIeVZpids5gIz2YZu":// Token: 0x04000007 RID: 7
+public static string p08q6qNnLm4fCqa8BS11NER15uTDBZgAWkfW1ZX3KpXlwgeUFAf1Ith2cfaw:// Token: 0x04000008 RID: 8
+public static string 7000 = "3qBjH4yDUHjhZBxWK56eYw==" f Token: 0x04000009 RID: 9
+public static string <123456789> = "P/4B29PWaJ6Raw+51xox2A=="// Token: 0x0400000A RID: 10
+public static string <Xwormm> = "fwWlgXiXMU7EFmHRUHk3Jw=="// Token: 0x0400000B RID: 11
+public staticintp1HLccZBgEiXLJPWR7MGHfAQxfHFJa5xiOmYnMrdibNvTE2zD9nLEldT7zb=3:// Token: 0x0400000c RID: 12
+public static string Default = "TowG+clOR3RBmATvJwUFKQ=="// Token: 0x0400000D RID: 13
+public static string USB.exe = "iXEVYeoDw3lnYYF2ts9aUQ=="// Token: 0x0400000E RID: 14
+public static string %AppData% = "gcbmRCfQRwasaegNUl/NvQ=="// Token: 0x0400000F RID: 15
+public static string WmiPrvSE.exe = "sJHKF5x7k.jxy85oLMym05A=="// Token: 0x04000010 RID: 16
+public static string DhMybcleyUJ8bZbaqtAkL3FTz6SQ84OxELBsFWt9yekNCVYQiWgRtjLibTF3 ="8xTJoEKPuiQsJVaT"// Token: 0x04000011 RID: 17
+public static string djSjX4g3ZiY9oWtEDqE4AIPXzEggM2a7otIQxazKObKkclG4XXQIEuFFvZi = Interaction.Environ("temp") + ",Log.tmp"// Token: 0x04000012 RID: 18
+public static string bclg2a4jgxmslng5khwvzkt9pechms2ghff42s5g = "11Bb1XligHdlzfZIV8Z0jL3MzbCo6zP7QWx7R9nEvuQbIA25kxWNjjY8WYEY+Xh1"// Token: 0x04000013 RID: 19
+public static string 0x10cE3E5678f40f0B94A2fB5003f04012ecA407C5 = "ILqlreLnyJdhfez8kYLyBYJr+EjguBMQ6n4dPjgAia6wJGxs5SWbzuMPh1LUk/Ig"//Token:0x04000014RID:20
+public static string TRC20_Address = "6I60HSsPViAp3nyv10YEEQ=="

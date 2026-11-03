@@ -1,0 +1,21 @@
+# OCR: Pasted_image_20260528181952.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260528181952.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:34
+
+C 刷新
+导出列表
+检材2-手机.tar
+2026-04-2516:34:46(2 Q
+关键字-乘坐飞机去(2
+新建任务三序号
+口1 口2
+三文件名过滤 todo.db todo.db
+三偏移等于 3AF8h 3B27h
+三内容过滤
+2026.06.06乘坐飞机去dubai！M 2026.06.06乘坐飞机去dubai8%
+三命中编码
+过滤 utf8 utf8
+园
+三命中关键词过滤
+乘坐飞机去乘坐飞机去

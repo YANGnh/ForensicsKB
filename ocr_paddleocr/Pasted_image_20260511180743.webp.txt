@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260511180743.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511180743.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
++无标题.png-IrfanView FileEditImage
+ViewHelp
+Options
+?
+atAM?
+IrfanView
+C:\hlnet)6-1778389403)liuyang_pc.E01)分区8(BaiduNetdiskDownload) 无标题.png : Decode error !
+Invalid or unsupported PNG file.
+确定
+No file loaded (use File->Open menu)
+X
+0
+X

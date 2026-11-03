@@ -1,0 +1,133 @@
+# OCR: Pasted_image_20260511181440.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511181440.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+010 Editor-D:\CaseFiles\FileOutput无标题.png
+File
+Edit
+Select
+无标题,png ×
+0:0000 0:0010 0:0020 0:0030 0:0040 0:0050 0:0060 Q:0070 0:0080 0:0090 0:00A0 0:00B0 0:00C0 O:00DO 0:00F0 O:00F0 0:0100
+Variables
+Find
+View
+89 50 4E 47 0D 0A
+0007
+13 00
+80
+00.00.00
+Format
+000004 0
+38
+67 414D 41
+00
+00
+04
+0009 28
+6E 00 3
+63 74 65 34 68 67 2D
+Name > sig
+ chunk[0]
+length >type Vihdr
+width
+6D 30
+34 52 74 2F 73
+height bits
+2E 3F
+6 3 79
+00 6
+46 0 39 6E
+00 39 74
+01 6F
+6D 78 2F 39 61
+00 87 62 63
+O b 65 6D 2F 2F 78
+00 69 65 6B 60
+OA 74 60 30 2D
+Scripts
+Templates
+G
+00
+08 B1
+OE 54 2E 65
+62 6E
+32 6E
+Value
+06 00 8F C2 58 78 74 3D
+7 2日 73
+00
+OD 00
+e
+49 00
+OB FC
+00 74 6D 20
+3A 3D 22 3A 2E 32 23
+00 58 70 62
+3E 32 22
+IHDR (Critical, Public, Unsafe to Copy)
+13 IHDR
+1920 x 1080 (x8)
+1920 1080 8
+colortype AlphaTrueColor (6)
+1: Variables Copied: 4 bytes
+Inspector
+季 Qutput
+Find Results
+61 OE 4D 00 65
+6D 3C 64 33 2D 3E
+48 E8
+05 C2 4c 00 6 4D 53 70 64 72 66 2E 72 3C
+oh 8h 8h Ch
+Find in Files
+Debug AB
+44
+52
+D3 00
+C 00
+00
+00 01
+3A 00 69 30 A 6D 6F 64 3D 6F 64 72
+63 00 6E 4D 6B 65 62 66 22 72 66 64
+start
+10h 10h 14h 18h 19h
+Project
+Tools
+Window
+123456789ABCDEI.PNG........ IHDR
+...8.....
+. gAMA
+.....a.
+.iTxtXML:c
+om.adobe.Xmp... <?xpacket begin
+id="W5MOM
+pCehiHzreSzNTczk c9d'?>. .<x: xmpme
+ Xmlns : X="adob ta
+e:ns:meta/"><rdf
+RDE
+Xmins:rdf="
+http://www.w3.or g/1999/02/22-rdf syntax-ns#"><rd
+Size
+8h 19h 4h 4h Dh 4h 4h 1h 1h
+?
+Type
+Help
+Color
+struct PNG SI... struct PNG C... uint32
+union CTYPE struct PNG C...
+uint32 uint32 ubyte
+enum PNG C...
+Compare
+Text
+Lla Histogram =E Checksum
+Start: 20 r14hl Sel: 4 [4h]
+Comment
+mou
+口
+ Processmov Disassembler
+Size: 208,289
+Hex
+UTE8 LIT
+x
+皖 OVR
+x A

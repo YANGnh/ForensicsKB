@@ -1,0 +1,18 @@
+# OCR: Pasted_image_20260528181917.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260528181917.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:34
+
+g
+爵检材2-手机》
+口拦序号口4 口5 口6 07
+S
+三用户常用词
+过滤 dubai 乘坐
+乘坐飞机飞机去
+日用户词库
+搜狗输入法>
+拦使用频率
+等于 1 1 1 1
+>
+过滤

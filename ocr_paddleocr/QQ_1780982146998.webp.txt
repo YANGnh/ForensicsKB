@@ -1,0 +1,41 @@
+# OCR: QQ_1780982146998.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780982146998.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+反检材3-1.E01X
+ubuntulogin:mac(automatic login)
+Linux ubuntu 6.12.73+deb13-amd64#1SMPPREEMPT_DYNAMICDebian6.12.73-1（2026-02-17)x86_64 X.0rg X server 1.21.1.16
+X Protocol version 11, Revision
+Current 0perating System:Linux ubuntu 6.12.73+deb13-amd64 #1 SMPPREEMPT_DYNAMIc Debian6.12.73-1 (2026-02-17) x86_64
+Kernel command line: B00T_IMAGE=/@rootfs/boot/vmlinuz-6.12.73+deb13-amd64 root=/dev/mdo ro rootflags=subvol=@rootfs quiet splash loglevel=3 rd.systemd.show_stat us=false rd.udev.log_level=3
+xorg-server2:21.1.16-1.3+deb13u1(https://wuw.debian.org/support) Current version of pixman: 0.44.0
+Before reporting problems,check http://wiki.x.org to make sure that you have the latest version.
+Markers:(--) probed,(**)from config file,(==)default setting
+(++)from command line,(!!)notice,(II)informational
+(Ww)warning,(EE)error,(NI)notimplemented,(??)unknown
+(==)Logfile:"/var/log/Xorg.@.log"
+,Time:TueJun901:14:53 2026
+==)using system config directory"/usr/share/x11/xorg.conf.d' vMware: No 3D enabled (, Success)
+vMware: No 3D enabled (, success)
+xinit: connection to X server lost
+waitingforXservertoshutdown(II)Serverterminated successfully(o).closinglogfile
+mac@ubuntu：~$ls mac@ubuntu:~$ cd
+mac@ubuntu:/home$cd mac@ubuntu:/$1s
+bin boot
+cata db
+Cey etc
+home
+initrd.img
+mac@ubuntu:$ uname-a
+initrd.img.old lib
+1ib64 media
+mnt opt
+proc root
+run sbin
+sry sys
+tmp usr
+var
+vmlinuz
+vmlinuz.old
+Linuxubuntu 6.12.73+deb13-amd64#1 SMPPREEMPT_DYNAMICDebian6.12.73-1(2026-@2-17)x86_64GNu/Linux mac@ubuntu:/$

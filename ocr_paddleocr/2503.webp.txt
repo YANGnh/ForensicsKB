@@ -1,0 +1,30 @@
+# OCR: 2503.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/2503.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+5）
+zaoqiwang@zaoqiwang:"66265"
+"outputTokens'
+6)"4028"
+7)"cacheCreateTokens"
+8） 9） 10) 11) 12)
+""
+"cacheReadTokens""403904"
+"allTokens""474197"
+13）"ephemeral5mTokens"
+14）
+"o"
+15)"ephemeral1hTokens" 16）0"
+127.0.0.1:6379> ZRANGE apikey:idx:createdAt 0 -1 WITHSCORES
+1 2
+"b599638c-3891-45da-9afc-95bb119a5059""1775041867535"
+3)"bf714f8c-ebd8-4b23-a201-f9d690246ea8"
+"1775043933191" 4
+"96162713-8dd4-4786-bfa2-4997c9526cbe" 5）
+6） 7 8 9 10 11)
+"1775127462267"
+"4ea8c00d-b6f0-4794-811f-62453dae81c8""1775127485042"
+"0e55de3f-309b-46cf-b96d-beb2d558db7b""1775127615193"
+"9596f9a8-0bd2-4c6b-8d97-c862a0b9d478"
+12）"1775177111694" 127.0.0.1:6379>

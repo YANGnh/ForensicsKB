@@ -1,0 +1,27 @@
+# OCR: Pasted_image_20260511182123.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511182123.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+g
+刘洋pc.E01>
+口三序号
+口1 口2 口3 口4 5 口6 7 8 口9?10
+三标题过滤
+Edge浏览器>
+7z2600-x64.exe
+Everything-1.4.1.1032.x... FoxmailSetup_7.2.25.54...
+ChromeSetup.exe 1Password.rar
+123云盘客户端-v2.1.3-. 百度网盘客户端-7.36.0... 1Password_824632.zip 46ebc8f4b625734cc894... 1Password_pj_v7.3.712_...
+下载记录
+三URL 过滤
+https://github.com/ip7z/7zip/releases/download/26... https://www.voidtools.com/Everything-1.4.1.1032.x86... https://www.foxmail.com/win/download
+https://dl.google.com/tag/s/appguid%3D%7B8A69D... https://apid.kxdw.com/sdown/49949/
+https://developer2.lanrar.com/file/?VzFRbwAxAzlDCI... https://developer2.lanrar.com/file/?BmAGOAs6VGUH... https://yddown3.jb51.net/202204/tools/1Password%... https://pkgdown.down.pkgdowns.com/20250612/46... https://d3.itmopcdn.com/down3/1Password_pj_v7.3....
+三保存位置过滤
+C:\Users|刘洋\Downloads\7z2600-x64.exe
+在下载记录中
+C:Users)刘洋)Downloads\Everything-1.4.1.1032.x86-S... C:Users\刘洋\Downloads\FoxmailSetup_7.2.25.542.exe
+C:Users)刘洋\Downloads\ChromeSetup.exe C:/Users\刘洋\Downloads)1Password.ra
+C:\Users)刘洋\Downloads\123云盘客户端-v2.1.3-Gree.. C\Users\刘洋\Downloads\百度网盘客户端-7.36.0.3-M.. C:\Users|刘洋\Downloads\1Password_824632.zip
+C:\Users)刘洋\Downloads\46ebc8f4b625734cc89448c.. C:\Users刘洋\Downloads/1Password_pj_v7.3.712_itm..

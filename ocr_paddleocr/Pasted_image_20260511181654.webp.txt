@@ -1,0 +1,136 @@
+# OCR: Pasted_image_20260511181654.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511181654.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+公
+三序号口1 口2 口3
+liuyang-pc.E01/分区6/Users/刘洋/Pictures
+三名称过滤
+Screenshots (3)
+desktop.ini 无标题png
+无标题.png-IrfanView(Zoom:1084x610)
+File
+Edit
+Image
+Options
+View
+010 Editor便满版·DABaiduNetdiskDownload/无标题png
+文性(F
+SE)
+EEIS
+无标题pngx
+00000001
+7414D41 65
+53
+结果-PNG.bto
+名牌
++sig
+V chunk[0] length >typt vihdr
+height bits
+color.type
+compr_method filter_method interlace_method
+V chunk[]
+length >type >srgb CrC
+chunk[2]
+格式Io
+值
+本
+IHDR (Critical, Pu.
+13 IHDR
+1920 x 1080 (x8)
+1920 1080
+EIL 开始
+品 8h
+10h 10h 14h 18h
+AlphaTrueColor (6)  19h
+Deflate (0)
+1AH
+Adaptivefitering (0) 1Bh
+No
+erlacelo
+1CH
+E8D3C143H
+1Dh
+sRGB (Ancillary, P.. 21h
+21h
+SRGB
+AECE1CE9H
+25h 29h 24h
+gAMA (Ancilary, . 2Eh
+定4个享书(围：20[14h]】到23[17hl 19°℃
+大能聘期
+Help
+56.2 v
+调试(D)
+8h 19
+Dh 4h 4h Th 1h 1h 1h 1h 4h Dh 4h 4h 1h 4h 10h
+日P
+工Am
+iff:orientatio
+大小
+类型
+struct PNG SI... struct PNG C uint32
+union CTYPE struct PNG C.
+uint32 uint32 ubyte
+enumPNGC
+PNGG enum PNG_Fl.
+nPNG_IN. uint32
+ItPNGC uint32
+union CTYPE struct PNG C uint32
+struct PNGC.
+1920x1080x32BPP1/1
+203.74 KB / 7.91 MB
+56.%
+色文本
+价
+出
+M 注择
+Q提摄
+?
+2026/4/20/22:54:15
+三扩展名过滤
+txt png
+c
+司
+回
+o
+三类型文件夹文件文件
+Q
+三大小等于
+504 B
+203.73...
+创建时间
+起始
+结束
+Y
+2026-04-1923:29:51 2026-04-1921:00:52 2026-04-2022:54:14
+开20（14hl定4[4h
+大小208.285
+A
+三访问时间
+起始
+在
+结束
+2026-04-20 22:56 2026-04-2100:25 2026-04-2100:22
+口
+工作区
+文件专打开的文件
+无标题pngDrv 顶目
+收菌的文性最后的文结通的的立
+工作区检查器
+类型
+进制
+有号字节无符号字节有符号型无符号短型有号器型无符号整型有等号Int64 无符号Int64
+源点数双精宽半净点数字事
+DOSDATE DOSTIME FILETIME OLETIME 手检面片
+x + 路
+00000000 939786240 939786240 6632369291. 6632369291. 3.147125e-05 3.27682581.
+00:00:00
+01/08/1601，
+十六进制HANSI小菱
+G英
+ x
+免要
+22-53
+2026/4/20

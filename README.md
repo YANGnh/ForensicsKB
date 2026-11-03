@@ -1,6 +1,6 @@
 # 取证资料库
 
-个人电子数据取证笔记的整理版：**比赛复盘（WriteUp）+ 取证技巧/工具速查 + 法律法规/题库**，共 60 篇 Markdown + 3,465 张图片（约 184 MB）。全部本地存储，Obsidian 可直接作为 vault 打开；AI 代理可直接读取检索。
+个人电子数据取证笔记的整理版：**比赛复盘（WriteUp）+ 取证技巧/工具速查 + 法律法规/题库**，共 63 篇 Markdown + 3,933 张图片（约 217 MB）。全部本地存储，Obsidian 可直接作为 vault 打开；AI 代理可直接读取检索。
 
 - 源数据：`取证笔记/`（原始文件夹，只读，未修改）——2026-09 已由用户主动移出归档，本库为迁移后的工作副本
 - 机器索引：`index.json`（由 `tools/build-index.ps1` 生成，禁止手改）
@@ -42,7 +42,7 @@
 
 ## 给 AI 的使用说明
 
-1. **优先用检索工具**：`.\tools\search.ps1 <关键词>` 一次搜完 60 篇正文 + 3,465 张截图 OCR（`ocr_paddleocr/`），可用 `-Type` / `-Competition` / `-Year` / `-Stage` / `-Tags` 过滤，`-List` 只看命中哪些文档。命中截图时会回指所属文档；若提示“有 N 篇语料未入索引”，先跑 `.\tools\build-index.ps1`。
+1. **优先用检索工具**：`.\tools\search.ps1 <关键词>` 一次搜完 63 篇正文 + 3,933 张截图 OCR（`ocr_paddleocr/`），可用 `-Type` / `-Competition` / `-Year` / `-Stage` / `-Tags` 过滤，`-List` 只看命中哪些文档。命中截图时会回指所属文档；若提示“有 N 篇语料未入索引”，先跑 `.\tools\build-index.ps1`。
 2. 先读本 README，再读 `INDEX.md` 或 `index.json` 选择目标文档（`02-WriteUp/README.md`、`01-取证技巧/README.md`、`03-理论知识/README.md` 是分区导航）。
 3. 检索策略：按 `type` 过滤（writeup / technique / reference / training / quiz）→ 按 `competition`/`year`/`stage` 或 `tags` 过滤 → 打开文档。
 4. 文档内图片为相对路径（相对 md 所在目录），按需打开查看；截图内容先查 `ocr_paddleocr/` 同名文本（Umi/PaddleOCR），再决定是否看图（L2 视觉层）。
@@ -70,7 +70,7 @@
 
 ## git 版本管理（本地仓库 + GitHub 远程，2026-09-01）
 
-仓库位于本目录，文本（md/json/ocr_paddleocr/脚本）普通入库，**图片由 Git LFS 管理**（见 `.gitattributes`）：PNG 已压缩为 WebP q90（视觉无损，241.9MB→约120MB），JPG 原样保留，共 3,465 个文件约 184MB。
+仓库位于本目录，文本（md/json/ocr_paddleocr/脚本）普通入库，**图片由 Git LFS 管理**（见 `.gitattributes`）：PNG 已压缩为 WebP q90（视觉无损，241.9MB→约120MB），JPG 原样保留，共 3,933 个文件约 217MB。
 
 ```bash
 git add -A && git commit -m "说明改了什么"   # 改完一批笔记就提交一次（存档）
@@ -83,11 +83,11 @@ git checkout -- <文件>                      # 误改后恢复该文件
 
 ## 当前状态（2026-11-03）
 
-- ✅ 60 篇全部带 frontmatter / H1 / 统一图片语法（2026-10-29 新增 `03-理论知识` 4 篇：3 部法规原文 + 342 道客观题题库；2026-09-01 新增《2026广西职业技能大赛》初赛/决赛个人赛/决赛团队赛 3 篇，其中团队赛含 docx/pdf 转换，已完成清理与人工校对，status=完整）
-- ✅ 索引：INDEX.md + index.json（60 篇；图片 3,465 张 / 3,490 处引用；index.json 为标准 JSON，可直接被 python/jq 解析）
+- ✅ 63 篇全部带 frontmatter / H1 / 统一图片语法（2026-10-29 新增 `03-理论知识` 4 篇：3 部法规原文 + 342 道客观题题库；2026-09-01 新增《2026广西职业技能大赛》初赛/决赛个人赛/决赛团队赛 3 篇，其中团队赛含 docx/pdf 转换，已完成清理与人工校对，status=完整）；2026-11-03 新增《2026 FIC 初赛》《2026 平航杯》《2026 盘古石杯 初赛》3 篇转载题解
+- ✅ 索引：INDEX.md + index.json（63 篇；图片 3,933 张 / 3,961 处引用；index.json 为标准 JSON，可直接被 python/jq 解析）
 - ✅ 目录：`02-WriteUp/` 已按「年份/文档名/」归档，36 篇 md 与 3,439 张图片各自独占目录，正文引用保持裸文件名、零改动
 - ✅ 分区导航：`02-WriteUp/README.md`（年份 × 文档名）+ `01-取证技巧/README.md`（主题 × 文档简介）+ `03-理论知识/README.md`（法规/题库），随索引自动重建
-- ✅ 图片 OCR：3,465 张图统一使用 `ocr_paddleocr/`（Umi-OCR/PaddleOCR；无文本图写“无可用文本”标记）；检索直接查该目录，查询做 NFKC/中文空格归一化。
+- ✅ 图片 OCR：3,933 张图统一使用 `ocr_paddleocr/`（Umi-OCR/PaddleOCR；无文本图写“无可用文本”标记）；检索直接查该目录，查询做 NFKC/中文空格归一化。
 - ✅ 工具链：`tools/search.ps1` 全文检索（正文 + 截图 OCR，支持元数据过滤；会提示未入索引的语料）；受控词表 `tools/tag-vocabulary.json` 由体检校验；`build-index.ps1` 改为扫描三个语料目录（不再依赖手工清单），缺 frontmatter 直接报错终止
 - ⚠️ 待办：`2024-国赛-复盘.md` 因正文有损乱码已从语料排除（原始文件随 `取证笔记/` 一并移出归档，重录后可通过 `tools/new-writeup.ps1` 重新纳入）；若干转载文缺失原图（已注释标记）；个别 `status=待完善` 文档答案留白待补；关键截图 caption/kind 标注（L3 增强，可选）
 - 📌 已完成：git 本地版本管理 + GitHub 私有远程（见上节"git 版本管理"）

@@ -1,0 +1,26 @@
+# OCR: Pasted_image_20260413104526.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413104526.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+Z：》1-手机》倩倩的手机》备份》{}.info.json》（BackupFileVersionlnfo
+"BackupFileHeaderInfo":↓"backupVersion": 1,
+"deviceModel": "nova 12 Pro"
+"productModel":"ADA-ALoo""deviceId": "default"
+"selectDatasize":1321720596,
+9 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+23 24 25 26 27 28 29 30 31 32 33 34 35
+"autoBackup": false,
+"backupTime":1775199531416."specialBundles":［
+"contact""calllog"
+"ispc": false
+"BackupFileVersionInfo":
+"versioncode":"60000380""versionName": "6.0.0.380
+"BackupFileTypeInfo": {"encryptionType": 2.
+"backupKey":"AAAADAAAABAAAAAAFcyADarh2bIqFQe4NWoQjyBBRJCArNRxGgAP4eaJ1Q +PfqeBIcFPTrOrJrQM+myfMy38izXZFas="
+"backupSalt":"7E2AFbo1BoD6a/Kuewrt7hP0s6Hkp9Ltn5fcAVISr/c="
+"backupIv":"FcyADarh2bIqFQe4NWoQjw=='"backupReminder":"
+"BackupFileModuleInfo":
+moduleName":"1301""recordTotal": 0,
+"encryptionSalt"："f6/37/+pBU19bEvRqt9MndEYQi5+isPLbs7H91JVzBU="encryptionIv"："InjnVFKqowuBRiJ4ioopZQ==
+"bundleDatasize": 102400,"bundleVersionCode": 0,"bundleVersionName":

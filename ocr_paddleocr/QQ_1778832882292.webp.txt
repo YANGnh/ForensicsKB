@@ -1,0 +1,15 @@
+# OCR: QQ_1778832882292.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778832882292.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Message Summary
+Data
+均值(%)
+Info
+Result 1 Result 2
+标准差
+17.3433
+5.7945
+变异系数CV
+0.3341

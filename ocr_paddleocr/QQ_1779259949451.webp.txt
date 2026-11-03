@@ -1,0 +1,21 @@
+# OCR: QQ_1779259949451.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779259949451.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:55
+
+数据库取证工具
+数据查询 D
+默认排序
+Q请输入表名过滤总表数：56
+V 2.9.3.3276
+实例1（D:\CaseFiles... O
+昆方案管理关联数据库
+jinqin
+查询方案 1 ×
+目保存方案
+SELECT COUNT (*) FROM userS; 查询结果
+COUNT(*) 21679
+查询成功
+服务管理 500条/页
+三-X 开始查询
+设置列

@@ -1,0 +1,53 @@
+# OCR: Pasted_image_20260529014912.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/Pasted_image_20260529014912.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:35
+
+resources.arsc:/res/values/styles.xml >
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37
+k?xml version="1.0" encoding="utf-8"?> <resources>
+resources.arsc:/res/values/strings.xml
+<string name="abc_action_bar_home_description">Navigate home</string> <string
+name="abc_action_bar_up_description">Navigate up</string>
+<string name="abc_action_menu_overflow_description">More options</string>
+<string
+name="abc_action_mode_done">Done</string>
+<string「
+name="abc_activity_chooser_view_see_all">See all</string>
+<string
+name="abc_activitychooserview_choose_application">Choose an app</string>
+<string <string <string
+name="abc_capital_off">oFF</string> name="abc_capital_on">oN</string>
+name="abc_menu_alt_shortcut_label">Alt+</string>
+<string
+name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+<string <string
+name="abc_menu_delete_shortcut_label">delete</string> name="abc_menu_enter_shortcut_label">enter</string>
+<string
+g name="abc_menu_function_shortcut_label">Function+</string>
+<string
+name="abc_menu_meta_shortcut_label">Meta+</string>
+<string
+name="abc_menu_shift_shortcut_label">Shift+</string>
+<string
+name="abc_menu_space_shortcut_label">space</string>
+<string <string <string
+name="abc_menu_sym_shortcut_label">Sym+</string>  name="abc_prepend_shortcut_label">Menu+</string> name="abc_search_hint">Search...</string>
+<string name="abc_searchview_description_clear">clear query</string>
+<string <string
+name="abc_searchview_description_query">Search query</string> name="abc_searchview_description_search">Search</string>
+<string
+name="abc_searchview_description_submit">Submit query</string>
+<string
+name="abc_searchview_description_voice">Voice search</string>
+<string
+name="abc_shareactionprovider_share_with">Share with</string>
+<string「
+name="abc_shareactionprovider_share_with_application">Share with %s</string>
+<string <string
+name="abc_toolbar_collapse_description">Collapse</string> name="androidx_startup">androidx.startup</string>
+<string name="config_seed">hotclub_2o26_sec</string> <stringl
+name="search_menu_title">Search</string>
+<string <string
+name="status_bar_notification_info_overflow">999+</string> name="support_email">dev_zheng@protonmail.com</string>
+</resources>

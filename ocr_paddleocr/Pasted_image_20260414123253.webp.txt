@@ -1,0 +1,76 @@
+# OCR: Pasted_image_20260414123253.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414123253.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+文件
+视图
+品
+C AuthPage
+导航
+e ChangePassword
+eDashboard@FileList
+工具
+业
+插件
+出
+f pkgName@entry Object. f isCommonis Obiect
+Q
+f hasTopLevelAwait Obiect f isSharedModule Object f scopeNames Object
+f moduleRecordIdx Object
+帮助
+@
+m #*#(Obiect, Obiject, Obiect) Obiect  ㎡ #*#^1(Object,Object,Object)Object
+m #~@o<#getEntryName(Object, Object, Obje m #~@o=#FileList(Object, Object, Object, m #~@o>#FileIcon(Object, Object, Object, m #@o>#aboutToAppear(Object, Object, Ob m #r@o>#aboutToBeDeleted(Object, Object m #r@o>#encryptAndStore(Object, Object,  m #~@o>#files(Object, Object, Object) Ob m #~@o>#files^l(Object, Object, Object, 0  m #r@o>#getFileType(Object, Obiect, Objec m #~@o>#importFile(Object, Object, Object m #~@o>#initialRender(Object, Object, Obi m #~@o>#isLoading(Object, Object, Object) m #~@o>#isLoading^1(Object, Object, Objec  #~@o>#loadFiles(Object,Object,Object) m #~@o>#purgeVariableDependenciesOnElmtId m #@o>#rerender(Object, Object, Object) m #~@o>#restoreAndDelete(Object, Object, m #~@o>#setInitiallyProvidedValue(Object, ㎡ #~@o>#updatestateVars(Object, Object, 0 m #~@o>@1*#(Object, Object, Object, Objec m #~@o>@2*#(Object, Object, Object, Objec m #~@o>@3*#(Object, Object, Object, Objec m #~@0>@3*#^1(Obiject, Object, Obiject, Obi ㎡ #~@0>@3*#^2(Object, Object, Object, Obj m #~@0>@3*#^3(Object, Object, Object, Ob
+问题：
+e9错误
+个
+口
+@Filelist
+427 428 429
+430 431 432 433 434 435
+436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456
+457 458 459 460 461 462 463
+464 465 466 467 468 460 代码
+备
+*entry-default - ABC-Decompiler
+newobjrange = Uint8Array(resumegenerator3.size):
+fs3 = import  default as fs  from "@ohos:file.fs":
+口
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, fs3.read(
+resumegenerator2.fd, newobjrange.buffer))):
+resumegenerator4 = resumegenerator(asyncfunctionenter):
+if ((1 == getresumemode(asyncfunctionenter) ? 1 : 0) != 0) {
+throw(resumegenerator4):
+fs4 = import  default as fs 1 from "@ohos:file.fs";
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, fs4.close(
+resumegenerator2))):
+resumegenerator5 = resumegenerator(asyncfunctionenter):
+if ((1 == getresumemode(asyncfunctionenter) ? 1 : o) != 0) {
+throw(resumegenerator5):
+el = import { el 1 from"@normalized:N&&&entry/src/main/ets/a/d&":
+a2 = el.a2(newobjrange, resumegenerator): split - argo.split("/"):
+pop =split.pop(): i2 = pop
+if (istrue(pop) == null) {
+i2 ="file"+ Date.now() i3 = " + i2 + ".tb":
+i5 = import  i 1 from"@normalized:N&&&entry/src/main/ets/a/b&";
+x
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, i5.j(i4, a2))): resumegenerator6 = resumegenerator(asyncfunctionenter):
+if ((1 == getresumemode(asyncfunctionenter) ? 1 : 0) = 0) (
+throw(resumegenerator6):
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, getInstance.put
+("orig_path_" + i3 + "", argo)));
+resumegenerator7 = resumegenerator(asyncfunctionenter);
+if ((1 == getresumemode(asyncfunctionenter) ? 1 : 0) = 0) (
+throw(resumegenerator7):
+try
+fs5 = import { default as fs 1 from "@ohos:file.fs";
+suspendgenerator(asyncfunctionenter, asyncfunctionawaituncaught(asyncfunctionenter, fs5.unlink(
+argo))); 指令和IR
+resumegenerator8 = resumegenerator(asyncfunctionenter):
+if ((1 == getresumemode(asyncfunctionenter) ? 1 : 0) != 0) {
+throw(resumegenerator8):
+1 catch (ExceptionIo unused)
+Simple
+Fallback
+ Split view

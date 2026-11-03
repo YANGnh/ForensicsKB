@@ -1,0 +1,57 @@
+# OCR: QQ_1780919923583.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780919923583.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+@ UFS Explorer Professional Recovery - version 10.11.1 [64 bit]
+ProfessionalRecovery
+HEX
+DriveO:FixedYMT...
+YMA51TORA...
+FAT32partition
+NO NAME
+Ms Reserved parti...Microsoft re...
+NTFS partition NTFS partition
+Basic data p...
+Basic data p...
+Drive1:FixedPCIe...STx2501070.. Ms Reserved parti... Microsoft re..
+NTFSpartition
+Data
+Drive2:Removable...60QOP4PWT
+NTFSpartition 检材3-2.E01
+FAT32partition SWAPpartition
+volum-root-segoo... root-data-seg002... 检材3-1.E01
+volum-root-segoo... root-data-seg001... root-data
+Btrfscomponent... volum-root
+stripecomponen...
+mac:0
+Btrfspartition
+Storage NO NAME
+4C4B754434.. 6173785064. 880F205730...
+Open 953.87GB
+2048 206848 239616
+1998565..
+34 32768 2048 2048 393216 8206336 66799616
+4096 58595328
+67584 67584
+100.00MB 16.00MB 952.88GB 900.06 MB 1.86TB 15.98MB 1.86TB 931.51GB 931.51GE 60.00GB 190.01MB 3.72 GB 27.94GB 28.14GB 60.00 GB 27.94 GB 32.06 GB 60.20 GB 60.17GB 55.88GB 55.84GB 116.01GB 116.01GB
+Refresh
+RAID
+ToolsDiskimage
+Storage properties
+Btrfs volume
+@rootfs  [root] fset-9 history
+ 4 objects in directory
+About AB
+Name
+@rootfs[root] fset-9 history
+Btrfs volume (sector 0 on mac:0)
+HEX
+Date
+ENG
+X Type
+File folder File folder File folder File folder
+Quickfind
+Size
+口
+x

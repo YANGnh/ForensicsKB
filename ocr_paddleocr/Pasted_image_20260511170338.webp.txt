@@ -1,0 +1,20 @@
+# OCR: Pasted_image_20260511170338.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511170338.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+g
+出刘洋pc.E01>用基本信息>系统信息
+口三序号口9 口10 口11 口12 口13
+三名称过滤产品ID
+当前版本号
+当前Build版本号
+处理器内存
+三英文名称过滤
+OS_PRODUCT_ID
+C_VERSION VERSION CPU
+MEMORY
+三值过滤
+00330-80000-00000-AA427 10
+26100.1742
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2... 4G

@@ -1,0 +1,24 @@
+# OCR: Pasted_image_20260413155909.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260413155909.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:41
+
+三序号口9 □10 11 口12 口13
+早起王的PC镜像
+三名称过滤产品ID
+当前版本号
+当前Build版本号
+处理器内存
+基本信息》
+系统信息三英文名称
+Y
+过滤
+OSPRODUCTID
+CVERSION VERSION CPU
+MEMORY
+Y
+三值过滤
+在系统信息中搜索
+00391-80000-00001-AA468 10
+19045.6466
+13thGenInte|(R)Core(TM)i9-13980HX 4G

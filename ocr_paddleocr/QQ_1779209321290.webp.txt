@@ -1,0 +1,27 @@
+# OCR: QQ_1779209321290.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779209321290.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:54
+
+rootopve-nodel:/var/log/ceph# journalctl -u ceph-monopve-nodel -n 2oo Apr 20 08:00:17 pve-node1 sudo[129348]:
+ceph : command not azlowed : PwD=/ usER=root : coMMAND=nvme vmware_virtual_ide_hard_drive smart-log-add --json /dev/sda
+Apr 2o 2o:o4:52 pve-node1 systemd[nl: stopping ceph-mon@dpve-node1.service - Ceph cluster monitor daemon...
+Apr 20 20:04:52 pve-node1 ceph-mon[1102]: 2026-04-20T20:04:52.727+0800 7fd388a096c0 -1 received signal: Terminated from /sbin/init (PID: 1) UID: 0
+Apr 20 20:04:52 pve-node1 ceph-mon[1102]: 2026-04-20T20:04:52.727+0800 7fd388a096c0 -1 mon.pve-node1@0(leader) e3 *** Got signal Terminated ***  Apr 20 20:04:52 pve-nodel systemd[n]: ceph-mon@pve-nodel.service: Deactivated successfulzy.
+Apr 20 2o:o4:52 pve-nodel systemd[nl: stopped ceph-mon@pve-nodel.service - Ceph cluster monitor daemon.
+Apr 20 2o:04:52 pve-node1 systemd[n]: ceph-mon@pve-node1.service: Consumed 14min 37.129s cPu time, 431.9M memory peak. Boot5bd20551447849b0ba16108bcec69615-.
+Apr 23 21:37:54 pve-node1 systemd[nl: Started ceph-mon@pve-node1.service - Ceph cluster monitor daemon
+Apr 23 21:37:55 pve-node1 ceph-mon[1108]: 2026-04-23T21:37:55.176+080o 73e75be65cc0 -1
+Apr 23 21:37:55 pve-node1 ceph-mon[1108]: 2026-04-23T21:37:55.176+0800 73e75be65cc0 Apr 23 21:38:00 pve-node1 ceph-mon[1108]: 2026-04-23T21:38:0o.176+0800 73e75be65cc0 -1 Apr 23 21:38:00 pve-node1 ceph-mon[1108]: 2026-04-23T21:38:00.177+0800 73e75be65cc0 -1 Apr 23 21:38:05 pve-node1 ceph-mon[1108]: 2026-04-23T21:38:05.178+0800 73e75be65cc0 -1 Apr 23 21:38:05 pve-node1 ceph-mon[1108]: 2026-04-23T21:38:05.178+080o 73e75be65cc0 -1 Apr 23 21:38:05 pve-node1 ceph-mon[11o8]: 2026-04-23T21:38:05.178+0800 73e75be65cc0 -1 Apr 23 2l:38:o5 pve-nodel systemd[nl: ceph-monopve-node1.service: Main process exited,
+1 systemd[a]
+Apr 23 21:38:05 pve-node1
+ceph-monopve-nodel.service:Failed with result
+Processor Processon Pnocesson Processor Processor Processor
+bind unable to bind to v2:192.168.17o.50:330o/o: (99) bind was unable to bind. Trying again in 5 seconds
+bind unable to bind to v2:192.168.170.50:3300/o: (99) bind was unable to bind. Trying again in 5 seconds
+Cannot assign reguested address Cannot assign reguested address
+bind unable to bind to v2:192.168.170.50:3300/0: (99)
+Cannotassignrequestedaddress
+bind was unable to bind after 3 attempts:(99)Cannot assign requested address
+unable to bind monitor to [v2:192.168.170.50:3300/o,v1:192.168.170.50:6789/o] code=exited, status=1/FAILURE
+exit-code'

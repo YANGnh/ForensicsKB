@@ -1,0 +1,35 @@
+# OCR: Pasted_image_20260414170507.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414170507.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+个
+RecoverFilePassword
+w
+日记.docx
+Folder FileType Protection Complexity MD5:
+Passwords:
+PASSWORDSFOUND 1
+PASSWORDSANALYZED 42
+Print
+C:>Users>NoahTie>Desktop
+Files
+Passwords Found
+Resources
+Tools
+Help
+Performance
+MS Office 20o7—Open Password, Hardwareacceleration possible, Instant Memory attack possible
+MicrosoftEnhancedRSAandAESCryptographicProvider,128bits....Brute-force-Slow
+A9BDF7F8A90B711A425D7160DEB9D2B6
+File-Open File-Modify
+TIMEELAPSED 2 seconds
+Save Job
+ZqW2004
+no password is set
+ORESUMEATTACKS
+Attacks
+SAVEREPORT
+口 Log
+VDONE
+x

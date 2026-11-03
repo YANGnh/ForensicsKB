@@ -1,0 +1,16 @@
+# OCR: Pasted_image_20260511173308.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260511173308.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:46
+
+g
+刘洋pc.E01>
+口三序号口1
+三登录URL 过滤
+·
+Chrome浏览器>保存的密码
+三账号过滤
+http://3w.jlzb.vip/login
+admin
+三密码过滤
+admin123

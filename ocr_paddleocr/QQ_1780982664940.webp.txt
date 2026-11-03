@@ -1,0 +1,12 @@
+# OCR: QQ_1780982664940.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780982664940.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+root@ubuntu:/#cat/etc/os-release
+PRETTY_NAME="DebianGNU/LinUx 13(trixie)"
+NAME="DebianGNU/Linux" VERSIONID="13"
+VERSION="13（trixie)" VERSION_CoDENAME=trixie DEBIANVERSIONEULL=13.0 ID=debian
+HoME_URL="https://www.debian.org/"
+SUPPoRT_URL="https://www.debian.org/support"
+BUG_REPORT_URL="https://bugs.debian.org/" nna+@hun+u./

@@ -1,0 +1,33 @@
+# OCR: QQ_1779094556736.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1779094556736.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:53
+
+1
+phone.Eo1>
+三序号口1 □2 3 口4 5 6
+口7 8 口9
+三名称过滤
+京东
+抖音极速版高德地图快手
+快手极速版抖音
+基本信息〉
+应用列表
+三包名过滤
+com.vivo.sosappwidget com.jingdong.app.mall
+com.ss.android.ugc.aweme.lite com.autonavi.minimap
+com.smile.gifmaker com.kuaishou.nebula com.okinc.okex.gp
+com.ss.android.ugc.aweme com.android.flysilkworm
+三版本名称过滤
+三应用分类*
+其他
+网络应用游戏娱乐其他
+图形图像图形图像其他
+图形图像其他
+三应用类型非系统(
+Y
+非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装) 非系统(非预装)
+三安装时间
+起始
+结束
+2020-12-2211:00:42 2020-12-2211:00:53 2020-12-22 11:02:33 2020-12-22 11:03:19 2020-12-22 11:01:11 2020-12-22 11:01:21 2020-12-22 10:40:16 2020-12-2211:02:16 2024-05-3117:01:28

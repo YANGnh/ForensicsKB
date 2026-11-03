@@ -1,0 +1,29 @@
+# OCR: QQ_1778776356455.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778776356455.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:51
+
+File
+UDisk.imgx
+Edit
+Select
+0:0000:0000 0:0000:0010 0:0000:0020 0:0000:0030 0:0000:0040 0:0000:0050 0:0000:0060 0:0000:0070 0:0000:0080
+Find
+EB 3C 90
+80 80
+40
+B2
+View
+Format
+o
+Scripts
+Templates@
+Debug AB
+Project
+Tools
+Window 9ABCDEI
+MSD055.0...
+XWA
+.HIDDEN
+T32
+3+6.V@.N..1..o.u

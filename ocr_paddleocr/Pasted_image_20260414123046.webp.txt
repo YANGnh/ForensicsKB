@@ -1,0 +1,40 @@
+# OCR: Pasted_image_20260414123046.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260414123046.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:42
+
+263 264 265 266 267 268 269 270 271 272 273 274 P75 276 277 278
+ABC-DECOMPILERWARN: ABC-DECOMPILER WARN:
+/* ABC-DECOMPILER WARN:/*ABC-DECOMPILER WARN:
+ inference failed
+Type
+for:
+Type
+failed
+inference:
+ri2v10
+r12v28
+for:
+Type
+ inference failed
+for:
+Type
+inference failed
+tor
+r12v38 r12v54
+types: types: types: types:
+intl */
+[obiect.
+[obiect.[int]
+*
+『int
+*
+inti
+public Object #ri2>#handleAction(object functionobject, Object newTarget, AuthPage this) {
+asyncfunctionenter = asyncfunctionenter(): try
+if ((this.password.length < 6 ? 1 : 0) != 0) {
+promptAction = import  default as promptAction } from"@ohos:promptAction";
+"密码长度至少为6位"1））
+promptAction.showToast(createobjectwithbuffer(["message" return asyncfunctionresolve(null, asyncfunctionenter):
+(isfalse(this.isProcessing) == null) { +
+return asyncfunctionresolve(null, asyncfunctionenter): this.isProcessing = 1;

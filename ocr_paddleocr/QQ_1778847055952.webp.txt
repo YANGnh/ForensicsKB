@@ -1,0 +1,133 @@
+# OCR: QQ_1778847055952.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778847055952.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:52
+
+Exterro FTK Imager 8.2.0.26 File View
+Mode Help Upgrade to PRO
+电电备 Evidence Tree
+由.pve-lvol0_pmspare[1024MB]
+由pve-data_tdata[6712MB] 由pve-data_tmeta[1024MB]
+由.pve-swap[2432MB] pve-root[8764MB」白-NONAME [ext4]
+白白［root] 由白 boot 由dey 由·白etc 白 home
+lost+found
+白 media 白mnt Bopt 白proc 由白root 由白run 白sry
+Properties 日Properties
+Name File Class File Size
+Physical Size Start Cluster Date Accessed Date Created Date Modified Actual File
+[root]
+Directory
+4,096 4,096 9,203
+2026/4/23 13:44:28 2026/4/16 12:04:04 2026/4/16 12:05:29 True
+ UNIX Security Attributes Unix Permissionsdrwxr-xr-x
+國 File List Name dev etc home
+?
+lost+found
+media mnt opt proc root run srv sys ■tmp usr var bin lib lib64 sbin
+00002
+00
+010 020 030 040 050 060 070 080 090 Oao obo Oco odo Oeo ofo
+oC 6C oC 76 OD 00 65 9F 10
+oC 70 06 oc 73
+00 6 00
+O o0 00 72 F7 00 72
+02 73 04 2
+63 or 05 05 03 6E 05 04 76
+C
+02 74 02 00 Oo 02 00 00 07 02 02 63 00 07 00
+2E 2B 63
+Oc OC 60 6F 06 00
+OB
+00
+2F 66
+or 69 65 70 EL 00 62 ED
+00 6F S
+62 4
+01 03 69 01
+02-2E 00-
+-0B
+75. oo
+00 0
+6F or 5
+00 60
+36-34
+69 00 00
+61-05 00
+72 02
+-14 6E-
+00-0C
+SizeType
+4,096 (4 KB) 4,096 (4 KB) 4,096 (4 KB)
+Directory Directory Directory
+Directory
+16,384 (16...
+Directory
+4,096 (4 KB)
+4,096 (4 KB)
+Directory
+Directory
+4,096 (4 KB)
+4,096 (4 KB) 4,096 (4 KB) 4,096 (4 KB) 4,096 (4 KB) 4,096 (4 KB) 4,096 (4 KB) 4,096 (4 KB)
+Directory Directory Directory Directory Directory Directory Directory
+4,096 (4 KB) Directory
+7 (1 KB) Symbolic ... 7 (1 KB) Symbolic ... 9 (1 KB) Symbolic ... 8 (1 KB) Symbolic ...
+00
+00
+00
+00 64 FL 00 69 00 00 60 00 00 F 00 75 FA 00
+00 00 01 03
+62 00 00 05 04 6E 03 03
+00 00 00 02
+00 02 00 00 00 00 02 00 00 02
+02 14 01 oC 6D 03 00 68
+04 05 oC 72 Al oC 73
+00 FT 00 6F F 00 6F o
+FD 00 6 01 00 79
+00 0A 05 03 74
+03 00 05 01 04 6F 00 03 73
+00 02
+00 02 00 00 02 65 00 00 00 02 74 00 02 00
+lost+found
+-boot -var.-u
+Date Accessed
+2025/11/18 19:0...
+Date Created
+Date Modified
+口
+2025/11/18 19:0...
+2026/4/16 12:04....
+2026/4/23 13:44:...
+2026/4/16 12:04:...
+2026/4/16 4:39:53
+2025/11/7 17:40....2
+2026/4/16 12:04...
+2025/11/7 17:40... 2026/4/16 12:04...
+2026/4/16 12:04....2026/4/16 12:04:... 2025/11/18 19:0...2026/4/16 12:04:...
+2025/11/18 19:0... 2026/4/16 12:05...
+2025/11/18 19:0...2026/4/16 12:04:...
+2025/11/18 19:0...
+2025/11/18 19:0...2026/4/16 12:04... 2025/11/7 17:40....2026/4/16 12:04:...
+2025/11/7 17:40... 2026/4/23 14:12...
+2026/4/23 13:58:...2026/4/16 12:04:...
+2026/4/16 12:04...
+2025/11/1819:0...2026/4/16 12:04...2
+2025/11/1819:0...2026/4/1612:04....2025/11/1819:0... 2025/11/7 17:40....2026/4/16 12:04...2
+2025/11/7 17:40...
+2026/4/23 13:37:...2026/4/16 12:04...2025/11/18 19:0... 2025/11/18 19:0...2026/4/16 12:04...2025/11/18 19:0... 2025/11/18 19:0...2026/4/16 12:04....2026/4/16 12:06.... 2026/4/23 13:37....2026/4/16 12:04....2025/11/7 17:40.... 2026/4/23 13:37...2026/4/16 12:04...2025/11/7 17:40... 2026/4/23 13:37.... 2026/4/16 12:04.... 2025/11/7 17:40... 2026/4/23 13:37... 2026/4/16 12:04... 2025/11/7 17:40....
+-mnt
+bin.-u.
+-der
+ete
+-home
+-lib.
+....1ib64..
+...-media...-y......opt.
+proc-y
+root
+run.i..
+..sbin -u.
+srv..y
+Cursor pos = 0; clus = 9203; log sec = 73624: phy sec = 5056408
+Listed: 20Selected: 0server01-disk01.E01/pve-root [8764MB]/NONAME [ext4]/[root]
+. -sys.
+x x

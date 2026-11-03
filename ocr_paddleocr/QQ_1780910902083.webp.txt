@@ -1,0 +1,28 @@
+# OCR: QQ_1780910902083.webp
+# 来源: ./02-WriteUp/2026/2026-FIC-初赛/QQ_1780910902083.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:37
+
+g
+1
+^检材1-计算机.E01>
+三序号 □1 □2 □3 口4 口5 口6 口7 □8 口9 □10 □11 □12 □13 □14
+三上次访问时间
+起始
+结束
+用户痕迹>
+WPS最近访问文档
+三名称过滤
+2026-04-1611:42:17 2026-04-1521:13:04 2026-04-1314:12:18 2026-04-1314:12:04 2026-04-1311:25:19 2026-04-1311:24:03 2026-04-1310:51:02 2026-04-1310:46:33 2026-04-1310:45:42 2026-04-1310:33:10 2026-04-1310:26:32 2026-04-13 10:09:12 2026-04-1119:00:42 2026-04-1118:53:04
+wakuang.wps 保险箱的秘密.et
+pass5.et pass6.et pass3.et pass1.et pass8.et pass6.et pass5.et pass8.et
+Normal.dotm 表格工作表.et
+清单.xlsm 清单.xlsx
+三路径过滤
+home\lha\Documents\wakuang.wps root)文档\zhongyao\保险箱的秘密.et
+root)文档\zhongyao\pass5.et root)文档\zhongyao\pass6.et rootl文档\zhongyao\pass3.et root)文档\zhongyao\pass1.et
+persistent)root)文档\zhongyao\pass8.et persistent)root/文档\zhongyao\pass6.et persistent/root/文档\zhongyao\pass5.et root/文档\zhongyao\pass8.et
+root).local/share\Kingsoftloffice6\template.. root\文档\表格工作表.et
+root\文档\清单.xlsm root\文档\清单.xlsx
+三归属用户
+过滤 Iha root root root root root root root root root root root root root

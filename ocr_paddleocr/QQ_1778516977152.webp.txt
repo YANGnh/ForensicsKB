@@ -1,0 +1,12 @@
+# OCR: QQ_1778516977152.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/QQ_1778516977152.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:48
+
+名称
+ System Volume Information 回收站
+dwarf2json-0.9.0.tar.gz 交易信息.ral
+修改日期
+2026/4/20 22:12 2026/4/20 22:13 2026/4/18 21:18 2026/4/20 19:19
+类型文件夹文件夹
+Bandizip.gz Bandizip.rar

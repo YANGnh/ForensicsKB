@@ -1,0 +1,20 @@
+# OCR: Pasted_image_20260518224829.webp
+# 来源: ./02-WriteUp/2026/2026-盘古石杯-初赛/Pasted_image_20260518224829.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:47
+
+Image.zip
++ + + + + + + + + + + + + + + + + + + + + +
++
+com.android.messaging
+com.android.providers.calendar com.android.providers.contacts com.android.providers.downloads com.android.providers.media
+com.android.webview com.baidu.BaiduMap com.baidu.searchbox
+com.crazy.money com.gotokeep.keep
+com.jinghong.notebookkssjh com.larus.nova
+com.meelive.ingkee com.quark.browser com.quark.clouddrive com.shark.jizhang
+com.socialchat.social_chat_app
+com.taobao.idlefish com.tencent.mm com.tencent.news
+com.wandoujia.phoenix2 com.wenying.notebook
+me.ele
+34712 4 5 6 1 5 4 7 5221 129 118 83 2213 120 6217 437 15 25 448 254 126 309 85
+115

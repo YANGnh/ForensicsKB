@@ -1,0 +1,17 @@
+# OCR: Pasted_image_20260415152902.webp
+# 来源: ./02-WriteUp/2026/2026-平航杯/Pasted_image_20260415152902.webp
+# 引擎: Umi-OCR 2.1.5 / PaddleOCR (config_chinese, limit_side_len=2880, multi_para)
+# 生成: 2026-11-03 18:43
+
+out.jpg - IrfanView (Zoom: 1098 x 1098)
+FileEditImage
+Options
+View
+Help
+X021Ve?
+eo同开机密码
+512x512x8BPP
+1/1
+214 %127.74 KB / 257.04 KB2026/4/15 / 15:24:28
+口
+x
