@@ -10,7 +10,7 @@ dujiaoka>.env
 APP_NAME=独角数卡
 2 6 8 9 10 11 12 13 14 15
 APP_ENV=local
-APP_KEY=base64:UudHxLyk7HqpUcTQ99p6NZMFxC7eInhkagTLks8oYfk= APPDEBUG=true
+APP_KEY=base64:xxx= APPDEBUG=true
 APpURL=http://xi11ka.com:31669
 LOG CHANNEL=StaCk#数据库配置
 DBCONNECTION=mySgI
